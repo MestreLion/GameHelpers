@@ -1,0 +1,48 @@
+     C O M P R E S S I O N   O F   S N E S   R O M S
+
+  Once upon a time, I decided to put Final Fantasy 7 into
+my CD-ROM. There wasn't too much of interest, but the DAT
+files in the FIELD directory caught my eye. They were the
+text to the game, but it was scrambled in areas. After
+months of staring at the screen I was able to figure it
+out.
+
+  More recently, I have been looking at various SNES ROMs
+which use compression. Each of these were compressed in a
+similar manner as Final Fantasy 7 had been. As such, I
+decided to write a document explaining it. For more
+information enter "LZW compression" into a search engine.
+
+  In this compression, an 8-bit value is used to determine
+the nature of the following groups of data. A value of 1
+indicated an uncompressed value. This means one byte is
+read from the input file and then written to the output
+file.
+
+  A value of 0 indicated a compressed value. This means
+two bytes are read, from which a pointer to previous data
+can be generated. The pointer contains the length of the
+data to be retrieved as well as the offset for it to be
+retrieved from. Since pointers aren't used for 1-2 byte
+values, a value of 3 is added to the length.
+
+  Here are some of the pointer formats I have seen:
+(On is the Offset's nth bit, Ln in the Length's nth bit)
+
+Dragon Ball Z - (One of the RPGs):
+O3 O2 O1 O0 L3 L2 L1 L0 | OB OA O9 O8 O7 O6 O5 O4
+
+Final Fantasy 7:
+O7 O6 O5 O4 O3 O2 O1 O0 | OB OA O9 O8 L3 L2 L1 L0
+
+Ogre Battle:
+L4 L3 L2 L1 L0 OA O9 O8 | O7 O6 O5 O4 O3 O2 O1 O0
+
+Record of Lodoss Wars:
+O7 O6 O5 O4 O3 O2 O1 O0 | O8 L6 L5 L4 L3 L2 L1 L0
+
+  If you think you know of a ROM that uses this
+compression, please e-mail me the title of the ROM.
+For quicker results, include the URL to a web site
+I can obtain the ROM from.
+                            CzarDragon@Yahoo.com

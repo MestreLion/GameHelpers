@@ -1,0 +1,131 @@
+
+        Minesweeper Guide
+ 
+        Daniel Silevitch
+
+The most important part of doing well in expert level 
+Minesweeper is continuity. The patterns and suggestions 
+listed here will be useful, but only if they are used 
+frequently enough to become second nature. A pattern file is 
+of no use for high scores if patterns must be looked up 
+before being used. The only way to achieve such continuity 
+is by constant practice. I've played Minesweeper for at 
+least 9 months, on a virtually daily basis, and I've watched 
+my score on Expert improve from 560 seconds to my current 
+best of 115 seconds.
+
+General strategy hints:
+
+ There are two types of information available in 
+Minesweeper; where there are mines, and where there are not 
+mines. If, from the arrangement of numbers, it is clear 
+where a mine must be, that is 1% of the way towards 
+finishing the game. If, on the other hand, there are 2 
+possibilities for the location of a mine, but there are 3 
+unopened squares, open the third: it might give you enough 
+information to locate the mine precisely.
+
+  Example    Key: |,+,-: Edge of board
+                  X,x  : Blank square (capital for emphasis) 
+  |....x          F    : Flag (located number) 
+  |F.F.x          #    : A specific number
+  |23x.x          .    : A non-specific number
+  |XXxxx
+  +-----
+
+It is clear that the two capital Xs represent the two 
+possible locations for the single mine needed to "fufill" 
+the 2 that borders the edge. Either of these locations would 
+also create 3 mines adjacent to the 3. This means that the 
+third mine next to the 3 is in one of two locations. 
+Therefore, it is safe to uncover the other blank squares 
+that the 3 abuts. It is possible that this will give some 
+extra information which can be used to solve the original 
+problem.
+
+If analysis fails due to completely insufficient 
+information, give up on the specific area and work on 
+another section instead of wasting time on something that 
+can't be solved. It is possible that work in a nearby 
+section will uncover additional information that will make 
+it possible to solve a once unsolvable region. If this does 
+not happen, and there is no way of distinguishing between 
+locations, guess, and guess quickly so as not to waste time. 
+The object of this guide is to allow you to reduce guessing 
+to a minimum, preferably 0.
+
+At the endgame, when there is usually a strip of unknown 
+composition running along one side of the board, a very 
+primitive analysis can be done regarding the number of mines 
+left. If there are 4 mines left in 40 blocks, there is a 
+large amount of white space, and certain border patterns 
+become more likely. With heavy densities, patterns that use 
+more mines become more probable. Note that this deals with 
+probabilities, not certainties, and is not recomended except 
+as a last resort to blind guessing. This means that if there 
+is an arrangement of mines on the last area that uses 5 
+mines and one that uses 8, checking the number of remaining 
+mines will give a higher probability of being correct than 
+random guessing.
+
+Patterns
+
+These are all arrangements of mines that have very specific 
+signatures in the numeric display. Some of the patterns I 
+have proven to be true, and others I have not attempted to 
+prove, but since they have consistently worked, they are 
+included here and their verity is assumed.
+
+I. Basic Line patterns   (see above for key)
+
+  ......             ......           ......
+  ..121.             .1221.           .232..
+  xXXXXX             XXXXXX           XXXXXx
+  xxxxxx             xxxxxx           xxxxxx
+     |                  |                |
+     V                  V                V
+  ......             ......           ......
+  ..121.             .1221.           .232..
+  x.F.F.             ..FF..           .FFF.x
+  xxxxxx             xxxxxx           xxxxxx
+
+II. Variations on Line patterns
+
+  ...F..    ...F...    ....F.   ..F...   ...F...
+  .132..    .1332..    .233..   .232..   ..343..
+  XXXXXx    XXXXXXx    XXXXXx   XXXXXx   xXXXXXx
+  xxxxxx    xxxxxxx    xxxxxx   xxxxxx   xxxxxxx
+    |          |         |         |         |
+    V          V         V         V         V
+
+  ...F..    ...F...   ....F.   ..F...    ...F...
+  .132..    .1332..   .233..   .232..    ..343..
+  .F.F.x    ..FF..x   .FFF.x   .F.F.x    ..FFF.x
+  xxxxxx    xxxxxxx   xxxxxx   xxxxxx    xxxxxxx
+
+III. Corner patterns
+
+ xX...      xX...    xX...
+ xX2..      xX2..    xX1..
+ xX52.      xX42.    xX42.
+ xXXXX      xXXXX    xXXXX
+ xxxxx      xxxxx    xxxxx
+   |          |        |
+   V          V        V
+
+ x....      x....    x....
+ xF2..      xF2..    x.1..
+ xF52.      xF42.    xF42.
+ xFFF.      x.FF.    xFFF.
+ xxxxx      xxxxx    xxxxx
+
+These are the basic patterns of mines that are formed by the 
+random number generator. There are other constantly 
+recurring patterns, but they are more complex, and are rare 
+enough that it is faster to approach them using standard 
+elimination strategy than to memorize the solution to the 
+specific patterns.
+
+
+Daniel Silevitch                         dmsilev@athena.mit.edu
+Massachusetts Institute of Technology

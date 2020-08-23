@@ -1,0 +1,46 @@
+Date: Fri, 21 Aug 1998 13:59:26 -0400
+
+FF7: Easiest Way to defeat Ruby
+
+Of all the methods I've read, this has got to be the simplest, safest, and
+least AP-consuming way to kill Ruby.  You don't even need the Masters!
+Here's all that you'll need:
+
+Required:
+- MASTERED Command Counter Materia paired with Mime
+  (NOT, I REPEAT, NOT THE COUNTERATTACK MATERIA.  THE COMMAND COUNTER IS A
+BLUE MATERIA)
+- Knights of the Round paired with HP Absorb
+- Enough HP and defense so you don't die in one hit.
+- High magic rating (200+)
+- Ribbon <-- very important
+
+Optional (but recommended so it doesn't take hours)
+- 2 Knights of the Round Charges
+- W-Summon
+- Master Summon paired with MP Turbo (on different slots than the regular
+KOTR one)
+
+Before you start the fight, kill off your other two party members.  When
+you start the fight, simply cast Knights of the Round (W-summon or
+without) on Ruby or the tentacles (doesn't matter).  Now go get a cup of
+coffee, come back in 10-20 minutes, and Ruby will be dead ^_^
+
+Everytime Cloud gets hit, he will automatically counter with KOTR and
+regain *tons* of HP (I kept getting more than 9999hp back).  How can you
+lose? :-)  How can it get any easier than this?
+
+This method will work against Emerald too, provided you have the
+Underwater Materia and a light set of Materia so Aire Tyre Dam doesn't do
+9999HP.  Also because you probably don't have the Master Summon you'll
+need a very very high Magic Rating because KOTR isn't Mp Turbo'ed.  I find
+it easier to do the well known KOTR-Mime-As-Fast-As-You-Can way to kill
+him... although you need a little luck.
+
+Terry Lin
+I do not want to receive e-mail about this FAQ.  It is self explanatory...
+thank you :)
+
+
+
+

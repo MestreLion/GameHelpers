@@ -1,0 +1,66 @@
+Updates:
+9/3/2000 Header added, bit order changed to "normal"
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+Which battle menu a character uses is determined by their character id. The
+character battle menus are five bytes long each and a table of them extends
+from 9FF50 to 9FFC2. Each byte designates a specific command such as 'Fight'
+or 'Ninja'. The bytes specify what command is in each menu position from top
+to bottom. The menus are associated with character ids starting with id 0
+(nonexistent character has a menu with nothing but 'Fight').
+
+Menu command names are also 5 bytes long. Their table extends from 7A9C6 to
+7AAFF. Each menu command also has a byte associated with it in a table that
+extends from 9FFC3 to 9FFDC indicating what it targets; this only affects the
+cursor, not the actual effects.
+
+bits 0-2: not used?
+bit 3: unknown
+bits 4-6:
+    000 N/A
+    001 one ally
+    010 all allies
+    011 one/all allies/enemies (defaults to allies)
+    100 one enemy
+    101 one ally/enemy (defaults to enemy)
+    110 all enemies
+    111 one/all allies/enemies (defaults to enemies)
+bit 7: not used?
+
+#  Name  Tg Comments
+-- ----  -- --------
+00 Fight 50 one ally/enemy
+01 Item  00 opens a sub-menu
+02 White 00 opens a sub-menu
+03 Black 00 opens a sub-menu
+04 Call  00 opens a sub-menu
+05 Dummy 60 all enemy (Dark Wave)
+06 Jump  58 one ally/enemy
+07 Dummy 60 all enemy (Remember)
+08 Sing  50 one enemy
+09 Hide  00
+0A Dummy 20 all allies (Medicine)
+0B Dummy 20 all allies (Pray)
+0C Aim   50 one ally/enemy
+0D Dummy 50 one enemy (Store)
+0E Kick  60 all enemy
+0F Dummy 00 (Endure)
+10 Twin  60 all enemy
+11 Dummy 00 (Strengthen)
+12 Dummy 60 all enemies (Cry)
+13 Cover 18 one ally
+14 Peep  58 one ally/enemy
+15 Dummy 60 (Unknown and unused command)
+16 Dart  50 one ally/enemy
+17 Sneak 50 one ally/enemy
+18 Ninja 00 opens a sub-menu
+19 Dummy 28 all allies (Spirit Wave)
+1A Chang -- Yes, this really is "Chang" in the ROM; I don't know where the e
+            gets put in.
+1B Parry --
+1C Show  --
+1D Off   --

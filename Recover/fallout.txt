@@ -1,0 +1,2140 @@
+Subject: Fallout FAQ (last revised 19-Dec-97)
+From: htimsc@moc.rric.pcuu.orobenots (Chris Smith)
+Date: Sat, 20 Dec 1997 14:16:12 GMT
+Newsgroups: comp.sys.ibm.pc.games.rpg,comp.sys.mac.games.adventure
+
+ ------------------------------------------------------------------------------
+			    F A L L O U T
+ ------------------------------------------------------------------------------
+
+		      Frequently Asked Questions
+			   19 December 1997
+	
+
+ --- Introduction -------------------------------------------------------------
+
+   I've enjoyed Fallout immensely, it's a great game, and read all the
+   netnews about it.  I put this together to organize and condense the
+   collected wisdom of the group.  Some of it anyway.  And indeed
+   there are some questions that get asked quite frequently.
+
+   I haven't attributed each individual paragraph, instead there's a
+   list of contributors at the end.
+
+   Hints that divulge information you may not have discovered yet
+   appear in the Spoilers section.  It's safe to read up to there.
+   The organization of that section owes a lot to Paul D. Smith's
+   excellent Relentless FAQ; hopefully you can find the answer to
+   something you're stuck on without learning things you don't want
+   to know.
+   
+   Comments, corrections, additions are welcome.  Post or mail.
+
+			  -- Chris Smith
+				csmith
+				  @
+		       stoneboro.uucp.cirr.com
+
+
+ --- General Hints ------------------------------------------------------------
+
+ The Oracle (sort of)
+   
+   The Overseer can provide help if you get stumped.  As they say
+   in the manual, save the game, and go back to Vault 13 and see what
+   he has to suggest.  He won't tell you how to solve particular
+   side quests but will provide guidance on the big picture.
+
+ Learning to Drive
+
+   How to use the interface to accomplish some task may not be clear
+   at first.
+
+   For example, say you want to tie a rope to something.  There are
+   two ways to do it.  First way: left-click on the object you want the
+   rope tied to and keep the button held down.  You'll be offered some
+   choices: look at, talk to, use, use inventory on, use skill on.
+   Pick the picture of your backpack -- use inventory on -- then choose
+   the rope from your inventory.  Second way: put the rope into one of
+   your "hands", the active item slots.  Click on the rope in your hand,
+   the cursor will turn yellow, click on the object you want to tie it to.
+
+   Another example.  Say you want to use a stimpak in combat to heal
+   some hit points.  Click INV to go to inventory, move the stimpak to
+   your free "hand", select that hand and click on the stimpak, the
+   cursor turns yellow, click on yourself.  Second way: click INV to
+   to go inventory, click and hold on the stimpaks, you'll be offered
+   choices including a hand -- use item.  Select that and you'll use
+   the stimpak.  You can then do this again to use another one, without
+   using any more action points, so this second method is preferable.
+   
+   To use a stimpak on someone else, see above about the rope.
+   To read a book or holodisk, click on it in inventory and hold,
+   and select the hand cursor.
+
+   That little screen in the bottom left is worth watching.  It will
+   often describe a room you just entered, or something that just
+   happened to you.  It gives a little beep when something appears there.
+   You can scroll it back and forward by moving your mouse to its top
+   or bottom half.
+
+   You can scroll through your inventory very rapidly with the arrow
+   keys.
+
+   When trading or moving items around, you can type in the desired
+   quantity on the keyboard instead of clicking the arrows. 
+
+
+ --- Combat -------------------------------------------------------------------
+
+   When you finish combat, reload your weapon and put it away.
+   Running out of ammo in the middle of a battle costs valuable time,
+   and many people will not be pleased if you walk up and talk to them
+   while pointing a gun.  (Don't put it in your pack, just switch hands.)
+   You can unload captured weapons to get their ammo.
+
+   Critical hits do much more damage than normal hits.  You're more
+   likely to score a critical hit using a targeted attack.  Difficult
+   spots are more likely to score criticals.  Eyes are the hardest to
+   hit and the most likely to do critical damage.
+
+   Do not crank the violence up if you want bodies to be easy to search.
+   Otherwise, when you blow someone to smithereens their inventory drops
+   to the ground and can be difficult to find.  There's no way to get that
+   kewl butcher-shop ambience and retain convenient looting.  If this
+   becomes a problem, avoid Bloody Mess and don't go above Normal violence.
+
+   (In fact, I myself turned the violence off, it's so very tasteful
+   that way, but this is a mistake if you find the alien blaster.
+   Minimal violence at least for that.)
+
+   If there is a pile of bodies in one spot, there will be little arrows
+   beneath the body picture to step through all the bodies in the pile.
+   In general if the information displayed seems to be incomplete (for
+   example, the Perk selection screen) there are scroll arrows nearby.
+   
+   If you annoy someone and they attack you, and you are able to 
+   knock them out without killing them, you can end combat and resume 
+   conversation.  Running away can avoid combat too, but they stay mad.
+
+
+ --- Bugs ---------------------------------------------------------------------
+
+   There are some minor spoilers here.
+
+   A patch is available, you can get it via Interplay's Fallout page
+     http://www.interplay.com/fallout
+   Both Windows and Mac version 1.1 exist.  If the links on the web
+   page are broken, you can read the needed ftp info off the page source.
+
+ Can't read the CD.
+    
+   Ask Interplay.  News traffic hasn't had much to say since mid October
+   and what there was is light on answers.
+
+ My party has two (or many) copies of the NPC's.
+
+   This is a bug in v1.0 only, and is fixed in the v1.1 patch.  
+   It has something to do with save/restore during combat.  If it has
+   happened to you, the only solution is to exit the game completely,
+   then load a saved game that does not have the problem.
+
+ It crashes when I try to save/restore.
+
+   Saved games can be really huge, make sure you have free disk space.
+   If space is tight, leave some of the save slots empty.
+   
+ Stealth Boy turns into Geiger Counter
+
+   Don't save the game when a Stealth Boy is turned on.
+   If you get turned into a permanent ghost, you can clear it by
+   putting another stealth boy in a slot and turning it on and off.
+
+
+ --- Character Creation -------------------------------------------------------
+
+   A design goal for this game was that "a big dumb strong ox and
+   a pretty little lady would not have the same overall experience."
+
+   The prerolled characters are all different and free of gotchas in
+   their statistics.  There's no need to roll your own character
+   unless you feel like it.  If you do want to, here are some thoughts.
+
+   Strength determines how much you can carry and what weapons you
+   can wield without penalizing accuracy.  See the weapons table.
+
+   Intelligence determines how fast your skills increase and what
+   dialog options you get.  Speech skill is how convincing you are.
+   Low intelligence characters face a very different game.
+
+   There is no value in raising your Endurance from an even number to
+   an odd number (extra poison and rad resistance are useless).
+
+   Lots of people recommend Agility 10 for gunslingers; you can shoot
+   twice per round with weapons that require 5 action points.
+
+   Another recommendation: tag Big Guns or Energy Weapons, and Repair.
+   Or at least do not neglect those skills.  But develop Small Guns
+   early on, it's more important.  Others feel Small Guns will get you
+   all the way through satisfactorily.
+
+   Another one: take Gifted and another trait, Finesse is one approach.
+   Don't start with stats at 10, they can all be increased by +1 during
+   the game.  Take Strength 5 and Intelligence 9, to have weapon choices
+   and to get skill points to offset those lost by Gifted.  Don't spend
+   skill points or tag skills on anything that you can get from books
+   instead.  EN 4  CH 6  LK 5  and Presence worked well.
+
+   The Sniper perk is improved by high Luck.
+
+   You can build the following skills with books: small guns, science,
+   repair, first aid, outdoors.  Perhaps tagging those is unnecessary.
+   Except maybe Small Guns.
+
+   More comments on attributes: ST 7 allows you to use any weapon in
+   the game.  PE high to get ranged attack bonus.  EN low, 2-3 hit points
+   per level won't save you from damage in the hundreds.  CH moderate,
+   4-6 does ok.  IN high, 9-10.  AG high, the most important combat stat.
+   LK 6 to get good combat perks.  Tag combat skills -- tagging such
+   things as Sneak, Science, Speech, Repair is worthless, you can do
+   well with about 50% in all non-combat skills.
+   
+   Specific characters people posted having good times with:
+
+    AG 9-10  IN 6+  LK 4  (Luck has an effect only at extreme values)
+     No traits, or just Heavy Handed
+     tag Small Guns, Lock Pick, and one of Energy Weapons, Science, Repair.
+    
+    Sniper:  PE 6  AG 10  IN 6  LK 6   Gifted, Finesse
+     tag Small Guns and Energy Weapons, build combat skills to 140%-160%
+     choose Bonus Rate of Fire, More Criticals, Better Criticals.
+
+    Sniper:  ST 4  PE 8  EN 3  CH 2  IN 10  AG 10  LK 10  Finesse, Gifted
+     tag Small Guns, Lockpick, Barter
+     work on speech skill if you want to talk to people.
+     take the Tag! perk when it becomes available and tag Energy Weapons.
+     take Sniper when it becomes available.
+     you'll have low hit points so be careful.
+
+    Unarmed: Fast Shot, Bonus HtH Attacks, Slayer.
+     if you have 9 APs, you have 9 critical hits each turn.
+
+    Diplosniper:  PE 10  IN 10  CH 10  rest 4-5  Skilled, Gifted
+     tag Small Guns, Speech, Doctor
+     work on small guns skill, when it's 160% you can make called shots
+      at extreme range in the dark with too-heavy weapons at 95% success
+     high Intelligence, Charisma, speech skill mean you get all options
+      in conversation, and will be believed
+
+    Late game badass: AG 9  PE 9  IN 9  ST 6  EN 6  LK 4  CH 4  Gifted
+     tag Small Guns, Energy Weapons, Speech
+     take Strong Back, Bonus ROF, Action Boy x2, Sniper, Action Boy
+     the extra AP's from perks allow 3 called shots with turbo plasma.
+     Or boost LK at the expense of EN and CH, take mule, educated, 
+      bonus ROF, action boy, better criticals, sniper, action boy.
+      Tag energy weapons, lockpick, one of (speech barter steal).
+      This one is better late and worse early.
+
+    Sniper/thief:  ST 6  PE 8  EN 5  CH 4  IN 9  AG 10  LK 5  Gifted, Finesse
+     tag Small Guns, Steal, Speech, take Swift Learner, Sharpshooter
+
+    ST 6  PE 9  EN 3  CH 2  IN 9  AG 9  LK 9  Gifted, Fast Hand
+     tag Energy Weapons, Unarmed Combat, Lockpick
+     take Earlier Sequence, Bonus HtH, Bonus Rate of Fire, Better Criticals,
+      Cult of Personality, Sniper, Slayer.
+     avoid Fast Hand unless you plan to get to level 18 and take Sniper
+      or Slayer.  It's a detriment until then, a bonus combined with those.
+     for a pure shooter, don't tag Unarmed and replace HtH with Educated,
+      and Slayer with something else (Bonus Move, Action Boy, etc).
+     if you like playing a good guy, drop Cult and add another Action Boy
+      for 6 critical hits ranged or 12 close.
+
+
+ --- Trivia -------------------------------------------------------------------
+
+ Intro movie
+   
+   The scene where the soldier shoots the civilian was all over TV news
+   in the sixties.  A police official in Saigon had been directing his
+   men in defense of the neighbrhood while the Americans were pulling
+   out.  The NVA were entering the city and the Viet Cong had already
+   started showing up everywhere.  As a TV crew filmed, he was informed
+   that the bunker containing his family had been blown up.  A few
+   minutes later, someone arrives with one of the VC sappers.  The
+   cameraman expected the guy would want to confront him, so he films it
+   -- and the policeman pulls out a .38 and blows him away in the street.
+
+ Intro music
+
+   It's a song called "Maybe" by a 40's band called the Ink Spots.
+   
+   More Inkspots trivia...
+   -The guitar/uprightbass intro to the song is the same exact intro
+    used in all but 3 of the InkSpots hits (thats over 35 songs).
+   -The songs of the Inkspots are the most widely known songs of all
+    time, yet the group who made them famous is virtually forgotten.
+   -The founding president of the InkSpots fan club, from the age of
+    nineteen until his death, was Redd Foxx of Sanford and Son fame.
+    The club is now officiated by his son.
+   -The name is often assumed to be racial in nature, but the band was
+    given it's name by accident when they signed a contract for a
+    performance one evening.  The man putting the billing on the
+    marquis outside the theatre sent word to the manager that he didn't
+    know what to call the opening act of the evening's amateur variety
+    show.  The manager looked at the card, and it was so horribly
+    smudged he blurted, "I can't read this thing! It's nothing but ink
+    blots."  By the time it got back downstairs and out to the guy on
+    the marquis, the name had become "Ink Spots".
+
+ Bibliography for Fallout Scholars
+
+    There are lots of allusions to Wasteland, and also various movies, 
+    books, and TV shows, like for instance
+      Road Warrior
+      Brazil
+      City of Lost Children
+      Blade Runner
+      Batman
+      Ghost in the Shell
+      On the Beach
+      Star Wars
+      Lord of Light
+      South Park
+
+      
+ --- Tables -------------------------------------------------------------------
+
+ Small Guns        Damage Range   Ammo                       Str  AP  Modes
+
+10mm Pistol	    5-12    25    12 10mm JHP/AP	      3	   5	s
+10mm SMG	    5-12    25	  30 10mm JHP/AP	      4	   5	sb
+Desert Eagle .44    10-16   22     8 .44 magnum JHP/FMJ	      4    5    s
+9mm Mauser	    5-10    22	   7 9mm ball		      3	   4	s
+14mm Pistol	    12-22   24	   6 14mm AP		      4	   5	s
+.223 Pistol	    20-30   30	   5 .223 FMJ		      5	   5	s
+
+BB Gun		    1-3	    22	 100 BB's		      3	   5	s
+LE BB Gun	    25      32	 100 BB's		      3	   4	s
+Shotgun		    12-22   14	   2 12ga shot		      4	   5	s
+Combat Shotgun	    15-25   22	  12 12ga shot		      5	   5	sb
+Hunting Rifle	    8-20    40	  10 .233 FMJ		      5	   5	s
+Sniper Rifle	    14-34   50	   6 .233 FMJ		      5	   6	s
+Assault Rifle	    8-16    45	  24 5mm JHP/AP		      5	   6	sb
+
+ Energy Weapons    Damage Range   Ammo                       Str  AP  Modes
+
+Laser Pistol	    10-22   35	  12 SEC		      3	   5	s
+Laser Rifle	    25-50   45	  12 MFC		      6	   5	s
+Plasma Pistol	    15-35   20	  16 SEC		      4	   5	s
+Plasma Rifle	    30-65   25	  10 MFC		      6	   5	s
+Turbo Plasma	    35-70   35	  10 MFC		      6	   4	s
+Alien Blaster	    30-90   10	  30 SEC		      2	   4	s
+Gatling Laser	    20-40   40	  30 MFC		      6	   6	 b  
+
+ Big Guns          Damage Range   Ammo                       Str  AP  Modes
+
+Rocket Launcher	    35-100  40	   1 Explosive/AP Rocket      6	   6	s
+Flamer		    45-90    5	   5 Flamethrower Fuel	      6	   6	 b
+Minigun		    7-11    35	 120 5mm JHP/AP		      7	   6	 b
+
+ Unarmed           Damage Range   Ammo                       Str  AP  Modes
+
+Unarmed		    1-3	     1				      1	   3
+Brass Knuckles	    2-6	     1				      1	   3
+Spiked Knuckles	    4-11     1				      1	   3
+Power Fist	    12-25    1	  25 SEC		      1	   3
+
+ Melee             Damage Range   Ammo                       Str  AP  Modes
+
+Knife		    1-7	     1				      2	   3	  wt
+Throwing Knife	    3-6	     1				      3	   4	  w
+Combat Knife	    3-11     1				      2	   3	  wt
+Spear		    3-11     2				      4	   4	   t
+Vibroblade	    15-33    1    30 SEC		      4	   4	  wt
+Club		    1-7	     1				      3	   3	  w
+Crowbar		    3-11     1				      5	   4	  w
+Cattle Prod	    12-21    1    20 SEC		      4	   4	  wt
+Sledgehammer	    4-10     2				      6	   4	  wt
+Super Sledge	    18-37    2				      5	   3	  wt
+
+ Throwing          Damage Range   Ammo                       Str  AP  Modes
+
+Throwing Knife	    3-6	     9				      3	   5     T
+Spear		    3-11     9				      4	   6 	 T
+Molotov Cocktail    8-20     9				      3	   5	 T
+Grenade (Frag)	    20-35    9				      3	   5	 T
+Grenade (Plasma)    40-90    9				      3	   5	 T
+Grenade (Pulse)	    100-150  9				      3	   5	 T
+
+ Notes:
+    A burst fires 1/3 of the ammo capacity -- e.g. a Gatling Laser
+     holding 30 rounds fires 10 per burst.
+
+    
+ Armor                         norm laser  fire plasma explode
+
+Leather Jacket	      AC  8    0/20  0/20  0/10  0/10  0/20     5 lb
+Leather Armor	      AC 15    2/25  0/20  0/20  0/10  0/20     8 lb
+Metal Armor	      AC 10    4/30  6/75  4/10  4/20  4/25    35 lb
+Tesla Armor	      AC 15    4/20 19/90  4/10 10/80  4/20    35 lb
+Combat Armor	      AC 20    5/40  8/60  4/30  4/50  6/40    20 lb
+Brotherhood Armor     AC 20    8/40  8/70  7/50  7/60  8/40    25 lb
+Power Armor	      AC 25   12/40 18/80 12/60 10/40 20/50    85 lb  +3 str
+Hardened Power Armor  AC 25   13/50 19/90 14/70 13/50 20/60   100 lb  +3 str
+
+
+ Weapon		Accuracy bonus
+
+9mm Mauser 	+20 Accuracy
+14mm Pisol	+20
+Shotgun		+20
+Combat Shotgun	+20
+Hunting Rifle	+56
+Assault Rifle	+28
+Sniper Rifle	+56
+Laser Rifle	+28
+Alien Blaster	+20
+Plasma Rifle	+36
+Turbo Plasma	+?? (forgot to check this one)
+
+These weapons add their accuracy to the user's skill level for a total %
+to hit, then modified by distance (-4% every hex)
+
+
+ --- Spoilers -----------------------------------------------------------------
+
+   If you are reading through this, stop here!  Come back to this point
+   if you get stuck on something.  Fallout is very replayable, but you
+   can only play it for the first time once.
+
+   There is nothing after this but spoilers.
+
+   This is not a walkthrough.  There are a bazillion situations to get
+   into, depending on your character and where you've been and what you're
+   trying to do.  This is a digest of places people have gotten stuck and
+   what they did about it.
+
+   If you are stuck, skip ahead to the town or place you're stuck, and find
+   a question that sounds like it's about your problem.  Or search for a
+   question containing a key word about your problem.  Then skip ahead to
+   that question and read just that answer, or part of it.
+
+   Again, if you are not stuck, this is the place to quit.  Don't even
+   look at the questions, they unavoidably disclose information.
+   
+
+(1)   Mini-spoilers
+(1.1) How do these flare things work?
+(1.2) What are these good for: tools, first aid kit, doctor bag, lockpicks?
+(1.3) What are these good for: Scout Handbook, other books?
+(1.4) What is Junk good for?
+(1.5) What are bags and backpacks good for?
+(1.6) How can I give my NPC buddies some good weapons?  Or more ammo?
+(1.7) How can I give my NPC buddies some good armor?
+(1.8) Do NPC's use stimpaks?
+(1.9) How can I keep NPC's from shooting each other, charging off, etc?
+   
+(2)   Vault 15
+(2.1) There is nothing here but a broken elevator.
+(2.2) I walked all over the place and there is no water chip.
+
+(3)   Shady Sands
+(3.1) I lost my rope, or can't find one in the first place.
+(3.2) Where can I find Ian?
+(3.3) I gave Ian some good armor, but he won't use it.
+(3.4) What is that farmer up to?
+(3.5) How can I kill all those Radscorpions?
+(3.6) The woman guard in Shady Sands says Tandi has been kidnapped but noooo.
+(3.7) The mayor's daughter Tandi has been kidnapped.  How can I save her?
+(3.8) Who is the Death Hand?
+(3.9) When the game is over, I got a sad ending for the Raiders.
+
+(4)   Junktown
+(4.1) This Doc Morbid fellow is rather unpleasant, isn't he?
+(4.3) How can I get that dog to let the guy Phil into his house?
+(4.4) Where can I find Tycho?
+(4.5) Killian's store doesn't have a lot to buy.
+(4.6) Killian asked for help dealing with Gizmo.  How?
+(4.7) Lars asked for help busting the Skulz gang.  How?
+(4.8) Should I rent a room in the Crash House?
+(4.9) The Junktown guards are after me.
+(4.10) How do I save Sinthia from the crazed raider?
+(4.11) What's all this about the boxer's girlfriend?
+(4.12) Who is that Children of the Cathedral member?
+(4.13) I want to rob Killian.  How?
+
+(5)   Hub
+(5.1) Where do I find Decker?
+(5.2) This Iguana Bob fellow seems pleasant enough.
+(5.3) What can I do at the Friendly Lending Company?
+(5.4) What's the deal with the missing caravans?
+(5.5) Who is this Vance guy in Old Town?
+(5.6) Where can I get Rad-X?  Where can I buy drugs in general?
+(5.7) Where can I get some lock picks?  How about an electronic lock pick?
+(5.8) Where can I find a super sledge?
+(5.9) Whenever I open this door in Old Town the people inside blow me away.
+(5.10) How can I get a .223 pistol?
+(5.11) How can I steal Hightower's necklace?
+(5.121 I can't complete the quest to kill Hightower.
+(5.13) Jain, the woman church elder in the hospital, has a talking head. Why?
+(5.14) Where is the blasted water chip?
+(5.15) When the game is over, I always get a sad ending for the Hub.
+
+(6)   Necropolis
+(6.1) There is nothing here but a run-down hotel.
+(6.2) How to I fix the water pump?
+(6.3) Where can I find Set?
+(6.4) How can I free the caged glowing ones?
+(6.5) The water shed is guarded, how can I get in?
+(6.6) I've been captured and put in a cell.
+(6.7) When the game is over, I got a sad ending for Necropolis.
+
+(7)   Vault 13
+(7.1) How do I calm the rebel faction?
+(7.2) How do I catch the water thief?
+(7.3) I brought the water chip back but I can't figure out what to do with it.
+
+(8)   Glow
+(8.1) There's nothing here but a crater.
+(8.2) I can't get into the elevator, it keeps shocking me.
+(8.3) I can't get through the door that's welded shut.
+(8.4) How can I turn off the security robots?
+(8.5) How can I turn off the traps?
+(8.6) I can't get to level five.
+(8.7) I did their stupid quest but the Brotherhood still won't let me in.
+(8.8) I'm radiated, how can I cure it?
+(8.9) I keep dying of radiation sickness.
+
+(9)   Brotherhood
+(9.1) How can I get past the gate guards?
+(9.2) How can I get the quest to find the initiate?
+(9.3) Where is the lost initiate?
+(9.4) How can I get some power armor?
+(9.5) How can I get a systolic motivator?
+(9.6) How can I repair this armor?
+(9.7) I can't leave combat mode to get into the supply room.
+
+(10)  Boneyard
+(10.1) How can I fix the hydroponic farm?
+(10.2) I can't kill the Deathclaws.
+(10.4) How can I save Jan Zimmerman, the mayor of Adytum?
+(10.5) I killed all the Deathclaws but they're baack.
+(10.6) How can I find the spy in the Followers?
+(10.7) Who are those bounty hunter guys in the house behind the library?
+(10.8) What is that alphabet soup Christine says?  (C D E D B D Ducks...)
+(10.9) Where can I get a turbo plasma rifle?
+(10.10) Where can I get hardened power armor?
+(10.11) When I went back to talk to Razor she was dead, or just a bloodstain.
+(10.12) When the game is over, I always get a sad ending for the Followers.
+
+(11)  Military Base
+(11.0) I can't find the military base.  Where is it?
+(11.1) I can't get past the sentries.
+(11.2) I can't get in the front door.
+(11.3) The Brotherhood promised me Paladin assistance, where is it?
+(11.4) What can I do with these computers?
+(11.5) I can't get through the force fields.
+(11.6) I turned off the force fields but they're still on.
+(11.7) What is the deal with Mr. Handy?
+(11.8) How can I repair the elevator that's out of order?
+(11.9) I found this key, what does it do?
+(11.10) I found this encryption decoder disk, what does it do?
+(11.11) I found this security card, what does it do?
+(11.12) Here I am the Vat Control Computer, now what?
+(11.13) I blew up the base but then the game ended suddenly.
+
+(12)  Cathedral
+(12.1) How can I get in to the back room?
+(12.2) How can I get through the secret door?
+(12.3) How can I get to that dog Sasha behind the Cathedral?
+(12.4) I keep getting killed!
+(12.5) I got into the basement but it's just a library.
+(12.6) What can I do with these computers?
+(12.7) There's an elevator back there but I can't pick the door.
+(12.8) When I walk down this grisly corridor I get nightmares.
+(12.9) Whenever I free the prisoners, they die.
+(12.10) Where can I find Tesla Armor?
+(12.11) Where can I find the Master?
+(12.12) How can I kill the Master?
+(12.13) I blew up the Cathedral but then the game ended suddenly.
+
+(13)  Misc
+(13.1) I haven't found a water chip and the 150 days are about to run out.
+(13.2) Vault 13 was overrun by mutants.
+(13.3) If I have NPC's in my party, how are the experience points divided?
+(13.4) How can I develop my character to level 21?
+(13.5) Is there any way to, er, score?
+(13.6) Combat tips
+(13.7) How does bartering work?
+(13.8) How do lockpicks work?
+(13.9) What is fruit good for?
+(13.10) What is Iguana On A Stick good for?
+(13.11) What is Nuka-Cola good for?
+(13.12) What are Beer and Booze good for?
+(13.13) What is a Lighter good for?
+(13.14) What is a Flower good for?
+(13.15) What is a box of Instant Spagetti good for?
+(13.16) Where are all the NPC's?
+(13.17) Where is the mutant army?
+(13.18) I'm addicted to drugs, what does that mean?
+(13.19) How can I increase my stats?
+(13.20) How can I increase my skills?
+(13.21) What random encounters are out there?
+(13.22) Why did my character act that way with the Overseer at the very end?
+
+
+(1)   Mini-spoilers
+
+(1.1) How do these flare things work?
+
+    The manual explains how to light one.  You must drop or throw it
+    for it to cast light.  You can pick it up afterward.
+
+(1.2) What are these good for: tools, first aid kit, doctor bag, lockpicks?
+
+    If you use them on some object, they enhance your skill at doing 
+    that task.  You can pick locks with or without using lockpicks, but
+    you'll succeed better with the picks.
+
+(1.3) What are these good for: Scout Handbook, other books?
+
+    Use them (hand cursor in inventory) to improve your skills.
+
+(1.4) What is Junk good for?
+
+    It's assorted spare parts.  There are some specific repairs you
+    may be wanting to make where you have to find parts.
+
+(1.5) What are bags and backpacks good for?
+
+    Not much.  They can be used to reduce the size of your inventory list.
+    To easily put stuff in a bag, put it in your active slot (hand) then
+    drag and drop items into it.  Or drop them directly onto the bag
+    in inventory.
+
+    Quest items that are inside bags don't get seen by the game.
+    Same with ammo.
+
+    Putting your money in a bag allows you to drop and pick up more than 
+    999 caps at once, handy if you want to keep your inventory sorted.
+    If your money bag is open when you sell something, the caps go into
+    the bag.
+
+    Be careful using bags without the patch; there are v1.0 bugs here.
+
+(1.6) How can I give my NPC buddies some good weapons?  Or more ammo?
+
+    Barter, or you can steal and anti-steal freely from NPC's.
+    You can give them things by clicking on them and holding, selecting
+    the backpack, and choosing the thing you want to give.  With this
+    method they'll tell you if it's something they can't use.    
+
+    You can give them good melee weapons -- Ripper Vibroblade, for example.
+
+(1.7) How can I give my NPC buddies some good armor?
+
+    You can't.
+
+(1.8) Do NPC's use stimpaks?
+
+    Yes.  When they run low, give them more.
+
+    They seem to use them less sparingly if they have a lot.
+
+(1.9) How can I keep NPC's from shooting each other, charging off, etc?
+
+    You can't.  If you initiate combat when they are in a reasonable
+    formation they may stay there.  You can yourself move out of the
+    way.  You can try to end combat at a good time.
+
+    One of the conversation options asks them to change places with
+    you.  Useful if they're blocking a doorway.
+
+    Think twice before giving them automatic weapons.
+
+    If you give them hand-to-hand weapons they won't be shooting
+    so they won't be shooting you and each other.  With Power Fist 
+    and Ripper Vibroblade they can beat up Super Mutants on their own.
+
+(2)   Vault 15
+
+(2.1) There is nothing here but a broken elevator.
+
+    If you look at it (binoculars cursor) it says you might be able to
+    get down it with a rope.  There are ropes in the town to the west.
+
+(2.2) I walked all over the place and there is no water chip.
+
+    The room containing the water chip has caved in.  When you see it,
+    a message telling you this appears on the screen in the lower left.
+    You also get 500 experience points.  You'll need to look farther
+    afield for a water chip.
+
+    You need to make some kind of Perception, Intelligence, or Science
+    roll to realize this and get the 500 xp.
+
+(3)   Shady Sands
+
+(3.1) I lost my rope, or can't find one in the first place.
+
+    The town guard (Seth) has one you can barter for.  There's one in
+    the shed next to the farm you can pick up.  There's one in the
+    southeast corner next to the wall.
+   
+(3.2) Where can I find Ian?
+
+    In the guard house east of the gate.  He's the first NPC who will
+    join you.
+
+    You can hire him, or he might join you because he wants to.
+    He'll like you more if you're sympathetic about his injury.
+
+(3.3) I gave Ian some good armor, but he won't use it.
+
+    Right.  You can give them better weapons, but not armor.
+   
+(3.4) What is that farmer up to?
+
+    He's farming, on the eastern screen.  You should speak with him.
+
+    If your stats are high enough (probably Intelligence) you can 
+    tell him about crop rotation and get 500 xp.
+
+(3.5) How can I kill all those Radscorpions?
+
+    Grenades work wonders. 
+    If Ian is with you, he's probably a much better shot than you are
+     at this stage, just stay out of the line of fire.  
+    Approach gradually, from somewhere only one Radscorpion at a time 
+     notices you.
+    Don't forget to take a tail back to Razlo, the doctor.  He'll
+     make antivenom from it.  You can use antivenom on Seth's
+     brother in the back room for xp.
+   
+    You can blow up the scorpion cave entrance with dynamite, which
+     will wall them in and solve the quest.
+
+(3.6) The woman guard in Shady Sands says Tandi has been kidnapped but
+      she's still right there.
+
+    This is a bug.  Ignore it.  If you leave town and return, she
+    will probably have gotten kidnapped.  Foreshadowing.
+
+(3.7) The mayor's daughter Tandi has been kidnapped.  How can I save her?
+
+    If you don't have this quest, try leaving town and coming back, then
+    talk to the mayor.
+
+    Tandi is at the Raider camp a short distance southeast of town.
+
+    You can barter for her.  You can talk to the leader and fight him
+    one on one.  (This isn't necessarily hard, the prerolled Natalia 
+    can win.)  When he surrenders, talk to him to end the fight.
+
+    If your speech skill is very good you can convince the leader to let
+    you take her away for nothing.
+ 
+    You can attack the Raiders, people have reported better success
+    starting in the middle and fighting your way out, or attacking
+    from the back and waiting for the others to come to you.  Or you
+    can skulk around the edges, firing through windows -- if you're
+    careful and have a hunting rifle you can get every Raider before
+    they come anywhere near you.
+
+    The two slaves held by the Raiders are worth 200 xp each if they
+    live through the battle.  Garl must die, other Raiders are optional.
+
+    Try talking with Tandi before you learn about the Radscorpions
+    from someone else.
+
+(3.8) Who is the Death Hand?
+
+    When you visit the Raider camp dressed in a leather jacket you
+    are mistaken for the ghost of the leader's father.  Doesn't always
+    happen.  You get lots of interesting new conversation options.
+    (Death Hand is an Australian Mad Max.)
+
+(3.9) When the game is over, I got a sad ending for the Raiders.
+
+    The Raiders will continue to harass the area unless you kill their
+    leader.
+
+(4)   Junktown
+
+(4.1) This Doc Morbid fellow is rather unpleasant, isn't he?
+
+    Yes.  Snoop around in his basement.
+
+    The locker will have better items if you have higher Luck.
+
+    The local law is uninterested in hearing about Morbid but they
+    do not intervene if you attack him, or he attacks you.
+
+(4.3) How can I get that dog to let the guy Phil into his house?
+
+    Ask Phil about the dog's former owner.  Or think about ways one can
+    make friends with a dog.
+
+    Either put on a leather jacket, or feed the dog.
+    You can find some tasty iguanas in the hotel refrigerator.
+
+    Or kill Phil, you will get 100 xp for "solving Phil's problem" 
+    and Dogmeat will join up with you.
+
+(4.4) Where can I find Tycho?
+
+    He's in the bar, west side.
+
+    Talk to him a couple of times.
+
+    He won't be interested in joining if you didn't help Killian deal
+    with the assasin.  Or if you do help Neal deal with the Skulz member.
+
+(4.5) Killian's store doesn't have a lot to buy.
+
+    There is different stuff for sale on the different tables.
+
+(4.6) Killian asked for help dealing with Gizmo.  How?
+
+    When you first meet Killian, a would-be assasin walks in and tries
+    to shoot Killian.  If you help kill the assasin, Killian will
+    appreciate it, and will ask for assistance in coping with Gizmo.
+    You can go talk with Gizmo while carrying the tape recorder, if you
+    get him to say something incriminating Killian will be able to cart
+    him off to jail.  Alternatively if you're a good pickpocket you can
+    reverse-pickpocket the bug onto Gizmo, then you don't need to obtain
+    damaging conversation in person.
+
+    If your initial conversation is unsatisfactory, go back to Gizmo and
+    claim you did it but don't have the Killian's dog tags.  He'll cut
+    loose with some really incriminating ultimatum.
+
+    If you talk with Gizmo before Killian, he'll offer you the job to
+    hit Killian right away.  Also if you don't help Killian against the
+    assassin and then weasel out of assisting with Gizmo, you get put
+    in jail and can escape (200xp) and be a fugitive.
+
+(4.7) Lars asked for help busting the Skulz gang.  How?
+
+    Taking the law into your own hands and exterminating them won't
+    do it.  They hang out in rooms behind the hotel and at the Skum
+    Pitt, the bar.  Leads can be found there, and in the hallway
+    west of the hotel lobby.
+
+    You might be able to infliltrate the gang.
+
+    If you go to the bar in the evening or night and speak to Neal, after
+    the conversation ends a Skulz gang member will insult the waitress
+    and Neal will blow him away.  After this you can go talk to Vinnie,
+    the gang leader, in their hangout in the back part of the Crash House
+    hotel.  Vinnie offers to let you join if you'll steal the bar owner
+    Neal's urn from the bar.  If you successfully do this, talk to Vinnie
+    again and he will inform you of their plan to retaliate against Neal.
+    You can now tell Lars all about it, optionally join him in fighting
+    the Skulz, and optionally return Neal's urn.
+    
+    Another way is to talk with Sherry, the gang member in the hallway
+    by the hotel lobby.  With good speech skills you can convince her
+    to leave the gang, and over time, to testify against them.  You may
+    need to hang around Junktown for a few days while she mulls things
+    over.  You can rent a room in the hotel.
+
+(4.8) Should I rent a room in the Crash House?
+
+    Yes.  Spend a night there when you're done with the day.	
+
+(4.9) The Junktown guards are after me.
+
+    If you take the law into your own hands and just kill Gizmo or
+    the Skulz they will not appreciate it.  They are very lawful.
+
+    Here's another way it can happen: attempt to help Killian against
+    his assassin and miss, hitting a guard.  Here's another way: try to
+    steal Neal's urn and fail (even if he's not watching), then fight
+    back when he attacks you and kill him.  The guards are not forgiving.
+    Stay out of their way or leave town or kill them all or restore.
+
+    It may be possible to save the situation.  War story: assassin
+    attacks mayor, mayor shoots at assassin but accidentally hits player,
+    Ian shoots mayor, mayor and guards shoot at Ian.  Player manages 
+    to stay friends with town by helping kill Ian.  (Then restores.)
+
+(4.10) How do I save Sinthia from the crazed raider?
+
+    You won't get this quest unless you rent a room for a night in the
+    Crash House.
+
+    One solution is talk, talk, talk.  You may be able to buy her
+    freedom, or with a high speech skill, convince him to leave 
+    peacefully.
+
+    Some people were successful killing him before he could shoot
+    Sinthia, but you have to be very good.  Good sneakers can get
+    around behind him, making this easier.
+
+    Sinthia gets upset with you if your character is male and kills
+    the raider. If your party members kill the raider, she's ok.
+
+(4.11) What's all this about the boxer's girlfriend?
+
+    When the Skulz member hits the barmaid, she yells out a name, when
+    you ask her, she tells you the name belongs to her boyfriend the boxer.
+    Or you can talk to Neal and get him to mention her name.
+
+    After that, talking with the boxer about his life in Junktown 
+    sometimes finds him having rough times with his girlfriend.
+    You get 250 xp if you help smooth it out.
+
+(4.12) Who is that Children of the Cathedral member?
+
+    If you go back to Junktown later in the game, there's a CoC person
+    in one of the houses.
+
+    There's a guy standing around (near Lars?) who will tell you that
+    a CoC member took over his friend's house.  Talking with Lars, the
+    concerned friend, and the CoC member produced nothing revealing.
+
+    You can blow him up with dynamite without agitating the cops.
+
+(4.13) I want to rob Killian.  How?
+
+    There is a safe in Killian's private quarters.
+
+    You get 500 xp for robbing it.  To do this easily, break into his
+    room at night and hide there until he leaves the next morning.
+
+(5)   Hub
+
+(5.1) Where do I find Decker?
+
+    In the Maltese Falcon, downtown west side.
+
+    Speak with Kane, the guy guarding the door on the south side of
+    the bar.  ("Cleansing the world" is an interesting conversation
+    path.)
+
+    You can, btw, accept both of the quests that Decker offers and
+    complete them to get the cash and xp, and then go to the police
+    afterwards and still get to bust Decker and collect the cash and
+    xp for that quest as well.
+
+    If you care about positive Karma, you can pick fights with your
+    victims and let your NPC's deal with it.
+
+(5.2) This Iguana Bob fellow seems pleasant enough.
+
+    Go snoop around Doc Morbid's in Junktown.
+
+    You can extort money from Iguana Bob but apparently the local law
+    in both Junktown and the Hub is not interested.  If you kill IB,
+    or incite him to attack you, they will go after you, not him.
+
+    Extortion lowers your Karma.
+
+(5.3) What can I do at the Friendly Lending Company?
+
+    You can try to rob the bank, and you can kill the loan shark without
+    agitating the cops.
+
+    You can get an introduction to Decker, too.
+
+(5.4) What's the deal with the missing caravans?
+
+    Read the billboard in south central downtown then go speak with the
+    people at Far Go Trading.
+
+    They'll send you to Beth, who will send you to Harold and Slappy in
+    Old Town.
+
+    Slappy can take you to the Deathclaw lair.  You must then go talk
+    with Butch again, fail miserably to convince him, and then show
+    the mutant's holodisk to Rutger to solve the quest.
+
+(5.5) Who is this Vance guy in Old Town?
+
+    The arms dealer in Oldtown will tell you what he does if you follow
+    the "What is radiation?" line of conversation.
+
+(5.6) Where can I get Rad-X?  Where can I buy drugs in general?
+
+    There's a dealer in the east side of Old Town named Vance.
+   
+    If he won't talk to you, you can get an introduction from Lemmie
+    the shady character walking around downtown.  If you pull a gun 
+    and choose intimidating conversation he will (maybe) provide the
+    introduction free.
+
+(5.7) Where can I get some lock picks?  How about an electronic lock pick?
+
+    Explore Old Town, there's a basement to check out.
+
+    In a house in the middle east side, there's a stairway to the lair
+    of the Thieves' Circle.  You have to pick some doors and dodge some
+    traps to get there, but if you do, ask to join and they'll provide
+    some picks.  Loxley has terrific conversation paths, save the game
+    and experiment.
+
+    If you successfully get initiated your reward includes an electronic
+    pick.
+
+    There's an electronic lock pick on the top floor of the Cathedral.
+    There's a set of lock picks in Garl's fridge in the Raider camp,
+     and also one in the Boneyard, in the Deathclaw lair.
+    You can buy lock picks from Mitch in the Hub.  Or you can steal
+     one from Jasmine's friend at the entrance to the thieves' circle.
+    If you tag the Lockpick skill you start the game with a set.
+
+    Both electronic and regular picks can break if your skill is too low.
+
+(5.8) Where can I find a super sledge?
+
+    Jake the arms dealer in old town will have one for sale if you ask 
+    if he has something with a little more power.
+    
+(5.9) Whenever I open this door in Old Town the people inside blow me away.
+
+    They're holding someone prisoner in the back room.
+
+(5.10) How can I get a .223 pistol?
+
+    Speak with Irwin, south edge of downtown.  If he doesn't ask you to
+    help him out, your character level is too low.
+
+(5.11) How can I steal Hightower's necklace?
+
+    A little reconnaissance first is a good idea.
+
+    If you go at night, you can creep around the back of his house
+    and wait for the guard to walk away to check out the front.
+    Hightower and his wife are in bed and won't disturb your burgling.
+
+    Check the strongbox for traps before trying to open it.  (It
+    is trapped).  In fact there seem to be quite a few traps on it.
+
+    The best time to go is 6pm.
+
+(5.12) I can't complete the quest to kill Hightower.
+
+    If you agreed to kill Hightower for Decker, then went to the cops,
+    the quest will show	up on your PIPboy but is unsolvable since
+    Decker's dead.  It's not a problem.  
+
+    When you first talk with Decker, you can discuss the matter and then
+    decline the job; he does not get offended and you can then turn him
+    in as before, without Hightower getting added to the list.
+
+    Or if you wish to kill both Hightower and Decker, you must do
+    Hightower first so you can report to Decker while he's still alive.
+
+(5.13) Jain, the woman church elder in the hospital, has a talking head. Why?
+
+    She's involved in a quest you may get from Decker.
+    It follows the Hightower quest.
+
+    Also if you kill the Master, look at your PIPboy for new quests
+    in the Hub.
+
+(5.14) Where is the blasted water chip?
+
+    Speak with the Water Merchants.  They will want to sell you a water
+    caravan trip, but you'll get a lead to another place to check out.
+
+    Also, ask the librarian about holodisks.
+
+    Vault 12 is in Necropolis.
+
+(5.15) When the game is over, I always get a sad ending for the Hub.
+
+    Me too.  Nobody has reported a way to get a happy ending for the Hub.
+
+    But if you finish very rapidly (86 days was sufficient) you don't
+    get the sad ending, or any ending.
+
+(6)   Necropolis
+
+(6.1) There is nothing here but a run-down hotel.
+
+    You can use the sewer system to get to other parts of the city.
+
+(6.2) How to I fix the water pump?
+
+    The missing parts are in the northeastern part of the sewers under
+    the watershed.  Look for Junk.
+
+    You have to use the Junk on the water pump to repair it.
+
+(6.3) Where can I find Set?
+
+    In Necropolis Hall, upstairs from the middle parts of the sewers.
+    Worth checking out.
+
+    He'll send you on a quest, maybe.  And burn you afterward.
+    Things might be different for evil characters.
+
+    If you happen to have accomplished the quest on your own, he
+    still rewards you.
+
+(6.4) How can I free the caged glowing ones?
+
+    There's a switch on the wall that opens the cells.
+
+    [Ed.: I read it on the net so it must be true, but nobody has
+    been able to find it aside from the original posting.]
+
+(6.5) The water shed is guarded, how can I get in?
+
+    Harry the door guard is very stupid, you may be able to con him.
+    Or you might be able to sneak behind his back.
+
+    When Harry accosts you, tell him you're a ghoul, or if you don't
+    have that option, a robot.
+
+    Tricky method: Player pisses off Harry who shoots.  Player scoots 
+    out door (which is nearby) and down manhole south of door, still in
+    combat mode.  Then, leaving combat mode and returning to the city
+    map, Harry is outside the shed and doesn't object to player entering
+    and doing whatever he wants.
+
+(6.6) I've been captured and put in a cell.
+
+    Good luck to you.  I didn't make it, myself.  Few have reported
+    success, but there were some amazing tries.  It's possible to make 
+    it to safety -- in your second game you'll probably be able to do it.
+    Search your cell, and save a lot.
+
+(6.7) When the game is over, I got a sad ending for Necropolis.
+
+    It is possible to get a happy ending.  I suspect it might depend on
+    how long it takes to eliminate the mutant threat.  You must leave
+    them with a working water supply.  It does not depend on whether you
+    kill the mutants in the watershed, or whether you kill some or all
+    of the ghouls.
+
+(7)   Vault 13
+
+(7.1) How do I calm the rebel faction?
+
+    You get this quest when you return to vault 13 and talk to the
+    unhappy citizens on level 2.
+    It gets crossed off if you return the water chip.
+
+    The rebels will be dealt with by Vault security at some time
+    before day 150, so if you return to vault 13 rather late they
+    may not be there any more.
+
+    You can talk to the leader and perhaps talk her out of it.
+    You can attend the rebel meeting and exterminate them.
+    
+(7.2) How do I catch the water thief?
+
+    You get this quest when you return to vault 13 and talk to some people
+    on level 2 and the guard outside the storeroom on level 3.
+    It gets crossed off if you return the water chip.
+
+    Hide someplace and wait until midnight and watch what happens.
+
+    You have to accost the thief after he steals the water.
+
+(7.3) I brought the water chip back but I can't figure out what to do with it.
+
+    Talk to the overseer, he's on the pedestal on Level 3.
+
+(8)   Glow
+
+(8.1) There's nothing here but a crater.
+
+    If you arrived at night, you may not have seen it -- there's a beam you
+    can tie a rope to and climb down into the crater.
+
+(8.2) I can't get into the elevator, it keeps shocking me.
+
+    There's a key card on one of the corpses, the guy in power armor.
+    Use it on the elevator.
+
+    It's also possible to disarm the trap and lockpick the door.	   
+
+(8.3) I can't get through the door that's welded shut.
+
+    You're too weak.  Once I set off a nearby explosive trap and the
+    door opened after that.  Once I tried dynamite and nothing changed.
+    You don't miss anything world-shaking if you can't get through this
+    door.
+
+(8.4) How can I turn off the security robots?
+
+    The master computer on level 4 can do this if it likes you.  
+    Ask for mainframe mode.
+    You can make it like you more by flattering it, and by playing chess
+    with it.
+
+    It's a lot easier to get into mainframe mode when the power is on.
+    
+    You can shoot and kill deactivated robots.
+    You can steal their weapons when they're turned off.
+
+(8.5) How can I turn off the traps?
+
+    The master computer on level 4 can do this too.
+    Ask for mainframe mode and shut off the security systems.
+    
+(8.6) I can't get to level five.
+
+    The screen in the lower left says why -- you need to turn on the
+    power.  That's on level 6.  Using tools boosts your repair skill.
+
+    Turning off the emergency power makes it easier to repair the
+    generator.  A 40% repair skill will do it, and there are a couple
+    of Electronics books in the Glow which will boost you ~14%, so
+    you're ok with a starting repair skill of ~30%, but less is trouble.
+
+(8.7) I did their stupid quest but the Brotherhood still won't let me in.
+
+    You must return the actual holodisk you found on level 1.
+    Just having it in your PIPboy isn't enough.
+
+(8.8) I'm radiated, how can I cure it?
+
+    The doctor in the Brotherhood can cure you.  Vault 13 too.
+    Rad-Away will remove it over time.
+
+(8.9) I keep dying of radiation sickness.
+
+    There's a drug dealer in the Hub, in Oldtown, who will sell you
+    Rad-X.  Two of those will give you 100% radiation resistance.
+    Radiation you got before taking them, you still have.
+
+    Rad-Away will reduce your contamination level.  The Brotherhood
+    doctor can unradiate you.
+
+(9)   Brotherhood
+
+(9.1) How can I get past the gate guards?
+
+    You must join up.  Talk to both guards.
+   
+    You can pick the lock using an electronic pick -- the guards
+    don't mind.  This is probably a bug, they do mind if you try
+    to pick it manually or with ordinary picks.
+
+    Or you can kill the guards.  Be ready for a fight if you do this.
+
+(9.2) How can I get the quest to find the initiate?
+
+    You get it by talking to Talus, in the training room on level 1.
+    Ask him about high-tech weapons.
+    Possibly you don't get asked unless you have high speech or karma.
+
+(9.3) Where is the lost initiate?
+
+    In the Hub, northwest part of Old Town, imprisoned by thugs
+    in a house.
+
+(9.4) How can I get some power armor?
+
+    You can get Brothehood Combat Armor just by asking Talus.
+
+    Kyle, doing repair work on level 3, will give you a repairable
+    suit if you find a necessary component.
+
+    You can get power armor from Talus as a reward for freeing the
+    initiate imprisoned at the Hub.  You need good karma to be
+    offered power armor among the rewards.
+
+    You can steal power armor from the supply room, but will then
+    be at war with the Brotherhood.
+
+    Michael the quartermaster only remembers three things to give
+    you, so collect old rewards before getting new ones.
+
+(9.5) How can I get a systolic motivator?
+
+    You can con one out of Michael, the quartermaster, if your speech
+    skill is up to it.
+
+    You can steal one from Rhombus, in his office on level 1.    
+    Don't go into his office with a motivator, he will react as if
+    you stole it even if it's not his.
+
+(9.6) How can I repair this armor?
+
+    You need high repair skill, 75% works.  High luck can work too.
+    Repeated tries at 40% skill using tools worked.
+
+(9.7) I can't leave combat mode to get into the supply room.
+
+    If you try to conquer the Brotherhood, you can kill everybody
+    on level 1 but there are difficulties with the locked supply room.
+    You can't leave combat mode because the hostile enemies inside
+    are too close, and you are not allowed to use a lockpick in combat.
+
+    One solution is to use your picks from inventory, which you are
+    allowed to do.
+
+    Another is to pick the door before you start the war.  One player
+    wanted to get power armor without having to go to the Glow at all.
+    You can kill the guards at the entrance and open the elevator with
+    an electronic lockpick, then you start off level 1 at war.
+
+(10)  Boneyard
+
+(10.1) How can I fix the hydroponic farm?
+
+    You get this quest by talking to Miles, the chemist in Adytum.
+    Miles and Smitty will be willing to do you favors afterward.
+
+    The guy with the missing parts was killed by Deathclaws, he's
+    in the abandoned theater where they live.
+
+    On your first trip there, or first day, or something, there's a
+    dead Merchant in the center east part of the map.  At some point 
+    he becomes a bloodstain.  That is the guy with the missing parts
+    -- they're called Junk.
+
+(10.2) I can't kill the Deathclaws.
+
+    Some tactics people succeeded with: laser or plasma shots to
+    their legs can cripple them, slowing them down enough that
+    you can back away and shoot and they can't close.
+
+    A good hand-to-hand fighter with spiked knuckles hitting them
+    in the eyes does a lot of damage.  Combat Armor and a Power Fist
+    would help more.  Have plenty of stimpaks.
+
+    Power armor and a shotgun or combat shotgun worked.  A sniper
+    rifle and 200% small arms skill did the job with no trouble.
+
+(10.4) How can I save Jan Zimmerman, the mayor of Adytum?
+
+    You can't.
+
+    If you give him the tape, he will attack the Regulators and die.
+    If you attack the Regulators, alone or with the Blades, he will
+    fight on their side.
+   
+    To give him the tape you need to actually have it in your
+    inventory, not just a record in your PIPboy.
+
+    Several ingenious attempts to save Zimmerman were posted. 
+    The best: station NPC's to protect Smitty and Miles (they stay
+    where they are when dismissed, but still fight on your side).
+    Go play the tape for Zimmerman, and immediately hit A to enter
+    combat before the Regulator can kill Zimmerman.  Kill the 
+    Regulator.  This starts the Adytown war.  Zimmerman fights
+    on your side.  But when you end combat Zimmerman attacks you.
+
+(10.5) I killed all the Deathclaws but they're baack.
+
+    Kill them all again and then explore the theater completely, in
+    daylight.
+
+    There's a stairway leading to the basement.  Explore there too.
+
+    You have to kill not just the Mother Deathclaw but also the eggs.
+
+(10.6) How can I find the spy in the Followers?
+
+    Speak with the ghoul in the basement of the library to find out
+    about the spy.
+
+    There is no way to find or deal with the spy -- it was removed
+    from the game.  It's a bug.  This probably also means there's
+    nothing you can do to keep the Followers from being exterminated.
+
+(10.7) Who are those bounty hunter guys in the house behind the library?
+
+    They'll go after you if you're a notorious villain.
+
+(10.8) What is that alphabet soup Christine says?  (C D E D B D Ducks...)
+    
+    Read it aloud.
+    
+    C D E D B D Ducks!		See the itty bitty ducks!
+    M R Not Ducks!		Them are not ducks!
+    O S A R! C D E D B D Wings! Oh yes they are! See the itty bitty wings!
+    O I B M R Ducks		Oh I be! Them are ducks!
+
+    It's a Wasteland reference, to Ellen in Quartz.
+    
+(10.9) Where can I get a turbo plasma rifle?
+
+    Fix the hydroponic farm for Miles in Adytum, then talk to Smitty.
+
+(10.10) Where can I get hardened power armor?
+
+    Fix the hydroponic farm for Miles in Adytum, then talk to Miles.
+
+(10.11) When I went back to talk to Razor she was dead, or just a bloodstain.
+
+    There can be continuity problems in this part of the game.
+    If you've taken on the Regulators, make sure they're all dead before
+    worrying about Razor.
+
+    If you try to take the tape to Zimmerman you'll get into a fight
+    with the Regulators.  Perhaps some of the ways it can turn out
+    involve them going up and killing Razor.  But if you wipe out all the
+    Regulators, Razor will appear alive and well at the town entrance.
+
+(10.12) When the game is over, I always get a sad ending for the Followers.
+
+    Me too.  Nobody has reported a way to get a happy ending.
+
+    But if you finish very rapidly (86 days was sufficient) you don't
+    get the sad ending, or any ending.
+
+(11)  Military Base
+
+(11.0) I can't find the military base.  Where is it?
+
+    Go due northwest from the Brotherhood.
+
+    Set the ghoul leader in Necropolis Hall knows where it is,
+    he can light it up on your map.  The only way I know to get
+    him to be willing to do this is to kill the Master.
+
+(11.1) I can't get past the sentries.
+
+    If you have a radio, or steal one from a guard, you can use it
+    to fake a distress call that draws off 3 of the 4 guards.
+
+    If you ask nicely at the Brotherhood, they'll send a team of
+    crack assault paladins with you.  (They meet you there.)
+
+    If you wear a Cathedral robe, you can try to con your way in.
+
+(11.2) I can't get in the front door.
+
+    To pick it, you need an electronic pick.  To get that, you need to
+    find and join the Thieves' Guild in the Hub.
+
+    Steal from, or search the body of, the door guard to find a clue.
+
+    He has jotted down the combination on a holodisk.
+
+(11.3) The Brotherhood promised me Paladin assistance, where is it?
+
+    They show up when you go up to the base.  They won't go inside
+    with you, they just help with the outside sentries.
+
+(11.4) What can I do with these computers?
+
+    The Mach IV computers won't do anything for you.  Other computers
+    may, if you're good at Science.
+
+    One can be used to more or less shut off the sentry robots.
+    One can be used to control the force fields.
+
+    Not only can you make the robots stop attacking you, but if you tell
+    the computer to have the robots kill LARGE pests (I think that's the
+    setting), the robots will kill some of the mutants for you.
+
+(11.5) I can't get through the force fields.
+
+    The red force fields can't be disabled and don't need to be, you
+    can walk through them.
+
+    The yellow force fields can be disabled by using your repair skill
+    on the force field generators, if you're good enough.  Tools help.
+
+    Explosives will toast the generators and lower the fields.
+
+    A computer in the southeast corner of level 1 controls them.
+
+(11.6) I turned off the force fields but they're still on.
+
+    The force field computer is in the southeast part of level 1.
+    If you have a high Science skill you can get it to turn off the
+    fields, but only momentarily.
+
+    Look at that computer (binoculars).
+
+    You can use a radio on it to set up remote control.
+
+(11.7) What is the deal with Mr. Handy?
+
+    A cleaning robot which you can repair or something, which will
+    blunder into the Vat room force field and blow up, destroying the
+    force field emitter.
+
+(11.8) How can I repair the elevator that's out of order?
+
+    You can't.  If you get captured and brought to the Lieutenant,
+    he will want to drop you in the vats but can't because the elevator
+    isn't working so you get imprisoned instead.
+
+(11.9) I found this key, what does it do?
+
+    Arms the bomb under the Cathedral.
+
+(11.10) I found this encryption decoder disk, what does it do?
+
+    Unknown.  I think it should be used on the Vat Control Computer
+    somehow but wasn't able to make anything happen.
+
+(11.11) I found this security card, what does it do?
+
+    Operates the Vat Control Computer.
+
+(11.12) Here I am the Vat Control Computer, now what?
+
+    If your science skill is too low to operate it, get a security card
+    from one of the techs.
+
+(11.13) I blew up the base but then the game ended suddenly.
+
+    You must escape from the base, getting all the way out to the world map.
+
+(12)  Cathedral
+
+(12.1) How can I get in to the back room?
+
+    Help is available up at the Boneyard, check out the Followers in
+    the Boneyard.
+
+    If you speak politely to Lasher he'll give you a pass.
+
+    If you speak with Nicole, the Follower leader, and ask for help she'll
+    tell you about Laura in the Cathedral who can help.
+
+    Explosives will open it.
+
+(12.2) How can I get through the secret door?
+
+    It's behind the altar.  You need a black key.
+
+    Morpheus on the top floor has it.
+    
+    Excellent lockpickers have been able to pick the door.
+    You can wait until evening and follow Morpheus in.
+    Explosives will open it.
+
+(12.3) How can I get to that dog Sasha behind the Cathedral?
+
+    You can't.  She is the producer's dog.  Sasha is often around
+    somewhere in Interplay games.
+
+(12.4) I keep getting killed!
+
+    Wear a purple robe and Nightkin won't attack.  (Unless you
+    have NPC's with you.)
+
+    There are some unoccupied robes up in the Boneyard, in the
+    middle of the Followers' library.
+
+    There's also one in the Hub hospital, in the locked room.
+
+(12.5) I got into the basement but it's just a library.
+
+    There is a secret door.
+
+    You can use your Traps skill on the bookcase next to it and
+    find a hidden lever.  Then just use the Hand icon on the bookcase
+    and the secret door will open.
+
+    Or if you hang around for a while someone will come out through
+    the door and you can go in.  If he sees you, you may need to do
+    some fast talking or fight him.
+
+(12.6) What can I do with these computers?
+
+    Not a lot.  The Mach IV computers won't do anything for you.
+    Other computers will tell you about the existence of a secret
+    base (and give you some experience points).
+
+(12.7) There's an elevator back there but I can't pick the door.
+
+    Regular lock picks don't help on this door, but an electronic
+    pick will.
+
+    It's a game balance thing.  Thief-type characters who have been
+    sandpapering their fingertips and honing their con-artist skills
+    would be turned to mincemeat by the guards, so can use this back
+    door.  Others can't.
+
+    It leads to a bomb in the basement.  The bomb will be detonated
+    when the Master dies whether you go down there or not.
+
+(12.8) When I walk down this grisly corridor I get nightmares.
+
+    The Master is attacking you psychically.  It does serious stat
+    damage.  Have you talked with the mad scientists on level 2?
+
+    They've invented a Psychic Nullifier to prevent their nut cases
+    from broadcasting.
+
+    Talk with the guys locked in a room in the northwest of level 2.
+    One of them can give you a nullifier, or you can maybe steal one, 
+    or you can murder them.
+
+(12.9) Whenever I free the prisoners, they die.
+
+    Sure enough.  No known way to prevent this.
+
+(12.10) Where can I find Tesla Armor?
+
+    In a footlocker on the top floor of the Cathedral.  It's the best
+    armor against energy weapons, but power armor is better otherwise.
+
+(12.11) Where can I find the Master?
+
+    He's on level 3 under the Cathedral.  You have to get through the
+    door behind the altar.
+
+    Morpheus has a key to that door (see 12.2).
+
+    If you talk with Morpheus and tell him you have information for
+    the Master (without referring to him as "your" Master), Morpheus
+    will teleport you directly there.
+
+(12.12) How can I kill the Master?
+
+    He's immobile.  If you have a long range weapon, you can shoot him
+    and he can't shoot back.  
+
+    Explosives are pretty effective too -- one guy ran up, left a huge
+    pile of armed explosives under him (you can do this in a single
+    inventory access) and took cover behind a pillar.
+
+    Another guy used a Power Fist and found it worked better than
+    shooting at the Master.
+
+    If you talked with Vree about mutant science, and she gave you a
+    holodisk describing the results of her autopsies, you can convince
+    the Master to commit suicide.
+
+    War story: Player approaches down the side of the room, trying 
+    to sneak around behind him.  Master fires, hitting defense robot.
+    Robots attack Master.  Player hides behind pillar, dealing with
+    mutant troops that swarm in while robots continue to attack and
+    eventually kill Master.
+
+(12.13) I blew up the Cathedral but then the game ended suddenly.
+
+    You must escape, getting all the way out to the world map.
+
+(13)  Misc
+
+(13.1) I haven't found a water chip and the 150 days are about to run out.
+
+    The Water Merchants in the Hub will send 100 days worth of water
+    for $2000.  However, if you've run across the mutants in Necropolis
+    you may think that revealing the location of your Vault may
+    not be the best thing to do.
+
+(13.2) Vault 13 was overrun by mutants.
+
+    The mutant army is actively searching for humans to convert.  They
+    will find the Vault eventually.  You have to take care of them before
+    they find it.
+
+    You must destroy the Master before day 500, or day 400 if you sent
+    a water caravan.  (That helps them locate the vault.)  
+
+    This time limit is present in v1.0 only, it's removed in v1.1.
+
+(13.3) If I have NPC's in my party, how are the experience points divided?
+
+    You get the same experience whether you're alone or with others.
+    On the other hand NPC's don't gain levels or skills.
+
+(13.4) How can I develop my character to level 21?
+
+    People have mentioned a couple of ways: fight the Deathclaws in
+    the Boneyard again and again without killing off their Mother,
+    they're worth 1000 xp each.  Or fight super mutant patrols around
+    the military base.
+
+    Death Claws respawn in about an hour.
+
+(13.5) Is there any way to, er, score?
+
+    After rescuing Sinthia in the Junktown hotel, talk with her and 
+    urge her to move on with her life.
+
+    If you're male, speak with Keri, the woman who gives out caravan 
+    assignments at Crimson Caravan in the Hub.
+
+    There's no way to get a date with the Brotherhood guard at the
+    entrance to level 1 -- if you're male and charismatic he's not
+    interested, if you're male and ugly he's *really* not interested,
+    if you're female the conversation turns into a sisterhood thing.
+        
+(13.6) Combat tips
+
+    When fighting animals, which attack hand to hand, shoot and move
+    away so they have to move to attack again -- this uses up their
+    action points and can cost them an attack or two.
+
+    When fighting male humans hand to hand, hitting them in the balls
+    is really effective.
+
+    A sniper rifle at extreme range allows you to shoot at enemies
+    who can't shoot back.  If you aim at their legs and succeed at
+    crippling them, they can't move fast enough to close in.
+
+    A ripper or super sledge in combination with a gun allows you to
+    do this: hit them with the melee weapon and they'll get knocked
+    back and probably on the ground.  Now you can shoot with a huge
+    bonus to hit, and can hit the eyes at 95% even with mediocre skill.
+
+    If you steal from someone and get caught, you can run away rather
+    than get embroiled in a big fight.  Works best if there are not
+    too many people nearby.
+
+    If you plan a campaign of mass extermination, it's a whole lot
+    easier if you first trot around and steal everybody's stimpaks,
+    extra ammo, and if possible, weapons.
+
+    If you should happen to encounter a crowd of mutants somewhere,
+    and are wearing power armor, run into the crowd, ideally next
+    to somebody with a rocket launcher.  They'll do much more harm
+    to each other than to you.  Or, in the military base or cathedral, 
+    wear robes and plant ticking dynamite on one member of the crowd.
+
+    Or, also fun in crowds of mutants, try a character with Fast Shot
+    and Bonus HtH and a Super Sledge.
+
+(13.7) How does bartering work?
+
+    The base price is determined by comparing your Barter skill with
+    the Barter skill of the NPC, along with the NPC's reaction to you
+    and in some cases a store-specific modifier (some stores are more
+    expensive than others).  NPC reactions are based on your Charisma
+    and your reputation.  Some NPC's favor positive reputations, others
+    negative.	
+
+    The price of goods sold doesn't depend on skill.
+    For buying, skill 30 gets decent prices, skill 10 gets you robbed.
+
+(13.8) How do lockpicks work?
+
+    Lockpicks usually add +20% to your chance of success.  On some doors,
+    they offset a penalty for not having lockpicks (-30, -40, or more).
+
+(13.9) What is fruit good for?
+
+    It heals you a few points.
+
+(13.10) What is Iguana On A Stick good for?
+
+    You can give it to animals to feed them.
+
+(13.11) What is Nuka-Cola good for?
+
+    You can get addicted to it.  Just like real life!
+
+(13.12) What are Beer and Booze good for?
+
+    You can drink them and lose a little Perception for a while.
+
+(13.13) What is a Lighter good for?
+
+    Unknown.
+
+(13.14) What is a Flower good for?
+
+    Unknown.
+
+(13.15) What is a box of Instant Spagetti good for?
+
+    Unknown.
+   
+(13.16) Where are all the NPC's?
+
+    Ian in Shady Sands.
+    Dogmeat and Tycho in Junktown.
+    Tandi at the Raider camp.
+    Katja in the Boneyard.
+
+    Katja can use all one-handed guns, not only an SMG as she says.
+    And she can pick locks, talk to her in front of a locked door.
+    
+(13.17) Where is the mutant army?
+
+    Offstage.  There is a large army gradually taking over the world,
+    or at least Southern California, much too big to fight.  You never
+    see it, just its effects.
+
+(13.18) I'm addicted to drugs, what does that mean?
+
+    Drugs act in three stages: they increase some of your stats above
+    normal for a while, then they decrease them below normal, then they
+    return to normal.  If you're addicted they don't return to normal
+    until the addiction wears off.
+
+(13.19) How can I increase my stats?
+
+    Drugs increase them temporarily.
+
+    The Brotherhood surgeon can increase most of them, for a price.
+	Strength	$2k	3wks
+	Perception	$4k	1wk
+	Endurance	$3k	1wk
+	Intelligence	$6k	3wks
+	Agility		$5k	3wks
+    If you're very dimwitted you can get an intelligence boost for
+    half price.
+
+    Chuck, the gypsy fortuneteller in Adytum, can increase your Luck.
+    Get your fortune told.  Don't offend him.  (There are two different
+    conversation paths that lead to fortune.)
+
+    Patrick the Celt, a wandering bard you meet in the mountains, can
+    increase your Charisma.  Ask him to sing a song in Gaelic.
+    Save first, it seems to be random whether you get the topic.
+
+    Being radiated and not dying increases your stats.  This is a bug
+    in v1.0 only, it's fixed by the v1.1 patch.
+
+    You can have more than 10 action points.  There are only ten lights
+    on the combat display but e.g. if you have 11 AP and use 2 it will
+    show that you have 9 left.
+
+(13.20) How can I increase my skills?
+
+    MacRae, the door guard at Blades HQ in the Boneyard, will teach
+    you combat skills if you make life safe for the Blades.
+    It won't help skills that are already high, maybe 91%.
+
+    The first time you talk to Talus, in the gym on Brotherhood level 1,
+    if you just stand inside the room and watch the training going on,
+    you'll pick up +5% melee and +5% unarmed skill.  You need to be
+    patient and watch the trainer go blah blah blah 'Do not extend
+    yourself' etc.  At the end of training, you will also gain 500 exp.
+
+    Vree, the head Brotherhood scribe on level 3, can give you a
+    computer course that gives you +15% science skill.
+
+    The library in Vault 13 contains a computer study course that 
+    can give you 300-400 xp.  If your character is very young you
+    might spend time "browsing the inter-web" and get nothing.
+
+    The Hub library has lots of books for sale; you can increase your
+    skills up to 91% with books, if you have the cash.  If you turn
+    down the game difficulty the limit is higher -- 101 for normal
+    or 121 for easy.
+
+(13.21) What random encounters are out there?
+
+    High Luck and Perception get you lots of random encounters.
+    These are known:
+     Crashed UFO (alien blaster and picture of Elvis)
+     Tardis (motion detector)
+     Godzilla's footprint (stealth boy)
+     Bob's Used Cars (regular and LE BB guns)
+     Overturned Truck (caps)  (luck 8: $5k, luck 10: $10k)
+     Patrick the Celt (charisma)
+     Talking Brahmins (unknown)
+       [these are "the Snow Cows from Darker Realms", a MUD Tim Cain
+        used to play in.  He "used to enjoy teleporting them into
+	one of the other wizard's workroom."]
+
+    Patrick is seen in the mountains, the others the desert, or
+    sometimes city.
+
+    Other encounters have no "prize" and can be bad:
+      Raiders
+      Town Guards (Hub, Junktown, Brotherhood, whatever's nearby)
+      Caravan (you can join if they're going your way)
+      Raiders attacking something (civilians, guards, other raiders)
+      Animals (all kinds, rats up to deathclaws, and praying mantises)
+      Animals attacking animals
+      Lone peasant, deathclaw ate the caravan he was guarding
+      Fisherman and his son (only by the seashore)
+
+(13.22) Why did my character act that way with the Overseer at the very end?
+
+    Your character fires if you took Bloody Mess or are evil (negative
+    reputation or Berserker or Childkiller).
+
+
+ --- Cheap Tricks -------------------------------------------------------------
+
+   Note: some of these may not behave the same after the v1.1 patch.
+
+   The gun runners will give you a discount if you take care of their
+   Deathclaw problem.  You can then buy something and sell it right
+   back for more.  Repeat until tired.
+
+   The same thing works with any NPC if your barter skill is better than
+   theirs.  Also steal/save/reload can result in NPC's having new money
+   to steal.
+
+   Again at the gun runners: finish the Deathclaw quest, go talk to the
+   Gunrunners' leader, you get 1000 xp.  Talk to him again, and he'll
+   think you haven't finished the quest.  Move to another map, move back,
+   talk to him again, get another 1000 xp.  Repeat until tired.
+   This doesn't work in v1.1.
+
+   In the Hub, Oldtown: talk to Slappy and ask him to take you to the
+   Deathclaw cave (800 xp).  Optionally kill Deathclaw.  Return to town,
+   return to Slappy, ask again (800 xp).  Repeat until tired.
+   This doesn't work in v1.1.
+
+   In the Boneyard, Blades hangout: after the Regulators are defeated,
+   talk to Michael, the intense young man in the first room.  Turn down
+   his offer to reward you and he'll give you stimpaks and caps.  Repeat.
+   Also, your karma goes up by one each time you do this.
+
+   If Iguana Bob has agreed to buy your silence, you can collect your
+   weekly payment over and over again.  Your karma goes down each time.
+   This one doesn't work in v1.1.
+
+   If you took Gifted, choose the Mutate! perk and change it to something
+   else, you lose the -10% skill penalty but don't lose the stat bonus.
+   This one doesn't work in v1.1.
+
+   The door at Killian's store is open at 0600 but Killian isn't up yet.
+   You can walk in and help yourself.  This doesn't work in v1.1.
+
+   You can barter with Vance the drug dealer even if his conversation
+   has told you to get lost.  Maybe this is true of all NPC's who are
+   mad at you.
+
+   NPC's will accept stuff via barter without checking their weight
+   limit.  You can give them arbitrary loads of loot this way.
+
+   If some conversation path that can offer experience does not come up
+   in dialog, you can get the experience anyway by using the 'tell me
+   about' box.  For instance mentioning crop rotation to the Shady Sands
+   farmer gets you 500 xp even when it doesn't come up in conversation.
+
+   At the Glow, get really radiated before returning.  On the way back
+   you get massive stat losses due to radiation but then massive permanent
+   stat gains.  How radiated to get is not clear, people have lived with
+   999 rems on the geiger counter and died with 600.  Save and experiment. 
+   This is a bug in v1.0 only, it's fixed in the v1.1 patch.
+   
+   To steal the Systolic Motivator from Rhombus, if you can't get away
+   with it by normal means: take it and drop it somewhere before he
+   catches you.  Get him to let you off with a warning.  Pick it up
+   and leave.  Avoid him after that, he'll throw you out.  Or when you
+   steal it, pop it in a bag, you'll keep it when he evicts you.
+   Or enter combat mode (A key) when Rhombus hears you and escape.
+   If you have enough APs, enter combat mode to get into his room during
+   the day, steal the motivator, and leave.  He never even blinks.
+
+   A similar method can be used to steal Hightower's necklace
+   painlessly.  If you go in the daytime, a high speech skill will
+   allow you to talk your way past the guards.  You can then enter
+   combat mode when you get near the door to Hightower's office, walk
+   right past him into the room with the strongbox, steal the
+   necklace, and walk out again, without him accosting you.
+
+   Using the 'A' key to get into combat mode is good for other
+   situations, you can easily do many things unobserved that would
+   be nearly impossible otherwise.  Hold down the A key if you run
+   out of action points and want to stay in combat mode.  Hit A
+   while a screen for a random encounter is loading to get the 
+   first move.
+
+   Talus and his students in the Brotherhood gym are oblivious to
+   pickpocket.  You can repeatedly poke through their pockets until
+   you are successful without any ill effects.  Net result: free
+   stimpacks, assault rifles, and 5mm ammo.
+
+   You can use drugs to qualify for a perk at any time.  You don't need
+   to plan your high to coincide with a new level.  Just hit Esc or click
+   cancel for selecting a perk and use your drugs when it's convenient
+   then check the character screen again.
+
+   If you increase your Intelligence at the Brotherhood, and have not
+   looked at the character sheet since going up a level (or several), 
+   you get skill points determined by your new intelligence.  It doesn't
+   work that way with Endurance and hit points.
+
+   Books won't increase a skill above 91%, but if you're recovering from
+   drugs and have depressed stats, you can study up to 91% and then when
+   your stats recover you'll be above that.
+
+   In character creation, you can get a stat up to 11 by starting it
+   at 10 and then picking Gifted.  This doesn't give you any stat
+   increases above 10, so it's likely useless.
+
+
+ --- Blitz Play ---------------------------------------------------------------
+
+   If you finish off the Cathedral and Vats before day 150, you get
+   a successful ending even if you didn't return the water chip.
+
+   A route that allows you to finish very quickly is:
+    Hub for electronic lock pick at the Thieves Circle
+    Brotherhood -- pick the elevator -- for Vree's tape and power armor
+    Boneyard for Turbo Plasma Rifle and xp
+    Cathedral to kill Master
+    Hub and Boneyard for Hardened Power Armor
+    Military Base for endgame.
+
+   One player finished on day 41 using a similar route.  He recommends
+   Int 10 to max skill points, you will be a low level character the
+   whole game, Agi 6 for AP's to run away from random encounters,
+   the rest 4 or so to pump up Charisma.  Take Skilled and Good Natured
+   and tag Sneak, Speech, Lockpick.
+
+   Overland travel takes up time.  Doing a lot at a single location 
+   doesn't.  You can rack up experience killing Deathclaws and get
+   to a high enough level that you can face the Master without either
+   power armor or Vree's tape -- i.e. you can skip the Brotherhood.
+
+   Getting to the base via capture in Necropolis is tricky, you have
+   no robe and getting one by killing Children in the control room
+   sets off alarms.
+
+   Here's one that allows you to hit more of the side quests
+   but wastes no time:
+    Return immediately to Vault 13 for the side quests
+    Shady Sands Radscorpions, Vault 15, Shady Sands kidnapping
+    Raiders
+    Junktown
+    Hub
+    Necropolis, get Harry's laser rifle and start working on energy skill
+    Glow
+    Hub
+    Brotherhood (optional) for power armor
+    Adytum
+    Cathedral
+    Hub
+    Brotherhood (if you didn't go above)
+    Vault 13 to deliver the chip
+    Military Base.
+
+
+ --- Hackery ------------------------------------------------------------------
+
+   The Skilled trait is supposed to give you 5 more skill points to spend
+   when you go up a level.  It doesn't.  You can get this effect by 
+   awarding yourself 2 or 3 ranks of Educated. (2.5 ranks would produce
+   5 extra skill points but you must pick either 2 or 3).  To do this,
+   hex-edit a saved game and add 2 or 3 to the value in location 8E0F.
+   It's not always at that location; if not, locate the perks area,
+   mark several of them, load the game and see what happened, pick the
+   right one.
+
+   The above is basically a workaround for a bug.  The following is pure
+   cheat.  When creating a character, use SAVE CHARACTER and choose
+   some name, for example PLAYER.  Hex edit the file PLAYER.GCD and alter
+   the last byte.  It's the number of attribute points you have left to
+   spend.  Set it to anything you please.  Now go through Create New
+   Character again, load PLAYER, and assign the stolen points as you like.
+
+
+ --- Credits ------------------------------------------------------------------
+   
+   I'm not happy with this mass attribution but things got very cluttered,
+   and lengthy, otherwise.  If anybody's unhappy, let me know and I will
+   rectify the matter.
+
+                        ALang       alangt          ibm.net
+                        B.S         vortex          california.com
+         Christopher H. Baer        chbaer          cris.com
+                        Balut       balut           jhu.edu
+                   Bill Bohlen      Bill.Bohlen     worldnet.att.net
+                    Tim Bolin       tbolin          nospam.com
+                Chia K. Boon        ckboon          pacific.net.sg
+                Timothy Cain        caintim         ix.netcom.com
+                 Nathan Carter      ncarter         ritchie.acomp.usf.edu
+               Chia-Hao Chang       cchang          vicious.cis.ohio-state.edu
+                Kay-Yut Chen        kychen          hpl.hp.com
+              Fallout's Chris       anarchy         netcom.com
+                 John M Clancy      jmclancy        ix.netcom.com
+                Charles Cox         ccox            gsvms2.cc.gasou.edu
+                        cparn1138   cparn1138       aol.com
+                Jeffrey Crawford    drizzit         ccwf.cc.utexas.edu
+                   Andy Curlutu     acurlutu        neo.lrun.com
+                 Carlos DaSilva     cdasilva        earthlink.net
+                William Davis       wishda          mindspring.com
+                  Chris Dinardo     cdinardo        tao.agoron.com
+                  Jason Doyama      me              microsoft
+                        doyon       doyon           erols.com
+                   Lost Dragon      lostdrgn        cris.com
+                  Plugh Dragon      no-spam         thank.you.com
+                  Brent Edger       brente          ee.net
+                   Josh Errington   llew            ix.netcom.com
+                        evilsofa    flodin          eskimo.com 
+                    Tim Faulkner    timfaulk        concentric.net
+                   Boba Fett        boba_fett       newfire.com
+                    Ian Firth       divsoft         dim.com
+                    Rik Flor        rik.flor        abbott.com
+              George P. Fono        fono            better.net
+                     M. Gardner     mpgardner       ghg.net
+                   Jeff Green       jhgreen         zd.com
+                  Brian Griffin     bdg             tiac.net
+                  Keith Grimes      kgrimes         aracnet.com
+                  Brett Hall        swizin          rain.org
+                   Erik Harris      esh7            cornell.edu
+                  Scott Harvey      sharvey         enteract.com
+                    Joe Hendrix     joeeeee         mail.utexas.edu
+                     A. Heshmat     Ah269834        hvcc.edu
+           Alex Van Der Hengst      vanderhengst    mindspring.com
+              Khor Chin Hong        khor            kch.pl.my
+                    Tim Hume        hume            deltanet.com
+                        Ian         iadmontg        undergrad.math.uwaterloo.ca
+                    Joe II          jpgmer          worldnet.att.net
+                  Chris Irby        chrisirby       topher.net
+                Peter N Ivanov      tuidjy          mit.edu
+                    Tim Iverson     iverson         lionheart.com
+                        Jag         gibbin          swbell.net
+                        Jones       cej             cbncp5.cb.att.com
+                   Greg Kasavin     greg            mail.gamespot.com
+                  James Keller      Genius          MIT.edu
+                    Joe Kraska      jkraska         bbn.com
+                   Cmdr Krud        au79            primenet.com
+                        Lammy       ricki           xmission.com
+                   Mike Lee         mikelee         hatman.com
+              Steven K. Lee         slee            balink.com
+                  Chris List        chris.list      sc.siemens.com
+                  Bemis Lovecraft                   hooked.net
+                    Bob Luthardt    luthardt        clark.net
+                  Jerel Mackay      jerel           cs.wisc.edu
+                 Viktor Magyar      vic             goliat.eik.bme.hu
+                   Alex Mars        alexmars        aol.com
+                Dave C. Martin      myros           diac.com
+                        MCBad4Life  mcbad4life      aol.com 
+                  Kevin Murphy      MurphKE1        aplmsg.jhuapl.edu
+                   Cory Muzyka      corym           zadall.com
+                   Carl Ng          yeechiew        pacific.net.sg
+                  Scott Nickell     salvius         earthlink.net
+                        Nils        OgoIII          aol.com
+                        Pantera     daveo           xmission.com
+                     C. Patchet     cpatchet        NMSU.Edu
+                    Joe Pesci       taipan          ihug.co.nz
+                   Toan Pham        tpham           netcom.com
+                  Helge Philipp     helge.philipp   artis.uni-oldenburg.de
+                    Dan Phillips    shuruga         halcyon.com
+                        Piemax      obruden         ziplink.net
+                  David Pipes       robear          home.com
+                        Presto      presto          cdc.net
+                        Psychodad   v4vlad          sirius.com
+                Marc H. Rains       mrains          swbell.net
+                        Raistlin    daveo           xmission.com
+                    Kim Rivers      mdnite::rivers  evms.enet.dec.com 
+                    Ken Robertson   krobert         erols.com
+                   Matt Rollefson   rollie          next.com
+                  Brain Rot         chepaul         sprintmail.com
+              Trebor A. Rude        trebor          mnsinc.com
+                    Sam Schlansky   sam             allgames.com
+                   Paul Schmidt     kuato           netcom.com
+            Tshiung Han See         thsee           pl.jaring.my
+                   Dave Sherohman   esper           corlabs.com
+                        Skisko      Skisko          mail.hsc.wvu.edu
+               Clark S. Smith       clarkss         concentric.net
+                 Thomas Stockheim   tommi           informatik.rwth-aachen.de
+                        tcmac       tcmac           sprintmail.com
+                  David Teach       d.teach         ix.netcom.com
+                     A. Teilans     ateilans        bloomington.in.us
+                        Thain       weclark         inls.com
+                  Jason Thies       thies910        uidaho.edu
+           Crisper Than Thou        crisper         armory.com
+               Julian F Waldby      waldby          coewl.cen.uiuc.edu
+                        walker      kilgard         mendel.berkely.edu
+                Russell Webb        rwebb           panix.com
+                    Tom Whipple     twhipple        unicom.net 
+                   Alec Wills       awills          earthlink.net
+             Michael Y. Wu          mwu             taurus.oac.uci.edu
+          International 4-8818      Wchester        worldnet.att.net
+                                    noone           not.here
+
+ ------------------------------------------------------------------------------
+		   Copyright (C) 1997  Chris Smith
+ ------------------------------------------------------------------------------
+
+ 

@@ -1,0 +1,16 @@
+PC/FB: Top Defenders (Blissey, Chansey, Snorlax)
+	- NORMAL type doubly-resists GHOST and is weak to FIGHTING, so FOCUS BLAST instead of SHADOW BALL
+	- Against top defenders FB is not overkill 
+	- PSYCHO CUT: maximize EPS for FB, its SE damage compensates lesser DPS than CONFUSION
+	- Better dodgeability crucial to charge more 1-bar FB
+
+PC/SB: Psychic Specialist (Mewtwo itself, Alakazam)
+	- PSYCHIC type is weak to GHOST, so SHADOW BALL
+	- PSYCHIC type resists PSYCHIC, so no PSYCHIC and fast move DPS not so relevant
+	- PSYCHO CUT: maximize EPS for SB, its SE damage compensates lesser DPS than CONFUSION
+
+C/SB: Generalist
+	- CONFUSION highest neutral DPS
+	- SHADOW BALL is 2-bar and highest neutral DPS
+
+C/P: Fighting/Poison Specialist (Machamp, ?)

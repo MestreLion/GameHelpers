@@ -1,0 +1,349 @@
+Updates:
+9/3/2000 Header added, a few new spell/item effect subroutines added,
+elemental damage subroutines added.
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+The disassembled code reproduced here is only the code that I believe I fully
+understand at the moment. Other disassembled code will be added later once I
+can fully comment it.
+
+The subroutine to look up a spell effect subroutine address in a table and
+jump to it is disassembled here:
+
+03:D297   ASL  A            ;A register holds the subroutine #
+03:D298   TAX
+03:D299   LDA  $03E07C,X
+03:D29D   STA  D,$80
+03:D29F   LDA  $03E07D,X
+03:D2A3   STA  D,$81
+03:D2A5   LDA  #$03
+03:D2A7   STA  D,$82
+03:D2A9   JML  ($0080)
+
+So this tells us that the table of spell effect subroutines is located at
+1E27C (in the ROM with header).
+
+The table is reproduced here with commentary:
+
+E# CPUa Used by (not a complete list)
+-- ---- -----------------------------
+00 D378
+01 D3B2
+02 D40C Cure1, Cure2, Cure3, Cure4, Asura
+03 D443 Storm, Weak
+04 D466 Drain
+05 D488 Psych
+06 D505
+07 D5A6 Hold, Sleep, Pin, Tongue, Entangle, Gas
+08 D613 Blink, Image
+09 D61C Wall
+0A D64B Life1, Life2
+0B D6E8 Heal
+0C D81A Piggy, Size, Toad
+0D D83F Armor
+0E D863 Shell
+0F D887 Slow, Fast, DullSong
+10 D8A0
+11 D8DE
+12 D917 Peep
+13 D972
+14 D990
+15 D9EC Ether1, Ether2
+16 DA0C Elixir
+17 DA1E
+18 DA66
+19 DA7F
+1A DAA1
+1B DB52
+1C DBA8
+1D DBA8
+1E DBD8
+1F DC1E
+20 DC83
+21 DCA3
+22 DCBE
+23 DCE3
+24 DCEE
+25 DD05
+26 DD1A
+27 DD39
+28 DD7D
+29 DD83
+2A DD99
+2B DDB1
+2C DD4D
+2D DDC4
+2E DDC1
+2F DDC5
+30 DDC9
+31 DE1C
+32 DFBA
+33 DFC0
+34 DFD3
+35 DFE8
+
+At the time this subroutine is called, the target's data has been copied to
+2700-277F in RAM. The caster's data has been copied to 2680-26FF. The
+subroutines modify this data. The relevant spell/item table entry has been
+copied to 289C-28A1. 28A2-28A4 contain the elemental/status table entry for
+the spell/item. Locations CD and CE in the zero page designate the caster and
+target; if the MSB is set, it is the number of a monster slot, otherwise it is
+a character slot. After the subroutine returns, A2-A3 is damage done to the
+caster (MSB/bit 0 set for HP recovery, bit 1 set for MP damage which should
+only be displayed by following code as the actual damage is handled by the
+effect subroutine) and A4-A5 is damage done to the target (ditto).
+
+Here is the spell effect subroutine 00 (used by Fire/Ice/Lit 1-3 and too many
+other spells to list):
+
+03:D378   JSR  $E0E8    ;adjust elemental damage for elemental defenses
+03:D37B   LDA  $38FE
+03:D37E   BPL  $D388    ;if the elemental damage is positive, go on to check
+                        ;for weaknesses
+03:D380   AND  #$7F
+03:D382   STA  $38FE    ;otherwise, make it positive
+03:D385   JMP  $D416    ;and treat it as a cure spell (but skipping the undead
+                        ;check)
+03:D388   JSR  $E11B    ;adjust elemental damage for elemental weaknesses
+03:D38B   LDA  $2704
+03:D38E   AND  #$40     ;check to see if the target is floating
+03:D390   BEQ  $D3AE    ;if not, skip the checks for earthquake attacks
+03:D392   LDA  $352A
+03:D395   BNE  $D3A7    ;if an item is being used, go and check to see if it
+                        ;is the Earth Drum
+03:D397   LDA  $26D2
+03:D39A   CMP  #$28     ;check to see if the spell is the black magic Quake
+03:D39C   BEQ  $D3B1    ;if it is, return
+03:D39E   CMP  #$55     ;check to see if the spell is the call magic Titan
+03:D3A0   BEQ  $D3B1    ;if it is, return
+03:D3A2   CMP  #$A1     ;check to see if the spell is the enemy spell Quake
+03:D3A4   BNE  $D3AE    ;if it isn't, go ahead and determine damage
+03:D3A6   RTS           ;otherwise, return
+03:D3A7   LDA  $26D2
+03:D3AA   CMP  #$C7     ;check to see if the item is the Earth Drum
+03:D3AC   BEQ  $D3B1    ;if it is, return
+03:D3AE   JSR  $C99F    ;call damage determination subroutine
+03:D3B1   RTS
+
+Here is the spell effect subroutine 02 (used by all Cure spells and potions):
+
+03:D40C   LDA  $2740
+03:D40F   AND  #$80     ;check to see if target is undead
+03:D411   BEQ  $D416
+03:D413   JMP  $D3AE    ;if so, do a straightforward damage determination
+03:D416   LDA  $352A
+03:D419   BNE  $D439    ;if an item is being used, do a normal cure
+03:D41B   LDA  $26D2
+03:D41E   CMP  #$11     ;check to see if the spell is the white magic Cure4
+03:D420   BNE  $D439    ;if it isn't, do a normal cure
+03:D422   LDA  $3906
+03:D425   CMP  #$01
+03:D427   BNE  $D439    ;if the number of targets isn't one, do a normal cure
+                        ;otherwise, restore all lost HP...
+03:D429   REP  #$20     ;16 bit A register
+03:D42B   SEC
+03:D42C   LDA  $2709
+03:D42F   SBC  $2707
+03:D432   STA  D,$A4    ;damage done to target = target's max HP - target's
+                        ;current HP
+03:D434   TDC
+03:D435   SEP  #$20     ;8 bit A register
+03:D437   BRA  $D43C    ;and skip normal damage determination
+                        ;for normal cures, use normal damage determination
+03:D439   JSR  $C99F    ;call damage determination subroutine
+03:D43C   LDA  D,$A5
+03:D43E   ORA  #$80
+03:D440   STA  D,$A5    ;set cure bit in damage
+03:D442   RTS
+
+Here is the spell effect subroutine 04 (used by Drain):
+
+03:D466   LDA  D,$CD
+03:D468   CMP  D,$CE
+03:D46A   BEQ  $D487    ;check to see if user is the target, if so do nothing
+03:D46C   JSR  $C99F    ;determine damage
+03:D46F   LDX  D,$A4
+03:D471   STX  D,$A2    ;assign damage to caster equal to damage to target
+03:D473   LDA  $2740
+03:D476   AND  #$80     ;check to see if target is undead
+03:D478   BEQ  $D481
+03:D47A   LDA  D,$A5
+03:D47C   ORA  #$80
+03:D47E   STA  D,$A5    ;if undead, set highest bit in target damage (cure)
+03:D480   RTS
+03:D481   LDA  D,$A3
+03:D483   ORA  #$80
+03:D485   STA  D,$A3    ;if not undead, set highest bit in caster damage
+                        ;(cure)
+03:D487   RTS
+
+Here is the spell effect subroutine 05 (used by Psych):
+
+03:D488   LDA  D,$CD
+03:D48A   CMP  D,$CE
+03:D48C   BNE  $D48F    ;check to see that user is not the target target
+03:D48E   RTS
+03:D48F   JSR  $C99F    ;determine damage
+03:D492   LDX  D,$A4
+03:D494   STX  D,$A2    ;assign damage to caster equal to damage to target
+03:D496   LDA  $2740
+03:D499   AND  #$80     ;check to see if target is undead
+03:D49B   BEQ  $D49F
+03:D49D   BRA  $D4DC
+03:D49F   REP  #$20     ;16 bit A register
+03:D4A1   SEC
+03:D4A2   LDA  $270B
+03:D4A5   SBC  D,$A4    ;if target is not undead subtract damage from target's
+                        ;MP
+03:D4A7   BCS  $D4B5
+03:D4A9   LDA  $270B
+03:D4AC   STA  D,$A4
+03:D4AE   STA  D,$A2    ;if the damage was greater than target's MP, lower
+                        ;damage to target's MP
+03:D4B0   STZ  $270B    ;target's MP = 0
+03:D4B3   BRA  $D4B8
+03:D4B5   STA  $270B    ;if it wasn't greater than target's MP, store the
+                        ;result
+03:D4B8   CLC
+03:D4B9   LDA  $268B
+03:D4BC   ADC  D,$A4
+03:D4BE   STA  $268B    ;add damage to caster's MP
+03:D4C1   LDA  $268D
+03:D4C4   CMP  $268B
+03:D4C7   BCS  $D4CC
+03:D4C9   STA  $268B    ;if MP is greater than maximum, set it to maximum
+03:D4CC   TDC           ;A register = 0
+03:D4CD   SEP  #$20     ;8 bit A register
+03:D4CF   LDA  D,$A5
+03:D4D1   ORA  #$40
+03:D4D3   STA  D,$A5    ;set MP damage bit in target's damage
+03:D4D5   LDA  D,$A3
+03:D4D7   ORA  #$C0
+03:D4D9   STA  D,$A3    ;set cure and MP damage bit in caster's damage
+03:D4DB   RTS
+03:D4DC   REP  #$20     ;16 bit A register
+03:D4DE   SEC
+03:D4DF   LDA  $268B
+03:D4E2   SBC  D,$A4    ;if target is undead subtract damage from caster's MP
+03:D4E4   BCS  $D4F2
+03:D4E6   LDA  $268B
+03:D4E9   STA  D,$A4
+03:D4EB   STA  D,$A2    ;if damage was greater than caster's MP lower damage
+                        ;to caster's MP
+03:D4ED   STZ  $268B    ;caster's MP = 0
+03:D4F0   BRA  $D4F5
+03:D4F2   STA  $268B    ;if it wasn't greater than caster's MP, store result
+03:D4F5   TDC           ;A register = 0
+03:D4F6   SEP  #$20     ;8 bit A register
+03:D4F8   LDA  D,$A3
+03:D4FA   ORA  #$40
+03:D4FC   STA  D,$A3    ;set MP damage bit in caster's damage
+03:D4FE   LDA  D,$A5
+03:D500   ORA  #$C0
+03:D502   STA  D,$A5    ;set cure and MP damage bit in target's damage
+03:D504   RTS
+
+Here is the spell effect subroutine 08 (used by Blink and Image):
+
+03:D613   LDA  $2706
+03:D616   ORA  #$0C
+03:D618   STA  $2706    ;set the image bits in the target status to both 1
+                        ;(three images)
+03:D61B   RTS
+
+Here is the spell effect subroutine 0F (used by Fast, Slow, and DullSong):
+
+03:D887   CLC
+03:D888   LDA  $273B
+03:D88B   ADC  $289D    ;add byte 01 of spell data to target speed modifier
+03:D88E   CMP  #$20
+03:D890   BCS  $D89A    ;if speed modifier >= #20, set it to #20 and return
+03:D892   CMP  #$0C
+03:D894   BCS  $D89C    ;else if speed modifier < #0C set it and return
+03:D896   LDA  #$0C
+03:D898   BRA  $D89C    ;if it's less than #0C, set it to #0C and return
+03:D89A   LDA  #$20
+03:D89C   STA  $273B
+03:D89F   RTS
+
+Here is the spell effect subroutine 15 (used by Ether1 and Ether2):
+
+03:D9EC   JSR  $C99F    ;call damage determination subroutine
+03:D9EF   REP  #$20     ;16 bit A register
+03:D9F1   CLC
+03:D9F2   LDA  D,$A4
+03:D9F4   ADC  $270B    ;add the "damage" to the target's mp
+03:D9F7   CMP  $270D
+03:D9FA   BCC  $D9FF
+03:D9FC   LDA  $270D
+03:D9FF   STA  $270B    ;if mp is greater than maximum, set it to maximum
+03:DA02   TDC           ;A register = 0
+03:DA03   SEP  #$20     ;8 bit A register
+03:DA05   LDA  D,$A5
+03:DA07   ORA  #$C0
+03:DA09   STA  D,$A5    ;set cure, mp bits in damage value
+03:DA0B   RTS
+
+Here is the spell effect subroutine 16 (used by Elixir):
+
+03:DA0C   REP  #$20     ;16 bit A register
+03:DA0E   LDA  $2709
+03:DA11   STA  $2707    ;target's hp = target's max hp
+03:DA14   LDA  $270D
+03:DA17   STA  $270B    ;target's mp = target's max mp
+03:DA1A   TDC           ;A register = 0
+03:DA1B   SEP  #$20     ;8 bit A register
+03:DA1D   RTS
+
+This subroutine adjusts the elemental damage modifier for elemental defenses:
+
+03:E0E8   LDA  $2726    ;get target elemental immunities
+03:E0EB   AND  $28A2    ;check to see if target is immune to any elements used
+                        ;in the attack
+03:E0EE   BEQ  $E101
+03:E0F0   TDC           ;A register = 0
+03:E0F1   STA  $38FE    ;if target was immune to any attack elements, set
+                        ;elemental damage multiplier to 0
+03:E0F4   LDA  $2726
+03:E0F7   AND  #$40     ;test to see if target is both immune and absorbs
+03:E0F9   BEQ  $E11A    ;if not, return
+03:E0FB   LDA  #$84
+03:E0FD   STA  $38FE
+03:E100   RTS           ;otherwise, elemental damage is negative (healing)
+                        ;and twice normal!
+03:E101   LDA  $2725
+03:E104   AND  $28A2    ;check to see if target resists/absorbs any elements
+                        ;used in the attack
+03:E107   BEQ  $E11A    ;if not return with elemental damage multiplier intact
+03:E109   LDA  #$01
+03:E10B   STA  $38FE    ;set elemental damage multiplier to 1 (half damage)
+03:E10E   LDA  $2725
+03:E111   AND  #$40     ;check to see if blocked elements are absorbed
+03:E113   BEQ  $E11A    ;if not, return (with half elemental damage)
+03:E115   LDA  #$82
+03:E117   STA  $38FE    ;otherwise, elemental damage is negative (healing)
+03:E11A   RTS
+
+This subroutine adjusts the elemental damage modifier for weaknesses:
+
+03:E11B   LDA  $38FE    ;check the elemental damage multiplier
+03:E11E   CMP  #$02
+03:E120   BNE  $E13D    ;if it isn't normal damage (there was an elemental
+                        ;defense involved), return
+03:E122   LDA  $2721
+03:E125   AND  $28A2    ;check to see if target is very weak vs. any of the
+                        ;attack elements
+03:E128   BEQ  $E130    ;if not, go check for normal weakness
+03:E12A   LDA  #$08
+03:E12C   STA  $38FE    ;if so, set elemental damage to four times normal
+03:E12F   RTS
+03:E130   LDA  $2720
+03:E133   AND  $28A2    ;check to see if target is weak vs. any of the attack
+                        ;elements
+03:E136   BEQ  $E13D    ;if not, return
+03:E138   LDA  #$04
+03:E13A   STA  $38FE    ;if so, set elemental damage to twice normal
+03:E13D   RTS
+

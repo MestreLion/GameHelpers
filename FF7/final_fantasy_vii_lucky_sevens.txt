@@ -1,0 +1,412 @@
+
+              FINAL FANTASY VII: Lucky 7's guide.
+                      By: Ethan Madsen
+                         v3.0
+                    {Lyenhardt16@aol.com}
+              Original Writing: December 30, 1999
+                Latest Writing: January 17, 2000
+-----------------------------------------------------------------------       
+                 
+
+     This is my first FAQ, so I might be a little awkward this time around.  
+Let me know how I done, and tell me if you could find an easier way to do 
+this trick I'm about to tell you, without the use of the gameshark or other 
+cheating devices.  
+                          
+                                                 -Ethan Madsen-
+
+
+     Table of Contents:
+    --------------------
+
+1. Legal Notice         (Updated)
+2. Description/Intro
+3. Items You Need
+4. How to do the Trick
+5. Uses of the Trick
+6. Miscellaneous Stuff  (Updated)
+7. Thanks               (Updated)
+8. Revision Notices     (Updated)
+
+
+
+
+ (1.)   LEGAL STUFF TO TAKE SERIOUSLY  (Updated)
+**********************************************************************
+
+       This FAQ/walkthrough/guide is copyright of Ethan Madsen.  It may not 
+be redistributed in any form or fassion without the approval of me and me 
+alone.  Permission will definitely not be granted to reproduce this FAQ for 
+personal, profitable, or promotional gain, unless a thorough agreement is 
+made between the party wanting to use it and I.  Failure to abide by these 
+legal terms can and will lead to civil actions.  If I agree to let you use 
+it, it must be in its original and unaltered form, or action will be taken 
+against you.  Just to let you know, it is a crime to copy OR illegally 
+redistribute protected work.  This FAQ is protected by the International 
+Copyright Law, and is punishable of no less than than $5000 if convicted in 
+the court of law. You have been warned. 
+     
+     Final Fantasy VII Copyright 1997 Square Co., Ltd.  All rights reserved.  
+Final Fantasy and Squaresoft are registered trademarks of Square Co., Ltd
+
+
+
+
+ (2.)   DESCRIPTION/INFO
+**********************************************************************
+
+     This is a trick to get Lucky Seven's, the very rare phenomenon that 
+happens to FFVII players possibly once in their careers.  That excludes those 
+who use a gameshark code to do it, but I'm not exactly sure there is one, 
+though.  Anyway, I myself have never gotten lucky sevens normally.  I wanted 
+to for so long, but I was never "Lucky" enough to do so.  One day, I was 
+inspired to get it, no matter what...
+
+     I was having problems defeating the Emerald Weapon, and my friend 
+defeated him with lucky sevens, in which he recieved halfway through the 
+battle.  So, I came to the conclusion that that's what I needed to finally 
+put an end to its dark reign.  So many times before, I came close to beating 
+it.  I've recorded over a million hit-points of damage, and he still would 
+not die.  Depression set in, but I soon pulled myself out of it.  I kept 
+telling myself that there was a way to do it, to get the ever elusive 'Lucky 
+sevens'.  I sat down at the game, and the first thing I tried doing was to 
+get lucky, hence the name.  That didn't work to well, and that certainly 
+wasn't the way to go.  It could take hours or days to get it.  (But with my 
+method, it would only take a few minutes, with virtually no risk of it not 
+working.)  From there, I had to look for a better way......   
+
+     Strangely enough, I found myself at the basic roots of all that is 
+evil......MATH!!!  Yessiree.  You heard it right.  Math.  I needed the 
+valiant and bold powers of math on my side to figure out this problem. As I 
+pondered about it one day, I came to the conclusion that the answer to this 
+puzzle was right there, just out of my reach.  I knew that the programmers at 
+Squaresoft figured that gamers like me would try to cheat and recieve lucky 
+sevens without actually getting lucky, and they tried to stop that, because I 
+noticed something they did with one of the items that is needed to do this 
+trick.  I will tell you about it in the Micellaneous Stuff section.  Anyhoo, 
+I tried all of the mathematical formula's I devised, but they weren't 
+working.  Yet, one faithful day, I had finally broken the code.  The trick 
+that I created is the only one of its kind I have seen.  So far, I am the 
+only one that knows of it.  And now, without farthur hesitation, I present to 
+you, one of the greatest tricks ever to be found in an FF game....
+
+
+
+
+ (3.)   ITEMS YOU NEED
+***********************************************************************
+
+     Here is a list of the items that you need, may need, or might want  to 
+use.  I am sure there are better combinations of items to use besides the 
+ones I have listed, but these are the ones I used.  And since I haven't 
+played FFVII in a long time or done the trick in a while, I will probably not 
+list the better items that could be used, because I have simply forgot or I 
+didn't thoroughly explore the different item possibilities that are 
+availiable.
+
+
+        You must have...
+       -------------------
+
+ a. Cats Bell accessory= restores hp as you walk.(Get it in Chocobo           
+                  Racing)
+ b. 15 High-Potions= restores 500 hp per use(Buy at most shops)
+ c. 2 Potions= restores 100 hp per use.(Buy at most shops)
+ d. Hp max OVER 7777.(use hp-plus materia to help you out)
+ e. Demi 2 spell of Laser enemy skill.(Learn in the crater from dragon        
+                                enemy.)
+
+
+       Suggested items/wpns/spells/materia:
+      -------------------------------------
+
+ a. Demi 3
+ b. Time materia with stop learned, linked to sneak attack materia
+ c. Manipulate Materia
+
+ 
+
+
+
+ (4.)   HOW TO DO THE TRICK
+**********************************************************************
+
+     Now......here is the moment you've all been waiting for.  It is time for 
+me to pass on my vast knowledge to the world.  So, here it is, the lucky 
+sevens trick.  I will list these in steps, in chronological order to be exact.
+
+
+1.
+----
+
+     O.k. The first thing that you need to do is check your items menu to see 
+if you have the following items listed above that you need.  If you do not 
+have any of those items, go get them.  Also, if you do not have any of the 
+suggested items, or only a few of them, it won't make the trick impossible, 
+but just a bit more challenging and possibly longer.  If you have all of the 
+necessary items, you must now go into battle.  I suggest that you go to the 
+narrow strip of land jutting out near the Gold Saucer, were you can fight 
+enemies called beachplugs. If you don't won't to go there, go somewhere were 
+you can manipulate the enemy easily.  While in battle, manipulate the enemy 
+or kill off a few of them, then manipulate the remaining monster that is 
+left.  With that accomplished, choose the party member you want to have lucky 
+sevens.  Now, I suggest that you use 'Demi 3' on that party member and attack 
+that member until his/her hp is below 154.  I repeat, BELOW 154 HP!  Once you 
+have accomplished that, kill off the monster and get ready for step 2. 
+
+2.
+----
+
+     The next thing to do is to go to a place where there are no enemies, 
+such as a town.  I always go to the Chocobo farm, or you could go inside the 
+Highwind.  Now, equip the 'Cats Bell' accessory on the person that is getting 
+lucky sevens.  In other words, the one that you were beating up on during the 
+previous battle.  Here comes the tricky part.  You must walk around really 
+slow, monitering your hp, until it reaches EXACTLY 154 hp.  Absolutley 154!!! 
+ Walk very slow and check the hp level constantly, because it is really easy 
+to go over if you are not careful.  Just to let you know, your hp goes up by 
+2 every step.  Note that large steps may go over the 2 hp gain per step.  
+When you get in the 154 hp vacinity, start taking jerky, small steps by 
+slightly tapping the d-pad(Directional-pad).  Once you have exactly reached 
+154, promptly un-equip the Cats Bell.  If you accidently go over, just repeat 
+step 1 and you'll be back on track.  Go out of the town or wherever you are 
+and save immediately.  On to step 3.  
+     {NOTE:  Check out the 'Miscellaneous Stuff' section for info on the Cats 
+Bell, and the mystery of the item.} 
+
+3.
+----
+
+     I strongly suggest that you go to Cactuar Island for this step.  You 
+won't to avoid enemies in groups, as you must not let the party member who 
+will be recieving lucky sevens take any damage whatsoever.  On catuar Island, 
+you will most definitley run into one enemy alone, the elusive and evasive, 
+Cactuar!  Another great reason that this place is a good place is because the 
+Cactuar is susceptible to both stop and manipulate, especially manipulate.  
+      When you go into battle, try having the combination of Time materia 
+with Stop learned, and Sneak-attack materia.  If your sneak-attack materia 
+isn't at a high level, there is a small chance that it will succeed, though, 
+so get ready to use maniplate as soon as the battle begins.  Once the Cactuar 
+is manipulated or stopped, cast either demi 2 or laser on the party member 
+recieving Lucky 7's, and that will take their total hp to 77.  Kill it or run 
+from battle and save.  If your Lucky 7's guy was hit, start over at step 2 if 
+they didnt die, and if they did die, start over at step 1.  But, most likely, 
+you will succeed if you followed this guide correctly.  {NOTE: Check out the 
+'Miscellaneous Stuff' to find out were the location of Cactuar Island is.}
+
+4.
+----
+
+     Here is the final step.  Go to your item menu and use 15 high potions 
+and 2 potions on that member, totalling exactly 7777 hp!  And there you have 
+it, easy lucky sevens without the use of cheating devices or pure luck.  
+BOO-YA!!!
+
+
+
+
+
+ (5.)   USES OF THE TRICK
+**********************************************************************
+
+     Well, there aren't many uses for the trick.  You just can't get lucky 
+sevens, go down to the crater, and beat Sephiroth with it.  The reason for 
+this is because, once you enter the first battle with it, it will 
+automatically be used before any other battle commands are executed, 
+including the enemies.  Once it is used, your hp total will sadly drop down 
+to 1, and you have to do the trick all over again to get it back.  But, for 
+me, there was one very significant use though.  The total annialation of the 
+omni-potent Emerald Weapon.  I'll give you the lowdown and statistics of the 
+battle listed below, with the help of lucky sevens of course.
+
+   * Emerald Weapon recieved 1,079,669 total damage before dying.
+   * Used only 1 Mega-Elixer during fight.
+   * Lucky Sevens at first of battle.
+   * 6 Knights of the Round.
+   * No party members died.
+   * Emerald Weapon got off only one attack the entire match, which was      
+emerald shoot.  
+   * Beat Emerald Weapon on April 2nd, 1999, Friday 10:50 P.M., after 1      
+year, 5 months, and 23 days after first getting and playing the        game.
+
+     My basic strategy was to hit him hard and fast, and that I did.  With 
+the materia mime, I mimed Cloud's Knights of the Round and kept doing it 
+until he died.  The E. Weapon couldn't recooperate from my ballistic wailing, 
+and I owe most of the victory to the Lucky Sevens, as it nearly took away 50% 
+of its hp.  So, the basic main use of 'lucky sevens' is to really wup-up on 
+the E. Weapon, and the prize you get from doing so is well worth it.
+     (The total damage I delt him is an actual number.  I added up every bit 
+of damage delt with a calculator.  The way I did this was pausing the game 
+after damage was delt by any character or source, typed it in on the 
+calculator, and got the grand total, 1,079,669.  Also, I recorded all of that 
+info on a piece of paper, because I was so excited and I wanted to remember 
+that moment as one of the greatest videogame moments ever.)
+
+
+
+
+
+ (6.)   MISCELLANEOUS STUFF  (Updated)
+**********************************************************************
+
+     This section is devoted to miscellaneous things, like where and how to 
+get the items that are listed, among various other topics.
+
+
+   *The Cats Bell*
+  ------------------
+
+     To get the Cats Bell, you must race in the Gold Saucer at the Chocobo 
+races.  You have to have an S class chocobo and win an S class race.  I 
+suggest that you have a gold chocobo, since there is a very tough oponent in 
+there that randomly appears to race you.  After winning, the prize you get is 
+randomized.  Just keep trying and you'll eventually win it.
+     Also, about the mystery of Cats Bell.  If you noticed, whenever you walk 
+with the Cats Bell equipped, your hp goes up by 2.  But, if your hp is an odd 
+number, say 51, your hp will not stay odd.  It goes up by 1 then 2 from there 
+on.  They did this because, if you eventually walked around enough, the 
+number will reach 7777, and therfore, you could easily recieve LS(Lucky 
+Sevens).
+
+   *Laser*
+  ----------
+
+     You can learn this enemy skill from the dragon monster on the first 
+level of the Crater, on the part were the path spirals down to the bottom.  
+Manipulate him and cast it on the party member that has the enemy skill 
+materia on him.  Laser has the same effect as Demi 2. 
+
+   *Cactuar Island Location*
+  ---------------------------
+
+     Cactuar Island is located south of Cosmo Canyon, in accordance to the 
+world map displayed at the bottom right-hand corner of the screen. It is 
+undetectable on the map, much like the materia cave that holds the ancient 
+and powerful Knights of the Round materia.  It is at the border of the 
+southern part of the map, on the ocean, below Cosmo Canyon.  Just search that 
+area until you find it. 
+
+   *Other Additional Info*
+  --------------------------
+
+    * If you're thinking about getting all of your characters lucky sevens, 
+you can!  But....there is a catch to this.  With one character that has lucky 
+sevens, they will attack around 64 times, dealing 7777 per hit.  With 3 
+characters, it is not cumalative.  They will divide up that number among 
+theirselfs, and that is not the best thing to do, so just stick with one 
+charcter with LS.
+     
+    * IMPORTANT!  LUCKY SEVENS WILL NOT HURT THE RUBY WEAPON.  DO NOT RELY ON 
+IT TO DEFEAT IT.  IT WILL TAKE NO DAMAGE FROM IT.
+
+    * FYI, you cannot mime Lucky Sevens.  I believe the character will just 
+do nothing or perform a regular attack, if memory serves me right.
+
+    * Here is a little tip that always seemed to help me.  The character that 
+is recieving LS should be placed in the third slot, or the bottom slot in 
+other words, on the main menu screen, by using the _order_ command in the 
+menu.  For some reason, the enemies do not attack the party member in the 3rd 
+position as much as the others...
+
+    * Another little bit of information: Whenever you are trying the 3rd step 
+of the trick, make sure that you do not have any kind of elemental defense 
+against "_GRAVITY_"  If you don't know, go to the 'status' option on the main 
+menu and click on the character you are wanting to recieve Lucky Sevens.  
+While on that menu, press the circle button to bring up another menu, which 
+tells you in detail what you are strong against, weak against, etc.  If it 
+says anything under gravity beside the "halve" damage setting, it needs to be 
+taken off.
+     The main item that could be causing this might be the linked materia 
+combo _Elemental_ and _Gravity_, linked on your charcters armor.  Take it off 
+and your problem should be solved, unless there is another 
+armor/accessory/other thing that gives you protection from gravity.  Just 
+find it and take it off, and the demi spells should deal normal, specified 
+damage.     
+=======================================================================
+
+
+
+     I will most likely be writing more FAQ's later on, so be sure to check 
+them out.  Games that I am currently thinking about writing FAQ's for are as 
+follows:
+
+     *Gain Ground (Old Sega Genesis game) {*IN PROGRESS*}
+     *Legend of Zelda: A Link to the Past
+     *Any Others I Feel Like doing
+
+
+
+
+
+ (7.)   THANKS  (Updated!)
+***********************************************************************
+
+     Well, you're definitely going to be suprised on who I thank this time.  
+My number one thanks goes out to.......(drum roll)........All OF MY PRESCHOOL 
+TEACHERS, for teaching me the basics of math that helped me break the code of 
+the lucky sevens!  Also, all of the other teachers that kept nagging me and 
+telling me to never give up on all of those impossible math questions.  
+There....with that off my chest, I'm going to thank Squaresoft for a 
+superlative RPG that, in my opinion, was the best FF to date.  Oh, and about 
+the programmers.  Sorry guys, but I guess I out-smarted you.  Or, was it that 
+you guys actually meant for there to be a way to get lucky sevens without 
+cheating.  Oh well, the world may never no...... 
+
+     Another thanks goes out to 'Emptyeye', a contributor to Gamefaqs, for 
+raising the question about miming the Lucky Sevens.(Refer to the 
+_Miscellaneous Section_ about 'miming' LS.)  
+
+     Yet another thanks goes out to 'i_novak85' for pointing out the problem 
+with having gravity nullification equipped while doing the trick. (See the 
+_Miscellaneous Section_ for more info. on this topic, which is under -Other 
+Additional Info.-)   
+
+                                                -Ethan Madsen-
+
+
+     
+
+
+ (8.)   REVISION NOTICES  (Updated!)
+***********************************************************************
+
+==========================
+  v1.0--December 30, 1999:
+==========================
+
+     This was the original writing of the Lucky Sevens FAQ!
+
+=========================
+  v2.0--January 15, 2000:
+=========================
+
+     Added the _Revision Notices_ section, fixed some spelling/grammer errors 
+here and there, deleted a possible FAQ that I was going to write (Legend of 
+Zelda: Ocarina of Time ain't gonna happen, since there is so many already 
+up.), Added a FAQ that I will do (Gain Ground anyone.), Put some additional 
+text that needed to be put in, and added new info. in the _Miscellaneous 
+Section_ 
+
+=========================
+  v3.0--January 17, 2000:
+=========================
+
+     Updated Revision Notice (Well Duh!), updated Legal Notice, updated 
+Thanks section, updated the Miscellaneous Stuff section--adding something 
+about defense against gravity attacks, Put the original date and current 
+up-dated date at top of FAQ, put some more additional text I thought was 
+necessary, and added little things you most likely wouldn't notice. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+ 
+     This FAQ is copyright of Ethan Madsen(1999).  Any resemblance or 
+relation to any other FAQ is purely coincedental, so don't try sueing me or 
+anything like that.  I also detest plagiarism, and I wouldn't want anybody 
+ripping off my work, so I advise that you don't do it either.  Final Fantasy 
+VII copyright 1997 Square Co., Ltd.  All rights reserved.  Final Fantasy and 
+Squaresoft are registered trademarks of Square Co., Ltd
+ 
+

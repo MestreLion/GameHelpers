@@ -1,0 +1,3556 @@
+0
+
+                           XCOM: UFO Defense
+
+                     The UN-official Strategy Guide
+
+                                  and
+
+                 Answers to Frequently Asked Questions
+
+      works great as a Supplement to the Official Strategy Guide!
+
+                            Updated May-01/95
+
+                 Maintained by Kuo-Sheng (Kasey) Chang
+
+
+0.1 Introduction
+
+    Thanks for the tremendous response all over the net!  The guide was
+    uploaded to practically to wherever XCOM and UFO are sold (and
+    probably beyond), and many people have provided helpful feedback
+    that were incorporated into this revision.
+
+    XCOM:USG is now available in many more places!  It's available on
+    almost every on-line service (though AOL will remain an "official"
+    distribution site) and can be found in many places on Internet.
+
+    The Feb-01 revision marks a major change in what is now known as the
+    "XCOM Unofficial Strategy Guide".  That was a total rewrite compared
+    to this, which is just a revision.
+
+0.2 Did you know about the OFFICIAL XCOM Strategy Guide?
+
+    Now that the official strategy guide is out in stores (XCOM : the
+    Official Strategy Guide, by David Ellis, Prima Publishing, ISBN
+    1-55958-764-4, US$19.95, hereby known as OSG), this UNofficial
+    strategy guide (USG) is now patterned after the official one, with
+    similar table of contents. You can use this guide along with the
+    official strategy guide (OSG), or you can use this by itself.
+
+    While OSG has all the neat charts and tables and stuff only
+    available from the source, I've found its tactics and strategy
+    section sorely lacking.  In fact, all the the strategy and tactics
+    are condensed into ONE chapter, with the rest of the book as simply
+    a reprint of the manual and UFOpedia and the underlying mechanics.
+
+    That's where USG come in.  USG will help you make informed choices.
+    Instead of showing you a table of numbers, I'll actually show you
+    what is recommended by fellow XCOM players.  After you read each
+    chapter in the OSG, read that chapter's supplement here.  You will
+    understand more about how the game runs and the tactics to beat it.
+
+    You do NOT have to have the OSG to use this supplement, but you will
+    get more out of both if you do.
+
+
+0.3 Credits where credits are due
+
+    Thanks to MicroProse and Mythos Games for bringing us such a nice
+    game. It surely deserved CGW's "Game of the Year" award!
+
+    Thanks to all the people who have contributed to previous editions
+    of the XCOM:USG, whom include but are not limited to: William Kang,
+    CMDR; Tim Chawn, CMDR; Doug Osborne, SG; Stuart Lamble, SG; Seth
+    Cohn, SG; Bill Soo, SG; Jeff Shaffer, Economist; Rob Eiben, SG; Jim
+    Muchow, SG; Menachem Pasteich, architect; Paul Close, publicist and
+    simulation expert; and fellow XCOM players all over the world
+    discussing the game on USENET, America On-line and elsewhere.
+
+    Some strategies and tactics here first appeared in Computer Gaming
+    World and Computer Game Review magazines' strategy articles on XCOM.
+    Thanks to Jeff James (CGW) and Kevin Perry (CGR), we honor you as
+    XCOM Strategists.
+
+0.4 Note ot UFO: Enemy Unknown users
+
+    UFO: Enemy Unknown users should be able to use this supplement with
+    minimum changes. Most tips will apply to both versions, esp. the
+    tactical tips.  The charts on the other hand may have different
+    numbers, so compare it carefully please.  See 0.5 if you have the
+    Amiga version of UFO: Enemy Unknown.
+
+0.5 Notes on the USG
+
+    New/Improved sections since last update are marked by @.
+
+    PLEASE let me know if there's a confusing or missing remark so I can
+    fix them! If you find an question about the game that is not covered
+    in the USG, I'll include it in the next update.
+
+    The USG should be available at the Game Domain WWW
+
+      WWW : http://wcl-rs.bham.ac.uk/GamesDomain
+
+@   Any quick updates can be found on my own homepage
+
+      http://userwww.sfsu.edu/~kschang
+
+    Paul Close (pdc sgi.com) has graciously converted this into HTML
+    format so you can use a WWW browser!  Check it out at
+
+      WWW : http://reality.sgi.com/employees/pdc
+
+    Tommy Iversen (Norway) has graciously accepted the task of
+    converting the USG for Amiga. (Yes, there is an Amiga version)
+
+    His e-mail address is -->
+
+    If you are on America On-Line, look in the PC Games Forum (keyword:
+    PCGAMES). Go into the file library, and search under XCOM.
+
+    If anyone knows of other "permanent" archive sites (somewhere in
+    ftp.netcom.com?), please let me know so I can include the
+    information in future updates.
+        If you REALLY can't find it, don't have FTP or WWW, not on AOL,
+    can't read news, etc., (i.e. there is ABSOLUTELY NO WAY you can get
+    to it) (how did you know about this in the first place?) then send
+    me e-mail (see below) and I'll try to get back to you.
+
+    Please don't just mail me and ask "it's nice and do you have an
+    update and if so please send it to me".  If I have an update I can
+    release I would have released it already.
+
+    I maintain this at home on my PC and I only have a UNIX shell
+    account which this won't fit with other stuff I need.  So don't
+    expect too fast of an answer if you request this by e-mail.
+
+0.6 The author
+
+    I?  I am just a game player who didn't like the existing FAQ's and
+    strategy tactics collection available out there, and decided to
+    write my own. You can contact me at:
+
+    Internet  1     : kschang sfsu.edu (preferred)
+    Internet  2     : ksc1 aol.com (only if you must, see below)
+    America On-Line : Ksc1
+    US Mail         : Kasey Chang, 2220 Turk Blvd. Apt.6,
+                      San Francisco, CA 94118, USA
+
+    WWW Homepage    : http://userwww.sfsu.edu/~kschang
+
+    If you contact me via Internet e-mail I usually reply within two
+    working days.  Please use the preferred e-mail address if possible,
+    not BOTH.  I only sign onto America On-Line (2nd address) twice a
+    week so you won't get a prompt reply if you contact me there.
+
+
+Table of Contents
+
+1.0  X-COM General Information
+     What is this game?  What about bugs?  Patches?  Expansions and
+     future versions?  How do I win or lose?
+2.0  The GeoScape Screen
+     How do I use GeoScape?  Any tricks or tips?
+3.0  X-COM Bases
+     Where do I put my first bases?  How to I build bases that are easy
+     to defend?  How much defense do I build?
+4.0  X-COM Hardware
+     What kind of weapons are available?  Which ones are the best?
+5.0  Finance
+     How do I make more money?  How do I spend less money?  How do I
+     cheat and get more money?
+6.0  Research and Manufacturing
+     What do I research?  What do I build?
+7.0  Intercepting UFOs
+     How do I intercept UFOs?  What weapon should I send up against
+     UFO type X?
+8.0  Soldiers, Movement, and Combat
+     Who do I send on missions?  How do I avoid casualties?
+9.0  The aliens
+     Who are these & *#%*!?  How do I kill them most efficiently?
+10.0 Ground Assaults
+     What do I do in UFO assaults and recoveries?  What is the best way
+     to defend my base?  Assaulting alien bases?
+11.0 Mastering Cydonia -- The Final Assault
+     How do I win the "final confrontation"?
+12.0 Misc Stuff
+     Any other questions?
+     (if information you are looking for is not listed, e-mail me and
+     I'll give you an answer, and I'll include it in next update)
+
+
+BEGIN XCOM Unofficial Strategy Guide
+
+1.0 X-COM General Information
+
+    1.1 What is XCOM: UFO Defense?
+
+        [Excerpt from XCOM manual page 6]
+        It is the year 1999.  Unidentified Flying Objects (UFOs) have
+        started appearing with distrubing regularity in the night skies.
+        Reports of violent human abductions and horrific experimentation
+        has truck terror into the hearts of millions. Mass public
+        hysteria has only served to expose Earth's impotence against a
+        vastly superior technology.
+        [...]
+        On December 11, 1998, representatives from the world's most
+        economically powerful counties gathered secretly in Geneva.
+        After much debate, they decision was made to establish a covert
+        independent body to combat, investigate, and defeat the alien
+        threat.  The organization would be equipped with the world's
+        finest pilots, soldiers, scientists, and engineers, working
+        together as one multi-national force.
+
+        This organization was named the Extraterrestrial Combat Unit.
+        [end excerpt]
+
+        You are in overall command of XCOM.  You will launch and control
+        interceptors to attack marauding UFOs, send soldiers to attack
+        crashed or landed UFOs, raid alien bases on Earth (if you can
+        find them), keep the sponsor nations happy and UFOs out of their
+        skies, buy the ammo and weapons you need in the war, research
+        and build better weapons as your troops bring in captured alien
+        artifacts for analysis and eventually manufacture our own
+        copies, pay for everything by contributions from sponsor
+        countries and selling stuff, and eventually figure out the alien
+        threat's origin and end the threat once and for all.  (Whew!
+        That's a mouthful!)
+
+    1.2 How does XCOM play?
+
+        The game is divided into two main segments: GeoScape and
+        BattleScape.  GeoScape is a 3-D view of the globe, rotate-able
+        and zoom-able.  This is where you control your various bases
+        around the world (with radars), your fighters and transports
+        (carrying your soldiers), your inventory at each base, the UFOs
+        and alien bases currently in sight, and so on.  Once ground
+        contact is made (transport landed next to UFO, you attack alien
+        base, aliens attack your base, etc.), the game switches to
+        Battlescape.
+
+        Battlescape is an isometric tile-based 3-D combat with viewpoint
+        similar to SimCity 2000 and Transport Tycoon.  The combat is
+        turn-based with opportunity fire on the opponent's round
+        (provided you have enough TimeUnits [TUs] and reaction), with
+        plenty of weapons and terrain to choose from.  Everything is
+        mouse-driven so game is very easy to learn yet hard to master.
+
+    1.3 What is UFO: Enemy Unknown?
+
+        UFO: Enemy Unknown is the European version of XCOM.  The game
+        was designed by Mythos Games, and was distributed by MicroProse
+        UK.  It was imported into the US later as XCOM.  XCOM is
+        equivalent to UFO V1.2.
+
+        In fact, XCOM installs into \MPS\UFO directory.  :-)
+
+        1.3.1 Why the name change?
+
+              OSG has no explanation, but I believe that SubLOGIC (the
+              original Flight Simulator people) had a game called UFO,
+              and MicroProse couldn't register the same name, so they
+              picked XCOM.
+
+              XCOM will now be the official name of the series.  XCOM2
+              will be sold as XCOM2 in Europe.
+
+        1.3.2 What is this UFO V1.3 Patch?
+
+              Recently there's a UFO V1.3 patch floating in Internet
+              somewhere. (ftp.cdrom.com in /pub/games/dresden?).
+              _Computer Gaming World_ listed it in their patches page,
+              so it appears to be official.  This is ONLY for UFO, NOT
+              for XCOM.
+
+              The "real" patch is XCOM V1.4.
+
+        1.3.3 So what is the difference besides the title?
+
+              Quite small, mainly price changes for items (esp.
+              "armour").
+
+    1.4 What type of PC do I need? Is a Demo available?
+
+        Requirements listed on XCOM is: 386/486 (Pentium?), 4 MB RAM,
+        VGA, Mouse, MS/PC-DOS 5.0 (or higher?).
+
+        (There is an Amiga and CD32 version of UFO, see 1.6)
+
+        One person reported that he was able to run XCOM with 2 MB RAM,
+        though it is SLOW.  Your mileage may vary.
+
+        It comes on 3 3.5" HD disks, and needs about 12MB of hard drive
+        space to install (double that if using disk compression software
+        such as Stacker or DoubleSpace).  There's a CD version which is
+        the same except only the saved games reside on the hard drive
+        and all of the data files stays on the CD.
+
+        You CAN install the CD version onto the hard drive if you have
+        enough space.  Contact MicroProse for detailed instructions.
+
+        The game uses 32-bit protected mode, so it would not run under
+        Windows.  No compatibility claims was made to any other versions
+        of DOS such as DR DOS, Novell DOS 7, or even OS/2.
+
+        Note that Windows may be necesary if the DOS4GW extender refuse
+        to run on your computer.  See 1.5.7.
+
+        There is a playable demo available on most on-line services such
+        as America On-Line in the MicroProse forum /SIG/ roundtable/
+        whatever.  There WAS a demo at ftp.std.com, but another user
+        reported that it disappeared sometime during November '94.  In
+        the meanwhile, you can try ftp.cdrom.com under /pub/Games/Demos.
+        (if anyone found it, please let me know so the info can be
+        included in the next update)
+
+    1.5 What about any bugs?  Any patches?
+
+        The OSG has no list of bugs, so here is a list of bugs that are
+        known to exist in XCOM/UFO.  MicroProse is aware of most of
+        these problems.
+
+        It took MicroProse about six months, but the patch is finally
+        here!  V1.4 patch is available from MicroProse BBS and www/ftp
+        site.
+
+        1.5.1 Green Text Bug
+
+              Symptom: Game suddenly displays 40-column Green text [DOS
+              Extender Error].  Usually happens right after a battle,
+              and after a bit it takes you back into the battle you just
+              finished (infinitely), sometimes the computer hangs.
+
+              Cause and Solution: This is usually caused by attempting
+              to save a game while an UFO interception is in progress.
+              Another possibility is you have multiple crafts in the
+              air and one of the is intercepting while another is land-
+              ing and attacking a downed UFO or base.
+
+              Unfortuantely, the saved game is corrupt.  You must
+              restore from an earlier saved game.  [OSG only mentions
+              this as "trust me, don't save when intercept minimized"]
+
+              Further info: someone commented on the net (I'll find the
+              original message I saved somewhere) that usually there is
+              this ONE UFO that you did not shoot down before XCOM
+              crashed.  If you do NOT destroy it after you reload the
+              game, the same thing will happen again.
+
+              Another has reported that by not maximizing the GeoScape
+              screen before going into combat cuts down the chances of
+              Geen Text bug, but this is unconfirmed.
+
+        1.5.2 16-bit Sound bug
+
+              Symptom: Game has compatibility problems with most 16-bit
+              sound cards such as SoundBlaster 16 and PAS-16 (and Gravis
+              UltraSound as well).  Music and sounds are often played as
+              static, or no sound at all.
+
+              Cause and solution: remember that the setup asks for the
+              DMA channel, NOT the interrupt as most setup programs do.
+              If it still doesn't work, it's a program bug.  You can
+              always play with the sound off, but it's not as much fun
+              having no alien screams when they got hit and die...
+
+              The V1.4 patch should fix this.
+
+              WARNING: If you have a SoundBlaster 16 and the Waveblaster
+              daughtercard, do NOT select 16-bit digital sound with
+              General MIDI.  Select 8-bit sound instead.
+
+        1.5.3 One-shot blaster bug
+
+              Symptom: Once you fired off a blaster launcher, sometimes
+              there's still a shell in there so you can't reload it, but
+              you can't fire it either.
+
+              Cause and solution: This is caused by programming only one
+              waypoint for the blaster bomb.  If you program two or more
+              waypoints for the bomb this won't happen.
+
+              You can also UNLOAD the "empty" shell.  See manual.
+
+        1.5.4 Flying Frozen bug
+
+              Symptom: a unit near the edge of the map was hit by the
+              enemy.  When it is their turn to more, their pointer shows
+              them off the edge of the map (totally outside).  They can
+              move up/down, but not back onto the map.  They can still
+              shoot, and they recover if you win the battle.
+
+              Cause and solution: no idea, this seems to be random.
+              Don't put your units near the edge.
+
+        1.5.5 "SMOKBIT.DAT not found"
+
+              Symptom: the game complains that a SMOKBIT.DAT cannot be
+              found in your saved game directory.
+
+              Cause and solution: no idea, since the file is not in
+              all of the saved games directories that I have (I have
+              it only in 2 of 10 saved games). MicroProse has no idea
+              either and currently chalked it up to computer incompati-
+              bility and recommends a refund if you run into this
+              problem. (saved game during combat?)
+
+        1.5.6 Stacked Equipment bug
+
+              Symptom: When you access the alien's inventory (see 8.5)
+              you found that they have multiple items stacked in one
+              location (usually one of the legs).  If you do not have
+              enough TU and you tried to move one item, you cannot put
+              it back, and you are TOTALLY STUCK.
+
+              Solution: just don't do it, or you'll have to reboot.
+              No other way around it.  Maybe that's why we were not
+              supposed to access alien inventory?
+
+        1.5.7 Cyrix incompatibility
+
+              Symptom: when starting XCOM/UFO, the program freezes after
+              the title splash animations finished.
+
+              Cause and solution: you probably have a Cyrix CPU. The
+              version of DOS4GW XCOM used (version ends with a 5) is
+              somehow incompatible with Cyrix CPUs.  The fix is very
+              simple: run DOOM or another DOS4GW program (Raptor,
+              Heretic, Descent, ROTT, etc.) before XCOM.
+
+        1.5.8 Can't find a leader!?!?
+
+              This is also known as the "Alien Containment Bug"
+
+              Symptom: when at a crucial phase of the game, when one
+              needs a captured alien leader, the leader was successfully
+              captured but never was available for research.  Maybe the
+              alien containment is full?
+
+              Cause and solution: no idea.  Many people have reported
+              this problem, but MicroProse have no idea, and neither do
+              I.  This appears to be more prevalent on higher levels.
+              Someone reported that UFO V1.3 patch solves this problem,
+              but this is unconfirmed.
+
+              Note: this is NOT related to "cannot research a captured
+              commander from UFO".  That is NOT a bug.  You have to
+              research one that was nabbed from a BASE.
+
+        1.5.9 Unsaved proximity grenades
+
+              Symptom: if you save a battle in progress with proximity
+              grenades on the ground, and later restore the game, the
+              grenades are gone.
+
+              Solution: none...
+
+
+    1.6 Any plans on sequels?  Mission disks?  Other computers?
+
+        1.6.1  Sequel -> XCOM2: Teror From the Deep
+
+               Here's an actual message posted by MicroProse on AOL:
+
+               ----
+               XCOM 2: Terror From the Deep
+
+               The war continues...  XCOM: Terror From the Deep brings
+               the alien terror into a totally new dimension...
+
+               Seeking to take advantage of a weakened Earth, XCOM's
+               deep space foes unexpectedly change strategy and launch a
+               powerful second front against planet Earth.  In the dark
+               depths of vast oceans, long sleeping forces are awakened
+               by re-animation signals sent out across the galactic
+               silence by their interstellar brothers and sisters.
+               Slowly but surely, and army of hibernating alien sea
+               creatures awakens.
+
+               Your combat now extends to the strange new world of the
+               deep where superior alien technologies threaten the very
+               survival of the planet.  Your planet: Earth.
+
+               *  Sequels the hugely successful XCOM: UFO Defense
+               *  Actual undersea geoscape mapping system with rich topo-
+                  graphical detail
+               *  Full array of undersea military technology
+               *  Rich graphics feature water coloration and wrecks
+               *  Multi-level tactical maps featuring both underwater
+                  seascapes and buildings
+               *  Alien encyclopedia features mutation technology and
+                  new watery denizens
+
+               -- Brian/MicroProse
+               -------------------
+
+               XCOM2 is already out in the United States and should be
+               available elsewhere really soon.
+                                                              XCOM3 is in
+embyonic stages will will be more radically
+               different from XCOM/XCOM2, according to MicroProse.
+
+        1.6.2  How about Mission Disks?
+
+               None are planned at the moment.
+
+        1.6.3  Other versions?
+
+               There is an Amiga version.
+
+               No other ports are expected in the near future.
+
+
+    1.7 How do I win?  How do I lose?
+
+        You win by finding the source of the alien threat and "deal with
+        it" once and for all on a "final mission".  (See 11.0 if you
+        REALLY want to know)
+
+        You can lose by several ways:
+
+        1) You were in debt for over $1,000,000 for two months.  Your
+        sponsors had had enough of your mismanagement and terminated the
+        XCOM project.  Earth was conquered by aliens not long after.
+
+        2) You had two consecutive "badly losing" months (big negative
+        score), and your sponsors had had enough and terminated XCOM
+        project.  Just how bad is a "badly losing" month depends on your
+        score and difficulty level (Scoring is explained in OSG
+        Chapter 1 and 1.8).
+
+        3) You lost all of your bases to the aliens.
+
+        4) You failed to complete the "final mission" (see above 1).
+
+    1.8 How is scoring calculated?
+
+        Score is kept for both sides.  You get positive score for
+        conducting successful research, capturing and/or killing aliens,
+        grounding and/or destroying UFOs, destroying alien bases,
+        grabbing alien equipment, and more. You get negative score for
+        losing XCOM soldiers, crafts, HWPs, and civilians. (for exact
+        numbers, see OSG)
+
+        Aliens score points by overflying Earth, lands on Earth
+        (whatever purpose), build and keep bases on Earth, conduct
+        terror raids and hoping that you ignore it (so NEVER do so since
+        this REALLY scores big for them!), sign pact with funding
+        countries (which means those countries don't pay you any
+        longer!), conduct harvest and/or abduction mission on Earth.
+        (for exact numbers, see OSG)
+
+        Your net score is (your_score - alien_score), which is the
+        score you see on the monthly performance report (and the
+        graph). The funding changes are affected by your total score,
+        and are explained in OSG:Chapter 5.
+
+2.0 The Geoscape Screen
+
+    The GeoScape screen is where you will control the interceptions and
+    provides access to the BattleScape and the base controls.
+
+    2.1 Air Intercepts
+
+        Always attack an UFO over land.  If you shoot it down over water
+        no one can get to it (unless you are playing the sequel, see
+        section 1).  If you are over water, minimize the window, and
+        select 1 minute step until you get back over land, then switch
+        back to 5 seconds and start attack.
+
+        [Whether you want to attack smaller UFOs is up to you]
+
+        If you send multiple crafts after one UFO and the UFO gets shot
+        down or destroyed, the shooter will go home, but other crafts
+        will continue onto the crash site, THEN return to their base. So
+        make them return to base manually.  They will return faster, and
+        thus be refueled/rearmed/repaired for next sortie faster.  Click
+        on its icon on GeoScape and select "return to base".
+
+        If an UFO has landed, keep a fighter on top of it.  That way, if
+        it takes off before your transport get there, you still have a
+        chance of taking it down.
+
+        Since the best weapons have a chance of blowing a smaller UFO
+        totally to pieces, you may want to keep one fighter armed weaker
+        than the rest for intercepting smaller UFOs.  (Assuming that you
+        even WANT to go after small UFOs)
+
+    2.2 Finding Alien Bases
+
+        XCOM agents have a chance of finding an alien base for you, but
+        chances are pretty slim.  So do not rely on that.  Watch for
+        high alien activity (check the graphs) yet no interception:
+        there's probably a base in the area.
+
+        Send something slow like a Skyranger to patrol the area.  An
+        empty Skyranger has excellent range and therefore is perfect in
+        spotting alien bases.
+
+        Watch UFOs, esp. where they land.  If you see a "Supply Ship",
+        do NOT attack it.  Trail it and follow it to their base.  After
+        it lands, patrol nearby and you'll see the base.
+
+        Hyperwave decoders can find UFOs on supply runs.  Follow that
+        will usually lead you to a base.
+
+        Of course, you do NOT have to take out that base...  You go
+        after the supply train instead.
+
+    2.3 Base Management
+
+        [also see 3.0 for XCOM Bases]
+
+        Since it takes several weeks before additional modules to the
+        base can be brought online, you need to build them ahead of
+        time.  See the base status to see how full are your facilities
+        getting.  If they are getting close, start building additional
+        facilities so that they'll be ready by the time you need them.
+
+        Examine base status at least twice every month, check living
+        quarters, workshops and labs, etc, and determine your expansion
+        schedule.  Dismantle extra stuff before end of month so you
+        don't pay maintainence on them.
+
+        Hire engineers and scientists at the last hour of the month so
+        that they get delievered early NEXT month, so you get maximum
+        research from them while not paying an extra penny in salary.
+
+    2.4 GeoScape Tricks and Tips
+
+        Many people don't realize that click on the UFO icon will bring
+        up all known info about the UFO.  If you detected it via
+        Hyperwave Decoder, you'll know A LOT about it.
+
+        UFO Crash Site susually disappear in a few days.  If you have
+        no soldiers available, you can let it sit for a day or two.
+
+        Landed UFOs will take off in a few hours (less than a day).
+
+        Terror Sites disappear in less than a day (which mean you have
+        to get to one ASAP, even if it means skipping UFOs and landing
+        at night!)
+
+        Landed/crashed UFOs still has info, such as size.
+
+        Check your graphs regularly to determine where to build your
+        next base.  Watch for sponsor countries with high alien activity
+        with high-paying sponsor(s), then check how much did they pay
+        you via the Funding screen and see if they are worth defending.
+
+        Areas with high alien activity and high XCOM activity probably
+        have an alien base.
+
+    2.5 Target Selection
+
+        If several targets presents itself, which one should you attack?
+        Here are some of my general guidelines:
+
+        2.5.1 UFOs in flight
+
+              Attack the biggest UFO you can handle.  Supply ships are
+              easy, terror ships are okay, battleships are death unless
+              you have Firestorms and Avengers and can attack with
+              multiple crafts simultaneously
+
+              Launch from the closest base FROM UFOs INTENDED TARGET if
+              it is known or can be deduced from UFOs path.  Launching
+              from the closest base at the time of contact will result
+              in a tail chase, resulting frequently in lost tracking and
+              waste of fuel and time.
+
+              If the landing site is on the dark side, you may want to
+              patrol nearby and wait for light.  Of course, in the
+              meanwhile the landed UFO may take off again.
+
+              Keep a fighter on top of a landed UFO in case it takes off
+              before your transport can get to it.
+
+        2.5.2 Downed/Landed UFOs
+
+              Attack the biggest UFO you can handle. Terror ships have
+              annoying terrorists (esp. Chrysalids!) and Battleship
+              simply have lots of enemies (and terrorists, depending on
+              mission).  Supply ships are okay if you watch the grav-
+              lifts closely
+
+              Larger UFOs have more aliens and more artifacts to
+              recover, so risk and reward are proportional.
+
+              If you have a choice, attack a landed UFO instead of a
+              shot-down UFO.  Landed UFO are undamaged and therefore
+              have more artifacts (plus 50 units of E-115 per engine)
+              but of course have also more aliens.
+
+              Some veterans have reported that they can finish game
+              faster by attacking landed UFOs only.  While score may not
+              be as spectacular, they also have less risk of retaliation
+              and can get more research done and have more money (from
+              the extra booty)
+
+              Don't follow an UFO around with a loaded transport (with
+              soldiers and equipment).  They are wasting fuel and time
+              and they may not have enough endurance to finish the race
+              and not able to respond to a different emergency (such as
+              a terror site suddenly popping up elsewhere)
+
+        2.5.3 Terror sites
+
+              Attack one ASAP, no exceptions.  Divert from other UFO or
+              base attacks if necesary, and definitely attack at night.
+              The penalty for ignoring a terror site is simply too large
+              to ignore.
+
+        2.5.4 Alien bases
+
+              Depending on your soldiers, you should attack a base as
+              soon as you are able to (don't take rookies though).  You
+              should not allow more than one alien base on Earth since
+              you can't really afford the penalty.
+
+              You may want to consider leaving a base alone nearby so
+              you can keep attacking the supply UFOs that drops by.
+              Just make sure you can handle the alien retaliation.
+
+
+3.0 X-COM Bases
+
+    3.1 Where should I put my first base?  Additional bases?
+
+        There are several things to consider while placing your first
+        base.  Keep in mind that your first base will be your only base
+        for a while, so make sure you place it where you get maximum
+        coverage of the sponsoring countries, who also pays the most.
+
+        The problem is how to maximize the country coverage WHILE
+        maximizing the covered countries' total payment.  We know that
+        the US pays the most (always), and second most is Japan, while
+        Europe has a lot of sponsor countries in a cluster.  Third best
+        paying is, believe it or not, South Africa.
+
+        According to OSG's Chapter 5, the finance changes depend on
+        your score.  If your score is positive, and you did a lot of
+        stuff in the sponsoring country (see XCOM Activity in Graphs),
+        then they will raise their payment by a random percentage.  Now,
+        would you rather have 10% of $100,000, or 10% of $800,000?
+
+        OSG recommends Northern US as a good starting place, which is
+        okay, since US is the largest paying XCOM sponsor.  On the other
+        hand, a base in US can only cover US, and Canada. A base in
+        Central Europe can cover UK, France, Germany, Italy, Spain, and
+        a piece of Russia (though most of Russia would need a base in
+        Asia, covering Japan, China, and maybe India as well).
+
+        My vote is a toss-up between Europe and Northern-Central US.
+        Both can work quite well.
+
+        If you build your first base in Northern-Central US, build your
+        second in Europe, and vice versa.  The third base should be near
+        Japan to cover Japan, China, Russia, and hopefully India (maybe
+        not), and fourth base should be in Africa covering Nigeria and
+        South Africa (an important contributor).  If you build a fifth
+        base, it should go in South America, covering Brazil.  If you
+        want a sixth base, built it in New Zealand or NorthEastern
+        Australia to covering most of the Pacific (covering Australia).
+
+        Check your graphs regularly to determine where to build your
+        next base.  Watch for sponsor countries with high alien activity
+        with high-paying sponsor(s), then check how much did they pay
+        you via the Funding screen and see if they are worth defending.
+
+        Do not build additional bases until you have enough money in the
+        bank to pay for its initial construction AS WELL AS the first
+        month's maintainence.  Negative balance for two months means the
+        end of your XCOM tenure!
+
+    3.2 How should I name my bases?
+
+        I personally name bases based on the continent they are on, plus
+        the COM suffix (stands for Command), except for the US base,
+        which is CentCom. Europe is EuroCom, South America is SoAmCom
+        (or SouthCom, if you want to be authentic), Asia is AsiaCom,
+        Africa is AfriCom, and so on.  Sounds military.  :-)
+
+        Naming bases is important because it means less confusion on the
+        Intercept screen on choosing which base to launch the fighters
+        and transports.  Launching from the wrong one means the craft
+        will not get there in time, run out of fuel before getting there
+        (never get there since it will come back first), etc.
+
+    3.3 What types of bases should I build?
+
+        The OSG recommends that you build every base to be as full
+        fledged as possible, as to be ready in the unlikely event that
+        all other bases fell to the aliens.  While I can sympathize with
+        the approach, it is very difficult to implement.
+
+        The main problem is in research.  Each base research independent
+        of each other. Decentralized research slows discoveries and
+        makes duplicate research possible (efforts are NOT cumulative).
+
+        The only way to make things work like recommended is limit
+        yourself to about three or four bases, covering North America,
+        Europe, East Asia (Japan, China, Eastern Russia), and Africa
+        (South Africa, Nigeria, and Egypt).  Your bases will evolve in
+        stages as follows:
+
+        3.3.1 Radar base
+
+              The radar base just have radars, and later, hyperwave
+              decoders.  Remember to put in a storage space (for HWPs
+              and their ammos) and a living quarter (for expansion and a
+              few guards).  Stock it with several HWPs (plasma hover-
+              tanks are ideal) for defense, add one defense station when
+              you can afford it.
+
+              Each radar has a 5 percent chance of detecting an UFO
+              within its detection radius (just like the UFOpedia says),
+              so you don't need both small and large radars, just large
+              will do (unless you run out of money!).  Ten radars means
+              50% chance of detection, etc.
+
+              Later you can replace all the radars with ONE hyperwave
+              decoder.  One of those detects 100% UFOs in range.
+              Dismantle the radars to save on maintainence (see 5.4)
+
+        3.3.2 Intercept Base
+
+              Radar base with a hangar housing a fighter (Interceptor or
+              Firestorm).  Watch the storage space since fighter needs
+              its own weapons and ammo.  Add one if needed.
+
+              Consider adding defense now (or assign more guards and
+              HWPs) since aliens may get mad seeing their UFOs getting
+              destroyed in your area.
+
+        3.3.3 Strike Base
+
+              Intercept Base with a second hangar housing a transport
+              (Skyranger, Lightning, or Avenger).  Remember to add
+              storage (weapons and ammo, plus loot) and alien
+              containment (prisoners) when needed.
+
+              Consider adding more defense, esp. when the aliens will
+              get really mad as you attack more of their UFOs and/or
+              bases in the area.
+
+        3.3.4 Research Base / Manufacture Base
+
+              Base should specialize in either research or manufacture,
+              not both (doing so is putting too many eggs in one
+              basket).  Add living quarters and either workshop or
+              laboratory as needed.  Manufacture base needs more storage
+              space or an empty hangar (if building crafts) so make you
+              have enough or use TRANSFER a lot.
+
+              You shouldn't have to build a lot of defenses here, esp.
+              if you build the 3.3.5 variant.
+
+        3.3.5 Special Research Base or Manufacture Base
+
+              As OSG mentioned, UFOs will start looking for your base if
+              their brethrens keeps getting attacked and destroyed in
+              the area.  This suggest that if you build a base at North
+              or South pole, only stock it with soldiers and needed
+              equipment (no crafts or radars, or maybe a hyperwave
+              decoder), and wait until UFOs enter a different zone
+              before attacking them, you can keep a base pretty safe.
+              Many people have employed this tactic and it seems to work
+              quite well.  This is also great for psi labs.
+
+    3.4 How do I design secure base easy to defend?
+
+        The most secure base design that I can think of is this one:
+
+        XXXXXX    This base has only ONE access point: by the lift.
+        X.XXXX    Any other way (such as through the hangar) actually
+        X.XXXX    takes LONGER.  And the long corridor spanning FOUR
+        A.....    sections makes EXCELLENT choke points and impromptu
+        HHHHHH    minefields with proximity grenades are great for
+        HHHHHH    defense in this kind of situations.  If you don't
+                  need three hangars, you can trade the right one for
+                  three more structures down the right side.
+
+                  Basically, put the access lift off to one side of the
+                  map and try to isolate that and hangars from the rest
+        XXXXXX    of the base.
+        X.XXXX
+        X.XXXX    There is one catch: sometimes, there's a bug in
+        A....X    the game that eliminates some doors that leads you to
+        HHHH.X    the rest of the base.  Without rockets and blaster
+        HHHH.X    bombs to "dig", you can't kill the aliens in the other
+                  section and thus cannot finish the battle at all.
+
+    3.5 What should I add to my base at first?  Later?
+
+        Initial modifications you need for the main base are: alien
+        containment (prisoners), general stores (ammo and captured
+        artifacts), and long range radar (detection).  Later, with more
+        money, add living quarters, labs, workshops, and defenses, in
+        approximately that order.
+
+        Defenses comes last usually since you can defend with soldiers
+        and HWPs.  Of course, don't clog up the 80-items list.
+
+        Try to keep an hangar available so you can build more crafts.
+        Remember that transferring crafts is free.
+
+    3.6 How should I defend a base?  How much defense is enough?
+
+        WARNING: previous versions of this guide listed that HWPs at
+        an empty base (i.e. no soldiers) can defend.  I copied this
+        hint from _Computer Game Review_'s strategy article.  I have
+        received at least two angry statements telling me that this is
+        NOT so.  Each have lost at least TWO "undefended" bases.
+
+        Defending a base against alien raids is tough.  Fortunately,
+        unless you are doing terribly well, aliens usually don't bother
+        your bases for a while.  But near the end, alien battleships
+        will come after your bases, then you have a problem...
+
+        To defend against that, you need a high defense rating.  I would
+        recommend over 3000, maybe 3500, plus grav shields, if you don't
+        like fighting inside your own base.  Three fusion ball defenses
+        plus grav shields is usually enough. During a month, only one
+        out of ten battleships made it through my 3500 defense, and its
+        remaining landing parties are easy to wipe out with only HWPs.
+
+        On the other hand, if you don't have equipment to fight battle-
+        ships in the air, you may want to let it land and take it out on
+        the ground (i.e. at your base).  Remember you will see A LOT of
+        aliens on a base raid, I hope you have a lot of USABLE
+        equipment (i.e. GOOD stuff in the first 80 items)...
+
+        Small UFOs usually scout ahead of the large UFOs that will
+        actually raid your base.  If you can destroy the scout before it
+        detects your base, you can prevent the base attack.
+
+        In V1.0 of UFO (not XCOM and not later versions of UFO), you can
+        gain hundreds to thousands of units of Elerium if you win a
+        defend base action.
+
+        Clean out old inventory! Old inventory will prevent you from
+        getting to the GOOD weapons since you are still limited to 80
+                items during base defense, and base have lots of stuff...
+
+        The 80 items are pulled from inventory in the order on the SELL
+        screen, top to bottom in order.  So if you have lots of lasers
+        you'll never got to plasmas and blaster bombs.
+
+        If you really ran out of space and do not want to conduct a fire
+        sale, stuff the extras into the transports, though selling them
+        is much easier and gains you money.
+
+        Proximity grenades are vital in base defenses.  Dump a few near
+        entrances and doors, and get ready for the alien death screams.
+
+    3.7 Base modules
+
+    Name         DaysBuild  Cost Maint Usage
+    Access Lift         1   300k   4k  (Entrance to underground base)
+    Alien Containment  18   500k  15k  (Holds 10[!?] live aliens)
+    Fusion Defense     36  1800k  14k  (Def value 1200, Accuracy 80%)
+    General Stores     10   150k   5k  (Holds 50 units of equipment)
+    Grav Shield        38  2300k  15k  (Gives defenses an extra shot)
+    Hanger             25   200k  25k  (Maintains 1 craft)
+    Hyperwave Decoder  26  2000k  30k  (Evaluate UFO missions)
+    Laboratory         26   750k  30k  (Allows 50 research)
+    Large Radar        25   800k  15k  (450nm range, 5% detect/10mins)
+    Laser Defense      24   900k  10k  (Def value  600, Accuracy 60%)
+    Living Quarters    16   400k  10k  (Sleeps 50)
+    Mind Shield        33  1300k   5k  (Minimizes aliens finding base)
+    Missile Defense    16   200k   5k  (Def value  500, Accuracy 50%)
+    Small Radar        12   500k  10k  (300nm range, 5% detect/10mins)
+    Plasma Defense     36  1200k  12k  (Def value  900, Accuracy 70%)
+    Psi Lab            24   750k  16k  (For troop psi training)
+    Workshop           32   800k  35k  (Allows 50 manufacture)
+
+        Fusion Defense, Grav Shield, Hyperwave Decoder, Laser Defense,
+        Mind Shield, Plasma Defense, and Psi Lab require respective
+        advances to be researched before they can be built, see 6.X for
+        more information.
+
+        NOTE 1: In a workshop, the object being manufactured takes up
+                some space. So you will not be able to cram all 50
+                engineers in there.
+
+        NOTE 2: You can dismantle a facility, even when it is under
+                construction. Simply click on the facility, and the
+                program will ask you do you wish to dismantle it, select
+                OK or Cancel.
+
+        NOTE 3: To dismantle a base, you must remove all facilities
+                (transferring all people and equipment elsewhere if
+                needed) then finally remove the access lift itself.
+
+        NOTE 4: What the manual does NOT tell you is Hyperwave Decoder
+                detects 100% of the UFOs within its range, and it has a
+                range LONGER than Large Radar.  Once you have this, you
+                don't need any radars.
+
+    3.8 Base startup costs, compiled by IrwinNY aol.com
+
+        base location       lift cost   Covers
+        ----------------------------------------
+        Africa, South         550,000   South Africa
+        Africa, North         650,000   Nigeria, Egypt
+        Atlantic, North       500,000   (Really Greenland)
+        America, North        800,000   USA, Canada
+        America, South        600,000   Brazil
+        Antartica             900,000
+        Arctic                950,000
+        Asia, Central         500,000   Western China
+        Asia, South East      750,000   Japan, Eastern China
+        Australasia           750,000   Australia
+        Europe              1,000,000   Eastern Commonwealth, UK, France,
+                                        Germany, Italy, Spain
+        Pacific               600,000   (really Hawaiian islands)
+        Siberia               800,000   Western Commonwealth, India
+
+
+4.0 X-COM Hardware
+
+    Here's the comprehensive list of all the toys you get to play with.
+    Of course, most of them requires research.
+
+    4.1 XCOM Crafts and their weapons
+
+        XCOM crafts comes in two flavors: traditional, and UFO-based.
+        traditional, besides using conventional jet engines, also
+        requires MONTHLY RENT, so replace them with UFO-based crafts as
+        soon as possible.
+
+        XCOM weapons also comes in two flavors: built vs bought.
+
+        4.1.1 XCOM Crafts
+
+                    Speed  Accel  Fuel  Weapons  Hull  Cargo HWPs Note
+        Skyranger    760      2   2000     0     150    14    3
+        Interceptor 2100      3   1000     2     100     0    0
+        ----Research required----
+        Firestorm   4200      9   20(E) 4  2     500     0    0   (1)
+        Lightning   3100      8   30(E) 6  1     800    12    0   (2)
+        Avenger     5400     10   60(E)12  2    1200    26    4   (3)
+
+        (E) Uses elerium-115 for fuel      (1) new fighter
+        (2) new fighter/transport          (3) ultimate craft
+
+        Speed   : maximum speed of craft, determines if it can keep up
+                  with UFO during interception.
+        Accel   : maximum acceleration of craft, determines whether UFO
+                  will stay in range
+        Fuel    : amount of fuel carried, endurance terms
+        Weapons : number of weapon pod mounts available
+        Hull    : amount of damage the craft can take
+        Cargo   : number of "spaces" craft can carry.  Each soldier is
+                  one space and each HWP is four spaces (see HWPs also)
+        HWPs    : maximum number of HWP this craft can carry.
+
+        Note    : for the Elerium fueled crafts, you need to divide by 5
+                  for the actual units used. Avenger takes actually 12
+                  units of E-115 for refuel, instead of 60 as written
+
+        4.1.2 Craft General Advice
+
+              Replace Skyrangers and Interceptors ASAP to save on
+              monthly lease.  OTH, Interceptors have longer range than
+              Firestorms, and with twin plasma cannon, can attack
+              anything except battleships.
+
+              Lightning is almost useless and usually do not get built
+              by most players.  Just forget it and research for Avenger.
+              Lightning has four ONE-space doors which means it cannot
+              carry any HWPs.
+
+              Do NOT use Avengers exclusively since you put too many
+              eggs (soldiers and equipment) in one basket.
+
+
+        4.1.3 Craft Weapons
+
+                        Damage   Range   Accuracy  Reload  Shots
+        Cannon             10      10       10%       2s     200
+        Stingray           70      30       70%      15s       6
+        Avalanche         100      60      100%      20s       3
+        ----Research required----
+        Laser Cannon       70      21       70%       4s      99
+        Plasma Beam       140      52      140%       6s      99
+        Fusion Launcher   230      65      230%      25s       2
+
+        Damage   : damage done to target if hit
+        Range    : max range of weapon
+        Accuracy : hit probability when fired
+        Reload   : second needed to fire next shot
+        Shots    : number of shots available
+
+        NOTE 1: Match the weapon to the target.  You want to force the
+                alien to land so you can board it and recover artifacts
+                and prisoners, not blow it into smithereens (though it
+                might make you feel good)
+
+        NOTE 2: The long range weapons, like Avalanche, Plasma Beam, and
+                Fusion Ball Launcher, gives you advantage since UFO
+                usually do not fire back until you are quite close.  See
+                7.5 for UFO weapon ranges.
+
+        NOTE 3: It is possible to miss with weapons that have accuracy
+                > 100%, esp. when target moves out of range.
+
+        4.1.4 Craft Weapons General Advice
+
+              You don't want Stingray missiles and cannons. They can
+              handle only very small or small UFOs.  Only keep them
+              around on ONE fighter in case you want to go after small
+              stuff.
+
+              Use Avalanche missiles in the early game to take on medium
+              or large UFOs.  With two to three interceptors you can
+              take down terror ships or supply ships easily.
+
+              Switch to plasma cannons later in the game and forget
+              fusion ball launchers (not enough damage overall, only 2
+              shots each)
+
+              Forget laser cannons except for selling (see section 5)
+
+
+    4.2 XCOM Ground Weapons
+
+        Ground weapons accuracy is further modified by free hands,
+        kneeling /standing, and soldier's shooting accuracy.  Time Units
+        used is always expressed as a percent of a soldier's total TU.
+
+        Also see 8.6.X on battle notes for each type of weapon.
+
+                     (Accuracy / TU% needed)
+                      Aimed    Snap    Auto  Dam Type  Ammo (Capacity)
+Pistol                78/30   60/18           26  AP   Pistol Clip (15)
+Rifle                110/80   60/25   35/35   30  AP   Rifle Clip  (20)
+Heavy Cannon          90/80   60/33           56  AP   HC-AP (6)
+                                              52  HE   HC-HE (6)
+                                              60  I    HC-I  (6)
+Auto Cannon           82/80   56/33   32/40   42  AP   AC-AP (14)
+                                              44  HE   AC-HE (14)
+                                              48  I    AC-I  (14)
+Rocket Launcher      115/75   55/45           75  HE   Small Rocket
+                                             100  HE   Large Rocket
+                                              90  I    Incendiary Rocket
+Grenade                                       50  HE
+Smoke Grenade                                 60  Smoke
+Proximity Grenade                             70  HE
+High Explosive                               110  HE
+--Research required---
+Laser Pistol          68/55   40/20   28/25   46  Las
+Laser Rifle          100/50   65/25   46/34   60  Las
+Heavy Laser           84/75   50/33           85  Las
+Plasma Pistol         85/60   65/30   50/30   52  Plas PP clip (25)
+Plasma Rifle         100/60   86/30   55/63   80  Plas PR clip (30)
+Heavy Plasma         110/60   75/30   50/35  115  Plas HP clip (35)
+Blaster Launcher     120/80                  200  HE   Blaster Bomb
+Small Launcher       110/75   65/40           90  Stun Stun Bomb
+Alien Grenade                                 90  HE
+
+        AP = Armor piercing  HE = High Explosive  I = Incendiary
+
+        Note 1 : Accuracy for two-handed weapons is decreased 20% if
+                 other hand is not empty (i.e. holding something like
+                 grenade, psi amp, etc.)
+        Note 2 : Accuracy is increased 10% if the soldier is kneeling,
+                 which takes only 4 TUs
+        Note 3 : Grenades and Blaster Bomb have 3-D explosions (despite
+                 what many people claimed)
+
+        General Advice:
+
+        Get laser pistol and rifle ASAP, then research heavy plasma,
+        skipping plasma pistol and plasma rifle (go back later when you
+        have time), then blaster launcher.
+
+        Forget heavy cannon and heavy laser as they are not worth the
+        weight without auto (three-round-burst) mode.
+
+        Autocannon would be your "heavy" weapon early on, along with a
+        rocket launcher.  Replace them with laser/heavy plasma and
+                blaster launcher.
+
+
+    4.3 HWP Types
+                        Cost  Shots Dam  TU ArmorF/S/R  Health
+        Tank/Cannon     450K    30   60  70  90/ 75/ 60   90
+        Tank/Rocket     480K     8   85  70  90/ 75/ 60   90
+        --Must research--
+        Tank/Laser      500K   255  110  70  90/ 75/ 60   90
+        Hover/Plasma    850K   255  110 100 130/130/100   90
+        Hover/Launcher  900K     8  140 100 130/130/100   90
+
+        General advice:
+
+        HWPs should be your scouts, extending your visual range and
+        keeps your soldiers out of enemy's visual (and lethal) range
+
+        Get the latest and greatest ASAP, buy/built them.  You need the
+        extra TUs and ammo the provide early in the game.  When you have
+        lots of veterans HWPs lose their importance, but is still
+        important as just a scout.
+
+        You must buy enough ammo for HWP that requires them for them to
+        be available for deployment.  Tank cannon, Tank/Rocket, and
+        Hover/launcher each require their own ammo in the quantity
+        indicated under "Shots".  Make sure you get the right ones.
+
+
+    4.4 Armor
+                          Fr/Sd/Rr/Bt
+        None               5/ 5/ 5/ 5
+        --Must research--
+        Personal Armor    50/40/30/30
+        Power Suit       100/80/70/60
+        Flying Suit      110/90/80/70
+
+        General Advice:
+
+        personal armor just need "alien alloy", so research that ASAP.
+        That will improve your chance of survival by quite a bit.  After
+        that, research UFO power source and you should get Power Suit,
+        and finishing a hovertank should get your flying suit.
+
+                Power suit is the most "efficient" amor.  Flying suit
+requires
+                a lot of elerium, so reserve them for scouts and officers.
+
+    4.5 Equipment
+
+        Equipment are non-combat items that you may need to use in
+        BattleScape.
+
+        4.5.1 Equipment list
+
+                       TUs    Usage
+        Electroflare   25%    Use at night for illumination, reusable
+        --Must research--
+        Medikit        10     heal fatal wounds, raise morale, revive
+                              unconscious people (see UFOpedia)
+        MotionScanner  25%    registers movement within 8 squares radius
+        Mind Probe     50%    allows you to see alien's status screen
+                              (ID, TUs remain, health, + other stats)
+
+        4.5.2 Very General Advice
+
+              Carry one electroflare and one medikit on each soldier.
+              You need the light at night (just in case) and the medikit
+              means no more bleeding to death.
+
+              Medikits are not quite as useful when you don't have good
+              armor, because even a weak hit becomes a kill with bad
+              armor.  Before then you can distribute less medikits.
+
+              You can pick up a thrown electroflare and throw it again.
+              So you don't need to carry too many of those around.
+
+              Mind Probe and Motion Scanner are optional items. Motion
+              Scanner are useful to look behind doors or for hunting
+              down that last alien.  Mind Probe is for knowing who to
+              capture.  Take them if you have room, but they are not
+              essential to a ground battle.
+
+        4.5.3 How do I use...
+
+              Check your UFOpedia.  Below are some additional tips:
+
+              Electroflare
+
+                 You can pick up an electroflare on the ground and throw
+                 it out again, illuminating another area
+
+                 Chuck one inside the building through a window to see
+                 inside.  You may have to kneel to angle one in.
+
+              Medikit
+
+                 Heal fatal wounds first, worry about unconscious and
+                 morale later.  If necesary, use TWO people's medikits.
+
+                 To revive a person, keep administering stimulant until
+                 s/he no longer shows up on the ground in the inventory
+                 screen.  Should appear next turn at an adjacent square.
+
+              Motion Scanner
+
+                 Remember the top of display is always north (like the
+                 overhead map) and YOUR facing is the middle arrow.
+
+                 Use this to look around corners and behind doors.
+                 Aliens hardly ever stay still between rounds.
+
+              Mind Probe
+
+                 Usually you would use this to ID a target for capture
+                 but here's a trick that you can use if you do NOT have
+                 one: try to pick up the unconscious alien on the ground
+                 will also identify alien's rank and position.
+
+
+    4.6 Stuff that can be bought, hire, or leased
+
+        These are the stuff you can buy, usually not very interesting.
+
+        Item              Category         Cost    Note
+        ---------------------------------------------------------
+        Soldier           Personnel        40000   monthly salary
+        Scientist         Personnel        60000   monthly salary
+        Engineer          Personnel        50000   monthly salary
+        Skyranger         Craft           500000   monthly lease
+        Interceptor       Craft           600000   monthly lease
+        Stingray l'cher   Craft Weapon     16000   6 rounds
+        Stingray missile  Craft Ammo        3000
+        Avalanche l'cher  Craft Weapon     17000   3 rounds
+        Avalanche missile Craft Ammo        9000
+        Cannon            Craft Weapon     30000
+        Cannon Ammo (x50) Craft Ammo        1240
+        Tank/Cannon       HWP             420000   30 rounds
+        HWP Cannon Ammo   HWP Ammo           200
+        Tank/Rocket       HWP             480000   8 rounds
+        HWP Rocket        HWP Ammo          3000
+        Pistol            Weapon             800   20 rd/clip
+        Pistol Clip       Ammo                70
+        Rifle             Weapon            3000   25 rd/clip
+        Rifle Clip        Ammo               200
+        Heavy Cannon      Weapon            6400   6 rd/clip
+        HC-AP             Ammo               300
+        HC-HE             Ammo               500
+        HC-I              Ammo               400
+        Auto Cannon       Weapon           13500   14 rd/clip
+        AC-AP             Ammo               500
+        AC-HE             Ammo               700
+        AC-I              Ammo               650
+        Rocket Launcher   Weapon            4000
+        Small Rocket      Ammo               600
+        Large Rocket      Ammo               900
+        Incendiary Rocket Ammo              1200
+        Grenade           Weapon             300
+        Smoke Grenade     Weapon             150
+        Proximity Grenade Weapon             500
+        High Explosive    Weapon            1500
+        Stun Rod          Weapon            1260
+        ElectroFlare      Equipment           60
+
+
+    4.7 Stuff that must be researched and manufacturered
+
+        See 5.4 for profitability study of these items.  Keep in mind
+        that UFO have a different set of prices.
+
+                  Engineer       Workshop          Alien   Sale
+                   Hours   Cost   Space   Elerium Alloys  Price
+[Equipment]
+Motion scanner       220    34k      4       -      -     45600
+Medikit              420    28k      4       -      -     46500
+Mind probe          1200   262k      4       1      -    334000
+Psi amp              500   160k      4       1      -    194700
+[Armor]
+Personal armor       800    22k     12       -      4    140000
+Power suit          1000    42k     16       5      5    310000
+Flying suit         1400    58k     16      16      5    420000
+[HWP]
+Tank/laser          1200   500k     25       -      -         ?
+Hovertank/plasma    1200   850k     30      30      5    980000
+Hovertank/launcher  1400   900k     30      25      8   1043000
+HWP fusion bomb      400    15k     25       5      8     31500
+[weapons]
+Laser pistol         300     8k      2       -      -     20000
+Laser rifle          400    20k      3       -      -     36900
+Heavy laser          700    32k      4       -      -     61000
+Plasma pistol        600    56k      3       -      1     84000
+Plasma pistol clip    60     2k      4       1      -      4440
+Plasma rifle         820    88k      4       -      1    126500
+Plasma rifle clip     80     3k      4       2      -      6290
+Heavy plasma        1000   122k      4       -      1    171600
+Heavy plasma clip     80     6k      4       3      -      9590
+Blaster launcher    1200    90k      5       -      1    144000
+Blaster bomb         220     8k      3       3      -     17028
+Small launcher       900    78k      3       -      1    120000
+Stun bomb            200     7k      2       1      -     15200
+Alien grenade        200   6.7k      2       2      -     14850
+[Crafts]
+FIRESTORM          14000   400k     30       -     65         -*
+LIGHTNING          18000   600k     34       -     85         -*
+AVENGER            34000   900k     36       -    120         -**
+[Craft Weapons]
+Laser cannon         300   182k      6       -      -    211000
+Plasma beam          500   226k      8      15      -    267300
+Fusion ball launcher 400   242k      6       -      -    281100
+Fusion ball          600    28k      6       4      -     53300
+[Misc]
+Alien alloys         100     3k     10       -      -      6500
+Elerium-115            -      -      -       -      -      5000***
+UFO power source    1400   130k     22      16      5    250000
+UFO navigation      1600   150k     18       -      3     80000
+
+*   needs 1 UFO power source + 1 UFO navigation
+**  needs 2 UFO power sources + 1 UFO navigation
+*** Elerium can ONLY be captured as parts of UFO or base, which makes
+    it extremely valuable, so NEVER sell or waste any of it
+
+
+5.0 Finance
+
+    5.1 What really eats up money at XCOM?
+
+        The answer is: maintenence, and salary.  If you have 100
+        scientists, their monthly salary is $6 million (!).  Add that to
+        your bases (the BARE MINIMUM radar base costs over $1 million a
+        month to maintain!), and you will go broke pretty quick.
+
+        Sponsors' money will barely make a dent in your expenses, as
+        they only pay you a few million, probably not even enough for
+        base maintainence.
+
+    5.2 How do I earn more money?
+
+        Three (real) ways to make money in XCOM:
+
+        Make your sponsoring countries happy -- so they will increase
+        their payments.  The problem is: they don't pay much to start
+        with, and their increase is just enough to sneeze at.  Their
+        payments may be enough to buy some ammo and stuff, but don't
+        expect much of an increase.
+
+        Manufacture arms for sale -- 5.4 shows you what to make to
+        really make money, but usually you need the weapons and other
+        stuff for yourself, so that leaves us to:
+
+        Sell captured/surplus equipment -- most of your money will be
+        made this way.  Dump off all your obsolete equipment (pistols,
+        rifles, etc) and surplus and you will get LOTS of money.  You
+        will usually end with with plenty of surplus heavy plasma, and
+        those fetch very good prices on the market.  :-) Doing this also
+        means you need less storage space (and less maintainence) and
+        more "real" weapons on base defense (due to the 80 item limit)
+        Keep only one item of each type for research, sell the rest. You
+        need the money and the space for more useful stuff.
+
+        As a last resort, you can always cheat.  See the last section
+        for how.
+
+    5.3 How do I cut expenses?
+
+        *  Cut Maintenence -- dismantle any unused facility (see 5.6)
+
+        *  Build your own crafts -- Skyrangers and Interceptors have a
+             monthly rental fee, your own crafts do not.  Of course,
+             this means you have to research UFO construction and
+             things.
+
+        *  Minimize salary -- use the salary transfer trick! (see 5.5)
+
+    5.4 What do I manufacture to make more money on the arms market?
+
+        X-COM Profitability study -- by Jeff Shaffer [edited]
+
+        Recently, we at the XCOM Business Institute (our motto: "If it's
+        worth doing, it's worth analyzing to death") spent all last
+        night to bring you the following table.  The basic assumption is
+        that you are willing to support engineers long-term in order to
+        make a profit.  I calculated results for a hypothetical 2
+        workshop operation. You would get slightly better results with
+        larger facilities, due to the economy of scale.
+
+        [some numbers are rounded to the nearest 1000 (K) for space]
+
+                        Work  Eng  Raw            Sale Unit|Monthly|Net
+      Item              Space Hrs  Material Cost Price   P R O F I T
+      -----------------------------------------------------------------
+      Motion Scanner     4     220    -      34K   45K  11K 3765K 1275K
+      Medikit            4     420    -      28K   46K  18K 3146K  656K
+      Psi Amp            4     500  1E      160K  194K  29K 4242K 1752K
+      Personal Armor    12     800     4A    22K   54K   6K  491K     -
+      Power Suit        16    1000  5E+5A    42K   85K    -    -      -
+      Flying Suit       16    1400 16E+5A    58K  115K    -    -      -
+      Alien Alloys      10     100    -       3K    6K   3K 2343K    3K
+      Elerium 115        -      -     -       -     5K    -    -      -
+      Laser Pistol       2     300    -       8K   20K  12K 2916K  376K
+      Laser Rifle        3     400    -      2K0   36K  16K 3049K  534K
+      Heavy Laser        4     700    -      32K   61K  29K 2958K  468K
+      Plasma Pistol      3     600     1A    56K   84K  21K 2586K   71K
+      Plasma Pistol Clip 4      60  1E        2K    4K    -    -      -
+      Plasma Rifle       4     820     1A    88K  126K  32K 2787K  297K
+      Plasma Rifle Clip  4      80  2E        3K    6K    -    -      -
+      Heavy Plasma       4    1000     1A   122K  171K  43K 3078K  588K
+      Heavy Plasma Clip  4      80  3E        6K    9K    -    -      -
+      Blaster Launcher   5    1200     1A    9K0  144K  47K 2797K  332K
+      Blaster Bomb       3     220  3E        8K   17K    -    -      -
+      Small Launcher     3     900     1A    78K  120K  35K 2846K  331K
+      Stun Bomb          2     200  1E        7K   15K   3K 1166K     -
+      Alien Grenade      2     200  2E        6K   14K    -    -      -
+      Mind Probe         4    1200  1E      262K  304K  37K 2202K     -
+      UFO Power Source  22    1400 16E+5A   130K  250K   7K  310K     -
+      UFO Navigation    18    1600     3A   150K   80K    -    -      -
+      Fusion Ball L'cher 6     400     1A   242K  281K  39K 6836K 4396K
+      Fusion Ball        6     600  4E       28K   53K   5K  617K     -
+      Laser Cannon       6     300    -     182K  211K  29K 6760K 4320K
+      Plasma Beam        8     500 15E      226K  267K    -    -      -
+      Tank/Laser Cannon 25    1200    -     500K  594K  94K 4371K 2406K
+      Hovertank/Plasma  30    1200 30E+5A   850K  980K    -    -      -
+      Hovertank/Launcher30    1400 25E+8A   900K 1043K    -    -      -
+      HWP Fusion Bomb   25     400  5E+8A    15K   31K    -    -      -
+
+        First six columns are just basic information from my version of
+        XCOM. (Note:  I have seen posts stating that UFO has higher sale
+        prices for some items, notably armor!)  The 'Unit Profit' column
+        is sale price minus cost, minus the cost of any E-115/Alloy used
+        in manufacture.  A '-' means a net loss, no further analysis.
+        'Monthly Profit' column is based on an "XCOM Month" of 24*31 =
+        744 hours. The calculation is number of engineers that fit in
+        two workshops times 744 times unit profit, divided by the hours
+        required to make one item.  For example, the monthly profit for
+        Motion Scanners is 96*744*11600/220 = 1275993 (1275K).
+
+        The 'Net Profit' column is the bottom line.  Monthly expenses
+        are the salaries of as many engineers as fit in the workshops
+        times $50K, plus the maintenance on 2 workshops and 2 living
+        quarters.
+
+        As you can see, Fusion Ball Launchers are the winner, narrowly
+        edging out Laser Cannons.  A profit can be made early in the
+        game on motion scanners, however.
+
+        One final note:  It costs roughly $7M to hire engineers and
+        build the facilities, so you'll need to 'borrow' some money
+        (preferably from alien supply ships :) to get started.
+
+        [Editor's note: don't forget the "transfer salary trick" below]
+
+    5.5 The "Transfer Salary Savings" trick
+
+        As explained on page 131 of OSG, if you sack scientists and/or
+        engineers before the end of the month, you don't have to pay
+        their salaries.  However, there's ANOTHER way to do this.
+
+        Have two bases approximately equivalent to each other, like both
+        research (or manufacturing), about same living quarters, and
+        scientists (or engineers).  Just before end of the month (last
+        day, last hour), transfer ALL of the scientists (engineers) to
+        the other base, and do the same on the other base (i.e. they
+        swap their contingent).  When the end of month comes along,
+        NEITHER side has their scientists (engineers) (they are in
+        transit), no salary is paid.  If you have like 100 scientists
+        moving each way, you save $60,000x100x2 = $12 million!
+
+    5.6 When do I dismantle unused base facilities?
+
+        The OSG was rather unclear on what to dismantle.  Basically, you
+        should do the following:
+
+        * When you get hyperwave decoder, build only one at each base,
+          and dismantle all the radars there.  One hyperwave decoder
+          detect 100% of UFOs within range, so no radars are needed.
+        * When you no longer need alien prisoners (i.e. you are ready to
+          undertake the "final mission"), zap the alien containment
+          (though by that time, it doesn't matter any more, unless you
+          are waiting for your Avenger to be built)
+        * When you no longer need more research or manufacturing (i.e.
+          you are ready for the "final mission"), lay off all the
+          scientists and/or engineers, and zap their living quarters and
+          working modules.
+
+    5.7 Aliens signed pact with XXX who stopped paying me!
+
+        Nothing you can do.  One of the Infiltration UFOs got through.
+        (See 9.8 UFO Missions) and now the country stopped paying you.
+        Consensus on the net is you can NOT get them back (i.e. nullify
+        the pact). The OSG confirms so.
+
+        On the other hand, some UFO players have reported that certain
+        countries (very few though) have returned.  Any XCOM players
+        have their countries coming back from an alien pact?
+
+
+6.0 Research and Manufacturing
+
+    6.1 What should I start researching first?
+
+        OSG and I have different priorities on research...
+
+        I recommend laser weapons, medikit, laser rifle, and alien alloy
+        (which allows personal armor) for the starting projects.
+        Pistols and rifles are pitiful against plasma rifles and alien
+        grenades. Laser rifles, which does not use ammo, should even up
+        the odds a bit, and personal armor should save you from a
+        grazing shot (which would have killed with no armor).  Medikit
+        will save you from the grazing shot that caused fatal wounds.
+
+        The rest is up to you, but I recommend researching heavy plasma,
+        small launcher and stun bombs, then heavy blaster and blaster
+        bombs.  Then research Elerium, UFO power source, so you can
+        build nice armor.
+
+    6.2 Overall strategy
+
+        Keep roughly 100 scientists in your employment.  You need that
+        much research to discover things in reasonable time, though you
+        can probably get by with 50-75.
+
+        Due to the way research works, concentrate on one project at a
+        time so you can start on later topics faster.
+
+        Research prisoners ASAP.  See 9.3 for benefits you can gain from
+        each type of prisoners.  Grab a navigator would mean that you
+        can reap significant saving in radars (after you get the
+        hyperwave decoder, of course) and better interception.
+
+    6.3 Research Tree
+
+        [OSG has chart on man-hours needed for each discovery]
+
+ Laser Weapons       Heavy      Heavy         Plasma     Plasma
+       |             Plasma   Plasma Clip      Rifle   Rifle Clip
+  Laser Pistol          |___________|            |__________|
+       |                       |                       |
+  Laser Rifle                  |                       |
+       |                       |__________OR___________|
+  Heavy Laser                             |
+       |                                  |
+  Laser Cannon                      Plasma Cannon
+  (Laser Tank)                   (Hovertank/Plasma)*
+       |                                  |
+  Laser Defense                     Plasma Defense
+
+              Alien Alloys                      Blaster     Blaster
+                  |                             Launcher     Bomb
+Elerium 115  Personal Armor  UFO Power Source      |___________|
+    |_____________|_________________|                    |
+                  |                                 Fusion Ball
+                  |                            (Hovertank/Launcher)**
+             Power Suit      UFO Navigation              |
+                  |_________________|              Fusion Defense
+                           |
+                      Flying Suit
+
+Alien    Elerium        UFO            UFO
+Alloys      115     Power Source   Navigation
+ |___________|___________|______________|
+                   |
+           UFO Construction
+                   |
+                   |
+           New Fighter Craft
+              (Firestorm) * = [Hovertank / Plasma]
+                   |
+        New Fighter-Transporter
+              (Lightning)
+         __________|____________
+         |                      |
+        Grav              Ultimate Craft
+       Shield               (Avenger)
+
+*  Need "New Fighter Craft" before you can build the plasma hovertank.
+** Need fusion ball launcher before you can build the fusion ball
+   hovertank.
+
+    6.4 Any hints on manufacturing?
+
+        Only manufacture thing that you REALLY need, like crafts, etc.
+        almost NEVER manufacture ammo since most require Elerium, which
+        is always in short supply. Captured ammo is much cheaper and
+        don't use your precious E-115 supply.
+
+        NEVER let any engineers go idle.  If you don't need anything
+        built, build something that makes money.
+
+
+7.0 Intercepting UFOs
+
+    Don't forget to check section 4 for info on XCOM crafts.  Some of
+    these hints and related hints are also listed in Section 2.
+
+    Also see 12.2 for UFO recognition chart (and floorplan)
+
+    7.1 Tracking UFOs
+
+        Remember that UFOs have specific targets and they do NOT change
+        missions in mid-air ("Chicago's covered, let's go for Havana
+        instead").  They also head STRAIGHT for their targets on the
+        inbound leg.  So if you see an UFO and lost tracking, try to
+        extrapolate its course and send interceptors to their estimated
+        NEXT location instead of going toward the last known location.
+
+        [Interestingly, they sometimes abort their mission (just leave),
+        esp. in cases where they can't find your base to attack.]
+
+        If you have hyperwave decoder, you can see UFO destination
+        directly as it comes into range.
+
+    7.2 Air-to-air attack methods
+
+        Once you got a craft in range of the UFO, it's time to attack.
+
+        While the OSG explained what the different attacks REALLY mean,
+        it STILL doesn't explain what good is each for.  Here's my
+        version...
+
+        Cautious Attack: causes least damage per attack but remains at
+        the longest range and therefore has the least chance of getting
+        counter-attacked.  Useful when you want a not too badly damaged
+        UFO (just enough to crash it).
+
+        Normal Attack: average damage per attack, enough for most
+        attacks if your weapon outranges the UFOs.
+
+        Aggressive Attack: close to point-blank and let them have it
+        in the face!  Causes the most damage per attack, but exposes
+        craft to counter-fire.  Good for brave/suicidal charges (toward
+        an alien battleship, for instance)
+
+    7.3 Weapons
+
+        OSG has a typo: Table 7-2, Fusion Ball Launcher holds TWO, not
+        three shots as stated.  Section 4.1 is correct.
+
+        In case you haven't noticed, Plasma Beam is the BEST craft
+        weapon in the game.  It has 100 shots, 70 damage per shot, AND
+        range of 52 km, which outdistances almost all UFOs except
+        battleships.  Even though Fusion Ball Launcher causes more
+        damage per shot, you only get two shots for each launcher.
+
+        In any case, try to replace Stingrays and regular cannons ASAP,
+        since they are worthless once you see large UFOs.
+
+    7.4 Special note on Alien Battleship
+
+        Battleship is THE most dangerous UFO, period. It outranges ALL
+        XCOM craft weapons.  Only Firestorms and Avengers can stand up
+        to it, NEVER use Interceptors (or you WILL lose them).  ALWAYS
+        attack Battleships in groups to minimize damage and the
+        resultant repair time, and use aggressive attack, since you
+        don't want the UFO to fire back that often.  I've found that
+        aggresive attack reduces damage against Battleships.
+
+    7.5 UFO Size Classes and weapons range
+
+        If you read table 7-3 in OSG or the UFOpedia, the Weapon Range
+        of the UFO is a rather large number (ex. Battleship = 520). That
+        number means nothing by itself.  To get a more meaningful
+        number, divide that by 8 for the range in kilometers. (EX.
+        Battleship is 520/8=65 km).  That forms the revised weapons
+        range table below.
+
+        Revised range table:
+
+        UFO TYPE          Weapon Range (km)
+        Small Scout                0
+        Medium Scout              15
+        Large Scout               34
+        Harvester                 22
+        Abductor                  20
+        Terror Ship               42
+        Battleship                65
+        Supply Ship               28.5
+
+        Plasma beam, with 52 km range, can attack any UFO except
+        battleship with impunity. UFO Battleship, with range of 65 km,
+        can shoot back at even crafts armed with Fusion Ball Launchers
+        (which also has a 65 km range).
+
+    7.6 Methods of Attack
+
+        The safest way to hit large or very large UFOs is to have
+        multiple Firestorms and/or Avengers to converge on them.  UFOs
+        are dumb and does not concentrate on one target, so the more
+        targets you present, the less damage each will receive.  Of
+        course, if you send up Interceptors against Battleships, don't
+        expect many to come back, since Battleships can destroy an
+        Interceptor with ONE shot.
+
+        Plasma beams will make your Interceptors useful again, so get
+        them ASAP.  Replace them with Firestorms ASAP though to save on
+        monthly "rent".
+
+    7.7 Go Home Early
+
+        When you send multiple crafts after one UFO and the UFO gets
+        shot down, the shooter will go home, but other crafts will
+        continue onto the crash site and THEN return.  Instead, click on
+        them and turn them back early (Return to base).  They will
+        return earlier, thus be refueled and rearmed faster for the next
+        mission.
+
+    7.8 Keep Landed UFOs covered
+
+        Even if UFO has landed, keep an interceptor on top of it until
+        your landing craft arrives for the action.  That way, if the UFO
+        takes off, you still have a chance to shoot it down.
+
+    7.9 Weapon vs UFO analysis
+
+        Before attacking, click on the VIEW UFO button to take a look at
+        your target before deciding whether to attack or not.  Attacking
+        with wrong weapons means either the loss of the interceptor or
+        the UFO totally destroyed so that nothing can be recovered.
+
+        For this reason, if you WANT to go after the smaller UFOs, keep
+        a fighter around with "wimpy" weapons.
+
+        7.9.1 Very Small / Small UFOs
+
+              Interceptors with Stingray missiles and cannons can only
+              handle very small or small sized UFOs.  Attacking larger
+              UFOs means heavy damage or even destruction.  Laser
+              cannons are not much better, sharing the short range flaw.
+
+        7.9.2 Medium UFOs
+
+              Interceptors with Avalanche missiles or plasma beams can
+              handle medium UFOs easily.  On the other hand, one
+              Avalanche will blow a very small UFO into pieces.
+
+        7.9.3 Large UFOs
+
+              Interceptors with Plasma beam and/or Avalanche missiles
+              can handle large UFOs, but not VERY large UFOs.  Plasma
+              beam may blow small UFO into pieces.
+
+        7.9.4 Very Large UFOs
+
+              Multiple Interceptors with plasma beam and/or Avalanche
+              are needed to attack very large UFOs, and you'll probably
+              lose a few, since one shot from battleship will at least
+              cripple an interceptor.  Just don't do it.
+
+              The only way to "safely" attack alien battleships is to
+              use Firestorms and Avengers (the more the better!) with
+              twin plasma beams.  Even then you will probably be heavily
+              damaged (as in 20% to 60% damage), which is not a good
+              trade.  Many have suggested that you should let them land
+              and attack them on the ground.
+
+
+8.0 Soldiers, Movement, and Combat
+
+    8.1 Soldiers
+
+        8.1.1 Soldier Statistics
+
+              We recommend that instead of using the default names, you
+              adopt a naming system for your soldiers that will help you
+              to know at a glance who to take on a mission.
+
+              System One reflects a trained specialty, such as scout
+              (SC), heavy weapons (HW), demolitions (DM), psi combat
+              (PS), sharpshooter (SS), etc.  For example, "Steve Rogers
+              HW/PS" has lots of strength and nice time units for
+              carrying the heavy weapons (and shooting them).  His
+              PsiStr and PsiSkl is also pretty high so he also carries a
+              PsiAmp for psi combat.
+
+              Here's some suggested specialties
+              Scout (SC)          -- carry motion sensor
+              Medic (MD)          -- carry Medi-Kit
+              Intelligence (IT)   -- carry mind probe
+              Heavy Weapons (HW)  -- carry "heavy" stuff
+              PsiCorp (PSI)       -- carry psi amp for psi attacks *
+
+              * PsiCorp is named after the organization in Babylon 5
+
+              You can also cross-train, of course.  There's no limit in
+              the number of spots each person can hold...  And real-life
+              SEAL teams are all cross-trained any way.
+
+              System Two just places the numbers in the name.  For
+              example, "Steve 64/44/36/71/46/62/16", for which the
+              numbers are Time Units, Health, Reactions, Firing
+              Accuracy, Strenth, Psi Strength, and Psi Skill.  You'll
+              probably need to update after this every mission.
+              (contributed by Seth Cohn)
+
+              To change the name, go to the soldiers screen (the one
+              base display) that displays their stats.  Click on their
+              name, and a cursor comes up, allowing you to change them.
+
+        8.1.2 Recruiting soldiers
+
+              Sack weaklings ASAP.  You want high strength, reaction,
+              morale, and shooting accuracy, and when you get psi, psi
+              strength. So recruit lots of rookies, use them for scouts
+              (they are cheap when compared to HWPs).  If they survive,
+              keep them, else, oh, well, they've done the world a great
+              service.  :-)
+
+              Why those traits?  High strength means they can carry more
+              (and heavier) stuff.  High reaction means they can get
+              opportunity fire (reaction shots) while enemy is moving.
+              High Morale means they are less susceptible to panic, and
+              shooting accuracy is obvious.  :-)  Other characteristics
+              are not as important.
+
+              Soldiers only get promoted if there are enough of them to
+              warrant a promotion.  So hire a lot of rookies, send them
+              out to missions. The ones that survive are squaddies, and
+              when you have enough squaddies, you have officers.  Feel
+              free to sack the bad squaddies later to save on salary.
+
+        8.1.3 How do I improve stats of soldiers?
+
+              Try to always take a couple of rookies along to give them
+              experience to boost their stats.  In XCOM, you learn by
+              doing. You want more strength?  Carry heavy stuff.  More
+              accuracy?  Take more shots.  Soldiers with kills gain more
+              than those without kills.
+
+        8.1.4 Dividing up specialties
+
+              Assuming 10 soldiers and 1 HWP (normal for a Skyranger)
+              you should have the following:
+
+              1 scout
+              2 soldiers heavy weapon squad
+              3 soldiers squad A
+              3 soldiers squad B
+              1 officer
+              1 HWP
+
+              The two highest strength soldiers should be the heavy
+              weapon folks, who would be carrying autocannon and rocket
+              launcher in the early game, and blaster launchers later.
+
+              The scout should have the highest TU (low strength is
+              okay) and will be carrying pistols and grenades and maybe
+              stun weapons.
+
+              The two squads can go after different targets, one squad
+              lead by officer and supported by HWP, while the other
+              squad supported by scout and heavy weapons.
+
+        8.1.5 How do I get more officers?
+
+              Officers come from Squaddies, and squaddies come from
+              Rookies who survived a mission and gotten at least one
+              kill.  Section 3.2.4 Promtions of manual explains how many
+              soldiers you need for officers to show up.
+
+
+    8.2 Movement
+
+        8.2.1 Deployment from Transport into Battle
+
+              The OSG fails to mention that you CAN see the outside
+              through the Windows in your transport.  If the last
+              soldier turn around in the Skyranger or Avenger, you can
+              see A LOT beyond the cockpit.  Of course, since you are on
+              Level 1, (Level 0 = ground) you can't see things that are
+              right next to you on ground.
+
+              After that, send out a HWP just on the ramp, turn to face
+              right. If there's no enemy, turn to face left, and you've
+              just cleared the surrounding area.  If there is enemy, get
+              off the ramp and start shooting.
+
+              Prime a grenade for most soldiers and be ready to throw it
+              as you get off the ramp.
+
+              Move the initial soldiers a few squares away before
+              deploying the next two so you don't invite grenades and/or
+              blaster bomb.
+
+        8.2.2 Use the terrain!
+
+              You can use the terrain in other ways than just hiding
+              behind something.  Use secondary explosions to your
+              advantage!  If alien is standing next to volatile object
+              like fuel drums, gas pumps, those red things in UFOs or
+              bases, etc, blow THAT up (DOOM players love doing this).
+
+              Aliens DO shoot through each other, so if you have NOWHERE
+              to hide, hide BEHIND an alien and pray.  (It was reported
+              that one alien shot itself when attempting to shoot down
+              the gravlift)
+
+              Kneel whenever possible.  It increases your accuracy and
+              decreases the enemy's (make you a smaller target)
+
+              Always hide behind something; it could mean the difference
+              between a wound vs. death!  Of course, that also means
+              that you have to have enough TUs
+
+              If you have flying suit, do not stay in mid-air unless you
+              have something to hide behind also.
+
+        8.2.3 Alien Movement and visual range
+
+              Do the aliens have better night vision?
+              Answer: They do NOT.
+
+              Why they can shoot at you but you don't see them?
+              Answer: depending on difficulty level, they "remember"
+              where you are from previous turns for several turns (on
+              higher levels they remember longer).  They can ONLY shoot
+              at you IF they had seen you before and still "remembered".
+
+              Aliens capitalize on this by moving forward, spot you,
+              then move back out of range.  Then for next X turns those
+              aliens in range shoot at you out of your visual range.
+
+                   visible
+                    range
+                A-----|-->A
+                      |   |             YOU
+                   A<-|---+
+
+              This is why soldiers may get mind-blasted even if no
+              aliens are in sight.
+
+
+        8.2.4 Listen and watch
+
+              Watch carefully in alien movement phase. Sometimes you CAN
+              spot them moving around.  TRY to remember the surrounding
+              terrain, then go to overhead map and see if you can spot
+              where that was.
+
+              Watch carefully where the shots came from.
+
+              Sound can give you important clues to alien locations. If
+              you hear door sounds, you know alien moved in/out of a
+              door.  Different door makes different sounds.
+
+              Aliens also have no manners.  They leave doors open after
+              they go through.  Watch farm houses carefully.
+
+              The length of the alien movement phase is proportional to
+              the number of hostile aliens left on the map.  Just keep
+              in mind that stunned aliens can wake up.
+
+        8.2.5 Spread out and cover each other
+
+              Bunch up invites enemy attack you with grenades, or worse,
+              blasterbombs.  Stay about four to eight squares apart.
+
+              Aliens DO attack from behind sometimes, so try to have two
+              troopers who can watch each other's back.  This is
+              ESPECIALLY important when going up against Chryssalids,
+              who moves extremely fast [~120 TUs!]  It will turn your
+              soldiers into zombies in a blink of an eye...  One player
+              reported losing the entire squad to a single Chryssalid on
+              a terror mission!  It pays to watch each other's back!
+
+              Here's a simple demonstration with a four person fire
+              team:
+
+               A                          A
+
+                     C             C
+                           ===>>
+               B                          B
+
+                     D             D
+
+              A and B moves forward, leapfrogging C and D.  C and D
+              would look forward when A and B move, ready to shoot at
+              any spotted enemies. When A and B has stopped, C and D
+              would turn around and watch the backs of A and B, who
+              would also turn facing outwards.
+
+        8.2.6 Retreat (Tactical withdrawal)
+
+              Sometimes you can't win and it's time to cut your losses.
+
+              To retreat from a landing assault (UFO recovery or
+              assault, terror site), move any many units as you can back
+              into the transport, then hit the dust-off button.  Any
+              units left behind are "missing in action".
+
+              If the only solider onboard the transport is unconscious
+              and you select dust-off, s/he's also missing in action,
+              and you lose the transport.
+
+              To retreat an attack on an alien base, you must pull every
+              one that you can back into one of those green-floor rooms
+              that you came down in.  Soldiers on gravlifts (even if
+              they are in the green-floor room) as well as soldiers
+              elsewhere are MIA when you select dust-off.
+
+              To retreat from a base defense mission, just hit dust-off.
+              You will lose the whole base to the aliens, of course,
+              including the crafts (no home elsewhere for them)
+
+
+    8.3 General Combat Tactics
+
+        8.3.1 HWP usage
+
+              HWPs should be used for "beating the bush" and flush
+              aliens out for soldiers to shoot.  That makes rocket
+              launcher tank and fusion ball launcher hovertank more
+              useful than their cousins.
+
+              Hovertank is even more useful since it can go high and
+              thus cover more ground.  They can also hover in mid-air
+              and thus avoid hand-to-hand attacks.
+
+              Use their shots to take down walls of orchards, barns, and
+              stuff like that so you don't have to go inside and clean
+              up every room.
+
+        8.3.2 Grenade usage
+
+              Grenades should be used for temporary boost in firepower
+              and for clearing obstacles in view.  Blow a hole in the
+              walls instead of going through the door.
+
+              Rookies can be effective grenadiers since grenades are
+              area weapons and grenades don't miss by very far.
+
+              High Explosive is just a very heavy grenade, and you will
+              have problems tossing it.  Toss it a short distance or
+              drop it on ground, then RUN away from the area.  They are
+              great opening up houses and barns, and may be able to
+              punch through inner (maybe outer?) UFO walls.
+
+              Proximity grenades are great for traps.  Use them to
+              prevent aliens coming up behind you, and/or pin aliens
+              (toss one on either side of it and it can't move without
+              setting one off)  Just remember where you threw them
+              (check the map) and don't walk near them yourself.
+
+              You can toss grenades to upper levels and through windows,
+              though you may have to kneel down to do it.
+
+
+        8.3.3 Blaster bombs usage
+
+              Blaster bomb and launcher is the second best weapon in the
+              game (the best is heavy plasma).  It can shoot around
+              corners, has wonderful damage (200 points!) and is very
+              effective.  Of course, it is also EXPENSIVE, and so is its
+              ammo.  So, use them carefully (don't save them either).
+
+              Use them to take down cover is a waste, use grenades
+              instead (unless you got bombs to waste)
+
+              Remember that blaster bomb do NOT explode when they reach
+              their last waypoint.  They explode when they actually HIT
+              something.  If you just fly a BB into an empty field, it
+              will NOT explode.
+
+              Blaster bombs is great for UFO attacks.  Use them to punch
+              holes in the UFO's outer hull for a new door. Target
+              square next to main door to enlarge door for HWPs.  One
+              shot will clear most of the corridor.  Unfortunately,
+              aliens love to shoot blaster bombs down gravlifts.
+
+        8.3.4 Rookie Plasma Fodder
+
+              One possible if cruel tactic is to use rookies instead of
+              HWPs as scouts.  It is a smaller target, though have less
+              armor and a lot less TUs.  On the other hand, they cost
+              about 1/10th as much.
+
+        8.3.5 Leave opportunity for shots
+
+              To make opportunity shots in the enemy movement phase, you
+              need TU's left unused, as well as a high reactions rating
+              (over 50 preferred).  So leave enough for a shot while
+              moving and still get in cover, or don't move at all.
+
+              Have soldiers kneeling close to UFO doors is a good way to
+              get better reactions, if they have plenty of TUs left to
+              shoot any aliens who comes out.
+
+        8.3.9 Saving ammo
+
+              XCOM has a peculiar way of counting ammo usage: any clip
+              that was fired (even just one round!) is consider "spent"
+              at the end of the scenario UNLESS unloaded from the
+              weapon.  So, if you just fired one round, unload it when
+              the end of battlescape is near (you DID time the alien
+              movement phase, didn't you?)
+
+              Interestingly, the same thing applies to the aliens as
+              well!  If you panic the aliens and they drop their
+              weapons, you should pick them up and unload them, toss the
+              ammo clip aside.  That way you gain a clip independent of
+              the gun you got (plus clips the alien was carrying).
+
+
+    8.4 Capturing Aliens
+
+        8.4.1 How to I capture an alien?
+
+              You can capture aliens in four ways, so let's discuss
+              advantages and disadvantages.
+
+              Shoot an alien and hope it drops stunned instead of dead:
+              Since smoke inhalation produce stun damage, if alien had
+              inhaled smoke for a while, and you shot it later, it may
+              drop stunned.  This is too much of a guess work though,
+              and is dangerous if alien is armed.
+
+              Use stun rod on the alien:  Dangerous since stun rod is
+              a hand-to-hand weapon, but it's all you have early on.
+              Remember to stand RIGHT NEXT to the target, and DIRECTLY
+              FACING the target, or you cannot stun!
+
+              Use stun bomb and small launcher: safest way to capture an
+              alien, shoot and scoot.
+
+              Keep dumping smoke grenades on an alien. After it inhaled
+              enough smoke, it'll drop stunned: takes too long.
+
+        8.4.2 So what's your recommendation?
+
+              Several ways to make captures safer:
+
+              Double/triple-team on capture: at least two soldiers
+              should carry stun bombs and ready to fire in salvoes in
+              case the alien does not drop after one hit.
+
+              Combine psi combat with capture: Panic it with psi to make
+              it drop its weapon (repeat if necesary), then stun it.  Be
+              careful since alien WILL pull out any other weapon that it
+              has on it.  After it is out of weapons, and if it does not
+              have HTH attack, you can use stun rods on it safely.
+
+              WARNING: release mind control on the alien (wait one
+              full turn), THEN stun it, or otherwise it is NOT captured!
+              (somehow computer counts mind-controlled alien as
+              "friendly" and not "captured") (confirmed by Bill Soo)
+
+              If a stun attempt fails, shoot the alien with a light
+              weapon like a pistol.  The addition damage may cause the
+              health to drop below stun damage, which ALSO counts as
+              "stunned". Just don't kill it (yet).
+
+        8.4.3 Stunning aliens without stun weapons
+
+              Found an alien that you need to capture but have no stun
+              weapons?  You have to use smoke.  Hopefully the alien had
+              panicked and droped its weapons (if not, and you have psi,
+              panic it).  Keep him in an enclosed space (a room?), dump
+              a smoke grenade into the room, and keep something to block
+              the door (rookie, HWP, whatever), and wait for choking
+              sounds.  :-D
+
+              As you can probably tell from the pictures, Power Suit and
+              flying suit are immune to smoke damage (has built-in
+              environmental helmet)
+
+        8.4.4 Other uses for stun weapons
+
+              At a terror site, Chrysalids turning civilians into
+              zombies?  Stun the civilians if you see them near
+              Chrysalids!  Stunned civilians will not be attacked.
+
+              Unfortunately, many have reported that the civilians get
+              MAD when they wake up and you have to kill them, so finish
+              mission fast if you do stun one.
+
+        8.4.5 Do you HAVE an alien containment facility?
+
+              Does the home base of the transport have alien containment
+              facility available?  If not, all aliens you captured will
+              DIE upon end of ground battle.
+
+
+    8.5 Psi Combat
+
+        To gain psionic power, you must capture a Sectoid Leader or
+        Commander, or any Ethereal, and successfully research
+        (interrogate) them.  Then you need to build psi labs and send
+        your soldiers to be assessed and trained.  Then you can use your
+        psi powers in combat with psi amps.
+
+        General observation: aliens do NOT pick up dropped weapons.
+
+
+        Offensive tips:
+
+        Panicked aliens drop their weapons (just as panicked XCOM
+        soldiers) Of course, they will pull out anything else they got
+        left on them as well as use their natural abilities (HTH or Psi
+        attacks) if any.
+
+        Aliens under mind control then stunned does NOT count as
+        captured. One player reported that he saw a commander but had no
+        stun weapon, so he threw a smoke grenade and kept the commander
+        in the smoke (with mind control) until it passed out.  He was
+        NOT captured.  It appears that the computer counts mind-
+        controlled aliens as "friendly", which they sort of are.
+
+        You can access inventory of an alien under your mind control
+        even though the inventory button does not work.  Select one of
+        YOUR soldiers, then use scroll button on top to scroll to the
+        alien.  (Watch out for the 1.5.6 bug/feature!)
+
+        To get more ammo, mind control an alien, and have it throw its
+        weapon toward you or drop everything on the ground.
+
+        Panic has a much better chance of success than mind control.
+
+        Psi strength is more important than psi skill.  PsiStr
+        determines resistance to psi attacks as well as potential with
+        training (actual formula is in the OSG)
+
+
+        Defensive tips:
+
+        The only way to protect yourself against psi attacks is to
+        kill the attackers quickly.  While some soldiers at the
+        beginning may be more resistant to psi attacks (i.e. high psi
+        strength), without psi labs to help you identify them it is a
+        all by chance.
+
+        If a solider was mind-controlled more than once in a battle and
+        s/he survives, sack him/her immediately after.  S/he probably
+        has low bravery and/or low psi strength.
+
+        Get rookies with high bravery ensures they are more resistant to
+        alien panic attacks (though they may not be as resistant to mind
+        control, that has a inherent lower chance of success)
+
+
+    8.6 Battle Notes on weapons
+
+        8.6.1 General Weapon Notes
+
+              Most pistols and rifles holds 20 rounds or more, so ammo
+              is usually not a problem unless you fire a lot on auto or
+              you carry something like autocannon (14) or heavy cannon
+              (6). Usually one extra clip should be enough.  In case of
+              plasma or laser weapons one/none is enough.
+
+              Use HWPs (and rookies?) to "beat the bush" and spot
+              enemies.  THEN shoot them.  Once an alien is visible,
+              everybody can take a shot as long as there's nothing in
+              the way.
+
+              If you can, take a aimmed shot while staying in cover.
+              You want a kill, not spraying shots all over the place.
+              "One shot, one kill" is not a bad motto.  On the other
+              hand...
+
+              If you have the ammo, use auto shot whenever you can.
+              Why?  It ensures a kill.  Let me explain:
+
+              Auto shot fires three rounds, but is the least accurate of
+              the three shots.  On the other hand, when you use the laws
+              of probability, you actually come out ahead using an
+              auto-shot, since each shot is calculated independently.
+
+              For example, let's say chance of hitting in auto shot is
+              25%, and snap shot is 30% (average).  The chance of
+              getting at least one hit out of three is 1-(chance of no
+              hits).  So 25% hit prob AND no hit in three tries is
+
+              0.75 * 0.75 * 0.75 = 0.42
+
+              Chance of getting at least one hit is then
+
+              1 - 0.42 = 0.56, or 56%
+
+              Which is much better than 30% (but no higher than the
+              aimed percentage).  When your accuracy improves, you
+              increase your chances of hitting the target multiple
+              times, which ensures a kill, and you use less TUs than ONE
+              aimmed shot.
+
+              It is not unknown to see three aliens line up in a row,
+              you fired auto, and each shot killed one alien.
+
+        8.6.2 Pistols and Rifles
+
+              Use them only when you have to, sniper style.  Dump them
+              for lasers as fast as possible.  They use clips and
+              doesn't do much damage.  They may be enough to use against
+              Sectoids, who has very little armor, but not against
+              tougher enemies (and Reapers/Cyberdiscs).
+
+        8.6.3 HeavyCannon and AutoCannon
+
+              HeavyCannon is slightly more accurate than the AutoCannon
+              and slightly more damage, but a lot less effective with
+              only six shots and no auto-fire mode. I'd rather use the
+              AutoCannon.
+
+              AutoCannon is probably the most effective weapon in the
+              early game, with auto mode, three types of ammo, and 14
+              shot magazine.  Still, 14 shots is not much in auto-mode,
+              and three magazines can run out on you pretty quick.  It
+              is also VERY HEAVY. (more than twice of heavy plasma)
+
+        8.6.4 Rocket Launcher
+
+              Rocket Launcher packs your biggest punch in the early
+              game, and being an area weapon makes it invaluable in
+              dealing with nasty Reavers and Cyberdiscs.  On the other
+              hand, you can only carry three reloads, and they only fly
+              in straight lines.
+
+              Try to have another team member carry reloads.  When you
+              got to a good firing point, have that guy drop the reloads
+              on the ground, then you stand on top of the reloads.
+
+              Don't give rocket launcher to rookies with low morale.  If
+              they go berzerk, you may lose a lot of people.
+
+        8.6.5 Laser Pistol, Laser Rifle, and Heavy Laser
+
+              Forget the heavy laser.  The 35% more damage that it does
+              is offset by having no auto mode and decreased accuracy.
+              You can probably forget the pistol also, but you need to
+              research it to get laser rifle.  Laser rifle is arguable
+              the best squad weapon in the game, needing no ammo, with
+              decent accuracy and damage. True veterans prefer heavy
+              plasma, of course.
+
+        8.6.6 Grenades and High Explosive
+
+              Get alien grenades when you can, but regular grenades
+              would do. Use them to flatten small buildings and take
+              down walls so aliens have nowhere to hide.
+
+              Proximity grenades should be used to block off doors and
+              stuff so nothing can sneak up behind you.  They appear to
+              have a 2-square blast radius and 1-square sensing radius,
+              so do NOT throw them next to the door!  Throw them one
+              square away from the door so when the alien have to come
+              out before it blows up.  For example:
+
+              (D=Door     P=Proximity Grenade     A=Alien)
+
+              Alien just behind door, does NOT trigger the grenade since
+              not in radius of 1.  Then Alien steps through the door,
+              and BOOM!
+
+                 |                          |
+                AD P                        DAP
+                 |                          |
+
+              [Jim Muchow's variation]
+
+              Throw one in front of medium/large scout's exterior door,
+              one off like above, then hide near the doors in the
+              shadows so you are not visible.
+
+
+              |   X = YOU          Just stand there, keep others out of
+              |                    sight.  After a few turns, alien
+              |                    will come out and take a peek,
+              \----\               wondering where did you go.  And as
+                   |               soon as it steps out the door, BOOM!
+                   |
+                   D P = Prox      Repeat as needed.  They are dumb...
+                   |   Grenade
+
+
+              I haven't found smoke grenades to be that useful.  I've
+              tried it in covering my deployment, but it doesn't seem to
+              work that well.  You can try to use it as a stun weapon
+              alternative, but it's bound to be slow.
+
+              I've yet to use any high-explosive in any of the games I
+              played, but [NET] has reported that they are very useful
+              taking out Cyberdiscs in tight urban settings, due to more
+              blast power, useful before you get alien grenades.
+
+              Sometimes kneeling down will allow you to throw where you
+              cannot before
+
+        8.6.7 Plasma Pistol, Plasma Rifle, and Heavy Plasma
+
+              Plasma weapons are good weapons, and the heavy-plasma is
+              the only heavy weapon in the game with auto mode.  On the
+              other hand, Heavy Plasma is , like its name says, "heavy".
+              Heavy Plasma should only carried by a few select members,
+              due to possible shortages in clips early on and its weight
+              (later you'll find PLENTY of reloads so no problem).
+
+              Heavy Plasma can punch through inner walls of UFOs when
+              auto- fired a couple times, useful for pincer attacks in
+              Supply Ships, when one lift goes straight to third level
+              while another lift goes only to second.  The guys take the
+              high lift can punch through the walls on second level and
+              attack both sides at once. [see 12.x]
+
+        8.6.8 Blaster Launcher
+
+              Blaster launcher is probably one of the greatest weapons
+              in the game.  It is expensive, its ammo is expensive, but
+              it is VERY useful.  You can blow up things in ANY
+              direction, turn around corners, go up and down stairs,
+              flatten entire barns, even punch a hole in UFO's outer
+              hull!  Each solider can carry up to 5 reloads (2 on belt
+              and 3 in backpack).
+
+              [NET] One trick is to leave the soldier and the launcher
+              inside the craft kneeling on top of the ammo on the floor.
+              That way there's more than 5 rounds available.  Or you can
+              have other soldiers carry more ammo, drop them on the
+              ground, then have the launcher guy stand/kneel on top of
+              them.  You can use this trick on rocket launcher too, but
+              it's not as useful.
+
+              [NET] You can also blow open parts of UFO and go in that
+              way instead of through the door.  Many have reported that
+              wrecking the bridge first with a well-placed blaster bomb
+              or two into the upper level will decrease casualties by a
+              large amount.
+
+              [KSC] Use blaster bomb to enlarge a standard door so you
+              can fit a tank through by targeting the wall next to the
+              door.  You can also try this with heavy plasma as those
+              can sometimes punch through walls.  This is great for
+              battleships since the large central lift allows tanks to
+              go up to any level, and they also have 2-space corridors
+              wide enough for tanks.
+
+        8.6.9 Small Launcher
+
+              This is the only weapon that gives you standoff stun
+              capability. Get this when you need to stun aliens and do
+              not rely on stun rods.
+
+              Try to back this up with another stun bomb or a pistol.
+              Stun damage counts against alien's health, and a hit can
+              drop its health low enough so it gets stunned.
+
+
+9.0 The Aliens
+
+    Most information here can be accessed via the UFOpedia.
+
+    9.1 Average Alien Stats (on easiest level!)
+                                                   ------ Armor ------
+          TUs Ene Hea Bra Rea Fir Thr Str PSt PSk Fro Lft Rgt Rer Und
+Sectoid    55  90  30  80  65  30  60  30  40   *   2   1   1   1   1
+Reaper     60  90 145  80  60   0   0  90  35   -  14  14  14  14   2
+Floater    50  90  35  80  50  25  60  40   -   -   4   3   3   2   6
+Cyberdisc  60  90 120 110  65  30   0  90   -   -  17  17  17  17  17
+Snakeman   40  80  45  80  45  30  65  50   -   -  10   9   9   8   6
+Cryssalid 110 140  95 100  70   0   0 110   -   -  17  17  17  17  17
+Zombie     40 110  85 110  40   0   0  85   -   -   4   4   4   4   4
+Ethereal   70 100  60  80  75  40  80  50  50  40  17  17  17  17  16
+Sectopod   60  90  95 110  65  30   0  90   -   -  70  65  65  50  45
+Muton      58  90  90  80  60  30  60  70   -   -  10  10  10  10   5
+Celatid    70  90  70  90  40  50   0  70  60   -  10  10  10  10  10
+Silacoid   40  80 115 100  40   0   0  70   -   -  25  25  25  25   5
+
+TUs = time units        Ene = energy/stamina     Hea = health
+Bra = bravery           Rea = reaction           Fir = firing accuracy
+Thr = throwing accuracy Str = strength           PSt = Psi Strength
+PSk = Psi Skill         Armor = front/left/right/rear/under
+
+* Only Sectoid leaders and commander have Psi Skill, with avg of 55.
+
+NOTE 1: you can get info on particular alien stats by using a mind probe
+        on them.  Leaders and commanders are 10 to 20% higher, and there
+        appears to be random modifiers, depending on rank and position.
+        Stats are also higher on higher difficulty levels
+
+NOTE 2: higher rank aliens also have higher "intelligence", which means
+        they will remember your location longer.  Some alien species are
+        also more intelligent than others.  For example, Ethereals and
+        Sectoids have higher intelligence than Mutons and Reapers.
+
+
+    9.2 Alien attack/defense summary
+
+        Alien        Attack       Defend    Vulnerable
+        -------------------------------------------------
+        Celatid      Acid Spit     none       none
+        Chryssalid   HTH           none     IC, stun    *
+        Cyberdisc    Plasma beam  AP, HE      none
+        Ethereal     Psi,weapons  IC,stun     none
+        Floater      weapons       none       none
+        Muton        weapons        AP        psi
+        Reaper       HTH           none        IC
+        Sectoid      Psi,weapons   none       none
+        Sectopod     Energy beam  PL,HE       laser
+        Silacoid     HTH            IC         HE
+        Snakeman     weapons        IC        none
+        Zombie       HTH     Psi,AP,Las,Pl,HE none      **
+
+        HTH=hand to hand combat    IC =incendiary/fire
+        AP =armor piercing         PL =plasma
+        HE =high explosive         Las=laser
+
+        Alien      : alien name
+        Attack     : attack method
+        Defend     : resistance to type(s) of attack
+        Vulnerable : esp. vulnerable to type(s) of attack
+
+        *  When Chryssalids succeeds in HTH attack, the subject
+           attacked becomes a Zombie
+        ** Zombie in a few turns becomes a Chryssalid.  If killed, the
+           new Chryssalid hatches from the zombie IMMEDIATELY.
+
+    9.3 Alien specialties and information possible from them
+
+        Alien Soldier            ----- mission (harvest, base, etc)
+        Alien Medic              ----- Species information *
+        Alien Navigator          ----- Hyper-Wave Decoder
+        Alien Engineer           ----- UFO stats (of that UFO)
+        Alien Leader             ----- The Martian Solution
+        Ethereal/ Sectoid Leader ----- Psi Lab, which leads to
+         or command                      psi amp and mind shield
+        Alien Commander          ----- Cydonia or Bust **
+
+        *    alien medics can give information on species other than
+             their own
+        **   commander can be found in bases, or UFOs on Base missions
+
+
+    9.4 Alien Missions
+
+        Research       Generally small vehicles, least threat
+        Harvest        Great concern to governments, usually cattle
+                       abduction
+        Abduction      Abducts humans, causes great alarm
+        Infiltration   Infiltrates countries and try to make pact with
+                       government, big threat as countries that sign
+                       pact cease to fund XCOM!
+        Base           Survey and establish alien base, may contain alien
+                       commander, esp. higher levels
+        Terror         Creates terror sites when lands at city, so get
+                       them fast!
+        Retaliation    Scout / attack XCOM base, greatest threat
+        Supply         Supply alien bases.  Trail them and patrol nearby
+                       to find alien base
+
+    9.5 Battle Notes on individual aliens
+
+        Chrysalid, Reaper, Silacoid, and Zombie are hand-to-hand only,
+        which means if you have flying suit, take off and shoot them
+        from the air.  They cannot attack things in mid-air nor through
+        a window.  Reaper, being double-wide, cannot attack through
+        single-wide doors.
+
+        Celatids are VERY dangerous and causes A LOT of damage if you
+        don't have good armor.  Kill them ASAP.
+
+        Kill Chrysalids ASAP at a terror site.  Kill them ASAP, even if
+        it means wiping out the civilians near it.  Use rockets and
+        blaster bombs and grenades on it freely.
+
+        If you are REALLY worried about Chrysalids, have everyone carry
+        a PRIMED grenade around (prime it first).  If your soldier got
+        turned into a zombie, all equipment gets dropped, and the
+        grenade should go BOOM at the end of the turn
+
+        Usually you only find floaters flying (i.e. on higher levels),
+        so if you can fly, you do gain an advantage, esp. if you go on
+        top of buildings and start sniping.
+
+        You cannot stun a Cyberdisc.  Just destroy it.
+
+    9.6 UFO floorplans
+
+        Following floor plans are approximately 1x1.  Approximate
+        only, so no complaints about precision please.
+
+          KEY:
+          D/Dr = Door                 Gr   = Gravlift (Up/Down)
+          Gu   = Gravlift Up          Gd   = Gravlift Down
+          P/Pw = Alien Power Unit     S    = Alien Surgery
+          F    = Alien Food           X    = Alien Examination
+
+
+Small Scout   123     Looks like an Apollo Capsule...
+(Very Small)  /=\     2 level, 1 square each UFO
+             |===|
+
+
+Medium Scout (Small)  123456789
+                      /=======\
+                      |_______|
+
+ /--------\
+|          |
+|          |
+|    Pw    |
+|          |
+|          |
+ \---Dr---/
+
+Large Scout (Medium) 123456789012
+                     /==/====\==\
+                     |__|____|__|
+
+            +--------+
+            |   |    |
+            |   D    |
+          //    |     \\
+        //      |       \\
+  +----/    +---------+   \----+
+  |         |         |        |
+  |         D    P    |        D
+  |         |         |        |
+  +----\    +---------+   /----+
+        \\        |     //
+          \\ --D--|   //
+            |     D  |
+            |     |  |
+            +--------+
+
+Terror Ship (Large)    123456789012345678901234567890
+                              /--------------\
+                       /------|              |------\
+                       |____________________________|
+
+
+Level 0--Menachem M. Pastreich (mpastrei email.ir.miami.edu)
+
+                       ______________
+                    ///              \\\
+                 ///       ______       \\\
++--------+    ///       __|      |__       \\\    +--------+
+|        |    |       __|          |__       |    |        |
+|        |    |     __|      Pw      |__     |    |        |
+|        |____|     |                  |     |____|        |
+|                   |                  |                   |
+|                   |  Pw    Gu    Pw  |                   |
+|         ____      |                  |      ____         |
+|        |    |     |__              __|     |    |        |
+|        |    |       |__    Pw    __|       |    |        |
+|        |    |         |__      __|         |    |        |
++--DrDr--+    \\\         |__Dr__|         ///    +--DrDr--+
+                 \\\                    ///
+                    \\\______________///
+
+Terror Ship Level 2 -- Pastreich
+                       ______________
+                    /// |          | \\\
+                 ///    D          D    \\\
+              ///--|    |          |    |--\\\
+              |    |    |____Dr____|    |    |
+              |    |                    |    |
+              |    |     ____Dr____     |    |
+              |    |    |          |    |    |
+              |    D    |    Gd    |    D    |
+              |____|    |__________|    |____|
+              |                              |
+              |                              |
+              |     E    NNN    NNN    E     |
+              \\\        NNN    NNN        ///
+                 \\\                    ///
+                    \\\______________///
+
+
+Battleship (Very Large)  123456789012345678901234567890
+                         /----------------------------\
+                         |----------------------------|
+                         \-------==----------==-------/
+                         |-------||----------||-------|
+
+Battleship Level 1 -- Pastreich
+
+
+                         /------\
+                        /        \
+                        |   Gu   |
+                        |   Pw   |
+                        |        |
+                        \        /
+                         \------/
+
+
+
+
+  /------\                                      /------\
+ /        \              +------+              /        \
+ |        |              |GuGuGuD              |        |
+ | GuPw   |              |GuGuGuD              |   PwGu |
+ |        |              |GuGuGu|              |        |
+ \        /              +DrDr--+              \        /
+  \------/                                      \------/
+
+
+
+                         /------\
+                        /        \
+                        |        |
+                        |   Pw   |
+                        |   Gu   |
+                        \        /
+                         \------/
+
+Battleship Level 2 -- Menachem M. Pastreich (mpastrei email.ir.miami.edu)
+
+               ./------+----------+------\.
+             ./    |   |          |        \.
+           ./      D   |    Gd    |     _____\.
+         ./        |   |          |    |       \.
+        //-----  --|   +--+    +--+    |        \\
+      ./           |      |    |     __|          \.
+    ./|            +------|    |    |               \.
+  ./  |                   |    |    |                 \.
+ /    |          +--------|    |    D                   \
+ |    +--Dr--+   |        |    |    |                   |
+ |  Gu       |   |        |    |    |____               |
+ |           |   D        |    |         |              |
+ +------+    |   |     +--+    +--       |       +------+
+ |      |    |   |     |          |      |       |      |
+ |      +------Dr------+  GrGrGr  +--Dr----------+      |
+ |  Gd                    GrGrGr                    Gd  |
+ |      +--Dr------Dr--+  GrGrGr  +--------------+      |
+ |      |        |     |          |              |      |
+ +------+        |___  +--+    +--+              +--Dr--+
+ |                   |    |    |                 |      |
+ |                   |    |    |                 |      |
+ |                   |    |    |                 |      |
+ \.                  |    |    |               __|     ./
+   \.                D    |    |              |      ./
+     \.              |    D    |           __      ./
+       \.            |    |    |          |      ./
+        \\    +--Dr----+--+    +--+-------+     //
+          \.  |        |          |           ./
+            \.|        |    Gd    D         ./
+              \.       |          |       ./
+                \------+----------+------/
+
+Battleship Level 3
+
+               ./------------------------\
+             ./    |                   |   \
+           ./      |                   |     \
+         ./        |    +---Dr---+     |       \
+        //         |    |        |     |        \\
+      ./|          |    |        |     |          \
+    ./  |          D    |        |     |            \
+  ./    D          |    |        |     |              \
+ /      |          |    |        |     |                \
+ |      |          |    |        |     |                |
+ |  Gd  +----------+    +--------+     +-----Dr---------|
+ |      |                                               |
+ |______|__________                     ___________     |
+ |     |           |    +---Dr---+     |           |    |
+ |     |           |    | GdGdGd |     |           |    |
+ |     D           |    D GdGdGd D     |           D    |
+ |     |           |    | GdGdGd |     |           |    |
+ |     |___________|    +---Dr---+     |___________|    |
+ |                                                      |
+ |                                                      |
+ |-------+  + -----+    +---------+    +----------------|
+ |                 |    |         |    |                |
+ \.                |    |         |    |               ./
+   \.              |    |         |    |             ./
+     \.            |    |         |    |           ./
+       \.          |    |         |    D         ./
+        \\         |    |         |    |        //
+          \.       |    +----Dr---+    |      ./
+            \.     |                   |    ./
+              \.   |                   |  ./
+                \------------------------/
+
+
+
+Harvester     1234567890123456
+(Medium) (?)  /---|------|---\
+              |---|------|---|
+              |---|------|---|
+              \---|------|---/
+Level 0                             Level 1
+           /----------\                        /----------\
+         /   SS         \                    /  | Empty  |  \
+       /   SSSS       F   \                /    |  Room  |    \
+     /                      \            /      | Up to  |      \
+   / FF               F   F   \        /   Gu   |  this  |   Gu   \
+  +                            +      +___DD___ | level  |___DD____+
+  |      +----------------+    |      |         +---DD---+         |
+  |      |  Pw         Pw |    D      |                      FF    |
+  |      +-------------DD-+----+      |  F   F   +------+__________|
+  +          |      |          +      +  F   F   |      |          +
+    \   F  F |  Gu  |   Gu    /         \    F   D  Gd  D   Gd    /
+      \    F |      |       /             \      |      |       /
+        \    |      |     /                 \    +--DD--+     /
+          \--+--DD--+---/                     \---------+---/
+
+Level 2
+           /-+------+-\
+         /   |      |   \
+       /     +--DD--+     \
+     /       |      |       \
+   /   Gd    D      D    Gd   \
+  +          |      |          +
+  +----------+      +----------+
+  |N                           |
+  |N        NNN    NNN         |
+  +         NNN    NNN         +
+    \                         /
+      \                     /
+        \                 /
+          \             /
+            -----------
+
+Supply Ship (Large)    123456789012345678901234567890
+                       /--------+---+-+---+---------\
+                     /----------|---|-|---|-----------\
+                     \----------|---|-|---|-----------/
+                       \--------+---+-+---+---------/
+
+Level 0
+        /----------\              /----------\
+      //     Gu     \\          //     Gu     \\
+    //                \\      //                \\
+   /     ---------      \+--+/      ---------     \
+  |     |         |                |         |     |
+  |     |          ----------------          |     |
+  |     D    Pw           Pw           Pw    D     |
+  |     |          ----------------          |     |
+  |     |         |                |         |     |
+   \     ---------      /+--+\      ---------     /
+    \\                //      \\                //
+      \\            //          \\            //
+        \----DD----/              \----DD----/
+
+Level 1
+        /----------\              /----------\
+      //   ------   \\          //   ------   \\
+    //     |    |     \\      //     |    |     \\
+  //  F    | Gu |       \+--+/       | Gr |    F  \\
+ /         |    |                    |    |         \
+| F   F    --DD--      ---DD---      ------    F   F |
+|                     | S      |                     |
+| F   F    F    F     |        |     F    F    F   F |
+|                     | S      |                     |
+| F   F    --DD--      ---DD---      --DD--    F   F |
+ \         |    |                    |    |         /
+  \\  F    |    |       /+--+\       |    |    F  //
+    \\     ------     //      \\     ------     //
+      \\            //          \\            //
+        \----------/              \----------/
+
+Level 2
+        /----------\              /----------\
+      //            \\          //   | Gu |   \\
+    //                \\      //     --DD--     \\
+   /   +----------+     \+--+/                    \
+  |    |          |                                |
+  |    |          |------+------+------DD------+---|
+  |    D   NNNN   |      |      |              |   |
+  |    |   NNNN   |      D      |              D   |
+  |    |          |      |      +--+        +--+   |
+   \   +----------+     /+--+\     |        |     /
+    \\                //      \\   +--------+   //
+      \\            //          \\            //
+        \----DD----/              \----DD----/
+
+
+Abductor      1234567890123456
+(Medium) (?)  /---|------|---\
+              |---|------|---|
+              \---|------|---/
+
+  Level 0                              Level 1
+        ^     +----+     ^                  ^     +----+     ^
+      // \\   |    |   // \\              // \\   |    |   // \\
+    //     \\/      \//     \\          //     \ /      \ /     \\
+   /                          \        /        +-+               \
+   \                          /        \          +-DD-+          /
+    \\    ______DD______    //          \\    +---+    +---+    //
+  +--/    |            |    \--+      +--/  +-+N        N  +-+  \--+
+  |       |            |       |      |     | N              |     |
+  |  Pw   |  XX XX XX  |   Pw  |      |     |N              N|     |
+  |       |     XX     |       |      |     |                |     |
+  +--\    |            |    /--+      +--\  +-+            +-+  /--+
+    //    |_____DD_____|    \\          //    +---+    +---+    \\
+   /        |        |        \        /          +----+          \
+   \   Gu   |        |        /        \   Gd                     /
+    \\     / \      / \     //          \\     //\      /\\     //
+      \\ //   |    |   \\ //              \\ //   |    |   \\ //
+        V     +-DD-+     V                  V     +-DD-+     V
+
+
+9.7  UFO speed, range, etc.
+
+                   Max   Hull    Weapon*   Ship   Max**
+             Size Speed Damage Power Range Width  Crew
+Small Scout   VS  2200    50     0    0      3      1
+Medium Scout  S   2400   200    20  120      9      9
+Large Scout   S   2700   250    20  272     12     13
+Harvester     M   4000   500    40  176     16     21 (1L)
+Abductor      M   4300   500    40  160     12     18 (1L)
+Terror Ship   L   4800  1200   120  336     30     14/10 (1L)
+Supply Ship   L   3200  2200    60  288     30     20 (1L)
+Battleship    VL  5000  3000   140  520     30     22/6 (1C/1L)
+
+*  Weapon Range should be divided by 8 for range in KM, see 7.5
+** Maximum crew is absolute maximum reported in one mission.  Number is
+   in format of X/Y (Z) where X is host race (race the UFO belongs to),
+   Y as terrorists and Z as number of leaders (L) or commander (C) in
+   the host race.  Any 4-space creatures counts as 4 aliens for this.
+
+
+10.0 Ground Assaults
+
+     10.1 Packing Advice
+
+          The 80-item limit is always a problem, especially on an
+          Avenger and Lightning when you can carry LOTS of soldiers.
+          While the OSG gave some hints on what to take, here's a couple
+          more hints to see you through the 80-item Crunch:
+
+          * If you are short on ammo clips, use laser weapons, which
+            require no ammo at all.  (Also see below)
+          * Carry only ONE clip for your plasma weapons.  You should
+            be able to find plenty of reloads during battle, esp. for
+            heavy plasma (which seems to be used by all aliens near the
+            end of the game)  With 20-35 rounds in each clip, your
+            should not run out unless you use auto-fire a lot
+          * Carry uniform weapons.  Don't mix pistols and rifles,
+            plasmas and slug-throwers. Instead of a pistol/clip and
+            rifle/clip, bring an extra clip for the rifle.
+          * Bring less misc. equipment such as mind probes, medikits,
+            motion detectors, psi amps, and so on.  You don't need
+            everything on every person (except Medikits)
+          * Bring HWPs if you can.  HWP is one item yet has plenty of
+            firepower. Too bad it takes FOUR soldier's space.  Still,
+            they are quite useful in the early parts of the game
+          * Don't fight at night so that you need to take along all
+            those stupid electro-flares which you end up throwing all
+            over the place (exception: Attack Terror Sites ASAP)
+
+     10.2 The Great Pistol vs Rifle debate
+                          Pro                 Con
+          Rifles     more powerful       use more TUs
+                     more accurate       two-handed weapon
+          Pistols    uses less TUs       less powerful
+                     one handed weapon   less accurate
+
+          As you can see, they are exact complements of each other.
+          Very often, using a pistol is called for, since using a pistol
+          would mean you still have enough TUs to duck into cover.
+
+          Give pistols to heavy weapons people for when they ran out.
+
+
+     10.3 The Great Pistol vs Rifle debate II (by Paul Close)
+
+          Not being ad handy with theoretical statistics as I am with
+          discrete simulation, I wrote a very simple program to simulate
+          100,000 turns where each weapon was used in as many times as
+          possible, up to 80% of the turn.  Since the time to use the
+          weapons is also a percentage of the turn, simple subtraction
+          sufficed.  :-)  In each case where an auto mode was available,
+          it was used instead of snap shot. I felt that 70-80% was a
+          good compromise between some movement, but still inflicting
+          maximum damage.
+
+                             TU   average    +/- 1 std dev
+                        A/S   %  hits  dmg  hits     damage
+
+          Pistol        0/4  72  2.4   62  1.4-3.4   36- 87
+          Rifle         2/0  70  2.1   63  0.9-3.3   28- 98
+          Heavy Cannon  0/2  66  1.2   67  0.5-1.9   28-105
+          Auto Cannon   2/0  80  1.9   80  0.8-3.1   32-128
+
+          Laser Pistol  3/0  75  2.5  115  1.2-3.9   53-177
+          Laser Rifle   2/0  68  2.8  165  1.5-4.0   92-238
+          Heavy Laser   0/2  66  1.0   84  0.3-1.7   24-145
+
+          Plasma Pistol 2/0  60  3.0  155  1.8-4.2   92-219
+          Plasma Rifle  2/0  66  3.3  263  2.1-4.5  166-361
+          Heavy Plasma  2/0  70  3.0  344  1.8-4.2  203-485
+
+          A/S : number of shots taken, Auto/Snap
+          TU% : TU% used for the shots taken
+          +/- 1 std dev : average +/- one standard deviation,
+              roughly covers 66% of the possibilities
+
+          Conventional Weapons :
+
+          Pistol is a tie with rifle.  The pistol can be shot
+          one-handed, but in the early stages of the game, you're not
+          likely to have anything in the other hand :-) The rifle holds
+          more ammo, but is slightly less accurate.  Each has a clip
+          that will last three rounds at this firing rate.  Take your
+          pick.
+
+          Cannons :
+
+          This seems like a no-contest, but the higher damage of the
+          heavy cannon makes it not so simple.  The lower accuracy of
+          the auto cannon in auto mode make it a more erratic weapon.
+          Still, it's more satisfying to shoot off six shots instead of
+          two  :-)  The clip holds 14, which will only last two rounds
+          at this rate compared to three of the heavy cannon (which
+          holds 6 shots)
+
+          With only one shot, the three shots of the auto cannon imporve
+          the odds of at least one hitting to 69% vs 60% for one snap
+          shot of the heavy cannon.
+
+          One final consideration is that the auto cannon takes 80% TU
+          for its two auto shots, compared to 66% for the heavy cannon.
+          With weaklings early in the game, you may need the extra
+          time...
+
+          Lasers:
+
+          As you may expect, the heavy laser sucks due to the lack of an
+          auto fire, and a rather slow snap shot.  The pistol and rifle
+          get about the same number of hits, and the rifle does 30% more
+          damage.  The rifle gets the nod in this case.  Even with a 20%
+          penalty for one-handed use (not shown in table) rifle gets
+          1.0-3.4 hits and 62-204 damage, still better than the pistol.
+          So forget th elaser pistol and the heavy laser.
+
+          Plasma:
+
+          What can you say? The heavy plasma is king!  With pretty much
+          the same accuracy and firing time as the rifle and pistol,
+          over 40%/120% more damage (respectively), and bigger clip,
+          there's no reason not to use the ehavy plasma.  The only down
+          side is the ammo takes 3 elerium to manufacture, but with
+          careful unloading of weapons, you'll get all you need during
+          recoveries and assaults.
+
+
+          [Editor's note: the advantage of heavy plasma is even greater
+          when you realize that it weighs exact the same as a regular
+          rifle.  Perhaps that why even those Sectoid weaklings can tote
+          one around...]
+
+     10.4 Basic Loadout for Transports
+
+          Skyranger : 2 HWPs / 6 soldiers or 1 HWP / 10 soldiers
+
+            The HWPs early on carry more firepower and has more TUs than
+            soldiers, which makes them good scouts, and more survivable.
+            Switch to more/only soldiers later.
+
+          Lightning : as many soldiers as you can fit
+
+            Lightning doesn't take HWPs, too bad.  At least you can
+            deploy from all four sides at once.  Send rookies out
+            first...  (Commander's prerogative)
+
+          Avenger   : 14 soldiers / 3 HWPs or 18 soldiers / 2 HWPs
+
+            As the end of game draws near, your best soldiers should be
+            as fast as HWPs and carries just as much (if not more) fire-
+            power.  HWPs are there to simply scout ahead.  Feel free to
+            add more soldiers if you can distribute 80 items okay.
+
+     10.5 General Combat Notes
+
+          There is no penalty for destroying civilian property, so go
+          ahead and wreck the whole place like "The Dirty Pair" (anime).
+
+          If the only person inside the craft is unconscious and you
+          abort mission, s/he's MIA and the transport is lost as well.
+
+          In the early game, you want rocket launchers and/or autocannon
+          as your heavy weapons, and plenty of greandes (mix of regular
+          and proximity).
+
+          Later in the game, you want almost exclusively heavy plasma
+          (except for the heavy weapons people carrying blaster
+          launchers, who would carry plasma pistols)
+
+     10.6 UFO Recoveries and Assaults
+
+          [Definition: attack on UFO shot down is "recovery", attack on
+           landed UFOs (not downed) is "assault"]
+
+          HWPs CAN enter an UFO with a single-width door if you help
+          make the door wider with a blaster bomb. Just target the panel
+          beside the door for a blaster bomb, and make sure no one is
+          near the impact point.
+
+          HWP is very useful in a Battleship on the third level, where
+          the corridors are wide enough for HWPs except the doors
+          leading from the elevators.  Open one up with a blaster bomb,
+          send another one or two down each end of the corridor, then
+          send up the HWPs to scout, then send in your troops.
+
+          In UFO navigation centers, there's usually some octagonal
+          purple "tables" that EXPLODES when hit.  If you can catch
+          aliens standing next to them, hitting THAT is a lot of fun.
+
+          Blaster bombs and/or high explosives can be used to punch a
+          hole in the outside wall of an UFO, creating an alternate
+          entrance.  This will allow you to surprise the aliens inside
+          since usually they gather by the doors waiting for you.
+
+          Corollary: on a multi-level UFO, attack from TOP down by
+          blasting a hole in the roof or top level, posting guards near
+          the UFO doors or use proximity grenades.
+
+          Post guards outside an UFO when attacking inside.  Any aliens
+          outside will attempt to return, and getting shot from behind
+          is not fun.
+
+          If the UFO Power Units exploded, and UFO's ceiling may be
+          damaged (single-level UFO have top blown open).  In that case,
+          stand on the edge and kneel will allow you to see inside.  In
+          larger UFOs, holes in the ceiling will allow you to see above,
+          but you may have to kneel to get a good look (someone may be
+          hiding up there!)
+
+          One trick you can pull is ALLOW an alien base on Earth once
+          you've pinpointed its location, and keep assaulting the supply
+          ships that comes to keep the base supplied.  They just keep
+          coming and coming, and the UFOs you take out more than offsets
+          the "base on Earth" penalty, not to mention all the Elerium
+          and other goodies you get that you can sell later.  Of course,
+          watch out for the retaliation missions...
+
+          Consider using blaster bombs and flying suits to attack from
+          TOP DOWN instead of bottom up.  Blow a hole in the ceiling,
+          send another bomb inside the hold, go in and spread out, work
+          your way down, pick off aliens coming up one by one.
+
+          When attacking battleships, consider going up one of the
+          engine "legs" instead of through the central elevator.  On
+          assaults, you may need a blaster bomb to punch through.
+
+     10.7 Base assaults
+
+          The trick in base assaults is use a lot of grenades and
+          blaster bombs.  Use grenades to clear corners, proximity
+          grenades to block corridors so no one can come up behind you
+          (esp. Chryssalids!), blaster bombs to open walls so you don't
+          have to go extra distance around things.  Once you find the
+          control center, you have pretty much won the game.
+
+          While base layouts differ, base command center always look
+          like this:  (D=door, WW=window, ground/level 0 only)
+
+          +-----WW--------WW-----+
+          |   +--------------+   |
+          | +-+              +-+ |
+          | |                  | |
+          D |                  D |
+          D |                  D |
+          D |                  D |
+          | |                  | |
+          | +-+              +-+ |
+          |   +--------------+   |
+          +-----WW--------WW-----+
+           ^
+
+          Instead of going through the doors, go through one of the SIDE
+          walls (^) with a blaster bomb, send a couple grenades through
+          the hole for the guards inside the door (or another blaster
+          bomb). Charge in, leaving proximity grenades behind to cover
+          your back, go in the inside door, and you'll find a huge
+          grav-lift taking you to the second level of command center.
+          The base commander (and his deputy leader) should be there.
+
+     10.8 Anti-Terror Missions
+
+          Your top priority is self-preservation.  Killing 9 out of your
+          10 soldiers to save a city is NOT worth it.  If given a choice
+          to save your soldier or to save a civilian, save the soldier.
+
+          Consider stunning the civilians.  Stunning the civilians makes
+          them "unpalatable" to the alien terrorists, and they count as
+          saved at the end of the mission.  (WARNING: when they wake up,
+          they count as ENEMY and you must kill them!)
+
+          Do NOT mind control any of the civilians.  They count as ENEMY
+          after you release control and you must kill them!
+
+          Kill Chryssalids ASAP.  If necesary, kill the civilian near it
+          so that the civilian will not be turned into a zombie that
+          will attack you.  Have two persons watch each other.
+
+          If necesary, carry a primed greande one each person.  If the
+          person becomes a zombie, all equipment are dropped, INCLUDING
+          THE LIVE GRENADE.  (boom!)
+
+          Aliens that use HTH (hand-to-hand) combat only such as Reavers
+          and Chrysallids cannot attack someone in mid-air (by a flying
+          suit or hovertank). They also cannot attack someone through a
+          Window. Reavers cannot attack through a one-space-wide door
+          (they are two-wide).
+
+          Feel free to blow up gasoline pumps, esp. with aliens next to
+          one.  They make great secondary explosions.
+
+     10.9 XCOM Base Defense
+
+          You DID plan your base as mentioned in Chapter 4, didn't you?
+
+          First priority is blockade the lift.  Dump prox grenades near
+          the doors (close enough so that there are no spaces in between
+          to walk through) and wait back for aliens to emerge.
+
+          Second priority is clean out the hangars.  Fusion Bomb
+          Launcher Hovertanks and/or blaster launchers are great for
+          this, but a rocket launcher will do if you hit explosive stuff
+          like fuel drums and so on.
+
+          Third priority is reclaim your base module by module.  Use
+          prox grenades to guard your back.
+
+          Proximity grenades are priceless here, great for blocking
+          corridors, limiting movement into kill zones, etc.
+
+
+11.0 Mastering Cydonia-- The Final Assault
+
+     For those of you who watch shows like ENCOUNTERS or SIGHTINGS,
+     there IS a Cydonia on Mars, and there are "pyramids" and a face
+     there...  And there's a big rumor of a NASA cover-up and recent
+     Mars probe going there ALL malfunctioned...  Hmmm...
+
+     11.1 Preparation
+
+          Don't bring any psi-weaklings.  You'll be meeting a lot of
+          Sectoids and Ethreals, who will be mind-blasting you a lot.
+
+          Bring your best weapons and all of your blaster launchers and
+          blaster bombs, plus rockets and all the grenades you got.
+          This is not time for captures, so leave all stun stuff at
+          home.  This is a fight to the death, preferably theirs.
+
+          Bring a pair of electro-flares each for the Mars surface
+          battle. It'll be dark there, so toss a few of those around.
+          The doors at each face of the pyramids are especially
+          important as Sectoids may come out and play.  You also want to
+          spot Cyberdiscs as far away as possible.
+
+     11.2 Pyramids of Mars
+
+          Lots of Sectoids and Cyberdiscs around in this one. Soldiers
+          with flying suits are nice for recon, just don't leave them in
+          the air for Sectoid target practice, use pyramids for cover.
+
+          Move slowly, toss electroflares at base of each pyramid, esp
+          near exits so you can see if a Sectoid comes out.  Use
+          grenades and/or blaster bombs on the cyberdiscs.
+
+     11.3 Base Interior
+
+          You do NOT want to clean out the whole base.  Find the
+          distinctive command center (see below, NOT to scale), run for
+          it (sacrificing HWPs and rookies in the process), let blaster
+          bombs and rockets fly, protect your back with prox grenades.
+
+               [not in scale!]
+               +----------------------+
+               |                      |
+               |                   _  |
+               |                  | | |
+               |__________________|L| |
+               D__________________  | |
+               |                  |L| |
+               |                  |_| |
+               |                      |
+               |                      |
+               +----------------------+
+
+          Once you found it, send a blaster bomb to hit the end, then
+          one more up through the grav lift (either side) to get rid of
+          the Ethereal Commanders (the elite guards), then ONE MORE on
+          the top, and it's all over.
+
+12.0 Misc Questions and their answers
+
+     Equipment
+
+     * Why do I lose ammo that was fired only a few times?
+
+       After combat all clips that had been USED in the battle and left
+       in their rifles/pistosl/cannons are lost, no matter only 1 round
+       fired or totally empty.  UNUSED clips are NOT affected (even if
+       they are loaded), as are clips separate from weapons.
+
+       HINT: You should unload any weapons that had fired and use
+       valuable ammo before the battle ends.
+
+       HINT: You can tell when the battle is almost over by judging how
+       long the alien movement phase takes.
+
+       HINT: You can get MORE clips if you unload captured alien weapons
+       that you come across
+
+     * How do I reload weapons?  How do I unload ammo from weapons?
+
+       See section 2, Chapter 3.1 of XCOM Manual.
+
+     * Why should I need grenades when I have autocannon?
+
+       Autocannon weighs A LOT.  For the same weight you can carry a
+       lighter weapon plus a couple grenades, and move faster and
+       further as a result.
+
+     * How do I wake up unconscious soldiers?
+
+       See UFOpedia on Medikit.
+
+       HINT: Heal any fatal wounds first before attempt to revive.
+
+       HINT: After applying shot of stimulant, exit medikit screen and
+       check your inventory.  If "body" is still on ground, apply another
+       shot of stimulant until the "body" is no longer on ground. S/he
+       should appear in an adjacent square at beginning of next turn.
+
+     * How do I use Medi-Kit?
+
+       See UFOpedia on Medikit.
+
+     * How do I use motion scanner?
+
+       See UFOpedia on Motion Scanner
+
+       HINT: They are useful to detect that one last alien you can't
+       find, esp. at night when visibility is less, or city blocks (but
+       there you have civilians)
+
+       HINT: They are somewhat useful for looking behind closed doors
+       that you would like to enter.
+
+     * How do I use Mind Probe?
+
+       See UFOpedia on Mind Probe
+
+       NOTE: ANY one can use a mind probe, no psi power is required.
+
+     * How do I use the Blaster Launcher/Bomb or Fusion Hovertank?
+
+       When you select Launch Missile, you can specify a series of up to 9
+       "waypoints" which can go around any thing, climb and dive, even fly
+       in circles.  The final waypoint is the explosion point, UNLESS it
+       runs into something solid first.
+
+       NOTE: There MUST be something solid at the last waypoint or the
+       "missile" will NOT explode!
+
+       HINT: You can UNset a waypoint by right-clicking
+
+
+     Movement
+
+     * Some of my soldiers have TU's used before I moved them.  Why?
+
+       Each soldier has a physical weight limit to the amount of "stuff"
+       he or she can carry, usually known as "emcumberance".  If you
+       carry less than or equal to the emcumberance, no penalty is
+       assessed.  For each weight unit over the limit, you get a TU
+       penalty.  Carry too much and you can't move at all!
+
+       OSG has the complete weight chart for all items (Table 8-4).
+       Interesting observation: heavy plasma weighs the same as a
+       regular rifle.
+
+     * How can I fire on aliens in their movement phase?
+
+       This is called "opportunity fire".
+
+       Leave enough TU's after your move for at least a snap shot, then
+       if your trooper saw an alien and has good enough reactions s/he
+       will fire at the alien.
+
+       HINT: Use the 4 icons near the bottom left of screen to reserve
+       the TUs. Reactions usually need to be above 50.
+
+     * How do I open doors?
+
+       Target your soldier to move to the "square" behind the door and
+       s/he will then automatically open it (using some TUs) and move
+       to the square you specified.
+
+       HINT: Do not open doors without plenty of spare TU's or expect to
+       DIE.  Using a motion scanner will help to see if any aliens moved
+       beyond the door.
+
+       HINT: When you are not sure, create another door!  Either shoot a
+       hole in the wall or blow up the entire wall with grenades, HE,
+       HPlas, or BBomb.
+
+
+     Psionic Combat
+
+     * How do I get psi power?
+
+       See Section 8.5
+
+     * What is psi strength and psi skill?
+
+       Psi strength is a person's physical talent for psi (esper
+       sensivity) and cannot be improved.  It is also a measure of
+       resistance against enemy psi attacks.
+
+       Psi skill is a person's skill at USING the psi strength.  It can
+       be improved with usage and training at a psi lab.
+
+     * Help! My soldiers kept getting mind-blasted!
+
+       Fight harder, make more kills.  Low morale invites more psi
+       attacks.
+
+       If you survive the fight, sack the ones who's not very good and
+       kept getting panicked or controlled.
+
+
+     Soliders
+
+     * What's with troops missing in action (MIA)?
+
+       If one of your troopers in under alien control at the end of a
+       battle s/he counts as MIA; therefore try to wait until s/he is no
+       longer in control before finishing off aliens.
+
+       If you abort a mission, any soldiers you leave behind is MIA.  On
+       missions with a transport, any one not on the transport is "left
+       behind".  On an alien base assault, any one not in the green
+       rooms (on the gravlift does NOT count) is "left behind".
+
+       Yet another way to get people MIA is to try (abort mission) with
+       only an unconscious soldier in the transport.  You'll lose that
+       person as MIA as well as the transport
+
+       HINT: use MediKit to wake them up (stimulant) then march them in if
+       that happens to you.
+
+     * How do my soldiers improve?
+
+       By doing things.  They improve firing accuracy by shooting at
+       things, strength by carrying more things, and so on.  Those
+       getting kills will improve more than those who did not.
+       Therefore, try not to let HWP get a kill since you will lose a
+       chance to let a soldier improve, and leave the easy shots
+       (against panicked aliens, for example) to the rookies.  Psi skill
+       also improves with use.
+
+     * How do I get more officers?
+
+       See Section 8.1.5
+
+
+     Miscellaneous
+
+     * How do I cheat?
+
+       If you REALLY want to cheat, here's how to add TONS to money into
+       your accout.  Yes, you are embezzling the world to support XCOM.
+       You are twisting arms, and it is for a GOOD cause.  :-D
+
+       Use a sector editor (such as Norton DiskEdit) and edit LIGLOB.DAT
+       in your saved game's directory. Overwrite the first 8 bytes with
+
+       64 64 64 64 00 00 00 00...
+
+       You should get about 1.68 billion dollars. (In case you are
+       wondering, 64646464h is a hexadecimal number.  In decimal it is
+       1,684,300,900.)  You can also use
+
+       FF FF FF 7F 00 00 00 00...
+
+       Which will give you about 2.1 billion dollars. (7FFFFFFFh =
+       2,147,484,647)
+
+
+     * How do I bypass Document Check Copy Protection?
+
+       Sorry, you won't find the info in there.  Yes, I do know how, and
+       no, I will NOT tell you.  In fact, I don't use it myself. So
+       don't ask me.  This is a STRATEGY guide, not a game crack guide.
+
+
+
+
+
+

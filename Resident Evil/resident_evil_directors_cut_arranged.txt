@@ -1,0 +1,551 @@
+
+
+                    Resident Evil: Director's Cut
+          Resident Evil: Director's Cut Dual Shock Edition
+                     Arranged Game Errata Sheet
+                  Capcom for the Sony PlayStation
+              Compiled by Mark Kim (Vesther Fauransy)
+                           Version 0.0.2
+               Date of Completion: November 18, 1999
+              Date of Public Release: November 18, 1999
+
+Copyright Information
+---------------------
+Unpublished work trademarked and copyrighted 1999 by Mark Kim.  All
+Rights Reserved.
+
+ This file cannot be reproduced and/or retransmitted in any way,
+ shape, or form (including but not limited to physical, natural, or
+ electronical). This file can only be HTMLized by the sole owner of
+ the file (Mark Kim), and this author will not grant permisson to
+ anyone who wishes to use this file for HTML, ASP, CGI, Perl, C++,
+ VBScript, or any other webmastering forms that exist.  In addition,
+ this file cannot be used at a password-protected site where either
+ user accounts are utilized and/or money is made through the user
+ accounts. Furthermore, this file was intended for Personal Use only
+ with no strings attached, and cannot show up IN ANY SITE with the
+ exception of the following sites:
+
+  * Verasnaship Interactive (http://www.verasnaship.net)
+  * GameFAQs (http://www.gamefaqs.com)
+  * Secrets of the Game Sages (http://www.gamesages.com)
+  * Cheat Code Central (http://www.cheatcc.com)
+  * Game Shark Code Creators Club (http://www.cmgsccc.com)
+
+ In addition, THIS FILE IS NOT TO BE USED for any profitable (even
+ if you fail to make any money out of it), promotiona, and/or
+ commercial transactional purposes (including but not limited to giving
+ this file as some sort of bonus, gift, or otherwise which constitutes
+ making money out of this file) whether the content is good or bad. No
+ permission will ever be granted to any publisher, editor, employee,
+ and/or associate of any publishing/editing corporation, group, and/or
+ business nor it can be used by any gaming guides, game sites, magazines,
+ guides, books, or any other profitable and/or promotional media that
+ exists in any way, shape, form (including reprinting, republishing,
+ OCR-ing, etc.), and the like. Punishment for any use of this site and/or
+ FAQ Text File includes but not limited to civil and criminal penalties
+ of either a $500,000 fine, a 10-year jail sentence, or both.
+
+ Currently, this document is being maintained and is the sole property
+ of Mark Kim, and both this site and the FAQ Text File are protected by
+ ALL APPLICABLE copyright and trademark laws, patent laws, and
+ international treaties. YOU MUST TREAT THIS DOCUMENT LIKE YOU WOULD
+ WITH ANY OTHER COPYRIGHT MATERIAL SUCH AS ADOBE INDESIGN BY ADOBE
+ SYSTEMS, INC.  Remember any breach of copyright, trademark, and/or
+ patents (which includes but not limited to plagiarism, stealing, laming,
+ pirating, or otherwise) and failure to adhere to ALL PARTS of this
+ disclaimer may violate all applicable laws resulting in severe civil
+ and criminal penalties, which is punishable through prosecution under
+ the maximum possible under the law.
+
+ Mark Kim acknowledges and respects all copyrights, patents (pending
+ or not), and trademarks whether if it's mentioned or not somewhere
+ in either the FAQ Text File and/or site as no copyright infringement
+ was intended. If for any reason I MUST USE any copyrighted resource,
+ then credit will be given at the Acknowledgements Section for the
+ common part.
+
+ Proper credit must be given if for any reason you must use any or
+ all of the information contained within on this document.
+
+ If for any reason you do not agree and/or adhere to all of this legal
+ disclaimer, then you should not use the Text Document.
+
+  Resident Evil, Resident Evil 2, Biohazard, Biohazard 2, Chris Redfield,
+  Claire Redfield, Jill Valentine, Barry Burton, Albert Wesker, Rebecca
+  Chambers, Leon S. Kennedy, and any Resident Evil/Biohazard-associated
+  characters (whether living or dead) and any material/event associated
+  and/or related to Resident Evil/Biohazard are registered trademarks and
+  copyrights of Capcom Co. LTD. and Capcom USA, Inc.  All Rights Reserved.
+  Vestiroth, Vesther Fauransy, Verasnaship Interactive, Kingdom of
+  Verasnaship, Verasnaship, and Verasnaship.NET are registered trademarks
+  and copyrights of Mark Kim.  All Rights Reserved.  This document was
+  carefully authored by Mark Kim in respect to all Capcom Properties, as
+  no infringement was intended.
+
+I'll make this simple: THIS FILE IS MINE AND THERE IS NO UNAUTHORIZED
+USE OF IT!!!  NO PAID PUBLISHERS (ESPECIALLY EGM AND ANYBODY OF THE
+ZIFF-DAVIS FIRM) SHALL USE THIS FILE IN ORDER TO GENERATE INCOME OUT OF
+THIS WORK!!!!  THIS FAQ HAS TO REMAIN FREE OF CHARGE AT ALL COSTS!!!!
+I didn't create this file so that some hack-writer can just slack-off
+and get paid for it!!!
+
+========================================================================
+HISTORY OF THIS FAQ
+
+July 30, 1999
+-------------
+Since the majority of us have the Director's Cut release of Resident
+Evil instead of the original release (Note that Capcom has stopped
+shipping the first release back in 1997), it becomes obvious that the
+Director's Cut features an Arranged Game, which features change of item
+locations, required tasks, and original speeches that are mainly Chris
+Redfield's Domain.
+
+November 18, 1999
+-----------------
+Much of the updates are legal mumbo-jumbo-related.  Now let me rant
+about this:
+
+Most of your Resident Evil-questions that you try to e-mail me should
+be stored somewhere at http://www.verasnaship.net/text/biohazard.html.
+There should be some PDF's and some Resident Evil-related text files
+that should be worth looking at.  Before you EVEN e-mail me once again,
+look it up at the aforementioned URL first.  If there is no such question
+that is answered in that page, then go ahead and make my day.
+
+========================================================================
+CONTENTS OF THIS FAQ
+
+* Newsflash
+* Reason for an Advanced Game Errata
+* What you need to know for the Errata
+* Errata for Chris's Game
+* Errata for Jill's Game
+* Do's and Dont's
+* How to suggest fixes, bug busts, et. al.
+* Linking to GameFAQs.com and Verasnaship.net
+* Acknowledgements
+
+========================================================================
+NEWSFLASH
+
+As always, newest versions of this file can be found at my own website
+located at http://www.verasnaship.net.  If you have any fixes, suggestions,
+or other tralala you want to throw out, then please use my web-based
+mailform at http://www.verasnaship.net/emailme.html.
+
+The desired text to view this document is a Monotype Font like Courier
+New.  If for any reason this document isn't aligned correctly, please
+do the following:
+
+* On Netscape Communicator 4.5, go to Edit->Preferences
+* Go to Appearance->Fonts
+* For the Fixed Width Font, select Courier New and select a Size of 10.
+* Now check these sampled type to see if your document has been aligned
+  correctly or not:
+
+1234567890
+**********
+
+I highly recommend that you view this document through either Edit.COM,
+SimpleText, or any other Text-based Editor that you have depending on
+the operating system that you are running this file under.  If you wish
+to view this application under Windows 95, 98, 2000, or NT, then it is
+highly recommended that you view this document under WordPad.  Just make
+sure that in Windows that if you want to view this document under WordPad,
+make sure that the font is set to COURIER NEW and the font size is set
+to 10.
+
+Universally, Edit.COM (for Windows and DOS), and SimpleText (for Mac
+Users) are the ideal tools to view this file.
+
+========================================================================
+REASON FOR AN ADVANCED GAME ERRATA
+
+Many people might have purchased a copy of Resident Evil: Director's Cut/
+Resident Evil: Director's Cut Dual Shock Edition just because they were
+not fast enough to purchase the original release of Resident Evil which
+stopped shipping sometime in 1997.
+
+The primary reason why I'm writing this file is because there are some
+change of item locations that exist in the Arranged Game.  However, not
+too many people play the Arranged Game mainly because of the high
+difficulty of the Arranged Mode.
+
+This guide mainly covers the item changes from the original release of
+the game.  Mainly, the Director's Cut features speech changes on Chris's
+game where he meets up with Rebecca at Richard's Corridor as opposed
+to the Serum Room on the Original Release.
+
+========================================================================
+WHAT YOU NEED TO KNOW FOR THIS FILE
+
+Like I said, this file will cover ONLY the change of Item Locations and
+the required areas to grab the required items for the Arranged Game for
+the Director's Cut CDs that have been lurking around stores and households
+since Capcom has decided to stop shipping the first release back in 1997.
+
+I will not bother creating a speed guide/walkthrough that will assist you
+in beating the Arranged Game in under 3 hours (maybe less if you are in
+task) because I don't want to spoil the fun of having to find the best
+order of tasks by yourself.  Hopefully, if you have read the walkthroughs
+written by Vincent Merken, Tu Dang, Mark Stephenson, and Josh Harring,
+then you should be able to get a good idea on how to stay in gear as far
+as tasks are concerned.
+
+Since you don't get the Special Key if you beat the game with the BEST
+possible ending, captured Chris or Jill won't be that much of a big deal
+(but for Jill, I would say rescue Chris since her game is rather wimpy).
+
+========================================================================
+ERRATA COVERING CHRIS'S GAME
+
+Armor Key
+---------
+The Armor Key is located where Forest Speyer is at.  This is your first
+priority when right after you find that Albert Wesker and Jill Valentine
+has disappeared from the hall all of a sudden.  Be careful as Forest
+Speyer will transform into a Zombie this time around.
+
+To kill Forest, fire as much as you can.  Once you knock out Forest,
+run up and grab the Armor Key.  However, if Forest wakes up, kill him.
+I don't know if killing poor Forest is a good idea or not but you need
+to be very careful right over here if you want to retain good health.
+
+Emblem
+------
+The Emblem is at the location where you used to find the Star Crest at.
+It's at the double blue doorcase that has the Knight Statuettes, the
+Knight Statues, and the Sarin Vents.
+
+Follow the same principle as you would with the Star Crest in the
+original game.
+
+Lighter
+-------
+The Lighter is at the same place you found it on the original game, but
+this time around, it's required.
+
+Quite possibly the only time you will ever need the lighter is at the
+dinner table (near the attic) where you have to light up the corridor
+behind the movable closet to get the Sword Key.
+
+Moon Crest
+----------
+The Moon Crest is now split up into two halves.  The first half is at
+the door left of the Deer Carving (Drain the Fish Canister and then
+move the objects forward to reveal a mini-door).  The second half is
+at the Attic when you fight the Snake.
+
+Broken Shotgun
+--------------
+It's at the place where you used to get the Chemical in the original
+game.  Always come to the Music Room with the Broken Shotgun.  This
+way you won't suffer from the wrath of the Falling Ceiling where you
+will die at.
+
+Rebecca Chambers
+----------------
+You will find Rebecca Chambers once you get inside Richard Aiken's
+Corridor.  You will have to get the serum and save Richard from the
+poisons before it's too late.  If you save Richard from the poisons,
+then you will get the radio and you will play the Rebecca mini-quests.
+
+Sword Key
+---------
+>From Richard Aiken's corridor, proceed forward.  At the intersection,
+take a left and take the dead-end door.  Light up the candle with the
+Zippo (tm) Lighter and then move the cabinet to reveal a secret door.
+Walk inside the secret door and at the dead-end, you will be able to
+get the Sword Key.
+
+Colt Python (Magnum)
+--------------------
+It's at the location you used to find the Broken Shotgun at the original
+game.  Much of the reason you get it earlier is because the enemies are
+stronger than ever.
+
+The Closet
+----------
+No Special Key is required this time around.  Just get inside a closet
+and change your clothes if you want to.
+
+If you want to change your clothes, then I highly recommend the "Made
+In Heaven" outfit.  It looks cool and it brings an echo from Claire's
+normal outfit from Resident Evil 2.
+
+Chemical
+--------
+This item has moved.  From the twisting corridor, at the first door from
+your right (I'm assuming that you were able to exit out of the Dog
+Corridor), open the door with the Armor Key and take the door.  Keep on
+going forward and the Chemical should be at the range.
+
+Sun Crest
+---------
+It's now held right at the statue that you can break from pushing the
+statue from the second floor dining room and dragging it away from the
+second floor.
+
+Star Crest
+----------
+It's at where you used to get the Armor Key at in the original game.
+Do the same thing as you would with the Armor Key in the Original
+Game.  The Plant doesn't like to eat the Chemicals so feed the plant
+with it before proceeding or you might take some damage.
+
+Blue Jewel
+----------
+Once Rebecca's finished practicing the Moonlight Sonata, the door to
+the Gold Emblem will open.  Take the Gold Emblem and put the Emblem
+to re-open the door.  Now go to the Chimney and put the Gold Emblem
+in.  The Grandfather Clock will stop ticking and give you access to
+the Blue Jewel.
+
+Shield Key
+----------
+Where you used to find the Star/Sun Crest in the original game right
+after you give the Tiger "blue eyes".
+
+Red Book
+--------
+It's now located at the Bar at the Guardhouse.  It's at one of the tables
+but be careful of the spiders that lurk around.
+
+Dorm Key 3
+----------
+It's at the bathroom sink at Dormitory Room 2.
+
+Control Room Key
+----------------
+After destroying Plant, the Chimney will be clear to see and you should
+be able to grab the Control Room Key.  Now go to the Control Room and
+drain all the basement water away!
+
+Helmet Key
+----------
+It's now at the "neighbor room" of the Control Room.  Pick up the Shotgun
+Shells and then the Helmet Key.  Now it's time to unlock the locked doors.
+
+MO Disc 1
+---------
+It's where you used to find the Doom Book 1 in the original game.
+
+Doom Book 1
+-----------
+It's now at the Library.  Make sure that the Statue is at the correct
+place so that the shelf will give you access to Doom Book 1.
+
+Battery for the Courtyard
+-------------------------
+At Library Room Number 1, there is a shelf blocking access to a secret
+door.  Clear the blockage and then get in the secret room.  The battery
+should be at the window where you see the Heliport.
+
+The Red Jewel Award
+-------------------
+If you give the Tiger Red Eyes, then you will be given a hefty load of
+Colt Python Bullets instead.  This is good because the enemies are tougher
+than in the original game.
+
+Hexagonial Crank
+----------------
+Right after Enrico Marini is shot to death, examine him and you should
+be able to access the Hex Crank.
+
+Doom Book 2
+-----------
+It's where you used to find the Second MO Disc in the original game.
+
+Lab Key
+-------
+At the location you used to find the Doom Book 2 in the original game.
+
+Slides
+------
+Where you used to find MO Disc 3 in the Original Game.
+
+MO Disc 2
+---------
+It's at the same room where you access the electronically locked rooms
+in the original game, but it's at one of the shelves.
+
+MO Disc 3
+---------
+At the same place you used to find the Lab Key in the original game.
+
+Battery for the Heliport Elevator
+---------------------------------
+It's somewhere at the same room you provide the power to the elevator
+to the Tyrant Research Area.  Be sure to look carefully and watch out
+for the Lab Monsters that infest the Main Power Area.
+
+And now here are some of the speech changes (Assuming that you *did*
+see Rebecca at Richard's Corridor):
+
+* At Richard's Corridor, Rebecca tells Chris to identify himself.  He
+  tells Beckie and Richard that he's here to rescue them.  Richard tells
+  Chris to get the Serum.  However, since Richard won't make it, Beckie
+  tells Chris that she would like to grieve a little bit longer.  However,
+  Chris tells Beckie to move away since it's dangerous and is just hoping
+  that she would know how to use a gun.
+
+* Right after Chris attempts to play the Piano, Rebecca told Chris that
+  she wishes to grieve no longer and decides to help.
+
+* After Chris destroys Plant and retrieves the Control Room Key, Rebecca
+  won't issue Chris a Radio since Richard already gave Chris his radio
+  earlier on the game.
+
+Basically what the Director's Cut offer is some speeches and locations
+of the items that didn't make the final cut for the original release of
+the game.
+
+========================================================================
+ERRATA COVERING JILL'S GAME
+
+Being a Chris Redfield freak, I would say it's kind of unnecessary to
+cover the errata for Jill's Game.  The item locations are the same as
+with Chris's.  However, there are several things that you have to be
+aware of:
+
+* The Lighter is not required because Jill will be using a lockpick to
+  open doors which required the Sword Key in Chris's game.
+
+* The speeches remain the same from the original game.  Also, since the
+  enemies are tougher, it would be a good idea to keep a spare healing
+  item or two, and definitely save the First Aid Sprays against the
+  Boss Enemies.
+
+* Jill may need the Colt Python in order to survive.  Although the
+  Bazooka Ammo and the Shotgun does Jill justice, you may need some more
+  ammunition just in case something bad happens.  Advanced players may
+  wish to pass up the Colt Python, but life's easier with the Python.
+
+Since Chris's Arranged Game is insanely hard, it is strongly advisable
+that you either use a Game Shark (I know it sucks) or take some time to
+master Jill's Arranged Game first.  I hate Jill's game.  It's too
+wimpy (I agree with Josh Harring on this).
+
+========================================================================
+THE DO'S AND DONT'S
+
+The latest version of this FAQ can always be found first at my own
+website (http://www.verasnaship.net), where my homepage is located at.
+The library where I keep much of my FAQs are located at the Text Library
+at http://www.verasnaship.net/text/.
+
+I just don't like it when people have the outdated versions of my FAQs.
+In order to put an end to all of this, from now on (as of today and lasting
+forever), this file can ONLY BE stocked on the following websites:
+
+* Verasnaship Interactive, http://www.verasnaship.net
+* GameFAQs, http://www.gamefaqs.com
+* Secrets of the Game Sages, http://www.gamesages.com
+* Cheat Code Central, http://www.cheatcc.com
+* Game Shark Code Creators Club, http://www.cmgsccc.com
+
+You can always get the latest version at Verasnaship first since I run
+the website for myself.  GameFAQs does a good job keeping the files
+up-to-date at all times and is the most visited site for FAQ-related
+walkthroughs.  Secrets of the Game Sages is a "Code-related" partner
+to GameFAQs since both GameFAQs and Secrets of the Game Sages share the
+same information.  Cheat Code Central not only has codes, but up-to-date
+FAQs and Text-based Walkthroughs based upon marshmallow's knowledge.
+Finally, Game Shark Code Creators Club is a Game Shark site run under
+the Code Master to provide up-to-date Game Shark Codes and is a highly
+visited Game Shark Site.
+
+DONT'S: Never, ever, ever place this file directly onto your Internet
+Account as I'm now getting sick and tired of people trying to store the
+outdated version of my files.  I want this file to look fresh all the
+time from now on, OK?
+
+DO'S: You are permitted to create a link to any of these websites.
+Linking to GameFAQs is goverened by the Legal Disclaimer as foretold
+under the statement, "Linking Rights".  I highly recommend that you make
+a link to my website so that people will always have the latest version
+of this work viewed right through their screen.  The only permissible
+link that you can use to link to this file is as outlined as in the
+following:
+
+* http://www.verasnaship.net/text/arcade.html (The Arcade Stable)
+
+Part of the reason why I'm doing this is because if you don't view an
+HTML Site, then you may not be able to run the ads that appear on top
+of the HTML Document, which IS NO FAIR TO THE WEBMASTER.  For details
+about linking rules, visit http://www.templetons.com/brad/linkright.html
+which is Brad Templeton's Linking Rights Essay.
+
+========================================================================
+HOW TO SUGGEST FIXES, BUG BUSTS, ET. AL.
+
+One time when I was forced to update another FAQ for Super GT by Sega,
+I was surprised to see that I was driving from Helen Keller.  That is
+why you MUST follow the protocol as described in the Newsflash section
+of this document.
+
+========================================================================
+RESOURCES
+
+* Mark Stephenson
+* Tu Dang
+* Josh Harring
+* Vincent Merken
+
+========================================================================
+ACKNOWLEDGEMENTS
+
+-  Capcom for originating the Survival Horror Concept back in 1996.
+   LOOK FOR THE SECOND GAME IN CAPCOM'S SURVIVAL HORROR FORMULA, DINO
+   CRISIS SOMETIME IN THE THIRD QUARTER OF 1999!!!
+
+-  Jim Irwin for telling me that the Infinite Ammo Weapons lowers your
+   rank score, and the Flamethrower in Leon's Disc isn't necessary to
+   complete the game.
+
+-  Brandon W. Dennis for telling me that the First Aid Sprays,
+   Limited-Ammo Submachine Gun lowers your rank score and to save the
+   inventory slots to store your herbs.
+
+-  Both Jim Irwin and Brandon W. Dennis for motivating me to become a
+   speed-minded Resident Evil 2 player with their FAQs.  Please read
+   their FAQs at the GameFAQs.com site at either of these addresses:
+
+*  http://www.gamefaqs.com (Use the search engine to locate them, but
+   PLEASE REMEMBER IF YOU WANT TO LINK TO GAMEFAQS.COM, YOU ARE
+   ONLY PERMITTED TO LINK TO AN HTML OR ASP PAGE!!!)
+
+-  Capcom for starting the Survival Horror Craze with Resident Evil
+   (known as Biohazard in Japan).
+
+-  Vincent Merken, Josh Harring, Tu Dang, and Mark Stephenson for
+   motivating me to become a speed player with their own FAQs.  You can
+   read their FAQs at http://www.gamefaqs.com (Use the Search Engine).
+
+-  Vincent Merken for being the strongest warrior in the World of
+   Survival Horror and for a confirmation about the Spark Shot PLUS
+   a better way of disposing Zombies as Leon and for the many time-wasting
+   pick-ups that I needed to be aware of.
+
+-  Kao Megura for being a purveyor of Original Work
+
+-  GameFAQs for being the largest stable of Original Works collected
+
+-  Finally IGN for being the largest video gaming community over the Web.
+
+This document is dedicated to the loving memory of Princess Diana of Wales
+and Fashion Designer Gianni Versace.  We need to stop destroying people
+for a stupid reason right now.
+
+** END OF DOCUMENT AND ONE LAST WARNING **
+
+This Electronically Published Document is copyrighted (c) 1999 Mark Kim.
+All Rights Reserved.  This document is protected by applicable copyright
+laws and international treaties.  Unauthroized reproduction, retransmission,
+and/or a breach of copyright, partial or full, may result in civil and
+criminal penalties and is subject to maximum punishment and prosecution
+to the highest extent possible by law.  Please credit Mark Kim as Vesther
+Fauransy where credit is due.  This document is the sole property of Mark
+Kim.

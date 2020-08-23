@@ -1,0 +1,116 @@
+Andre Sales
+oasca
+NetStage
+
+HT FERNANDO+TOMAS 18  Ataque contra 2.01 Sou Nerd A
+  [Legionário]  [Pretoriano]  [Imperiano]  [Equites Legati]  [Equites Imperatoris]  [Equites Caesaris]  [Aríete]  [Catapulta de Fogo]  [Senador]  [Colonizador]  [Herói]
+tropas 0 0 0 0 0 0 0 0 0 0 1
+Hora de chegada 
+  em 16:40:39 h  às 02:20:50 am
+
+
+
+Hora de chegada	
+  em 2:28:58 h 	às 06:14:47 hora
+
+
+em 0:48:30 h 	às 06:14:51 hora
+em 0:40:20 h 	às 06:15:02 hora
+em 0:30:06 h 	às 06:17:26 hora
+em 0:20:55 h 	às 06:18:58 hora
+
+OK
+(17) Ilhas2* 	Reforços para (02) Yucatan
+Tropas	0	2524	0	0	0	0	0	0	0	0
+Chegada	
+em 0:42:26 h 	às 3:36:33 hora
+
+OK
+(13) Ilhas* 	Reforços para (02) Yucatan
+Tropas	0	3221	0	0	0	0	0	0	0	0
+Chegada	
+em 0:31:12 h 	às 3:22:47 hora
+
+
+OK
+(09) Ghost Lake* 	Reforços para (02) Yucatan
+Tropas	0	0	0	0	878	0	0	0	0	0
+Chegada	
+em 0:20:07 h 	às 3:09:56 hora
+
+
+OK
+ (16) Coastal* 	Reforços para (02) Yucatan
+Tropas	0	0	0	0	1034	0	0	0	0	0
+Chegada	
+em 0:18:00 h 	às 3:11:14 hora
+
+
+OK
+(08) Fortress 	Reforços para (02) Yucatan
+Tropas	0	0	0	0	1376	0	0	0	0	0
+Chegada	
+em 0:09:29 h 	às 2:56:07 hora
+
+
+A(04) Oasis - 	Reforços para A(02) Yucatan
+Tropas	0	2678	0	0	0	0	0	0	0	0
+Chegada	
+em 0:06:04 h 	às 5:45:05 hora
+
+
+ (03) Black Forest 	Reforços para (02) Yucatan
+Tropas	0	3840	0	0	0	0	0	0	0	0
+Chegada	
+em 0:04:17 h 	às 2:43:27 hora,
+
+
+
+
+
+
+-------------------------------
+
+Hora de chegada	
+em 1:24:42 h 	às 07:13:00 hora
+	em 0:11:48 h 	às 07:13:22 hora
+em 0:11:03 h 	às 07:14:05 hora
+em 0:08:24 h 	às 07:14:08 hora
+em 0:08:31 h 	às 07:14:30 hora
+
+em 0:12:10 h 	às 07:14:30 hora
+
+(24) Archipelago II* 	Reforços para (23) Nomad*
+Tropas	0	2407	0	0	0	0	0	0	0	0
+Chegada	
+em 0:38:20 h 	às 3:40:12 hora
+
+
+OK (26) Fortress II* 	Reforços para (23) Nomad*
+Tropas	0	1752	0	0	0	0	0	0	0	0
+Chegada	
+em 0:15:27 h 	às 3:19:00 hora
+
+
+OK (25) Arabia II* 	Reforços para (23) Nomad*
+Tropas	0	1700	0	0	0	0	0	0	0	0
+Chegada	
+em 0:09:35 h 	às 3:12:08 hora
+
+
+OK (27) Continental II* 	Reforços para (23) Nomad*
+Tropas	0	3521	0	0	0	0	0	0	0	0
+Chegada	
+em 0:06:04 h 	às 3:11:59 hora
+
+
+(22) Highland* 	Reforços para (23) Nomad*
+Tropas	0	3874	0	0	0	0	0	0	0	0
+Chegada	
+em 0:04:17 h 	às 3:01:06 hora
+
+
+
+
+
+

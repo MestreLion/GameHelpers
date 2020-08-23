@@ -1,0 +1,475 @@
+
+                      A Turnex & Pixyman production
+                     -_-_-_-_-_-_-_- -_-_-_-_-_-_-_-  (C)
+                       -_-_-_-_-_-     -_-_-_-_-_-
+                         -_-_-_-         -_-_-_-
+                           -_-             -_-
+                             -_-_-_-_-_-_-_-
+                               -_-_-_-_-_-
+                                 -_-_-_-
+                                   -_-
+
+                                bring you
+
+                           Day of the Tentacle
+                                   by
+                                LucasArt
+
+
+
+Warning to...
+                ...all trigger-happy people:
+
+        There is no chance you can die in this game, nor see any blood
+spilled. But there will be used several guns and dirty trickes. When that's
+said, don't go jumping of a cliff if you think you have done something
+terribly stupid! You will always have the chance to go back and do it right
+again.
+                Otherwise to...
+
+                ...all fat people:
+                ...all silly people:
+                ...people who don't like burping.
+                ...people who don't like tentacles.
+                ...people who don't like other people biting nails.
+                ...people who don't like cartoons.
+                ...all people who might laugh to death over this game!
+
+
+
+                <<< Well, lets get on with the game >>>
+
+
+
+<As Bernard>.
+Pick up flier.
+Pick up dime in pay phone.
+Open Grandfather clock.
+(Bernard finds the secret passage).
+(Sets free tantacles).
+Walk to the right of the room.
+Pick up paper [super-battery plans] on bulletin board.
+
+<As Hoagie>
+Walk to inn.
+Open double doors.
+Walk to swinging door.
+Pick up oil (in the pantry).
+Pick up spaghetti (beside oil).
+Open door to the right.
+Pick up bucket.
+Open cabinet.
+Pick up brush.
+Walk back out of swinging door.
+Talk to John Hancock.
+Talk to Thomas Jefferson.
+Talk to Geoge Washington.
+
+(The main problem is that you need their gold pen. But you can't get it
+before The Founding Fathers leave the room. To make then leave, you have
+to make up a fire like John Hancock really could need. But Thomas refuses
+to light up a fire, and the only person Thomas listens to is George, and
+he's not freezing. So how do we make George Washington freeze?)
+
+Walk out of the room, and over to the Granfather clock.
+Open clock.
+Walk inside.
+Talk to Red Edison.
+Give patent application to Red Edison.
+(He'll be needing oil, vinegar and gold for the battery).
+(Since you've already have got the oil):
+Give oil to Red.
+Pick up left-handed hammer.
+
+<Switch to Bernard>
+Walk upstais two times.
+Open the door in the middle.
+Talk to Dwayne.
+Go out in the hall.
+Open door to the right.
+Talk to Green Tentacle.
+(Try out his Stereo...)
+Push on/off button.
+(Something on the ceiling under seems to almost fall down)
+Push right speaker.
+(The "thing" will fall down).
+Push button on/off.
+Walk out, and in to the room to the left in the end of the hall.
+Look at TV.
+(Hm, how are you going to get the money?)
+Use Phone.
+(Well, you didn't have the right card).
+Go downstairs, and into the Doc's office.
+Pick up Swiss bankbook.
+Use Phone.
+(That didn't help either did it...)
+Open drawer
+Pick up Booboo-B-Gone..
+Look at portrait.
+Look at camera.
+Leave room.
+Open double doors.
+Enter.
+Talk to Oozo the Clown.
+(Nice little chat, eh'?)
+Talk to salesman.
+(Very funny!)
+Pick up chattering teeth.
+(Playing hard to get, eh?)
+Open grating.
+Walk to teeth, until they get stuck in the hole.
+Pick up teeth.
+Use teeth with Hoagie.
+(Now Hoagie's got the teeth).
+
+<Switch to Hoagie>.
+Leave the house.
+Open the mailbox outside.
+Pick up letter.
+Use letter with Bernard.
+
+<Switch to Bernard>.
+Walk upstairs to Wayne (the unhappy writer).
+Give letter to Wayne.
+(He'll rush out of the room, and you'll get your hand on that gun of his).
+Pick up flag gun.
+Pick up disppearing ink by the door.
+Walk down to the salesman again.
+Use flag gun with cigar lighter.
+Talk to salesman.
+(Ask for one more of those lovely cigars).
+Use cigar lighter with Hoagie.
+Use exploding cigar with Hoagie.
+
+<Switch Hoagie>
+Walk to "The Founding Fathers".
+Give exploding cigar to George Washington.
+(Surprice, surprice!)
+Give chattering teeth to George.
+(Now, he's cold!).
+Pick up blanket.
+Walk all the way up to the roof.
+Use blanket with chimney.
+(Fire! Fire!)
+Get your butt down to the room again and;
+Pick up pen.
+Leave room.
+Walk upstairs.
+Open the first door.
+Push bed.
+Pull cord.
+Talk to maid.
+Leave room.
+Pick up the soap on the maid's cart.
+Open next door to the right.
+Talk to Betsy Ross.
+Leave.
+Open the next right door, and enter.
+Pick up wine bottle.
+Walk upstairs.
+Pick up red paint.
+Walk out of window.
+Use chimney.
+Give wine to Thomas. (It needs to be stored for a couple of 100 years).
+Go outside.
+Walk to out-houses.
+Use red paint with kumquat tree.
+Go inside and tell George that he can't chop trees.
+(The one about his Grandmother).
+(Laverne will now 400 years in the future, fall down from the tree which is
+no longer there).
+Walk to Red Edison.
+Give gold pen to Red.
+
+<Switch to Bernard>
+Use the chimney.
+Pick up crank.
+Use window to the right.
+Walk down one floor.
+Open door to the right.
+Talk to Weird Ed Edison.
+Pick up hamster.
+Use computer.
+(Now if you want, you can play the whole Maniac Mansion part 1 on Weird
+Ed's computer. To escape press: ALT+X)
+Use disappearing ink on stamp album.
+Pick up stamp.
+Pick up stamp album.
+Go down in the laboratory.
+Walk to Chron-O-John.
+
+<Switch to Laverne>.
+Talk to Tentacle Guard.
+Press "Oh... I don't feel so good.."
+(When the doctor's leaving);
+Pick up tentacle chart.
+Leave (get caught)
+Talk to guard.
+Press "I have to go to the bathroom".
+Walk to the right.
+Use scalpel with Bernard.
+Use tentacle chart with Hoagie.
+
+<Switch to Bernard>.
+Use Booboo-B-Gone with Laverne.
+Use crank with Laverne.
+Use stamp with Hoagie.
+Use flier with Hoagie.
+
+<Switch to Hoagie>.
+Use can-opener with Laverne.
+Use the stairs twice.
+Enter door in the middle.
+Use tentacle chart with patterns.
+Go downstairs.
+Enter room.
+Use flier with suggestion box.
+
+<Switch to Laverne>.
+Walk back to prison.
+Talk to tentacle
+Pull the "oh... I don't feel so well".. trick again.
+Leave office.
+Enter fireplace.
+Use crank with flagpole.
+Pull crank.
+Pick up flag.
+Use flag.
+(Aren't you a good lookin' Tentacle now..)
+Use chimney.
+Talk to tentacle (to the right of the fireplace).
+
+<Switch to Hoagie>
+Walk upstairs twice.
+Talk to horse.
+Open door.
+Enter.
+Use left-handed hammer with right-handed hammer.
+[Raw laughter].
+
+<Switch to Bernard>
+Go upstairs thought the swinging door.
+Pick up decaf coffee.
+Pick up normal coffee.
+Open door to the right.
+Enter.
+Open cabinet.
+Go down to the doctor Fred again.
+Use decaf coffee with mug.
+Go upstairs.
+Enter Green Tantacles room.
+Pick up videotape.
+Go upstairs.
+Enter door to the left.
+Push Nurse Edna out of the room.
+Use videotape with VCR.
+Look at monitor.
+Press record.
+Press rewind.
+Switch from SP to EP on the panel.
+Press play.
+(Now you've got the combination).
+Leave.
+Go down and into the doctor's office.
+Open safe.
+Pick up contract.
+Leave.
+Pick up fake barf.
+Use barf with Laverne.
+
+<Switch to Hoagie>
+Use red paint with Bernard.
+
+<Switch to Bernard>
+Walk up the chimney.
+Enter right window.
+Pick up rope.
+Go out through window.
+Use rope with pulley.
+Walk outside.
+Use dangling rope with dead cousin Ted.
+Up the chimney again.
+Pull rope.
+To the roof again.
+Enter window.
+Use red paint with Ted.
+Use Fred with Ted.
+Use rope with Fred.
+Go outside.
+Pull rope.
+(Looong way down).
+Use funnel with Dr. Fred.
+Use coffee with the Doctor.
+Give contract to Fred.
+(Choice number 4 twice).
+Use contract with Hoagie.
+
+<Switch to Hoagie>
+Use contract with stamp.
+Go ouside to the mailbox.
+Use letter with mailbox.
+(Shouldn't complain about the mail-system in this game!)
+
+<Switch to Bernard>
+Walk to Dr. Fred's office.
+Use phone.
+Go up to Weird Ed's room.
+Give stamp album to Ed.
+(Peace brother).
+Walk down one floor.
+Use hamster with ice machine.
+Use text-book with Hoagie.
+Walk down to Oozo the clown.
+Use scalpel with clown.
+Pick up box'o laughs.
+Use box'o laughs with Laverne.
+Leave room (to the left).
+Pick up sign (in window).
+Use sign with Hoagie.
+
+<Switch to Hoagie>
+Walk to grandfather clock.
+Give sign to Red Edison.
+Pick up lab coat.
+Go up three times.
+Use text-book with horse.
+Pick up teeth.
+Use teeth with Laverne.
+Use spaghetti with Laverne.
+
+<Switch to Laverne>
+Leave to the left.
+Walk upstairs.
+Enter first door on your right.
+Use can-opener with time capsule.
+Pick up vinegar.
+Leave.
+Enter next door.
+Pick up extention cord.
+Pick up roller skates.
+Use roller skates with mummy.
+Push mummy.
+Leave room.
+Open ice machine.
+Look at ice machine.
+Pick frozen hamster.
+Go downstairs.
+Use name tag with mummy.
+Walk to the kitchen.
+Use frozen hamster with microwave.
+(Could be very dangerous, you know..)
+
+<Switch to Bernard>
+Go upstairs.
+Enter first door.
+Close door.
+Pick up keys.
+Go outside and to the right.
+Talk to man in the ski mask.
+Give keys to man.
+Walk to house and upstairs.
+Use crowbar with candy machine.
+Go downstairs.
+Use crowbar with chewing gum.
+Go upstairs to the honeymoon suite (where the fat man sleeps).
+Use gum with dime stuck in it.
+Use dime with FickleFingers coin slot.
+Use your 2nd dime with FickleFingers coin slot.
+Pick up sweater.
+Walk downstairs throgh the kitchen and into the washing room.
+Use sweater with dryer.
+Use money with dryer.
+
+<Switch to Laverne>
+Go get the sweater.
+Use sweater with hamster.
+Go up to the where the competition is beeing held.
+(Your dear mummy needs a face-lift).
+Use teeth with mummy.
+Use box o-laughs with mummy.
+Use spaghetti with mummy.
+
+<Switch to Bernard>
+Go to the kitchen.
+Pick up fork.
+Use fork with Laverne.
+
+<Switch back to Laverne>.
+Use fork with mummy.
+Use fake barf with Harold.
+(Yeah, it was a rather rotten trick, wasn't it?!)
+Walk to the higly restricted jury.
+Talk to jury.
+Say "Isn't it about time to..." three times.
+(Congratulations! You've won a beauty contest with your sexy mummy friend.
+Now, all we have to do is to save the world).
+Walk outside.
+Use Booboo-B-Gone with fence.
+Use Vinegar with Hoagie
+
+<Switch Hoagie>
+Walk upstairs.
+Use Ned's bed.
+Use squeaky mattress with Jed's bed.
+Use Ned's bed.
+Pick up squeaky mouse toy.
+Walk down in the basement (through the chimney).
+Give vinegar to Red Edison.
+Pick up battery.
+Walk to kitchen.
+Use bucket with water pump.
+Walk outside.
+Use soap with bucket.
+Use brush with bucket.
+(Well, isn't that just typical?!)
+Walk to Ben Franklin's study.
+Give lab coat to Ben.
+Use battery with kite.
+Push kite (when Ben tells you to).
+Pick up fully charged battery.
+Walk to Chron-O-John.
+Use battery with plug.
+(Now he's ready to leave...)
+
+<Switch to Laverne>
+Use mouse with cat.
+Walk to kennel.
+Give dinner certificate to guard.
+Push switch.
+Use cat.
+Walk to grandfather clock.
+Open clock.
+Enter.
+Use hamster with generator.
+(Oops!)
+Use built-in shop vac.
+Pick up hub cap.
+(Why?)
+Open hatch.
+Pick up wooly hamster.
+Use hamster with generator.
+Use extention cord with generator.
+Use extention cord with window.
+Go outside to the Chron-O-John.
+Use extention cord with plug.
+(Wow, you have managed to come back to normal time! But hey, what's
+happening?! This game is supposed to have an happy ending isn't it?!
+Well, wait and see...)
+
+<As HoagieBernardLaverne, the three-headed monkey>
+
+Leave the room.
+Open door in the middle.
+(You'll be "zapped").
+Enter the room.
+Walk to mouse hole.
+(When you grow back);
+Pick up bowling ball.
+Leave for the basement.
+Use bowling ball with purple tentacles.
+Talk to purple tentacle.
+(Talk him into shooting the doctor).
+(Go on, shot him! He'll miss, I promise!)
+
+Well, isn't that nice! You've managed to save the world, almost everybody
+is happy. Except maybe the post office in Sibir. And you'll

@@ -1,0 +1,369 @@
+NOTE:  This is not "hints" for Goblins... It's a blunt walkthru for all
+ 22 levels.  Hit "n" now if you really don't want to  read all this.
+
+The way I've organized this is with the level number, the passcode to load
+up that particular level, the instructions to get you through it, and
+underneath a line are things you can try that are REALLY funny, if you
+either have health to spare, or a cheat TSR running.  If you find any errors,
+please drop me a note at millernw@craft.camp.clarkson.edu  In the meantime,
+enjoy!
+
+Abbriviations: Tech (cap)   = Technicial, can pick up, use objects
+               Mag  (beard) = Magician, spell caster
+               Ath  (horns) = Athlete, climbs, punches
+
+1) (none)
+ Punch right column
+ Pick up horn
+ Use horn
+ Spell stick
+ Get pickaxe
+--------------------
+ Spell door
+ Spell fence
+ Use stick
+
+2) VQVQFDE
+ Spell far right apple
+ Punch far right apple
+ Get fallen apple
+ Use fallen apple in crevice
+ Spell 2nd from left apple
+ Punch 2nd from left apple
+ Get fallen apple
+ Use fallen apple in crevice
+ Get pickaxe
+ Use pickaxe on diamond
+ Get diamond
+-------------------
+ Use wrong apple in crevice
+ Punch un-spelled apple
+ Use pickaxe on any apple
+ Punch far left apple
+ Punch diamond
+
+3) ICIGCAA
+ Use diamond on door
+
+4) ECPQPCC
+ Spell left plant
+ Climb left plant
+ Get left yellow pot
+ Use pot on right plant
+ Punch large book
+ Get diamond
+ Use diamond on wiz via book
+-------------------
+ Get/use right yellow pot
+ Punch wizard (nice one!)
+
+5) FTWKFEN
+ Spell sprig on ground in
+  front of raised giant wrist
+ Climb wrist
+ Punch eye
+ Put tech on tongue
+ Spell coffin antenna
+ <fast> Put mag on tongue
+ Punch eye, wait till safe
+ Punch eye
+ Get mushroom, wait till
+  creature's gone
+--------------------
+ Spell coffin
+ Punch troll
+ Use mask with troll
+ Spell mask
+
+6) HQWFTFW
+ Climb longest strand
+ Pull right short strand
+ Get pistol
+ Use pistol under right spider
+ Use pistol under left spider
+ Get pillow
+ Drop pillow under middle spider
+ Spell middle spider
+ Move pillow out of the way
+ Get spider bottle
+----------------------
+ Punch middle spider
+ Use red bottle
+ Use gun elsewhere
+ Pull right short strand twice
+ Pull left short strand
+
+7) DWNDGBW
+ Spell seed bag
+ Get seed bag
+ Move Ath to scarecrow
+ Use seeds on garden
+ <fast> Punch scarecrow to scare
+  birds BEFORE seeds are eaten
+ Spell right cloud
+ Get plant (keep trying)
+ Use belongings on wizard
+----------------------
+ Get seed bad w/o casting spell
+ Spell left cloud
+ Spell scarecrow
+
+8) JCJCJHM
+ Spell skeleton
+ Spell bone
+ Get flute
+ Use flute on snake
+ Climb snake
+ Put Mag on board to right
+  of short ladder (far right)
+ Punch rock outcropping above
+  right side of pit
+ Put Tech on bored to right
+  of short ladder (far right)
+ Punch rock outcropping above
+  right side of pit
+-----------------------
+ Spell/punch snake
+ Spell/punch hole in wall
+ Spell/punch/use vase
+ Use bone
+ Climb ladder out of pit
+ Push red button, manuver Tech
+
+9) ICVGCGT
+ Get meat
+ Give meat to dogthing
+
+10) LQPCUJV
+ Use meat on lower-left hole
+ Spell small, leafed branch
+ Get windsock
+ Put Tech on end of extended branch
+ Put Ath on large rock
+ Pull bottom of extended branch
+ Put Mag on end of extended branch
+ Pull bottom of extended branch
+ Spell cork
+ Get cork
+ Use cork in upper-right hole
+ Get windsock
+ Put tech next to top-center hole
+ Punch lower-right hole, scare bird
+ <time it> Use windsock on bird
+-----------------------
+ Don't use meat on lower-left hole
+ Climb ladder to cork
+ Use windsock on butterfly
+
+11) HNWVGKB
+ Use bird on dogthing
+ Spell dogthing (!)
+ Punch left-hand door
+
+12) FTQKVLE
+ Get feather
+ Use feather on skeleton foot
+ Use cup and ball on skel's hand
+ Get key
+ Use key on cage
+ Spell feather
+ Get flyswatter
+ Swat bee
+ Spell bee
+ Get dart
+ Use date on picture
+ Get (use) doll
+ Get yellow elixir
+--------------------
+ Get key w/o using cup and ball
+
+13) DCPLQMH
+ Spell root
+ Get birdcall
+ Put Tech above nest
+ Use birdcall
+ Get elixir
+ Put Tech near fence
+ Wait
+ Punch jumping egg
+ Spell flapping egg
+ Spell horn
+ Use elixir, walk Tech past fence
+ Get carrot
+ Use carrot on hole
+ Put Ath near fence
+ Spell gopher
+ <fast> Move Ath past fence
+------------------------
+ Use birdcall elsewhere
+ Walk past fence after drinking
+  elixir, without spelling horn
+ Punch nest
+ Spell nest
+
+14) EWDGPNL
+ Spell small flat rock on left
+ Get stick
+ Use stick on right end of large
+  horizontal rock while standing
+  on it.
+ Get watering can
+ Use water can all sprouts
+ Spell far left carrot
+ Punch far left carrot
+ Spell third carrot from right
+ Get key
+ Use key on keyhole
+-------------------------
+ Spell all of the other sprouts (!)
+
+15) TCNGTOV
+ Get matches
+ Drop matches near cannon
+ Punch cannonball pile
+ Get cannonball
+ Punch cannon (point it up)
+ Use cannonball with cannon
+ Punch cannon (point it up)
+ Get matches
+ Use matches with cannon
+ Use matches with stewpot
+ Get carrot
+ Use carrot with cannon
+ Punch cannon (point it left)
+ Get matches
+ Use matches with cannon
+ Punch cannon balls
+ Get cannon ball
+ Punch cannon (point it up)
+ Use cannon ball with cannon
+ Punch cannon (point it up)
+ Use matches with cannon
+ Spell carrot
+ Get earhorn
+ Use earhorn with creature
+ Get mallet
+ Use mallet on gong
+ Get pendulum
+--------------------------------
+ Fire cannonball left, not up
+
+16) TCVQRPM
+ Get rock
+ Use rock on X
+ Spell rock
+ Spell flat rock
+ Spell tree on far left
+ Punch pickaxe
+ Get pickaxe
+ Use pickaxe on bottom
+  middle of screen
+ Repeat above about four times
+
+17) IQDNJQO
+ Punch woodpile
+ Get log
+ Use log on beartrap
+ Drop log
+ Spell seeds
+ <fast> Move Mag off dragon's ledge
+ Get seeds
+ <fast> Move Tech off dragon's ledge
+ Drop seeds near woodpile
+ Spell log
+ Get deodorant
+ (*) Drop deodarant near seeds
+ Get seeds
+ Use seeds
+ <fast> Get deodorant
+ Spray foot (with perfect aim)
+ - If you miss, goto (*)
+ Get foot
+ Drop foot on dragon ledge
+ Put Tech on ledge so dragon
+  fires at foot, get out of the way!
+ Get roast
+ <fast> Move Tech off dragon's ledge
+ Use roast on footbridge
+ Get dagger
+ Drop dagger on dragon ledge
+ Put Tech on ledge to dragon
+  fires at dagger, get out of the way!
+ Get flaming dagger
+ <fast> Move Tech off dragon's ledge
+-----------------------------
+ Use uncooked foot on footbridge
+ Cross unfed footbridge
+
+18) KKKPURE
+ Use dagger on statue's heart
+ Leave voodoo doll on statue's
+  left hand, back off
+ Get key
+ Use key in statue's right ear
+ Put Tech on statue's left hand
+ Put Ath on statue's left hand
+ Put Mag on statue's left hand
+
+19) NGOGKSP
+ Punch banana branch
+ Get banana
+ Use banana on wolf
+ Get soap
+ Use soap on wolf
+ Get false nose
+ Use false nose on wolf
+ <wait> Get witchcraft
+ Spell left gate
+-------------------------
+ Read the other books
+
+20) NNGWTTO
+ Spell sprig under embossed shield
+ Punch lever
+ Spell cork
+ Use witchcraft on ear
+ Drop witchcraft near ear
+ Get bait (upper left tower)
+ Get bowl (leave bait where
+  bowl was)
+ Drop bowl under giant's right eye
+ Get witchcraft
+ Use witchcraft on ear
+ Get bowl (of tears)
+ Use tears on creature
+ Get catapult (slingshot, actually)
+-------------------------------
+ Encounter creature under roof (in dark)
+
+21) LGWFGUS
+ Use slingshot on bananas
+ Punch lever
+ Put Mag on dolphin
+ Put Ath on dolphin
+ Put Tech on dolphin
+
+22) TQNGFVC
+ Use catapult on wizard
+  (Tech captured)
+ Spell club-shaped stone
+ Move Ath. to tip of wing (right
+  side of screen)
+ Spell wizard-bat
+  (Tech freed)
+  (Mag captured)
+ Punch wizard-turtle's head
+  (Mag freed)
+  (Ath captured)
+ Use catapult on strand holding Ath
+  (Ath freed)
+ Put empty bag on ground below
+  wizard-spider
+ Spell wizard-spider
+ Get full bag
+ Use full bag on cauldron
+
+[http://vgstrategies.miningco.com]
+
+HTML © 1998 Just The FAQs. All images and content © by the respective
+owner(s). All rights reserved.

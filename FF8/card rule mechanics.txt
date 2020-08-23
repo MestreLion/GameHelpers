@@ -1,0 +1,367 @@
+BOTTOMLINE
+==========
+
+- Trade rules are, in degradation order:
+	- ONE   	Basic, acceptable
+	- DIFF  	Great
+	- DIRECT	Worst possible
+	- ALL   	Best, assumed for years to deteriorate into Direct, hence risky
+
+- To change trade rules of an area, play with Queen of Cards, it will randomize the region (and herself, independently)
+
+- No problem choosing ALL with QoC, as long as:
+	- Dominant region doesn't have DIRECT to spread it elsewhere
+	- QoC's personal rule isn't DIRECT (and/or simply don't play in her current region)
+
+- Previous thought (obsolete, but still in many guides):
+	- DIFF (a great rule) "degrades" to ONE (acceptable), while ALL (the "best" rule) degrades to DIRECT (the worst possible ever)
+	- So stick with DIFF!
+
+
+MECHANICS
+=========
+
+Note on terminology: "Play" means get to the rules screen (whether you actually play through the game itself or not is irrelevant). "Challenge" means hit square to, well, challenge someone - but say no, and *not* get to the rules screen.
+
+- If you play a game with the QoC, she will use a random trade rule in that particular game. Also, the trade rule for the region she's currently in will be randomized, and will not necessarily end up as the same rule as the QoC just used, although it can. (Some say instead that the trade rule for the region she's currently in will randomly either stay the same, move one step up, or move one step down - but won't jump from, say, One to Direct.)
+
+- The game has an invisible "counter" from 0 to 255. When you play a game, this counter increases by (I believe randomly) 0 to 7. If it increases past 255, it wraps around to 0. When the counter is 0 to 127, trading rules are in "normal mode"; when the counter is 128 to 255, trading rules are in "cautious mode". See below for more on these.
+
+- The game has *another* invisible "counter", this one from 0 to 10. It also keeps track of *one* region which is considered "dominant". If you *challenge* someone in the dominant region, the counter increases by 1, unless it's already 10, in which case it stays there. If you challenge someone in one of the seven regions other than the current dominant region, then the counter decreases by 1, unless it's 0. If it was 0, then it increases by 1 and the region in which you just challenged someone, becomes the new dominant region.
+
+(In other words, do at least 10 challenges and the region in which you're challenging is guaranteed to be dominant.)
+
+- After you play a normal card player, one of the following things can randomly (with fairly low odds; these odds *may* be influenced by specific values of the 0-10 dominance counter) happen in one or more of the eight regions. (They're each treated individually. So it can happen in none, a random one, a random two ... theoretically in all eight at once but the probability is astronomically low.)
+
+1. Their trade rule will instantly change to match that of the dominant region.
+2. Their trade rule will "degrade". This is where the "normal mode" vs. "cautious mode" comes in. In "cautious mode", it goes straight to One when this happens, no matter what. In "normal mode", it simply goes down one step. All becomes Direct. Direct becomes Diff. Diff becomes One. One remains One.
+
+Point being, the easiest way of manipulating an area's trade rule is to get the QoC there and play her (then play someone else to see the results) until she randomly changes that area's trade rule to what you want. However, that involves moving the QoC around, which is its own can of worms. So a more practical (but somewhat less controllable) option is to get *some* region - most convenient is wherever the QoC currently is - to have the trade rule you want, make it dominant (a bit of challenging will take care of that), and then play a bunch of games until your target region decides to randomly change to match the trade rule of the dominant region.
+
+----
+
+NEW INFO:
+
+Nope. Discovered from Forte's research into the game code, and confirmed through controlled testing, that degeneration is always straight to One. Although common knowledge believed it did for a good ten years or so before that.
+
+You can get Direct after All, but it won't happen because of degeneration.
+
+Example: you play a bunch in Balamb (thereby making it dominant), and have QoC's personal rule as All for that. Then you play her to send her to Dollet with MiniMog. Playing her has a high chance of changing her personal rule either up or down (always down for All, always up for One) by one step, so in our example she'll switch her personal rule to Direct for that game with her.
+
+With a spat of unfortunate timing, the ~1/3 chance of the QoC's region adopting the QoC's trade rule will kick in, and Balamb will now have Direct despite having All previously. QoC promptly flounces off to Dollet and can no longer directly alter Balamb's trade rule.
+
+In this case, Balamb has Direct after All, but it's because it directly adopted QoC's Direct, not due to degeneration.
+
+You then, in disgust at Direct, go on with the plot to Galbadia, and play some games there. Much to your relief, it still uses the All that had previously spread from Balamb due to Balamb's dominance. But what is this? After a few games, now it has Direct too. QoC wasn't even here!
+
+If you've been playing in a region long enough to make it dominant and max out its dominance (as was the case with Balamb), then start playing somewhere else, dominance doesn't shift to the new region until the 11th challenge there. (NB: challenge, not game.)
+
+Meanwhile, Balamb is absolutely still the dominant region, and the dominant region's trade rule can absolutely still spread out to other regions. Granted, the odds decrease each game as the strength of Balamb's dominance decreases, but it can absolutely happen. Turns out in our example, it happened. And Galbadia was the unfortunate 1/8 selection of the region to get the dominant region's (Balamb's) current trade rule (Direct).
+
+In this case, Galbadia has Direct after All, but it's because the currently (despite only being temporarily) dominant region had Direct, and it spread out from there.
+
+Neither of these is degeneration kicking in. Both of them result in getting All after Direct.
+
+If you play in the QoC's current region (against someone other than the QoC herself) long enough, the whole world will eventually have either the QoC's personal rule or, occasionally/temporarily, One. If you play in any other region long enough, the whole world will eventually have One.
+
+It's when you play the QoC herself (such as to move her to other regions for her quest), and when you move to other regions yourself, that you can get unexpected and messier effects. It always, always makes sense and follows the rules - it's just that there are three different factors (QoC effect, dominance effect, degeneration effect) pushing and pulling at trade rules, so it can be a little confusing as to what exactly caused it.
+
+Hence the misinformation for so long. But if you exclude those two possibilities, by a. making sure the dominant region doesn't have Direct to spread it elsewhere and b. making sure the QoC's personal rule isn't Direct (and/or simply don't play in her current region), then you'll find that the trade rule never changes to Direct, even if it was All beforehand.
+
+
+SOURCE CODE
+===========
+https://gamefaqs.gamespot.com/boards/197343-final-fantasy-viii/53611093
+
+I'm still not done, but here's what I have so far.
+
+First, some words about the RNG. Unlike the battle/worldmap RNG, towns use a standard ANSI-C RNG but the difference between other games is that the RNG here is updated very rarely, since there are only a few instances where it's used.
+This can cause frustration because reloading and repeating what you've just done will always produce the same "random" numbers, but it's also because of this that the RNG can be exploited. More on that later.
+
+Now, although it's still very difficult to understand what the game does when determining what rule is spread/abolished, good old trial 'n error works fine.
+
+As you already know, the game keeps track of the card rules you carry, which are the rules of the last area you've played in. If you go to another area and have at least one rule that area doesn't, you'll be asked to mix rules. I'll be referring to the rules you're carrying as set A, which set B are the rules of the area you're playing in.
+
+As already mentioned, you must have at least one rule in A that's not in B, if you agree to mix rules/play and then end the game (using Quit being the fastest way) the game performs some checks to see if a rule is spread or abolished (or if nothing happens).
+
+For this, a random integer between 0 and 255 inclusive is generated and depending on what it is, a different rule is affected.
+
+0 - 31 = Open
+32 - 63 = Same
+64 - 95 = Plus
+96 - 127 = Random
+128 - 159 = Sudden Death
+160 - 191 = Open
+192 - 223 = Same Wall
+224 - 255 = Elemental
+
+The range 160-191 was supposed to be used for a different rule which was left out, so it defaults to the first one, Open.
+
+The easy part is when the selected rule is in set A, but not in set B. In that case it will be added to B, and set A will then be the same as set B (meaning you can't mix rules anymore unless you play in a different area).
+
+In short, Spreading Rule: If the rule selected is in A but not B, the rule will be spread in B's area.
+
+If the selected rule is not in A or in both A and B, the game will repeat the process of randomly selecting the next affected rule up to three times. Let's assume that the first cycle determined a rule1, the second a rule2 and the third a rule3.
+
+From the beginning, it would be:
+Determine rule1, stop if Spreading Rule applies.
+If not(as in, Spreading Rule does not apply), determine rule2, stop if Spreading Rule applies.
+If not, determine rule3, stop if Spreading Rule applies.
+If not, generate another random number (I'll call it abolish_rnd)
+
+Now, if rule3 is not in B, the whole process ends and nothing happens.
+If rule3 is in B, the game checks if it'll be abolished.
+
+if (rule3 in B & abolish_rnd < 128) rule3 is abolished.
+
+Example:
+A = {Open, Same Wall, Elemental}
+B = {Same Wall, Random}
+
+1.
+rule1 = 124 (Random), nothing happens.
+=> rule2 = 28 (Open)
+=> Open is spread.
+end
+
+2.
+rule1 = 129 (Sudden Death), nothing happens.
+=> rule2 = 107 (Random), nothing happens.
+=> rule3 = 75 (Plus), abolish_rnd = 251
+=> nothing happens.
+end
+
+3.
+rule1 = 222 (Same Wall), nothing happens.
+=> rule2 = 86 (Plus), nothing happens
+=> rule3 = 114 (Random), abolish_rnd = 15
+=> Random is abolished
+
+The game actually rolls another random number if abolish_rnd >= 128 and the rule can be abolished after that, but I'm not sure yet under what circumstances.
+"Naturally, I knows the hacker" - Kid, Ever17
+ForteGSOmega (Topic Creator)10 years ago#2
+As I said above, the RNG can be exploited since it's seldom used.
+The RNG will be reset if you die, hard reset or soft reset. I've compiled a list of the first 100 values it will generate after that:
+
+http://www.forte.spacequadrat.de/home/ff8/random.txt
+
+the second column is the actual random number and the third is what card rule it corresponds to.
+
+Here are some things that use random integers generated by that RNG:
+
+Activate a Draw Point (1 number)
+You don't need to draw anything and it doesn't matter if you have Draw on
+someone or not. Just "talking" to it is enough.
+
+Challenge someone to a Card game (1 or 2 numbers)
+You can repeat the process by selecting "No" when asked to play
+1 if the person doesn't ask to mix rules.
+2 if the person asks to mix rules.
+
+Things that do not use this RNG:
+Encounters, changing screens, talking to people (without requesting a card game), being on the world map etc
+
+Things that use the RNG, but I don't know exactly when:
+People that appear(walk in) on the screen after you've entered it (same with the buses in Deling city) but not always?
+
+Example:
+
+You want to abolish Random. Best place for this would close to the entrance of the area or save point and where you can easily reach a Draw Point (though it's not necessary for most Random-abolishing-configurations) and where people don't suddenly appear.
+
+Take a look at the list of the random integers:
+http://www.forte.spacequadrat.de/home/ff8/random.txt
+
+The earliest Random appears is 2., 4. and 13.
+The 2 and 4 can't be used since they're too early, but 13 is alright. Before the Random at 13, there are Open and Same Wall and after it is "14. 28 Open", which means that 28 will be used as abolish_rnd and it's smaller than 128, so it's alright.
+
+Now that means that you shouldn't have Open and Same Wall for this to work, but it'll also work if the area you're in already has them. (or you can repeat the process and spread both)
+And you must have an additional rule the area doesn't have, of course.
+
+First, save the game, use the soft/hard reset and load the game. Now challenge anyone and you'll be asked if you want to mix rules. Say no. You've just skipped the 1. random integer and the second. Repeat the process of refusing 3 times, for a total of 4 times. You'll now be at the 9. integer of the list.
+Challenge again, but accept this time (9. and 10. skipped), chose Quit and now 11. will be rule1, 12. will be rule2 and 13.(Random) will be rule3 and abolish_rnd is 28, which means that Random will be abolished.
+
+Really, the only way this could be messed up if NPCs suddenly appear.
+
+You can also do the same with Draw Points. A fully charged Ultima DP at the Shumi Village uses the following formula:
+
+DrawAmount = (20 * (rnd + 128) / 512) + 1
+
+where rnd refers to the random integer.
+
+For the fastest results, save/load and challenge the person in front of the draw point. If he asks to mix rules, repeat the process of refusing for a total of 3 times (next integer: 226) or if he doesn't ask to mix the rules, refuse him 5 times (next integer: 251), then pay to draw from the DP.
+
+You'll get 14 Ultimas in the first case and 15 in the second.
+
+That's it for now.
+
+
+
+RULE CHANGE
+===========
+
+Personally I'd use Galbadia's Same to get rid of Trabia's Random and Plus, rather than the other way around. Random and Plus both suck, but Same's pretty harmless. Either way, the general idea is the same:
+
+1. Pick the region you want to muck with, call it X.
+2. Pick some other region, that has at least one rule that X doesn't have. (For best odds of abolishing stuff in X, it will have exactly one rule, and that one rule won't be Open.) Call this region Y.
+3. Find a card player who uses Y's rules.
+4. Challenge them and say no. You do not want to get to the rules screen (this risks mucking with Y's rules, and you're not trying to do that right now).
+5. Repeat step 4 until they stop offering to combine rules. If they weren't offering to combine rules in the first place, repeat step 4 ten times.
+
+(What you're basically doing here can be summarized as "pick up Y's rules, without mucking with Y's rules by playing a mixed-rule game in Y itself".)
+
+6. Find a card player who uses X's rules, and a nearby place to save.
+7. Save.
+8. Go to the card player who uses X's rules, challenge them, say yes (you do want to get to the rules screen this time), then quit from the rules screen. If you did the previous steps correctly, they should offer to mix rules in the challenge dialogue.
+9a. If nothing happened, repeat step 8. If they stop offering to combine rules, soft-reset and try again.
+9b. If something spread, soft-reset and try again. Unless it was Open or something you wanted to spread, in which case save.
+9c. If something was abolished, even if it wasn't the single most hated thing that you really wanted to get rid of, save. Unless it was something you deliberately wanted to keep (again, like Open), in which case soft-reset and try again.
+10. If you want to make additional changes (e.g. abolish more than one rule, or abolish one rule and spread another rule), start over from step 1. Bear in mind that because X's rules have changed now, you may need or want to pick a different region Y to fit the bill.
+
+Note that soft-reset is whatever in-game button combo resets the game: L1 + L2 + R1 + R2 + Select + Start while paused. (Not sure about the PC version or its Steam re-release.)
+
+You do not want to use a console- or system-level option like choosing "reset game" on a PS3 or emulator, or pushing a physical reset button, or turning the power off and on. That's a hard-reset, and it resets the random number generator as well (meaning you'll generally get the same results every time you reset and try again, which will obviously cause you frustration).
+
+
+PS4 REMASTER
+============
+
+https://gamefaqs.gamespot.com/boards/197343-final-fantasy-viii/77986804
+I will post my findings here of RNG methods to abolish rules in FFVIII Remastered. The "Exit" option from the menu is a hard-reset.
+
+To move Queen from Balamb to Dollet
+-----------------------------------
+Hard reset (or use Exit), load save in Balamb hotel. Go to the area with the junk shop and Thunder draw point. This draw point must not be empty. Check and refuse draw 8 times. Move on to the Queen and challenge her. Lose a rare card, and she will move to Dollet.
+
+Abolish Random from Dollet while Queen is there
+-----------------------------------------------
+Carrying Galbadia/Timber's rules: Open, Same.
+Dollet's current rules: Open, Random, Elemental. (Spread Open first using Timber's Open+Same, then go back to Timber and pick up its rules without mixing)
+Save at Dollet Hotel.
+Abolish Random: Load save at Dollet Hotel. Go outside, challenge the old man and refuse 2 times. Challenge him again, accept. Quit game. Random has been abolished.
+
+https://youtu.be/5HRYII8RuuI
+
+Video also shows evidence that "Exit" is the same as a fresh game start (i.e. hard-reset).
+
+
+Abolish Random and Plus from Trabia (and spread Open)
+------------------------------------------------------
+for the Trabia exchange student at Galbadia Garden.
+
+First spread Open to Trabia. After that, get the Galbadia rule set, save in the big room just past the ticket gates at the Garden, and then hard reset.
+
+After reloading the game, immediately run to the Trabia student in the ice rink locker room. Challenge him twice, but quit before going to the TT screen to abolish Random.
+
+Get the Galbadia rules again, save in the same room as before and hard reset. Go back to the locker room, and examine the draw point in the locker room 17 times without drawing. After that, challenge the Trabia student and quit to abolish Plus.
+
+(alternative: I hard reset from g-garden hall, asked trabia transfer student to play once and declined once, then checked the life point once. Then I went and challenged and declined a second time, and finally challenged and accepted on the third. Plus was abolished after quitting out of the match.)
+
+Spread Open to Trabia
+NPC: Trabia student in Galbadia Garden.
+Save at G-Garden Hall.
+Carrying Dollet's rules: Open, Elemental
+Trabia's current rules: Plus, Random (starting rules)
+Reset, load save, run straight to the room with Trabia student, check/refuse Life draw point once. Challenge/refuse the student twice. Challenge again, accept, and quit. Open has been spread.
+
+Abolish Random from Trabia
+NPC: Trabia student in Galbadia Garden.
+Save at G-Garden Hall.
+Carrying Galbadia's rules: Open, Same
+Trabia's current rules: Open, Plus, Random
+Reset, load save, run straight to the room with Trabia student, check/refuse Life draw point 6 times. Challenge the student, accept, and quit. Random has been abolished.
+
+(After abolishing Random by checking the draw point 6 times I had to check the draw point 1 time for him to abolish Plus. Without checking the draw point Same spread instead.)
+
+
+Abolish Elemental from FH
+-------------------------
+NPC: Flo
+Queen is not in FH
+Save at FH.
+Carrying Galbadia's rules: Open, Same
+FH's current rules: Open, Elemental, Sudden Death (Open has been spread during Disc 1 in Deling City)
+Reset, load save, check/refuse Regen draw point 3 times. Run to Flo in her house. Challenge Flo, accept, quit game. Elemental has been abolished.
+
+Abolish Random from Centra/Winhill
+-------------------------
+NPC: Card player outside the Winhill shop (first screen in Winhill)
+Queen is not in Centra
+Save at the world map outside Winhill
+Carrying Dollet's rules: Open, Elemental
+Centra's current rules: Open, Random, Same, Plus (spread Open first)
+Reset, load save, challenge/refuse 4 times. Challenge, accept, quit game. Random has been abolished.
+
+Abolish Plus from Centra/Winhill
+-------------------------
+NPC: Card player outside the Winhill shop (first screen in Winhill)
+Queen is not in Centra
+Save at the world map outside Winhill
+Carrying Dollet's rules: Open, Elemental
+Centra's current rules: Open, Same, Plus
+Reset, load save, challenge/refuse 8 times. Challenge, accept, quit game. Plus has been abolished.
+
+Abolish Same from Centra/Winhill
+-------------------------
+NPC: Card player outside the Winhill shop (first screen in Winhill)
+Queen is not in Centra
+Save at the world map outside Winhill
+Carrying Dollet's rules: Open, Elemental
+Centra's current rules: Open, Same
+Reset, load save, move into Winhill. Take the path on the right to the next screen, and then keep going to the next one. There is a draw point here (Drain), make sure it is not empty. Check/refuse draw 20 times. Go back the same way, to the first screen with the shop. Challenge/refuse the npc 3 times. Challenge, accept, quit game. Same has been abolished.
+
+
+Next up: abolish Lunar rules before flying to space.
+Spread Open to Esthar first.
+
+Abolish Elemental from Lunar (before flying to space)
+NPC: guard on the right, in front of Lunar gate
+Queen is not in Lunar
+Save just outside Tears Point
+Carrying Esthar's rules: Open, Elemental, Same Wall (hidden)
+Lunar has all rules.
+Reset, load save, move into Tears Point.
+Check/refuse Life draw point 9 times (this draw point must not be empty). Go back to the world map and head to Lunar gate. Challenge the npc until he accepts (he refuses the first 3 challenges), accept, then quit game. Elemental has been abolished.
+
+Abolish Random from Lunar (before flying to space)
+NPC: guard on the right, in front of Lunar gate
+Queen is not in Lunar
+Save just outside Tears Point
+Carrying Esthar's rules: Open, Elemental, Same Wall (hidden)
+Lunar has all rules except Elemental
+Reset, load save, move into Tears Point.
+Check/refuse Life draw point 8 times (this draw point must not be empty). Go back to the world map and head to Lunar gate. Challenge the npc until he accepts (he refuses the first 3 challenges), accept, then quit game. Random has been abolished.
+
+Abolish Plus from Lunar (before flying to space)
+NPC: guard on the right, in front of Lunar gate
+Queen is not in Lunar
+Save just outside Tears Point
+Carrying Esthar's rules: Open, Elemental, Same Wall (hidden)
+Lunar's current rules: Open, Sudden Death, Same, Plus, Same Wall
+Reset, load save, move into Tears Point.
+Check/refuse Life draw point 16 times (this draw point must not be empty). Go back to the world map and head to Lunar gate. Challenge the npc until he accepts (he refuses the first 3 challenges), accept, then quit game. Plus has been abolished.
+
+I didn't bother abolishing more rules, but for Same, it should be 26 times of checking the draw point. Give it a try and let me know.
+
+(i had to challenge the guard twice, aka 6 times in total, accept and quit both times to abolish random and plus. all the others worked perfectly. you're a legend!)
+
+Sending Queen from Dollet to Balamb
+Save in Dollet Pub (requires Move-Find). Reset, load save, challenge/refuse old man in the pub twice. Challenge Queen, lose a rare card, she moves to Balamb.
+
+----------------
+
+I've been cleaning up Lunar's rules today myself. Just wanted to share my observations.
+
+1) As far as I can see, the old methods work, as long as you don't require a soft reset. So alternative methods to abolish random and plus would be: Hard reset, challenge/refuse 4 times/8 times respectively, then play>quit. This has worked everywhere I've tried it.
+
+Obviously you still need an area that's 'safe' from additional RNG advancing effects.
+
+2) regarding using the drawpoints to advance the RNG, people have been saying the draw point needs to be useable- from what I've seen, it doesn't matter whether it's empty or not, the only difference is that with an empty draw point, you don't have to menu each time you interact with it.
+
+3) Looking at Gecko's numbers for inspecting the draw point is interesting. For example, when abolishing Same from Lunar, his method is to examine the draw point 26 times, then challenge/refuse once.
+
+Conventionally you'd inspect the dollet magazine stack 17 times, exit and reenter the room, inspect it a further 3 times, soft reset, then challenge/refuse three times before play/quitting.
+
+I was able to abolish same from lunar by checking the draw point 20 times, then challenge/refusing 3 times and play/quitting. This suggests that challenge/refusing advances the RNG by twice as much as checking a drawpoint (20 plus 2*3= 26 advancements). You see a similar pattern when looking at gecko's numbers for abolishing other rules versus older methods, so I'm fairly confident of this.
+
+At any rate, it's good to know that we can still play with the RNG despite no soft reset, well done all :)
+

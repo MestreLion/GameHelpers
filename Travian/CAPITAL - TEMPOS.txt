@@ -1,0 +1,73 @@
+
+em 1:40:29 h 	às 00:55:03 hora
+em 1:43:36 h 	às 00:58:28 hora
+
+
+
+
+em 0:35:17 h 	às 23:57:55 hora
+
+C09-A30 Homerloco 	Reforços para CX1-C14 Kruta
+Tropas	0	5600	0	0	0	0	0	0	0	0
+Chegada	em 0:57:30 h
+
+
+C06-A27 Asterix 	Reforços para CX1-C14 Kruta
+Tropas	0	4900	0	0	0	0	0	0	0	0
+Chegada	em 0:46:21 h
+
+
+OK
+C12-B38 Quemedo 	Reforços para CX1-C14 Kruta
+Tropas	0	3000	0	0	0	0	0	0	0	0
+Chegada	em 0:35:20 h
+
+
+OK
+C10-A40 Yamakitto 	Reforços para CX1-C14 Kruta
+Tropas	0	2400	0	0	0	0	0	0	0	0
+Chegada	em 0:35:20 h
+
+
+OK
+C07-A32 Naná 	Reforços para CX1-C14 Kruta
+Tropas	0	5000	0	0	0	0	0	0	0	0
+Chegada	em 0:25:43 h
+
+
+OK
+C03-F22 Rallyn 	Reforços para CX1-C14 Kruta
+Tropas	0	5000	0	0	0	0	0	0	0	0
+Chegada	em 0:23:05 h
+
+
+OK
+C02-M19 Mateusrm 	Reforços para CX1-C14 Kruta
+Tropas	0	7000	0	0	0	0	0	0	0	0
+Chegada	em 0:21:51 h
+
+OK
+C08-A33 Yamashita 	Reforços para CX1-C14 Kruta
+Tropas	0	4000	0	0	0	0	0	0	0	0
+Chegada	em 0:21:51 h
+
+OK
+C05-A25 Kitto 	Reforços para CX1-C14 Kruta
+Tropas	0	5000	0	0	0	0	0	0	0	0
+Chegada	em 0:21:26 h
+
+
+OK
+C11-A41 Pegaso 	Reforços para CX1-C14 Kruta
+Tropas	0	3000	0	0	0	0	0	0	0	0
+Chegada	em 0:17:40 h
+
+OK
+C04-F20 jjansen 	Reforços para CX1-C14 Kruta
+Tropas	0	6000	0	0	0	0	0	0	0	0
+Chegada	em 0:13:33 h
+
+OK
+C01-B16 Tuga 	Reforços para CX1-C14 Kruta
+Tropas	0	2500	0	0	0	0	0	0	0	0
+Chegada	em 0:06:04 h

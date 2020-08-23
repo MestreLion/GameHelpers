@@ -1,0 +1,14 @@
+true,true,false,107861,127925,0,true,true,true,false,50000,OVER_AMOUNT
+true,true,false,124388,127925,0,true,true,true,false,12000,OVER_AMOUNT
+true,true,false,127925,133099,0,false,false,false,true,95,OVER_PERC
+true,true,false,124388,133099,0,false,false,false,true,95,OVER_PERC
+true,true,false,130848,133099,0,false,false,false,true,95,OVER_PERC
+true,true,false,139199,133099,0,false,false,false,true,95,OVER_PERC
+true,true,false,133099,127925,0,true,true,true,false,3000,OVER_AMOUNT
+true,true,false,133099,107861,0,false,false,false,true,95,OVER_PERC
+true,true,false,127925,118488,0,true,true,true,false,3000,UNDER_AMOUNT
+false,true,false,107861,139199,0,true,true,true,false,7000,UNDER_AMOUNT
+false,true,false,127925,130848,0,true,true,true,false,7000,UNDER_AMOUNT
+true,true,false,127925,137122,0,true,true,true,false,3000,UNDER_AMOUNT
+false,true,false,127925,141532,0,true,true,true,true,7000,UNDER_AMOUNT
+true,true,false,127925,143716,0,true,true,true,true,4000,UNDER_AMOUNT

@@ -1,0 +1,874 @@
+'Final Fantasy Origins Spoiler-Free Walkthrough' Version 1.0 (7/15/03)
+by Martin Dale-Hench
+hockeyfox@ameritech.net
+
+
+Table of Contents
+-----------------
+  1. Introduction
+  2. Final Fantasy I
+  3. Final Fantasy II
+  4. Disclaimer/Thanks
+
+==============================================================================
+1. Introduction
+---------------
+
+Hi, people.
+
+For your information, this is not exactly a true non-spoiler walkthrough. It
+is more like a quick guide through the game. Most people who come to FAQs that
+we FAQers make only need that ONE tidbit of information and that's it. They
+will never use that walkthrough again, ever. Yet they have to go through 300+
+KB guides (like mine! ^_^ I'm guilty, yay) and find that damn thing, cramped
+within a 300+ pound haystack. Therefore, I will still state the names, the
+key terms, the bosses, the places, you name it like it is a regular walk-
+through.  If you're one of those people, I think you will find this guide 
+VERY helpful! BUT I won't tell you what levels/HP you should be/have. The 
+games aren't even that hard so no worries. Shopping are your problem too.
+
+A few tips in using this guide: Know which place you just was in and skim to
+that position and you should know what to do! Use the items I submitted as a
+checklist, so you won't miss anything. That items thing is for the players who
+want 100% in their Collections, so they know they have found every item in 
+that castle/dungeon/floor and move on. Also, I will NOT tell you when you
+should heal or go back to heal, that's your problem so you figure it out.
+
+As for Final Fantasy II, I have added a few 'checkpoints' (should be obvious
+to you) around so you can detect where in the guide you're looking at. FF2
+has a LOT of encounters with Altair and Fynn Castle that you could be confused
+where you're at. FF1 doesn't have that problem so it doesn't need those. 
+
+REMEMBER: you figure out when to heal/save by yourself. This is a HELPING
+HAND, not a BABY-SITTER.
+
+This is Fox, over and out.
+==============================================================================
+
+==============================================================================
+2. Final Fantasy I (ONE! not TWO!)
+------------------
+
+ ____|_)             |   ____|           |                     _ _|
+ |     | __ \   _` | |   |    _` | __ \  __|  _` |  __| |   |    | 
+ __|   | |   | (   | |   __| (   | |   | |   (   |\__ \ |   |    | 
+_|    _|_|  _|\__,_|_|  _|  \__,_|_|  _|\__|\__,_|____/\__, |  ___|
+                                                       ____/  
+ 
+
+Cornelia/Temple of Chaos
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Talk to the King in his throne room, in the castle.
+-Learn about her kidnapped daughter and Garland.
+-Temple of Chaos is to the north, past some forests.
+-Get the Leather Cap; Tent; Potion in the Temple.
+-Fight Garland in the middle of the Temple.
+-Go back to the Temple and the King will build the bridge for you.
+
+Pravoca
+¯¯¯¯¯¯¯
+-Cross the bridge and head west and dip down to a town surrounded by a wall.
+-In Pravoca, go to the northwest to find Bikke and his gang.
+-Defeat the Pirates.
+-Get the Ship.
+
+Elfheim
+¯¯¯¯¯¯¯
+-On your ship, ride the waves to the south and land on a port directly south
+ of Cornelia's port.
+-Walk south to Elfheim.
+-In the Castle, talk to the Prince in his bed.
+-Go west and into the ring of mountains. Find an opening in the western side.
+ and walk until you hit the shoreline. Walk to the south to find the Marsh
+ Cave.
+
+Marsh Cave
+¯¯¯¯¯¯¯¯¯¯
+-To the north of the entrance, a staurs leads to 680 Gil, a Dagger, 620 Gil,
+ and a Broadsword.
+-Go south of the entrance to drop down to B2F, with 680 Gil and Broadsword.
+ The stairs to B3F is to the southeast.
+-Get the Sleet Plate; 295 Gil; Copper Armlet; Cottage; 385 Gil; and the Crown.
+-Fight a squad of Piscodemons for the Crown.
+-Get out.
+-*Note: the chests with the Broadsword or Steel Plate or 680 Gil are linked so
+ when you get one, the other chest with the same thing will be empty.*
+
+Western Keep
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Heal if necessary, in Elfheim.
+-Go into the ring of mountains to the east.
+-Walk to the northeast to find a broken-down castle.
+-In the Western Keep, enter the room in the heart.
+-Defeat the King, Astos, to get the Crystal Eye.
+
+Matoya's Cave
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Go back to your ship and travel north, to Cornelia.
+-Cross the bridge and continue walking to the north to find the Cave.
+-In Matoya's Cave, talk to the crazy woman in the room and give her the
+ Crystal Eye in exchange for her Jolt Tonic.
+
+Elfheim Castle
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Back in the castle, give the Prince the Jolt Tonic to wake him up.
+-Get the Mystic Key from him.
+-Get the Mythril Hammer, Bronze Gloves, and 730 Gil in the Castle with your
+ new Key.
+-If you want, go back to the Western Keep for a Power Staff, a Falchion, and
+ a Steel Gloves.
+-If you want, go back to the Marsh Cave for a Silver Armlet, a Mythril Knife,
+ and 1020 Gil.
+-If you want, go back to the Temple of Chaos for a Werebane, Rune Blade, and
+ Gold Needle.
+
+Cornelia Castle
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-You HAVE to go here, despute the places stated above.
+-Go to the back of the castle and shimmy to a pathway leading to six chests:
+ Steel Plate; Iron Shield; Crosier; Saber; Mythril Knife; and the key item
+ Nitro Powder.
+-Get on the ship again and ride to the northwest of the Cornelia's port. Land
+ on the next port you find. Walk to the southwest to find a band of mountains.
+ Find the cave there.
+
+Mt. Duergar
+¯¯¯¯¯¯¯¯¯¯¯
+-Get all items: 450 Gil; 575 Gil; Tent; Grand Helm; Wyrmkiller; Mythril 
+ Knife; Helmet; Mythril Mail; 575 Gil; and Cottage.
+-Talk to the Dwarf standing on the southern passages. He will take your Nitro
+ Powder and form a canal for you.
+-Get back to your ship AGAIN.
+
+Melmond
+¯¯¯¯¯¯¯
+-Pass through the new canal and go northwest to find Melmond by a wharf.
+-Go west and turn south the first chance you got to find a triangular island/
+ mountain. Enter the cave.
+
+Terra Cavern
+¯¯¯¯¯¯¯¯¯¯¯¯
+-B1F: 1975 Gil; Antidote; 795 Gil; Potion; 880 Gil
+-B2F: Coral Sword; Tent; 330 Gil; 5000 Gil; Leather Shield; 575 Gil
+-B3F: Sleeping Bag; Potion; 3400 Gil; 1020 Gil
+-At the final room of B3F, you will fight a Vampire. Defeat him and leave.
+
+Titan's Cave/Sage's Cave
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Go to the northwest and follow the shoreline to the north to some mountains.
+ Another cave lies there.
+-In the Titan's Cave, give the Golem blocking the way the Star Ruby.
+-Go down to find a room with a Mythril Helm, 450 Gil, 620 Gil, and a Great Axe
+-Go up the stairs to the north.
+-In the Sage's Cave, talk to the Sage to get the Earth Rod. 
+-Go back to the Terra Cavern.
+
+Terra Cavern
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Fight your way to B3F and enter the room where you fought the Vampire.
+-Use the Earth Rod on the stone slab to open a path.
+-Go down to B4F.
+-B4F: 3400 Gil; Staff; 1520 Gil; 5450 Gil; 1455 Gil; Mythril Shield; Tent;
+ 1250 Gil
+-B5F: Go to the west and defeat Lich, the Earth Fiend.
+-Re-kindle the Earth Crystal!
+
+Crescent Lake
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Get on the ship and start sailing west.
+-Past the peninsula of Terra Cavern, hang on for a LONG ride to the east,
+ directly east. Once you finally hit land, go down and find two ports. Take
+ the second port (southern) and walk to the west again. Find a town surrounded
+ by a lake.
+-In the Crescent Lake, head to the northern path and go east and south to find
+ a secret ring of Wise Men. Talk to the guy on the second row, right side to
+ receive a Canoe.
+-Use the canoe to ride the river to the north and into the mountains to the
+ west. Go west, north, northeast, north, and west on the upcoming forks to
+ find Mt. Gulg.
+
+Mt. Gulg
+¯¯¯¯¯¯¯¯
+-B1F: None.
+-B2F: 1520 Gil; Mythril Helm; 4150 Gil; Claymore; 750 Gil; 795 Gil; Mythril 
+     Shield; 1455 Gil; Mythril Axe; Potion; Antidote; 1975 Gil; Tent; Potion; 
+     Mythril Helm; Mythril Gloves; 1520 Gil; 1760 Gil. Wow...
+-B3F: None, the stairs are to the east.
+-B4F: None.
+-B5F: Another nothing.
+-B6F: Gold Needle; 2750 Gil; 1760 Gil; 880 Gil; Ice Brand; Flame Shield; 7340
+     Gil; Antidote; 10 Gil; 155 Gil; Cottage; 2000 Gil; Staff; 1250 Gil
+-B7F: Gold Needle; Flame Mail.
+-At the SW corner of B7F, you find Marilith, the Fire Fiend. Defeat her.
+-Light your Fire Crystal up!
+
+Ice Cavern
+¯¯¯¯¯¯¯¯¯¯
+-Go back to your ship and find the next port to the north. Ride the canoe to
+ the west, on a nearby river.
+-On the forks, just follow the path that sticks to the east side of the 
+ mountains. Take the upper path to the west and transport tp the lower path to
+ the cave.
+-B1F: None for now.
+-B2FB: None.
+-B3F: Bah.
+-B2FA: Don't step on the cracks and pick up the Shirt and Flame Sword. Now you
+ can drop through the cracks.
+-B4F: Mythril Gloves, Ice Armor, 7900 Gil, 5454 Gil, 180 Gil, 12350 Gil, 5000
+ Gil, 9900 Gil
+-B1F: Back! Potion, 10000 Gil, 9500 Gil, Sleeping Bag, Ice Shield. Drop down
+ through the crack in the east room.
+-B2FB: Fight the Evil Eye and win. Grab the Levistone afterwards. Drop down a
+ hole and fight all of the way to B1F and leave (use the stairs to leave)
+
+Airship
+¯¯¯¯¯¯¯
+-Ship down to Crescent Lake again.
+-Use your Canoe on the river to the south of the town and go east and south.
+-Get on the desert and use the Levistone to get the Airship!
+
+Citadel of Trials/Dragon Caves
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-YOU DO NOT HAVE TO DO THIS.
+-On your Airship, go to the northeastern continent and find a white castle
+ sitting all alone. Find the closest landing spot, to the northwest. It is a
+ small spot on the very point/edge of the peninsula.
+-Walk around the bay to the Castle.
+-1F: Show the guy your Crown and go to the northwestern room and sit on the
+ throne.
+-2F: You get the Gauntlets here. As for the warps... When you see two warps
+ that you have to choose between for the first time, take the lower one. The
+ next selection will be lower again. After that, pick the left one over the
+ right one. Pick the Gauntlets up before taking the left warp.
+-3F: Healing Staff; Ruby Armlet; Ice Brand; Steel Gloves; Cottage; 7340 Gil;
+ 1455 Gil.
+-At the end of 3F, get the Rat's Tail and beat the guardians, the Zombie
+ Dragons. Step on the throne to warp back.
+-Fly over to the chain of islands to the southwest of the Citadel. The
+ islands should have some holes in them. If you see them, it's the right ones.
+-Get those items that are available to you: 1455 Gil; 2000 Gil; 2750 Gil;
+ 9500 Gil; 160 Gil; 2750 Gil; 1520 Gil; 10 Gil; Cottage; 500 Gil; Tent; Gold
+ Needle; 575 Gil.
+-When you see a long, long hall... follow it to meet Bahamut himself. Show him
+ the Rat's Tail and receive the Class Change!
+
+Gaia/Caravan
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Go to the northwest to find a gray-marked town in the mountains, Gaia.
+-Learn about some kind of a Faerie.
+-Get out of here and fly again!
+-Go to the near east to find a desert. Land on a grassy plain and walk to
+ the isolated/seperated small desert in the northern part. Walk around that
+ place to find the caravan.
+-Buy the Bottled Faerie for 50000 Gil.
+-Go back to Gaia.
+-Go to the west and follow the path to the north and west to find a pond. Use
+ the Faerie on that pond to get Oxyale.
+
+Waterfall Cavern
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Below the Desert where you got the Faerie, find a landing spot by the river/
+ lake and use your canoe to go up the river. Enter the cave on the end.
+-Get the Spellbinder, Ribbon, 13450 Gil, 6400 Gil, 5000 Gil, and Defender
+ from the chests to the southwest. Talk to the weird monster for a Warp Cube.
+
+Onlak
+¯¯¯¯¯
+-The town is to the right of that big desert, over the mountains. You have to
+ find a landing spot by the river and walk through the trees to get there.
+-In Onlak, head straight to the southeast to find a Mermaid guarding a barrel.
+ Show her your Oxyale and she'll let you use the sub.
+-Ride the sub down to the Shrine.
+
+Sunken Shrine
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+-3F: 2000 Gil and 9900 Gil are found here. Take the stairs to the northeast
+ first.
+-4F: Diamond Armor; 20 Gil; Light Axe; Mage's Staff; 12350 Gil.
+-5F: Diamond Armlet; 9000 Gil; 1760 Gil; Antidote; Diamond Shield; 4150 Gil;
+ 5000 Gil; 2750 Gil; 10000 Gil; 10 Gil; Diamond Gloves; Diamond Helm; 
+ Rosetta Stone. 
+-To get the last three items, go to the northwestern corner and find a path
+ that leads to the left. It will lead you to those three items, including the
+ Rosetta Stone, which you have to pick up.
+-Get back to 3F. How you get back is your problem.
+-3F: Take the northwestern stairs.
+-2F: Can't access the items yet.
+-3FC: Meh.
+-4FA: Nothing happening.
+-3FB: 100 Gil; 450 Gil.
+-2F: NOW you can get the items! 7690 Gil; 8135 Gil; Giant's Gloves; 385 Gil;
+ 5450 Gil; 2750 Gil; 7340 Gil; 9900 Gil; Ribbon; Light Axe.
+-1F: Fight Kraken to the northwest! After the victory, you get to re-awaken
+ your water crystal!
+
+Melmond
+¯¯¯¯¯¯¯
+-Fly over to Melmond for a quickie ;)
+-Talk to Dr. Unne on the eastern side.
+-Learn about the Rosetta Stone and he will investigate the Stone.
+-Learn the Lufenian language
+
+Lufenia
+¯¯¯¯¯¯¯
+-Find Lufenia on a inlet/peninsula on the eastern side of the globe. North-
+ east of Pravoca and south of Gaia. 
+-After finding it, fly to the north to a small lake and find a landing spot
+ to the north of the pond.
+-Yep, walk all of the way to the town.
+-In Lufenia, talk to the guy in a block east of you to get a Lufenia Bell.
+-Get out.
+
+Tower of Mirage
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Fly to the northwest of Lufenia to find a desert (not the same one as the
+ Faerie thing)
+-Find a landing spot (southeast side is the best) and walk to the middle of
+ the desert. Enter the Tower of Mirage.
+-1F: Vorpal Sword; Healing Helm; 800 Gil; 3400 Gil; 2750 Gil; Aegis Shield;
+ Tent; 18010 Gil.
+-2F: Cottage; 7600 Gil; Sunblade; 10000 Gil; Dragon Mail; 8135 Gil; 7900
+ Gil; Thor's Hammer; 12350 Gil; 13000 Gil.
+-3F: Defeat the Blue Dragon and step on the portal and use the Warp Cube
+ that you got from the Waterfall Cavern. (if you don't have it... bad boy!)
+
+Flying Fortress
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-1F: Potion; 9900 Gil; 4150 Gil; 7900 Gil; 6720 Gil; Healing Helm; Protect
+ Ring; 180 Gil; 5000 Gil; Venom Blade.
+-2F: Mythril Helm; Cottage; 13000 Gil; 880 Gil; Adamanite; Diamond Gloves;
+ Ribbeon; Diamond Shield; White Robe; Black Robe.
+-3F: 9000 Gil; Potion; Protect Ring; 5450 Gil; Gold Needle; 9500 Gil; 8135
+ Gil; 6400 Gil; Shirt; Protect Cloak; 4150 Gil; Sasuke; Gold Needle; 3400 Gil.
+-4F: Two lefts/rights and two downs to find the stairs.
+-5F: Defeat the guardian, Tiamat!
+-You've lighted up all 4 Crystals!
+
+Temple of Chaos
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-All of the way back in the Temple, enter the same room where you fought
+ Garland. Insert the Crystals to the stone slabs to warp back 2000 years.
+-1F: Take the southeast stairs.
+-2F: Meh.
+-3F: Enter the central room and fight a Death Eye. Kick his ass and get
+ 45000 Gil and 65000 Gil. Use the Lute on the stone in the middle to reveal
+ a path down to 1F:
+-2F: No items.
+-1F: Go to the new stairs down to the basement.
+-B1F: Go to the southeast stairs to fight the first Fiend, Lich.
+-B2F: Protect Cloak; 26000 Gil; Protect Ring; Sasuke. By the stairs, you have
+ to battle the second Fiend, Marilith.
+-B3F: Stairs are to the southeast. Fiend: Kraken.
+-B4F: Get the Masamune and go to the northeastern block. Defeat Tiamat before
+ moving on.
+-B5F: Go around the room to enter a smaller one in the middle. Talk to the
+ guy in the room (Garland) to fight Chaos, the final boss!
+
+Defeat him and you're done!
+==============================================================================
+
+==============================================================================
+3. Final Fantasy II (Yes, TWO!!!)
+-------------------
+ ____|_)             |   ____|           |                     _ _|_ _|
+ |     | __ \   _` | |   |    _` | __ \  __|  _` |  __| |   |    |   | 
+ __|   | |   | (   | |   __| (   | |   | |   (   |\__ \ |   |    |   | 
+_|    _|_|  _|\__,_|_|  _|  \__,_|_|  _|\__|\__,_|____/\__, |  ___|___|
+                                                       ____/           
+------------------------------
+The Beginning of the Rebellion
+------------------------------
+
+Fynn
+¯¯¯¯
+-Watch the opening scene.
+-Lose the battle against the Knights.
+-Get transported to Altair.
+
+Altair
+¯¯¯¯¯¯
+-Talk to Hilda and learn about various stuff. Learn the keyword WILD ROSE.
+-Go north to Fynn.
+-On the way, you see a small town: Gatera. Once there, go west and stick to
+ the shoreline and follow that shore around to the east.
+-Fynn is on the end.
+
+Fynn
+¯¯¯¯
+-Once there (in town), go to the back of the town but don't go too far. One
+ step past the fence is enough. Tip-toe to the right and down, to a pub. 
+-Talk to the guy in the northeast corner and tell him the password: Wild Rose.
+-Enter the secret passage.
+-Talk to the fallen man on bed.
+-Receive his Ring.
+-Go back to Altair.
+
+Altair
+¯¯¯¯¯¯
+-Report to Princess Hilda. Learn the keyword MYTHRIL.
+-Talk to Mindu to recruit him into your party. Receive the Canoe.
+-Talk to the Princess again for the keyword DREADNOUGHT. Ask her about it for
+ yet another one: AIRSHIP.
+-Head north to a lake and use the canoe to get across, to Paloom.
+
+Paloom/Poft
+¯¯¯¯¯¯¯¯¯¯¯
+-In Paloom, talk to the first sailor you see and pay him some Gil to use his 
+ ship.
+-Ride the ship to Poft.
+-Do whatever you like here and leave to the north.
+-Hit the mountain range to the north and travel left to Salamand.
+
+Salamand
+¯¯¯¯¯¯¯¯
+-Learn about the slaves in Semitt Falls. Talk to Josef if you like (east-most
+ house).
+-Get out and walk further to the west. Do not go north, just continue until
+ the mountain range to the south ends. When it does, get on the river that
+ appears and ride it to the east.
+-Enter the cave, the Semitt Falls.
+
+Semitt Falls
+¯¯¯¯¯¯¯¯¯¯¯¯
+-B1F: 10 Gil; 200 Gil.
+-B2F: Eye drops; Potion; Potion. Enter the left door to the northeast.
+-B3F: 1 Gil; 50 Gil. The northwestmost door goes futher down.
+-Save the prisoners!
+-B4F: Fire Scroll.
+-B5F: Warp Scroll. The path down is the door to the left of the entrance.
+-Defeat the Sergeant to get the Mythril!
+-Go back to Altair.
+
+Altair
+¯¯¯¯¯¯
+-Go to the weapon shop and talk to Tobul to give him the Mythril. The shops
+ now have Mythril equipment.
+-Talk to Hilda yet again to receive new information about the Dreadnought.
+-Head to Bafsk, east of Poft.
+
+Bafsk
+¯¯¯¯¯
+-Once in Poft, head east, around the mountains to find Bafsk.
+-Go to the southwest and find a man blocking a path. He is an agent so ask him
+ about Dreadnought. He will let you pass.
+-Enter the cave.
+
+Bafsk Cave
+¯¯¯¯¯¯¯¯¯¯
+-B1F: Long Sword; Longbow.
+-B2F: None, just watch as the Dreadnought takes off.
+-At the fork, go right to find a door leading to a room with a Pass and a 
+ warp.
+-Before going back to Altair, talk to Cid to learn a new keyword: SUNFIRE.
+
+Altair
+¯¯¯¯¯¯
+-Yep, talk to Hilda. Learn this keyword: GODDESS'S BELL. Learn about the
+ Egil's Torch, Kai'son. Ask Hilda about the Bell and she directs you to Josef,
+ in Salamand.
+
+
+---------------------
+Getting the Snowcraft
+---------------------
+
+Salamand/Semitt Falls
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Go to the right side and enter the house of Josef.
+-Recruit him.
+-Walk to the west and ride the river to Semitt Falls again.
+-Click on the northeastern wall on the same area as the blue gem to reveal a
+ hidden passage.
+-Take the Snowcraft and get out.
+
+Snow Cavern
+¯¯¯¯¯¯¯¯¯¯¯
+-Go west of Salamand and go north to find an entrance to the snowfield. Use
+ your Snowcraft to get across.
+-Find the Snow Cavern on the extreme end.
+-B1F: 100 Gil; 150 Gil.
+-B2F: (accessed by other staircase) Mythril Mace; Antidote; Battle Axe.
+-B3F: Notus.
+-B4F: Potion; Ice Scroll; Mythril Spear; Potion.
+-B5F: Mythril Shield; Ancient Sword.
+-At the room with the beavers (or whatever), talk to the only beaver standing
+ on ground for a scene including Gus. Go to the northeast wall and face east
+ to find a secret passage.
+-Continue and get the Silver Plate. Defeat Adamantoise to get the Goddess's
+ Bell.
+-Go up the stairs to B1F.
+-Defeat Borghen.
+
+Castle Kai'son
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Go back to Salamand/Poft to heal if needed.
+-Two ways to Kai'son: talk to Cid's assistant for a ride (400 Gil) to Kai'son
+ OR walk southeast (long walk) from Bafsk.
+-Once in the Castle Kai'son, use the Bell to open the sealed door in 1F.
+-2F: Recruit your newest member, Gordon!
+-1F: Cure Scroll.
+-3F: 300 Gil.
+-4F: Gold Shield.
+-5F: Mythril Axe, Werebane, Mythril Sword in the central-northern door.
+-6F: Golden Mail; Mallet; Antidote; Eye Drops.
+-At the final room, fight Shriker for the rights of the Egil's Torch.
+-Go back to 1F and use the Torch on the Sunfire.
+
+
+-----------
+Dreadnought
+-----------
+
+Altair
+¯¯¯¯¯¯
+-Back at your home base, you see that the Princess is missing. Go to the
+ upper right room to find King in his bed. Talk to Mindu about Dreadnought.
+-Talk to the townspeople about the Dreadnought's landing spot if you like.
+-Go north, past Fynn.
+-Continue all of the way until you find the airship.
+
+Dreadnought
+¯¯¯¯¯¯¯¯¯¯¯
+-Either give the guard the Pass to go through freely or tell him the pass-
+ word to fight him.
+-1F: 400 Gil. The stairs in the middle leads to Crescent, a sword. To get it,
+ go through a secret passage in the east wall (of the cell).
+-Back at 1F, take the northeast stairs to get those items: Shade Bow; Thief's
+ Gloves; Potion; Potion.
+-1F again: southeast stairs.
+-2F: Nothing.
+-3F: Main Gauche; Trident; Ice Shield; Titan's Helm.
+-2F: Nope.
+-4F: Maze like... just avoid the guards and you should eventually find the 
+ next staircase.
+-Throw the Torch and the fire into the engine!
+
+
+--------------
+The Wind Drake
+--------------
+
+Altair/Paloom
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Not again. Go to the King and learn about the Wind Drake and the Dragoons.
+ Your next mission is to get the Dragoons' aid for the war.
+-Go to the throne room and talk to Gordon to learn those keywords: DRAGOON and
+ WIND DRAKE.
+-Go to Paloom again. Talk to the first lady you see for a ride to Deist.
+-Go outside and get on her ship, to the northeast.
+-After a while, the ship stops and you have to fight a bunch of pirates. Kill
+ them all and recruit Leila into your party!
+-Use the ship to get to the island of Deist, which is directly east of Bafsk
+ and Poft (use the world map: Circle + Select)
+
+Deist Castle
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Talk to the lone boy in the castle to make him go for his mommy, literally.
+-Before doing anything in the castle, you should look around to get those 
+ items: Eye Drops; Antidote; Cross; Mallet; Wing Blade; Saint's Spirit; 
+ Sage's Wisdom; Gold Needle; Stop Scroll; Stun Scroll; Curse Scroll; Unicorn 
+ Horn; Phoenix Down; Cottage. Yep, a lot!
+-Talk to the mother of the boy to learn how to communicate with the Wind 
+ Drakes. 
+-Go outside and walk to the north to find a cave.
+
+Deist Cavern
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Just go right, to the northeast and find a stairs leading down. Get the 
+ Pendant from a Dragoon.
+-Go back to the Castle again.
+
+Deist Castle
+¯¯¯¯¯¯¯¯¯¯¯¯
+-Talk to the Wind Drake, since you have the Pendant now.
+-He gives you the last Dragon Egg and requests you to lay the egg into the
+ spring at the bottom of the cave.
+-Of course, go back to the cave AGAIN.
+
+Deist Cavern
+¯¯¯¯¯¯¯¯¯¯¯¯
+-B1F: 30 Gil. Go to the southwestern stairs first if you want all of the
+ items. Then after you've gotten all items you can possibly get, go back to
+ 1F again and take the southeastern one. I will signal if the item if it is
+ found by the SW stairs or SE stairs.
+-B2F: Potion (SW); Mythril helm (SE); Mythril Mail (SE); Mage's Staff (SE).
+-B3F: DO NOT CROSS THE BRIDGE!!! Mythril Gloves (SE); Mythril Mirror (SE);
+ Mythril Shield (SE).
+-B4F: Acid Bottle.
+-B5F: Sage's Wisdom; Flame Bow; Saint's Spirit; Knight's Armor (all SW).
+-Take the second door from right to face a squad of Chimeras. Defeat them all
+ to pave the way to the spring. Put the Egg into the spring.
+
+Altair
+¯¯¯¯¯¯
+-Go into the southeastern room to find Hilda in her bed.
+-After a short conversation, you will fight Queen Lamia, the false version of
+ Hilda. Make her pay.
+-Gordon and one of his soldiers comes in, telling you about Palamecia and its
+ reward: Hilda.
+-In the main room, learn about Palamecia's location: south of Kai'son.
+
+
+------------
+Saving Hilda
+------------
+
+Palamecia/Coliseum
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Find a good landing spot by the desert. 
+-Walk all of the way to Palamecia.
+-In the Coliseum, go up to the Emperor and get trapped.
+-Fight and defeat Behemoth.
+-Get captured.
+-Watch as Pavel saves your sorry ass from prison.
+-B2F: Antidote; Ether; Elixir; Cottage.
+-B1F: Save Hilda!
+-1F: Just get out.
+
+Altair (this is the last time, I guarantee this! yay!)
+¯¯¯¯¯¯
+-Talk to the lone soldier to learn about the secret base by Gatera, to attempt
+ to throw the Commander's reign of Fynn.
+-Go north, to Gatera. Go a bit left of Gatera to find a small secret base.
+-Talk to Gordon to get another mission: to eliminate the Commander.
+-Go into the Castle Fynn!
+
+Castle Fynn
+¯¯¯¯¯¯¯¯¯¯¯
+-I recommmend you to go straight ahead every time to the boss and win then go
+ back for the chests because after the victory, there's no monster encounters!
+ But anyway... here's the items.
+-1F: Get Leila back! Items: 1000 Gil; 2000 Gil; 1000 Gil.
+-2F: Aura Scroll; Werebane; Potion; Titan's Gloves.
+-3F: Break Scroll; Doom Scroll; Toad Scroll.
+-Go to the top floor and face the Commander! KILL HIM AND WIN!
+-Watch as Hilda and Gordon gets their thrones back.
+-Talk to them several times to learn the following keywords: MYSIDIA, MASK,
+ EKMET TELOEZ, and ULTIMA SCROLL.
+-Enter the town of Fynn and go to the southwestern house, Pavel's house.
+-Talk to Pavel about the White Mask. Tell him the password (EKMET TELOEZ) The
+ secret path is in the northeast corner in the thron room.
+-Go back to the throne room in the castle again. Examine the upper right
+ corner to discover a secret path.
+-On 1F, exmaine the east wall for a secret path to a GOLDEN MAIL, GOLD SHIELD,
+ and a GOLD PLATE.
+
+Fynn Castle (Underground)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-B1F: Knife; Shirt; Eye Drops.
+-B2F: Potion; Potion; Maiden's Kiss.
+-B3F: Potion; Flame Shield; Silk Web.
+-B4F: Blood Sword; Flame Mail; Backstabber.
+-B5F: Orichaldagger.
+-Go to the upper right corner and enter the second door from right to find a
+ secret room.
+-Just take the unguarded White Mask and step onto the portal!
+
+
+---------
+The Masks
+---------
+
+Mysidia
+¯¯¯¯¯¯¯
+-You should have learned about Mysidia from Hilda. If not, talk to her about
+ this.
+-Get on your ship and go south of Altair. Land to the right of the mountain
+ range that borders the sea. Walk to the southwest to Mysidia.
+-Go to the bottom part of the town to find a set of stairs going down.
+-Place the White Mask on the statue.
+-That's all for this town (don't forget the magic shop!).
+-You have to get the Black Mask, in the Tropical Island. Bring your Map up
+ (Circle + Select) and look for the lone island out in the sea (southern
+ part). That's the Tropical Island. Get on your ship and go there.
+
+Tropical Island
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-This place has several branching paths so make sure you check them all.
+-B1F: Eye Drops; Ether; Hi-Potion; Hi-Potion; Silk Web.
+-B2F: Blind Scroll; Poison Scroll; Blind Scroll; Poison Scroll; Slumber Stalk.
+-B3F: Silk Web; Garlic; Phoenix Down.
+-B4F: 1000 Gil.
+-B5F: Sleep Scroll; Thantos; Gaia Drum; Slumber Stalk. Enter the door.
+-Fight the Gigan Rhino and pick the Black Mask up.
+
+Mysidian Cave
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+-From Mysidia, go right along the mountains until you find a break. Go 
+ southwest when this happens and you should eventually find the cave.
+-From the Tropical Island, just go northwest and find a landing spot. Walk to
+ the west, between two mountain ranges. 
+-If from elsewhere, it is southeast of Mysidia.
+-B1F: Ninja Suit; Gold Hairpin. Use the Black Mask on the doppleganger to make
+ him disappear.
+-B2F: Ice Bow (hidden passage on the east wall of that alcove); Ogrekiller.
+ The door is located left of the middle of the room.
+-B3F: Potion; Phoenix Down; Mute Bell; Gold Needle (middle door). SE door goes
+ down.
+-B4F: Drain Scroll; Mini Scroll; Potion; Potion; Potion; Potion. The hidden
+ passage to 5 of the items is on the east wall.
+-Go to the northwest to find a door to those items: Drain Scroll; Osmose
+ Scroll AND... the Crystal Rod, of course!
+
+
+-----------------
+The Ultima Scroll (Mysidian Tower)
+-----------------
+
+Leviathan
+¯¯¯¯¯¯¯¯¯
+-Heal up or whatever beforehand.
+-Go north of Mysidia (SW of Altair) to find a small crescent-shaped island.
+-Go into the ring and you will get sucked down and lose Leila!
+-Intestines: Headband; Power Sash.
+-Stomach: Power Armlet. Recruit the Dragoon, Gareth by showing him the Crystal
+ Rod!
+-Mouth: Diamond Shield; Terra Sword. Defeat the boss, Barrel Worm to claim the
+ ship again!
+
+Mysidian Tower
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-Go north of Leviathan to find a Tower. Use the Rod to enter.
+-1F: Staff; Staff; Staff. White Robe: secret passage on the west wall.
+-2F: Flame Bow; Flame Lance; Flame Shield.
+-3F: Enter the left door to get to the upper part. Flame Sword; Flame Mail;
+ Flame Helm are all here.
+-Defeat the Fire Gigas to move on.
+-4F: Ice Mail; Ice Shield; Ice Gloves. The left stairs leads to an Ice Lance.
+ Take the right one to go up to 5F.
+-5F: Ice Brand.
+-Ice Gigas! Burn his cold ass.
+-6F: Potion; Spellbinder.
+-7F: Silk Web; Hermes; Unicorn Horn.
+-One more Gigas: Thunder.
+-8F: Flare Scroll.
+-9F: Hourglass; Cross; Black Robe (guarded by White Dragon).
+-Still on 9F, take the second door from left to find Mindu.
+-Watch as Mindu breaks the seal to the scroll for you.
+-Take the upgrade orbs BEFORE getting the Ultima Scroll (the middle one)!
+
+
+-------
+Cyclone
+-------
+
+Castle Fynn
+¯¯¯¯¯¯¯¯¯¯¯
+-Talk to Hilda to learn a new Keyword: CYCLONE. Ask Leila and Hilda about that
+ and they explain to you that the Emperor is indeed in the tornado. 
+-Go to 3F via the SW stairs in 1F and find the mirror. Click on the Pendant to
+ bring up the Wind Drake! Looks like that Egg had some use after all...
+-Go back to pavel's house and tell him about the Cyclone and he will tell you
+ the whereabouts of his treasures. Take them all, including the Blood Sword!
+-Go to the Cyclone and the Wind Drake will bring you into the dungeon.
+
+Cyclone
+¯¯¯¯¯¯¯
+-1F: Nope.
+-2F: Ripper.
+-3F: Venom Axe.
+-4F: Diamond Gloves; Diamond Helm.
+-5F: Defender; Diamond Mail.
+-6F: Zephyr's Flute (guarded by a Green Dragon).
+-Go up and up and face the Emperor, at last! Fight two squads of Royal Guards
+ as a warm-up and fight the Emperor, two Guards, and a Wood Golem for the 
+ boss battle!
+-Celebrate with a uber-lame dance... yay.
+-Leon has over-taken the position as the Emperor in Palamecia!
+
+Fynn
+¯¯¯¯
+-Learn the keyword PALAMECIA from Hilda.
+-Go to Pavel's house again and ask him how to go to Palamecia.
+-Talk to Cid in Pavel's House to get his Airship!!!
+-Go to Poft to claim the Airship!
+-Fly over to Palamecia (same place as before-Coliseum).
+-Instead of landing on land, land on the top of the Castle in the mountains.
+
+Castle Palamecia
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+-You land on 7F but you have to go back to 1F via the door above, sorry! :(
+-1F: Diamond Plate; Garlic. Take the first stairs you see to get a Hourglass.
+-2F: Knife; Buckler.
+-3F: Thunder Spear.
+-4F: Saint's Spirit; Slumber Stalk. In the door in SW: Mage's Staff; Healing
+ Staff; Spellbinder.
+-5F: The stairs to the left goes to a Sunblade on 6F and 3 Elixirs on 7F.
+ Take the other stairs here on 5F after you get those items.
+-6F: Just shoo to 7F.
+-7F: Back up!
+-8F: Go to the NW corner forst for a Hellfire and a Zephyr's Flute. Confront
+ Leon and watch the show.
+
+Fynn Castle
+¯¯¯¯¯¯¯¯¯¯¯
+-Talk to Hilda to learn about JADE PASSAGE. Ask Leila and Gordon about it and
+ learn about its location, which is on the same continent as Mysidia.
+-Level up, buy whatever, do whatever and go to the NE corern of the southern
+ continent to find a black lake. Walk to it to get sucked into the Jade 
+ Passage.
+
+
+-------------
+The Final Run
+-------------
+
+Jade Passage
+¯¯¯¯¯¯¯¯¯¯¯¯
+-B1F: Diamond Mace; Hellfire. Door: SE corner.
+-B2F: Hellfire; Notus; Cat Claw (guarded by Blue Dragon. Door: NE corner.
+-B3F: Rune Axe (guarded by King Behemoth). Door: SE corner.
+-B4F: Backstabber; Aegis Shield; Dragon Mail; Holy Lance (north door);
+ Yoichi's Bow (guarded by Red Dragon). Door: SE.
+-B5F: Hi-Potion; Protect Ring; Hi-Potion. Door: at the end of the path.
+-B6F: Ta-da! Onward to the Pandaemonium!
+
+Pandaemonium
+¯¯¯¯¯¯¯¯¯¯¯¯
+-1F: Nothing really.
+-2F: Ether.
+-3F: Eye Drops.
+-4F: Four doors here... 
+-LEFT DOOR: Genji Gloves to the NW, guarded by Zombie Borghen. Go to the
+ NE corner and examine the east wall to find a passage to a Masamune, THE
+ BEST SWORD!
+-SECOND FROM LEFT: Genji Helm (guarded by Tiamat).
+-SECOND FROM RIGHT: Do this one last if you want all of the items. It has
+ the next portal and a chest guarded by Astaroth: Ribbon.
+-RIGHT: Genji Armor, Beelzebub is the guardian.
+-Take the second door from right and continue until you find the portal back
+ to 4F.
+-4F: Just take the next portal, that's all.
+-7F: Sage's Wisdom.
+-8F: Acid Bottle; Hellfire.
+-9F: Two rights/lefts and two down=next portal.
+-10F: BOO! Heal and save for the FINAL BOSS! HYA!!!!!!!!!!!!!
+
+Don't forget to save afterwards!
+
+==============================================================================
+
+
+5. DISCLAIMER/THANKS: This guide can only be used and viewed at www.ign.com and
+www.gamefaqs.com. This guide is intended for private use only so don't go off
+running and selling this guide. You won't make any money off this anyway! :P
+If you post this guide on your website without my permission, I'll punch you
+in the face and throw you into a shark-infested pool. 
+
+Thanks to: 
+
+-(insert name/company whom you thought was going to be here) - OMG THIS GUY
+ IZ TEH BEST!11 LOLOL 
+
+-you? Tell me if you think this guide needs some changes and I'll credit you
+ if you do help me.
+
+
+                              ________) _____ __     __) 
+                             (, /      (, /  (, /|  /    
+                               /___,     /     / | /     
+                            ) /      ___/__ ) /  |/      
+                           (_/     (__ /   (_/   '                           
+                              
+
+Copyright Martin Dale-Hench 2003

@@ -1,0 +1,71 @@
+- Maranda: cactrice
+- Colisseu: Rename Card -> Miracle Shoes
+Imp Halberd --> Cat Hood --> Merit Award --> Rename Card --> Marvel Shoes
+
+Aquila: Fenix cave, Economizer
+
+warrior setzer fixed dice
+
+Titanium from a Tumbleweed and and a Totoise Shield from a Geckorex
+
+
+
+	*(WOR)Go to Doma Castle and fight with only 1 or 2 characters that 
+	 are Vanished. Equip the Exp.Egg and up to 20000 EP can be acquired
+	 EVERY SINGLE FIGHT! Beware the Tumbleweeds, they cast LifeShaver!
+
+	*For easy Magic Levels, find a tiny desert southwest of Thamasa, it
+	 contains Cactrot (10 MP) and Hoover (5 MP).
+	
+	*For lots of money quick, fight LeapFrogs in the forest above 
+	 Thamasa... they give an average of 24000 GP each fight!
+
+	*Steal unlimited Muscle Belts from Borras in Mnt. Zozo.
+
+Soul Sabre   - statue in treasure room, engine area of Figaro 
+               Castle.
+Drainer      - chest in falling house, Tzen.
+Illumina     - wager the Ragnarok Sword at Collosseum. Only if 
+               you took the sword.
+Tiger Fangs  - hidden room, Veldt Cave.
+Imp Halberd  - win from Tyrannosaur.
+Imp Armor    - steal from Tyrannosaur.
+Marvel Shoes - wager Rename Card at Coliseum.
+Merit Award  - wager Cat Hood at Coliseum.
+
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+World           : World of Ruin
+Name            : Tumbleweed
+Level           : 55
+HP              : 6200
+MP              : 600
+Weakness        : Fire
+GP              : 1333
+EXP             : 2554
+Steal           : Titanium Armor
+Item Won        : ----
+Location        : Doma Castle Area
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+World           : World of Ruin
+Name            : Geckorex
+Level           : 54
+HP              : 5000
+MP              : 1020
+Weakness        : Ice
+GP              : 1120
+EXP             : 2400
+Steal           : Tortoise Shield
+Item Won        : Tortoise Shield
+Location        : Zozo Area
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------

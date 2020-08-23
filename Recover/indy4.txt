@@ -1,0 +1,426 @@
+                                  [Image]
+
+                   Indiana Jones and the Fate of Atlantis
+
+                                  [Image]
+
+About Hal Barwood :
+
+It can have 9000 Hal, but there is only one Barwood (ahahah!). Hal Barwood
+is a ("former") USC Student, where he met George Lucas. He worked on the
+opticals of THX 1138 movie release and then began his career in the movie
+business. He is (among other things) the producer and writer of
+DragonSlayer (1981) and Corvette Summer (1978), the director and writer of
+Warning Sign (1985) and the writer of The Sugarland Express (1974). He even
+play in Close Encounters of the Third Kind (1977) !
+
+He is credited in Full Throttle, The Dig and others Lucasarts Games and is
+the project leader of Indiana Jones and the Fate of Atlantis, the director
+of Rebel Assault II movie footage and the project leader of Indiana Jones :
+The DeskTop Adventure.
+
+He is now working on top-secret LucasArts stuff.
+
+The Walkthrough :
+
+Indy 4 -- Fate of Atlantis Walkthrough for All 3 Modes
+
+by Allen Li, Gerhard Woeginger (gwoeging@iaik.tu-graz.ac.at) and team.
+
+Team Mode: by Gerhard J. Woeginger
+Wits Mode: by Allen Li
+Fists Mode: by Terence P. Spielmanand and Allen Li
+
+(A#) -- Alternative Solution
+
+PART 1 (New York, Iceland, Tikali, Azores, College)
+
+NEW YORK
+
+Take the newspaper.(A1) find your way through the crates on the backside of
+the building (pushcrates) and use the fire escape.(A2) talk to doorman,
+"smart", "easy to understand".(A3) Fight doorman. Give the paper to the
+stagehand, push the right and left lever and press the button. Talk to
+Sophia and leave together with her for Iceland.
+
+ICELAND
+
+Talk to Heimdall; he tells you about Tikali and the Azores.
+
+TIKAL
+
+Hit the jungle rodent several times with the whip, until it runs to the
+snake; use the tree. Talk to Sternhart until he asks you the name of
+Plato's lost dialogue. Tell him that you do not know the title. Then talk
+to the parrot, ask him "Title?" and talk again to Sternhart. Inside the
+pyramide, ask Sophia to keep Sternhart occupied. Go outside, take the lamp
+and open it. Use the lamp to get the spiral design in the pyramide. Then
+use the design with the animal head, pull it and open the grave. Sternhart
+gets away with the disk. Take the bead and return to Iceland.
+
+ICELAND
+
+Use the bead in the eel's mouth; take the eel.
+
+AZORES
+
+Let Sophia first talk to Costa. Then trade him the eel for theknowledge of
+the position of the lost dialogue.
+
+COLLEGE
+
+There are three possibilities to find the collection (changesfrom game to
+game). (Case 1) Take the gum from the desk in the library, use it with the
+coal chute in the furnace room. Take the wax cat figurine and melt it in
+the furnace. (Case 2) Get the rag in the furnace room and the arrowhead in
+the room with the totempole. Use the rag with the arrowhead to produce a
+screwdriver and open the bookcase in the library. (Case 3) Use the jar from
+the refrigerator in the office with the totempole. Pull the totempole under
+the hole in the ceiling and climb up. Open the urn and take the key. Push
+the crate in the totempole-room and open the chest behind it. Talk to
+Sophia in the office and choose one of the three paths -- team, wits, and
+fists.
+
+PATH 1 -- TEAM MODE
+
+PART 2 (Algier, Monte Carlo)
+
+ALGIER
+
+Go to the shopkeeper in the back alley and take the mask. Talk to the man
+with the knives. Convince Sophia to volunteer for him and push her as she
+hesitates. You will receive a knife this way.
+
+MONTE CARLO
+
+Talk to several people and ask them about Trottier. Sooner or later you
+will meet him (a man in a brown suit). Talk to him in a very polite and
+humble way till he is willing to take part in the seance. (A1:indy) During
+the seance take the flashlight from the cabinet and the bedsheet. Open the
+fuse box and use the circuit breaker. Wear the bedsheet, the mask and the
+flashlight to produce a reasonable ghost. (A2:sophia) When indy talk to
+Trottier outside, take notes on what he said (they varied from game to
+game). After entering the room, transfer control to sophia. Demand proof.
+Answer three questions as Trottier just said. Answer a random number.(may
+need several save-and-restore here) This solution does not require the
+mask. Afterwards take the sunstone.
+
+ALGIER
+
+Talk again to the shopkeeper and show him the sunstone. He will give you a
+map and a couple of camels; your first visit to the desert fails. Next you
+have to trade several things with the shopkeeper and with the grocer; the
+final goal is to get the squab-on-a-stick for the mask. Give the squab to
+the beggar and receive a balloon ticket. Go to the roof, enter the balloon
+and cut the rope with the knife.
+
+PART 3 (Desert)
+
+BALLOON RIDE
+
+A kind of arcade game, since the up and down movements are coupled with
+movement in clockwise and counterclockwise directions. You will find out
+about this. You must land several times and ask nomades for the way to the
+X.
+
+DIG SITE
+
+Sophia disappears into the hole. Climb down the ladder into the dark room,
+and get everything you can get: Sharp wood thing (ship rib), long tubular
+thing (hose), blunt wood thing (peg), clay thing (clay jar). At the truck
+you use the hose with the opened gas tank and the clay jar with the hose;
+this fills the jar with gas. Go back to the dark room, open the metal cap
+and pour the gas-filled jar into the gas filler pipe. Push the little metal
+thing to turn on the generator. Then dig the crumbling wall with the ship
+rib, put the peg into the mural and put the sunstone on the peg. Look at
+the sunstone: the lost dialogue tells to align "darkness" with the "horns";
+do this and press the peg to open a secret door. Sophia comes out and gives
+you a distributor cap and a fish-on-a-string. Turn off the generator, open
+it and take the spark plug. Put the distributor cap and the spark plug into
+the truck's engine. Leave for Crete.
+
+PART 4 (Crete)
+
+RUINS
+
+First find the surveyor's instrument and take it. Pick up allstones around
+the tall horns; you will detect two statues (bull's head andtail). In one
+of the entrances, there is a mural diagram with a bull'shead, horns and
+tail. According to this, put the surveyor's instrument onthe head statue
+and look through it to the left horn. Then put it on thetail statue and
+look at the right horn. This gives you an X. Dig at the X with the ship rib
+and find the moonstone. Go to the stone pedestal and usethe sun- and the
+moonstone with it. Align the disks according to the lostdialogue (changes
+from game to game), press the spindle and detect a secretdoor in the wall.
+
+CAVES
+
+Pick up two of the three stone heads. Go through the door andget the third
+head with your whip. Find the room with the tall Minotaurstatue. Use the
+whip with its head, and then stand to the left of the bighead. The elevator
+takes you down to the dead Sternhart. Take theworldstone and the staff.
+Examine the waterfall and use the chain hiddenbehind it. Then find the room
+with the shelf and the closed door; open the door by putting the three
+stone heads onto the shelf. Go through the door and do three things. First,
+use the staff with the chock to free thecounterweight. Secondly, use the
+staff in the statue's mouth to start theelevator. Thirdly, take the golden
+box, open it, put the two beads into itand close it again. Return to Sophia
+and enter the next room. Convince Sophia to let you boost her through the
+hole in order to open the gate. In the next room use he fish-on-a-string.
+It will point to Sophia's necklace. Talk to Sophiaand make her put the
+necklace into the golden box. Walk through all roomsand use the
+fish-on-a-string. Somewhere it will point to the wall; dig this wall with
+the rib and open the door behind. Use all three disks with the spindle
+according to the lost dialogue. The Germans will kidnap Sophia and steal
+the disks. Dig the rocks with the rib and return to the surface.
+
+PART 5 (Submarine)
+
+Open the hatch, fight against the captain and enter the submarine. Usethe
+intercom to order "All hands to the bow". Go to the lower deck, takethe mug
+of porcelain and fill it with battery acid. Talk to Sophia from the left
+neighboring room through the window in the wall and ask her to distract the
+guard. Free Sophia and open the strong box with the help of the acid.
+Inside the box you find the three disks and a tiny key. Get the plunger.
+Unlock the emergency rudder control with the tiny key, break the lever in
+the conning tower and repair it with the plunger. Steer the submarine into
+the airlock (another fine(?) arcade game).
+
+PART 6 (Atlantis)
+
+ENTRANCE
+
+Find the wooden thing (ladder) in the dark and use it at the stone rubble.
+Sophia is kidnapped by the Germans again. Climb the ladder,open the stone
+thing and take the rod. Put a bead into the rod and lightthe room. Use the
+disks with the spindle according to the lost dialogue,but with north and
+south reversed (as "entrance is yielded only to contraryminds"). The
+statue's mouth will open, and you feed a bead into it. Thedoor opens, you
+take the ladder and the three disks. Enter Atlantis.The exact position of
+the interesting rooms in Atlantis changes from game to game. Explore all
+shaded places (marked by a questionmark), open and enter all grates. You
+must detect the following rooms and items.
+
+ROOM WITH ROBOT
+
+PARTS 1
+
+Take the bronze gear attached to the wall.
+
+ROOM WITH ROBOT
+
+PARTS 2
+
+Take the bronze spoked wheel lying in the ROOM WITH EEL-FIGURINE: Get the
+eel-figurine from the cupboard.
+
+SUBWAY
+
+At the most southern point, in the outer cycle. Take the ribcage from the
+skeleton.
+
+HALLWAY
+
+Fight against one of the German stooges (and defeat him). Youwill get a
+bratwurst. Bait the rip cage with the bratwurst (in case youtook the
+sandwich from the kitchen in the submarine, you may bait the cagewith the
+sandwich).
+
+CRAB ROOM
+
+Use the baited rip cage in the pool to catch a crab.
+
+STATUE ROOM 1
+
+Contains a statue that looks like a cross between a bulland a fish. Take
+the statue's head.
+
+STATUE ROOM 2
+
+Contains a large statue holding a cup. Use the ladder to cross the hole in
+the floor. Take the stone cup. Don't forget to take the ladder before
+leaving.
+
+LAVA ROOM
+
+Use the stone cup with the pedestal. Use the statue's headwith the plaque.
+This gives you a mug full of lava.
+
+MACHINE ROOM
+
+Repair the machine by putting the bronze spoked wheel onto the peg. Fill
+the mug with lava into the funnel. Take the produced beads and take the
+bronze spoked wheel before leaving.
+
+PRISON ROOM
+
+In the room where Sophia is kept imprisoned there are twovents, one on the
+left side and one in the middle.The interesting vent isthe left one. From
+there you can put a bead into the sentry statue; it will start moving, kill
+the German and destroy itself.
+
+SENTRY ROOM
+
+Contains three statues and a pool. To get rid of the water you put a bead
+into the eel. Then put a bead into the smallest statue's mouth. The door
+will open
+
+PRISON ROOM
+
+Take the statue part from the destroyed statue. In orderto free Sophia, you
+have to enter the canal system.
+
+PART 7 (The inner cycle)
+
+CANAL
+
+Feed the crab to the octopus. Enter the canal, go to the otherside and put
+a bead into the crab mouth. The crab raft will start to float.Float to the
+left side, open the gates with the sun-, moon- or worldstone.There are only
+two interesting places in the canal system. One contains acupboard with a
+crescent shaped gear. Take the gear, close the cupboard and look at it. You
+see a diagram with several wheels and moving arms. The other interseting
+place contains the large bronze statue and the chain. Use the ladder with
+the statue and open the chest plate. Look at the chestplate; you have to
+put the bronze gear, the bronze wheel, the statue partand the crescent gear
+into the right places, as described by the diagram on the cupboard (the
+wheel and the statue part belong onto the central peg). Make that the
+statue moves the right arm. Then fasten the chain to thestatue arm and to
+the bronze loop. Make the statue to move its right armback. The chain will
+break the door and a hinge pin comes off. Take thehinge pin and return to
+Sophia.
+
+PRISON
+
+Give the hinge pin to Sophia. Open the cage. Sophia uses thepin and gets
+free. Open the cage a second time to get the pin.
+
+CANAL
+
+Finally, you enter the inner cycle of Atlantis through the broken door.
+Sophia is getting crazy and leads you to a room with a lava pit. Look at
+Sophia, feed a bead to her necklace and use the box with thenecklace. You
+get rid of Nur-Ab-Sal in the lava pit. Pick up the scepter(near the
+skeletons). In the hall and near the hulking machine you see twoAtlantean
+graffittis: One shows the lever positions to start the hulkingmachine
+(upward arrow), the other shows how to stop it. Use the hinge pinand the
+sceptre as levers in two slots. Feed a bead to the mouth.
+
+VOLCANIC AREA
+
+Cross the area by trial and error. In the background,you see a picture of
+three cocentric cycles: This picture encodes thepositions of noon sun
+(sundisk), of full moon (moondisk) and of the volcano(worlddisk). In the
+central room with the frog statue and the spindle,align the three disks
+according to this picture. Now the Germans appear again. The first German
+is no problem, he will kill himself. Tell the second German that you are
+going to kill him as soon as you are a god. Thus you get rid of him, too,
+and finish the game.
+
+PATH 2 -- WITS MODE PART 2 (Algier, Monte Carlo)
+
+MONTE CARLO
+
+Talk to Trottier and get his business card.
+
+ALGIER
+
+Go to the servant in the back alley and give him the business card. Talk to
+the man with red fez: nice fez, quite a hat, stick in the eye, festive,
+well, thanks. You got a fez. Give it to the servant. When he ask why,
+answer that the fez can make him tall. Talk to him to see Omar. Follow him
+to the Omar's house(may need to repeat the job several times). Enter
+closet. Close closet door to trap Omar. Pick up bamboo. Use bamboo stick on
+cloth to get map. Pick up statues. Ride camel to dig site. If got stoped by
+officers, use the statues to bribe them.
+
+PART 3 (Desert)
+
+DIG SITE
+
+Use clay jar and hose to get gas. Switch generator on. Use ship rib on
+crumped wall. Push painting of round object. Get statue. Use orichalcum in
+statue. Use statue as battery. Get note inside truck. Start truck.
+
+MONTE CARLO
+
+Talk to trottier and tell him he is on trouble. Nazis will take him. Try to
+intercept the car. Find the sign. Open drain and get sunstone.
+
+PART 4 (Island Thera)
+
+One of three places (cleft, gap, and notch) in mountain will lead to an
+entrance. Out side the entrance, close the crate and get invoice. Inside
+you will find an entrenching tool. Close the door near the tool. Use
+sunstone to get carved sign. Open tool to dig a way out the cave. Return to
+port, show invoice to get the gas bag for balloon. Use sign to exchange the
+large basket. Use them with fish net and hose to built a balloon. Go to
+mountains, use vent to inflate the balloon. Learn how to manuver the
+balloon and land it on the sub.
+
+PART 5 (Submarine)
+
+Use bread and cold cuts to make a sandwich. Give sandwich to guard. Open
+locker to get moonstone and torpedo instructions. Pick up rag and
+clothesline. Go to torpedo room at the aft section. Use rag with wires. Use
+instructions with control panel. Push lever to cause fire. Go to the
+torpedo room at the front section. Use instructions with control panel. Use
+clothesline with lever. Enter torpedo tube. Pull line.
+
+CRETE
+
+Use sunstone and moonstone to open the door. Search rooms and find a wool
+scarf and a comb. Use them as a orichalcum detector. Find worldstone and
+some orichalcum beads. See hints from team mode if needed. Find microtaur.
+Use statue in machine. Feed a bead to the statue. You will get to the map
+room. Use three stones to open the door. Use the home-made detector to find
+another beads and a secret door at the next two rooms. Entering the secret
+door, you will find a bead and a subway car. Feed the car with the bead.
+O.K. Now you are at Atlantis. All three modes converges here.
+
+PATH 3 -- FISTS MODE PART 2 (Algier, Monte Carlo)
+
+MONTE CARLO
+
+Talk to Trottier and get his business card.
+
+ALGIER
+
+Go to the servant in the back alley and give him the business card. Talk to
+him to see Omar. Follow him to the Omar's house. Beat the Nazi. Pick up
+bamboo. Use bamboo stick on cloth to get map. Pick up statues. Ride camel
+to dig site. If got stoped by officers, use the statues to bribe them.
+
+PART 3 (Desert)
+
+DIG SITE
+
+Switch generator on. Use ship rib on crumped wall. Look at the painting on
+the left wall. Push the round object on the painting. Get sunstone. Use it
+with wood peg on wall. Turn the stone disk and press the peg will reveal a
+secret door. Enter the door to get outside. Talk the the Nazi. Use whip to
+get rid the machine gun. Beat him with you fists. Use balloon and head
+north to Crete.
+
+PART 4 (Crete)
+
+RUINS
+
+See team mode.
+
+CAVES
+
+See team mode. After finding prof Sternhart's body, get his staff. Then
+climb up the chain in the waterfall to get back up to the rest of the
+labyrinth. A door is blocked with a big slab. Push it SEVERAL times. After
+pushing the stone slab covering the door proceed to beat up all the gards,
+with 2 exceptions. The first one, Hans, is too strong to beat, so hide
+behind a stone slab and when he comes by, push it over onto him. Also,
+Arnold is too strong to beat. Use the ship's rib to pry the boulder in the
+next room over so that it will roll onto him. When that doesn't work, go
+find a stalactite (on ceiling in another room) and pry the boulder from
+outside the doorway it's wedged in, that will take care of Arnold. Then
+look in the pit to find Sophia, search Arnold's body, and you have
+everything you need to get to Atlantis. The stories converges here.
+
+                         < Back to the Main Page >

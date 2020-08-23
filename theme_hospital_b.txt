@@ -1,0 +1,764 @@
+Bullfrog's
+	    _______   ___________  __ ____
+           <__  ___>| | | ___>   \/  | ___>
+              | | | |_| | |__|       | |__
+              | | | __  |  __> |\_/| |  __>
+              | | | | | | |__| |   | | |__
+              |_| |_| |_|____>_|   |_|____>
+              	        __    _  ___   ___  ____  ________  ___ __
+                        | |  | |/   \ / __)|    \| |__  __>    \| |
+                        | |__| |  |  |  |_ | --  | |  | | |  |  | |
+                        |  __  |  |  |__  \| ___/| |  | | | __  | |
+                        | |  | |  |  | _)  ) |   | |  | | | | | | |___
+                        |_|  |_|\___/ (___/|_|   |_|  |_| |_| |_|_____>
+
+
+    Copyright 2001 by JH (Flux Wildly)
+
+
+Contents
+==========
+
+1.0  Review of game and Introduction
+2.0  Controls
+3.0  Staff
+4.0  Diseases
+5.0  Treatment
+6.0  Misc rooms
+7.0  Misc objects
+8.0  Events
+9.0  Tips
+
+
+
+
+==================================
+1.0	Introduction and review
+==================================
+
+I'm JH and I play games. That seems obvious enough. I play almost anything but
+I'm particularly fond of the RPG, strategy and Sim genre. Which explains why I
+love this game. I love it enough to write an FAQ about it. This is my second
+FAQ so far, my first being one on RC Stunt Copter on the PS. If anything looks
+weird from hereon, it's because it's late at night and I'm half asleep.
+A quick review of Theme Hospital:
+The graphics are nothing to brag about but they're sufficient for a
+Sim/Strategy game. Fancy graphics with lousy gameplay won't last you through
+the game. Sound and music are the strong points in the game. This is why you
+should buy the game rather than to download it from one of those abandonware
+sites. The sound bites add to the atmosphere of the hospital environment.
+Really. And you can play your own MIDI files with the game. Another reason why
+you should buy the game. It's available as an EA classic as well as the box
+form which costs 2,3 times more. Gameplay is great and you'll be stuck on it
+for years to come until you complete it. It's an addiction. I've been playing
+this game since 1997 or 98 so you get my point. End of review. See? Told you
+it's a quick review!
+Oh yeah, last thing. Do not attempt to place this FAQ on any other site or cut
+and paste content from this document. I usually solve problems like this using
+the Monkey Island method: Voodoo.
+
+
+
+==================
+2.0	Controls
+==================
+
+The controls in the game are easy to pick up. You'll need the mouse and common
+sense. Move your mouse cursor over any icon and you'll see a text box appear
+above the icon. Everything's easy to understand so I'll skip explaining them.
+The Town Map icon is for the purchase of more land as well as to adjust the
+heat emission of your radiators. To buy land, click on any of the red pieces
+you see. The $ icon is the bank manager. If you run out of money, you can loan
+some from there. On the bank manager screen, click + or - to loan and return
+money respectively. Of course, there is an interest rate so....
+When you attempt to build a room, click on the spot you want the room to be and
+drag til you reach the size you want. There is a minimum size for each room and
+you'll know the room can be built when the area turns blue. Right clicking when
+your cursor is an object rotates the object. When you wish to reposition
+furniture, move your cursor on the object and right click. The icon on the
+right with test tubes on it brings up the research screen. You may want to
+concentrate your research on Cure equipment and Diagnosis first. The rest of
+the icons seem self explanatory so I'll skip that.
+
+
+
+
+=========================
+3.0	Staff listing
+=========================
+
+3.1	Doctors
+----------------
+Doctors in the game come with 3 different ranks, different level of detail,
+different capability, different salary and most importantly, different
+qualifications.
+The ranks are Junior, Doctor and Consultant, Consultant being the highest paid
+and Junior being the lowest. In the higher levels, it is possible for Juniors
+and Doctors to attain higher skill levels by training them. That'd be covered
+in detail under 6.0 Misc rooms
+
+The below are the different qualification of doctors in the game:
+
+Skilless: Doctors with no particular Qualifications. They can work in any room
+except those that require a doctor with a particular skill.
+
+Researcher: This doctor works in the research department (when it is available)
+and also, in later levels, the DNA fixer, in addition to the areas open to the
+Skilless. A researcher is essential to your work force as he discovers the
+various diseases, equipment and its cure as well as improvising the treatment
+administered. The improvising of drugs will increase your reputation for that
+particular disease.
+
+Psychiatrist: He works in the Psychiatry room as well as any room open to the
+Skilless. You'll need a psychiatrist to cure people who are sick in the
+head...well, in a way.
+
+Surgeon: Surgeons work in pairs. A lone surgeon is as useless as a hospital
+without a receptionist. Surgeons roam areas open to Skilless Docs as well as
+the Operating theatre. They cure diseases by cutting people up.
+
+
+Doctors in the game will go crazy if they're overworked. I forgot to construct
+a staff room once and ended up with loads of crazy Docs. You can differentiate
+crazy Docs from the sane ones by their hair. Their hair looks like they've
+stuffed their fingers into an electric socket.
+You should also note what their bio says about the doctor when you're hiring. A
+lazy doctor moves slower than a hardworking one and consultants move faster
+than a Junior. This is essential information if you're planning to increase
+productivity.
+
+
+
+3.2	Receptionists
+~~~~~~~~~~~~~~~~~~~~~
+Receptionists are the ugly bunch of people. They have different level of detail
+and skill. The capable ones with a relatively high level of detail cost
+slightly above $100. Secretaries are weird creatures and they don't get tired
+ever. They work at the reception desk and don't bother you with threats of
+quitting because apparently, they can't feel. They're perpetually stuck to
+their reception desk and you can't move the reception desk without first moving
+the receptionist. And being the magnet that she is, she'll move towards the
+desk the moment you place her. Oh yeah, you can't start a hospital without her.
+No one will come.
+
+
+
+3.4	Nurses
+~~~~~~~~~~~~~~
+
+Nurses work at the Pharmacy, the Ward as well as the Fracture Clinic. Without
+them, you cannot administer drugs to cure people. I'm not sure if she'll go
+crazy if she's overworked but she still gets tired unlike the inhuman
+receptionists.
+
+
+3.5	Handymen
+~~~~~~~~~~~~~~~~~
+
+The handymen are the crux of the game. Hire enough and your hospital will be
+nice and neat with no nasty explosions. Don't hire them and you'll probably
+lose the game before long. Hire handymen with a high skill level because they
+move faster, thus working faster. They get angry faster than anyone else in the
+game and ask for pay rises constantly. You can set their priorities by clicking
+on them and then clicking on the icon for the task you want them to concentrate
+on. Handymen wander all over the place so you may wish to buy land only when
+you really need it. Otherwise, they'll wander there and do nothing. They
+mop/sweep/clean the floors, water the plants as well as repair machines. They
+also need to rest regularly...too regularly if you ask me..darn these handymen.
+
+
+
+
+===================
+4.0	Diseases
+===================
+
+
+
+Golf Stones
+ -----------
+ Cause - Exposure to poison gas inside golf-balls
+ Symptoms - Delirium and advanced shame
+ Cure -These must be removed by an operation requiring two Surgeons
+
+ Unexpected Swelling
+ -------------------
+ Cause - Anything unexpected
+ Symptom - Swelling
+ Cure - The swelling can only be reduced by lancing during an operation
+        requiring two Surgeons
+
+ Spare Ribs
+ ----------
+ Cause - Sitting on cold stone floors
+ Symptoms - Unpleasant feeling of chestiness
+ Cure - These must be taken out by two Surgeons, and given to the
+	patient in a doggy bag
+
+
+ Pregnancy (downloadable add-on that is not in the game)
+ ---------
+ Cause - Power cuts in urban areas
+ Symptoms - Faddish eating with consequent beer gut.
+ Cure - Baby is removed in Operating Theatre, washed and presented to
+        patient.
+
+ Kidney Beans
+ ------------
+ Cause - Crunching up ice cubes in drinks
+ Symptoms - Pain and frequent trips to the toilet
+ Cure - Two Surgeons must remove the beans without touching the sides
+        of the kidney
+
+ Broken Heart
+ ------------
+ Cause - Someone richer, younger and thinner than the patient
+ Symptoms - Weeping and RSI caused by hours of tearing up holiday
+	    photos
+ Cure - Two Surgeons open the chest and gently mend the heart whilst
+        holding their breath
+
+ Ruptured Nodules
+ ----------------
+ Cause - Bungee jumping in cold weather
+ Symptoms - Inability to sit down in comfort
+ Cure - Two qualified Surgeons must removed the nodules using steady
+        hands
+
+ Iron Lungs
+ ----------
+ Cause - Inner-city smog mixed with kebab remains
+ Symptoms - Ability to breathe fire and shout loudly underwater
+ Cure - Two Surgeons operate to remove the cast solid lungs in the
+	Theatre
+
+ Heaped Piles
+ ------------
+ Cause - Standing around by water coolers
+ Symptoms - Patient feels like he/she is sitting on a bag of marbles
+ Cure - A pleasant, yet powerfully acidic drink dissolves the piles
+	from the inside
+
+ Gut Rot
+ -------
+ Cause - Mrs. O'Malley's Good Time Whisky Cough Mixture
+ Symptoms - No cough but no stomach-wall lining either
+ Cure - A Nurse can administer a selection of dissolved chemicals to
+	coat the tum
+
+ Gastric Ejections
+ -----------------
+ Cause - Spicy Mexican or Indian food
+ Symptoms - Half-digested food is emitted from the patient in random
+	    clusters
+ Cure - Drinking a special binding solution prevents anything being
+	ejected
+
+ The Squits
+ ----------
+ Cause - Eating pizza found under the cooker
+ Symptoms - Ugh. Surely you can guess
+ Cure - A glutinous mix of stringy pharmaceutical chemicals solidify
+        the patients innards
+
+
+ Sleeping Illness
+ ----------------
+ Cause - Overactive sleep gland in the roof of the mouth
+ Symptoms - Overwhelming desire to crash out everywhere
+ Cure - A high dosage of powerful stimulant is administered by a Nurse
+
+ Transparency
+ ------------
+ Cause - Licking the yogurt from the foil tops of opened pots
+ Symptoms - Flesh is rendered see-through and horrible
+ Cure - A Pharmacy drink of specially cooled and coloured water cures
+        this disease
+
+
+ Invisibility
+ ------------
+ Cause - Being bitten by a radioactive (and invisible) ant
+ Symptoms - Patients suffer no discomfort. Indeed, many use the
+	    condition to play practical jokes on their families
+ Cure - A colourful liquid drunk in the Pharmacy soon restores the
+	patient to full observability
+
+
+ Discrete Itching
+ ----------------
+ Cause - Tiny insects with sharp teeth
+ Symptoms - Scratching, leading to body-part inflammation
+ Cure - Patient drinks a pharmaceutical gluey syrup to prevent the skin
+        from itching
+
+ Uncommon Cold
+ -------------
+ Cause - Small particles of snot in the air
+ Symptoms - Runny nose, sneezing and discoloured lungs
+ Cure - A big swig of uncommon cough medicine made from special
+	ingredients in the Pharmacy will cure this
+
+ Broken Wind
+ -----------
+ Cause - Using a gymnasium treadmill after a meal
+ Symptoms - Upsetting the people directly behind the patient
+ Cure - A heavy mixture of special watery atoms is drunk rapidly in the
+        Pharmacy
+
+ Corrugated Ankles
+ -----------------
+ Cause - Driving over traffic calming measures in road
+ Symptoms - Footwear does not fit snugly
+ Cure - A slightly toxic blend of herbs and spices is drunk to
+	straighten out the ankles
+
+ Chronic Nosehair
+ ----------------
+ Cause - Sniffing disdainfully at those worse off than the patient
+ Symptoms - Nosebeard a badger could make a nest in
+ Cure - A disgusting hair-removal potion is taken orally, prepared by
+        a Nurse in the Pharmacy
+
+Bloaty Head
+ -----------
+ Cause - Sniffing cheese and drinking unpurified rainwater
+ Symptoms - Very uncomfortable for the sufferer
+ Cure - The swollen head is popped, then reinflated to the correct PSI
+        using a clever machine
+
+
+ Serious Radiation
+ -----------------
+ Cause - Mistaking plutonium isotopes for chewing gum
+ Symptoms - Patients with this condition feel very, very unwell
+ Cure - The patient must be placed in a Decontamination Shower and
+        cleansed properly
+
+ Slack Tongue
+ ------------
+ Cause - Chronic overdiscussion of soap operas
+ Symptoms - Tongue swells to five times its original length
+ Cure - The tongue is placed in the Slicer Machine, and removed
+	quickly, efficiently and painfully
+
+ Alien DNA
+ ---------
+ Cause - Face huggers equipped with intelligent alien blood
+ Symptoms - Gradual alien metamorphosis and desire to destroy our
+	    cities
+ Cure - The DNA is mechanically removed, cleaned of alien elements and
+        replaced quickly
+
+ Fractured Bones
+ ---------------
+ Cause - Falling off high things onto concrete
+ Symptoms - Loud crack and inability to use afflicted limbs
+ Cure - The cast is set then removed using a laser-driven removing
+        machine
+
+ Baldness
+ --------
+ Cause - Telling lies and making up stories to be popular
+ Symptoms - Shiny-headedness and embarrassment
+ Cure - Hair is seamlessly melded onto the patient's head using a
+	painful machine
+
+ Jellyitis
+ ---------
+ Cause - Gelatin-rich diet and too much exercise
+ Symptoms - Excessive wobbliness and falling down a lot
+ Cure - The patient is immersed in the Jelly Vat in a special room for
+        a bit
+
+ Hairyitis
+ ---------
+ Cause - Prolonged exposure to the moon
+ Symptoms - Sufferers experience enhanced sense of smell
+ Cure - An electrolysis machine removes the hair and seals up the pores
+
+
+ King Complex
+ ------------
+ Caused by the spirit of the King entering the patient's mind and taking over
+ Symptoms - Donning of colourful suede footwear and eating
+	    cheeseburgers
+ Cure - A Psychiatrist tells the patient how ridiculous he or she looks
+
+
+
+ TV Personalities
+ ----------------
+ Cause - Daytime television
+ Symptoms - Delusions of being able to present a cookery show
+ Cure - A trained Psychiatrist must convince the patient to sell their
+        TV and buy a radio
+
+ Infectious Laughter
+ -------------------
+ Cause - Classic situation comedy
+ Symptoms - Helpless chortling and repetition of unfunny catchphrases
+ Cure - A qualified Psychiatrist must remind the patient how serious
+        this condition is
+
+
+ 3rd Degree Sideburns
+ --------------------
+ Cause - Wistful longing for the 1970S
+ Symptoms - Big hair, flares, platforms and glitter make-up
+ Cure - The Psychiatry staff must, using up-to-date techniques,
+	convince the patient that these hairy accoutrements are rubbish
+
+ Fake Blood
+ ----------
+ Cause - Patient usually subject of practical joke
+ Symptoms - Red fluid in veins which evaporates on contact with
+	    clothing
+ Cure - Psychiatric calming is the only way to deal with this problem
+
+ Sweaty Palms
+ ------------
+ Cause - Fear of job interviews
+ Symptoms - Handshakes with patient are like grabbing a recently
+	    submerged sponge
+ Cure - A Psychiatrist must talk the patient out of this made-up
+	disease
+
+
+The diseases need to be discovered by the research department first before they
+can be cured so remember to hire researchers!
+
+
+
+===================
+5.0	Treatment
+===================
+
+There are various types of treatment rooms in the game. Patients need to visit
+them to either get their diseases diagnosed or cured. They are,
+
+
+GP's office
+
+You need at least one of this. It's the first step in the diagnosis process.
+Patients will be referred to this room by the receptionist first before being
+further directed to other rooms
+
+
+General Diagnosis
+
+This is as vital in the diagnosis process as the GP's office. It serves almost
+the same purpose as the rest of the diagnosis rooms.
+
+
+Cardiogram
+
+This room will be available later in the game. The cardiogram is a machine and
+requires constant attention by the handymen. Like the rest of the machines, it
+will need to be replaced when its strength falls dangerously low. Otherwise,
+the machine would explode and kill the patient in it and perhaps the doctor as
+well. I'm not sure about that but it seems that my staff disappear after an
+explosion.
+
+
+Scanner
+
+This room will be available after your researchers discover it. The scanner
+requires maintenance like the Cardio.
+
+
+X-Ray
+
+This is the coolest machine in the neighbourhood. You get to see your patients
+skeletal form... at least the ribcage. This requires regular fixing by your
+friendly (or not so friendly) handymen.
+
+
+Blood machine
+
+This machine sucks blood out from your patients to test for their diseases.
+It's not as gross as it sounds and looks cute too. This too requires
+maintenance.
+
+
+Ultrascan
+
+The holy grail of diagnosis equipment, this baby is capable of seeking out
+every disease that plagues your patients. Though it costs a bomb, you'd earn
+much more from your patients.
+
+
+-------------------------------------------------------------------------------------------
+
+Pharmacy
+
+Patients visit this place to get their dosage of medicine from your nurse.
+
+
+Psychiatric
+
+Patients with mental disorder head here. They'd lie on the couch while a
+psychiatrist speaks to them. Then they'd get well.
+
+
+Operating theatre
+
+Surgeons remove bits and pieces of the patients here. Pretty self explanatory.
+The operating table is a piece of equipment and requires regular attention from
+the handyman.
+
+
+-------------------------------------------------------------------------------------------
+
+Ward
+
+I figure this is in a class of its own as it is both a part of the diagnosis
+process as well as a place to rest before an operation. This place requires a
+nurse.
+
+-------------------------------------------------------------------------------------------
+
+Inflation
+
+Big headed patients head (pun unintended) here to get their heads popped. Then
+the inflator pumps air back into their heads so they regain their original
+shapes. Cool.
+
+
+Slack Tongue Clinic
+
+Long tongued patients get their tongue sliced off here. The machine looks like
+a giant black iron and needs maintenance.
+
+
+Fracture Clinic
+
+You might notice many patients with plaster casts all over their bodies. These
+people have a disease called Fractured bones and need to visit the fracture
+clinic to get their casts off. The cast remover requires maintenance and would
+be made available without the need for research later in the game. A nurse
+operates the machine.
+
+
+Hair restoration
+
+Bald people need this room. Obviously. It also requires maintenance.
+
+
+Electrolysis
+
+Patients who look like werewolves are sent here to get their hair removed.
+These hairytitis patients are electrocuted til all hair growing in the wrong
+places fall off. The machine requires maintenance.
+
+
+Decontamination
+
+Patients with a greenish hue have a disease called radioactivity. They shower
+in this machine and regain their normal color. The machine requires
+maintenance.
+
+
+
+Jelly Vat
+
+People infected with Jellyitis (wobbly people) are poured into this machine
+that solidifies them. The machine requires maintenance.
+
+
+
+DNA Fixer
+
+People with Alien DNA are sent here. They are easily identified because they
+are the only patients around with only one eye and tentacles. Plus, they're
+green. Like your average everyday alien. The only good thing about these people
+is that they don't need benches to sit on. The DNA fixer does not need
+maintenance for some unknown reason and only researchers can work the machine.
+
+-----------------------------------------------------------------------------------------
+=====================
+6.0	Misc rooms
+=====================
+
+Staff rooms
+
+These are needed to rest your tired staff. All staff (with the exception of the
+receptionist) tire and need to rest. Otherwise, they either go crazy or demand
+pay rises. You can purchase various objects, like TVs and pool tables among
+others, for the enjoyment of the staff.
+
+
+Toilets
+
+For obvious reasons, toilets are needed by the patients to er...do their
+business. This way, they feel happier about the hospital. More cubicles and
+sinks can be purchased. Strangely enough, your staff need not visit this sacred
+place....
+
+
+Research Department
+
+Researchers occupy this room. They discover diseases and their cure as well as
+the equipment needed for this. As the game progresses, your researchers will
+develop new equipment for use in this room. Do purchase them as they'll help in
+your researchers' work.
+
+
+Training
+
+Doctors with no qualifications or a low skill level are sitted in this room. A
+consultant with a qualification you wish to impart to these ignorant doctors
+need to be hired to teach them. They would either inherit the qualification of
+the consultant or have their skill level increased. I don't think you can
+decide on that but it does get irritating when your average doctor becomes a
+consultant and leaves the room without the qualification you desire. And no,
+consultants can't be trained.
+
+
+
+=====================
+7.0	Misc Objects
+=====================
+
+
+Reception Desk
+
+A receptionist works here so you need at least one of these.
+
+
+Bench
+
+These are for your patients to sit on. With sufficient benches, patients are
+less likely to puke and they are happier. You should always buy enough of
+these.
+
+
+Drinks Machine
+
+For some reason, drinks machines have 'KitKat' written on them. Not Mountain
+Dew or Coca Cola but KitKat. Placing enough of these around adds to your
+revenue and makes your patients unthirsty and happy. But they do add to the
+amount of litter around as well as the number of times your patients need to
+visit the loo.
+
+
+Radiator
+
+Patients and staff are likely to stay happy and warm if you have enough of
+these. You can adjust the intensity of the heat by clicking on the Town Map
+icon. The red dots should cover the whole of the area of your hospital.
+
+
+Plants
+
+Plants require watering by your handymen. They add to the environment of the
+hospital and makes your patients happier. But I'd suggest you skip them as your
+handymen probably have enough trouble with machinery and rubbish.
+
+
+Fire Extinguisher
+
+Fire Extinguishers can be placed in rooms to lower the risk of your machinery
+going Kaboom. I'm not sure about the effect it has when placed in the corridoor
+though.
+
+
+===============
+8.0	Events
+===============
+
+Occasionally, an icon pops out from the left hand corner of the screen just
+above the $ icon. This is an event. The various events are described below.
+
+
+VIPs
+
+When the icon shows a tophat, it signifies a VIP visit. Click on it to bring up
+the fax machine window. Unless you have a serious litter problem in your
+hospital, you should allow their visit. They'd take a tour around your hospital
+and after they leave, fax you with a message telling you how much they love or
+hate your hospital. Hate faxes are rare and normally, you'd receive a
+reputation boost as well as a cash reward.
+
+
+Staff Demands
+
+This is represented by a red icon with a doctor's face on it. Clicking on it
+brings up a window that shows the staff concerned's demands. It is normally a
+demand for a pay rise or, in extreme cases, a threat to quit. For pay rises,
+increasing the pay of that staff member (the + icon) would prevent him or her
+from quitting and denying that request (the door icon) may or may not cause
+that staff member to quit. Sometimes, it is just an empty threat.
+
+
+Discovery
+
+An icon with a DNA strand brings up the fax window when clicked on. It informs
+you of the discovery of a new condition. Pretty much self explanatory.
+
+
+Question
+
+Sometimes, a patient with an undiscovered disease or a disease that your
+hospital cannot cure yet seeks treatment. An icon with a question mark appears
+and when clicked on, brings up the fax window. The icon also appears when there
+are patients who are not completely diagnosed. You can make a decision to take
+the risk and cure them, send them home, send them to the research department or
+to make them wait in the hospital. The choice is yours.
+
+
+Emergencies
+
+This is an icon with a blue light (those fixed on police cars..I forgot what
+they're called). It informs you of a emergency where a number of patients with
+a certain disease need to be cured in a time limit. You can choose to take up
+the challenge or to refuse it. You might wish to refuse it if the number of
+patients is larger than the number you can handle. There is a cash reward if
+you successfully complete the challenge and your reputation will take a beating
+if you don't.
+
+
+Achievements
+
+An icon with a certificate appears after a visit by a VIP or after an
+emergency. It tells you of how you have done.
+
+
+==============
+9.0	Tips
+==============
+
+The object of the game is to meet the requirements of each level. There are
+many ways to go about this and the below are my tips and strategies.
+It is preferable to build 2 or more GP's offices as your hospital's reputation
+grows. This way, more patients can be cured in a shorter time and also, it
+shortens the queue at the GP's office.
+Benches should be placed near the entrance to the rooms so the patients take a
+shorter time to walk to the room. This saves time. Space should be left near
+the entrance of the hospital so you can place a reception desk there. Also,
+rooms should not be too congested as this would increase the tendency of your
+patients littering (I'm not sure why too). The diagnosis rooms should be placed
+nearer to the entrance so that the flow of traffic is smoother. You'll need to
+scatter drink machines around the hospital. You don't have to buy a lot of
+radiators because you can adjust the heat level from the Town Map. Repair your
+machines every 3 uses so they don't break down or explode in the occasion of
+earthquakes. In the later levels you'd need to purchase land to expand your
+hospital empire. I would save my game before purchasing the land so I can check
+it out first before wasting my money on a piece of land that can't contain many
+rooms. Some pieces of land is in such a way that you can only build one space
+consuming room. If you see tiny black dots scampering from one end of your
+hospital to the other, those are rats. Position your mouse cursor on one til
+the arrow turns into a crosshair, then click. This will kill the rat and leave
+a blood stain on the floor. Kill enough rats and you get a bonus level after
+your current level. Do make your handyman clean up the blood stains though,
+because patients tend to vomit upon seeing them. And that makes your hospital
+dirty.
+That seems all I have to say here. Good luck and enjoy the game!
+
+
+JH
+For queries or anything other than junk mail, email me at flixflux@hotmail.com
+
+
+
+

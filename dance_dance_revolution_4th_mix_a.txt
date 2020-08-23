@@ -1,0 +1,1371 @@
+Dance Dance Revolution 4th Mix
+Playstation FAQ
+March 28th 2001, Revision 0.95
+
+Written By :  Crono
+E-mail     :  bemanifanatic@aol.com
+Real Name  :  Justin Strauss
+Home Page  :  www.tows.org
+
+
+
+This document is the intellectual property of the author. It is intended to provide help, 
+to fellow gamers, on a title that is both entertaining and difficult at various times. 
+Please do not copy or distribute this file in any format without consent of the author. 
+This means: on other web pages, as part of another FAQ, in any written or electronic 
+publication, etc. And, to be crystal clear, this document is legally copyrighted through 
+two or more means. This is including a publishing firm clause, as well as various websites' 
+legal setups (such as the one found on GameFAQs). If you have any new tips or info you want 
+us to hear, just drop an e-mail. And, just in case this comes up, neither Game Cave nor 
+anyone else may distribute this to those who purchase this title or who are somehow 
+bringing profit to said party.
+
+Dance Dance Revolution 4th Mix is a trademark of Konami Computer Entertainment, Inc.  
+Copyright 1998-2001 by Konami Computer Entertainment, Inc.  Copyright Konami Computer 
+Entertainment Tokyo, Inc.  All related names fall under the same applicable laws.  All 
+rights reserved.
+
+You can find the newest version of this FAQ only at the following sites. If you find it 
+anywhere else, please let me know as soon as possible. It should not be posted anywhere 
+else but at the following sites:
+
+Game FAQs                            Videogame Strategies
+http://www.gamefaqs.com/             http://vgstrategies.about.com/
+
+
+
+Table of Contents:
+--------------------------------------
+
+0.0 Revision History
+
+1.0 Game Mechanics
+
+2.0 Options Menu
+
+3.0 Game Mode
+
+3.1 Solo Mode
+
+3.2 Link Mode
+
+3.3 Diet Mode
+
+4.0 Song List and Info
+
+5.0 Training Mode
+
+5.1 Lesson Mode
+
+5.2 Challenge Mode
+
+6.0 Records List
+
+7.0 Edit Mode
+
+7.1 Arcade Link
+
+8.0 Nonstop Mode List
+
+8.1 Nonstop Order
+
+8.2 Endless Mode
+
+9.0 Information Screen
+
+10.0 Game Secrets and Hidden Options
+
+11.0 Contributions and Thank-You's
+
+
+
+0.0 Revision History
+--------------------------------------
+
+V0.5 - 01/15/01 - Pre-Release! Expect typos or grammar problems from it.
+                - First Konami song list added, with difficulties.
+                - General setup added, from 4th Mix Arcade.
+
+V0.8 - 03/16/01 - Initial Release! Spent all afternoon playing.
+                - Full song list added now, along with secret ones.
+                - Information for all new modes added.
+                - First info for Arcade Link added.
+
+V0.9 - 03/22/01 - Added full lists of Nonstop courses and Link songs.
+                - Challenge Mode now covers through end of Maniac.
+                - Song list and difficulties for new songs verified.
+                - Expanded Edit, Training, and all classic modes.
+
+V1.0 - 04/??/01 - Coming Very Soon!
+
+Coming Soon:
+
+    -final ten levels on challenge mode.
+    -more info on arcade link modes.
+    -whatever might be left out.
+
+
+
+1.0 Game Mechanics
+--------------------------------------
+
+    The basic gameplay is very simple to learn, despite the difficulty of the hardest 
+songs. The game is played with four primary buttons, one representing each direction on a 
+control pad (up, down, left, and right). By default, these four directions are represented 
+by a dance floor (and there is a special dance controller which acts as this). Otherwise, 
+you can simply use the directions on your control pad to play (as well as the four face 
+buttons, which also represent these same four directions). On your side of the game screen, 
+you will see these four arrows indicated at the top in gray. During gameplay, flashing 
+arrows (called "steps") will move slowly from the bottom of that "column" up to the top 
+where your arrows are. The basic premise is to hit the correct direction's button whenever 
+the flashing arrows meet with the arrows at the top.
+
+    You must listen to the rhythm of the song as well, because the simple sight of the 
+arrows can't always tell you exactly when to hit each step. You have a "dance meter" which 
+increases as you do well in the song. It will decrease as you miss steps. If it empties, 
+you lose. The steps of the song will generally follow the bassline that can be heard. In 
+the tougher variants of a song, however, the steps may follow the song's lyrics or other 
+sound effects. Either way, knowing and listening to a song will help you greatly with 
+performing the steps. There are also common patterns of steps that are very important to 
+identify and learn. There will never be more than two arrows to press at the exact same 
+time (since you only have two feet), but the notes can go extremely quickly (to as small as 
+sixteenth notes).
+
+    -Step Rank. Each time you press a directional button, the game will keep track of how 
+close to the exact step you were. They are listed in order from best to worst. "Perfect" is 
+right on the beat, and "Great" is extremely close. "Good" is close to the beat, and "Boo" 
+is far off. "Miss" is what you get when you totally miss the beat or just don't even input 
+anything at all for it. Each of these five possibilities yields more points than the one 
+before it. At the end of the song, you see how many of each rank you received when 
+executing the song's steps. These are tabulated towards your score. The possible step 
+ranks, along with their associated color, are as follows:
+
+              Perfect :  Yellow
+              Great   :  Green
+              Good    :  Blue
+              Boo     :  Pink
+              Miss    :  Red
+
+
+    -Combo. When you achieve a streak of terrific steps, the game will display the combo 
+counter on your screen. This basically tells you how many "greats" or "perfects" you have 
+gotten in a row. Additionally, getting a higher combo results in higher points for each 
+step you make within it. If you mess up, and get a "good" or worse for any arrow... the 
+combo ends. Getting a combo throughout a full stage will get you the best letter grades and 
+score. Additionally, the arrows on top will indicate whether a step was added as part of a 
+combo (the arrows will disappear after you hit them if they were great or perfect, while 
+they will simply pass above the top of the gray arrows if they were worse than that).
+
+    -Grade and Score. You receive a score at the end of the level, depending on how well 
+you did. Better step ranks get you more points per step, and longer combos will multiply 
+your score for each step, depending on the length. Along with your score, you receive a 
+letter grade which tells you how well you did. These range from "E" (worst) to "A" (best), 
+and then to "AA" for perfection. You get an "A" now if you did a combo for the entire 
+level, from start to finish. It takes coordination as well as a sense of rhythm to play 
+this game well, especially for the later levels. You can set high scores for each of the 
+game's songs, and for each variant of the song. These are kept (along with your letter 
+grade for each) in the records section. This also gives an incentive to play again, to earn 
+an "A" on every level variant. The possible level grades in this game are as follows:
+
+               E  :  Failed
+               D  :  Poor
+               C  :  Fair
+               B  :  Good
+               A  :  Great
+              AA  :  Perfect
+
+
+    -Song Difficulty. Each song in the game has a difficulty level associated with it. In 
+addition, there are multiple variants of each song (each with more steps and difficulty, 
+see other sections). Each song has a different difficulty for each of its variants. You can 
+see the difficulty level below each song disc that you can select. The difficulty level 
+itself is indicated by how many "feet" markers you will see, as well as a title for that 
+difficulty level (each level of difficulty has a title that indicates how tough it is). 
+These difficulty levels are in relation to the other levels in the particular game, and a 
+specific level's difficulty number can always change if it appears again in a later DDR 
+title. The difficulty levels, along with how many footmarks each represents, are as 
+follows:
+
+              1: Simple
+              2: Moderate
+              3: Ordinary
+              4: Superior
+              5: Marvelous
+              6: Genuine
+              7: Paramount
+              8: Exorbitant
+              9: Catastrophic
+
+
+
+2.0 Options Menu
+--------------------------------------
+
+    The Options Menu in Dance Dance Revolution is completely in English, and therefore it 
+should be self-explanatory in most any case. However, certain options may be earned through 
+fulfilling certain objectives or might be difficult to understand. Various options will 
+change the way that the gameplay operates, while others will be cosmetic changes. Any 
+option choices that show up in a shade of Green are the "default" setting, while any other 
+choices will show up in White just like the options themselves. The full set of menu 
+options is as follows:
+
+    -Sound Option
+        -Sound: Stereo/Monaural
+        -Voice: No Booing/All/Off
+        -Timing: -8 to +8
+        -Exit
+
+    -Controller Setting
+        -Vibration: Button/Miss/No Use
+        -Double Play: On/Off
+        -Double Mode Setting
+            -Type: A-D
+            -Type: I-III
+            -Exit
+        -Dance Play Setting
+            -Controller 1: On/Off
+            -Controller 2: On/Off
+            -Exit
+        -Exit
+
+    -Memory Card
+        -Save
+            -Want to Save: Yes/No
+            -Overwrite Old Data: Yes/No
+        -Load
+            -Want to Load: Yes/No
+        -Auto Save: On/Off
+        -Exit
+
+    -Game Option
+        -Game Level: 1-8
+        -Max Stage: 1-5
+        -Max Stage (Nonstop): 1-5
+        -Time Limit: On/Off
+        -Game Over: Arcade/End of Music
+        -Event Mode: On/Off
+        -All Music Mode: On/Off
+        -Exit  
+
+    -Graphic Option
+        -BG Effect: On/Off
+        -BG Bright: 25%-100%
+        -Danger Display: Still/Blink/Off
+        -Step Mark Color: Arcade/Note
+        -Character Display: On/Off
+        -Exit
+
+    -Diet Option
+        -Measurement: Free/Regulation
+        -Calorie Display: On/Off
+        -Exercise Display: Time/Stage/Off
+        -Consecutive Play: On/Off
+        -Exit
+
+    -Exit
+
+
+
+3.0 Game Mode
+--------------------------------------
+
+    This is the primary mode of the game, and it's the place where you will spend most of 
+your time. You must first choose your "play option," which determines how many players will 
+play the game. You can also choose which "variant" of the levels you will play. And 
+finally, you can decide which "effects" you want to take place on the level. The variant 
+can be chosen on the stage select screen, once a song is chosen. You can choose the effects 
+that you wish to use by pressing the "select" button at the screen where you choose the 
+stage to play as well. This takes you to the "Effects Menu" where you input the codes and 
+exit the menu in here by pressing "start." (and of course, when playing a 2-player game, 
+both people can choose different sets of variants and effects for themselves).
+
+    -Play Option: Three choices "Single," "Versus," or "Double." Single mode is the 
+standard one-player game. Versus mode is where the two players compete to earn the highest 
+score (and become winner through that). Double mode lets one person play with both 
+controllers (yes, so they have to do double duty, worrying about eight arrows). Double mode 
+has its own difficulties and step variants for each song, as well as three more slots in 
+the records table.
+
+    -Character/Genre: Eight Choices. The songs in the game are separated into eight 
+different genres for ease of use. When beginning a game, you select which genre you will 
+play your three songs in. There is a male and female character for each genre, to represent 
+players one and two respectively. Note, though, some songs will appear in more than one 
+category. The Genres "Group1" and "Group2" will eventually contain all of the game's fifty-
+four songs within them (split in half, alphabetically). There is also a game option for 
+"all music mode" which will simply put all the songs onto one list and let you choose any 
+character you want. But otherwise, this is how they are separated:
+
+       -Genre                 -Player 1        -Player 2
+
+        Group 1                Robo 2000        Maid-Zukin
+        Konami Original        Konsento:03/2    Devil-Zukin
+        Variety                Johnny           Jenny
+        Pops                   Rage             Emi
+        Calorie Burner         Astro            Charmy
+        Fun Factor             Boldo            Tracy
+        Special Selection      Izam             Ni-Na
+        Group 2                Akira            Yuni
+
+
+    -Variant: Three choices "Basic," "Trick," or "Maniac." Basic is the default set of 
+steps (arrows) for a level. This is the easiest choice of the bunch. Trick is a bit harder 
+and has more steps in it. Maniac is the hardest and has the most steps of all. Think of 
+those as the easy, medium, and hard variants of each level. In addition, there are these 
+same three variants in use for "Double" mode, and it gets its own three extra spots in the 
+records table (making a total of six scores for each song).
+
+    -Effects: Nine effects in separate sets "Flat." "Little." "Left," "Right," "Mirror," or 
+"Shuffle." "Hidden," "Sudden," or "Stealth." Little mode and Flat mode are both in their 
+own separate category and can be turned "On or Off." The middle four choices are "turn" 
+choices, and can be used one at a time. The last three are "hidden" choices, and can also 
+be only one at a time. It goes as follows:
+
+        -Flat: Off/Flat
+        -Little: Off/Little
+        -Turn: Off/Left/Mirror/Right/Shuffle
+        -Hidden: Off/Hidden/Sudden/Stealth
+
+        For all of the Turn choices, this will change the directions of all the "steps" 
+(flashing arrows that come from the bottom) in the level. The gameplay remains unchanged. 
+In Mirror mode, the steps in the level will be reversed to their opposite. In other words, 
+for the arrows, left and right get switched, and up and down will get reversed as well. 
+Left mode will rotate the position of the arrows 90 Degrees counter-clockwise (for the 
+arrows, left becomes down, down becomes right, up becomes left, and right becomes up). 
+Right mode will rotate the position of the arrows 90 Degrees clockwise (for the arrows, 
+left becomes up, down becomes left, up becomes right, and right becomes down). Shuffle mode 
+will randomly change all the steps in the level to a different direction.
+
+        Little mode eliminates any steps that make a half-beat or smaller (in other words, 
+the level will only have single-beat steps and therefore be much easier. However, this also 
+obviously lowers the maximum score that you can get). Flat mode changes those multi-colored 
+arrows that you usually see into arrows of all the same color (like they were in the older 
+DDR games). Conversely, the "SSR Mode" in this game uses Flat mode by default. In that 
+case, you can change the option to "Vivid," which will make the half-steps and other arows 
+multiple colors (like in normal mode) which is easier to follow.
+
+        Hidden options will mask the arrows (make them disappear) for a particular amount 
+of time when shown. Hidden mode will cause the arrows to slowly disappear once they reach 
+the top half of the screen (so you must follow the lower part, as well as the beat, to stay 
+alive) while Sudden causes them to diappear when on the bottom half of the screen (so they 
+seem to appear more suddenly). The Stealth mode causes the arrows to disappear completely 
+(so you must know what they are in advance, as the game does not tell you). Also, as a 
+note, neither the Left, Right, nor Shuffle modes can be used with "Double."
+
+
+
+3.1 Solo Mode
+--------------------------------------
+
+    This mode contains "six panel" gameplay, which is the special setup found in the 
+spinoff "DDR Solo2000" (and was later added into 4th Mix as an optional play mode as well). 
+The difference in this mode, is the addition of two "diagonal" buttons, "up-left" and "up-
+right." They are located to the sides of the "up" button on the special arcade dancefloor, 
+and in the same position on the classic dance mat controller. It will use the "circle" and 
+"X" buttons as the diagonals if you choose to use the dance controller. Otherwise, the 
+diagonals will be set to the "L" and "R" buttons. You must choose which controller you use 
+in the "Play Option" screen that you see first in this mode.
+
+    The gameplay is set up in the center of the screen, as only one player can play this 
+mode anyhow. The standard arrows will be colored yellow, while half-steps and smaller will 
+be blue (similar to how the normal game mode has the "vivid" colored arrows to help you). 
+There are three variants for each song in this mode, same as usual (Basic, Trick, Maniac). 
+They will get their own segment on the records screen, bringing the total number of records 
+per song to Nine (including Standard, Double, and SixPanel modes... three variants each). 
+The game setup, genres, characters, number of stages, and all other general aspects will 
+remain the same as in Game mode.
+
+
+
+3.2 Link Mode
+--------------------------------------
+
+    This is the alternate to the usual "Play Option" screen that comes up when you start a 
+game. When you are given your play options (number of players, or double) hit the "right" 
+button twice rapidly to switch to Link mode. Conversely, hit "left" twice quickly to go 
+back to normal Game mode. This also applies to Solo mode, and the same choices will be 
+available. The purpose of this screen, however, is to access the "specialty" versions and 
+setups for the game's songs. "Nonstop" mode is specific courses of four songs each, which 
+are played straight through. This is explained moreso in its own section later. This, along 
+with the other two segments, were normally found elsewhere in previous DDR games (but are 
+now grouped into this Link menu).
+
+    "Internet Ranking" lets you play a particular list of songs from the game, but with a 
+twist. After each one, you will be given a "password" which corresponds to your score. You 
+can go online to Konami's website and enter the password with your name. After doing so, 
+the top scorers from each song are posted on the website. This method was typically used 
+for Nonstop courses before, but is now used for singular songs in this title. The third 
+section, "Edit Data," has sets of special edit data for certain songs in the game. This 
+Edit data was created by Konami, for fun and variety for these few songs (this is also a 
+feature that was present in their past few DDR games, just accessed differently).
+
+    -Nonstop
+        -Official 1
+        -Official 2
+        -Official 3
+        -Official 4
+        -Official 5
+        -Official 6
+
+    -Internet Ranking
+        -Pink Dinosaur
+        -Music
+        -Have You Never Been Mellow
+        -Saint Goes Marching
+        -Trip Macine Climax
+        -B4U
+        -Love Again Tonight
+        -Hypnotic Crisis
+        -Leading Cyber
+        -Era [nostalmix]
+        -Groove
+        -Midnite Blaze
+        -Orion.78 Civilization Mix
+        -Share My Love
+        -Synchronized Love
+
+    -Edit Data
+        -Xanadu
+        -It Only Takes a Minute
+        -Walkie Talkie
+        -Pink Dinosaur
+        -Music
+        -Kick the Can
+        -Only You
+        -The 7 Jump
+        -Shake Your Booty
+        -Never Gonna Make
+        -Young Forever
+        -Shooting Star
+        -One Two (Little Bitch)
+        -Night In Motion
+        -Saint Goes Marching
+        -Trip Machine Climax
+        -Orion.78 (AM Euro-Mix)
+        -Love Again Tonight
+        -My Summer Love
+        -Let's Talk It Over
+        -Leading Cyber
+        -Never Let You Down
+        -Make Your Move
+        -Midnite Blaze
+        -Orion.78 Civilization Mix
+        -Share My Love
+        -Synchronized Love
+
+
+
+3.3 Diet Mode
+--------------------------------------
+
+    This is one of the very cool new modes in the home release of this game. In here, you 
+play songs as you normally would in arcade mode. However, while you do this, the game will 
+count how many calories you have burned by playing the game. After each stage, your total 
+overall calories will be shown, as well as your average calories burnt per song. By 
+pressing the "select" button, you can see your calorie results in different conversions. 
+Pressing the "circle" button will continue to another song, while pressing "X" button will 
+exit the mode. The listings after each stage are as follows:
+
+        -Calories Burnt       (kcal)
+        -Calories Average     (kcal)
+        -Calories Total       (kcal)
+
+        -Songs Played
+        -Conversions
+            -Jogging Equivalent   (kilometers)
+            -Jumprope Equivalent  (times)
+            -Swimming Equivalent  (kilometers)
+        -Diet Diary
+
+
+    There are various options to adjust for this mode, and they can be done in the game's 
+option menu. You can restart the calorie counter at any point in there, or adjust how it 
+counts in the first place. "Regulation" means that it only counts the proper steps as 
+calories, while "Free" means that it counts any steps you press down as burnt calories. In 
+the "course difficulty" offerings, the "normal" course uses the steps from the normal game. 
+"Diet" course is slightly easier, while "Rakuraku" is beginner mode. While within this 
+menu, you are given these settings to adjust before starting:
+
+        -Weight: 1-500 KG
+
+        -Menu: Free/KCal/Min
+
+        -Goal Amount (for menu)
+            -Free: Nashi
+            -KCal: 10-1000 KCal
+            -Mins: 1-120 Minutes
+
+        -Course Difficulty
+            *     Rakuraku Course
+            **    Diet Course
+            ***   Normal Course
+
+        -Date: 3/15/2001+
+
+        -Start
+
+
+
+4.0 Song List and Info
+--------------------------------------
+
+Difficulty     Song Title                                    Artist
+
+467|467|467    .59                                           DJ Taka
+136|137|136    1,2,3,4, 007                                  Ni-Ni
+458|467|458    B4U                                           Naoki
+136|246|135    Baby Baby Gimme Your Love                     Divas
+468|467|457    Boys (Euro Mix)                               Smile.dk
+357|357|457    Bumble Bee                                    Bambee
+467|468|468    Burnin' the Floor                             Naoki
+467|468|468    Dam Dariram (KCP Mix)                         Joga
+2XX|2XX|1XX    Dancing All Alone                             Smile.dk
+457|346|346    Don't Stop! ~AMD 2nd Mix~                     Dr. Vibe feat. JP Miles
+467|467|457    Dream a Dream                                 Captain Jack
+256|356|357    Eat You Up                                    Angie Gold
+368|468|368    Era [nostalmix]                               TaQ
+468|569|468    Follow the Sun -90 In the Shade Mix-          Triple J
+479|469|469    Furuhata's Theme                              CJ Crew feat. Sedge
+368|347|367    Get Me In Your Sight ~AMD Cancun Mix~         Symphonic Defoggers with 1479
+346|357|457    Gimme Gimme Gimme                             E-Rotic
+257|357|257    Gotcha (The Theme From Starsky & Hutch)       Andy G's Magic Disco Machine
+468|368|368    Groove                                        Sho-T feat. Blenda
+357|358|357    Have You Never Been Mellow (MM Groovin Mix)   Olivia Project
+467|467|468    Hero (Happy Grandale Mix)                     Papaya
+346|356|356    Hero (KCP Discotique Mix)                     Papaya
+356|357|357    Higher                                        NM feat. Sunny
+468|468|468    Holic                                         TaQ
+569|579|468    Hypnotic Crisis                               Blue Destroyers
+468|468|467    If You Were Here (B4 Za Beat Mix)             Jennifer
+357|457|367    In the Heat Of the Night                      E-Rotic
+356|356|456    It Only Takes a Minute (Extended Remix)       Tavares
+367|357|357    Kick the Can                                  Bus Stop
+579|479|578    Leading Cyber                                 DJ Taka
+256|247|257    Let's Talk It Over                            Shin Murayama f/ Argie Phine
+467|467|467    Love Again Tonight (For Melissa Mix)          Naoki feat. Paula Terry
+467|469|457    Make Your Move                                Good-Cool feat. JP Miles
+467|458|457    Midnite Blaze                                 U1 Jewel Style
+467|467|457    Music                                         Habegale
+369|358|357    My Summer Love                                Mitsu-O! with Geila
+357|457|367    Never Gonna Make (Factory Dance Team Mix)     Morgana
+357|457|356    Never Let You Down                            Good-Cool feat. JP Miles
+367|467|367    Night In Motion                               Cubic 22
+467|468|458    One Two (Little Bitch)                        Bus Stop
+247|367|347    Only You                                      Captain Jack
+359|357|358    Orion.78 (AM Euro Mix)                        Re-Venge
+689|689|679    Orion.78 (Civilization Mix)                   2MB
+457|456|457    Pink Dinosaur                                 Papaya
+469|468|468    Saint Goes Marching (Remix)                   The Saint
+347|357|357    Shake Your Booty                              KC & The Sunshine Band
+345|345|345    Share My Love                                 Julie Frost
+457|467|458    Shooting Star                                 Bang
+458|468|469    Synchronized Love (Red Monster Hyper Mix)     Joe Rinoie
+246|356|245    The 7 Jump                                    Ken D
+579|579|579    Trip Machine Climax                           De-Sire
+357|367|357    Walkie Talkie                                 King Kong & D. Jungle Girls
+148|249|146    Xanadu                                        Olivia Project
+357|357|357    Young Forever                                 Rebbeca
+
+
+
+5.0 Training Mode
+--------------------------------------
+
+    "Training" mode is the place to sharpen your skills on any level that you have 
+accessed, without fear of losing. At any time during the menu, you may press the "select" 
+button to move the menu to the other side of the screen, or the "X" button to Exit. When 
+choosing to "start" the level, pressing "left" or "right" changes between the chosen 
+segment or the full song. The menu options are as follows:
+
+    -Music Select
+
+    -Player: Single/Versus/Double/6Panel
+
+    -Level: Basic/Trick/Maniac
+
+    -Assist: Type 1-6/Off
+
+    -Speed: 1-5
+
+    -Controller: 1/2 (6Panel Only)
+
+    -Bar Start: 01-69
+
+    -Bar End: 02-70
+
+    -Start: Segment/Full
+
+    -Sequence Option
+        -Little: On/Off
+        -Turn: Left/Right/Mirror/Shuffle/Off
+        -Hidden: Hidden/Sudden/Stealth/Off
+
+    -Edit
+
+    -Exit
+
+
+    After each level you play, you get a menu, where you can choose from: 
+"Check/Again/Menu." The "Check" option lets you review the song you just played, bar by 
+bar, and shows you how well you did for each step (arrow-press) in the level. Each arrow 
+will be colored in a specific shade to indicate how each was ranked (yellow=perfect, 
+green=great, blue=good, pink=boo, red=miss). Pressing "select" here changes the arrows to 
+"timing" colors (yellow=just, blue=early, pink=late, red=miss). "Again" lets you repeat the 
+level, and "Menu" takes you back to the main menu. Before this, though, you will be treated 
+to the grading screen (as follows):
+
+    -Evaluation
+        -Perfect
+        -Great
+        -Good
+        -Boo
+        -Miss
+        -Max Combo
+        -Score
+
+    -Dance Level
+
+    -Timing
+        -Just
+        -Early
+        -Late
+        -Miss
+
+
+
+5.1 Lesson Mode
+--------------------------------------
+
+    "Lesson" mode is a way to learn how to perform some of the more common or tricky steps 
+that appear in the game. Rather than simple "training," this mode goes through certain 
+types and segments of steps, separately (and not just full songs). To the right of the 
+screen will be an assistant graphic which resembles the dance mats. This graphic indicates 
+what your feet should do (and where they should go) to pull off these types of steps as the 
+song plays. There will also be a "click" played for every step you are supposed to hit, to 
+help with timing. This moving guide is an invaluable resource for beginners on the dance 
+mats.
+
+    There are Three levels of lessons, each with Eight sections. You will see a crown next 
+to each lesson you have already completed on the main menu. On the eighth and final part of 
+each lesson, you will perform a lesson on a full song; and this will test the skills which 
+you have learned in the previous seven segments. The lessons, with their final song, are as 
+follows:
+
+    -Lesson 1: My Summer Love
+    -Lesson 2: Higher
+    -Lesson 3: Baby Baby Gimme Your Love
+
+
+
+5.2 Challenge Mode
+--------------------------------------
+
+    This mode is there to add replay value for playing alone. There are different sets of 
+challenges, each harder than the last (with Ten challenges per section). The first is 
+"Practice," and then comes "Basic," and then "Trick," then "Maniac" and finally "Extra." 
+You can not move onto a new section until you've completed all ten trials in the previous 
+segment (which is marked by a crown next to each one). The requirements to complete each 
+challenge are written in Japanese. They list very specific details, sometimes, which must 
+be fulfilled in order to complete the stage. If you screw up completely, you'll be failed 
+out of a stage rather than wasting time completing it. The challenges are as follows:
+
+  [Practice]
+
+01. Higher
+    4Panel, Basic, All
+      -complete without any "miss"
+
+02. Only You
+    4Panel, Basic, 01-07
+      -complete with full combo
+
+03. The 7 Jump
+    4Panel, Basic, 17-37
+      -complete with full combo
+      -level is on "sudden"
+
+04. Never Gonna Make
+    4Panel, Basic, All
+      -complete with max dance meter
+      -dance meter starts empty
+
+05. In the Heat Of the Night
+    4Panel, Basic, All
+      -complete with at least 1,500,000 points
+
+06. Let's Talk It Over
+    4Panel, Basic, All
+      -complete with more "perfect" than
+       of either "great," "good," or "boo"
+      -it is okay to "miss" steps
+
+07. Dream a Dream
+    6Panel, Basic, 13-21
+      -complete with full combo
+
+08. Gimme Gimme Gimme
+    6Panel, Basic, 01-23
+      -complete with full combo
+      -level is on "sudden"
+
+09. Gotcha
+    6Panel, Original, All
+      -complete with full combo
+      -custom steps are much tougher
+
+10. Don't Stop!
+    4Panel, Basic, All
+      -complete with score under 1,000,000 points
+      -complete with max combo of 50 or more
+
+
+  [Basic]
+
+01. Hero (Happy Grandale Mix)
+    6Panel, Basic, All
+      -complete with full combo
+      -step indicators at top are invisible
+
+02. One Two (Little Bitch)
+    4Panel, Basic, All
+      -never hit any "double" steps
+      -all other steps must be "good" or better
+
+03. Orion.78 (AM Euro-Mix)
+    4Panel, Maniac, 24-27
+      -complete with full combo
+      -level is on "hidden"
+
+04. It Only Takes a Minute
+    4Panel, Basic, All
+      -complete with max combo of 10 or less
+      -dance meter does not recover
+
+05. Never Let You Down
+    6Panel, Basic, All
+      -never hit any "up" or "down" steps
+      -all other steps must be "good" or better
+
+06. Baby Baby Gimme Your Love
+    4Panel, Trick, All
+      -complete with full combo, but...
+      -you are allowed only one miss
+      -wrong BGM playing, is for "shooting star"
+
+07. Kick the Can
+    4Panel, Trick, All
+      -never increase dance meter above 50%
+
+08. Baby Baby Gimme Your Love
+    6Panel, Basic, All
+      -complete with 50 or more "perfects"
+
+09. Eat You Up
+    4Panel, Trick, All
+      -complete with score between 3,000,000 and 3,100,000
+10. Dam Dariram (KCP Mix)
+    4Panel, Trick, 07-30
+      -complete with dance meter of 5% or less
+      -you can still fail from empty meter
+
+
+  [Trick]
+
+01. Hero (Happy Grandale Mix)
+    4Panel, Trick, All
+      -never hit any "double" steps
+      -all other steps must be "good" or better
+      -step indicators at top are invisible
+
+02. Hero (Happy Grandale Mix)
+    4Panel, Trick, All
+      -only hit "double" steps
+      -all those steps must be "great" or better
+      -level is on "hidden"
+
+03. Young Forever
+    4Panel, Maniac, 01-11
+      -complete with full combo
+
+04. Pink Dinosaur
+    6Panel, Trick, All
+      -complete with 70% or more "perfect"
+      -step indicators at top are invisible
+      -level is on "sudden"
+
+05. Make Your Move
+    4Panel, Trick, 01-42
+      -complete with full combo, but...
+      -you are allowed only one miss
+      -wrong BGM playing, is for "shake your booty"
+
+06. Walkie Talkie
+    4Panel, Basic, All
+      -complete with max combo of 30 or more
+      -never increase dance meter above 50%
+
+07. Music
+    6Panel, Maniac, 43-51
+      -complete with full combo
+
+08. Saint Goes Marching
+    4Panel, Basic, 15-23
+      -complete with all "perfect"
+
+09. Saint Goes Marching
+    4Panel, Basic, 15-23
+      -complete with full combo
+      -level is on "stealth"
+      -same steps as in challenge #8 above
+
+10. Bumble Bee
+    6Panel, Maniac, All
+      -never hit any "up" steps
+      -all other steps must be "good" or better
+
+  [Maniac]
+
+01. Era [nostalmix]
+    4Panel, Maniac, 33-43
+      -complete with full combo
+
+02. Furuhata's Theme
+    4Panel, Maniac, All
+      -complete the song successfully
+      -dance meter does not recover
+
+03. Saint Goes Marching
+    4Panel, Maniac, 15-23
+      -complete with full combo
+
+04. If You Were Here (B4 Za Beat Mix)
+    6Panel, Maniac, All
+      -only hit steps with "up" and/or "right"
+      -all those steps must be "good" or better
+
+05. Follow the Sun
+    4Panel, Basic, All
+      -complete with max combo of 10 or less
+      -dance meter does not recover
+
+06. Leading Cyber
+    4Panel, Maniac, 32-40
+      -complete with full combo
+      -song moves at slower speed
+
+07. Trip Machine Climax
+    6Panel, Basic, All
+      -never hit "up" or "down" steps
+      -all other steps must be "good" or better
+
+08. 1,2,3,4, 007
+    6Panel, Maniac, All
+      -never hit "down" or "right" steps
+      -above two may be hit in double steps
+      -all other steps must be "good" or better
+      -dance meter still decreases for required misses
+
+09. Higher
+    6Panel, Maniac, All
+      -never hit the exact same step twice consecutively
+      -dance meter still decreases for required misses
+
+10. Era [nostalmix]
+    4Panel, Original, 30-44
+      -complete with full combo
+
+
+  [Extra]
+
+01. next update!
+
+
+
+6.0 Records List
+--------------------------------------
+
+    This menu keeps a list of your high scores for all of the game's stages (Music High 
+Score). You can view high scores for each variant of each song (six variants per song). It 
+keeps track of your letter and number high score for each one, as well as your maximum 
+combo achieved while earning that score. As a bonus, pressing the "triangle" button while 
+on a song in the records table will "Play" the song (like a sound test, it plays in the 
+background). In this game, your highest overall scores (Total Ranking) may be viewed during 
+the "demo reel" that runs from the main menu (whenever a button is not being pressed).
+
+    At any time during the music menu, you may press the "select" button to "change" from 
+"game" mode to "six panel" mode scores. In "Diet" mode, both players' records are shown. 
+Pressing the "square" button will clear the records on either side chosen. In "Diet Diary," 
+pressing "up" or "down" on the directional pad will stretch the bars to different lengths. 
+Pressing the "start" button there will add or remove the measurement bars on the left. The 
+menu options are as follows:
+
+    -Music High Score
+        -All Game Songs
+        -All Game Songs (Six Panel)
+
+    -Diet Records
+        -Calories Total       (kcal)
+        -Songs Played         (number)
+        -Calories Average     (kcal)
+
+        -Jogging Equivalent   (kilometers)
+        -Jumprope Equivalent  (times)
+        -Swimming Equivalent  (meters)
+
+    -Diet Diary
+        -Dates
+        -Amount Burned (kcal)
+
+    -Exit
+
+
+
+7.0 Edit Mode
+--------------------------------------
+
+    This mode is one of the cooler features of the game, as it lets you create your own 
+sets of steps for any of the game's levels. From here, you create your steps and then save 
+them to a memory card. At any time in the process, if you attempt to start a "new data" or 
+"load" data without having "saved" your current data, the game will ask you "Do you wish to 
+continue without saving: Yes/No." The menu options are as follows:
+
+    -New Data
+        -Choose Song
+        -Player: Single/Double/6Panel
+        -Load Official Data: Yes/No
+            -Basic/Trick/Maniac
+
+        -Directionl Pad: move one beat distance up/down
+        -Circle: create/delete right arrow
+        -Triangle: create/delete up arrow
+        -X button: create/delete down arrow
+        -Square: create/delete left arrow
+        -L1: change beat distance (Full/Half/Fourth)
+        -R1: hold down and press up/down to move in full bars
+        -L2: create an area (press once for start, once for end)
+        -R2: Area Menu (effects contents of created area)
+            -Copy
+            -Paste
+            -Cut
+            -Undo
+            -Delete
+            -Reverse
+                -Mirror
+                -Up/Down
+                -Left/Right
+            -Quantize
+                -Quarter
+                -Eighth
+                -Twelfth
+                -Little
+        -Analog L: press up/down to move quickly in full bars
+        -Analog R: press up/down to zoom
+        -Select: Sequence Menu (press again to exit)
+            -Player: Single/Couple/Double
+            -Zoom: X2/X4/Off
+            -Triple: Off/On
+            -Work Area: Normal/Double
+            -Arrow: Type1/Type2/Type3
+        -Start: Test Play
+
+    -Memory Card
+        -Save
+        -Load
+        -Rename
+        -Exit
+
+    -Quick Save
+
+    -Recording
+        -Play Type: Watch/OverInput/SaveInput/Judge1/Judge2
+        -Repeat: Off/On
+        -Speed: 1-5
+        -Input SE: Off/On
+        -Filter Bai: 0-100 (Judge2 Only)
+        -Controller: Type1/Type2 (6Panel Only)
+
+    -Option
+        -Input Type: Keep/Next
+        -BGM: Off/On
+        -Icon EXP: On/Off
+        -Language: Japanese/English
+
+    -Status
+        -Music Name
+        -Player
+        -Bar End
+        -Note Number (1P and 2P)
+        -Data Name
+        -Difficulty
+        -BGM Data
+
+    -Guide
+
+    -Exit
+
+
+
+7.1 Arcade Link
+--------------------------------------
+
+    This home version now has a separate mode for creating arcade link files. Originally, 
+this was done in the "Options" and "Nonstop Order" menus. But now, you can easily manage 
+and update an "arcade link data" file for use with either DDR 4th Mix or DDR 5th Mix. When 
+created, the link file will take up one block on the memory card. And, as though it wasn't 
+obvious, it's best to go with first-party memory cards from Sony. And for the "DDRT" (Dance 
+Dance Revolution Tool) which allows viewing of the data on the fly, you must use the 
+Pocketstation.
+
+    The link data file will allow the use of "Edit" data for all supported songs and 
+"Nonstop Orders" you have made for the arcade itself. In 5th Mix, you can even store your 
+music records and Internet Ranking passwords as though it were a home version. And, on 
+either side, you'll have an Information screen to look at. You can create (or update) a 
+link file from your console, although it can not be used until it interfaces with the 
+arcade (in most functions, anyhow). More info coming later (as this author will go fullout 
+on these data modes in the next few weeks, now that 5th Mix is out). As for now, here are 
+the menus:
+
+    -5th Mix Link
+        -Music Records
+        -Internet Ranking
+        -Information
+        -Name Entry
+        -Link Data Save
+        -Link Data Load
+        -Link Data Create
+        -Exit
+
+    -4th Mix Link
+        -Information
+        -Nonstop Order
+        -Link Data Save
+        -Link Data Load
+        -Link Data Create
+        -Link Data Update
+        -Pocketstation
+            -Mail Box
+            -Mail
+            -Download
+            -Exit
+        -Exit
+
+    -Exit
+
+
+
+8.0 Nonstop Mode List
+--------------------------------------
+
+    "Nonstop" is the alternate difficulty choice when playing "game" mode. In this mode, 
+you play from a list of "courses" that are set up by Konami. Each course consists of Four 
+stages, which are played straight in a row with no breaks. Playing one course makes up a 
+full game in Nonstop. There are Six default Nonstop courses, and then your own Three custom 
+orders if you switch them on. The default courses are as follows (with difficulty before 
+each stage, abbreviated for "Basic," "Trick," and "Maniac"):
+
+    -Official 1
+        -(B) 1,2,3,4, 007
+        -(B) Kick the Can
+        -(B) Pink Dinosaur
+        -(B) The 7 Jump
+
+    -Official 2
+        -(B) My Summer Love
+        -(B) Walkie Talkie
+        -(T) Higher
+        -(T) Music
+
+    -Official 3
+        -(M) Orion.78 (AM Euro-Mix)
+        -(M) My Summer Love
+        -(M) Hypnotic Crisis
+        -(M) Trip Machine Climax
+
+    -Official 4
+        -(T) Baby Baby Gimme Your Love
+        -(T) Burnin' the Floor
+        -(T) Love Again Tonight (For Melissa Mix)
+        -(M) B4U
+
+    -Official 5
+        -(T) Boys (Euro Mix)
+        -(M) Furuhata's Theme
+        -(M) Shooting Star
+        -(M) Saint Goes Marching (Remix)
+
+    -Official 6
+        -(B) Synchronized Love (Red Monster Hyper Mix)
+        -(B) Hero (Happy Grandale Mix)
+        -(B) Share My Love
+        -(B) Era [nostalmix]
+
+
+
+8.1 Nonstop Order
+--------------------------------------
+
+    You use this mode to create the custom sets of levels for use in the "Nonstop" mode. By 
+pressing the "select" button at any time you are in the main menus, you will bring up the 
+"Guide" menu. You can set up and customize up to Three different sets of Four levels. These 
+levels can be fully customized as well. And better yet, each of the four stages can have a 
+totally different set of difficulty, variant, and effects than the rest. The menu options 
+are as follows:
+
+    -Order: [1]/[2]/[3]
+        -1st Stage
+            -Edit: Title/NoUse
+            -Music: Select Music
+            -Player 1
+                -Level: Basic/Trick/Maniac
+                -Little: Little/Off
+                -Turn: Left/Right/Mirror/Shuffle/Off
+                -Hidden: Hidden/Sudden/Stealth/Off
+            -Player 2
+                -Same options as with Player 1
+        -2nd Stage
+            -Same options as with 1st Stage
+        -3rd Stage
+            -Same options as with 1st Stage
+        -4th Stage
+            -Same options as with 1st Stage
+        -5th Stage
+            -Same Options as with 1st Stage
+
+    -Edit Data Check
+
+    -Order Use: NoUse/Use
+
+    -Exit
+
+
+
+8.2 Endless Mode
+--------------------------------------
+
+    This mode lives up to its name, as it can tend to last forever. You play a constant 
+streak of levels, randomly chosen, until your dance meter empties and you lose (you will 
+not repeat any songs until you have played each song once, and then it starts another 
+random loop). However, you can choose to get a "Break" after every Five levels you play. It 
+will ask you "Take a Break?" and give you choices of: "1 Minute/3 Minutes/5 
+Minutes/Continue." You have Ten seconds to decide whether you take a Break or you continue 
+playing. You can end a Break at any time by pressing the "start" button. During gameplay, 
+your "combo" can carry over from one stage to another (so your combo can go up to any 
+number, not just up to 999 like usual). Your score and stage can also go on infinitely, 
+only limited by how long you can make yourself play. When beginning, press "circle" to 
+start the game or "X" to exit. The menu options are as follows:
+
+    -Player: Single/Double/6Panel
+
+    -Level: Basic/Trick/Maniac/Random
+
+    -Turn: Off/Left/Mirror/Right/Shuffle/Random
+
+    -Hidden: Off/Hidden/Sudden/Stealth/Random
+
+    -Little: Off/On/Random
+
+    -Character Select
+
+
+
+9.0 Information Screen
+--------------------------------------
+
+    This screen keeps track of how far you've progressed in the overall game. The first 
+pieces of info on this screen are of general information or about new features that are 
+present in this version of DDR. Whenever you earn a secret song or mode, you will get some 
+new pieces of information on this screen to let you know (and describe it). Also, you will 
+get info segments for the game's normal modes every-other time you start up your game. In 
+the upper-right corner of the menu, you can see how many total information pages you have 
+earned (you start out with about Four, but will end up with over a dozen; as information 
+pages now hold multiple pieces per page). The information is as follows:
+
+    -Welcome to DDR 4th Mix!
+    -Solo Mode
+    -Challenge Mode
+    -Endless
+    -Arcade Link
+    -Diet Mode, Changes
+    -New Songs 01-04
+        01. .59
+        02. Dam Dariram (KCP Mix)
+        03. Don't Stop! ~AMD 2nd Mix~
+        04. Era [nostalmix]
+    -New Songs 05-08
+        05. Get Me In Your Sight ~AMD Cancun Mix~
+        06. Hero (Happy Grandale Mix)
+        07. Holic
+        08. If You Were Here (B4 Za Beat Mix)
+    -New Songs 09-12
+        09. Let's Talk It Over
+        10. Make Your Move
+        11. Leading Cyber
+        12. Never Let You Down
+    -New Songs 13-16
+        13. Groove
+        14. Midnite Blaze
+        15. Orion.78 (Civilization Mix)
+        16. Share My Love
+    -New Songs 17-18
+        17. Dancing All Alone
+          -Only Trial Difficulties
+        18. Synchronized Love (Red Monster Hyper Mix)
+
+
+
+10.0 Game Secrets and Hidden Options
+--------------------------------------
+
+    -Experience. Most of the secrets to be earned in this game are received once you have 
+completed a certain number of songs (stages) in the standard arcade modes of play. The game 
+internally keeps count of how many songs you have played, and there is no way to view that 
+total number itself. For the most part, you will earn a new secret for every Five songs you 
+complete. Some secrets will also have alternate methods to earn them (this will be shown 
+when multiple requirements are listed under a single secret). If so, you only need to 
+fulfill any one of those requirements that is listed, not all of them.
+
+    -Secret Songs. Some of the game's songs will not be accessible from the start of the 
+game. For every five songs you complete in any normal game mode, you will earn a new secret 
+song. Four secret songs are brand-new Konami originals, while the first twelve are the 
+secret songs from the arcade version of 4th Mix. The last two are "Bonus Tracks" which come 
+from later titles. Note, these are NOT in the exact proper order yet. I didn't record the 
+order when earning them all, so I'll hafta tweak it later. The songs are as follows:
+
+        -Synchronized Love (Red Monster Hyper Mix)
+            -clear 05 songs
+
+        -Dancing All Alone
+            -clear 15 songs
+
+        -Hero (Happy Grandale Mix)
+            -clear 20 songs
+
+        -Dam Dariram (KCP Mix)
+            -clear 25 songs
+
+        -If You Were Here (B4 Za Beat Mix)
+            -clear 30 songs
+
+        -Let's Talk It Over
+            -clear 35 songs
+
+        -Make Your Move
+            -clear 40 songs
+
+        -Share My Love
+            -clear 45 songs
+
+        -Era [nostalmix]
+            -clear 50 songs
+
+        -Holic
+            -clear 55 songs
+
+        -.59
+            -clear 60 songs
+
+        -Don't Stop! ~AMD 2nd Mix~
+            -clear 65 songs
+
+        -Never Let You Down
+            -clear 70 songs
+
+        -Groove
+            -clear 75 songs
+
+        -Midnite Blaze
+            -clear 80 songs
+
+        -Get Me In Your Sight ~AMD Cancun Mix~
+            -clear 85 songs
+
+        -Leading Cyber
+            -clear 90 songs
+
+        -Orion.78 (Civilization Mix)
+            -clear 95 songs
+
+
+    -Bonus Track. In this title, the two bonus tracks get mixed into the normal song list. 
+However, one should know the background on these two songs. "Synchronized Love" is from the 
+arcade "DDR 4th Mix Plus," and will be included on the "DDR Extra Mix" for Playstation. 
+"Dancing All Alone" is a preview of a song from "DDR 5th Mix." And, in thus, it can only be 
+played on "Basic" variant.
+
+    -Challenge Mode. This mode is not accessible from the start of the game. To open it up, 
+you must meet the requirement below. Basically, it is earned in place of a second secret 
+song, then the songs continue. Once you have done this, it will appear as a choice in the 
+main menu, below "Training" mode:
+
+        -clear 10 songs
+
+    -Endless Mode. This mode is not accessible from the start of the game. To open it up, 
+you must meet BOTH of the following requirements. Once they are BOTH fulfilled, it will 
+appear as a choice on the title screen. In this game, strangely, Endless mode does not have 
+any kind of records kept for it. It is just for play value now. The requirements are as 
+follows:
+
+        -open up all secret songs, then...
+        -complete game mode once
+
+    -Link Version. When you save your data to the memory card, you can then use your memory 
+card for the Arcade versions of DDR. This compatible machine, the "Link Version," has a 
+slot for the Playstation memory card on it. For one, you can port your "Edit" data to the 
+arcade version. Additionally, the custom "NonStop Order" data is compatible with DDR 
+Arcade. However, in this game title, the arcade link has its own mode. No secrets involved.
+
+
+
+11.0 Contributions and Thank-You's
+--------------------------------------
+
+    GameFAQs (www.gamefaqs.com) for hosting this FAQ, along with more great gaming info 
+than most any site out there. Keep up the good work, man. Without GameFAQs... where would 
+we all go for detailed game help? Sure, lotsa places have great code archives, and some TRY 
+to keep all the best FAQs. But who succeeds? Only one, my friend ^_^ Jeff "CJayC" Veasey 
+does an astounding, daily job of organizing these entries (and he writes his own wonderful 
+FAQs). I must also give a hearty thanks to Al Amaloo, the maintainer of Videogame 
+Strategies (vgstrategies.about.com). He has completed perhaps the best and most extensive 
+archive of codes and tricks (www.gamewinners.com) and written extensive guides for games 
+that would go otherwise un-covered. And what makes these two men (Jeff Veasey and Al 
+Amaloo) so special... is that they provide an invaluable service to the gaming community 
+out of the goodness of their heart. They work hard, every day, without the help of any 
+major affiliate. Bravo to both of you!
+
+    The wonderful patrons of my own message board, the OtherWorlds Shrine (www.tows.org) 
+which is sometimes the only refuge for the true gamer. Along with my friend SineSwiper, we 
+keep the shrine alive as a place for gamers to respectfully speak and get together while 
+online. The friends that I have made there have meant the world to me, despite how my "real 
+life" sometimes drags me offline for days at a time. Either way, here's to ya'll... and I 
+won't mention any names (as there are too many of you to possibly remember them all now. 
+And you'll kill me if I miss any, hehe). The place has been around for years, and I 
+guarantee that it will always exist as long as there is an Internet.
+
+    The select few of my OFF-line friends who love gaming almost as much as myself, and 
+keep me inspired to keep on playing. Tacchi, you're as obsessed over games as me. We've 
+been gaming for well near two decades. We're getting old, dude. And Crystal, well you can 
+kick most of our sorry arses ^_^ Steffannee... you introduced me to Will in Rival Schools! 
+Scott, you've been a pal through it all, despite how you suck at games ^_^ Kathryn, your 
+love and understanding will always be cherished (yes, call me sappy). And Alex, you've been 
+there since we were infants, when the NES was only a dream in the semi-near future. Chris, 
+you're one of my dearest friends (as well as one of the most eerily unique). Your love for 
+the Butterfly song and the goofy dance you do... will always bring a smile to my face.
+
+    And of course, thanks go out to Lynn and Donna! You two are a few of the only people 
+who love Pop 'n Music (and Bust a Move of course) as much as I do. Every time we meet is a 
+cherished moment. And, speaking of music games, I owe a world of thanks to Malcolm. His 
+friendship has meant a ton to me, and he's one of those few folks who plays and works hard 
+at ALL the music game series just like I do (Beatmania, Dance Dance Revolution, Pop 'n 
+Music, Bust a Move, and the countless other Bemani titles as well). And to the fans of 
+music games, worldwide, i offer the greatest thanks of all. Our demand is what keeps this 
+amazing genre of games coming back to us every month.
+
+    Konami, Sony, Sega, and all the great companies and people who made the game possible. 
+Without them, we'd never have been introduced to this wonderous world, beautiful 
+characters, and a style of gaming that changed our lives. These Bemani games, like Dance 
+Dance Revolution, are perhaps my favorite genre out there right now. It gives those folks 
+with a "rhythmical sense" a way to convey that sense through gaming. And besides, it beats 
+having another cookie-cutter RPG or fighter to deal with.
+
+
+
+~End of File~

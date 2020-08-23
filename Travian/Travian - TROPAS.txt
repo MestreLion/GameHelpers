@@ -1,0 +1,40 @@
+botelli 
+120060 barbaros
+34074  CT
+960    arietes
+7452   catapas
+
+Teutao
+73697 barbaros
+27013 CT
+1906  arietes
+
+Rymerzito
+75495 imperiano
+20072 caesaris
+2528  arietes
+5987  catapas
+
+BomberMaxGT
+30962 espada
+11450 haeduano
+1923  ariete
+8145  catas
+
+Sonecarox
+42864	Bárbaros
+14967	Cavaleiros Teutões
+2017	Aríetes
+1984	Catapultas
+
+MujoGT
+23720 espadas
+11200 haeduano
+2251 cata
+
+RallynGT
+27492 Imperianos 
+5880 Equites Caesaris 
+700 Aríetes 
+3563 Catapultas de Fogo 
+

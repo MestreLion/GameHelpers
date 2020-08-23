@@ -1,0 +1,970 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 3.0">
+<title>Save State Editors Programming</title>
+<link href="style.css" rel="stylesheet">
+</head>
+
+<body bgcolor="#000080" text="#C0C0C0">
+
+<p align="left"><strong><font face="Courier New"><big><big><font color="#FFFFFF">Save
+State Editors Programming v2.5</font><br>
+</big></big></font></strong></p>
+
+<p align="left"><strong><font face="Courier New">by: <a
+href="mailto:The_Fake_God@hotmail.com">The_Fake_God</a><br>
+<a href="mailto:The_Fake_God@hotmail.com">Last updated: September, 2001</a></font></strong></p>
+
+<p align="left">&nbsp;</p>
+
+<p><u><font face="Courier New" color="#FFFFFF"><big><strong>Things you need before
+starting</strong></big></font></u></p>
+
+<p><strong><font face="Courier New">A copy of Visual Basic <br>
+- <a href="http://www.retrobase.com/fakegod/downloads">http://www.retrobase.com/fakegod/downloads</a></font></strong></p>
+
+<p><strong><font face="Courier New">UgeTab's Save State Hacking Guide (if you don't know
+how to hack states)<br>
+- <a href="http://www.angelfire.com/nc/ugetab/">http://www.angelfire.com/nc/ugetab/</a> </font></strong></p>
+
+<p>&nbsp;</p>
+
+<p><u><font face="Courier New" color="#FFFFFF"><big><strong>Index</strong></big></font></u>
+
+<ol style="font-family: Courier New; font-size: 12pt">
+  <li><font face="Courier New" color="#C0C0C0"><strong>Introduction</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Programming Languages </strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>The Basic of Visual Basic</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Variables</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>File I/O</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Binary Mode</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Making the Editor Step by Step</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Advanced Data Loading/Saving</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Advanced Editor Creation</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Links</strong></font></li>
+  <li><font face="Courier New" color="#C0C0C0"><strong>Credits </strong></font></li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>Introduction</strong></big></u></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Finally I decided to update this doc.
+Version 2.5 is a total remake from the last &quot;plain text&quot; version. I added a lot
+of stuff: basic programming, more techniques, &quot;how to make your editors look
+nice&quot;, advanced controls support, etc. I can guarantee that after reading this
+document you´ll be able to create a full featured Save State Editor. Everything here is
+fixed to the best of my knowledge and experience with editors. Well, make your best effort
+and read/analyze every piece of code.</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>Programming Languages</strong></big></u></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>There´s enough material to write
+entire books about this topic, however you won´t need a single page of theory to make
+editors. This section was created to show you the basic structure of a program.</strong></font></p>
+
+<p><strong><font face="Courier New" color="#C0C0C0">There are three types of programming
+languges: machine code (hex, binary), </font><font face="Courier New" color="#808080">Low
+Level Languages</font><font face="Courier New" color="#C0C0C0"> (6502, Z80, 486, etc.), </font><font
+face="Courier New" color="#808080">High Level Languages</font><font face="Courier New"
+color="#C0C0C0"> (C++, Pascal, Basic, etc.). What's the difference? Well, I don't if
+anyone still program in machine code (maybe an old 50's programming enthusiast...) Low
+Level Languages (well known as Assembly) are used in several systems and programs. I.E a
+NES rom is coded in 6502, a GB one uses Z80 (well sort of), 486: dos/windows programs(for
+example). Assembly is the fastest language around. High Level Languages are the ones in
+which you can make readable codes. I think C++ is the fastest HHL. These languages (HLL)
+are converted to Assembly through a compiler. Visual Basic is not a full compiled
+language, that's why it´s sooo slow. Every VB program needs something called </font><font
+face="Courier New" color="#808080">Microsoft Visual Basic Virtual Machine</font><font
+face="Courier New" color="#C0C0C0"> (MSVBVMx.DLL). This library is some kind of
+VB&lt;-&gt;System translator.</font></strong></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>It´s important to know at least the
+basics of the theory, this little lesson about PL, will help you understand your programs.
+</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>The Basic of Visual Basic</strong></big></u></font></p>
+
+<p><strong><font face="Courier New" color="#C0C0C0">If you don´t know how to
+create/save/open projects, I suggest you to learn before continuing. Visual Basic has a
+collection of objects named </font><font face="Courier New" color="#808080">Controls. </font><font
+face="Courier New" color="#C0C0C0">There are a lot of different controls, this is a list
+of the most common ones:</font></strong></p>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New" color="#FFFFFF"><u><strong>Control Name</strong></u></font></td>
+    <td width="66%"><font face="Courier New" color="#FFFFFF"><u><strong>Description</strong></u></font></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><strong><font face="Courier New">Form</font></strong></td>
+    <td width="66%"><strong><font face="Courier New">Window that holds controls</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>TextBox</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Box to retrieve input from user</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>PictureBox</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Painting Surface</font></strong></td>
+  </tr>
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>Label</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Static Text</font></strong></td>
+  </tr>
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>ComboBox</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Dropdown List</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>ListBox</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">A simple list</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>Frame</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Area created to group controls</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>ChechBox</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Simple On/Off switch</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>Option</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Like the chkbox, it works as part of a
+    group</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="34%"><font face="Courier New"><strong>CommandButton</strong></font></td>
+    <td width="66%"><strong><font face="Courier New">Simple &quot;Click Me&quot; button</font></strong></td>
+  </tr>
+</table>
+
+<p><strong><font face="Courier New">The Form isn´t a control, it´s a dialog box. Each
+one of them(controls) is determined by its own characteristics. For example, think of your
+house as a VB object:</font></strong></p>
+
+<p><strong><font face="Courier New">MyHouse.Address</font></strong></p>
+
+<p><strong><font face="Courier New">&quot;Address&quot; is a property of your house. Some
+controls have &quot;mini-controls&quot; inside them:</font></strong></p>
+
+<p><strong><font face="Courier New">MyHouse.MyRoom.Size</font></strong></p>
+
+<p><strong><font face="Courier New">&quot;MyRoom&quot;, subitem. &quot;Size&quot;
+Subitem's property.</font></strong></p>
+
+<p><strong><font face="Courier New">Make a simple program to mess around with object
+properties. It will help you understand further examples.</font></strong></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>Variables</strong></big></u></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>This is one of the most important
+lessons. Take a look at this chart:</strong></font></p>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><font face="Courier New" color="#FFFFFF"><u><strong>Type</strong></u></font></td>
+    <td width="18%"><font face="Courier New" color="#FFFFFF"><u><strong>Memory</strong></u></font></td>
+    <td width="53%"><font face="Courier New" color="#FFFFFF"><u><strong>Range</strong></u></font></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><strong><font face="Courier New" color="#C0C0C0">Byte</font></strong></td>
+    <td width="18%"><font face="Courier New" color="#C0C0C0"><strong>1 Byte</strong></font></td>
+    <td width="53%"><font face="Courier New" color="#C0C0C0"><strong>0 to 255</strong></font></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><font face="Courier New" color="#C0C0C0"><strong>Integer</strong></font></td>
+    <td width="18%"><font face="Courier New" color="#C0C0C0"><strong>2 Bytes</strong></font></td>
+    <td width="53%"><strong><font face="Courier New">-32,768 to 32,767</font></strong></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><font face="Courier New" color="#C0C0C0"><strong>Long</strong></font></td>
+    <td width="18%"><font face="Courier New" color="#C0C0C0"><strong>4 Bytes</strong></font></td>
+    <td width="53%"><font face="Courier New"><strong>-2,147,483,648 to 2,147,483,647</strong></font></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><font face="Courier New" color="#C0C0C0"><strong>String</strong></font></td>
+    <td width="18%"><font face="Courier New" color="#C0C0C0"><strong>? Bytes</strong></font></td>
+    <td width="53%"><font face="Courier New"><strong>ASCII Characters</strong></font></td>
+  </tr>
+</table>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="29%"><font face="Courier New" color="#C0C0C0"><strong>Boolean</strong></font></td>
+    <td width="18%"><strong><font face="Courier New" color="#C0C0C0">2 Bytes</font></strong></td>
+    <td width="53%"><strong><font face="Courier New">True or False</font></strong></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>There a few more variable types that
+you´re not going to use in Save State Editors programming. Remember the size of each one.</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>File I/O</strong></big></u></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>If you have programmed in other
+languages you will find big differences when using Basic. In VB, you don't need interrupts
+or classes. Indeed VB File I/O is pretty straight forward. These are VB I/O Access modes:</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">Input</font><font face="Courier New"
+color="#C0C0C0">&nbsp; - Read only mode (I)<br>
+</font><font face="Courier New" color="#FFFFFF">Output</font><font face="Courier New"
+color="#C0C0C0"> - Write only mode (O)<br>
+</font><font face="Courier New" color="#FFFFFF">Random</font><font face="Courier New"
+color="#C0C0C0"> - Data types, sized block (you´re not going to use it)<br>
+</font><font face="Courier New" color="#FFFFFF">Binary</font><font face="Courier New"
+color="#C0C0C0"> - Read/Write Binary. This is the mode that you´re going to use.</font></strong></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><big><u><strong>Binary Mode</strong></u></big></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Binary mode can be called like this:</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#379F2F">' Open File / Mode: Binary</font><br>
+    <font face="Courier New" color="#0000A0">Open</font><font face="Courier New"
+    color="#000000"> &quot;C:\MyFolder\MyFile.xyz&quot; </font><font color="#000080"
+    face="Courier New">For Binary As</font><font face="Courier New" color="#000000"> #1</font><p><font
+    face="Courier New" color="#379F2F">' Close the file</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font color="#000080" face="Courier New">Close</font><font face="Courier New"
+    color="#000000"> #1</font></td>
+  </tr>
+</table>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>The &quot;#1&quot; at the end is the
+file number. It can be any byte value(0/255). A very important thing to remember is to
+close the file after you used it. Binary mode has two basic methods we´re going to cover:</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">Get</font><font color="#C0C0C0"
+face="Courier New"> - Syntax is: Get [Filenumber], [Address], [Variable]<br>
+</font><font face="Courier New" color="#FFFFFF">Put</font><font color="#C0C0C0"
+face="Courier New"> - Syntax is: Put [Filenumber], [Address], [Variable]</font></strong></p>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>You can call these methods like this:</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#379F2F">' Open File / Mode: Binary</font><br>
+    <font face="Courier New" color="#0000A0">Open</font><font face="Courier New"
+    color="#000000"> &quot;C:\Zsnes\Mario.zst&quot; </font><font color="#000080"
+    face="Courier New">For Binary As</font><font face="Courier New" color="#000000"> #1</font><p><font
+    face="Courier New" color="#379F2F">' Allocate memory for one byte</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font color="#000080" face="Courier New">Dim</font><font face="Courier New"
+    color="#000000"> Life </font><font color="#000080" face="Courier New">As Byte</font></p>
+    <p><font face="Courier New" color="#379F2F">' Get Life</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font color="#000080" face="Courier New">Get</font><font face="Courier New"
+    color="#000000"> #1, 123456 + 1, Life</font></p>
+    <p><font face="Courier New" color="#379F2F">' Edit the value of Life</font><font
+    face="Courier New" color="#000000"><br>
+    Life = 99</font></p>
+    <p><font face="Courier New" color="#379F2F">' Put Life</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font color="#000080" face="Courier New">Put</font><font face="Courier New"
+    color="#000000"> #1, 123456 + 1, CByte(Life)</font></p>
+    <p><font face="Courier New" color="#379F2F">' Close the file</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font color="#000080" face="Courier New">Close</font><font face="Courier New"
+    color="#000000"> #1</font></td>
+  </tr>
+</table>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>Dim is a keyword used to
+&quot;Dimension&quot; a variable to a type. You can change the type to anything (valid!)
+you want. &quot;Get #1, 123456 + 1, Life&quot; Ok, your program will get 1 byte of data
+(size of Life) from the offset 123456. The &quot;+ 1&quot; thing is used because a
+hexeditor (or any other program you use to find offsets), reads starting at offset 0,
+Visual Basic starts at 1. It´s better to leave the &quot;123456 + 1&quot; instead of
+&quot;123457&quot; beacuse it´s easier to debug (but it´s still the same). The Cbyte()
+function returns a valid size according to the sent variable (CInt() and CLng() are also
+valid). Now you know enough to create a simple save state editor.</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>Making the Editor Step by Step</strong></big></u></font></p>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>There are some basic steps you must
+follow in order to make an editor. First of all, you need to get the name of the file
+you´re going to edit. You can take different paths (API, Simple Dialog with FileBoxes,
+CommonDialog Control). I´m going to explain the CommonDilaog control one.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>Common Dialog Control</strong></font></p>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>Add the control to your project
+(CTRL+T). &quot;Microsoft Common Dialog Control x.0&quot; Once you have added it to your
+main form, make this changes:</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">.Name</font><font color="#C0C0C0"
+face="Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = dlgMain<br>
+</font><font face="Courier New" color="#FFFFFF">.Filter</font><font color="#C0C0C0"
+face="Courier New">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = Zsnes Save States (*.zs*)|*.zs*<br>
+</font><font face="Courier New" color="#FFFFFF">.CancelError</font><font color="#C0C0C0"
+face="Courier New"> = True</font></strong></p>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>Now that you have a way to get the
+file, make it work. Put a CommandButton somewhere in your form.</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">.Name</font><font color="#C0C0C0"
+face="Courier New">&nbsp;&nbsp;&nbsp; = cmdLoad<br>
+</font><font face="Courier New" color="#FFFFFF">.Caption</font><font color="#C0C0C0"
+face="Courier New"> = &amp;Load</font></strong></p>
+
+<p><font color="#C0C0C0" face="Courier New"><strong>Open the code editor (double click on
+cmdLoad) and go to cmdLoad_Click():</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#3DA62B">' Prevent the CancelError</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">On Local Error Resume Next</font><p><font
+    face="Courier New" color="#3DA62B">' Show the File Dialog</font><font face="Courier New"
+    color="#000000"><br>
+    dlgMain.ShowOpen</font></p>
+    <p><font face="Courier New" color="#3DA62B">' If the user pressed ok then...</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Err.Number = 0 then</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Open the File</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Open</font><font face="Courier New"
+    color="#000000"> dlgMain.FileName </font><font face="Courier New" color="#000080">For
+    Binary As</font><font face="Courier New" color="#000000"> #1</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Close the file</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Close</font><font face="Courier New"
+    color="#000000"> #1</font></p>
+    <p><font face="Courier New" color="#000080">End If</font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Everytime you click on cmdLoad it will
+open and close the selected file. You need something to edit! Go to the
+&quot;General&quot; section of your form code and add these lines:</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#000080">Dim</font><font
+    face="Courier New" color="#379F2F"> </font><font face="Courier New" color="#000000">Money</font><font
+    face="Courier New" color="#379F2F"> </font><font face="Courier New" color="#000080">As
+    Long</font><font face="Courier New" color="#379F2F"><br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#379F2F"> </font><font face="Courier New" color="#000000">Hp</font><font
+    face="Courier New" color="#379F2F"> </font><font face="Courier New" color="#000080">As
+    Integer</font><font face="Courier New" color="#379F2F"><br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#379F2F"> </font><font face="Courier New" color="#000000">Level</font><font
+    face="Courier New" color="#379F2F"> </font><font face="Courier New" color="#000080">As
+    Byte</font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>You have the memory, but you still
+need someplace to display the data. Add three TextBoxes:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Name = txtMoney<br>
+Name = txtHp<br>
+Name = txtLevel</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Change the look of your form:</strong></font></p>
+
+<p><img src="Images/Example_1.jpg" width="287" height="264"
+alt="Change the Look of you Form"></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Now change the cmdLoad_Click()
+Subroutine:</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#3DA62B">' Prevent the CancelError</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">On Local Error Resume Next</font><p><font
+    face="Courier New" color="#3DA62B">' Show the File Dialog</font><font face="Courier New"
+    color="#000000"><br>
+    dlgMain.ShowOpen</font></p>
+    <p><font face="Courier New" color="#3DA62B">' If the user pressed ok then...</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Err.Number = 0 then</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Open the File</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Open</font><font face="Courier New"
+    color="#000000"> dlgMain.FileName </font><font face="Courier New" color="#000080">For
+    Binary As</font><font face="Courier New" color="#000000"> #1</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Get the Money</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#000000"> #1, 8390 + 1, Money<br>
+    txtMoney.Text = Money</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Get the HP</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#000000"> #1, 30435 + 1, Hp<br>
+    txtHp.Text = Hp</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Get the Level</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#000000"> #1, 30443 + 1, Level<br>
+    txtLevel.Text = Level</font></p>
+    <p><font face="Courier New" color="#3DA62B">' Close the file</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Close</font><font face="Courier New"
+    color="#000000"> #1</font></p>
+    <p><font face="Courier New" color="#000080">End If</font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Test this program with a DeJap's
+Patched Tales of Phantasia State. Now, lets save the changes. Add a CommadButton with the
+following properties:</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">.Name</font><font face="Courier New"
+color="#C0C0C0">&nbsp;&nbsp;&nbsp; = cmdSave<br>
+</font><font face="Courier New" color="#FFFFFF">.Caption</font><font face="Courier New"
+color="#C0C0C0"> = &amp;Save</font></strong></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Put it somewhere in the form, like
+this:</strong></font></p>
+
+<p><img src="Images/example_2.jpg" width="201" height="256"
+alt="example_2.bmp (154678 bytes)"></p>
+
+<p><strong><font face="Courier New">Now open up the code editor and make the
+cmdSave_Click() subroutine look like this:</font></strong></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New"><font color="#000080">Private Sub</font> <font
+    color="#000000">cmdSave_Click()</font><br>
+    <font color="#32A537">' Open the selected file</font><font color="#000000"><br>
+    </font><font color="#000080">Open</font><font color="#000000"> dlgMain.FileName </font><font
+    color="#000080">For Binary As</font><font color="#000000"> #1<br>
+    <br>
+    </font><font color="#32A537">' &quot;Put&quot; the Money, use CLng()</font><font
+    color="#000000"><br>
+    </font><font color="#000080">Put</font><font color="#000000"> #1, 8390 + 1, </font><font
+    color="#000080">CLng</font><font color="#000000">(Val(txtMoney))<br>
+    <br>
+    </font><font color="#32A537">' &quot;Put&quot; the Hp</font><font color="#000000"><br>
+    </font><font color="#000080">Put</font><font color="#000000"> #1, 30435 + 1, </font><font
+    color="#000080">CInt</font><font color="#000000">(Val(txtHp))<br>
+    <br>
+    </font><font color="#32A537">' &quot;Put&quot; the level</font><font color="#000000"><br>
+    </font><font color="#000080">Put</font><font color="#000000"> #1, </font></font><font
+    face="Courier New" color="#000000">30443</font><font face="Courier New"><font
+    color="#000000"> + 1, </font><font color="#000080">CByte</font><font color="#000000">(Val(txtLevel))<br>
+    <br>
+    </font><font color="#32A537">' Confirmation Message</font><font color="#000000"><br>
+    </font><font color="#000080">MsgBox</font><font color="#000000"> &quot;Saved!&quot;,
+    vbExclamation, &quot;Saved!&quot;<br>
+    <br>
+    </font><font color="#32A537">' Close the File</font><font color="#000000"><br>
+    </font><font color="#000080">Close</font><font color="#000000"> #1<br>
+    </font><font color="#000080">End Sub</font></font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Since you already got a filename, you
+don´t need to get it again. Open the same file and &quot;Put&quot; the changed stuff. Use
+always the TypeCast and Val() functions since you have to size every value to your needs,
+also the user can type &quot;xlksj&quot; instead of a valid number, and you don´t your
+program to crash, do you?. If Val() reads an invalid number the returned value will be
+zero. </strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>I found the offsets using Universal
+Game Editor (decimal base editor), if you use hexworkshop or anyother hexediting program
+to find the offsets, you can use the &quot;&amp;H&quot; prefix to use hexadecimal numbers.
+Examples:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Put #1,&nbsp; &amp;H320A + 1,
+MyVariable<br>
+Put #1,&nbsp; &amp;HFFFF + 1, CInt(&amp;HFFFF)&nbsp; ' CInt(&amp;HFFFF) will return -32767
+&nbsp; <br>
+Put #1,&nbsp; &amp;HC04E + &amp;H1, CByte(&amp;HFF) ' Which is actually a bit stupid</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><u><big><strong>Advanced Data Loading/Saving</strong></big></u></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>In the variables lesson you learned
+the ranges of each data type. A lot of games use different ranges and types of variables.
+First of all you have to know the difference between a signed variable and an unsigned
+one.</strong></font></p>
+
+<p><strong><font face="Courier New" color="#C0C0C0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font><font face="Courier New" color="#FFFFFF">Signed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unsigned<br>
+Byte</font><font face="Courier New" color="#C0C0C0">&nbsp;&nbsp;&nbsp; -127/127
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0/255<br>
+</font><font face="Courier New" color="#FFFFFF">Integer</font><font face="Courier New"
+color="#C0C0C0"> -32767/32767&nbsp; 0/65535</font></strong></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>You can´t read a 65535 directly
+through VB (at least not as an integer). You have to convert what you have, from signed to
+unsigned. Use the following functions to convert the values, these functions were written
+by Che Weng: </strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#32A537">' Copy these to a module</font><br>
+    <font face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Public Sub</font><font face="Courier New"
+    color="#000000"> SaveInteger(offset, value, location)<br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> Sval </font><font face="Courier New" color="#000080">As</font><font
+    face="Courier New" color="#000000"> Byte<br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> A, B, C<br>
+    A = Hex(value)<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A) = 1 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A = &quot;000&quot; &amp; A<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A) = 2 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A = &quot;00&quot; &amp; A<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A) = 3 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A = &quot;0&quot; &amp; A<br>
+    B = ConvertHex(Left(A, 2))<br>
+    C = ConvertHex(Right(A, 2))<br>
+    </font><font face="Courier New" color="#000080">Open</font><font face="Courier New"
+    color="#000000"> location </font><font face="Courier New" color="#000080">For</font><font
+    face="Courier New" color="#000000"> </font><font face="Courier New" color="#000080">Binary
+    As</font><font face="Courier New" color="#000000"> 1<br>
+    </font><font face="Courier New" color="#000080">Put</font><font face="Courier New"
+    color="#000000"> #1, offset, </font><font face="Courier New" color="#000080">CByte</font><font
+    face="Courier New" color="#000000">(C)<br>
+    </font><font face="Courier New" color="#000080">Put</font><font face="Courier New"
+    color="#000000"> #1, offset - -1, </font><font face="Courier New" color="#000080">CByte</font><font
+    face="Courier New" color="#000000">(B)<br>
+    </font><font face="Courier New" color="#000080">Close</font><font face="Courier New"
+    color="#000000"> 1<br>
+    </font><font face="Courier New" color="#000080">End Sub</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#32A537">' Usage Example:<br>
+    ' Call SaveInteger(12345 + 1, val(txtLevel), dlgMain.FileName)</font><p><font
+    face="Courier New" color="#000080">Function</font><font face="Courier New" color="#000000">
+    ConvertHex(h$) </font><font face="Courier New" color="#000080">As Currency</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> Tmp$<br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> lo1 As Integer, lo2 As Integer<br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> hi1 As Long, hi2 As Long<br>
+    </font><font face="Courier New" color="#000080">Const</font><font face="Courier New"
+    color="#000000"> Hx = &quot;&amp;H&quot;<br>
+    </font><font face="Courier New" color="#000080">Const</font><font face="Courier New"
+    color="#000000"> BigShift = 65536<br>
+    </font><font face="Courier New" color="#000080">Const</font><font face="Courier New"
+    color="#000000"> LilShift = 256, Two = 2<br>
+    Tmp = h<br>
+    </font><font face="Courier New" color="#32A537">'In case &quot;&amp;H&quot; is present</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If UCase</font><font face="Courier New"
+    color="#000000">(Left$(h, 2)) = &quot;&amp;H&quot; </font><font face="Courier New"
+    color="#000080">Then</font><font face="Courier New" color="#000000"> Tmp = Mid$(h, 3)<br>
+    </font><font face="Courier New" color="#32A537">'In case there are too few characters</font><font
+    face="Courier New" color="#000000"><br>
+    Tmp = Right$(&quot;0000000&quot; &amp; Tmp, 8)<br>
+    </font><font face="Courier New" color="#32A537">'In case it wasn't a valid number</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> IsNumeric(Hx &amp; Tmp) </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"><br>
+    lo1 = </font><font face="Courier New" color="#000080">CInt</font><font face="Courier New"
+    color="#000000">(Hx &amp; Right$(Tmp, Two))<br>
+    hi1 = </font><font face="Courier New" color="#000080">CLng</font><font face="Courier New"
+    color="#000000">(Hx &amp; Mid$(Tmp, 5, Two))<br>
+    lo2 = </font><font face="Courier New" color="#000080">CInt</font><font face="Courier New"
+    color="#000000">(Hx &amp; Mid$(Tmp, 3, Two))<br>
+    hi2 = </font><font face="Courier New" color="#000080">CLng</font><font face="Courier New"
+    color="#000000">(Hx &amp; Left$(Tmp, Two))<br>
+    ConvertHex = CCur(hi2 * LilShift + lo2) * BigShift + (hi1 * LilShift) + lo1<br>
+    </font><font face="Courier New" color="#000080">End If<br>
+    End Function</font></p>
+    <p><font face="Courier New" color="#000080">Public Function</font><font face="Courier New"
+    color="#000000"> GetInteger(value)<br>
+    </font><font face="Courier New" color="#000080">Dim</font><font face="Courier New"
+    color="#000000"> A$<br>
+    A$ = Hex(value)<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A$) = 1 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A$ = &quot;000&quot; &amp; A$<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A$) = 2 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A$ = &quot;00&quot; &amp; A$<br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(A$) = 3 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> A$ = &quot;0&quot; &amp; A$<br>
+    GetInteger = ConvertHex(A$)<br>
+    </font><font face="Courier New" color="#000080">End Function<br>
+    <br>
+    </font><font face="Courier New" color="#32A537">' Usage Example:<br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#32A537"> </font><font face="Courier New" color="#000000">#1, 1234 + 1, MyInteger<br>
+    txtHP = GetInteger(MyInteger)</font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Another example is the way Squaresoft
+games store their money variables. Instead of using 4 bytes to make a long integer they
+set it to three bytes making 9999999 a reasonable number for your money. I wrote three
+functions to solve the problem:</strong></font></p>
+
+<table border="0" width="100%" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%"><font face="Courier New" color="#32A537">' Copy these to a module</font><br>
+    <br>
+    <font face="Courier New" color="#000080">Public Sub</font><font face="Courier New"
+    color="#000000"> SaveTByte(offset, value, </font><font face="Courier New" color="#000080">ByVal</font><font
+    face="Courier New" color="#000000"> file)<br>
+    </font><font face="Courier New" color="#32A537">' Disarm the value</font><font
+    face="Courier New" color="#000000"><br>
+    temp = cHex(Hex(value), 6)<br>
+    <br>
+    </font><font face="Courier New" color="#000080">Open</font><font face="Courier New"
+    color="#000000"> file </font><font face="Courier New" color="#000080">For Binary As</font><font
+    face="Courier New" color="#000000"> #1<br>
+    &nbsp; </font><font face="Courier New" color="#000080">Put</font><font face="Courier New"
+    color="#000000"> #1, offset, </font><font face="Courier New" color="#000080">CByte</font><font
+    face="Courier New" color="#000000">(&quot;&amp;H&quot; &amp; Right(temp, 2))<br>
+    &nbsp; </font><font face="Courier New" color="#000080">Put</font><font face="Courier New"
+    color="#000000"> #1, offset + 1, </font><font face="Courier New" color="#000080">CByte</font><font
+    face="Courier New" color="#000000">(&quot;&amp;H&quot; &amp; Mid(temp, 3, 2))<br>
+    &nbsp; </font><font face="Courier New" color="#000080">Put</font><font face="Courier New"
+    color="#000000"> #1, offset + 2, </font><font face="Courier New" color="#000080">CByte</font><font
+    face="Courier New" color="#000000">(&quot;&amp;H&quot; &amp; Left(temp, 2))<br>
+    </font><font face="Courier New" color="#000080">Close</font><font face="Courier New"
+    color="#000000"> #1<br>
+    </font><font face="Courier New" color="#000080">End Sub</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#32A537">' Usage Example:<br>
+    ' Call SaveTByte(12345 + 1, val(txtMyVal), dlgMain.FileName)<br>
+    </font><font face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Public Function</font><font
+    face="Courier New" color="#000000"> cHex(sHex </font><font face="Courier New"
+    color="#000080">As String</font><font face="Courier New" color="#000000">, lenght </font><font
+    face="Courier New" color="#000080">As Byte</font><font face="Courier New" color="#000000">)
+    </font><font face="Courier New" color="#000080">As String</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#32A537">' BYTE</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> lenght = 2 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"><br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 1 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;0&quot; &amp; sHex<br>
+    </font><font face="Courier New" color="#000080">End If</font><font face="Courier New"
+    color="#000000"><br>
+    <br>
+    </font><font face="Courier New" color="#32A537">' Integer</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> lenght = 4 Then<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 1 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;000&quot; &amp; sHex<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 2 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;00&quot; &amp; sHex <br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 3 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;0&quot; &amp; sHex<br>
+    </font><font face="Courier New" color="#000080">End If</font><font face="Courier New"
+    color="#000000"><br>
+    <br>
+    </font><font face="Courier New" color="#32A537">' Three byte</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> lenght = 6 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"><br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 1 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;00000&quot; &amp; sHex<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 2 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;0000&quot; &amp; sHex<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 3 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;000&quot; &amp; sHex<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 4 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;00&quot; &amp; sHex<br>
+    &nbsp; </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> Len(sHex) = 5 </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"> sHex = &quot;0&quot; &amp; sHex<br>
+    </font><font face="Courier New" color="#000080">End If</font><font face="Courier New"
+    color="#000000"><br>
+    <br>
+    </font><font face="Courier New" color="#32A537">' Set the return value</font><font
+    face="Courier New" color="#000000"><br>
+    cHex = sHex<br>
+    </font><font face="Courier New" color="#000080">End Function</font><font
+    face="Courier New" color="#000000"><br>
+    <br>
+    </font><font face="Courier New" color="#000080">Public Function</font><font
+    face="Courier New" color="#000000"> tByte(int1, byt1) </font><font face="Courier New"
+    color="#000080">As Long</font><font face="Courier New" color="#000000"><br>
+    lo = cHex(Hex(int1), 4)<br>
+    hi = cHex(Hex(byt1), 2)<br>
+    lo1 = Left(lo, 2)<br>
+    lo2 = Right(lo, 2)<br>
+    <br>
+    </font><font face="Courier New" color="#000080">If</font><font face="Courier New"
+    color="#000000"> hi = &quot;00&quot; </font><font face="Courier New" color="#000080">Then</font><font
+    face="Courier New" color="#000000"><br>
+    &nbsp; tByte = </font><font face="Courier New" color="#000080">CLng</font><font
+    face="Courier New" color="#000000">(&quot;&amp;H&quot; &amp; lo)<br>
+    </font><font face="Courier New" color="#000080">Else</font><font face="Courier New"
+    color="#000000"><br>
+    &nbsp; tByte = </font><font face="Courier New" color="#000080">CLng</font><font
+    face="Courier New" color="#000000">(&quot;&amp;H&quot; &amp; hi &amp; lo1 &amp; lo2)<br>
+    </font><font face="Courier New" color="#000080">End If</font><font face="Courier New"
+    color="#000000"><br>
+    </font><font face="Courier New" color="#000080">End Function<br>
+    </font><font face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#32A537">' Usage Example:</font><font
+    face="Courier New" color="#000000"><br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#000000"> #1, 1234 + 1, MyInt<br>
+    </font><font face="Courier New" color="#000080">Get</font><font face="Courier New"
+    color="#000000"> #1, 1234 + 2, MyByte<br>
+    txtMoney = tByte(MyInt, MyByte) </font></td>
+  </tr>
+</table>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Now that you know how to edit those
+variables, add a bit more functionality to your editors by improving the GUI.</strong></font></p>
+
+<p>&nbsp;</p>
+
+<p><big><font face="Courier New" color="#FFFFFF"><u><strong>Advanced Editor Creation</strong></u></font></big></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>The advanced editor creation resides
+mainly in the GUI (graphical user interface) and the system you use to Load/Data. First
+I´m going to discuss the different ways to Load/Data.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>The Controls Array</strong></font></p>
+
+<p><strong><font face="Courier New" color="#C0C0C0">Create a new project and add a Label
+to it. Now right click on it and select copy, right click on your form and select paste. A
+message box will pop up asking if you want to create a control array. Click on yes/ok and
+check the name of your first Label. </font><font face="Courier New" color="#FFFFFF">Label1(0)
+</font><font face="Courier New" color="#C0C0C0">and the second one:</font><font
+face="Courier New" color="#FFFFFF"> Label1(1). </font><font face="Courier New"
+color="#C0C0C0">Repeat the operation and VB won´t ask, it will add a control named </font><font
+face="Courier New" color="#FFFFFF">Label1(2). </font><font face="Courier New"
+color="#C0C0C0">The number enclosed in parentheses represents the array index, so if you
+want to have access to any of the array controls use that number. Now, all the Message
+Handlers (Click(), MouseUp()...) will have an extra parameter: Index As Integer. This
+means that you´ll recieve the array index. So you can set up If...End If forks like this:</font></strong></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>If Index = 0 Then.....<br>
+ElseIf Index = 6 Then......<br>
+End If</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>I suggest you to use control arrays
+when coding RPG's editors. This will make your code faster and more effective.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>The For...Next Loop</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>I guess you already know how to use
+it, if not this is (briefly) how it works:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>For [initialize index] To [Upper
+Bound] Step #(optional)<br>
+.<br>
+.<br>
+.<br>
+Next [index]</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Example:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>For i = 0 to 1000<br>
+Form1.Caption = i<br>
+Next i</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>You can take advantage of this in most
+RPG games. These games (in their vast majority) store the character's data in a single
+block of bytes (which size varies depending on the amount of characters). So if the HP is
+stored in offset 100, the next character's hp is stored in offset 200 and so on you can
+use something like this:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>k = 0<br>
+For i = 100 to 600 Step 100 ' Assuming you have to edit 6 chrs<br>
+Get #1, i + 1, MyVar<br>
+txtHP(k).Text = MyVar<br>
+k = k + 1<br>
+Next i</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>The process goes like this, Get the
+variable a the selected offset and copy it to a control(index) (part of an array). The
+&quot;i&quot; variable is incremented by 100.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>99 of all Items</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Use a For...Next Loop to solve the
+problem (Unless you want to type 99 Put #1.....) Example:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>k = 0<br>
+For i = 3000 to 3099<br>
+Put #1, i + 1, CByte(k)<br>
+Next i</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Repeat the process for the amount of
+items and you´re off.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>Other methods</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>These methods are a bit tedious
+sometimes, when you make large editors the code gets hard to debug. There are more
+effective ways to Load/Save data. I just developed a new method based on my newly gotten
+C++ skills :P It allowed me to code the FF3 editor in less than two hours, fast and
+absolutely no bugs! I will post it on this doc as soon as I get more into it, since it´s
+really beta (at least in my programs).</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>Making your program look better</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>I suggest you to make extensive use of
+other controls like the tabs, progress bars, image lists, etc. I´m going to cover only
+tabs and p. bars.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>Tabs</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>There´s not too much to explain. The
+code I use is the one created by the VB Application Wizard. Open up the &quot;The Eye of
+The Beholder&quot; code and copy the tbsOptions_Click() and tbsOptions_KeyDown message
+handlers. The code is based on a control array of picture boxes, used to hold a set of
+controls. The tabs show/hide the pictures according to the clicked index.</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>You can add little 16x16 images to the
+tabs. Make sure that the images are all the same size, also save them as 24-bit bitmaps
+with the same mask color or the mask color won´t work. Add an ImageList to your form and
+add your images to it. Change the mask color to match the one you have. Now in the tabs
+&quot;Custom&quot; Dialog (properties | custom) set the ImageList to the one you just
+added. Now you can select the image index on the tabs (individual clickable little tabs)
+properties sheet.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>Progress Bar</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>I use this control as Life Meter bars.
+If you have used my Zelda 3 Editor, you might have seen the Magic Meter Editor, it uses a
+progress bar. These bars make your GUI look better, it´s a more &quot;gaming&quot; touch.
+Example:</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>' Add a ProgressBar and name it pbLife<br>
+' Add a TextBox and Name it txtLife</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Sub txtLife_Change()<br>
+If val(txtLife) &lt; 1000 then pbLife.Value = val(txtLife)<br>
+End Sub</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>That´s all, every time you change the
+value in the textbox, your progress bar will be updated too.</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><strong>More Graphical Tips</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Try to use stuff from the game you´re
+editing (see my FF3 Item Editor). Add little pictures and this related to the game, also
+pick a good icon (you better rip it out from the game).</strong></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>&nbsp;</strong></font></p>
+
+<p><font face="Courier New" color="#FFFFFF"><big><u><strong>Links</strong></u></big></font>
+
+<ul>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a href="http://www.maxcode.com">http://www.maxcode.com</a><br>
+    </font><font face="Courier New" color="#FFFFFF">Good site with VB tutorials</font><font
+    face="Courier New" color="#C0C0C0"><br>
+    <br>
+    </font></strong></li>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a href="http://www.freevbcode.com">http://www.freevbcode.com</a><br>
+    </font><font face="Courier New" color="#FFFFFF">Great collection of VB source code</font><font
+    face="Courier New" color="#C0C0C0"><br>
+    <br>
+    </font></strong></li>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a
+    href="http://www.programmersheaven.com">http://www.programmersheaven.com</a><br>
+    </font><font face="Courier New" color="#FFFFFF">Wide selection of programming docs and
+    utilities</font><font face="Courier New" color="#C0C0C0"><br>
+    <br>
+    </font></strong></li>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a href="http://www.zophar.net">http://www.zophar.net</a><br>
+    </font><font face="Courier New" color="#FFFFFF">So far, the best emulation site</font><font
+    face="Courier New" color="#C0C0C0"><br>
+    <br>
+    </font></strong></li>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a href="http://www.romhacking.org">http://www.romhacking.org</a><br>
+    </font><font face="Courier New" color="#FFFFFF">Amazing collection of romhacking docs</font><font
+    face="Courier New" color="#C0C0C0"><br>
+    <br>
+    </font></strong></li>
+  <li><strong><font face="Courier New" color="#C0C0C0"><a href="http://www.vbexplorer.com">http://www.vbexplorer.com</a><br>
+    </font><font face="Courier New" color="#FFFFFF">Probably the best VB site</font><font
+    face="Courier New" color="#C0C0C0"><br>
+    </font></strong></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><font face="Courier New" color="#FFFFFF"><big><u><strong>Credits</strong></u></big></font></p>
+
+<p><font face="Courier New" color="#C0C0C0"><strong>Thanks to: Ugetab, Maxim, War Mike(for
+giving me the excuse I needed to update this doc :D), Che(for teaching me how to do
+editors), Gil-Galad(for teching me how to decompress Snes9x states), zophar.net.</strong></font></p>
+
+<p><strong><font face="Courier New" color="#FFFFFF">The_Fake_God</font><font
+face="Courier New" color="#C0C0C0"> - <a href="mailto:The_Fake_God@hotmail.com">The_Fake_God@hotmail.com</a><br>
+<a href="http://www.retrobase.com/fakegod">http://www.retrobase.com/fakegod</a></font></strong></p>
+</body>
+</html>

@@ -1,0 +1,1762 @@
+FINAL FANTASY VII DEBUG ROOM FAQ v0.1
+for the Sony PlayStation  (Japanese and US versions)
+by K. Megura  <kmegura@hotmail.com>
+
+ Unpublished work Copyright 1999 Kao Megura
+
+ This FAQ and everything included within this file cannot be reproduced
+ in any way, shape or form (physical, electronical, or otherwise) aside
+ from being placed on a freely-accessible, non-commercial web page in
+ it's original, unedited and unaltered format.  This FAQ cannot be used
+ for profitable purposes (even if no money would be made from selling it)
+ or promotional purposes.  It cannot be used in any sort of commercial
+ transaction.  It cannot be given away as some sort of bonus, gift, etc.,
+ with a purchase as this creates incentive to buy and is therefore
+ prohibited.  Furthermore, this FAQ cannot be used by the publishers,
+ editors, employees or associates, etc. of any company, group, business,
+ or association, etc., nor can it be used by game sites and the like.
+ It cannot be used in magazines, guides, books, etc. or in any other
+ form of printed or electronic media (including mediums not specifically
+ mentioned) in ANY way, shape, or form (including reprinting, reference
+ or inclusion), without the express written permission of the author,
+ myself.  This FAQ was created and is owned by me, Kao Megura
+ <kmegura@hotmail.com>.  All copyrights and trademarks are acknowledged
+ and respected that are not specificially mentioned in this FAQ.
+
+ To continue, this FAQ and everything included herein is protected by
+ International Copyright Law.  Failure to adhere to any of the above will
+ result in violation of the aformentioned law, and consquently, may be
+ the cause of legal action against prepetrators.  Remember that breach of
+ copyright (not to mention plagiarism) is a crime.  If you disagree with
+ any part of this disclaimer, you must promptly delete / destroy this
+ FAQ.  To put it simply, don't try and make a living off of my work,
+ since I have every right to take legal action against you if you do so.
+ FAQ ripping, plagiarism and misuse is sadly blatant in today's world.
+ However, if it happens to you, remember that anything you create is
+ automatically protected by copyright, and that gives you the right to
+ take legal action, assert your rights, and punish transgressors to the
+ fullest extent of the law.
+
+ As an added reminder, this FAQ is _not_ to be used by any freelance
+ writer for, or staff member of, the Ziff-Davis Video Game Group, nor
+ can it appear any of their publications (EGM, Expert Gamer, etc.)  
+
+The Final Fantasy series is (c) Square.
+
+This FAQ can be found at:
+---------------------------------------------------------------------
+The Back Lot of KM's Page       members.xoom.com/megura (or) i.am/kao
+GameFAQs                        www.gamefaqs.com
+
+ =================
+ TABLE OF CONTENTS
+ =================
+
+ 1.  FAQ Introduction
+ 2.  GameShark Codes
+ 3.  The Debug Room
+      - North Room
+      - Northeast Room
+      - East Room
+      - Southeast Room
+      - South Room
+      - Southwest Room
+      - West Room
+      - Northwest Room
+      - Upper Screen Exit
+      - Lower Screen Exit
+      - East Screen Exit
+      - Man in Main Room
+ 4.  Japanese / English Differences
+ 5.  Author's Note
+      - Revision History
+      - Special Thanks
+
+
+ ========================================================================
+ 1.  FAQ INTRODUCTION
+ ========================================================================
+
+  ----------------------------------------------------------------------
+
+  (Quick note from the author)
+ 
+  I just went to GameFAQs and discovered that someone else has written a
+  FAQ for this trick, and it's way more complete, too.  So aside from
+  info. on the Japanese version of the game, my FAQ doesn't offer as
+  much to the readers as his guide does.  That being said, I recommend
+  you check out his (Andrew Dean's) guide at www.gamefaqs.com, it's very
+  well written.  Of course, I'll still be working on my FAQ, but it's
+  not gonna be complete for a long while.       -km
+
+  ----------------------------------------------------------------------
+
+ This FAQ is basically a quick guide explaining how the debug rooms work.
+ Right now, the available options are mapped out, but only some of them
+ are explained.  In future revisions, I'll include what each option
+ does.  While I've done a little exploring in the Japanese debug room as
+ well, I probably won't tackle that until I've finished figuring out all
+ the options in the US debug room.  Btw, when I'm referring to the US
+ version, it's the version released for the PlayStation in America, not
+ the PSX European release or the PC release (because there are
+ differences between them all, apparently).  And the Japanese version
+ that I'm using is the original release of FF7 in Japan, not the
+ "International" Japanese re-release.
+
+ FAQ Notation
+
+ (by name)       - the character is called by whatever name you gave
+                   them.
+ "square button" - the little Square button icon is shown.
+
+
+ ========================================================================
+ 2.  GAMESHARK CODES
+ ========================================================================
+
+ All codes were tested on a Pro Action Replay v1.99.  They will also
+ work with a GameShark, but I don't know if they'll work if you have
+ a higher or lower revision number.
+                                   
+ Obviously, none of this would be possible without the GameShark code
+ that lets you enter the Debug Room (in the US version), which was
+ written by CzarDragon and RPGod.  The code is:
+
+ English ver. Debug Room - 8009A05C 0041
+
+ That code was modified by Charles MacDonald to make it work for the
+ Japanese version as well:
+
+ Japanese ver. Debug Room - 800987F4 0041
+
+ Using either code is quite simple.  Simply start your game, turn the
+ code on, and enter a new location (so that the PSX has to load it up
+ off the disc).  You'll find yourself in the Debug Room.  Turn off the
+ GameShark and explore to your heart's content.  I suggest walking
+ into a new location (like a town) and not leaving from a location to
+ the world map (such as exiting an area or town) as this tends to glitch
+ the game or send you to the snowfield area.
+
+ One problem with exploring the Debug Room is that you cannot return
+ to the main room easily, and the game may glitch.  One way to return
+ to the main room is to turn the GameShark back on and enter a new
+ area (or be warped there).  The main room will look glitchy, but if
+ you turn off the code and walk in the desired direction, you'll still
+ end up in a new Debug Room location.
+
+ Alternatively, to make exploring the Debug Room a little easier, I
+ suggest using Ignacio de Lucas' "Use Any Option Anywhere" code, which
+ you can use to save your game in the main room.  If you want to return
+ to the main room at any time, you can just restart your game and load
+ up your saved file.  That code is:
+
+ English ver. Use Any Option Anywhere - 8009D2A4 FFFF
+                                        8009D2A6 0000
+
+ The Japanese version of this code (again, modified from the original
+ by Charles MacDonald) is:
+
+ Japanese ver. Use Any Option Anywhere - 8009BA3C FFFF
+                                         8009BA3E 0000
+
+ Now that you have the proper codes, you're ready to rock!
+
+
+ ========================================================================
+ 3.  THE DEBUG ROOM
+ ========================================================================
+
+ In the US version, the Debug Room is a black background with the
+ Japanese title for FF7 in the center (blue with "Final Fantasy VII"
+ spelled using kana on the bottom).  There are 8 blue circles laid out
+ in a circular pattern in the room, and sitting near one of the circles
+ is a man.  North of the circles is a white bar with the name "Takashi
+ Tokita" written in the right-hand corner.  Beneath the circles is a
+ white bar with the name "Masato Koto" in the left-hand corner.
+
+ In the main room, you can talk to the man, exit the main room by
+ stepping on any of the eight blue circles, or by walking into the
+ northern white line or the southern white line.  You can also exit
+ the Debug Room by walking off-screen to the west.  There is nothing
+ on the east side of the screen (just an invisible wall).
+
+ Since navigating through the various rooms requires you to step on
+ the blue circles, shown below is a map of the room.  The names are
+ taken from the kanji found in each circle:
+
+                                                          Takashi Tokita
+  ----------------------------------------------------------------------
+
+                            Kita (north)
+
+
+                Kyou (capital)          No (field)
+
+
+        Ko (old)         FINAL FANTASY VII       Tori (bird)
+                               
+                   [location of man]
+                Toki (autumn)           Matsu (pine tree)
+
+
+                            Sen (thousand)
+
+  ----------------------------------------------------------------------
+  Masato Koto
+
+ The man is found sitting by the Toki circle.  For ease of use, I will
+ simply refer to these circles as compass points ('Sen' is south, 'Tori'
+ is east, 'Kyou' is north-west, etc.)
+
+ If you can view Japanese (you can view this SHIFT-JIS text file in
+ Japanese by using NJWIN or NJSTAR, available from www.njstar.com), you
+ might prefer this map:
+
+                                ñk
+
+                        ãû              ñÏ
+
+                å√                              íπ
+
+                        èH              èº
+
+                                êÁ
+
+ The rest of the sections in this part of the FAQ will explain what can
+ be found in each room, and what options are available in each room.
+ Note that if you press Select, you'll bring up all the exit points for
+ this room, most of which are misaligned or misleading.  The only exit
+ points I've found are found by stepping directly onto a circle or
+ stepping beyond the white line boundaries (or walking all the way to
+ the west).                                      
+
+ Most of the options people give you in the rooms either have to do with
+ transporting you to various locations / events, or they will allow you
+ to rearrange your party members.  Some options also deal with battles
+ and fighting monsters.  A lot of the options, when used, do nothing.
+
+ In most cases, the bottom option in each menu will exit you out of that
+ menu (or if an option reads "cancel", "quit", or some variation of
+ "yame").  However, not all menus can be exited from.  In some cases
+ there are selectable options that appear blank, while other times you
+ can actually selection an option outside of the box (by pressing up or
+ down at the top or bottom of the screen).
+
+ Keep in mind that the Debug Room is a very glitchy place.  Don't be
+ surprised if your game hangs.  The same thing applies to CG movies,
+ sometimes you're asked to put in the proper disc, but in other cases,
+ the game will try to load a CG track (say, the fight against the
+ Weapon), even if that's not on the disc you're playing with (i.e,
+ Disc 1).  This may hang the game, or result in snippets of another
+ CG sequence being shown.
+
+
+ ------------------------------------------------------------------------
+ [ ñk ]  NORTH ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Aerith, Tifa, Cid, President Shinra
+ (Bottom Row)   Townsman, Barret, Red XIII, Jessie
+
+ When you approach a character, they will talk to you.  When you're done
+ talking to them, you return to your starting position.
+ 
+ AERITH
+ ------------------------------------------------------------------------
+ 
+ cancel
+ bone after arma
+ san dun
+ sleep forest
+ ancent forest
+ lost lake
+ water pray
+ (aerith) dead
+ rocket ("square button" first)
+ bone first
+ bone luma
+ los in
+
+ TIFA
+ ------------------------------------------------------------------------
+
+ past jenova ("square button" egg)
+ join vincent
+ shinra house vincent ("square button" present)
+ shinra under ("square button" awake)
+ nivl reactor
+ nivl reactor out ("square button" with tifa)
+ nivl mt entrance ("square button" past)
+ materia cave
+ new event sininb34
+ new event sininb35
+ new midgal
+ nivgate
+ ()
+
+ CID
+ ------------------------------------------------------------------------
+
+ opening ("square button")
+ feel wind
+ gate 1 open
+ T road ("square button" escape)
+ 1reactor (5reactor)
+ junon ("square button" yufi,R1gaiheki)
+ ()
+
+ PRESIDENT SHINRA
+ ------------------------------------------------------------------------
+
+ white
+ white boogen (key)
+ white boogen (no key)
+ before
+ after
+ white
+ junonn in2
+
+ TOWNSMAN
+ ------------------------------------------------------------------------
+
+ para
+ 66F
+ 67F ("square button")
+ 68F
+ 68F2
+ 69F
+ elevtr
+ ()
+
+ BARRET
+ ------------------------------------------------------------------------
+ Touching him takes you inside the northern cave (the last dungeon), in
+ the area where you can see the Lifestream waterfall.
+
+ RED XIII
+ ------------------------------------------------------------------------
+ 
+ 7 pillar
+ kolneo under
+ high way
+ 5 out
+ airport ("square button" gelnica)
+ after fire cefiros
+ jairo sky
+ jairo sea
+ junon cannon
+ junon medical
+ ()
+
+ JESSIE
+ ------------------------------------------------------------------------
+
+ Cancel
+ Aerith (by name)
+ Tifa (by name)
+ Barret (by name)
+ Red XII (by name)
+ Cid (by name)
+ Cloud (by name)
+ Yuffie (by name)
+ Sephiroth
+ Cloud Lock
+ Change Party Members
+
+
+ ------------------------------------------------------------------------
+ [ ñÏ ]  NORTHEAST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Sephiroth, Aerith, Person in Yellow, Tifa, Little Girl
+ (Middle Row)   Cait Sith, Redheaded Man, Walking Man, Zangan
+ (Bottom Row)   Barret, Yuffie, Train Conductor
+
+ I believe the music playing is the same tune you hear when you reach
+ the large tree in the Northern Continent.
+
+ SEPHIROTH
+ ------------------------------------------------------------------------
+ 
+ Sephiroth-related
+   quit
+   from pinball
+   from Cam's inn
+   starry sky
+   gate
+   gate no. 2
+   starry sky
+   village no. 2
+   truck no. 2
+
+ AERITH
+ ------------------------------------------------------------------------
+
+     Church
+     First of all
+     Following roof inci
+ dent
+     After aerith's (by name) de
+ ath
+
+ PERSON IN YELLOW
+ ------------------------------------------------------------------------
+
+ highwind (not going)
+ Shinra's highwind
+ party's highwind
+ Evening's highwind
+ sign
+ passageway
+ Conference room
+ Chocobo
+ Cid (by name) Highwind
+
+ TIFA
+ ------------------------------------------------------------------------
+
+ My dear hometown Nibleheim.
+   village
+   1st floor of inn
+   2nd floor of inn
+   store
+   Cloud's house (by name)
+   Tifa's house (by name)
+   1st floor of house
+   2nd floor of house
+   Quit
+
+ LITTLE GIRL
+ ------------------------------------------------------------------------
+
+ ng good-bye to party members Cloud (by name)
+
+ (when cancel this message is cancelled, you see the new sequence
+ where Zack is killed and Cloud arrives in Midgar).
+
+ CAIT SITH
+ ------------------------------------------------------------------------
+
+ tragedy of Niblehiem quit
+   Part 1
+   Part 2
+
+ REDHEADED MAN
+ ------------------------------------------------------------------------
+
+ global . re-set:
+   yes
+   no
+   ended reflecting on the past
+
+ WALKING MAN
+ ------------------------------------------------------------------------
+
+ present day Nibelheim
+   Go
+   Don't go
+
+ ZANGAN
+ ------------------------------------------------------------------------
+
+ (opens two squares)
+
+ BARRET
+ ------------------------------------------------------------------------
+
+ (tiny window opens, 15 invisible options)
+ (the last option quits, while the first glitches the game)
+
+ YUFFIE
+ ------------------------------------------------------------------------
+
+ quit
+ TRNAD51
+ TRNAD52
+ TRNAD53
+ BLACKBGD
+
+ TRAIN CONDUCTOR
+ ------------------------------------------------------------------------
+
+ quit
+ regular hours
+ star's scream
+ weapon appears
+ What happened to Sephiroth?
+ On the final day
+ everyone came home.
+ Called from the last dungeon
+
+
+ ------------------------------------------------------------------------
+ [ íπ ]  EAST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Aerith, Barret, Tifa, Shinra Soldier, a Honeybee Inn
+                worker, and Rude.
+ (Bottom Row)   Sephiroth, a Costa Del Sol lady, Chocobo Sage, Sailor,
+                a dolphin, a cat, and a dog.
+             
+ When you enter this room, you'll get a message that welcomes you to the
+ English Version of FF7.
+
+ If you press Select while in this area to put the cursor on your head,
+ then press it again, a menu comes up:
+
+ R1: Reset Flag  (pressing Square also brings up this message)
+ R2: Name & Money Change
+ L1: Battle On / Off
+ L2: Set Normal Party
+ Select: Help On / Off
+
+ - Pressing R2 once gives you no money and the default character names
+   (Cloud, Tifa, etc.).  Press it again to get 131071 gil and no names
+   for your characters.
+ - Pressing L1 either turns the battle option off, or causes a small
+   window to appear.  Running around doesn't produce any random battles,
+   though.
+ - R1 and L2 seem to have no effect, aside from displaying a message and
+   giving you a sound effect.
+ - Note that you don't need to have the menu on-screen in order to use
+   these options.
+
+ AERITH
+ ------------------------------------------------------------------------
+ She says "Working Now".  Once you clear this message with the Circle
+ button, you see the sequence when Tifa is reminiscing on Cloud's past.
+
+ BARRET
+ ------------------------------------------------------------------------
+
+ 7TH STREET          (takes you to the room with the bouncing save point)
+   Welcome Home      
+   Before Memory  
+   Materia        
+   Good Morning   
+   Before Battle  
+   Cancel         
+   After Memory   
+
+ TIFA
+ ------------------------------------------------------------------------
+ You'll be asked to make a party of three characters.
+
+ SHINRA SOLDIER
+ ------------------------------------------------------------------------
+ 
+ "Last train from Midgar"
+    Cargo
+    Train1
+    Train2
+    Train3
+    Train4
+    Monitor
+    Station 1
+    Station 2
+    StationFlashBack
+    Cancel
+
+ HONEYBEE INN WORKER
+ ------------------------------------------------------------------------
+ When you talk to her, the music from the Honeybee Inn starts up.
+
+ "Honeybee In"
+    First Time
+    2nd
+    3rd
+    After All
+    Cancel
+
+ RUDE
+ ------------------------------------------------------------------------
+ When you talk to him, the music from the Highwind starts up.
+
+ WorkMan
+   "Everyday my Works are..." Cancel
+   Got the Jyro
+   After The Meteo...TIFA
+   After The Meteo...CID
+   After The Meteo...CLOUD
+   MakoUnderTheSea
+   Hp&Mp1
+   No Money
+   MoneyMoneyMoney
+   Got The Keystone
+
+ SEPHIROTH
+ ------------------------------------------------------------------------
+ When you talk to him, the music from the World Map starts up.
+
+ "Mt. Corel"
+    Mountain Road
+    (Cancel)
+    Vally
+    Up&Down
+    River
+    Hole
+    PiyoPiyo
+    Bridge
+    Railway
+    Ballet's Memory
+    Cancel
+
+ COSTA DEL SOL LADY
+ ------------------------------------------------------------------------
+ When you talk to her, the music from Costa Del Sol starts up.
+
+ "Costa Del Sol"
+    Town
+    Beach
+    Harbor
+    Debug
+
+ CHOCOBO SAGE
+ ------------------------------------------------------------------------
+ When you talk to him, the music from the Temple of the Ancients starts
+ up.
+
+ "Temple of the Ancients" FORMATION
+    Temple
+    After Collapse
+    Altar
+    Alter2
+    Temple of the Ancients
+    Shop of the Ancients
+    The Rock
+    The Hole of the Time
+    Tirano
+    Treasure
+    Chase
+    Next Page
+
+ (choosing 'Next Page' brings up another menu)
+
+ "Temple of the Ancients2"
+    Mateo
+    Sephiros
+    Hole1
+    Hole2
+    Boss
+    Mateo2
+    Cancel
+
+ SAILOR
+ ------------------------------------------------------------------------
+ When you talk to him, the music from the Submarine game starts up.
+
+ "Submarine" (Cancel)  - pick and you make a party before canceling out
+    SubmarineDock
+    BridgeRed
+    BridgeBlue
+    SubmarinRed
+    SubmarinBlue
+    Escape
+    MiniGame0
+    MiniGame1
+    MiniGame2
+    MiniGame3
+    MiniGame4
+    MiniGame5
+
+ DOLPHIN
+ ------------------------------------------------------------------------
+ When you talk to him, the music from Upper Junon starts up.
+
+ "JUNONR"
+    JUNONR1
+    JUNONR2
+    JUNONR3
+    PARADE
+    JUNONR-W
+    JUNONR-PUB
+    JUNONR-1
+    JUNONR-M
+    JUNONR-MIN1
+    JUNONR-MIN2
+    JUNONR-MIN3
+    JUNON-MOVIE
+
+ CAT
+ ------------------------------------------------------------------------
+ When you talk to him, the music from Upper Junon starts up.
+
+ "JUNONL"
+    JUNONL1
+    JUNONL2
+    JUNONL3
+    JUNONL-W
+    JUNONL-I1
+    JUNONL-I2
+    JUNONL-INN
+    JUNONL-PUB
+    JUNONL-MIN0
+    JUNONL-MIN1
+    JUNONL-MIN2
+
+ DOG
+ ------------------------------------------------------------------------
+ When you talk to him, the music from Upper Junon starts up.
+
+ "JUNONDOC"
+    JUNONDOC1
+    JUNONDOC2
+    ROAD1
+    (Cancel)
+    ROAD3
+    ROAD4
+    ROAD5
+    ROAD6
+    ROAD7
+    ELE1
+    ELE2
+    ROOM
+
+
+ ------------------------------------------------------------------------
+ [ èº ]  SOUTHEAST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (they're in sort of a circular formation):
+
+ (Top Row)     Sephiroth  (holding the tail of Jenova!)
+ (Upper Row)   General, Fat Man
+ (Middle Row)  Old Man, Rude
+ (Lower Row)   Shera, Sailor
+ (Bottom Row)  Aerith
+
+ Upon entering this room, you will get Sephiroth in your party.  If you
+ go to your status menu, you'll see that the location is listed as
+ 'DEBUG MODE'.
+
+ SEPHIROTH
+ ------------------------------------------------------------------------
+
+ CG MOVIE VIEWER
+   use  (selecting this brings up a menu of CG movies to watch)
+   cancel
+
+ GENERAL
+ ------------------------------------------------------------------------
+ 
+ TUNNEL
+   Cancel
+   Tunnel
+   5th Reactor
+
+
+ FAT MAN
+ ------------------------------------------------------------------------
+ 
+ KARM TOWN
+   Cancel
+   First come
+   After Armageddon
+
+ OLD MAN
+ ------------------------------------------------------------------------
+
+ GONGAGA VILLAGE
+   Cancel
+   Meet TARCKS
+   Who am I?
+ 
+ RUDE
+ ------------------------------------------------------------------------
+
+ SOUTH DUNGEON
+   Cancel
+   Meet TARCKS
+   We can't go
+
+ SHERA
+ ------------------------------------------------------------------------
+
+ ROCKET VILLAGE
+   Meet CID
+   METEO intercept
+   Rocket at Space
+ 
+ SAILOR
+ ------------------------------------------------------------------------
+
+ ANOTHER CHECK
+   Last Dungeon
+   HIGHWAY minigame
+   Shinra AirShip
+
+ (from last dungeon option)
+   join YUFI
+   join VINCENT
+   join BOTH
+   cancel
+ (from cancel)
+   (then make party of three)
+ (after making a party)
+
+   SAVE CRYSTAL......
+     Give 99!
+     No need
+
+ AERITH
+ ------------------------------------------------------------------------
+
+ AERITH EVENT
+   Decline Church
+   Forgotten Relm
+   Go to NorthLand
+
+
+ ------------------------------------------------------------------------
+ [ êÁ ]  SOUTH ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ Top Row:
+
+ Yuffie (leaning forward and looking around)
+ Yuffie (wiggling her arms and head)
+ Townswoman
+ Tifa (in hat, putting hands together)
+ Aerith (in dress, jumping)
+ Vincent (in Turk uniform, brushing hair)
+
+ Middle Row:
+
+ Yuffie (attacking)
+ Aerith (in dress, clasping hands and looking around)
+ Cloud (going crazy)
+ Cloud (with sword)
+ Tifa (with hat, touching face)
+
+ Bottom Row:
+
+ Vincent
+ Tifa
+
+ While in this room, you can press Square to bring up a window with "1P"
+ in it.  Repeat to make it read 2P.  Press L1 to get "debug 0".
+
+ YUFFIE (leaning forward and looking around)
+ -----------------------------------------------------------------------
+ GS
+
+ hotel
+ jet
+ game1F
+ game2F
+ kanransha
+ hiroba
+ eki(R1de mage)
+ chokobo
+ kanransha naka
+ tougijou
+ yame
+
+ YUFFIE (wiggling her arms and head)
+ -----------------------------------------------------------------------
+ Gold
+
+ ballet punpun
+ caitsith toujou
+ dio toujou
+ tougijou de
+ kaettekita cloud
+ under corel
+ yameta
+ 
+ TOWNSWOMAN
+ -----------------------------------------------------------------------
+ movie check
+
+ doka~n
+ tou!
+ dongaragashan
+ touchaku
+ deppatu
+ sample
+ sample
+ yame
+
+ TIFA (in hat, putting hands together)
+ -----------------------------------------------------------------------
+ 6bangai
+
+ love love
+ 7ban dokan
+ matte matte
+ checkyou kouen
+ yameta
+
+ AERITH (in dress, jumping)
+ -----------------------------------------------------------------------
+ party
+
+ party?
+   un
+   uun
+
+ VINCENT
+ -----------------------------------------------------------------------
+ bokujou
+
+ ie no naka(R1de mage)
+ soto(R1de mage)
+ bobou(R1de mage)
+                    [ blank option ]
+ sittiai
+ yame
+ 
+ YUFFIE (attacking)
+ -----------------------------------------------------------------------
+ ijiru
+
+ dousuru?
+   love_paraijiri
+   okane ippai
+   okane nasi
+   G reset
+   dflname kaeru
+   GP ippai
+   member zenin
+   member yufi vin igai
+   item iroiro
+   yame
+        
+ AERITH (in dress, clasping hands and looking around)
+ -----------------------------------------------------------------------
+ EARITH HOME
+
+ 1F okaasan wu
+ 1F katari haha
+ 2F nigeru
+ 2F ballet naku
+ hoka wo ataru
+
+ CLOUD (going crazy)
+ -----------------------------------------------------------------------
+ ima...
+ chokobo
+ jet
+ yame
+
+ CLOUD (with sword)
+ -----------------------------------------------------------------------
+ 8bangai
+
+ tojikomerarechatta
+ BOOM to kitamonda
+ hajimete earith
+ tobe cloud
+ hoka ga ii
+
+ TIFA (with hat, touching face)
+ -----------------------------------------------------------------------
+ chokobo ijiri
+
+ ST check
+ tukamaeta
+ yasai to mi ippai
+ magego bokujou
+ yaoya
+ yame
+
+ VINCENT (at the bottom of the screen)
+ -----------------------------------------------------------------------
+ corel
+
+ hajime
+ sonchou
+ dyne kessen
+ ueniikunone
+ yame
+
+ TIFA (at the bottom of the screen)
+ -----------------------------------------------------------------------
+ lasdan
+
+ LAS3-1
+ LAS3-2
+ LAS3-3
+ LAS4-0
+ LAS4-1
+ LAS4-2
+ LAS4-3
+ LAS4-4
+ LAS4-42
+ ikisaki
+ dokoitta?
+ yame                     
+
+
+ ------------------------------------------------------------------------
+ [ èH ]  SOUTHWEST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+                                     Cid-A
+ Barret-A       Cait-A          Cid-B
+   Barret-B     Cid-C     Sailor
+
+                Cait-B
+      Aerith-A            Yuffie
+   Aerith-B                   Townsman
+
+ -A and -B denote two of the same character, just in differnt locations.
+
+ CID-A
+ -----------------------------------------------------------------------
+
+   iroiro
+     colneo kobun beya
+     sinra kaidan 1
+     sinra kaidan 2
+     sinra kaidan 3
+     sinra 59F
+     sinra elevator
+     sinrabil totunyuu
+     sinrabil dasshutu
+     yame
+
+ BARRET-A
+ -----------------------------------------------------------------------
+
+ 5bangai2
+   slum chuusin
+   dokan
+   -
+   icchaya
+   -
+   yame
+      
+ CAIT-A
+ -----------------------------------------------------------------------
+
+ cloud dake
+ ballet
+ tifa
+ earith
+ red
+ caitsith
+ yufi
+ cid
+ cincent
+ tifa dake
+ cid dake
+
+ CID-B
+ -----------------------------------------------------------------------
+ 
+   colneo osiokibeya
+     tifa to saikai
+     earith to gouryuu
+     -
+     colneo sonogo
+     -
+     yame
+
+ BARRET-B
+ -----------------------------------------------------------------------
+
+ 5bangai
+   kyoukai no yane
+   yane pyon
+   -
+   yane kara oriru
+   -
+   yame
+
+ CID-C
+ -----------------------------------------------------------------------
+
+ colneo
+   ponbiki
+   irasshai
+   -
+   tifa to gouryuu
+   -
+   yame
+   (if, then yametayo)
+
+ SAILOR
+ -----------------------------------------------------------------------
+
+   utai iriguti
+   yufi wo oe!
+   yufi nakamani
+   yufi nigeru1
+   yufi nigeru2
+   meteo1
+   meteo2
+   meteo3
+   yame
+      
+ CAIT-B
+ -----------------------------------------------------------------------
+
+   unpansen
+   corel kaisou1
+   corel kaisou2
+   saishuukessen
+   yame
+
+ AERITH-A
+ -----------------------------------------------------------------------
+
+   colneo no heya
+     cloud erabareru
+     earith erabareru
+     -
+     tifa erabareru
+     -
+     yame
+
+ YUFFIE
+ -----------------------------------------------------------------------
+
+   cosmo materia ya
+   cosmo touchaku
+   seto no kabe
+   movie check
+   boogen jikkensitu
+   sayonara cosmo
+   meteo go cosmo
+   onegai boogen
+   hyuji materia
+   sayonara boogen
+   ............
+
+ AERITH-B
+ -----------------------------------------------------------------------
+
+    colneo sinsitu
+      cloud no baai
+      earith no baai
+      -
+      tifa no baai
+      -
+      yame
+
+ TOWNSMAN
+ -----------------------------------------------------------------------
+
+   sinra 60F
+   sinra 61F
+   sinra 64F
+   sinra 63F
+   sinra 62F
+   sinrabil shoumen
+   sinrabil uraguti
+   minigame
+   sinrabil matane
+   yame
+
+
+ ------------------------------------------------------------------------
+ [ å√ ]  WEST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Cid, Red XIII, Vincent, Barret, Purple Guy, Cait Sith,
+                and Vest Man
+ (Bottom Row)   Bodybuilder, Yuffie, Tifa, Aerith
+ 
+ The music playing in this room is from Wall Market.
+
+ CID
+ ------------------------------------------------------------------------
+ Talking to Cid puts you in the Fort Condor battle against CMD. Grand
+ Horn.  Afterwards, you return and you get these options:
+
+   Man
+   Be Girl
+   cancel
+
+ Selecting "Be Girl" puts you in Wall Market in Cloud's "girl" disguise,
+ with all of the Wall Market items (cologne, lingerie, tiaras, etc.)
+ However, nothing happens if you go to Don Corneo's, so you're stuck
+ in Wall Market.
+
+ RED XIII
+ ------------------------------------------------------------------------
+
+ Train Grave
+    MDS7ST2
+    MDS7ST1
+    Cancel
+
+
+ VINCENT
+ ------------------------------------------------------------------------
+ When you talk to him, the music from the Shinra Building starts up.
+
+ 1
+ 2
+ 3
+ last0-3
+ cancel
+
+ BARRET
+ ------------------------------------------------------------------------
+
+ Organaize Party?
+   Yes
+   No
+
+ PURPLE GUY
+ ------------------------------------------------------------------------
+
+ (4 invis options)
+ HYOU3
+ HYOU13-1(After)
+ HYOU13-1(Before)
+ HYOU5-2
+ Cancel
+ 
+ CAIT SITH
+ ------------------------------------------------------------------------
+
+ Climb Wire
+ After 7th Plate falling
+  WCRIMB1 (with Battery)
+  WCRIMB1 (without Battery)
+  WCRIMB2
+  WCRIMB1
+  Cancel
+
+ VEST MAN
+ ------------------------------------------------------------------------
+
+ CONDOR1
+ (10 options, can't see them)
+ 
+ BODYBUILDER
+ ------------------------------------------------------------------------
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ last
+ cancel
+
+ YUFFIE
+ ------------------------------------------------------------------------
+
+ 20movie
+     look
+     plus
+     cancel
+
+ TIFA
+ ------------------------------------------------------------------------
+
+ (8 options, can't see them)
+
+ AERITH
+ ------------------------------------------------------------------------
+
+ MRKT1
+ MRKT2 (After)
+ MRKT2 (Before)
+ Cancel
+
+
+ ------------------------------------------------------------------------
+ [ ãû ]  NORTHWEST ROOM
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Barret, Tifa, Nurse, Aerith
+ (Middle Row)   Priscilla, Cid
+ (Nottom Row)   Old Man, Red XIII, Black & Purple Man, Yuffie
+
+ BARRET
+ ------------------------------------------------------------------------
+
+ Ballet
+ "Who do you want in the party?
+    Tifa
+    Ballet
+    Earith
+    Red
+    Cid
+    Yufi
+    Ketcy
+    Vince
+    Put Cid on point
+    Forget it.
+
+ TIFA
+ ------------------------------------------------------------------------
+
+ Tifa
+ "Going to north Corel.
+   It doesn't matter whether or not
+   Ballet is in this event.
+   Ballet of north Corel
+   ropeway
+   North Corel
+   quit.
+
+ NURSE
+ ------------------------------------------------------------------------
+
+ Palmer
+ Highwind
+ Materia mission
+ Cloud's revival
+ Rocket launch
+ Sister Ray
+ Train success
+ Train failure
+ Train last
+ quit
+
+ AERITH
+ ------------------------------------------------------------------------
+
+ Earith
+ "Snow board game."
+ (cancel to go into Snowbaord level.  Leads to Icicle Inn)
+
+ PRISCILLA
+ ------------------------------------------------------------------------
+
+ all members
+ quit
+ without Yufi
+ without Vince
+ without Ballet
+ without Tifa
+ without Earith
+ without Red
+ without Cloud
+ without Ketcy
+
+ CID
+ ------------------------------------------------------------------------
+
+ Cid
+ "I'm sickle...xxxx
+ I mean...Icicle Inn.
+ ...ok, bad joke."
+
+ (takes you to icicle inn)
+
+ OLD MAN
+ ------------------------------------------------------------------------
+
+ Old Man
+   Crater no. 1
+   Whirlwind Maze no. 1
+   Whirlwind Maze no. 2
+   Atmospheric barrier no. 1
+   Atmospheric barrier no. 2
+   Atmospheric barrier no. 3
+   quit
+
+ RED XIII
+ ------------------------------------------------------------------------
+
+ Red
+ "Where are you going underneath Junon?
+        Under Junon 1
+        There'll be monsters
+        Dolphin Jump
+        Artificial respiration
+        quit"
+ 
+ BLACK & PURPLE MAN
+ ------------------------------------------------------------------------
+
+ Man
+ "Gaea's cliff test
+   Gaea's cliff no. 1
+   Gaea's cliff no. 2
+   Gaea's cliff 1 of 3
+   Gaea's cliff 2 of 3
+   Base of Gaea's cliff
+   quit"
+ 
+ YUFFIE
+ ------------------------------------------------------------------------
+
+ Yufi
+ "Hydroplane event
+     Deck no. 1
+     parachute deck
+     bridge no. 1
+     bridge no. 2
+     bridge no. 3
+     conference room 1
+     conference room 2 
+     conference room 3
+     send-off people
+     quit
+
+
+ ------------------------------------------------------------------------
+ UPPER SCREEN EXIT
+ ------------------------------------------------------------------------
+
+ Characters in this room (listed east to west):
+
+ (Top Row)      Vicent, Red XIII, Man, Yuffie, Aerith
+ (Bottom Row)   Cait, Save Point, Barret
+
+ The music playing in this room is from Aerith's flower garden.  If you
+ go to your status menu, the name of this room is 'BLACKBGI'.  The Save
+ Point is usable, but if you save here, you can't return to the main
+ debug room.
+       
+ VINCENT
+ ------------------------------------------------------------------------
+
+ pary make
+ ballet
+ tifa
+ earith
+ red
+ yufi
+ ketcy
+ vincent
+ cid
+ no
+
+ RED XII
+ ------------------------------------------------------------------------
+
+ cancel
+  SPGATE
+  SPIPE 1
+  SPIPE 2
+  SEMKIN 1
+  SEMKIN 2
+  SEMKIN 8
+  SEMKIN 3
+  SEMKIN 4
+  SEMKIN 5
+  SEMKIN 6
+  SEMKIN 7
+
+ MAN
+ ------------------------------------------------------------------------
+ 
+ Quit
+ next page
+ BLACKBGH
+ BLACKBGI
+ TUNNEL 6
+ MD8 6
+ MD8 B1
+ MD8 B2
+ MD8 32
+ MD8 BRDG2
+ TUNNEL 4
+ TUNNEL 5
+
+ (next page opens up this menu)
+
+ pre page
+ CANON 1
+ CANON 2
+ MTCRL 2
+ ZCOAL 1
+ ZCOAL 2
+ ZCOAL 3
+ 4SBWY 22
+
+ YUFFIE
+ ------------------------------------------------------------------------
+
+ cancel
+ turcks union
+ DATIAO 1
+ DATIAO 2
+ DATIAO 3
+ DATIAO 4
+ DATIAO 5
+ DATIAO 6
+ DATIAO 7
+ DATIAO 8
+ 5TOWER
+
+ AERITH
+ ------------------------------------------------------------------------
+
+ player change
+ cloud
+ tifa
+ cid
+ cancel
+
+ CAIT SITH
+ ------------------------------------------------------------------------
+
+ cancel
+ LAS2 1
+ LAS2 2
+ LAS2 3
+ LAS2 4
+ LAS0 6
+ LAS0 7
+ LAS0 8
+ MOGU 1
+
+ BARRET
+ ------------------------------------------------------------------------
+
+ materia max
+ yes  
+ no
+
+ Choosing 'Yes' gives you enough Bahamut Materia to completely fill up
+ the rest of your Materia menu.
+
+
+ ------------------------------------------------------------------------
+ LOWER SCREEN EXIT
+ ------------------------------------------------------------------------
+
+ Characters in this room:  Aerith, a doctor, and a nurse
+
+ The music playing in this room is the Chocobo riding theme.  If you go
+ to your status menu, the name of this room is 'dark city fourth street'.
+
+ Upon entering this room, you get the following two options.
+
+ for those in a hurry
+ for those with a little time
+
+ Picking the 'hurry' option brings up a menu similar to Aeris' menu, but
+ the last option takes you to the Ultima Weapon's arrival in Mideel
+ instead of the 'hades' option.  Picking the 'time' option lets you
+ walk around and talk to the characters.
+
+ DOCTOR
+ ------------------------------------------------------------------------
+ 
+ Take down a flag?
+   Mideel
+   Ionia
+   Materia
+   To the dark hill
+   To the light hill
+   (press down for an invisible option)
+
+   (invisible option leads to the Highwind introduction by Cid)
+
+ NURSE
+ ------------------------------------------------------------------------
+
+ Who're you going with?
+   I'm starting over
+   ster
+   Princess
+   Ionia
+   alator
+   Little
+   Red XIII
+   Cait Sith
+   Ol'
+   (invisible option, puts Sephiroth in your party)
+
+ AERITH
+ ------------------------------------------------------------------------
+
+ Hello there, wanna be-hero.
+ You ready for your journey?
+
+ So? Where to?
+   To Mideel!
+   To Mideel Clinic!
+   To the Mideel Talk Event!
+   To the Attack Event!
+   To the Lifestream!
+   To the Mindzone!
+   To the Spirit World!
+   To Spirit World2!
+   To Spirit World3!
+   To the Spirit World again!
+   To Mideel after it fell!
+   To Hades!
+
+ (If you pick Hades)
+
+  Silly...
+  Didn't anyone tell you?
+  This IS Hades.
+
+ (Talk to her again)
+ 
+ How about it?  Have you made up your mind?
+ Mind boggling adventures a you.
+
+ (sometimes a window opens and closes, and she says)
+
+ Eyaaaah!!
+ OWW, OWW, OWW, OWW......
+ YEOOWW......!!
+ 
+
+ ------------------------------------------------------------------------
+ EAST SCREEN EXIT
+ ------------------------------------------------------------------------
+
+ You'll find yourself outside of Midgar City.
+
+
+ ------------------------------------------------------------------------
+ MAN IN MAIN ROOM
+ ------------------------------------------------------------------------
+
+ Talking to him produces the following options:
+
+ NEXT
+ MENU ON
+ BATTLE LOCK
+ BATTLE UNLOCK
+ MOVIE LOCK
+ MOVIE UNLOCK
+ GLOBAL RESET
+ FULL NAME
+ NEW START
+ EXIT
+
+ (next leads to)
+
+ BACK
+ SOUND RESET
+ FULL MATERIA
+ BATTLE999
+ EXIT
+
+ Choosing Full Materia gives you three of each materia, including the
+ removed japanese ones!  (Housoku, rifuab, etc.)
+
+ Sound Reset turns off whatever music is playing.
+
+ Battle999 puts you in a test battle against several of the Gold
+ Pyramids that Reno creates when you fight him in Sector 7.  Beat them
+ to return to the main screen.
+ 
+
+ ========================================================================
+ 4.  JAPANESE / ENGLISH DIFFERENCES
+ ========================================================================
+
+ There is no background pic (blue circles, logos, etc.) for the Japanese
+ main room, which seems odd.  Perhaps it's a defect of the code?  All
+ the locations are still there if you walk in the desired directions
+ though (this is hard to do since the exit points aren't shown in the
+ Japanese version).
+
+ In the US version, talking to Zangan made two small boxes appear.  In
+ the Japanese version, talking to him produces a check of the kana,
+ kanji, and symbols.
+
+ Talking to Barret gives you a list of who you want to have in your
+ party, including 16-year old Cloud (the one from the flashback).  In
+ the English version, you got a little window with unlisted options.
+
+ Talking to the little girl who takes you to the "death of Zack"
+ sequence does nothing (since that was added in the English version).
+ Instead, she says "Party no saraba (cloud)".
+
+ There is no message in the East Room that welcomes you to the English
+ version of FFVII.
+
+ Talking to the Aerith who says "Working Now." just takes you to the
+ room in Sector 7 where the save point bounces around (the same as
+ the first of Barret's options).  Again, this is because the scene
+ where Tifa reminisces about watching over Cloud was only added into
+ the English release.
+
+ When you use the 'Battle999' option, it's much neater than in the US
+ version.  Instead of a black background, you're standing on a large
+ Shinra logo with a gold backdrop, and you're fighting several monsters
+ called Test 2: Deenglow (and they look like Deenglows) instead of the
+ jibberish used to describe the enemies in the US version (which look
+ like gold pyramids).  However, their stats. are still the same, and
+ beating them still gives you lots of AP, EXP, and 5 Turbo Ethers, just
+ like in the US version.
+
+ I also confirmed that when you use the Materia Full option, you get all
+ of the Materia in the game, including the disabled materia.  In the
+ US version, none of the disabled ones had names, but in this one they
+ do (Housoku, Baria, Booster, etc.)  Remember that in the US version,
+ the useless materia "Suichuu Kokyuu" became the "Underwater" materia
+ used in the Emerald Weapon fight.  What's really weird is that you
+ a couple of extra materia (purple and blue, in either version) with no
+ name or function.  I had assumed that these were just glitch materia
+ back when I was making GameShark codes for the Japanese version (since
+ all glitch materia had the same stats.), but since the game's code
+ actually sticks these in your inventory, I guess they were going to be
+ used for something.
+
+ Note that the 'Materia Max' option offered by Barret glitches the game
+ (instead of giving you a slew of Bahamut orbs like it does in the US
+ version).
+
+ Translation-wise, most of what the characters say to you (like Aerith
+ joking that you're in Hades) remains true to the Japanese version.
+ The Japanese found in the English version is usually just fragments
+ of what the characters actually say to you in the Japanese version
+ (where it's all full sentences).  The one change I noticed is that
+ the made-up names in the English version (alator, Cait Sithers!, Ol',
+ Ionia, Princess, and so on), are not in the Japanese version (the
+ default names are used instead.  I guess the translators just had some
+ fun when naming the debug mode characters ;)
+
+
+ ========================================================================
+ 5.  AUTHOR'S NOTE
+ ========================================================================
+
+ ------------------------------------------------------------------------
+ REVISION HISTORY
+ ------------------------------------------------------------------------
+
+ Version 0.1  (August 9, 1999)
+  - First release, lots of stuff to add in, still.
+
+
+ ------------------------------------------------------------------------
+ SPECIAL THANKS
+ ------------------------------------------------------------------------
+
+ This FAQ wouldn't have been possible without help from the following
+ people:
+
+ CzarDragon and RPGod
+  - Mad props go to these two for creating the GS code that lets you get
+    into the English version Debug Room.
+
+ Zophar's Domain / The GIA              (www.zophar.net / www.thegia.com)
+  - For news on the code by CzarDragon and RPGod.
+
+ Ignacio de Lucas
+  - For his 'Use Any Option Anywhere' GameShark code.
+
+ Charles MacDonald                                (www.emucamp.com/cgfm2)
+  - For modifying the above codes to work on the Japanese version of FF7.
+
+ Senio Rotondi
+  - For some notes regarding changing US codes to Japanese codes.
+
+ That's all for now!
+
+ Unpublished work Copyright 1999 Kao Megura

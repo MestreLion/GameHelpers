@@ -1,0 +1,1757 @@
+                       ================================
+                       --------------------------------
+                       Final Fantasy VII Debug Room Faq
+                       --------------------------------
+                       ================================
+
+
+Final Fantasy VII Debug Room Faq version 1.8
+Final Fantasy VII for the Sony Playstation
+by scrwdrvr (vodka_81@yahoo.com)
+This document copyright 1999 scrwdrvr (vodka_81@yahoo.com)
+
+
+
+-----------------
+Table of contents
+-----------------
+1.  Revision History
+2.  Introduction
+3.  Information
+4.  The Good Stuff
+5.  Yuffie
+6.  Room 1
+7.  Room 2
+8.  Room 3
+9.  Room 4
+10. Room 5
+11. Room 6
+12. Room 7
+13. Room 8
+14. Room 9
+15. Room 10
+16. Thank You's
+----------------------------------------------------------------------------
+
+
+====================
+1.  Revision History
+====================
+
+(August 11, 1999) 1.0 - Just started, half of the rooms done.
+(August 12, 1999) 1.5 - Finished Room 5 and added two more rooms.  Made some
+                        major and minor corrections.  Added more info on
+                        Room 1 thanks to Andrew Dean.  Added "The Good
+                        Stuff" Section
+(August 13, 1999) 1.6 - Made some more corrections.  Added more "good stuff"
+                        Added room 8.
+(August 14, 1999) 1.7 - More corrections, more "good stuff" and Room 9.
+                        Found out what Tifa(3)'s tukamaeta option in Room 9
+                        does big thanks to CzarDragon for the info.
+(August 15, 1999) 1.8 - More corrections, "good stuff" and Room 10, done all
+                        the rooms and added Improved Debug Code thanks again
+                        to CzarDragon look for it at the end of the
+                        "Information" section.
+
+
+
+================
+2.  Introduction
+================
+
+Two years after the release of Square's mega hit Final Fantasy VII two
+Gameshark hackers known as RPGod an CzarDragon have discovered a code for
+access to the Debug Room.  It is very confusing so I wrote this faq to shed
+some light.
+
+
+===============
+3.  Information
+===============
+
+To get into this room you do NEED a Gameshark, without it getting into the
+room is impossible.  The code is 8009A05C 0041.  When you get to the "NEW
+GAME/Continue?" screen start a new game and switch off the Gameshark.  I do
+not suggest that you use one of your files to get to the room, so do like me
+and take out your memory card(s) before doing any of this, and I CAN'T help
+you with any problems with you saved game files.  There are 10 different 
+rooms to go to from the beginning.  The debug room is set up like this:
+
+=================      The circles are in Japanese Kanji so I'll label the
+|       o              rooms by numbers. The top circle is room 1, in the
+|    o     o           next row is room 2 and room 3, the next is room 4 and
+| o           o        room 5, and so on. The vertical line beside room 6 is
+|    o|    o           Yuffie she gives you various options.  If you go to 
+|       o              the right you end up outside Midgar.  The top line 
+=================      leads to room 9 and the bottom one leads to room 10.
+
+Press Select on the controller if you are in a new room and you might get 
+some new options.  Make sure that you turn OFF the Gameshark before going 
+to a room or else you'll just go to the debug room again it'll just be all 
+black.  You can go back to the debug room by turning on the Gameshark and 
+going to a new screen.  The debug room will look screwed up but it's still 
+the same.  There is alot of glitches in this room and sometimes it might 
+freeze so beware.  If you go to a scene and go off the screen when the 
+gameshark is on and it's supposed to lead to the world map it won't go 
+there, it will go to the snowfield part with the flags and even if the
+gameshark is off you could still end up at the northwest coner of the map
+in the water so you'll be stuck and you'll have to reset.  If you are in a
+battle do not turn on the gameshark because it'll lead to a Game Over,
+battling on the World map could be dangerous because it'll sometimes leave
+you stuck, even if the gameshark is off, so you'll have to reset.  If you
+get to a part where you have to change party members and it's only Cloud
+you have, the game won't continue since you have to have 3 people in the
+party, so you'll have to reset.  Also there are some parts in the game where
+a movie takes place, depending on which disc the movie supposed to be there
+will be a different movie if a different disc is in, example:  The opening
+movie is on disc one but if you change the disc to disc two before it comes
+the movie will be when the Diamond Weapon's shot seen going through the
+screen.  So experiment with the discs.  I've even found a hidden movie, I
+think, I've never seen it before so I guess it's hidden.  For information go
+to Room 1, President Shinra.
+
+As for the characters Cloud's name is sometimes Ex-SOLDIER sometimes 
+Ex-SOLDIE, Cait Sith has no name it's a blank or sometimes it's Ketcy.  
+Yuffie's name is sometimes Yufi.  Barret's is sometimes Ballet.  Aeris or 
+Aerith's is sometime Earith.  Vincent's is sometimes Vince.  Sephiroth's 
+picture is sometimes Vincent's on the status screen and vice-versa.  Cloud
+starts off a level 6.  Vincent starts at level 50 and everyone else starts
+at level 1.  Of course you can change all this.
+
+The options are set up like this:
+
+Aeris' options: <--------- the person you talk to for access to options
+===============
+
+sleep forest--------- Aeris in Sleeping Forest scene (Sleeping Forest)
+^                     ^                               ^
+|                     |                               |
+name of option        what it does                    where it takes place   
+
+??? means I don't know what it does but it acts like a cancel option.  -s- 
+means the button square on the controller and -R1- means R1, If it says any
+of these next to the option it means if you hold it before and when it's
+loading it'll lead to a different scene.  If it says (stuck) that means 
+that you can't move and you have to reset.  My Final Fantasy VII discs are 
+screwed up, every time it freezes I have to switch discs, so some stuff 
+might be wrong.  If anyone has any information on the room that I haven't 
+already listed please e-mail me.
+
+There is also an improved debug code, here it is:
+8009ABF6 0041
+
+Pros:
+* No more snowy wasteland! The Debug Room is still loaded
+* No more garbage! The Debug Room background is loaded
+
+Cons:
+* Not activated by New Game or Load Game
+
+Using both codes simultaneously seems to work.  Remember these are for the
+North American release of FF7.  Big thanks to CzarDragon.
+
+
+
+==================
+4.  The Good Stuff
+==================
+
+This will tell you where all the good stuff is, this is how it is set up:
+1/Tifa/nivl mt entrance
+^ ^    ^
+| |    |
+| |    Which option to pick
+| Who to talk to
+Whick room
+
+Watch CG Movie(s) - 1/Tifa/nivl mt entrance
+                    4/Yuffie/look
+                    5/Mini dolphin/JUNON-MOVIE
+                    6/Yuffie/movie check
+                    7/Sephiroth/use
+                    8/Cloud's Mom/doka~n
+                    8/Cloud's Mom/touchaku
+                    8/Cloud's Mom/deppatu
+                    8/Tifa(2)/LAS4-42
+
+Hidden Movie - 1/President Shinra/white boogen (key), make sure Disc 2 is in
+
+Snowboard Minigame - From Icicle Inn - 2/Aeris.
+                     From Wonder Square - ?
+
+Motorcycle Minigame - From Shinra Building - 6/Dyne/minigame
+                                             7/Sailor/HIGHWAY minigame
+                      From Wonder Square - ?
+
+Submarine Minigame - From Underwater Reactor - 5/Sailor/Minigame0
+                     From Wonder Square - 5/Sailor/Minigame1 to Minigame5
+                                          
+Fort Condor Minigame - 4/Muscle man/1 to last
+
+In Wonder Square - 8/Yuffie(2)/game1F to game2F
+
+Do Battle Square - 8/Yuffie(2)/tougijou
+
+Play Feed the Mog game - 9/Cait Sith/MOGU 1
+
+Play Speed Square game - 8/Cloud(1)/jet
+
+Play Chocobo Races - Short - ?
+                     Long - 8/Cloud(1)/chokobo
+
+Puzzles - 2/Old man/Atmospheric barrier no.1 to Atmospheric barrier no.3
+          4/Parka girl/HYOU5-2
+          5/Temple Sage/Chase
+          7/Aeris/Decline Church
+
+Doing Something Different - 2/Red XIII/Dolphin jump
+                            2/Red XIII/Artificial respiration
+                            2/Man/Gaea's cliff no.1 to Gaea's cliff 1 of 3
+                            5/Shinra soldier/Train2 to Train4
+                            5/Temple Sage/The Rock
+                            5/Mini dophin/Parade
+
+99 of every item - 4/Tifa/3rd (Blank)
+
+Quick level up, quick AP level up and alot of money - Main/Yuffie/BATTLE999
+                                                      4/Tifa/4th (Blank)
+
+Getting all you need - 8/Yuffie(3)/item iroiro
+
+Gain alot of money - 4/Tifa/2nd (Blank)
+                     5/Rude/MoneyMoneyMoney
+                     8/Yuffie(3)/okane ippai
+
+Gain alot of GP - 8/Yuffie(3)/GP ippai
+
+
+
+==========
+5.  Yuffie
+==========
+
+Yuffie is in the debug room right beside room 6.  She gives various options 
+that turn on and off various "flags".
+
+Yuffie's options:
+=================
+
+First Set:
+NEXT---------- Go to second set of options
+MENU ON------- Enables Save and PHS options
+BATTLE LOCK--- No more random battles
+BATTLE UNLOCK- Enable battles again
+MOVIE LOCK---- Lock all movies
+MOVIE UNLOCK-- Enalble movies again
+GLOBAL RESET-- Reset party and money
+FULL NAME----- Makes weird names for each character
+NEW START----- Start a new game
+EXIT---------- Exit the options
+
+Second Set:
+BACK---------- Go to first set of options
+SOUND RESET--- If there is music playing picking this will make it silent
+FULL MATERIA-- Get a full set of materia, some blank materia though
+BATTLE999----- Battle 5 triangles that don't attack, for quick level up
+EXIT---------- Exit the options
+
+
+
+==========
+6.  Room 1
+==========
+
+This room contains eight characters in two rows.  The first row is Aeris,
+Tifa, Cid, and President Shinra.  In the second is a guy in a suit, Barret,
+Red XIII, and Jessie.  Most of the options in this room leads to different
+scences in the game.  Jessie allows to change party members and other
+options that I don't know what they do.
+
+
+Aeris' options - Most of these options lead to the events before and after
+==============   the death of Aeris.
+cancel---------- Cancel
+bone after arma- In Bone Village
+san dun--------- In Corral Valley Cave
+sleep forest---- Aeris in Sleeping Forest scene (Sleeping Forest)
+ancient forest-- In the Ancient Forest
+lost lake------- In the Forgotton City
+water pray*----- Before Aeris' Death scene (Forgotten City)
+aerith dead----- After Aeris' Death scene (Forgotten City)
+rock(-s- first)- Just before Palmer battle, holding -s- will lead you to
+                 looking at the Tiny Bronco scene (Rocket Town)
+bone luna------- In Bone Village
+los in---------- Mako Gun missing scene (Upper Junon)
+
+* Make sure you walk back a little and then walk toward the pillars, because
+if you jump on the pillar right away you'll get stuck and have to reset.
+
+
+Tifa's options - Most of these have to do with Cloud's past memories and in
+==============   Nibelheim.
+past jenova (-s- egg)--------------- Sephiroth slashes Tifa scene, holding
+                                     -s- leads to when Cloud comes to Tifa's
+                                     aid. (Cloud's mind)
+join vincent------------------------ In Nibelheim Mansion Basement after
+                                     spiral steps
+shinra house vincent (-s- present)*- In Nibelheim Mansion 2nd Floor, on bed,
+                                     holding -s- will lead to the entrance
+                                     of Nibelheim Mansion
+shinra under (-s- awake)------------ Just before Sephiroth finds about
+                                     himself scene, holding -s- will lead to
+                                     just before Sephiroth talks about
+                                     Jenova scene (Nibelheim Mansion
+                                     Basement)
+nivl reactor------------------------ Tifa with dead dad scene (Nibelheim
+                                     Mako Reactor)
+nivl reactor out-------------------- In front of Reactor scene (Nibelheim
+                                     Mako Reactor)
+nivl mt entrance (-s- past)--------- Mt. Nibel Movie, holding -s- will lead
+                                     to just before Tifa is with dead dad
+                                     scene (Nibel Reactor)
+materia cave------------------------ Just before materia scene (Mt. Nibel)
+new event sininb34------------------ Just before Cloud and Zack's past scene
+                                     (Nibelheim Mansion Basement)
+new event sininb35------------------ Cloud and Zack's past scene (Nibelheim
+                                     Mansion Basement)
+new midgal-------------------------- Zack's death scene (Outside Midgar)
+nivgate----------------------------- Cloud and Zack walking out of Nibelheim
+                                     scene (Nibelheim)
+()---------------------------------- Cancel
+
+* You can't get off the bed, so just don't pick this option.
+
+
+Cid's options - Most of these have to do with the area in and around Midgar.
+=============
+opening (-s-)--------------- Opening movie?
+feel wind------------------- Diamond Weapon Battle
+gate open------------------- At Mako Reactor entrance (Sector 1 Station)
+t road (-s-escape)---------- Just entering T junction, holding -s- will lead
+                             to just escaping Reactor (No.1 Reactor)
+1reactor-------------------- Just before Cloud sets time bomb scene (No.1
+                             Reactor)
+junon (-s-yufi,-R1-gaiheki)- Escape from Junon scene, holding -s- will lead
+                             to the captured and Scarlet is talking scene,
+                             holding -R1- will lead when Tifa just escapes
+                             the gas chamber thanks to Weapon (Upper Junon)
+()-------------------------- cancel
+
+
+President Shinra's options - Most of these have to do with Bugenhagen and
+==========================   Forgotten Capital.
+white----------------- Tifa in Gas Chamber (Gas Room)
+white boogen (key)*--- Waterfall scene with Aeris (Fogotten Capital)
+white boogen (no key)- Just before Bugenhagen talks about the White Materia
+                       scene (Forgotten Capital)
+before---------------- Same as above, I think
+after----------------- Same as above but without Bugenhagen
+white2---------------- Just before Cloud thinks about Aeris scene (Forgotten
+                       Capital)
+junonn in2*----------- After Bugenhagen puts in Ancient Key (Forgotten
+                       Capital)
+
+* The background is screwed up it shows a movie, but depending on which disc
+you put in before you activated the scene the movie will be different.  If 
+disc one is in there will be the comet movie when you first visited the 
+Cosmo Canyon Observatory, and if disc two is in there will be a hidden movie
+where a big plane gets off the Junon Airport, if disc three is in there will
+be no movie.
+
+
+Man in suit's options - Most of these are events have to do with when Cloud
+=====================   invades the Shinra buiding. 70F leads to a second
+                        set of options.
+para----- Parachute scene
+66F------ In Shinra Building 66th floor
+67F(-s-)- Following Hojo scene, holding -s- will lead to the part when the
+          whole party is in jail (Shinra Bldg. 67f.)
+68F------ Before Aeris' rescue scene (Shinra Bldg. 68f.)
+68F2----- Aeris' rescue scene (Shinra Bldg. 68f.)
+70F------ plate down meeting- Heidegger, President Shinra, Reeve meeting
+          caught------------- Party gets caught scene
+          dead president----- Just before Cloud discovers dead president
+          app rufaus--------- Just before talk with Rufus
+          after heli--------- Just before battle with Rufus
+elevetr-- Elevator scene with Rude and Tseng
+
+
+Barret's options - Barret doesn't have any options if you go to him you'll
+================   automatically go to the Northern Cave.
+
+
+Red XIII's options - A bunch of different scenes.
+==================
+7 pillar------------- Just before Reno battle (Plate Support)
+kolneo under--------- Just before Aps battle (Sewer)
+high way------------- Just after Motor Ball battle scene (Highway)
+5 out---------------- Escaped Midgar scene (Slum Outskirts)
+airport (-s-gelnica)- Just after Cloud snuck into Upper Junon, holding -s-
+                      leads to the exit of Junon Airport (Airport)
+afterfire cefiros---- Just before Tifa with dead dad scene (Mt. Nibel
+                      Reactor)
+jairo sky------------ Tiny Bronco is damaged scene
+jairo sea------------ Same as above
+junon cannon--------- In Junon as it's getting attacked by Weapon (Aljunon)
+junon medical-------- Tifa recovering scene (Dr.'s Office)
+()------------------- Cancel
+
+
+Jessie's options - Allows you to get these characters but to put them in
+================   your party just choose "Change party members"
+cancel---------------- Change party members
+Aerith---------------- Get Aeris
+Tifa------------------ Get Tifa
+Barret---------------- Get Barret
+Red------------------- Get Red XIII
+cid------------------- Get Cid
+(Blank, Cait Sith)---- Get Cait Sith
+Yuffie---------------- Get Yuffie
+Sephiroth------------- Get Sephiroth
+Cloud Lock------------ Make Cloud as leader
+Change party members - Change party members
+
+
+
+==========
+7.  Room 2
+==========
+
+This room is just like room 1 except some of them say something before you 
+pick an option.  You can also play the snowboard game from here.  There are 
+10 people in this room.  In the first row is Barret, Tifa, a Nurse, and 
+Aeris.  In the second is Priscilla and Cid.  In the third is an Old Man, 
+Red XIII, a Man, and Yuffie.
+
+
+Barret's options - He lets you add people to your party
+================
+"Who do you want in the party?
+Tifa-------------- Put Tifa in party
+Ballet------------ Put Barret in party
+Earith------------ Put Aeris in party
+Red--------------- Put Red XIII in party
+Cid--------------- Put Cid in party
+Yufi-------------- Put Yuffie in party
+Ketcy------------- Put Cait Sith in party
+Vince------------- Put Vincent in party
+Put Cid on point*- Put Cid as leader of party
+Forget it--------- Cancel
+
+* If you pick this option then you cannot get Cloud back unless you reset 
+the game.
+
+
+Tifa's options - All of these have to do something about North Corel.
+==============
+"Going to North Corel
+It doesn't matter whether or not
+Ballet is in this event.
+Barret of north Corel- Just before you find Barret at North Corel scene
+ropeway--------------- Just before Barret talks about his past scene
+North Corel----------- Just after train crashes into North Corel
+quit------------------ Cancel
+
+
+Nurse's options - I don't know what none of these do except for the last
+===============   one.
+Palmer---------- ???
+Highwind-------- ???
+Materia mission- ???
+Cloud revival--- ???
+Rocket launch--- ???
+Sister Ray------ ???
+Train sucess---- ???
+Train failure--- ???
+Train last------ ???
+quit------------ Just stoped the train from crashing into North Corel scene
+
+
+Aeris' options - She doesn't have any options she just says, "Snow board
+==============   game" and you play it, the one from Icicle Inn not the
+                 Wonder Square.
+
+
+Priscilla's options - She can remove members from the party or give you all
+===================   of them.  You can't have them in your party unless you
+                      go to Barret.
+quit----------- Cancel
+all members*--- Get all party members
+without Yufi--- Remove Yuffie
+without Vince-- Remove Vincent
+without Ballet- Remove Barret
+without Tifa--- Remove Tifa
+without Earith- Remove Aeris
+without Red---- Remove Red XIII
+without Cid---- Remove Cid
+without Ketcy-- Remove Cait Sith
+
+* If you pick this option you can even get Sephiroth, I just don't know how
+to get him in your party.
+
+
+Cid's options - He doesn't have any options, he just says:
+=============   "I'm sickle...xxxx
+                 I mean...Icicle Inn
+                 ...ok, bad joke."
+                 And you end up in Icicle Inn.
+
+
+Old man's options - These all lead to the Whirlwind Maze.
+=================
+Crater no. 1-------------- Part just before Whirlwind Maze, before Tifa
+                           joins (Crater)
+Whirlwind Maze no. 1------ Obtaining the Black Materia scene
+Whirlwind Maze no. 2------ The beginning of the Whirlwind Maze
+Atmospheric barrier no. 1- Barrier with wind
+Atmospheric barrier no. 2- Barrier with wind and wave
+Atmospheric barrier no. 3- Barrier with wind, wave and lightning
+quit---------------------- Cancel
+
+
+Red XIII's options - These have to do with Under Junon.  He says, "Where are
+==================   you going underneath Junon?
+Under Junon 1--------- Just entering Under Junon scene
+There'll be monsters-- At Dolphin Offing just after Cloud rescued Priscilla
+Dolphin jump---------- When you use the Dolphin to jump on the tower
+Artifical respiration- When Cloud has to do CPR on Priscilla
+quit------------------ Cancel
+
+
+Man's options - These have to do with Gaea's Cliff.  He says, "Gaea cliff
+=============   test.
+Gaea's cliff no. 1--- First part of climbing Gaea's Cliff
+Gaea's cliff no. 2--- Second part of climbing Gaea's Cliff
+Gaea's cliff 1 of 3-- Third part of climbing Gaea's Cliff
+Gaea's cliff 2 of 3-- Last part of climbing Gaea's Cliff
+Base of Gaea's cliff- Outside man's Cabin (Base of Gaea's Cliff)
+quit----------------- Cancel
+
+
+Yuffie's options - These do with the last part of disc two.  She says,
+================   "Hydroplane event.
+deck no.1--------- ??? I can hear weapon attacking music though
+parachute deck---- About to parachute into Midgar scene (Highwind Deck)
+bridge no. 1------ Just after Shinra destroys Sephiroth's Barrier scene
+                   (Highwind Bridge)
+bridge no. 2------ Just found out about Sister Ray scene (Highwind Bridge)
+bridge no. 3------ About to parachute into Midgar scene (Highwind Bridge)
+conference room 1- Shinra meeting about their options (Conference Room)
+conference room 2- Shinra meeting about Sister Ray (Conference Room)
+conference room 3- Heidegger and Scarlet take over Shinra scene (Conference
+                   Room)
+send off people--- About to parachute into Midgar scene (Highwind Bridge)
+quit-------------- Cancel
+
+
+
+==========
+8.  Room 3
+==========
+
+This room contains alot of people leading to more scenes in the game.  
+There are 12 people in this room.  In the first row is Sephiroth, Aeris, 
+Priscilla, Tifa, and Marlene.  In the second is Cait Sith, a spiky haired 
+guy, a lab guy, and Zangan.  In the third is Barret, Yuffie, and a guy in a 
+blue hat.
+
+
+Sephiroth's options - Most of these are Sephiroth-related as does it say on
+===================   the top.
+quit----------- Cancel
+from pinball--- Sephiroth telling about Materia scene (Truck)
+from Cam's inn- Cloud's first time with Sephiroth scene (Truck)
+starry sky----- Tifa and Cloud remembering the promise scene (Nibelheim)
+gate----------- Cloud and Sephiroth arriving in Nibelheim scene
+gate no. 2----- Tifa remembering Nibelheim with Cloud (Cloud's mind)
+starry sky----- Tifa remembering the well in Nibelheim with Cloud (Cloud's
+                mind)
+village no. 2-- ???
+truck no. 2---- Zach, Cloud and Sephiroth in truck scene
+
+
+Aeris' options - All of these take place in the church and have to do with
+==============   Aeris.
+First of all------------ when Cloud fell in the church flower bed
+Following roof incident- In the church with kids taking care of flowers
+After Aerith's death---- Same as above but with the ghost of Aeris
+
+
+Priscilla's options - All of these are on the Highwind.
+===================
+highwind (not going)- ???
+Shinra's highwind---- Shinra searching for Promised Land scene (Bridge)
+Party's highwind----- Party discussing what to do scene (Bridge)
+Evening's highwind--- Same as "Shinra's highwind"
+sign----------------- Just obtained highwind scene (Deck)
+passageway----------- In the highwind over the operations room (stuck)
+Conference room------ When Cloud returns scene (Operations room)
+Chocobo-------------- In Chocobo Stable on the highwind (stuck)
+Ex-SOLDIE highwind--- On the highwind bridge
+
+
+Tifa's options - All have to do with her dear hometown Nibelheim, it says on
+==============   the top.  Tifa's house leads to a second set of options.
+willage------------ Sephiroth and Cloud arriving at Nibelheim scene
+1st floor of inn--- In Nibelheim Inn (stuck)
+2nd floor of inn--- On the second floor on Nibelheim Inn (stuck)
+store-------------- In Nibelheim store (stuck)
+Ex-SOLDIE's house-- Cloud sleeping on his bed scene (Cloud's house)
+Tifa's house------- 1st floor-------- on 1st floor of Tifa's house (stuck)
+                    2nd floor-------- on 2nd floor of Tifa's house (stuck)
+                    2nd floor window- Tifa crying by window scene
+                    reminiscing------ Tifa and Cloud talking about past
+1st floor of house- 1st floor of a Nibelheim house (stuck)
+2nd floor of house- 2nd floor of a Nibelheim house (stuck)
+Quit--------------- Cancel
+
+
+Marlene's options - She doesn't have any options.  She says, "___ng good-bye
+=================   to party members Ex-SOLDIE."  I can't read the beginning
+                    of what she says because it's off the screen.  She just
+                    leads to the Cloud and Zack on truck scene.
+
+
+Cait Sith's options - These are the parts of Nibelheim of fire or the
+===================   tragedy of Nibelheim.
+quit--- Cancel
+part 1- Nibelheim on fire (stuck)
+part 2- Sephiroth faking Nibelheim scene
+
+
+Spiky haired guy's options - If you want to reset the time or not it says
+==========================   "global. re-set" on the top.
+yes-------------------------- Reset time
+no--------------------------- Cancel
+ended reflecting on the past- ???
+
+
+Lab guy's options - A far as I know he'll take you to the "Present day
+=================   Nibelheim" if you want.
+Go------- In Nibelheim (stuck)
+Don't go- Cancel
+
+
+Zangan's options - He does nothing, two blank dialog boxes come up and
+================   that's it.
+
+
+Barret's options - A small dialog box appears and there is 15 invisible
+================   options.  All these do is party changes.  DO NOT pick the
+                   first one because it freezes the game.
+(Blank)- Freezes game
+(Blank)- Put Cloud in party
+(Blank)- Put Barret in party
+(Blank)- Put Tifa in party
+(Blank)- Put Aeris in party
+(Blank)- Put Red XIII in party
+(Blank)- Put Yuffie in party
+(Blank)- Put Cait Sith in party
+(Blank)- Put Sephiroth in party
+(Blank)- Put Cid in party
+(Blank)- Make Young Cloud leader
+(Blank)- Make Cloud leader
+(Blank)- Make Tifa leader
+(Blank)- Make Cid leader
+(Blank)- ???
+
+
+Yuffie's options - These have to do with the events when Cloud gives the
+================   Black Materia to Sephiroth.
+TRNAD51-- Cloud giving Black Materia to Sephiroth scene
+TRNAD52-- Same as above but earier
+TRNAD53-- In the Great Cave?
+BLACKBGD- End of disc 2 screen
+
+
+Guy in blue hat's options - These have to do with the events near the end of
+=========================   disc 2.
+quit------------------------- Cancel
+regular hours---------------- On the Highwind Bridge supposed to go to Junon
+star's scream---------------- Party talking about planet scene
+weapon appears--------------- Diamond Weapon appears scene
+What happened to Sephiroth?-- What happened to Sephiroth scene
+On the final day------------- After weapon destroyed Shinra scene
+everyone came home----------- Tifa and Cloud talking alone in Highwind scene
+Called from the last dungeon- On Highwind Bridge
+
+
+
+==========
+9.  Room 4
+==========
+
+These options lead to mostly parts in the game rather than scenes unlike the
+previous rooms.  There are 11 people in this room.  In the first row is 
+Red XIII, Reeve, Barret, a parka girl, and Cait Sith. In the second is Cid 
+and a guy in brown. In the last row is a muscle man, Yuffie, Tifa, and 
+Aeris.  The best thing about this room is Yuffie, talk to her and you can 
+see Movies from the game.
+
+
+Red XIII's options - These have to do with the Train Grave hence the title.
+==================
+MDS7ST2- At second part of Train Grave
+MDS7ST1- At first part of Train Grave
+Cancel-- Cancel
+
+
+Reeve's options - Most of these have to do about Shinra's meetings on the
+===============   Sister Ray and the Weapon.
+1------- Shinra meeting about Sister Ray scene (Shinra Bldg.)
+2------- Rufus telling to fire Sister Ray scene (Shinra Bldg.)
+3------- Weapon destroyed scene (Shinra Bldg.)
+Last0-3- About to go into Northern Cave
+cancel-- Cancel
+
+
+Barret's options - He just asks you if you want to organize your party and
+================   that's what he does.
+Yes- Pick party members
+No-- Cancel
+
+
+Parka Girl's options - These all have to do with the Great Glacier, the snow
+====================   maze.
+(Blank)----------- Just landed from snowboard game, at a tree
+(Blank)----------- At the entrance of the Ice Gate
+(Blank)----------- Just landed from snowboard game, at the Ice Gate
+(Blank)----------- Same as 2nd (Blank)
+HYOU3------------- At a snow path in between some mountains
+HYOU13-1 (After)-- Just before the Parka Girl in Cave, can't fight her
+HYOU13-1 (Before)- Same as above but you can fight the girl
+HYOU5-2----------- At the ice cap puzzle
+Cancel------------ Cancel
+
+
+Cait Sith's Options - These have to do with climbing on a bunch of wires to
+===================   get to the Shinra Building.
+WCRIMB1 (with Battery)---- First part of climbing wires, with Batteries
+                           (Plate Section)
+WCRIMB1 (without Battery)- Same as above but without batteries
+WCRIMB2------------------- Second part of climbing wires (Plate Section)
+WCRIMB1------------------- Jump on swinging bar part (Plate Section)
+Cancel-------------------- Cancel
+
+
+Cid's options - Talk to him and you'll fight "CMD. Grand  Horn" in front of
+=============    Fort Condor, win or lose he'll give you three options.
+Man----- In Wrestling Gym (Men's Hall)
+Be Girl- Cloud in a dress
+Cancel-- Cancel
+
+
+Guy in Brown's options - These all have to do with Fort Condor.  What makes
+======================   it confusing is that they're all (Blank)'s and the
+                         first six (Blank)'s lead to 3 more (Blank)'s and a
+                         cancel.
+(Blank)- (Blank)- First time entering Fort Condor, Cloud in lead
+         (Blank)- Same as above except Tifa's in lead
+         (Blank)- Same as above except Cid's in lead
+         cancel-- Same as first/first (Blank)
+(Blank)- (Blank)- In Fort Condor, Cloud in lead
+         (Blank)- Same as above except Tifa's in lead
+         (Blank)- Same as above except Cid's in lead
+         cancel-- Same as second/second (Blank)
+(Blank)- (Blank)- In front of Fort Condor, Cloud in lead
+         (Blank)- Same as above except Tifa's in lead
+         (Blank)- Same as above except Cid's in lead
+         cancel-- Same as above
+(Blank)- (Blank)- Same as first/first (Blank) but a little different
+         (Blank)- Same as first/second (Blank) but a little different
+         (Blank)- Same as first/third (Blank) but a little different
+         cancel-- Same as third/third (Blank)
+(Blank)- (Blank)- Same as third/first (Blank)
+         (Blank)- Same as third/second (Blank)
+         (Blank)- Same as third/third (Blank)
+         cancel-- Same as third/fourth (Blank)
+(Blank)- (Blank)- Just before Condor dies, Cloud in lead
+         (Blank)- Same as above except Tifa's in lead
+         (Blank)- Same as above except Cid's in lead
+         (Blank)- Same as above
+(Blank)- Just before you get the Huge Materia from old man
+(Blank)- At top of Fort Condor
+(Blank)- ???
+(Blank)- ???
+
+
+Muscle man's options - These all lead to Fort Condor Battles.  I don't know
+====================   the difference between some of them.
+1------ Fort Condor Battle
+2------ Same as above
+3------ Same as above but with Fire Catapult
+4------ Same as above but with Tri-stoner
+5------ Same as above
+6------ Same as above
+last--- Same as above
+cancel- Cancel
+
+
+Yuffie's options - Probably the best thing here, the title is xy movie, the
+================   the x and y variables stand for a number.
+look*-- look at a movie on the disc
+plus--- and 1 to the y variable on the title, to skip a movie
+cancel- Cancel
+
+* Change the disc if you can get different movies.
+
+
+Tifa's options - Gives you some great options I just don't know what the
+==============   last three do though.
+(Blank)- Gain 300 gil
+(Blank)- Gain 131072 Gil
+(Blank)- Gain 99 of all items
+(Blank)- Battle 5 triangles that don't attack, for quick level up
+(Blank)- Reset time
+(Blank)- ???
+(Blank)- ???
+(Blank)- ???
+
+
+Aeris' options - These all take place in the Wall Market.
+==============
+MRKT 1---------- In the Wall Market before Don Corneo's mansion
+MRKT 2 (After)-- Just arriving the Wall Market
+MRKT 2 (Before)- In Wall Market (can get Premium Heart from computer)
+
+
+
+==========
+10. Room 5
+==========
+
+This room greets you with the message "Welcome to FinalFantasy7 English 
+Version".  There is music in the background and everytime you talk to 
+someone the music changes.  There are 13 people in this room.  In the first 
+row is Aeris in a dress, Barret in a sailor suit, Tifa in a dress, a Shinra 
+soldier, a Honey Bee Inn girl, and Rude of the Turks. In the second is 
+Sephiroth, a bikini girl, the Temple Sage, a sailor,  a mini dophin, a mini 
+cat, and a dog.
+
+
+Aeris's options - She doesn't have any options, when you talk to her she
+===============   says, "Working now" and leads to different sounds playing
+                  and then you go to the part where Tifa is chasing Cloud
+                  scene.
+
+Barret's options - All of these have to do with the Sector 7 Slums.
+================
+"7th Street"-- At Beginner's Hall
+Welcome Home-- Just arriving at Sector 7 Slums
+Before Memory- Just before talk with Tifa
+Materia------- Same as above but there is a "ghost" Tifa at top corner
+Good Morning-- Just waking up in the AVALANCHE Hideout
+Before Battle- Just arriving as Sector 7 Pillar is under attack
+Cancel-------- Cancel
+After Memory-- Just after memory about promise with Tifa scene
+
+
+Tifa's options - She doesn't have any options, all she does is change party
+==============   members.
+
+
+Shinra soldier's options - All of these lead to some part when they first
+========================   get on the Cargo Train, he says, "Last train from
+                           Midgar".
+Cargo------------ Just got on the Cargo Train
+Train1----------- Security ID Check scene
+Train2----------- Level 2 Alert part
+Train3----------- Max Security Alert part
+Train4----------- Level 4 Alert part
+Monitor---------- Jessie and Cloud looking at model Midgar scene
+Station1--------- Just arriving at Sector 7 Station
+Station2--------- About to Leave Sector 7 Station
+StationFlashBack- Flash back about Aeris' Mom finding her scene
+Cancel----------- Cancel
+
+
+Honey Bee girl's options - Talk to her and your window color will change
+========================   pink at the top to yellow.  These have to do with
+                           the Honey Bee Inn.
+First Time- First time arriving at Honey Bee Inn, can't go in
+2nd-------- Same as above up you can go in
+3rd-------- Cloud arriving at Honey Bee Inn dressed as a girl.
+After All-- Arriving at Honey Bee and Aeris is a "ghost"
+Cancel----- Cancel
+
+
+Rude's options - Doesn't lead to any scene's just give you a bunch of
+==============   different options that change party.
+Cancel------------------ Cancel
+Got The Jyro------------ ???
+After The Meteo...TIFA-- Makes Tifa leader
+After The Meteo...CID--- Makes Cid leader
+After The Meteo...CLOUD- Makes Cloud leader
+MakoUnderTheSea--------- ???
+HP&MP 1----------------- Makes the lead character's HP and MP zero
+No Money---------------- Removes all gil
+MoneyMoneyMoney--------- Gain 365534 gil
+Got The Keystone-------- Gain the Keystone Item
+
+
+Sephiroth's options - All of these have to do with the events surrounding
+===================   Mt. Corel.
+Mountain Road--- At the beginning of Mt. Corel
+(Cancel)-------- ??? Cancel?
+Vally----------- At the railroad tracks or Mt. Corel (before the reactor)
+Up&down--------- Climbing the train tracks part
+River----------- The bridge is up part
+Hole------------ In the Camper's secret hideout
+PiyoPiyo-------- Hidden birds nest scene
+Bridge---------- At the end of the long bridge
+Railway--------- At the beginning of the railway crosses with holes
+Ballet's Memory- Barret and Dyne memory scene
+Cancel---------- Cancel
+
+
+Bikini girl's options - These have to do with Costa del Sol.
+=====================
+Town--- Under the bridge of Costa del Sol
+Beach-- Just before Hojo on beach scene
+Harbor- At Costa del Sol Harbor (stuck)
+Debug-- Shinra's arrival at Costa del Sol scene
+
+
+Temple Sage's options - Holy crap this guy has alot of options.  They all
+=====================   lead to The Temple of the Ancients scenes and parts.
+
+First Set:
+(FORMATION)------------ Change party members
+Temple----------------- First arriving at Temple of Ancients
+After Collapse--------- Discovered Black Materia scene
+Altar------------------ At the entrance of the Altar
+Alter2----------------- After putting in the Keystone scene
+Temple of the Ancients- At the beginning of the Temple Maze scene
+Shop of the Ancients--- First time meeting Temple Sage scene
+The Rock--------------- The rolling rocks part
+The Hole of Time------- First arriving at the Time Guardian's clock
+Tirano----------------- About to battle 2 Ancient Dragons
+Treasure--------------- About to get the treasure, can't get it
+Chase------------------ Where you have to chase Temple Sage for key to door
+Next Page-------------- Go to second set of options
+
+Second Set:
+"Temple of the Ancients2"- Sephiroth about to take Black Materia scene
+Mateo--------------------- Just arriving at the Black Materia's resting
+                           place
+Sephiros------------------ Sephiroth becoming one with the planet scene
+Hole1--------------------- An entrance blocked off by boulders (stuck)
+Hole2--------------------- An entrance with a light at the end (stuck)
+Boss---------------------- In front of the exit, can't open door yet
+Mateo2-------------------- Cloud being possesed scene
+Cancel-------------------- Cancel
+
+
+Sailor's options - Most of these have to do with getting the Huge Materia
+================   from Junon.
+"Submarine" (Cancel)- Change party members
+SubmarineDock-------- View of Red Shinra Sub, hidden background (stuck)
+BridgeRed------------ Asked if you should surrender part
+BridgeBlue----------- Asked if you should fight Submarine crew part
+SubmarineRed--------- Just entered Shinra sub with red lights
+SubmarinBlue--------- Just entered Shinra sub with white lights
+Escape--------------- Escaping the Shinra sub scene
+MiniGame0------------ Destroy the Red Shinra sub game
+MiniGame1------------ Destroy enemy subs game level 1 at Wonder Square
+MiniGame2------------ Destroy enemy subs game level 2 at Wonder Square
+MiniGame3------------ Destroy enemy subs game level 3 at Wonder Square
+MiniGame4------------ Destroy enemy subs game level 4 at Wonder Square
+MiniGame5------------ Destroy enemy subs game level 5 at Wonder Square
+
+
+Mini dolphin's options - Most of these have to do with the Junon parade.
+======================
+"JUNONR"---- ???
+JUNONR1----- Junon Parade scene
+JUNONR2----- After Junon parade with Rufus and Heidegger scene
+JUNONR3----- At Upper Junon Dock without the Ship
+PARADE------ About to do parade part
+JUNONR-W---- At Upper Junon Weapon Store (stuck)
+JUNONR-PUB-- At Upper Junon Bar (stuck)
+JUNONR-1---- At Upper Junon Item Store (stuck)
+JUNONR-M---- At Upper Junon Materia Store (stuck)
+JUNONR-MIN1- At Upper Junon Barracks, 1st floor (stuck)
+JUNON-MIN2-- At Upper Junon Barracks, 2nd floor (stuck)
+JUNON-MIN3-- At Upper Junon Barracks, 3rd floor (stuck)
+JUNON-MOVIE- Upper Junon view of gun movie
+
+
+Mini cat's options - Almost the same as above but these take place after the
+==================   parade. All but two of these end up stuck, so these
+                     suck.
+"JUNONL"---- ???
+JUNONL1----- On the Upper Junon street (stuck)
+JUNONL2----- On the Upper Junon street near elevator thing (stuck)
+JUNONL3----- On closer view of street (stuck)
+JUNONL-W---- At Upper Junon Weapons Shop (stuck)
+JUNONL-I1--- At Upper Junon Accessories Shop (stuck)
+JUNONL-I2--- At Upper Junon Item Shop (stuck)
+JUNONL-INN-- At Upper Junon Inn (stuck)
+JUNONL-PUB-- At Upper Junon Bar (stuck)
+JUNONL-MIN0- At Upper Junon Beginner's Hall
+JUNONL-MIN1- At Upper Junon Barracks, 1st floor (stuck)
+JUNONL-MIN2- At Upper Junon Barracks, 2nd floor (stuck)
+
+
+Dog's options - These have to to do with the area arounnd Junon.
+=============
+"JUNONDOC"- ???
+JUNONDOC1-- At the entrance of the Junon Dock
+JUNONDOC2-- On the water of the Junon Dock (stuck)
+ROAD1------ Just entering the base with the soldiers
+(Cancel)--- ??? Cancel?
+ROAD3------ Just before the entrance to the path of the Underwater Reactor
+            (stuck)
+ROAD4------ At the entrance to the path of the Underwater Reactor (stuck) 
+ROAD5------ At the path of the Underwater Reactor (stuck)
+ROAD6------ On a different path to the Underwater Reactor (stuck)
+ROAD7------ On the bottom of the elevator shaft, at the entrance to the
+            Underwater Reactor
+ELE1------- On the elevator with a woman (stuck)
+ELE2------- At town elevator shaft.
+ROOM------- In locker room, soldiers are doing "special pose"
+
+
+
+==========
+11. Room 6
+==========
+
+I'm guessing that everytime you see the option "yame" it means cancel.  You
+even get to play the motorcycle minigame here too.  There are 12 people in
+this room.  This room has doubles of three of the characters and three Cid's
+so here's a map so you won't get confused like me:
+                                      Cid(1)
+Barret(1)       Cait Sith(1)       Cid(2)
+   Barret(2)       Cid(3)       Sailor
+
+
+   Aeris(1)     Cait Sith(2)    Yuffie
+Aeris(2)                             Dyne
+
+
+Cid(1)'s options - Most of these have to do with invading the Shinra
+================   building on disc one.
+colneo kobun beya- Cloud dressed as girl in room full of men scene
+sinra kaidan 1---- 1st set of stairs up to the 59th floor of Shinra scene
+sinra kaidan 2---- 2nd set of stairs up to the 59th floor of Shinra
+sinra kaidan 3---- Final set of stairs up to the 59th floor of Shinra
+sinra 59F--------- On the 59th floor of Shinra building (stuck)
+sinra elevator---- Just got in the Shinra building scene
+sinrabil totunyuu- View of Shinra building scene
+sinrabil dasshutu- Just about to escape Shinra building scene
+yame-------------- Cancel
+
+
+Barret(1)'s options - All of these have to do with the Sector 5 Slums.
+===================
+slum chuusin- In Sector 5 Slums
+dokan-------- Inside an Earthen Pipe
+icchaya------ At the entrance of the path to Sector 5 Slums
+yame--------- Cancel
+
+
+Cait Sith(1)'s options - Allows you to add party members and to change the
+======================   party leader, and cincent is not Vincent it's
+                         Sephiroth.
+cloud dake- Make Cloud leader
+ballet----- Add Barret to your party
+tifa------- Add Tifa to your party
+earith----- Add Aeris to your party
+red-------- Add Red XIII to your party
+caitsith--- Add Cait Sith to your party
+yufi------- Add Yuffie to your party
+cid-------- Add Cid to your party
+cincent---- Add Sephiroth to your party
+tifa dake-- Make Tifa leader
+cid dake--- Make Cid leader
+
+
+Cid(2)'s options - All of these take place in Don Corneo's mansion, you just
+================   have to someone different for each option.
+tifa to saikai---- About to rescue Tifa scene
+earith to gouryuu- About to rescue Aeris scene
+colneo sonogo----- About to help or not help Kotch part
+yame-------------- Cancel
+
+
+Barret(2)'s options - All of these have to do with Cloud and Aeris just
+===================   escaping the Turks from the chuch.
+kyoukai no yane- Just got out of the chuch with Aeris scene
+yane pyon------- Jumping from garbage to garbage part
+yane kara oriru- Just arriving at Sector 5 Slums with Aeris
+yame------------ Cancel
+
+
+Cid(3)'s options - All of these have to do with Don Corneo manion.
+================
+ponbiki---------- In front of Don Corneo's mansion
+irasshai--------- Just arriving at Don Corneo's mansion (stuck)
+tifa to gouryuu*- In Don Corneo's mansion in front of a door
+yame------------- Cancel, then it'll say "yametayo"
+
+* If you go to the room Cloud'll be in a dress and you'll be stuck.
+
+
+Sailor's options - All but the last three have to do with Yuffie and Wutai,
+================   the last three have to do with the rocket crashing into
+                   the meteor.
+utai iriguti-- At the entrance of Wutai
+yufi wo oe!--- Same as above but as if Yuffie stole your materia
+yufi nakamani- When you defeat Yuffie in Junon Area's forests
+yufi nigeru1-- When Yuffie stole you materia scene
+yufi nigeru2-- Same as above
+meteo1-------- As rocket crashes into meteor over the Shinra Building scene
+meteo2-------- As rocket crashes into meteor over Cosmo Canyon scene
+meteo3-------- Bugenhagen disappointed at Rocket attempt scene
+yame---------- Cancel
+
+
+Aeris(1)'s options - These have to do with whoever Don Corneo picks.
+==================
+cloud erabareru-- Where Don picks Cloud
+earith erabareru- Where Don picks Aeris
+tifa erabareru--- Where Don picks Tifa
+yame------------- Cancel
+
+
+Cait Sith(2)'s options - These are all different scene from different points
+======================   of the game.
+unpansen------ At the basement of Cargo ship
+corel kaisou1- Barret's memory of Corel scene
+corel kaisou2- Corel Town meeting memory scene
+saishuukessen- Cloud floating in front of Holy scene
+yame---------- Cancel
+
+
+Yuffie's options - All but one of these have to do with Cosmo Canyon.
+================
+cosmo materia ya-- At Cosmo Canyon Materia Shop
+cosmo touchaku---- View of Cosmo Canyon, when first arriving there
+seto no kabe------ Finding Seto scene
+movie check*------ View a movie
+boogen jikkensitu- First time arriving at Bugen Research Center
+sayonara cosmo---- About to leave Cosmo Canyon scene
+meteo go cosmo---- At the entrance of Cosmo Canyon
+onegai boogen----- Just before meeting about Aeris, go into Observatory
+hyuji materia----- At Observatory with all four Huge Materia
+sayonara boogen--- At the entrance of Bugen Research Center
+............------ Just after Bugenhagen's death scene
+
+* Putting in a different disc will result in a different movie.  If you put
+in disc one it'll be the Cosmo Canyon Observatory movie, if you put in disc
+two it'll be the rocket launch movie, and disc three leads to no movie.
+
+
+Dyne's options - All of these have to do with the Shinra Building, can even
+==============   play motorcycle minigame here.
+sinra 60F-------- At the 60th floor of Shinra Building, second invasion
+sinra 61F-------- At the 61st floor of Shinra Building, second invasion
+sinra 64F-------- At the 64th floor of Shinra Building, second invasion
+sinra 63F-------- At the 63rd floor of Shinra Building, second invasion
+                  (stuck)
+sinra 62F-------- At the 62nd floor of Shinra Building, second invasion
+                  (stuck)
+sinrabil shoumen- At the entrance of Shinra Building (stuck)
+sinrabil uraguti- At the hall to the entrance of stairway
+minigame--------- Play motorcycle minigame
+sinrabil matane-- Same as "sinrabil shoumen", stuck too
+yame------------- Cancel
+
+
+
+==========
+12. Room 7
+==========
+
+There are eight people in this room.  People in this room are in a cicle 
+formation.  In the first row is Sephiroth, in the second is a General and a 
+fat guy, in the third is a bald man and Rude, in fourth is Shera and a 
+sailor, and in last is Aeris.
+
+
+Sephiroth's options - It's says, "CG MOVIE VIEWER" on the top, and he gives
+===================   you two options, either "use" or "cancel",  "use"
+                      leads to the options below and "cancel" obviously
+                      cancels.  My disc one is screwed up so I might be
+                      missing a couple of movies.
+South Reactor----------- 'disc 1' Cloud falling from reactor explosion (one
+                         movie)
+(Blank)----------------- 'disc 1' Sector 7 Pillar exploding and jumping off
+                         pillar (two movies)
+NIVLHAIM tragedy-------- 'disc 1' Monster emerging from stasis, Sephiroth in
+                         fire, and Sephiroth finding Jenova (three movies)
+(Blank)----------------- 'disc 1' Rocket not taking off memory movie (one
+                         movie)
+Gold Saucer------------- 'disc 1' Leaving Corel, View of Gold Saucer,
+                         fireworks while on date, view of Gold Saucer while
+                         on date, view of Gold Dio while on date, view of
+                         Speed Square while on date, view of Chocobos while
+                         on date, view of Event Square while on date, view
+                         of Ghost Square while on date, view of whole Gold
+                         Saucer while on date, and arriving at Gold Saucer
+                         (11 movies)
+take off Tiny Bronco---- 'disc 1' Tiny Bronco taking off and Tiny Bronco
+                         landing in water (two movies)
+AERITH death------------ 'disc 1' Sephiroth killing Aeris and Aeris' burial
+                         (two movies)
+SEPHIROTH--------------- 'disc 2' View of Northern Crater, Sephiroth
+                         appears, Cloud giving Black Materia to Sephiroth,
+                         and Weapons emerge (four movies)
+WEAPON attack----------- 'disc 2' View of meteor from Junon, preparing for
+                         Weapon attack, firing Junon cannon, Junon firing
+                         at Weapon, Junon still firing at Weapon, Weapon
+                         surfacing, Weapon shooting, and Tifa jumping off
+                         Junon cannon (eight movies)
+CLOUD psychoanalusis---- 'disc 2' Tifa and Cloud falling into Lifestream,
+                         from Cloud's mind to Nibelheim, from Cloud's mind
+                         to Nibelheim Well and from Cloud's mind to Tifa's
+                         house (four movies)
+(Blank)----------------- 'disc 2' Rocket taking off (one movie)
+METEO intercept failure- 'disc 2' Getting off rocket, rocket shooting toward
+                         meteor, and meteor still there (three movies)
+Shoot SISTER LAY-------- 'disc 2' View of Sister Ray, Weapon "sensing"
+                         danger, Weapon walking away, Sister Ray shooting,
+                         Weapon shooting, view of Weapon's and Sister Ray's
+                         shots, death of Weapon, Sister Ray's shot
+                         destroying Sephiroth's barrier, and death of Rufus
+                         (nine movies)
+
+
+General's options - All of these have to do with the events of No.5 Reator.
+=================   "Tunnel" leads to more options.
+Cancel------ Cancel
+Tunnel------ Perfect!- In Winding Tunnel just before entrance with lasers
+             Normal--- Four screens before entrance with lasers
+             Oh, NO!-- Five screens before entrance with lasers
+5th Reactor- At the T junction of No.5 Reactor just before Air Buster battle
+
+
+Fat guy's options - All of these have to do with Kalm Town.  "After
+=================   Armagedon" leads to a second set of options, picking
+                    "Yes" leads to a third set, you can get the prizes from
+                    the Kalm trader if you pick one or all of them
+Cancel---------- Cancel
+First come------ Change party members and just arriving in Kalm Town
+After Armagedon- Yes- get GUIDE BOOK-- Gain Guide Book item
+                      get DESERT ROSE- Gain Desert Rose item
+                      get EARTH HARP-- Gain Earth Harp item
+                      event start----- In Kalm Town Bar
+                 No-- In Kalm Town Bar
+
+
+Bald man's options - These have to do with Gongaga Village.
+==================
+Cancel------ Cancel
+Meet TARCKS- Change party members and at the entrance of the path to Gongaga
+             Village
+Who am I?--- Just waking up in Gongaga Village house scene
+
+
+Rude's options - These options all take place in Mythril Mine.
+==============
+Cancel------ Cancel
+Meet TARCKS- Yes- In Mythril Mine with Aeris in party
+             No-- Same as above but without Aeris
+We can't go- Change party members and at the entrance of Mythril Mine
+
+
+Shera's options - These all have to do with Rocket Town.
+===============
+Meet CID-------- DEBUG mode-- Change party members then at the entrance of
+                              Rocket Town
+                 NORMAL mode- Same as above?
+METEO intercept- Change party members then at the entrance of Rocket Town
+                 with Shinra taking over the rocket
+Rocket at Space- In the Rocket's control room
+
+
+Sailor's options - These lead to different parts of the game, if you pick
+================   "HIGHWAY minigame" you'll have to put in disc one if
+                   not already on that disc.
+Last Dungeon*---- join YUFI---- Yuffie will join PHS, change party members,
+                                then go on Highwind deck landed at Northern
+                                Crater
+                  join VINCENT- Same as above but instead of Yuffie it's
+                                Vincent
+                  join BOTH---- Same as above with Yuffie too
+                  join cancel-- Same as above but without Yuffie and Vincent
+HIGHWAY minigame- Play the motorcycle minigame
+Shinra AirShip--- At the entrance of the Sunken Gelinka Plane
+
+* After you pick one of the four options he'll say, "SAVE CRYSTAL......" and
+it'll give you two options, "Give 99" and "No need", first gives you 99 save
+crystals and the second doesn't give you any.
+
+
+Aeris' options - All of these have to do with Aeris in and the parts after
+==============   her death.
+Decline Church-- In the back room of the Church
+Forgotten Relm-- Change party members then in Corral Valley, near the exit
+Go to NorthLand- Change party members then at Forgotten Capital just after
+                 the death of Aeris scene
+
+
+
+==========
+13. Room 8
+==========
+
+This room is even worse than Room 6, it has 13 people and there are doubles
+of three characters and triples of two characters.  So you won't get
+confused here's a map:
+       Yuffie(1)        Cloud's Mom         Aeris(1)
+    Yuffie(2)                       Tifa(1)        Turk Vincent(1)
+Yuffie(3)       Aeris(2)    Cloud(1)
+                                   Cloud(2)
+                Turk Vincent(2)  Tifa(2)     Tifa(3)
+
+
+Yuffie(1)'s options - All of these have to do with Cloud's first visit to
+===================   the Gold Saucer.
+ballet punpun---- Just before Barret running into Battle Square scene
+caitsith toujou-- In front of Gold Saucer go inside and party is inside, can
+                  get Cait Sith at Wonder Square
+dio toujou------- In front of Gold Saucer, go in Battle Square for below
+                  event
+tougijou de------ In Battle Square with dead guard scene
+kaettekita cloud- In elevator with Ester scene
+under corel------ Just landing in Corel Prison scene
+yameta----------- Cancel
+
+
+Cloud's Mom's options - Just another movie viewer even though most of the
+=====================   options freeze the game.  Depending on which disc is
+                        in there'll be a different movie.
+doka~n-------- Disc 1: View of reactor/Disc 2: Weapon's emerge/Disc 3:
+               Pillar's moving up
+tou!---------- Freezes game
+dongaragashan- Freeaes game
+touchaku------ All Discs: Sky train from Gold Saucer to North Corel
+deppatu------- All Discs: Sky train from North Corel to Gold Saucer
+sample-------- ??? then freezes game
+sample-------- ??? then freezes game
+yame---------- Cancel
+
+
+Aeris(1)'s options - Just gives you the option of which order you want your
+==================   party members.
+un-- cloud---- Have Cloud in your party
+     earith--- Have Aeris in your party
+     tifa----- Have Tifa in your party
+     ballet--- Have Barret in your party
+     red13---- Have Red XIII in your party
+     cid------ Have Cid in your party
+     caitsith- Have Cait Sith in your party
+     vincent-- Have Vincent in your party
+     inai----- Have a blank spot in your party
+uun- Cancel
+
+
+Yuffie(2)'s options - All of these have to do with the Gold Saucer.
+===================
+hotel------------ At the entrance of Ghost Square Hotel
+jet-------------- At the entrance of Speed Square ride
+game1F----------- At the entrance of Wonder Square arcade
+game2F----------- At the 2nd section of Wonder Square arcade
+kanransha-------- At the entrance of Round Square
+hiroba----------- On the Event Square stage (stuck)
+eki(-R1-de mage)- ???, holding -R1- will lead to the entrance of Gold Saucer
+                  with Dio standing at the entrance
+chokobo---------- Just arriving at front of Chocobo Square scene (stuck)
+kanransha naka--- On date with party members
+tougijou--------- Just finished battle at Battle Square, get an autograph
+                  item
+yame------------- Cancel
+
+
+Tifa(1)'s options - These have to do with the Playground in the Sector 7
+=================   park.
+love love------- Aeris and Cloud in playground scene
+7ban dokan------ After escaping exploding Sector 7 Pillar scene
+matte matte----- Just before Tifa and Barret join you again scene
+checkyou kouen*- At Sector 7 Park
+yameta---------- Cancel
+
+*  Try leaving the screen and coming back, cool eh?
+
+
+Turk Vincent(1)'s options - Most of these have to do with the Chocobo Farm.
+=========================   The first three options are the Chocobo Farm
+                            when you first visit it, holding R1 will take
+                            you to the farm as if it was disc two.
+ie no naka(R1de mage)- In Chocobo Farm house
+soto(R1de mage)------- At the entrance of Chocobo Farm
+bobou(R1de mage)------ In Chocobo Stable
+(blank)--------------- Vincent talking about Lucrecia scene then you can
+                       control Lucrecia (stuck)
+sittiai--------------- View of Midgar Zolom scene (Midgar Swamp)
+yame------------------ Cancel
+
+
+Yuffie(3)'s options - She has some very cool options.
+===================
+love_paraijiri------- earith 1ban- Give Aeris 240 points
+                      tifa 1ban--- Give Tifa 240 points
+                      yufi 1ban--- Give Yuffie 240 points
+                      barret 1ban- Give Barret 240 points
+                      nakamiru---- View the totals
+                      yame-------- Cancel
+okane ippai---------- Set gil to 294967295
+okane nasi----------- Set gil to zero
+G reset-------------- Reset Time
+dflname kaeru-------- Reset characters to default name
+GP ippai------------- Set GP to 104200
+member zenin--------- ???
+member yufi vin igai- ???
+item iroiro---------- Get 99 Megalixirs, 99 Speed Sources, 99 Power Sources,
+                      every characters 4th Limit Break Manual, each
+                      characters two best weapons, 9 of the each of the two
+                      best armors, 9 Speed Shoes, 9 Ribbons, all mastered
+                      Summon Materia, three mastered Phoenix Materia, three
+                      Master Magic Materia, three Master Summon Materia,
+                      three Master Command materia, three mastered Final
+                      Attack Materia, three mastered HP Plus Materia, three
+                      mastered Long Range Materia, three mastered Mega All
+                      Materia, three mastered W-Magic materia, three
+                      mastered W-Item Materia, and 3 mastered W-Summon
+yame----------------- Cancel
+
+
+Aeris(2)'s options - These all take place at Aeris' house.
+==================
+1F okaasan au-- Aeris arriving home scene
+1F katari haha- Telling Aeris' mom Shinra has her scene
+2F nigeru------ Telling Cloud to get some sleep scene
+2F ballet naku- 2nd floor of Aeris' house with Barret and Marlene
+hoka wo ataru-- ???
+
+
+Cloud(1)'s options - You can change any of the characters names even change
+==================   a chocobo's name.
+ima...-- cloud------ Change Cloud's name
+         earith----- Change Aeris' name
+         tifa------- Change Tifa's name
+         ballet----- Change Barret's name
+         red13------ Change Red XIII's name
+         cid-------- Change Cid's name
+         caitsith--- Change Cait Sith's name
+         yufi------- Change Yuffie's name
+         vincent---- Change Vincent's name
+         naodemonai- Cancel
+chokobo- Change a chocobo's name than play the chocobo race, the long one
+jet----- Play Speed Square game
+yame---- Cancel
+
+
+Cloud(2)'s options - These have to do with the events after the first Midgar
+==================   Reactor mission.
+tojikomerarechatta- Jessie setting bomb after Reactor mission scene
+BOOM to kitamonda-- When Jessie's bomb goes off
+hajimete earith---- First time meeting Aeris scene
+tobe cloud--------- About to fight a bunch of soldiers part
+hoka ga ii--------- ???
+
+
+Turk Vincent(2)'s options - These have to do with the events in Corel
+=========================   Prison.
+hajime------ Just landing in Corel Prison scene
+sonchou----- Just before you find Barret in house scene
+dyne kessen- Barret finds Dyne scene
+ueniikunone- Barret talking to Mr. Coates scene
+yame-------- Cancel
+
+
+Tifa(2)'s options - These all have to do with the Northern Crater.
+=================
+LAS3-1----- Entrance of the left/bottom choice
+LAS3-2----- In second part of the left/bottom choice
+LAS3-3----- In third part of the left/bottom choice (stuck)
+LAS4-0----- At the entrance to Inside the Planet with party
+LAS4-1----- At the bottom of the Northern Crater (stuck)
+LAS4-2----- At the beginning of the Inside the Planet
+LAS4-3----- At the second part of the Inside the Planet
+LAS4-4----- Just before battle with Jenova SYNTHESIS
+LAS4-42---- Pillars moving up movie
+isisaki---- Which team you want to assign to each character
+dokoitta?*- Show what team you assigned to each character
+
+* For some reason Cloud will always be in team 3.
+
+
+Tifa(3)'s options - These have to do with Chocobo's, it's pretty confusing.
+=================
+ST check---------- CHOKO1----- Check stats of Chocobo one in Stable
+                   chokobo2--- Check stats of Chocobo two in Stable
+                   CHOKO3----- Check stats of Chocobo three in Stable
+                   chokobo4--- Check stats of Chocobo four in Stable
+                   CHOKO5----- Check stats of Chocobo five in Stable
+                   chokobo6--- Check stats of Chocobo six in Stable
+                   sakunonaka- Shows a chart with numbers 56, 57, 58, and 59
+tukamaeta*-------- owari- Cancel
+                   A----- Stands for 1
+                   B----- Stands for 2
+                   C----- Stands for 3
+                   D----- Stands for 4
+                   E----- Stands for 5
+                   F----- Stands for 6
+                   G----- Stands for 7
+                   H----- Stands for 8
+yasai to mi ippai- Gives you a bunch of different Chocobo Green and Nut
+                   items
+magego bokujou---- Go to Chocobo Farm (stuck)
+yaoya------------- On Vegetable Store "Buy Sell Exit" screen
+yame-------------- Cancel
+
+* The letters changes the chart numbers in the "ST check/sakunonaka" option,
+the letters stand for the best to worst sequence for chocobos in the fenced
+area.  "A" is a wonderful Chocobo and "H" is an unrecommended Chocobo.  You
+can check them out by talking to Turk Vincent(1) and picking soto while
+holding R1.
+
+
+
+==========
+14. Room 9
+==========
+
+This room has seven people and a working Save Point.  In the first row is
+Vincent, Red XIII, a boy, Yuffie, and Aeris.  In second is Cait Sith, a Save
+Point, and Barret.
+
+
+Vincent's options - All he does is changes the 2nd member or your party.
+=================
+ballet-- Change 2nd party member to Barret
+tifa---- Change 2nd party member to Tifa
+earith-- Change 2nd party member to Aeris
+red----- Change 2nd party member to Red XIII
+yufi---- Change 2nd party member to Yuffie
+ketcy--- Change 2nd party member to Cait Sith
+vincent- Change 2nd party member to Vincent
+cid----- Change 2nd party member to Cid
+no------ Cancel
+
+
+Red XIII's options - All of these have to do with the Underwater Reactor.
+==================
+cancel---------- Cancel
+SPGATE---------- At entrance of Underwater Reactor (stuck)
+SPIPE 1--------- At first part of see-through pipes with fishes
+SPIPE 2--------- At second part of see-through pipes with fishes (stuck)
+SEMKIN 1-------- At Underwater Reactor Elevator (stuck)
+SEMKIN 2-------- On Red Shinra Sub (stuck)
+SEMKIN 8-------- In hallway with Save Point
+SEMKIN 3-------- At part where you have to sneak by guards (stuck)
+SEMKIN 4-------- In place where Huge Materia is kept (stuck)
+SEMKIN 5-------- On Red Shinra Sub behind Lapis (stuck)
+SEMKIN 6-------- On Port where Sub used to be (stuck)
+SEMKIN 7-------- On Port (stuck)
+(hidden option)- ???
+
+
+Boy's options - The first set have to do with the second time you invade
+=============   the Shinra Building, the second set have to do with the Mako
+                Cannon and the train to North Corel.
+First set:
+Quit------ Cancel
+next page- Go to second set of options
+BLACKBGH-- In a black room, can't do anything
+BLACKBGI-- In the corner of Room 9
+TUNNEL 6-- At the entrance of Winding Tunnel
+MD8 6----- At the entrance to underground of Sector 8 (stuck)
+MD8 B1---- In the underground of Sector 8, near Save Point (stuck)
+MD8 B2---- In the underground of Sector 8 near pipes (stuck)
+MD8 32---- At second part of Sector 8 Alley (stuck)
+MD8 BRDG2- At first part of Sector 8 Alley (stuck)
+TUNNEL 4-- In Winding Tunnel, four screens before exit
+TUNNEL 5-- In Winding Tunnel (stuck)
+
+Second set:
+pre page-------- Go to first set of options
+CANON 1--------- On stairway to Mako Cannon (stuck)
+CANON 2--------- Hojo talking about Sephiroth scene
+MTCRL 2--------- In front of Corel Reactor just before fight with guards
+ZCOAL 1--------- On Corel train (stuck)
+ZCOAL 2--------- About to crash into Corel scene
+ZCOAL 3--------- Same as above but at a different screen
+4SBWY 22-------- Crawling in pipe that leads to Winding Tunnel
+(hidden option)- ???
+
+
+Yuffie's options - All of these have to do with Wutai.  "turcks union" works
+================   for all of the options except "DATIAO 2" and "5TOWER".
+cancel------- Cancel
+turcks union- If you want the Turks in some of the screens
+DATIAO 1----- At the entrance of Da-chao Statue paths (stuck)
+DATIAO 2----- Where center big hand is (stuck)
+DATIAO 3----- Where left big hand is (stuck)
+DATIAO 4----- Where right big hand is (stuck)
+DATIAO 5----- At the crossway paths (stuck)
+DATIAO 6*---- Where center big hand is (stuck)
+DATIAO 7----- Where top big hand is (stuck)
+DATIAO 8----- Inside the fire cave
+5TOWER------- On first floor of Godo's Pagoda
+
+* If you pick "turcks union" before picking this option it'll lead to the
+part when Yuffie and Elena are tied to the statue face by Don Corneo scene.
+
+
+Aeris' options - Just pick who you want to be leader.
+==============
+cloud-- Make Cloud leader
+tifa--- Make Tifa leader
+cid---- Make Cid leader
+cancel- Cancel
+
+
+Cait Sith's options - All but the last one have to do with the Northern
+===================   Crater.
+cancel- Cancel
+LAS2 1- Which path to choose scene
+LAS2 2- In the first part of the left/top choice
+LAS2 3- In the second part of the left/top choice (stuck)
+LAS2 4- Where bright light is shining in the center part (stuck)
+LAS0 6- Just before area where you have to choose right or left
+LAS0 7- In a cave with a treasure chest (stuck)
+LAS0 8- At first part of right choice
+MOGU 1- Play Feed the Mog game, then end up in Wonder Square
+
+
+Barret's options - He says "materia max" but that doesn't mean he'll give
+================   different materia.
+yes- It freezes for awhile then you get alot of Bahamut Materia
+no-- Cancel
+
+
+
+===========
+15. Room 10
+===========
+
+This is the weirdest room.  When you arrive it gives you two options:
+     For those in a hurry
+     For those with a little time
+If you pick the first one it'll lead you to more options, if you pick the
+second one it'll be like a cancel and you can walk and talk to the other
+people in this room.  There are three people in this room.  In the first row
+is a giant Aeris and a doctor, in the second is a nurse.  Everybody except
+Red XIII have different names.  If you go near Aeris the floor will talk 
+saying:
+     Huh? You're not thinking of...
+     stepping on me are you?
+     -
+     I may be a floor but that
+     dont give you the right!!
+Walk a little closer to her and the floor'll say:
+     Eyaaaah!!
+     OWW, OWW, OWW......
+     YEOOWWW......!!
+
+
+For those in a hurry options - These all have to do with Mideel.
+============================
+Where to:---------------------- At the entrance to Mideel
+To Mideel by the sea!---------- Finding Cloud in Clinic scene
+To Mideel Clinic!*------------- Doctor and Nurse talking about Cloud scene
+To the Mideel Talk Event!------ Just before Ultima Weapon arrives
+To the Clinic Attack Event!---- Cloud and Tifa leaving the Clinic scene
+To the Lifestream!------------- Cloud and Tifa falling in Lifestream scene
+To the Mindzone!--------------- Tifa arriving in Cloud's mind scene
+To the Spirit World!----------- Tifa and Cloud in front of Nibelheim scene
+To Spirit World2!-------------- Just after Cloud's memory of Well scene
+To Spirit World3!-------------- Just after Cloud's memory of Tifa scene
+To the Spirit World again!----- All Cloud's becoming one scene
+Last time to the Spirit World!- At the entrance to destroyed Mideel
+To Mideel after it fell!------- Just before Ultima Weapon battle
+
+* Picking this option will cause the game to freeze the only way to let the
+scene show is to talk to the Doctor and pick "Mideel".  Then turn on the
+gameshark to get to the main room then turn the gameshark off and go back to
+room 10.
+
+
+Giant Aeris' options - These are similar to "For those in a hurry options
+====================   except for the "To Hades!" option, they actually go
+                       to the scene that the option describes, and when you
+                       go to the scene you'll be invisible, so press Select
+                       to see where your going.
+To Mideel!----------------- She says: To Mideel right?
+                                      Okay!
+                                      Then let's go
+                                      -
+                                      Hang in there!
+                            And you'll be at the entrance to Mideel 
+To Mideel Clinic!---------- Finding Cloud in Clinic Scene
+To the Mideel Talk Event!*- Doctor and Nurse talking about Cloud scene
+To the Attack Event!------- Just before Ultima Weapon arrives scene
+To the Lifestream!--------- Cloud and Tifa leaving the Clinic scene
+To the Mindzone!----------- Cloud and Tifa falling in Lifestream scene
+To the Spirit World!------- Tifa arriving in Cloud's mind scene
+To Spirit World2!---------- Cloud and Tifa in front of Nibelheim scene
+                            (stuck)
+To Spirit World3!---------- Just after Cloud's memory of Well scene (stuck)
+To the Spirit World again!- At entrance to destroyed Mideel, not invisible
+To Mideel after it fell!--- Just after Cloud's memory of Tifa scene (stuck)
+To Hades!**---------------- She says: Silly...
+                                      Didn't anyone tell you?
+                                      This IS Hades.
+
+* Picking this option will cause the game to freeze the only way to let the
+scene show is to talk to the Doctor and pick "Mideel".
+
+** When you first talk to Aeris she says:
+     Hello there, wanna be-hero
+     You ready for your journey?
+But after you pick the option and talk to her again she says:
+     How about it? Have you made up your mind?
+     Mind boggling adventures a you.
+
+
+Doctor's options - These take down some "flags" and and lead you to some
+================   scenes that have to do with the highwind.
+Mideel------------ Allow access to "For those in hurry/To Mideel Clinic"
+                   and Aeris' "To the Mideel Talk Event!"
+Ionia------------- ???
+Materia----------- ???
+To the dark hill-- Tifa and Cloud talking outside of highwind scene
+To the light hill- Tifa and Cloud waking up outside of highwind scene
+(hidden option)--- Cid saying go back to Mideel scene
+
+
+Nurse's options - These are just changing party members.
+===============
+I'm starting over- Make it so that you have no party members
+ster-------------- Put Cloud in party
+Princess*--------- Put Aeris in party
+Ionia------------- Put Tifa in party
+alator------------ Put Barret in party
+Little------------ Put Yuffie in party
+Red XIII---------- Put Red XIII in party
+Cait Sith**------- Put Cait Sith in party
+Ol'--------------- Put Cid in party
+(Blank)----------- Put Vincent in party
+
+* Try picking I'm starting over then Princess, you'll get to control the
+giant Aeris!
+                                                                     _
+** It says Cait Sith but on the Status screen it'll say: Cait Sitherse<6
+
+
+
+================
+16.  Thank You's
+================
+
+-Square-
+For making a great game of course.
+
+-CzarDragon and RPGod-
+For the Gameshark code, without them this wouldn't exist, to CzarDragon for
+info on the "tukemaeta" letters and for the Improved Debug Code.
+
+-The Gaming Intelligence Agency(www.thegia.com)-
+For posting the news of the code up.
+
+-Andrew Dean-
+For the info on the -s- and -R1- buttons.

@@ -1,0 +1,57 @@
+Resident Evil Herb Mixing Guide by Jacko
+***********************************************************************
+Version 0.1 - 23/4/99
+This document Copyright 1999 Michael Jackson
+E-mail - resident_weevil@hotmail.com
+
+
+Welcome to this short but useful FAQ on Capcom's amazing survival 
+horror series.  This guide is useful for the original RE, the 
+Director's Cut and RE 2.
+
+Being a great fan of the series I read and talk about them a lot and
+am surprised to find that so few magazines, guides and people know the 
+full extent to which you can mix herbs, providing badly-needed space 
+saving help in your inventory.  Here is a chart to show how many herbs 
+can be mixed and what the resultant effect on your health is:
+
+Number of herbs         Effect
+---------------         ------
+
+1 Green                 The standard green herb - replenishes energy.
+1 Blue                  The standard blue herb - cures poison.
+1 Red                   The standard red herb - not useful on its own.
+2 Green                 Replenishes twice the energy of a green herb.
+3 Green                 Replenishes 3 times the energy of a green herb.
+1 Green + 1 Blue        Replenishes energy and cures poison.
+2 Green + 1 Blue        Replenishes twice the energy and cures poison.
+1 Green + 1 Red         Triples the effect of a green herb.
+1 Green, 1 Red + 1 Blue Triples the effect of a green and cures poison.
+
+These are all the possible permutations of herb mixing and they all 
+take up a single space in your inventory.
+
+That's it except for one thing - once I was playing Resident Evil
+Director's Cut and something strange happened.  I was playing as Jill 
+in Advanced mode and I got to the guardhouse (where you have to fight
+Plant42).  I went through the red double doors which lead to the room 
+with the pinball tables and the pool table where the big spiders are.  
+Then I got the empty red book from the table and one of the spiders 
+spat some acid at me which poisoned me.  I went back to the save room 
+with the chest and took out a blue herb and used it but my poisoned 
+status was not cured! Then I tried to use a blue herb mixed with a 
+green herb and then a mix of 1 red, 1 green and 1 blue herb but I was 
+still poisoned.  As you can imagine, this made playing the game quite 
+hard!  If anyone has had a similar experience or knows why this 
+happened then e-mail me.
+
+REVISION HISTORY:
+
+ 23/4/99 0.1
+         Changed E-mail address
+
+  5/1/99 0.0
+         First version
+
+-FIN-
+

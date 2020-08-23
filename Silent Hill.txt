@@ -1,0 +1,16 @@
+Mode:		EASY
+Game Clear:	GOOD
+Saves:		23
+Continues:	 0		*
+Total Time:	11'55"10
+Walking Dist	 8.985 km
+Running Dist	26.921 km
+Itens		195 / 204 ( )	*
+Defeated Fight	153		*
+Defeated Shoot	 80		*
+Shotting Style
+Short Range	22%
+Middle Range	31%
+Long Range	22%
+No Aiming	25%
+Rank		5 / 4

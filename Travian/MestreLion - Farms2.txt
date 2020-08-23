@@ -1,0 +1,516 @@
+--------------------------------------
+MestreLion
+--------------------------------------
+
+Normais
+    1       2       3       4      5      6       7      8       9       0       1       2       3      4       5       6       7       8       9       0       1       2       3      4       5      6       7       8       9       0
+-175,15|-172,11|-173,9|-172,16|-171,14|-181,16|-181,17|-178,20|
+-168,16|-185,13|-176,24|-187,13|-174,1|-188,16|-174,0|-167,22|-171,26|-179,28|-160,13|-176,29|-191,4|-157,12|-166,-8|-160,-5|-157,-2
+
+
+Bons
+    1       2       3       4       5       6       7       8       9       0       1       2       3       4       5      6      7      8      9       0       1       2       3       4       5      6      7      8      9       0
+-177,18|-178,7|-182,16|
+-178,21|-167,16|-178,23|-187,14|-173,24|-188,17|-177,26|-178,28|-161,11|-187,24|-187,26|-164,0|-193,20|-159,23|-191,30|-190,30
+
+
+Novos
+
+Mr.So
+
+Banido
+-164,15
+
+Alerta
+-183,25|-164,2|
+
+Aguardo
+-186,23
+
+Suprimidos
+
+--------------------------------------
+MestreFanfarrao
+--------------------------------------
+
+Normais
+                                                                     1                                                                          2                                                                              3
+    1       2      3      4      5       6      7      8      9      0      1      2       3      4       5       6      7      8       9       0       1       2       3       4      5      6        7        8      9       0       1       2      3      4      5       6      7      8      9      
+-194,-2|-196,0|-196,2|-198,-5|-199,2|-191,4|-194,5|-192,5|-199,3|-201,0|-196,-8|-202,0|-199,6|-193,8|-200,-8|-204,-4|-201,-9|-204,-5|-205,2|-192,-14|-198,-14|-208,-1|-207,-8|-207,-12|-204,13|-210,6|-205,-15|-194,17|-212,5|-213,-2|-211,8|-210,10|-199,-20|-211,-11|-199,-21|-205,14|-204,16|-196,24
+
+
+Bons
+-192,4|-200,-1|-198,0|-200,-4|-191,-7|-204,2|-205,1|-205,-9|-207,7|-206,1|-208,7|-200,-16|-193,-14|-196,17|-209,13|-206,2|-202,12|-211,-3|-208,10|-212,-2|-210,5|-203,-17|-209,-6|-212,6|-214,8|-214,9|-212,9|-210,9|-215,3|-195,22|-195,19
+
+Novos - Risco
+188,-19|-207,12|-200,-6|-195,18|-195,-1
+
+Novos - Avaliar
+-215,-13
+
+Ryder
+
+
+Lara Croft
+-222,-5|-212,-3|
+
+Defesa
+
+
+Banidos
+-197,5|-206,11|
+
+Colonizacao
+
+Catapa Quartel
+
+Catapa Palacio
+
+Heroi
+-206,-3|-194,15
+
+Suprimidos
+
+
+--------------------------------------
+Capital
+--------------------------------------
+
+Normais
+    1      2      3      4      5      6      7      8      9       0      1       2      3      4       5      6      7      8      9       0       1       2       3       4       5      6      7      8      9       0
+-186,0|-191,5|-189,8|-187,8|-189,-8|-181,-8|-192,10|-189,-11|-183,-10|-191,11|-188,12|-186,-12|-185,-12|-175,-5|-174,-5|-176,-12|-175,-13|-183,-18|-179,-17|-185,-19|-177,-18|-171,-13|-176,-18
+
+Aguardo
+-184,-15
+
+Bons
+-185,2|-189,-6|-186,7|-188,8|-191,7|-179,2|-183,-9|-179,-6|-173,-9|-176,-14|-181,-19|-167,-10|-197,-21|-169,-12
+
+Novos
+
+
+Perigo
+-191,14|-179,2|-189,-6|-191,21|-192,9|
+
+Colonizacao
+
+Catapa Residencia
+
+Catapa Quartel
+
+Suprimidos
+
+--------------------------------------------
+RESIDENCIAS
+--------------------------------------------
+- Ball  x 2 OK
+- Barreto x 2 OK
+- Paulinha x 2 OK
+- Kuiabao OK
+
+- Sadat x 1
+- Touch x 2
+- Russex x 2
+- Cyclops x 2
+- Aga x 1
+- Forte
+
+
+Suzdal: Barreto
+Novogorod: Ball
+
+
+--------------------------------------------
+MANSOES
+--------------------------------------------
+- Cyclops x 1 (C+M)
+- Kuiabao (C)
+- Fundacao x 2 (C+C , C+C)
+
+
+--------------------------------------------
+CONQUISTAS
+--------------------------------------------
+
+Castigador
+http://speed.travian.com.br/spieler.php?uid=686
+
+-162,-50|-165,-19|-19,-23|-153,-59|-157,-41|-183,-13|-146,-47|-11,-23|-153,-34|-166,-26|-156,-64
+
+
+Aldeias:
+Nome 	Habitantes 	Coordenadas
+St. Peterb (C) 	978 	(-162|-50)
+Novgorod 	863 	(-165|-19)
+Moscow 		837 	(-19|-23)
+Vladivostok 	802 	(-153|-59)
+Vladislavograd 	779 	(-157|-41)
+Suzdal 		705 	(-183|-13)
+Kaliningrad 	664 	(-146|-47)
+Smolensk 	652 	(-11|-23)
+Solncegrad 	492 	(-153|-34)
+Astrahan 	458 	(-166|-26)
+Riazan 		351 	(-156|-64)
+
+6818
+Aldeias:
+Nome 	Habitantes 	Coordenadas
+Moscow 		905 	(-19|-23)
+Vladislavograd 	833 	(-157|-41)
+Vladivostok 	817 	(-153|-59)
+Suzdal 		782 	(-183|-13)
+Kaliningrad 	745 	(-146|-47)
+St. Peterbu(C) 	671 	(-162|-50)
+Solncegrad 	536 	(-153|-34)
+Astrahan 	530 	(-166|-26)
+Smolensk 	520 	(-11|-23)
+Riazan 		479 	(-156|-64)
+
+
+
+
+Barreto 2
+http://speed.travian.com.br/karte.php?d=317413&c=3e
+http://speed.travian.com.br/karte.php?d=318210&c=35
+http://speed.travian.com.br/karte.php?d=329422&c=73
+http://speed.travian.com.br/karte.php?d=328626&c=52
+
+
+Salison
+http://new-speed.travian.com.br/spieler.php?uid=8713
+
+
+ManoDante
+http://speed.travian.com.br/spieler.php?uid=42115
+
+Marcom_br
+http://speed.travian.com.br/spieler.php?uid=45337
+
+
+Gavz _02 708 x 12.1
+-182,26|-182,25|-181,25|-183,24|-181,26|-182,23
+
+
+Isabel
+-191,24|-192,23|-178,31|-200,27|-191,25|-180,31|-193,24|-194,13|-189,20
+
+Aldeia Nova
+-191,21|-191,20|-190,22|-191,18|-235,-6|-190,21
+
+
+
+http://speed.travian.com.br/karte.php?d=301396&c=27
+
+
+SnapsBR - 546 x 15.1
+http://speed.travian.com.br/spieler.php?uid=27299
+
+
+
+Sputinick I
+- Demolir palacio e deixar buraco
+- Subir EP ate 15 (ou 20)
+- Subir Padaria ate 5
+- Demolir Ferreiro e fazer Quartel ate 10
+- Demolir Oficina e deixar buraco
+- Subir Celeiro e Armazem (o mais alto possivel)
+
+Sputinick II
+- Subir EP ate 15
+- Subir Mercado ate 20
+- Subir Moinho ate 5
+- Subir Celeiro e Armazem (o mais alto possivel)
+- Subir Mansao do Heroi (ate 10)
+- Fazer Companhia do Comercio
+- Subir os campos ate 10
+
+
+
+
+Oi amigo, tudo bem ?
+
+Seguinte... teu armazem ta 100% lotado, transbordando, vc nao ta online, e eu nao posso pegar esse excesso pq teu escondeirijo ta maior que ele...
+
+Isso é recurso jogado no lixo!
+
+Suba urgentemente seu armazem ate ele ficar com pelo menos o DOBRO da capacidade do teu esconderijo, ou vou enviar catapultas.
+
+Abraços!
+
+
+
+Amigao, o que ta faltando pra vc colonizar ?
+
+Vc ja ta bem grandinho, ja passou da hora ate ... olhe no ranking e vai ver que todo mundo do seu tamanho ja fundou a 2a aldeia...
+
+Pelo seu tamanho, sua producao ja deve ser alta... ja consegue produzir mais de 1K de cada recurso ? Seu armazem ja esta a nivel 9? E seu celeiro ?
+
+Se tudo isso esta pronto, o que vc esta esperando ? faça os colonos!
+
+Se quiser, guarde eles aqui na minha aldeia pra evitar que eles morram. Quando juntar os 3, vc coloniza...
+
+e nao faça tropas, é desperdicio de recurso. Foco nos colonos
+
+Abraços!
+
+
+Amigo, nao faça tropas.. é desperdicio de recurso pra vc e pra mim...
+
+Invista apenas nos campos, e quando essa aldeia produzir 1K de cada recurso por hora, eu dou uma tregua pra vc fazer os colonizadores e fundar sua 2a aldeia num territorio mais distante e pacifico, ok ?
+
+Abraços!
+
+
+Oi, tudo bem ?
+
+Seguinte... nunca mais levei recurso nenhum da sua aldeia... entao eu pergunto: alguem mais alem de mim esta te atacando ? Algum teutao ?
+
+Se sim, me passe as coordenadas exatas dele...
+
+Se nao, aumente urgentemente seu armazem e pare de subir esconderijo... nao é possivel que vc seja tao ativo no jogo que nunca sobre recurso a qq hora do dia ou da moite.
+
+Abraços!
+
+
+---------------------------------
+PRIORIDADES
+---------------------------------
+
+
+-------------------------------------------------------------------
+.
+
+Bem vindos ao...
+
+---==== CEMITÉRIO SCS ====---
+
+[#386]
+
+300K de tropas enterradas aqui,
+110K de tropas mortas lá.
+
+AQUI JAZEM:
+
+--- Castigador - Lider SCS ---
+
+11K salta, 12K barb, 12K CT, 200 catas, heroi
+
+http://travian-reports.net/pt/raport.php?id=3ac684d12
+
+http://travian-reports.net/pt/raport.php?id=5676bec07
+
+
+--- BiG MoNsTeR ---
+
+3K preto, 8.5K imp, 1.7K caesaris, catas, chefes, heroi
+
+http://travian-reports.net/pt/raport.php?id=729c12314
+
+http://travian-reports.net/pt/raport.php?id=25e2fb076
+
+http://travian-reports.net/pt/raport.php?id=0e893496f
+
+
+--- csicoelho ---
+
+17K barb, 2.5K CT, 600 catas, heroi
+
+http://travilog.org.ua/pt/7205280/4e4be6aafde19bf9dcdc405d9098b45a
+
+http://travilog.org.ua/pt/8940312/4c7685a6286386f730b87526cecaae40
+
+
+--- Kryger777 - ex-SCS (pq será?) ---
+
+19K espadas, 6K TT, 2.2K haed, 600 arietes, 2250 catas, heroi
+
+http://travian-reports.net/pt/raport.php?id=0be420a36
+
+http://travian-reports.net/pt/raport.php?id=7a033bff5
+
+http://travian-reports.net/pt/raport.php?id=a6c9aedad
+
+
+--- Alone ---
+
+500 saltas, 500 barbaros, 750 catas, 10 ataques desse:
+
+http://travilog.org.ua/pt/4219813/60e72b179c1e3b52643de0739efba01c
+
+
+--- sfera ---
+
+650 legios, 520 catas, 13 ataques desse:
+
+http://travilog.org.ua/pt/3794612/cea7823c247a0529b834bc3e05c53e42
+
+http://travilog.org.ua/pt/1280199/7e80cb5cec8d68dc1c325ec35421da25
+
+
+==== E mais tantos outros... ====
+
+Sabah
+FCPVITORIAN
+Sr. Destruição
+Zabuza
+aton
+
+.
+
+
+
+
+
+TOP 3 DE DEFESA DO SERVER!
+
+(e top 40 de ataque, so pra constar...)
+
+==========================
+
+Único Romano do server inteiro a conseguir orgulhosamente exibir essa fitinha:
+
+[#361]
+
+(e nao foi na lanterna!)
+
+E pra quem acha que foi sorte de principiante... consegui de novo:
+
+[#445][#489]
+
+(e ainda melhorei o ranking)
+
+==========================
+
+[#0]
+
+Conta iniciada em março
+
+Comecei bem tarde, mas da pra tirar o atraso ;)
+
+
+==========================
+Menções Honrosas:
+==========================
+
+---- Skin Ball ----
+Ex-lider SCS, perdeu 3 aldeias e a capital. Suprimiu.
+
+--- Castigador ----
+Lider SCS. Perdeu as 2 principais tropas. Falta a 3a ;)
+
+--- Pirulito ---
+Lider SCS. Planejou e coordenou a chacina que suicidou 180 MIL tropas sem destruir 1 unica aldeia.
+
+.
+
+
+
+
+.
+
+Sim, sou eu mesmo ;)
+
+Saudade de jogar de Romano! :D
+
+--------------------------
+
+Único Romano do server inteiro a conseguir orgulhosamente exibir essa fitinha:
+
+[#361]
+
+(e nao foi na lanterna nao!)
+
+E pra quem acha que foi sorte de principiante... consegui de novo:
+
+[#445][#489]
+
+(e ainda melhorei o ranking)
+
+--------------------------
+
+E esta medalha eu agradeço a SCS, que graças ao brilhante planejamento de Pirulito e Skin Ball, suicidaram mais de 180 MIL tropas aqui, sem conseguir destruir nem uma unica aldeia! Obrigado, meu heroi adorou!
+
+[#386]
+
+.
+
+
+
+.
+
+TOP 3 DE DEFESA DO SERVER!
+
+(e top 40 de ataque, so pra constar...)
+
+--------------------------
+
+Único Romano do server inteiro a conseguir orgulhosamente exibir essa fitinha:
+
+[#361]
+
+(e nao foi na lanterna!)
+
+E pra quem acha que foi sorte de principiante... consegui de novo:
+
+[#445][#489]
+
+(e ainda melhorei o ranking)
+
+--------------------------
+
+[#0]
+
+Conta iniciada em março
+
+Comecei bem tarde, mas da pra tirar o atraso ;)
+
+.
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+ECONOMIA
+--------------------------------------------
+
+Ferro:  Quartel 15, 22 pretos/hora
+9-Crop: 
+
+15-Crop 50%: 24K
+15-Crop 25%: 19K
+
+76 Capital
+21 Fofinha
+20 Chuck
+20 MF
+19 ML
+17 Touch
+19 Fenix
+14 Aga
+16 Sadat
+19 Rhino
+
+
+Ataque Capital
+86
+
+GF
+4
+
+PF
+2
+
+Ataque ML
+44
+
+Ataque MF
+24
+
+Capital: Capital + Touch
+ML: ML + Fofinha + Aga
+MF: MF + 

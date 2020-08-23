@@ -1,0 +1,177 @@
+- 75.  alicecooper 15901 25
+
+148	127	Aldeia das Batatas	batatinha66	http://speed.travian.com.br/karte.php?d=219222&c=76
+155	120
+Pipolandia ()
+	Tribo:	Gauleses
+	Aliança:	Hez
+	Proprietário:	zepipaEnviar IGM
+
+110/25
+LIONGRADO
+
+142 120 Kronos         / treker          -   94000 * MUITAS TROPAS = 460 imp, LEVAR HEROI
+138 121 Flamengolândia / Juninho.Stryper -   84000
+134 122 Sato no Kaze   / KainShades      -   43000 *
+138 123 Katroz         / Kasbd           - > 22000 * MUITAS TROPAS
+144 116 Yalniz Koy     / halo            - > 11000
+134 121 corread da aldeia                - >  7500 * ARMADILHA! pequenas tropas
+136 122 seredic da aldeia                -    5800 * pequenas tropas
+136 112 sja da aldeia                    - 
+
+
+
+138 112 Garota Vampira City              -   12000
+140 119 debulhador da aldeia             -   10500 FIXO
+133 117 Omegared da aldeia               -   10500
+137 124 CAIIIA         / CAIIIA          -     600
+137 123 Reino Gaulês   / O príncipe      -       0 ARMADILHA
+
+
+
+1000 =  25 leg ,  20 imp	2000 =  50 leg ,  40 imp
+3000 =  75 leg ,  60 imp	4000 = 100 leg ,  80 imp
+5000 = 125 leg , 100 imp	6000 = 150 leg , 120 imp
+7000 = 175 leg , 140 imp	8000 = 200 leg , 160 imp
+9000 = 225 leg , 180 imp	10K  = 250 leg , 200 imp
+
+10K  =  250 leg ,  200 imp
+20K  =  500 leg ,  400 imp
+30K  =  750 leg ,  600 imp
+40K  = 1000 leg ,  800 imp
+50K  = 1500 leg , 1000 imp
+
+
+IRONGRADO
+
+146 123 Tribo Do Ar        / Geminho Jp  -  175000
+143 123 Aldeia Ceresto     / straschais  -   50000 
+146 124 Ferhat & Sirin     / PRENSES     -   37000
+143 124 MizereBR da aldeia               -   25000 , ARMADILHA
+147 126 Hestor da aldeia                 -   22000 , FIXO
+142 124 Slovensko          / Slovensko   -   16000 , ARMADILHA
+145 121 CaRRuSCa           / carrusca    -   13000 , 
+145 124 AMASYA             / PRENSES     -    8500
+143 126 delas da aldeia                  -       0 , PALACIO
+147 125 Melekler ADASI                   -       0 , PALACIO
+
+
+SPICEGRADO
+
+154 123 chifrudoveii       / otarioman     - > 45000
+159 129 Guaraçaí           / zeiffer       -   17000 
+156 127 Maiden             / Philo         - >  8000
+157 127 DD                 / Akiles2       -    5200
+159 126 Freezy da aldeia                   -       0          http://speed.travian.com.br/karte.php?d=220034&c=eb
+155 125 monsters da aldeia                 -       0          http://speed.travian.com.br/karte.php?d=220831&c=05
+156 124 guinevere da aldeia                -       0          http://speed.travian.com.br/karte.php?d=221633&c=92
+154 125 marins da aldeia                   -       0 BANIDO! http://speed.travian.com.br/karte.php?d=220830&c=66
+157 124 Avila              / cristinayahoo -       0 BANIDO! http://speed.travian.com.br/karte.php?d=221634&c=83
+158 128 Amsterdã           / Fex           - http://speed.travian.com.br/karte.php?d=218431&c=38
+157 128 Red Light District / Fex           - http://speed.travian.com.br/karte.php?d=218430&c=65
+158 129 Dam Square         / Fex           - http://speed.travian.com.br/karte.php?d=217630&c=9a
+159 125 sandrine                           - http://speed.travian.com.br/karte.php?d=220835&c=03
+
+OASIS
+
+138|116
+145|126
+158|127
+
+
+Prospect:
+Kelly_The_Best (131|97)
+
+Top 5 farmadas:
+
+046727 + 043348 + 089596 + 153019 = 332690
+122562 + 105975 + 103504 + 000066 = 332107
+079870 + 079870 + 079870 + 079870 = 319480
+061211 + 083475 + 139036 + 020013 = 303735
+70775 + 71455 + 71455 + 71455 = 285140
+
+
+Publico
+http://travilog.org.ua/pt/7283962/7e9892fb093f3965cfc63931ba9456c4
+
+http://travilog.org.ua/pt/9776812/389eb90c22ec219f7c39807130cf13ed
+
+
+Privado
+
+
+http://travilog.org.ua/pt/4303675/089ade6adc3829bdbb14427eb52faa0b
+
+
+Best Ranking:
+
+359 - Geral - 22/10/2007
+135 - Ataque - 22/10/2007
+17 - Ally
+
+
+Datas:
+24/08/2007 - Liongrado
+12/09/2007 - IronMaiden
+13/09/2007 - Spicegrado
+20/09/2007 - Kefka
+25/09/2007 - Woodstock
+04/10/2007 - Aeris *
+04/10/2007 - Claymore
+07/10/2007 - Goldburg
+11/10/2007 - Sephiroth *
+15/10/2007 - Kain *
+19/10/2007 - Squall *
+22/10/2007 - Rinoa *
+
+
+Conquistas:
+http://travilog.org.ua/pt/5784081/84ea4e5b4136d6fa3c04c6fc05399b63
+
+
+sem nada: 5400
+oasis: 6300
+plus: 6750 
+plus + oasis : 7875
+
+  6750
+-  900 pop
+-  200 espioes
+= 5050 
+
+= 3K Pretos, 2K legs
+
+400 espioes, 
+
+
+
+
+
+38. 	AioryA 		3581 	 6 - 07/10/2007
+40. 	AioryA	 	3689 	 6 - 09/10/2007 8AM
+42. 	kruta	 	3608 	 6 - 09/10/2007 8AM
+38. 	Nurse		3823 	 7 - 09/10/2007 8AM
+22. 	TUGA		5369 	11 - 09/10/2007 8AM
+51. 	Agamemnon 	2947 	 5 - 09/10/2007 8AM
+
+ferucker
+http://travilog.org.ua/pt/8877682/52633805a0c15802876bc30b61cef420
+http://travilog.org.ua/pt/2976504/2346b9f4b01e0f8bada512940196d5a7
+http://travilog.org.ua/pt/2090745/767a144b6a255aee45b24debc524c47d
+
+
+-= NOTA AO CONSUMIDOR =-
+
+Se não estiver satisfeito com seu plano, entre em contato dizendo qual plano melhor atende suas necessidades:
+
+Plano 1 (provavelmente seu plano atual) - Receba minhas tropas inteiramente "grátis", 2x por dia, pagando a módica quantia de tudo que estiver no seu celeiro e armazém! :)
+
+Plano 2 - Envie recursos para mim e não tenha mais problemas com tropas engraçadinhas matando seus defensores. Neste caso você precisa apenas enviar uma quantia igual a 3 vezes sua população de cada recurso pra mim! Exemplo: se a soma das suas aldeias tem 200 de pop, você apenas precisa enviar 600 recursos de cada! É praticamente de graça! :D
+
+Plano 3 - *Imperdível* ! por apenas sua pop vezes 6 de cada recurso você ganha inteiramente grátis um lugar para guardar suas tropas protegidas de atacantes malas.
+E não pára por ai! você também ganha proteção contra as pessoas chatas que atacam suas aldeias! É só dizer quem te importuna, e providenciarei pra que ele se arrependa de ter lhe conhecido! :O
+
+Muito obrigado por usar nossos serviços,
+O Batalhão agradece! :)
+
+* Todos esses valores devem ser pagos diariamente. caso não seja possível, devem ser pagos adiantadamente. Esqueça de enviar e minhas tropas pegarão pessoalmente.

@@ -1,0 +1,68 @@
+tuga
+teutaoboladao
+
+01
+- CC 20
+- Celeiro 20
+- Celeiro -> Quartel 20
++ Armaduras 20
+
+
+02
+- Ferreiro 3
+- Cavalaria 10
+- Ferreiro -> Alvenaria 5
+- CC 10
+- Cavalaria -> Serralheria 5
+- CC 20
++ Armaduras
+
+
+03
+- CC 20
+- Celeiro 20
+
+
+04
+- Celeiro -> Fundicao
+- CC 20
+
+05
+- Quartel 3
+- Serralheria -> Academia 3
+- Alvenaria -> Ferreiro 3
+- Academia -> Cavalaria 10
+- Ferreiro -> CC 10
+- Cavalaria -> Serralheria
+- Quartel -> Alvenaria
+- Celeiro 20
+- CC 20
+
+
+ALDEIAS EM EVOLUCAO:
+- Armazem 15
+- Celeiro 20
+- Mercado 10
+- Celeiro 20
+- Campos Cereal 10
+- Moinho / Padaria 5
+- Armazem 20
+- Celeiro 20
+- Producao 5
+- 2o Armazem 20
+- Mercado 20
+- Ferreiro 3
+- Cavalaria 10
+- CC 15
+
+lusiadas 6, 7, 8
+- Armaduras 20
+- CC 20
+- Celeiro 20
+
+
+motherland
+- Campos Cereais 11
+- CC 20
+- Armaduras 20
+- Celeiro 20 x 4

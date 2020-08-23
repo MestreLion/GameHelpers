@@ -1,0 +1,3216 @@
+
+ This FAQs is Copyright 2001 by Phan Nguyen Khanh Dan
+
+-----------------------------------------------------------------------
+
+
+    ####  ####  ### # ####  #### #     # #####    #### #   # # #
+    #   # #    #    # #   # #    ##    #   #      #    #   # # #
+    #   # #    #    # #   # #    # #   #   #      #    #   # # #
+    ####  ###   ##  # #   # ###  #  #  #   #      ###  #   # # #
+    # #   #       # # #   # #    #   # #   #      #    #   # # #
+    #  #  #       # # #   # #    #    ##   #      #     # #  # #
+    #   # #### ###  # ####  #### #     #   #      ####   #   # ####
+
+                          DIRECTOR'S CUT
+                 --------------------------------------
+
+                               THE GAME
+                Name : Resident Evil Director's Cut
+                Platform : Sony Playstation
+                Development and Publisher : Capcom
+
+              ---------------------------------------------
+
+             "RESIDENT EVIL DIRECTOR'S CUT" FAQS/WALKTHROUGH
+              FAQs author : Phan Nguyen Khanh Dan "Mysticcat"
+              Version : 4.0
+              Email : kthoa@hcm.vnn.vn
+              Created : July  7th 2001
+              End     : August 28th 2001
+
+                ---------------------------------------
+ 
+                  T.A.B.L.E.  O.F.  C.O.N.T.E.N.T.S.
+
+                          ~~~~~~~~~~~~~~
+
+  1. INTRODUCTION
+  2. LEGAL STUFF
+  3. UPDATE / REVISION HISTORY
+  4. CONTROLS
+  5. STORYLINE
+  6. CHARACTER BIOS
+  7. DIFFICULTIES
+  8. HEALTH GUIDE & HERB MIXING
+     + Health Guide
+     + Herb Mixing
+     + Damage Notes 
+  9. WALKTHROUGH 
+        - Training and Standard mode
+        - Advanced Mode
+ 10. THE ENDINGS
+ 11. ADDED NOTES
+    - The Shotgun Trap
+    - Barry's position
+    - Rebecca's position
+    - Keep the serum
+    - The electronic locks in the laboratory area 
+ 12. ITEM LIST
+ 13. WEAPON LIST
+ 14. MONSTER LIST
+ 15. FILES
+    A. Botany Book
+    B. Keeper's Diary
+    C. Researcher's will
+    D. Plant 42 Report
+    E. "V-JOLT" Report
+    F. Pass Number
+    G. Orders
+    H. Scrapbook
+    I. Researcher's Letter
+    J. Fax
+    K. Pass Code No.1
+    L. Pass Code No.2
+    M. Pass Code No.3
+    N. Security System Manual 
+    O. Slides
+    P. Barry's Picture
+ 16. SECRETS
+    - Magnum with unlimited ammo
+    - Rocket Launcher with unlimited ammo
+    - Hidden Screen
+    - Special Key
+    - Jill's game
+    - Advance game 
+ 17. CODES
+ 18. MISCELLENEOUS
+    - Quick Strategy
+ 19. THE TRUE STORY BEHIND BIOHAZARD
+    - Who is Trevor ?
+    - Where is this book ?
+    - Contents
+    - Introduction of Trevor's Notes
+    - Trevor's Notes
+    - Original Barry Burton 
+ 20. RELATED RESIDENT EVIL
+    - Biohazard
+    - Resident Evil
+    - Resident Evil for Sega Saturn
+    - Resident Evil beta
+    - Resident Evil Director's Cut Dual Shock Edition
+ 21. OTHER STUFFS
+    - MY OWN REVIEW ABOUT THIS GAME
+    - RESIDENT EVIL GAMES
+    - WESKER'S REPORT
+ 22. AUTHOR'S LAST WORDS
+ 23. SPECIAL THANKS
+
+            ------------------------------------------------
+
+***********************************************************************
+
+1/ I.N.T.R.O.D.U.C.T.I.O.N.
+
+***********************************************************************
+  Resident Evil Director's Cut is my first Resident Evil I have played.
+At the first time, I thought it was only an ordinary game that was
+confusing and crazy. But when I played it, I was fascinated by the
+thrilling episodes and weird puzzles. It was also the first time I knew
+what an adventure game is. And I have continued the next Resident Evil:
+Resident Evil 2, 3, Survivor and Code Veronica. The reason why I make
+this guide is to spend my spare time and also to introduce for anyone
+who want to know about this game. This guide can be used to play the 
+popular version of Resident Evil. (Non- Director's Cut or Dual Shock 
+Edition) I have added some passages about its former versions for you to 
+know more about this great game. About walkthrough, I don't write 
+specific avoiding it'll spoil your game. So don't blame me about this. 
+But you can have ideas about my mistakes or new menu. I thank you and 
+all your ideas. Enjoy the guide !
+
+***********************************************************************
+
+2/ L.E.G.A.L. S.T.U.F.F.
+
+***********************************************************************
+
+  OKAY, I HAVE ALREADY HAD MY LAST DECISION :
+- I ALLOW ANYONE WHO USE THIS FAQS AFTER ASKING FOR MY PERMISSION. JUST
+CONTACT ME, LET ME SEE YOUR WEBSITES AND CREDITS.
+- THIS FAQS CAN'T BE ALTERED, PRINTED OR COPIED ANYWAY.
+- IT CANNOT ALSO BE PUBLISHED AS A MAGAZINE, POSTER OR ANYTHING.
+- IF WHOEVER DOESN'T OBEY THESE RULES, I MUST HEAVY LEGAL ACTION.
+
+  IMPORTANT NOTE :
+- THIS NOTE IS WRITTEN FOR PEOPLE WHO HAVE USED THIS GUIDE WITH MY 
+PERMISSION. YOU SHOULD FREQUENTLY CHECK THE FAQS AT GAMEFAQS SITE AT 
+LEAST ONCE 2 MONTH BECAUSE I OFTEN SEND THE COMPLETE UPDATE TO THIS 
+SITE. 
+ 
+  SO I HOPE EVERYONE WOULD UNDERSTAND THIS LEGAL INFO. CURRENTLY THIS
+FAQS IS REALLY VALUABLE AT :
+
+ http://www.gamefaqs.com
+ http://www.psxcodez.com
+
+  FINALLY, THANKS EVERYONE FOR READING THIS FAQS.
+
+***********************************************************************
+
+3/ U.P.D.A.T.E. / R.E.V.I.S.I.O.N. H.I.S.T.O.R.Y.
+
+***********************************************************************
+
+ - Version 1.0 (July 7th, 2001)
+ FAQs started...
+ This is always my first step. 
+
+ - Version 2.0 (July 8th, 2001)
+ Added Health Guide
+ Added "Added Notes"
+ They are just more information for players who don't know much about 
+this kind of games. Hope them useful for you ! 
+
+ - Version 2.5 (July 9th, 2001)
+ Added "Monster list"
+ Repair mistakes
+ Added "Secrets"
+ "Monster List" and "Secrets" can't be lacked in professional guides. I 
+was very wrong to forget these. 
+
+ - Version 3.0 (July 21st, 2001)
+ Added "The True Story Behind Biohazard"
+ Added "Resident Evil for Sega Saturn" 
+  These parts are added to help you know more about this game Resident 
+Evil. Check them out.  
+
+ - Version 3.5 (July 22nd 2001)
+ Added "Files"
+ Added weapon functions in "Weapon List" menu
+ Another kind of professional parts. Why was I so forgetful ?
+
+- Version 4.0 (August 28th 2001)
+  Added "Other Stuffs"
+  I haven't updated this guide for a long time. And now I must do. This 
+"Other Stuffs" could help you know more about the current whole story of 
+Resident Evil series and it would be updated following the time. I write 
+my review for you that just lets you know how the game is as I think and 
+make sure of your decision when you decide to buy or rent. 
+  My intension is to make the "Maps" menu for this FAQS. But the 
+starting new school year confuses me. I must attend to my study. But I 
+would try to make this guide more perfect, early or late. 
+  
+
+***********************************************************************
+
+4/ C.O.N.T.R.O.L.S.
+
+***********************************************************************
+- Up : Forward
+- Down : Backward
+- Left : turn left
+- Right : turn right
+- R1 : draw weapons
+- X : OK / Attack
+- Square : Run
+- Triangle : Cancel
+- Circle : N/A
+- Start button : menu screen
+
+***********************************************************************
+
+5/ S.T.O.R.Y.L.I.N.E.
+
+***********************************************************************
+  There were a lot of mysterious murders happening in the Raccoon
+Forest that no one knew about. A special teams of Raccoon city -
+S.T.A.R.S. was sent there to investigate the incident. They didn't know
+what was happening there. Suddenly, a partner of them - Joseph Frost
+was killed miserable by strange creatures and some other partners were
+lost. The pilot who drove the helicopter was fear and drove away,
+leaving his partners. The left partners must try to run out of danger.
+They suddenly ran to a mansion in the forest which they thought to be 
+safe. But it's not over yet...
+
+***********************************************************************
+
+6/ C.H.A.R.A.C.T.E.R. B.I.O.S.
+
+***********************************************************************
+
+------------------
+ CHRIS REDFIELD
+------------------
+ Age : 25
+ Height : 5 feet 11 inches
+ Role : Marksman
+ Weapons in game : Combat Knife, Beretta M92F, Shotgun, Magnum, 
+Flamethrower, Rocket Launcher. 
+ Advantage : fast action and very good at using weapons.
+ Weakness : couldn't solve some puzzles by himself.
+ A member of STARS Alpha team. After being kicked off Air Force because
+of his behaviour, Chris became a drifter until he met Barry. Barry
+recruited him as a new STARS member and he has chance to prove himself
+quickly. In Alpha team, he works as a marksman  or a pilot. To play with
+Chris is hard because he is a bit clumsy and hardly does everything. In
+the game, he needs a female supporter to help him do what he can't do.
+
+-----------------
+ JILL VALENTINE
+-----------------
+ Age : 23
+ Height : 5 feet 5 inches
+ Role : Mechanic specialist
+ Weapons in game : Combat Knife, Beretta M92F, Shotgun, Bazooka, Magnum, 
+Rocket Launcher. 
+ Advantage : could solve all the puzzles in the game herself.
+ Weakness : slow action. 
+ A member of STARS Alpha team. Jill is an intelligent soldier that had
+rescued many partners from danger in the past. As Chris, she also had
+been accepted in STARS and becomes an excellent police at mechanical
+devices such as lockpick. Barry often calls her "Master of unlocking".
+
+ * Support characters :
+
+---------------
+ BARRY BURTON
+---------------
+ Age : 38
+ Height : 6 feet 1 inches
+ Role : Weapon specialist
+ A member of STARS Alpha team, Chris's old friend and partner. Barry
+was an excellent SWAT member who is very good at weapons - a type of 
+people who respects his family best. As a police who spends many 
+experience in work, he has taken part in a lot of successful incidents. 
+In the game, he is Jill's supporter. 
+
+---------------
+ ALBERT WESKER
+---------------
+ Age : 38
+ Height : 6 feet
+ Role : Mission leader
+ The leader of Alpha team. He is mysterious but looks very cool because
+of his blonde hair and an usual sunglasses. He is a very important
+character in Resident Evil series. Maybe you know what he is, early or
+late.
+
+------------------
+ REBECCA CHAMPER
+------------------
+ Age : 18
+ Height : 5 feet 1/2 inches
+ Role : medicine specialist
+ Weapons in game : Combat Knife, Beretta M92F
+ The newest, youngest member of STARS. She is in Bravo team and in the
+game she is Chris's supporter. Because of her age, she is very curious
+of one another. But she is also a bit lovely.
+
+* Other characters :
+
+- Kenneth Sulivan ( Bravo Team )
+  This character doesn't appear in the game as a living person...
+- Forest Speyer ( Bravo team )
+  The same as Kenneth...
+- Joseph Frost ( Alpha team )
+  You will know what happens to him in the uncut intro.
+- Richard Aiken ( Bravo team )
+  Some annoying...
+- Enrico Marini ( Bravo team )
+  Just find out yourself.
+- Brad Vickers ( Alpha team )
+  The guy who drove the helicopter and leave you in the forest.
+
+***********************************************************************
+
+7/ D.I.F.F.I.C.U.L.T.I.E.S.
+
+***********************************************************************
+
+* TRAINING : The easiest mode with double numbers of ammo, ink ribbons
+and only a few monsters. With this mode, you can use your ammo funnily
+and don't worry about running out.
+* STANDARD :  Normal mode. The monsters are not very hard. Ammo is
+enough to use. Try to keep a balance in this mode. Don't so "happy",
+especially to play with Chris.
+* ADVANCED : Hard mode. The monsters are many and stronger. Ammo is the
+same as Standard. The items are changed position. Your characters's
+costume are different in this mode. Try to be economical as much as you
+can : avoid any zombies in your effort, especially with the guy Chris
+(again).
+
+------------------------
+ ADVISE BEFORE PLAYING
+------------------------
+- As your mode you choose, try to play well which is appreciate with
+the environment.
+- Avoid any enemies in your effort when you are running out of ammo.
+Combat knife is a bit hard to use in this game.
+- Pay attention to anything unusual on your way.
+- Keep a safe distance when fighting enemies.
+- Try to use the Item Box anytime when your inventory is full.
+- When a zombie falls on the floor, if you don't see its blood, that
+means it hasn't died yet. Aim down to finish it. If you pass over when
+it's still alive, it will eat your leg.
+- Chris begins with :
+    + 6 inventory slots
+    + Combat knife
+    + First Aid Spray
+- Jill begins with :
+    + 8 inventory slots
+    + Combat knife
+    + Beretta Handgun 
+    + First Aid Spray
+- If you are new in this game, play with Jill first.
+
+***********************************************************************
+
+8/ H.E.A.L.T.H. G.U.I.D.E. &  H.E.R.B. M.I.X.I.N.G.
+
+***********************************************************************
+ - Your health is showed by the ECG in the menu screen :
+--------------
+ HEALTH GUIDE
+--------------
+
+  COLOUR                 HEALTH                PERCENT
+ Green                    Fine                 100%- 75%
+ Green + yellow line      Fine                 75% - 50%
+ Orange                   Caution              50% - 25%
+ Red                      Danger               25% - 10%
+ Purple + green line      Poison               75% - 50%
+ Purple + yellow line     Poison               50% - 25%
+ Purple + red line        Poison               25% - 0%
+
+- Poison effect turns "Purple with Green line" into "Purple with Red 
+line" into...death for a slow time. So use Serum or Blue Herbs as soon as 
+possible when you are poisoned. This is the good point of Resident Evil 
+1. Because in the later Resident Evil, Poison effect is only a purple 
+that you can't guess when you will die. In Chris's scenario, when Chris 
+is poisoned by the huge snake and if you take control of Rebecca, try to 
+find the Serum as soon as possible. If you are slow, Chris could die 
+even you don't take control of him.  
+
+-------------
+ HERB MIXING 
+-------------
+
+ - Herb mixing guide :
+
+   HERBS                    HEALING PERCENT
+ Green + Green               heal 50%
+ Green + Green + Green       heal 100%
+ Green + Red                 heal 100%
+ Green + Red + Blue          heal 100% + cure Poison
+
+- You can read more information about the herbs in "Botany Book" file in 
+the library. 
+
+--------------
+ DAMAGE NOTES
+--------------
+- A bite of a zombie make random damage. Sometimes it only causes "Fine" 
+to "Fine" (Green color with yellow line). But in Advance Mode, a strong 
+bite of it can cause you from "Fine" to "Danger" immediately. Just be 
+careful with your health. A bite at feet is often half a bite at neck. 
+- A scratch of dog is often half an ordinary bite of zombie. But it can 
+confuse you that you can't determine your target because dogs often 
+attack in multiple. So the best way is not to let it scratch you, okay ? 
+- A bite of huge snake makes a big damage with Poison effect. See the 
+note about "Poison effect" I wrote upper. Just remember to save your 
+character immediately. Only two or three hits of the snake can take you 
+to see "Mr.Death". 
+- Your life is always threatened when meeting a Hunter, of course. A 
+simple hit of Hunter at your feet just lower one level of your health. 
+But Hunters never beat a simple hit. They beat in sequence of hits, 
+remember. The second is almost the similar to the first but weaker. 
+But...don't be so happy, when you make them furious, just two slices to 
+your head can make you die immediately even you are in complete health. 
+Can you imagine what happen if two Hunters attack you in two sides ? To 
+tell you the truth, you will have no time to shoot them and stand until 
+you die. See "Monster list" and have a good strategy for them.
+- Two strong bites of the annoying Neptune can kill you at once. Why ? A 
+bite of it causes "Fine" to "Orange Caution". Run like hell !!!
+- A bite of Chimaera lowers one level of health. But a strike from the 
+ceiling is stronger. Just try to avoid their ways and shoot them by 
+Magnum. You can't run as fast as they do. Honest ! 
+- Those small snakes or spiders can only make a very small that doesn't 
+affect too much your health. 
+- A strike of Plant 42 often lowers half-one health level. The damage of 
+the white powder from the ceiling is weaker. But your health sometimes 
+can be poisoned. Frequently check it. 
+- Black Widows attack by dropping Poisonous liquid or striking. Just be 
+careful with the liquid. Its strike makes half damage of a zombie hit. I 
+don't know if it has ever bitten your body like Resident Evil Code 
+Veronica.       
+- Tyrant...a sequence of hits. Almost the same as Hunter's slice, it can 
+quickly move you to the another world. Just frequently check your 
+health.     
+
+***********************************************************************
+
+9/ W.A.L.K.T.H.R.O.U.G.H.
+
+***********************************************************************
+
+  * TRAINING AND STANDARD MODE :
+
+================================
+  CHRIS REDFIELD'S WALKTHROUGH
+================================
+
+ 9.1/ THE MANSION
+  After talking to Wesker and Jill in the main hall, go to investigate
+the dining room. Go to the right door to one of the end of the
+corridor. Something terrible is acting on your eyes. Avoid the zombie
+and return to the hall, Chris doesn't see Jill and Wesker. Let him
+collect Jill's gun and continue. If you return to the place where you
+first meet the zombie and shoot, check the corpse it was eating, you'll
+realize it's Kenneth. Get two clips from him and there are nothing to
+do here. Return to the main hall, go upstairs. In the right there are
+two doors. You should go to the deeper door and get the Small Key. If
+you go out, you'll see Forest Speyer's corpse. Get his clip (be careful
+of the crowns). Return to the 2nd floor hall and go to the left room.
+Shoot the zombies here and push the right blue statue forward, until
+you meet a space with no balcony, let it drop below. Then go to the
+next door, kill some zombies here and go downstairs. Go to the nearest
+room (medical room) and talk to Rebecca. Then get the Sword Key on the
+bed. Now go out. You'll see there are two another doors. One of them is
+locked with a carved of Armor. Ignore it and get into the other. If you
+go forward, you'll come to the garden. There are some tentacles that
+don't let you go pass the fountain. Ignore them and get out. Turn to
+the left and check three rooms. The first has a Tiger statue-nothing.
+Get into the second door (using Sword Key) to get a clip and Shotgun
+Shells (hehehe...there are something sudden here). Go to the third room
+to return to the corridor behind the dining room. Get into the dining
+room and get Blue Jewel (from the broken statue). Put this jewel on the
+Tiger statue to get the Wind Crest. In the corridor, use Sword Key to
+open the red door in the left of the end of the room and go in. Find
+the right corner of the room and push the wardrobe to get Music Notes.
+Put the Music Notes on the piano and..."Chris unfortunately can't read
+music." Now you need Rebecca. And she goes in soon to play it for you.
+Answer "Yes" or "No" are both okay. Let she play it and go out. Go to
+the main hall to the blue door. You can reach the map by climbing the
+steps. If you go to the red way, you'll meet a lying zombie. Don't pass
+over it or you'll be bitten. If you try, your rewards are only some Ink
+Ribbons. Use Sword Key to open the brown door beside and get in. Go
+pass the hall and fight the dogs. Notes : Here there are some blank
+shelves that don't contain anything. You can push those to get clips.
+The next door is a corridor, too. Here there is a room locked by Armor
+Key - ignore. There is a restroom-get into it, get rid of the dirty
+water in the bath tub and get Small Key. Get out. The third room has a
+Shotgun-don't get it soon. Finally, go to the fourth room, kill some
+zombies here. There are four doors here, too. I remind you to go to the
+brown door in the left-the gallery. There are a lot of crowns here. But
+if you solve the puzzle well, they don't do anything on you. Each
+picture has a switch. The order is :
+ - New born baby
+ - Infant
+ - Lovely boy
+ - Young man
+ - Tired middle-aged man
+ - Old man
+ - The end of life
+  You'll receive the Star Crest. Get out, go right to another door.
+Let's to the end of the path (there are some dogs), you'll see a board
+that you can put the crests. Put your Star Crest and Wind Crest on it.
+Then return and get to the light blue door (the right brown door is
+locked by Helmet Key). Kill a zombie. There is a store room under the
+stairs. Get into it, prepare yourself and get the Chemist. Get out and
+go upstairs. Shoot the zombies. Some of doors here will help you to
+return to a red corridor. The final room of this corridor takes you to
+the library and you can get Botany Book to know how to mix herbs. By
+this way, return to the 2nd floor main hall. From this hall, you can
+return to the garden, use Chemist in the device to kill the tentacles.
+Then go pass, there are a lot of herbs here. Try to get them all by
+mixing. You also get Armor Key. Now use the Armor Key to open all the
+doors you couldn't before. In the corridor which has the medical room,
+use Armor Key to open the Desk Room . You'll get a Broken Shotgun. Use
+Small Key to open the desk to get Shotgun Shells. In the main hall, you
+can use the key to open the door beside the blue door. In this room,
+use the Small Key to open the desk get Shotgun Shells. The next door
+has a zombie and some herbs. There is a room which is locked by a
+special key. I'll tell later in "Secrets" menu. Return to the blue door
+in the main hall, pass the light corridor and go to the first room of
+the next corridor which was locked by this key. Here there are some
+dogs and a lot of herbs. After that, get out and find the room which
+has the real Shotgun. Get it and put the Broken Shotgun on its
+position, you have just avoided a trap. Go to the fourth door to the
+blue door again, go upstairs and find a brown room which is also locked
+by this key. Open it. You will see a moose head figure in the center
+and two doors in two sides. Go to the left room (Bedroom) to get red
+herb and a Lighter. Go to the right room, put the switch on the insect
+collection to run out the water in the glass box. Then push it to the
+right, push the wardrobe to the corner and open the hidden store, maybe
+it's ink ribbon or something. Get out and find the red corridor. Unlock
+the emerald door. You will see two statues of ancient soldiers. Push
+them to cover two holes on the floor. Then push the red switch in the
+center. The gas will make the cage at the end of the room open. Get the
+Sun Crest inside. Then use the key to unlock the next door. You'll meet
+Richard Aiken here. He is wounded by a huge snake and you must find the
+serum to cure him. Get it in the medical room.
+
+ 9.2/ THE HUGE SNAKE
+  Now return to the restaurant to meet Rebecca. She has played the song
+and tried to play it again for you. After that, a secret door opens. Go
+to it and get the Gold Emblem. The door will be closed. Put the Emblem
+to replace the gold one, you can get out. In the dining room, put the
+Gold Emblem on the hole above the fireplace, the grandfather's clock
+will move aside. There is the Shield Key inside. Get it and return to
+Richard. Although you gives the serum to him, he's still dead because
+it's too late. You can get his clip and go to the next room. Shoot a
+zombie here. And then turn left (Chris's left) to a room. Use the
+Lighter to kindle the candle and get ammo here. Then go out, use Shield
+Key to open the next door. Go checking...ready...Fight !!! The huge 
+snake
+is a bit annoying. It surrounds you that make you can't run to anywhere
+except for shooting it. Try to shoot it and heal your health when
+necessary. After it runs away, follow it and get the Moon Crest. If you
+are poisoned, Chris will be tired for while. There are three cases in
+this situation :
+- Chris says he's tired. Then you control him to find the serum quickly
+or he will die after a long time.
+- Chris is tired. Rebecca comes. Then you'll control her to get the
+serum for him.
+- Chris faints. Rebecca comes and brings him to medical room.
+  Which case will happen depends on how you answer Rebecca's questions.
+Now put the four crests on the board and continue.
+
+ 9.3/ GUARD HOUSE
+  In the shed, push the steps to the left, then climb it to get the
+Crank. There is a Small Key on a barrel. Then go to the next door,
+fight the dogs and get herbs (this is the courtyard). There is a right
+path. Now you have nothing to do there so get into the gate. Turn left
+and use the Crank to take out the water in the lake. Then pass the lake
+and climb. Just run quickly to avoid the small snakes. Then get down on
+the lift. Fight some dogs here and go through the gate, overcome the
+path to the Guard House. There are some holes on the floor that a
+tentacle will bind your neck if you pass them. Push the statue to cover
+the hole you want. The right room is for you to store items and get
+ammo, F.Aid Spray. Now go to the left room dormitory 001. Fight some
+zombies here. Use Small Key to open the desk to get Shotgun Shells. Go
+to the corner of the room, get a Small Key in the cup. Grab the Red
+Book on the bed. Then get to the restroom, take out the water in the
+bathtub and find C.Room Key. You can go to the furthest door, check the
+billard to know a code. This code is random. Just remember in some
+case. Now turn right to another corridor. There are 002 dormitory and a
+greenroom. Beside the dormitory, you can push the statue to get some
+herbs. Go to the greenroom to the left path, get the 002 Key and run as
+fast as you can or you'll be bitten by the wasps or bees. Now open the
+002 dormitory, get some files and push the two wardrobes. If you have
+got the Small Key, open the desk you'll receive Shotgun Shells. Climb
+down the ladder. Another puzzle about pushing... First, push the two far
+boxes into the water. About the first one, push it backward until it
+reaches the right path, the move to the wall left which makes a space
+between the box and the right wall, then move into the water. Pass them
+and go to the water hall. There are three doors. If you turn right
+(Chris's right) to the nearest small door, you'll only get a Small Key
+here. Go further, you will see two doors together. Go the small door
+first by using the C.Room Key. Then switch the level to drain the
+water. The next door will be unlocked. Then get into it to get ammo and
+003 Key. Now get out of the 002 dormitory, go to the green house to 003
+dormitory. In this room, if you open the desk, you'll only receive some
+Ink Ribbons. Put the Red Book on the shelf to find a secret door.
+You'll meet Plant 42. There are two cases :
+- Chris completely fights Plant 42 (He can't fix the chemists)
+- Chris is caught by one of the tentacle. You control Rebecca to save
+him by mixing the chemists. The chemist room is in the greenroom. If
+you remember the code on the billard, just enter it. See the notes on
+the wall to make the mixture.
+  After finishing the plant, find the Helmet Key and get out of Guard
+House.
+
+ 9.4/ REVISITED MANSION
+  When you go into the mansion for a while, Chris will find a radio of
+someone. If you continue, a hunter will chase after you. Use Shotgun to
+shoot it. Then try to hear Chris say. If he says Rebecca in the library
+(where you collect Botany Book), go there to find her. If he says she
+is somewhere in the house, go to the medical room to find her. If you
+don't, she can receive a miserable death. It's not necessary. Now the
+mansion is full of Hunters - a powerful type of monsters. Try to do
+your best with your Shotgun. Now use Helmet Key to open the brown door
+at the place where you meet the first Hunter. Turn on the light (the
+switch is on the table), get Doom Book I (check it to get the Eagle
+Medal)and Magnum rounds. In this room, you can look over the window to
+see the moonlight. Then get to te medical room and go upstairs, use
+Helmet Key to unlock the black door there to go to "Animal room". Push 
+the steps to the moose head, then turn off the light and go on it to get
+the Red Jewel. Go to the Tiger statue and put it, you'll receive the
+Magnum. This weapon is good at killing Hunters.
+
+ 9.5/ FINISHING THE HUGE SNAKE
+  Now return to the corridor behind the library, go to the red door at
+the end of the the corridor. Here there is a green herb and a paper on
+the wall above a fireplace. If you have the Lighter, burn it and you'll
+receive a map. Use Helmet Key to open the left door. This is a large
+room. Go to the furthest corner of the room and check, the snake
+appears again. This is the last time you meet it. I think Shotgun is
+good at this. After that, jump down the hole the snake did, put the
+switch behind the "tomb" and get down the ladder.
+
+ 9.6/ THERE ARE SOME PLACES WE HAVEN'T CHECKED
+  There are some zombies here and Shotgun Shells. The next room, you'll
+hear the zombie eating. How terrible the sound is ! There are green
+herbs there. The next room is the kitchen. Here you get a Small Key. If
+you reach the door, a zombie inside will come to attack you. This
+zombie is tough. I used 4 Shotgun shots to finish it. The right is the
+elevator with a lying zombie. Shoot it and go. In this floor there are
+3 zombies, kill them and get a green herb. First, go to the blue door,
+shoot the zombies. Use Small Key to open the desk to get Magnum rounds.
+Go to another door, you'll meet a room which is full of books (I call
+it small library). Push the statue to the yellow square on the floor at
+the corner, a secret store is opened. You get a MO disk. Get out to the
+previous room, if you check this place, you realize a wardrobe that you
+can push. There is a secret door inside (secret room). You can go in to
+check it. Now get out and check the deeper door, you'll receive ammo
+and Battery. The other door only has zombies and some herbs. In this
+room, you can also find another door which takes to 2nd floor only
+opened by a code. Only Jill can know this code.
+  Get on the elevator and go to the room where the sudden zombie
+attacked you. It takes you to the corridor behind the dining room. Now
+return to the courtyard. Go to where there is a waterfall, put the
+Battery for the lift and go up. It takes you to the right path of the
+courtyard. Get out of the gate and use the Crank to fill the water.
+Then use the new lift to go down. There's no waterfall and you see a
+ladder. Get down.
+
+ 9.7/ UNDERGROUND
+  There are a lot of areas there. If you checked it, you'll get a F.Aid
+Spray and Shotgun Shells. Find Enrico Marini and talk to him. A
+mysterious person (maybe it's Wesker)shoots him die and remains the
+Hex. Crank on the floor (your current Crank is square). Return to the
+first you have just got down the ladder, use the Hex.Crank to move the
+hole on the floor. You can pass it and go to the door. Get the
+Flamethrower on the wall. Then touch the big rock. Prepare your way.
+After touching it and return, it will chase after you. You'll die soon
+after it lies on you. So try to run fast and turn. After that, check
+the hole behind the rock, you'll receive some ammo. A Hunter will
+attack you. Kill it. The rock broke a new way for you. Go to the hidden
+door behind it and fight a huge spider. This is not hard. 3 Magnum
+rounds can take wipe of it. But if you see the small spiders run out,
+get out of the room and return, they'll disappear. Find a Combat knife
+on the barrel and cut the webs on the door, then go into it. Go to the
+right door to save and store items. When you get out of this room, the
+small snakes appear again, just run to the other door, put the
+Flamethrower on the right and to unlock and get into it. Use the Hex.
+Crank to move the floor until the hole is in the left. There is a door
+in it. So get into that door. Another puzzle ! Push the statue to the
+position where the wall will rise. Then use the Hex.Crank to rise the
+wall. Now there is a distance between the statue and the wall. So push
+it to the square switch on the floor and get Doom Book II. Check it to
+get Wolf Medal and get out. There is another rock here, just do as the
+previous time but it's harder, so be careful ! In the hidden hole there
+are ammo and MO disc. Get out of here by the lift.
+
+9.8/ UMBRELLA SECRET LAB
+  Get herbs. Put the Eagle Medal and Wolf Medal on the platforms, then
+get down by elevator. Climb down the ladder and prepare your items. Get
+into the next door, shoots some zombie and then get the Mo disc on the
+desk beside the Visual Media Room (which is locked electronically). Go
+downstairs. There are a lot of naked zombies here. Try to avoid them if
+you can because sometimes they can re-appear when you go to another
+place. Now go to the first room you see. This is a corridor which has
+three doors here. The third door is only locked when you have enough
+passcodes to enter on the right device. The second door is locked
+electronically. So get into the first. It's John's room. Read the
+letter he writes to Ada and find the what he says in it. Push the
+wardrobe aside and put the switch to turn on the blue light. Then view
+the picture of Adam and Eva and find the password.
+  Then get out to the naked-zombie corridor. Go to the experiment room,
+grab the Slide and operate the computer. Try to enter the right
+passwords. The login ID is "John". The next password is "Ada". The
+password to unlock the door is the symbol in the picture, you find it
+yourself. Unlock all the locked area. The second room in the first door
+is unlocked. Return to it, bringing a MO disc to get the Passcode 01.
+The Visual Media room is unlocked. Go upstairs and get into it.
+  In this room, put the Slide into the projector to see some clues
+about Umbrella. After that, find a switch on the left wall and turn it.
+A rising wall will move away, remain the P.Room Key (Lab Key)inside.
+  Okay, go downstairs again. Go to another door which is unlocked, too.
+This is another corridor. Find the Autopsy Room. And solve the puzzle
+here. Try to push two boxes to cover two holes. Then move the steps
+onto the switch which is appreciate to the above hole. Climb it and get
+into the other room, bringing another MO disc to get the Passcode 02.
+  Return to the corridor and go to the save room if you want. Then get
+to the Power Room. There are three areas here. Be careful with the
+Chimeras. In the first area, run to find the switch to operate the
+electric power. In the second area, try to find the machine to get the
+passcode 03 with the last MO disc. In the 3rd area, try to find another
+switch to operate the elevator in the corridor. Then get out of the
+Power Room. Go to the elevator and have a "talk" with Wesker. Rebecca
+can come here if you saved her. Wesker shoots her and takes Chris to
+his laboratory to see the T002-Tyrant that he intends to sell to
+someone. After some incidents, Wesker gets killed by the Tyrant and
+Chris must fight it. Take the Magnum to kill it. This is the most
+easiest boss. Just keep a long distance and shoot it. Then get Wesker's
+Master Key. That's all.
+
+ 9.9/ SAVE YOUR PARTNER-FINAL BATTLE
+  Get out of the lab, you'll realize that Rebecca is still alive
+because of her protective gear. Go up the elevator and return to the
+corridor with the passcode device. Use your three passcodes to open the
+door. And then use the Master Key to rescue Jill. Take Jill and Rebecca
+to get out of the secret lab and go to the door to airport (beside the
+ladder). Grab the Battery to operate the elevator and go on it. Use the
+Flare to shoot to the air. Brad Vicker drives the helicopter to bring
+you. If you save all your partners, you'll fight the final battle with
+Tyrant. You have 3 minutes to go up the elevator and fight it. Try to
+run, run like hell, run to avoid its hits. Until over 2 minutes, Brad
+will give up the Rocket Launcher for you to shoot it. There are only
+two (Standard and Advanced) and four (Training) bullets. So try to
+shoot correctly and get on the helicopter.
+
+-----------------------END OF CHRIS'S WALKTHROUGH----------------------
+
+================================
+  JILL VALENTINE'S WALKTHROUGH
+================================
+ 9.10/ MANSION
+  After talking to Wesker and Barry, go to the dining room with Barry.
+When he is checking the blood, go to the next door to see the zombie
+eating Kenneth. Also get out and meet Barry, he'll finish it for you.
+Go with him to find Wesker in the main hall. Go upstairs and go down.
+After the talk, Barry will give you the Lockpick ( its function is like
+Chris's Sword Key). Take the Emblem in dining room, get two clips from
+Kenneth's corpse, use Lockpick to get into the restaurant. Push the
+wardrobe and get the Music Notes. Play the "Moonlight Sonata" on the
+piano (Jill is excellent at art). Go to the secret door getting the
+Gold Emblem and replace by the Emblem. Put the gold to the hole above
+the fireplace and get the Shield Key in the clock. You don't use it, so
+put it in item box. Return to the main hall, go upstairs. In the right
+there are two doors. You should go to the deeper door and get the Small
+Key. If you go out, you'll see Forest Speyer's corpse. Get his Bazooka.
+Return to the 2nd floor hall and go to the left room. Shoot the zombies
+here and push the right blue statue forward, until you meet a space
+with no balcony, let it drop below. Then go to the next door, kill some
+zombies here and go downstairs. Go to the nearest room (medical room)
+to prepare yourself. Now go out. You'll see there are two another
+doors. One of them is locked with a carved of Armor. Ignore it and get
+into the other. If you go forward, you'll come to the garden. There are
+some tentacles that don't let you go pass the fountain. Ignore them and
+get out. Turn to the left and check three rooms. The first has a Tiger
+statue-nothing. Get into the second door (using Lockpick) to get a clip
+and Shotgun Shells. Go to the third room to return to the corridor
+behind the dining room. Get into the dining room and get Blue Jewel
+(from the broken statue). Put this jewel on the Tiger statue to get the
+Wind Crest. Go to the main hall to the blue door. You can reach the map
+by climbing the steps. If you go to the red way, you'll meet a lying
+zombie. Don't pass over it or you'll be bitten. If you try, your
+rewards are only some Ink Ribbons. Use Lockpick to open the brown door
+beside and get in. Go pass the hall and fight the dogs. Notes : Here
+there are some blank shelves that don't contain anything. You can push
+those to get clips. The next door is a corridor, too. Here there is a
+room locked by Armor Key - ignore. The second is the restroom. The
+third room has a Shotgun-don't get it soon for safety. Finally, go to
+the fourth room, kill some zombies here. There are four doors here,
+too. I remind you to go to the brown door in the left-the gallery.
+There are a lot of crows here. Solve the puzzle as Chris's walkthrough.
+  You'll receive the Star Crest. Get out, go right to another door.
+Let's to the end of the path (there are some dogs), you'll see a board
+that you can put the crests. Put your Star Crest and Wind Crest on it.
+Then return and get to the light blue door (the right brown door is
+locked by Helmet Key). Kill a zombie. There is a store room under the
+stairs. Get into it, prepare yourself and get the Chemist. Get out and
+go upstairs. Shoot the zombies. Some of doors here will help you to
+return to a red corridor. The final room of this corridor takes you to
+the library and you can get Botany Book to know how to mix herbs. By
+this way, return to the 2nd floor main hall. From this hall, you can
+reach the garden, use Chemist in the device to kill the tentacles. Then
+go pass, there are a lot of herbs here. Try to get them all by mixing.
+You also get Armor Key. Now use the Armor Key to open all the doors you
+couldn't before. In the corridor which has the medical room, use Armor
+Key to open the Desk Room . You'll get a Broken Shotgun. Use Lockpick
+to open the desk to get Shotgun Shells. In the main hall, you can use
+the key to open the door beside the blue door. In this room, open the
+desk and get Shotgun Shells. The next door has a zombie and some herbs.
+There is a room which is locked by a special key. I'll tell later in
+"Secrets" menu. Return to the blue door in the main hall, pass the
+light corridor and go to the first room of the next corridor which was
+locked by this key. Here there are some dogs and a lot of herbs. After
+that, get out and find the room which has the real Shotgun. Get it and
+put the Broken Shotgun on its position, you have just avoided a trap.
+Go to the fourth door to the blue door again, go upstairs and find a
+brown room which is also locked by this key. Open it. You will see a
+moose head figure in the center and two doors in two sides. Go to the
+Bedroom to get red herb and Lighter. Go to the right room, put the
+switch on the insect collection to run out the water in the glass box.
+Then push it to the right, push the wardrobe to the corner and open the
+hidden store, maybe it's ink ribbon or something. Get out and find the
+red corridor. Unlock the emerald door. You will see two statues of
+ancient soldiers. Push them to cover two holes on the floor. Then push
+the red switch in the center. The gas will make the cage at the end of
+the room open. Get the Sun Crest inside. Then use the key to unlock the
+next door. You'll meet Richard Aiken here. He is wounded by a huge
+snake and you must find the serum to cure him. Get it in the medical
+room. Remember to bring the Shield Key.
+
+ 9.11/ THE HUGE SNAKE
+  Return to Richard. Although you gives the serum to him, he's still
+dead because it's too late. You can get his clip and go to the next
+room. Shoot a zombie here. And then turn left to a room. Use the
+Lighter to kindle the candle and get ammo here. Then go out, use Shield
+Key to open the next door. Go checking and fight the huge snake. Shoot
+it and heal your health when necessary. After it runs away, follow it
+and get the Moon Crest. If you are poisoned, Jill will be tired for
+while. There are two cases in this situation :
+- Jill says she's tired. Then you control her to find the serum quickly
+or he will die after a long time.
+- Jill faints. Barry comes and brings him to medical room.
+  Which case will happen depends on where and how many times you meet
+Barry (see my added notes). Now put the four crests on the board and
+continue.
+
+ 9.12/ GUARD HOUSE
+  In the shed, push the steps to the left, then climb it to get the
+Square Crank. Then go to the next door, fight the dogs and get herbs
+(this is the courtyard). There is a right path. Now you have nothing to
+do there so get into the gate. Turn left and use the Crank to take out
+the water in the lake. Then pass the lake and climb. Just run quickly
+to avoid the small snakes. Then get down on the lift. Fight some dogs
+here and go through the gate, overcome the path to the Guard House.
+  There are some holes on the floor that a tentacle will bind your neck
+if you pass them. Push the statue to cover the hole you want. The right
+room is for you to store items and get ammo, F.Aid Spray. Now go to the
+left room dormitory 001. Fight some zombies here. Use Lockpick to open
+the desk to get ammo. Grab the Red Book on the bed. Then get to the
+restroom, take out the water in the bathtub and find C.Room Key. You
+can go to the furthest door, check the billard to know a code. This
+code is random. Just remember in some case. Now turn right to another
+corridor. There are 002 dormitory and a greenroom. Beside the
+dormitory, you can push the statue to get some herbs. Go to the
+greenroom to the left path, get the 002 Key and run as fast as you can
+or you'll be bitten by the wasps or bees. Now open the 002 dormitory,
+get some files and push the two wardrobes. If you open the desk you'll
+receive Shotgun Shells. Climb down the ladder. Another puzzle about
+pushing... Do as Chris's walkthrough. Pass them and go to the water 
+hall.
+There are three doors. If you turn right (Jill's right) to the nearest
+small door, there are nothing here. Go further, you will see two doors
+together. Go the small door first by using the C.Room Key. Then switch
+the level to drain the water. The next door will be unlocked. Then get
+into it to get ammo and 003 Key. Now get out of the 002 dormitory, go
+to the green house to 003 dormitory. In this room, if you open the
+desk, you'll only receive some Ink Ribbons. Put the Red Book on the
+shelf to find a secret door. You'll meet Plant 42. There are two cases
+:
+- Jill completely fights Plant 42 (He can't fix the chemists)
+- Jill is caught. Barry saves her and kills the Plant 42 by the
+Flamethrower.
+- If you let Jill mix the V-Jolt (she can do this), Jill also fights
+the Plant 42 but shorter than the complete battle.
+  After finishing the plant, find the Helmet Key and get out of Guard
+House.
+
+  9.13/ REVISITED MANSION
+  When you go into the mansion for a while, a Hunter will chase after
+you. Use Bazooka to shoot it if you have ammo. Now the mansion is full
+of Hunters - a powerful type of monsters. Try to do your best with your
+Shotgun and Bazooka. Now use Helmet Key to open the brown door at the
+place where you meet the first Hunter. Turn on the light (the switch is
+on the table), get Doom Book I (check it to get the Eagle Medal) and
+Magnum rounds. Then get to the medical room and go upstairs, use Helmet
+Key to unlock the Black door to go to "Animal room". Push the steps to
+the moose head, then turn off the light and go on it to get the Red
+Jewel. Go to the Tiger statue and put it, you'll receive the Magnum.
+
+ 9.14/ FINISHING THE HUGE SNAKE
+  Now return to the corridor behind the library, go to the red door at
+the end of the the corridor. Here there is a green herb and a paper on
+the wall above a fireplace. If you have the Lighter, burn it and you'll
+receive a map. Use Helmet Key to open the left door. This is a large
+room. Go to the furthest corner of the room and check, the snake
+appears again. This is the last time you meet it. I think Shotgun is
+good at this. After that, jump down the hole the snake did. There are
+two cases :
+- Jill goes down alone
+- Barry will come and give Jill the code to open the door beside the
+Animal Room. It takes to the same place. So I write the situation if
+Jill goes down alone.
+
+ 9.15/ THERE ARE SOME PLACES WE HAVEN'T CHECKED
+  There are some zombies here and ammo. Head to the kitchen. If you
+reach the door, a zombie inside will come to attack you. The right is
+the elevator with a lying zombie. Shoot it and go. In this floor there
+are 3 zombies, kill them and get a green herb. First, go to the blue
+door, shoot the zombies. Open the desk to get Magnum rounds. Go to the
+small library. Push the statue to the yellow square on the floor at the
+corner, a secret store is opened. You get a MO disk. Get out to the
+previous room, if you check this place, you realize a wardrobe that you
+can push. There is a secret door inside (secret room). You can go in to
+check it. Now get out and check the deeper door, you'll receive ammo
+and Battery. The other door only has zombies and some herbs. In this
+room, you can also find another door which takes to 2nd floor only
+opened by the code Barry gave you.
+  Get on the elevator and go to the room where the sudden zombie
+attacked you. It takes you to the corridor behind the dining room. Now
+return to the courtyard. Go to where there is a waterfall, put the
+Battery for the lift and go up. It takes you to the right path of the
+courtyard. Get out of the gate and use the Crank to fill the water.
+Then use the new lift to go down. There's no waterfall and you see a
+ladder. Get down.
+
+  9.16/ UNDERGROUND
+  There are a lot of areas there. If you checked it, you'll get a F.Aid
+Spray and Grenade rounds. Find Enrico Marini and talk to him. A
+mysterious person (maybe it's Wesker)shoots him die and remains the
+Hex. Crank on the floor. Return to the first you have just got down the
+ladder, use the Hex.Crank to move the hole on the floor. You can pass
+it and go to the door. Touch the big rock. Prepare your way. After
+touching it and return, it will chase after you. You'll die soon after
+it lies on you. So try to run fast and turn. After that, check the hole
+behind the rock, you'll receive some ammo. A Hunter will attack you.
+Kill it. The rock broke a new way for you. Go to the hidden door behind
+it and fight a huge spider. This is not hard. 3 Magnum rounds can take
+wipe of it. But if you see the small spiders run out, get out of the
+room and return, they'll disappear. Find a Combat knife on the barrel
+and cut the webs on the door, then go into it. Go to the right door to
+save and store items. When you get out of this room, the small snakes
+appear again, just run to the other door. Use the Hex. Crank to move
+the floor until the hole is in the left. Go to it and get Doom Book II
+as Chris's walkthrough. Check it to get Wolf Medal and get out. There
+is another rock here, just do as the previous time but it's harder, so
+be careful ! In the hidden hole there are ammo and MO disc. Get out of
+here by the lift.
+
+ 9.17/ UMBRELLA SECRET LAB
+  Get herbs. Put the Eagle Medal and Wolf Medal on the platforms, then
+get down by elevator. Climb down the ladder and prepare your items. Get
+into the next door, shoots some zombie and then get the Mo disc on the
+desk beside the Visual Media Room. Go downstairs. There are a lot of
+naked zombies here. Try to avoid them if you can because sometimes they
+can re-appear when you go to another place. Now go to the first room
+you see. This is a corridor which has three doors here. The third door
+is only locked when you have enough passcodes to enter on the right
+device. The second door is locked electronically. So get into the
+first. It is John's room. Read the letter he writes to Ada and find the
+what he says in it. Push the wardrobe aside and put the switch to turn
+on the blue light. Then view the picture of Adam and Eva and find the
+password.
+  Then get out to the naked-zombie corridor. Go to the experiment room,
+grab the Slide and operate the computer and do as Chris. Unlock all the
+locked area. The second room in the first door is unlocked. Return to
+it, bringing a MO disc to get the Passcode 01. The Visual Media room is
+unlocked. Go upstairs and get into it.
+  In this room, put the Slide into the projector to see some clues
+about Umbrella. After that, find a switch on the left wall and turn it.
+A rising wall will move away, remain the P.Room Key inside.
+  Okay, go downstairs again. Go to another door which is unlocked, too.
+This is another corridor. Find the Autopsy Room. And solve the puzzle
+here. Try to push two boxes to cover two holes. Then move the steps
+onto the switch which is appreciate to the above hole. Climb it and get
+into the other room, bringing another MO disc to get the Passcode 02.
+  Return to the corridor and go to the save room if you want. Then get
+to the Power Room. There are three areas here. Be careful with the
+Chimeras. In the first area, run to find the switch to operate the
+electric power. In the second area, try to find the machine to get the
+passcode 03 with the last MO disc. In the 3rd area, try to find another
+switch to operate the elevator in the corridor. Then get out of the
+Power Room. Go to the elevator and have a "talk" with Wesker. Barry
+comes here and do what Wesker tells him. Wesker asks him to go and
+takes Jill to his laboratory to see the T002-Tyrant that he intends to
+sell to someone. If Barry is saved, he will return and knock Wesker to
+faint to go with you. If not, he'll never come again. After some
+incidents, Jill must fight it alone. Take the Magnum to kill it. This
+is the most easiest boss. Just keep a long distance and shoot it. Then
+get out with Barry (if he is alive). If he isn't there, remember to
+take the Master Key.
+
+ 9.18/ SAVE YOUR PARTNERS-FINAL BATTLE
+  Return to the room where there is the passcode device. Use your three
+passcodes to open the door. And then use the Master Key to rescue
+Chris. Take him to get out of the secret lab and go to the door to
+airport (beside the ladder). You'll meet Barry, too if he is alive.
+Grab the Battery to operate the elevator and go on it. Use the Flare to
+shoot to the air. Brad Vickers drives the helicopter to bring you. If
+you save all your partners, you'll fight the final battle with Tyrant.
+You have 3 minutes to go up the elevator and fight it. Try to run, run
+like hell, run to avoid its hits. Until over 2 minutes, Brad will give
+up the Rocket Launcher for you to shoot it. There are only two
+(Standard and Advance) and four (Training) bullets. So try to shoot
+correctly and get on the helicopter.
+
+-----------------------END OF JILL'S WALKTHROUGH-----------------------
+
+* NOTES ABOUT ADVANCED MODE
+
+- This mode is like Training or Standard about map and place. So don't
+be surprised.
+- The item positions are different from the other mode. See my "Item
+list" to have your best strategy.
+- You can open the Clothes Room without the Special Key.
+- The ammo is the same as Standard Mode. But the monsters are many and
+stronger. Try to avoid any enemies if you can, especially in the places
+where you don't come frequently.
+- Frequently collect and mix your herbs. They're very important in this
+hard mode.
+
+------
+  Okay, for this FAQs is more useful, I decide to make a walkthrough for 
+Advance Mode. This is a quick walkthrough which contains the basics and 
+item location of this mode because it's almost the same as either 
+Training or Standard mode. About the unnecessary episodes such as saving 
+or Small Key, I don't mention in this walkthrough as you would know it 
+in the full walkthrough for Training and Standard Mode. 
+  Notes :
+- The order of this guide is optional. You can change them which is most 
+convenient for you. Here I only do my duty : write the basics.  
+
+=================================
+ ADVANCE GAME QUICK WALKTHROUGH
+=================================
+
+1) THE MANSION   
+- Getting Jill's gun (Chris) 
+- Go to 2nd floor and find Forest Speyer's corpse 
+- Get the Armor Key from him. He'll wake up as a zombie to attack you 
+(except if you are Jill and Barry is with you there). Let me list what 
+to do with this key :
+  + Go to the Moose Room, get the half Moon Crest and Lighter.
+  + Find Richard and Rebecca, remember to get the Serum for him if 
+Rebecca demands. In that area, use Lighter to find Sword Key. 
+  + Go to the dog yard and get Chemist.
+  + In the desk room, get Shotgun Shells and Magnum
+  + Go to the clothe room if you want.
+  + In the Knight Room, find Emblem.
+- If you have found the Sword Key, do this :
+  + Go to the restaurant, having Rebecca to play the piano in order to 
+get Gold Emblem. With the Gold Emblem replacing, you'll have Blue Jewel.
+  + Use the key to open the dog corridor.
+  + Go to the Keeper's room.
+- With the Blue Jewel put on the Tiger Statue, you have Shield Key. 
+- Go to the garden, use Chemist to kill the roots, you have Sun Crest.
+- In the 2nd floor of the dining room, break the statue to get Wind 
+Crest. 
+- With the Shield Key, fight the Huge Snake and get the half Moon Crest 
+and combine with the other half. 
+- Use the four crests to unlock the Garden Shed, take Square Crank.
+- Passing the courtyard, remove the water in the lake. Go to Guard 
+House.
+
+2) GUARD HOUSE
+- There are more holes than the Training and Standard Mode on the floor, 
+be careful with the annoying roots of Plant 42. 
+- Forward the billiard restaurant and get the Red Book, viewing the code 
+on the billiard table for necessary situation. 
+- Find the 003 Key in the ballroom. Go to 003 dormitory.
+- Put the Red Book on the shelf and face Plant 42. There are a lot of 
+cases that would happen. Try to solute the situation. 
+- After that, get C.Room Key
+- Go to dormitory 001 to get ammo if you want.
+- In the greenroom, find the 002 Key and go to 002 Dormitory. 
+- Solve the pushing boxes puzzle and go to the Neptune corridor. Be 
+careful with the Neptune. 
+- Unlock the C.Room, then unlock the beside room.
+- Get ammo and Helmet Key.
+- Return to mansion.
+
+3) REVISITED MANSION
+- Use Helmet Key to the Animal Room, get Red Jewel.
+- Put it on the Tiger statue to get Magnum Rounds.
+- Use Helmet Key to open the moonlight room. Get MO disc and ammo. 
+- Open the light 2nd floor gallery, fight the Huge Snake. Then go to the 
+secret area in 1st floor. 
+- In this area, go to the small library to find Doom Book 1 (Eagle 
+Medal), Battery in secret study room. 
+- Return to the courtyard, use Battery to activate an elevator. With 
+this new way, you can pass the lake without remove the water. Fill the 
+water again by using Crank and go to the secret way behind the 
+waterfall.
+
+4) UNDERGROUND AREA
+- Find Enrico Marini, then grab the Hex.Crank. 
+- Use Hex.Crank to unlock a new area. 
+- Grab the Flamethrower (Chris only) and try to avoid the big rock. 
+- Pass the spider room, get Combat Knife to unlock the door. 
+- Use Flamethrower to unlock the next door (Chris only) and avoid the 
+2nd rock.
+- Use Hex.Crank to find a secret room, solve the puzzle there to get 
+P.Room Key (Lab Key).
+- Get the Doom Book II (Wolf Medal) and ammo. 
+- Go up the ground by the elevator. 
+- With the two medals, enter the laboratory area.
+
+5) UMBRELLA SECRET LAB
+- Climb down the ladder and go down another stairs.
+- Find some hints in John's room. Then go to the experiment room to 
+unlock some areas as he tells you and grab the MO Disk.
+- In Visual Media Room, find another MO disk. Now you have all of the 
+discs, enter it in the 3 fax machine to get 3 passcodes. Use them to 
+open the prison door and talk to your partner if you want.
+- In the room beside John's room, enter the 1st passcode.
+- Autopsy Room, find the Slides (using it on the projector if you want) 
+and some ammo. Solve the puzzle to go to the next room. Enter the 2nd 
+passcode and get ammo.
+- Power Room, try to avoid from Chimaeras, enter the 3rd passcode, push 
+the switch to supply power and another switch to activate the elevator. 
+- Go down the elevator and have a talk with Wesker, then fight Tyrant.
+- Get his Master Key to rescuing your partner in the prison.
+- Get out of here, use the Flare to inform Brad, then fight the final 
+battle with Tyrant (if you have saved all your partners).
+    
+  
+***********************************************************************
+
+10/ T.H.E. E.N.D.I.N.G.S.
+
+***********************************************************************
+--------------------------
+ CHRIS REDFIELD'S ENDINGS
+--------------------------
+ - Best ending : Jill sleeps on his shoulder. And so does Rebecca in
+the other side. Chris smiles at her. Save Jill and Rebecca.
+ - Good ending : Chris talks to Rebecca. He believes that Jill is still
+alive. Save Rebecca, not Jill.
+ - Bad ending : Jill sleeps on Chris's shoulder in sadness. Save Jill,
+not Rebecca.
+ - Worst ending : Chris sits alone with strange action. Do not save
+anyone.
+
+---------------------------
+ JILL VALENTINES'S ENDINGS
+---------------------------
+- Best ending : Jill sleeps on Chris's shoulder. Chris smiles at Barry
+who is reloading his gun. Save both Chris and Barry.
+- Good ending : Jill talks to Barry and she believes that Chris is
+still alive. Save Barry, not Chris.
+- Bad ending : Jill sleeps on Chris's shoulder and there's no Barry.
+Save Chris, not Barry.
+- Worst ending : Jill takes off her hat and acts strangely. Do not save
+anyone.
+
+-----------------
+ THE REAL ENDING
+-----------------
+  All Chris, Jill, Barry and Rebecca are alive and escape on Brad's
+helicopter. Wesker is still alive and he continues his cruel plan as a
+dead man...
+
+***********************************************************************
+
+11/ T.H.E. A.D.D.E.D. N.O.T.E.S.
+
+***********************************************************************
+
+===================
+ THE SHOTGUN TRAP
+===================
+  I don't have space to tell you about this trap in Walkthrough. So 
+let's see here.
+  If you don't use the Broken Shotgun to replace the real one you got,
+the ceiling on your way will collapse slowly. Every door is locked. You
+have no choice except if you were Jill, Barry can come to rescue you if
+you didn't meet him anytime before.
+
+==================
+ BARRY'S POSITION
+==================
+  Barry is Jill's supporter. His appearance which you decide will
+determine if he dies or not.
+  The first time, you can meet him at :
+- Forest's corpse
+- The 2nd floor main hall
+- Rescue you from the Shotgun trap
+- The room where you get Researcher's Note.
+  The second time is when you are poisoned after fighting the huge
+snake. He'll come to save you or not. I think in this time, you should
+save yourself by keeping the serum. This work can make him live.
+  If you save yourself in the second time, you'll meet him the third
+time in Guard House. You can hear a conversation between him and Wesker
+in 002 Dormitory.
+  The fourth time is after you finish the huge snake. If you met him
+the third time, he'll come. After that, he lives you underground. If
+you wait for him to receive the code, he lives. If not, he dies.
+  If you wait for him in the fourth time, you'll meet him underground
+cave. This time also decides his fate. He asks you two questions. If
+you answer "Yes" both them all, he'll die at once (Wesker shoots him).
+If you answer "Yes" and "No",that means you don't let him go first, he
+can live and go with you to find Enrico.
+  Okay, when you encounter Wesker, Barry comes with you and does as
+Wesker's order. When you are being taken to the lab, if Barry returns
+and knocks out Wesker, that means he is saved. If he doesn't, he dies
+near the ladder to the airport way.
+  * If you let Barry live, you'll wonder where Wesker is after beating
+the Tyrant. Let me tell you that he is at the Power Room as a headless
+corpse. You can find him by going there. But as I said in the official
+ending, Wesker is still alive. This is not the official episode.
+  Generally, the main reasons that make Barry die are :
+- You don't meet him after finishing the Huge snake second time.
+- Although you meet him there, you don't wait for him to bring you the
+code. Try to arrange your strategy.
+- In the underground cave, you let him go first.
+
+====================
+ REBECCA'S POSITION
+====================
+  Rebecca is Chris's supporter. As Barry, her fate depends on your
+action.
+  You first meet her in Medical Room. This is the chart to save her :
+
+   TIMES              REBECCA            CHRIS'S ACTION
+-The 1st time    around the mansion       answer "Yes"
+-The 2nd time     in the restaurant       "Yes" or "No"
+-The 3rd time   near the snake's place        N/A
+-The 4th time      Plant 42 room              N/A
+-The 5th time      the Library          "She is in the library..."
+                                         and save her
+-The 6th time      Wesker's lab               N/A
+
+ You can save her in other way :
+
+   TIMES              REBECCA            CHRIS'S ACTION
+-The 1st time   in the Medical room       answer "No"
+-The 2nd time    in the restaurant       "Yes" or "No"
+-The 3rd time  near the snake's place         N/A
+-The 4th time          N/A             fights the Plant 42
+-The 5th time  near the Medical room   "She is somewhere..."
+                                        and save her
+-The 6th time      Wesker's lab               N/A
+
+  And if you don't want to save Rebecca, just cancel the 5th
+appointment.
+  This chart might have some mistakes because there are too many
+episodes. So please contact me about my mistakes to make the guide more
+perfect.
+
+================
+ KEEP THE SERUM
+================
+  As I said, if you want to save yourself from the huge snake without
+any partner, you should have the serum with you and use it. But Richard
+took it, what to do ? Okay, after you find the Armor Key, as soon as
+find Richard. Then go to get the serum and solve the other problems as
+long as you can. Until a certain time, Richard can die before you bring
+medicine to him and you keep it. This work is easy to do in Advance
+Mode because the position of the key is changed to be nearer.
+
+================================================
+ THE ELECTRONICAL LOCKS IN THE LABORATORY AREA
+================================================
+ There are some readers asking about this. Let me repeat. The answers 
+are in the letter John writes to Ada. It's one of the rooms in the first 
+corridor you go downstairs to. The answer for the third password is in 
+this room, too. If you want to solve the third password, push the beside 
+wardrobe to find a blue switch. Before putting it, see the picture of 
+Adam and Eve, then remember all the words you see. Push the blue switch, 
+the words in the picture will turn into the strange symbols that John 
+used to hide the password. Compare it with the original words, you'll 
+understand the pasword.  
+
+***********************************************************************
+
+12/ I.T.E.M. L.I.S.T.
+
+***********************************************************************
+
+NAME                STANDARD                 ADVANCED
+
+-Lockpick           from Barry               from Barry
+
+-Sword Key          Medical room             near huge snake's room
+
+-Armor Key          Garden                   Forest's corpse
+
+-Shield Key         Dining room              Tiger statue
+
+-Helmet Key         Plant 42 room            C.Room
+
+-002 Key            the greenroom            the greenroom
+
+-003 Key            C.Room                   Guardhouse Ballroom
+
+-C.Room Key         001 Dormitory            Plant 42 room
+
+-P.Room Key         Visual Media Room        Underground puzzle room
+
+-Master Key         Wesker's corpse          Wesker's corpse
+
+-Star Crest         Gallery                  Gallery
+
+-Wind Crest         Tiger statue             the Broken statue
+
+-Sun Crest          Knight room              Garden
+
+-Moon Crest         Huge snake's room        - Huge snake's room
+                                             - Researcher's room
+
+-Emblem             Dining room              Dining room
+
+-Gold Emblem        Secret room in the bar   Secret room in the bar
+
+-Blue Jewel         the broken statue        Dining room
+
+-Red Jewel          Animal room              Animal room
+
+-Chemist            Storeroom under stairs   Dogs yard
+
+-Broken Shotgun     The Desk Room            Storeroom under stairs
+
+-Music Notes        Restaurant               Restaurant
+
+-Lighter            Bedroom                  Bedroom
+
+-Serum              Medical Room             Medical Room
+
+-Square Crank       The shed                 The shed
+
+-Hex.Crank          Underground area         Underground area
+
+-Red Book           001 Dormitory            Billiard room
+
+-Empty Bottles      Chemist Room             Chemist Room
+
+-Umb No.2           Chemist Room             Chemist Room
+
+-Umb No.4           Chemist Room             Chemist Room
+
+-Water              Chemist Room             Chemist Room
+
+-Eagle Medal        The moonlight room       Small library
+
+-Wolf medal         Underground puzzle room  After the 2nd rock
+
+-Battery            The Ammo room            Secret room
+
+-Slide              Experiment room          Autopsy Room
+
+-MO disc            The moonlight room       Small library
+                    After the 2nd rock       Experiment room
+                    Near Visual Media room   Visual Media room
+
+-----------------------------------------------------------------------
+================
+ ITEM FUCNTION
+================
+
+  ITEMS                                FUNCTION
+
+- Lockpick                        - open special locks
+
+- Sword Key                       - open the doors carved sword hole
+
+- Armor Key                       - open the doors carved armor hole
+
+- Helmet Key                      - open the doors carved helmet hole
+
+- 002 Key                         - open Dormitory 002
+
+- 003 Key                         - open Dormitory 003
+
+- C. Room Key                     - open C. Room
+
+- P. Room Key                     - open the Tyrant laboratory
+
+- Master Key                      - open the cell
+
+- Star Crest                      - open the door to garden shed
+
+- Wind Crest                      - open the door to garden shed
+
+- Sun Crest                       - open the door to garden shed
+
+- Moon Crest                      - open the door to garden shed
+
+- Emblem                          - replace the Gold Emblem's position
+
+- Gold Emblem                     - replace the Emblem's position 
+
+- Blue Jewel                      - the Tiger statue's eye
+
+- Red Jewel                       - the Tiger statue's eye 
+
+- Chemist                         - kill the roots
+
+- Broken Shotgun                  - replace the Shotgun's position
+
+- Music Notes                     - note to play the piano
+
+- Lighter                         - to burn a candle or a fireplace
+
+- Serum                           - cure Snake Poison
+
+- Square Crank                    - remove the water in the lake
+
+- Hexagon Crank                   - control some underground areas
+
+- Red Book                        - put on a white-book shelf
+
+- Empty Bottle                    - use to contain chemists
+
+- Water                           - use to mix chemists
+
+- Umb No.2                        - use to mix chemists
+
+- Umb No.4                        - use to mix chemists
+
+- Eagle Medal                     - open the Lab area
+
+- Wold Medal                      - open the Lab area
+
+- Battery                         - activate the elevators
+
+- Slide                           - put in a projector
+
+- MO discs                        - unlock a security door
+                                                                 
+***********************************************************************
+
+13/ W.E.A.P.O.N. L.I.S.T.
+
+***********************************************************************]
+
+NAME                STANDARD                 ADVANCED
+
+Combat knife        Standard item            Standard item
+
+                    barrel underground       Barrel underground
+
+Beretta             Jill's Standard          Jill's standard
+                    Main hall (Chris)        Main hall (Chris)
+
+Shotgun             The Trap                 The Trap
+
+Bazooka             Forest's corpse          Forest's corpse
+
+Magnum              Tiger statue             the Desk Room 
+
+Flamethrower        Underground area         Underground area
+
+Rocket Launcher     Final battle             Final Battle
+
+-----------------------------------------------------------------------
+
+ A. COMBAT KNIFE
+  Range : very short
+  Correct ratio : 10/10
+  Capacity : N/A
+  Standard weapon of all characters-also weapon of choice of veteran 
+players. It's used to attack at close distance. In this game, it's not a 
+good weapon to use.  
+
+ B. BERETTA
+  Range : long 
+  Correct ratio : 8/10
+  Capacity : 15 bullets
+  Your basic handgun-also your most common weapon. It attacks in far 
+distance with medium power. Used to attack ordinary monsters such as 
+zombies, zombie dogs etc. 
+
+ C. SHOTGUN
+  Range : long and large 
+  Correct ratio : 9/10
+  Capacity : 7 shells
+  A stronger weapon with large range. It can make damage on a group of 
+enemies in a certain position. You can use this to splash enemy's head 
+with one shot in close distance. 
+
+ D. BAZOOKA
+  Range : long and large
+  Correct ratio : 9/10
+  Capacity : 6 rounds
+  A strong weapon with short range and various ammo : Grenade explosive 
+rounds, Acid Rounds and Flame Rounds. 
+- Grenade Rounds make explosion with large range, effective to any 
+enemies
+- Acid Rounds cast Acid chemical with individual range, effective to 
+Hunters
+- Flame Rounds cast Fire elemental ammo with individual range, effective 
+to zombies, zombie dogs, etc. 
+
+ E. MAGNUM
+  Range : long 
+  Correct ratio : 9/10
+  Capacity : 6 rounds
+  A kind of handgun with powerful ammo which goes through everything on 
+its way and kill them at once. This is a good weapon to use with any 
+enemies. 
+
+ F. FLAMETHROWER
+  Range : short 
+  Correct ratio : 7/10
+  Capacity : 100%
+  A strange weapon casting Fire in a close distance, best effective to 
+Plants. But in this game, it might be used as a key to unlock doors. 
+
+ G. ROCKET LAUNCHER
+  Range : long 
+  Correct ratio : 10/10
+  Capacity : N/A
+  Heavy and slow. It's the most powerful weapon of the game. One shot 
+can kill any enemies on its way.      
+
+***********************************************************************
+
+14/ M.O.N.S.T.E.R. L.I.S.T.
+
+***********************************************************************
+
+------------
+ A. ZOMBIES
+------------
+ Characteristics : Your most common enemies. Usually appear multiple
+Attack by bitting your neck. When going they make sounds at their feet
+which are clear to hear.
+ Strategy : Keep a safe distance to shoot. When they lie, pay attention
+if they die or not or you'll be bitten at your foot when passing.
+ Ammo to kill :
+- Handgun Bullets : 2-10 bullets
+- Shotgun Shells : 1-3 shells
+- Grenade Rounds : 1 round
+- Acid Rounds : 1 round
+- Flame Rounds : 1 round
+- Magnum Rounds : 1 round
+- Rocket Launcher : 1 round
+  Sometimes you can kill a zombie with only one or two handgun bullets 
+in Advance Mode if you aim well. This function is in Advance game only. 
+
+---------------------------
+ B. ZOMBIE DOGS (CERBERUS)
+---------------------------
+ Characteristics : one of the most annoying enemies. Fast, attack by
+jumping and scratching. When going they make sounds at their feet.
+ Strategy : Keep a safe distance to shoot. Shoot it each time it rises
+and runs to you. Aim correctly.
+ Ammo to kill : 
+- Handgun Bullets : 4-10 bullets
+- Shotgun Shells : 1-3 shells
+- Grenade Rounds : 1-2 rounds
+- Acid Rounds : 1-2 rounds
+- Flame Rounds : 1-2 rounds
+- Magnum Rounds : 1-3 rounds
+- Rocket Launcher : 1 shot
+
+-------------
+ C. HUNTERS
+-------------
+ Characteristics : One of the strongest enemies. Very fast. Attack by
+jumping suddenly and slicing your head or feet. They make sounds at
+their feet.
+ Strategy : Stand a rather close distance and shoot by Magnum, Bazooka
+or Shotgun. Be careful when it jumps and slices down, you'll die at
+once.
+ Ammo to kill :
+- Handgun Bullets : 15-25 bullets
+- Shotgun Shells : 2-5 shells 
+- Grenade Rounds : 1-3 rounds
+- Acid Rounds : 1-3 rounds
+- Flame Rounds : 1-3 rounds
+- Magnum Rounds : 1-3 rounds
+- Rocket Launcher : 1 shot 
+
+------------
+ D. NEPTUNE
+------------
+ Characteristics : sharks, swimming in water. Their hits make a big
+damage.
+ Strategy : Run, run like hell. Your guns only scare them away, no
+damage. Be careful if they surround you. They can't live without water.
+ Ammo to kill :
+- Handgun Bullets : N/A
+- Shotgun Shells : N/A
+- Grenade Rounds : N/A
+- Acid Rounds : N/A
+- Flame Rounds : N/A
+- Magnum Rounds : N/A
+- Rocket Launcher : N/A
+
+--------------
+ E. CHIMAERAS
+--------------
+ Characteristics : like huge bats. They attack on the ceiling by
+scratching down suddenly. On the floor, they attack by bitting your
+body. Very fast and hard to realize.
+ Strategy : Run if you can. If not, a Magnum round can take wipe of
+one.
+ Ammo to kill :
+- Handgun Bullets : 15-30 bullets
+- Shotgun Shells : 1-7 shells
+- Grenade Rounds : 1-5 rounds
+- Acid Rounds : 1-5 rounds
+- Flame Rounds : 1-5 rounds
+- Magnum Rounds : 1-4 rounds
+- Rocket Launcher : 1 shot
+
+--------------------------
+ F. BLACK WIDOWS (SPIDER)
+--------------------------
+ Characteristics : Attack on the ceiling by dropping poison liquid. On
+the floor, they can beat you by their legs or eat you.
+ Strategy : Running is the best way. But some Shotgun Shells can kill
+them.
+ Ammo to kill :
+- Handgun Bullets : 15-20 bullets
+- Shotgun Shells : 2-5 shells
+- Grenade Rounds : 1-4 rounds
+- Acid Rounds : 1-4 rounds
+- Flame Rounds : 1-4 rounds
+- Magnum Rounds : 1-3 rounds
+- Rocket Launcher : 1 shot 
+
+------------------
+ G. SMALL SPIDERS
+------------------
+ Characteristics : born from the mother widow and run around the floor.
+Very annoying, their jump makes very small damage.
+ Strategy : Just run. Shooting is only a waste of ammo.
+ Ammo to kill :
+- Handgun Bullets : 1-5 bullets
+- Shotgun Shells : 1 shell
+- Grenade Rounds : 1 round
+- Acid Rounds : 1 round
+- Flame Rounds : 1 round
+- Magnum Rounds : 1-2 round
+- Rocket Launcher : 1 shot
+
+-------------------
+ H. WASPS AND BEES
+------------------
+  Characteristics : live in nest. Attack multiple by bitting.
+  Strategy : Run. If you like, one Shotgun blast can take wipe of them.
+  Ammo to kill :
+- Handgun Bullets : 1-5 bullets
+- Shotgun Shells : 1 shell
+- Grenade Rounds : 1 round
+- Acid Rounds : 1 round
+- Flame Rounds : 1 round
+- Magnum Rounds : 1-3 rounds
+- Rocket Launcher : 1 shot 
+----------------
+ I. HUGE SNAKE
+----------------
+  Characteristics : a giant snake which randomly appears in the
+mansion. Surrounds the target and attacks by bitting with venom fangs.
+  Strategy : Use the kind of weapons which has large range such as
+Shotgun and shoot correctly.
+ Ammo to kill :
+- Handgun Bullets : very much
+- Shotgun Shells : 5-10 shells
+- Grenade Rounds : 5-10 rounds
+- Acid Rounds : 5-10 rounds
+- Flame Rounds : 5-10 rounds
+- Magnum Rounds : 5-10 rounds
+- Rocket Launcher : 1 shot
+
+-----------------
+ J. SMALL SNAKES
+-----------------
+ Characteristics : often drop suddenly from wet places such as cave or
+trees. Attack by bitting at the feet.
+ Strategy : Just run.
+ Ammo to kill :
+- Handgun Bullets : 1-5 bullets
+- Shotgun Shells : 1 shell
+- Grenade Rounds : 1 round
+- Acid Rounds : 1 round
+- Flame Rounds : 1 round
+- Magnum Rounds : 1-2 rounds
+- Rocket Launcher : 1 shot
+
+-------------
+ K. PLANT 42
+-------------
+  Characteristics : a kind of plant which is infected with T-virus. 
+Changed differently from the original sharp with long root. Strong and 
+huge. It doesn't move.
+  Strategy : Use powerful weapons or Flamethrower or any Fire elemental 
+weapons to defeat it. You can make V-Jolt chemical to destroy half its 
+life.  
+  Ammo to kill :
+- Handgun Bullets : 15-35 bullets 
+- Shotgun Shells : 10-20 shells
+- Grenade Rounds : 10-20 rounds
+- Acid Rounds : 10-20 rounds
+- Flame Rounds : 10-20 rounds
+- Magnum Rounds : 10-20 rounds
+- Rocket Launcher : N/A
+
+----------------
+ L. T002-TYRANT
+----------------
+  Characteristics : a product of T-virus. Tyrant is huge and strong
+with sharp claws and deadly hits. Attacks by claws.
+  Strategy : Magnum and Bazooka are good at the first time. Just keep a
+safe distance and shoot. Then continue to run to other corner when it's
+closer. But no ordinary weapons can kill it except powerful one such as
+Rocket Launcher.
+  Ammo to kill (first battle)
+- Handgun Bullets : 10-15 bullets 
+- Shotgun Shells : 5-15 shells
+- Grenade Rounds : 5-10 rounds
+- Acid Rounds : 5-10 rounds
+- Flame Rounds : 5-10 rounds
+- Magnum Rounds : 5-10 rounds
+- Rocket Launcher : 1 shot
+  Ammo to kill (second battle)
+- Handgun Bullets : infinite
+- Shotgun Shells : infinite
+- Grenade Rounds : infinite
+- Acid Rounds : infinite
+- Flame Rounds : infinite
+- Magnum Rounds : infinite
+- Rocket Launcher : 1 shot
+
+***********************************************************************
+
+15/ F.I.L.E.S.
+
+***********************************************************************
+---------------  
+  BOTANY BOOK
+---------------
+  As you may know, there are many plants that have medicine effects. 
+Since ancient times, humans have been healing wounds and diseases using 
+various plants. 
+  In this book, we're going to sample three herbs that grow around the 
+Raccoon Mountains and give their outlines as examples of those plants 
+with medicinal properties.
+  Each herb has different colors and different effects as medical 
+plants: the green one recovers physical strength, the blue one 
+neutralize natural toxins, while the red herb does not have any affect 
+by itself. The red herb is only effective when it is mixed with other 
+herbs.
+  For example, if you mix this herb with the herb that recovers physical 
+strength, the recovery effect will be triple. By adjusting the amount 
+and experimenting with these three herbs, you can create various kinds 
+of medicines. But I'll leave the details in your hands, because that is 
+the best way to acquire true knowledge. 
+
+----------------
+ KEEPER'S DIARY 
+----------------
+  May 9th 1998
+  At night, we played Poker with Scott the guard, Alias and Steve the 
+Researcher.
+  Steve was really lucky, but I think he was cheating. What a scumbag.
+
+  May 10th 1998
+  Today, a high ranking researcher asked me to take care of a new 
+monster. It looks like a gorilla without any skin. They told me to feed 
+them live food. When I threw in a pig, they were playing with it... 
+tearing off the pig's legs and pulling out the guts before they actually 
+ate it.
+
+  May 11th 1998
+  Around 5 o'clock this morning, Scott came in and woke me up suddenly. 
+He was wearing a protection suit that looks like a space suit. He told 
+me to put one on as well.
+  I heard there was an accident in the basement lab.
+  It's no wonder, those researchers never rest, even at night. 
+
+  May 12th 1998
+  I've been wearing this annoying space suit since yesterday. My skin 
+grows musty and feels very itchy.
+  By way or revenge, I didn't feel those dogs today. 
+  Now I feel better. 
+
+  May 13th 1998
+  I went to the medical room because my back is all swollen and feels 
+itchy. They put a big bandage on my back and the doctor told me I did 
+not need to wear the space suit any more. 
+  I guess I can sleep well tonight.
+
+  May 14th 1998
+  When I woke up this morning, I found another blister on my foot. It 
+was annoying and I ended up dragging my foot as I went to the dogs pen. 
+They have been quiet since morning, which is unusual. I found that some 
+of them escaped. 
+  I'll be in real trouble if some of the higher-ups find out.
+
+  May 15th 1998
+  Even though I didn't feel well, I decided to go see Nancy. It's my 
+first day off in a long time. But I was stopped by the guard on the way 
+out. They say the company has ordered that no one leave the grounds. I 
+can't even make a phone call. What kind of joke is this ?!
+
+  May 16th 1998
+  I heard a researcher who tried to escape from this mansion was shot 
+last night.
+  My entire body feels burning and itchy at night.
+  When I was scratching the swelling on my arms, a lump of rotten flesh 
+dropped off.
+  What the hell is happening to me ?
+
+  May 19th 1998
+  Fever gone but itchy.
+  Hungry and eat doggy food.
+
+  Itchy
+  Tasty.
+
+--------------------
+  RESEARCHER'S WILL 
+--------------------
+  My dear Alma,
+  The fact that you have received this letter is both a joy and sadness 
+for me.
+  I could not even talk to you because of that guy in the sunglasses. 
+Alma, be calm and read this.
+  I think I've told you that I moved to pharmaceutical company's lab. 
+They headhunted me.
+  Last month, there was an accident in the lab and the virus we were 
+studying escaped.
+  All my colleagues who were infected by the virus are dead. To be 
+accurate, they've become living dead.
+  They still wander around. Some of them are knocking on my room door 
+desperately right now. But there's no sign of intelligence in their 
+eyes.
+  That cursed virus takes away all humanity from the human brain. Love, 
+Joy, sorrow, fear, humor,... eternally.
+  And Alma, even the memories of the days I spent with you...
+  Yes, I'm infected.
+  I did everything I could, but I could only delay the progress by a few 
+days.
+  The most frightening thing is, that I forget more about you by the 
+day. So I chose a peaceful death, rather than become the living dead. 
+Withing an hour, I will have entered my eternal sleep. I do hope you'll 
+understand my decision...
+  Goodbye and Forever Yours,
+                                 Martin Crackhorn
+
+-------------------
+  PLANT 42 REPORT 
+-------------------
+  4 days have passed since the accident and the plant at point 42 is 
+growing amazingly fast.
+  It has been effected by the T-virus differently than other plants have 
+been and shows unique shape in addition to its size. Looking at the way 
+it behaves, it is now difficult to determine what kind of plant it was 
+originally. 
+  There are two ways in which Plant 42 gathers nutrition. The first is 
+through its root that reaches into the basement. Immediately after the 
+accident, a scientist went mad and broke the water tank in the basement. 
+Now the basement is filled with water. It is easily imaginable that some 
+chemical elements were blended in the water and promotes the incredibly 
+fast growth of Plant 42. 
+  Another part of Plant 42 from the basement grows through the duct and 
+hangs down like so many bulbs from the ceiling of the first floor. Many 
+vines come out of those bulbs and they are the second resource for its 
+nutrition. 
+  Once sensing movement, Plant 42 shoots its vines around the prey and 
+holds it. Then it starts sucking up blood, using the suckers located at 
+the back of its vine.
+  It also has some intelligence. It blocks the door by twinning its 
+vines around it especially when it captures prey or is sleeping. Several 
+staff members have already fallen victim to this. 
+                            May 21st 1998
+                            Henry Sarton
+
+-------------------
+  "V-JOLT" REPORT  
+-------------------
+  As I started in the last report, there are some common features found 
+in the cells of the plant infected by the Tyrant virus. We also have 
+found another interesting fact through some experiments. 
+  We found an element that destroys these rapidly in "UMB No.16", one of 
+the series of UMB chemicals that we used for that experiment. We named 
+this "UMB No.16" as "V-Jolt". 
+  In our calculation it will take less than 5 seconds to destroy Plant 
+42 if we put the "V-jolt" directly on the root. 
+  You need to mix some of the UMB series chemicals in a specific order 
+to create a "V-Jolt". But the UMB series chemicals may generate a 
+poisonous gas which is harmful to the human body. Extreme caution should 
+be taken when handling these chemicals. 
+  Following are the types of UMB series chemicals and their brief 
+characteristics. 
+    UMB No.2  Red               NP-003   Purple
+    UMB No.4  Green             Yellow-6 Yellow
+    UMB No.7  White
+    UMB No.13 Blue (stimulating smell)  
+    V-JOLT (UMB.No 16) Brown
+
+---------------
+  PASS NUMBER
+---------------
+ 8108310
+
+----------
+  ORDERS
+----------
+  TOP SECRET July 22nd 1998 2:13
+  To the Head of the Security Department
+  "X-Day" is approaching. Complete the following orders within the week.
+1. Lure members of S.T.A.R.S. into the lab and have them fight with the 
+   B.O.W. in order to obtain data of actual battles. 
+2. Collect two embryos per B.O.W. type making sure to include all 
+species     
+   except for Tyrant.
+3. Destroy the Arklay lab including all researchers and lab animals in a
+   manner which will seem accidental.
+                                     White Umbrella
+
+-------------
+  SCRAPBOOK
+-------------
+                    Raccoon Times May 27th 1998
+  Animal Attack ? Woman Mutilated
+  May 20th. At around 10pm a 20-year-old young woman's body was found by 
+a baser-by on the left bank of Marble River in the Older District of 
+Raccoon City. 
+  Raccoon police assume it to be a grizzly or other animal's doing 
+because there are teeth marks along her mutilated arms and left foot 
+that show considerable power. Since she was wearing a hiking boot on her 
+remaining foot, it has been determined that she was attacked in the 
+Arklay Mountains and fell into the river. They are hurrying to identify 
+this woman. 
+
+                    Raccoon Weekly June 16th 1998
+  Monsters In Arklay Mountains ?
+  Some people claim they've seen monsters in the Arklay Mountains. The 
+monsters are supposedly about the same size as large dogs and usually 
+run in a pack as wolves do.
+  This may sound like a group of ordinary wild dogs, but these monsters 
+are surprisingly fierce and hard to hurt. 
+  They say these dogs won't bother you unless you wake them, so you 
+smart readers should stay out of the Arklay Mountains for the time 
+being. But if you're looking for adventure, check it out ! You wanna try 
+?
+
+                            Raccoon Times
+  Mystery On Arklay Mountains ! Mountain Road Blocked
+  Due to excessive disasters in the Arklay Mountains, the city 
+authorities have decided to block the road leading to the foothills.
+  At the same time, Raccoon police intend to begin the search for lost 
+people with the help of S.T.A.R.S. Team members. They expect great 
+difficulty because of the vast size of the Arklay Mountains and the 
+primeval forest that covers most of the area. Also people are still 
+reporting sightings of grotesque monsters in the mountains.
+
+-----------------------
+  RESEARCHER'S LETTER 
+-----------------------
+  June 8th 1998
+  Dear Ada,
+  Ada, by the time you read this. I'll be something... different. Today's 
+test turned out to be positive, just as I expected. I feel like going 
+crazy when I think about becoming one of them.
+  Ada, you are not infected and I hope you never will be. In case you 
+are the last one left, take the material in the Visual Data Room and go 
+to the Power Room to operate the Triggering System before you escape. 
+And make all this public through the media. 
+  If everything is in order, all the locks can be opened by the security 
+system. You can access the system if you log in with my name from the 
+terminal in the small lab and enter the password. The password is your 
+name. To unlock the door at B2 where the Visual Data Room is located, 
+you'll need to access with our name first and then enter another 
+password. 
+  I've written the code below. I'm sure you'll understand it easily. And 
+this is my last hope - if you find me completely changed, please kill me 
+yourself.
+  Password : 
+ 
+       #     #    #    #     #     #
+       ##   ##   # #   ##    ##   ##
+       # # # #  #   #  # #   # # # #
+       #  #  #   # #   #  #  #  #  #
+       # # # #    #    #     #     #  
+       ##   ##   # #   #     #     #
+       #     #  #   #  #     #     #
+
+                                  Yours, John
+-------
+  FAX
+-------
+  To : General Manager of Sanitation Division
+  From : Special Committee on Disasters Raccoon Special Research Dept
+  This memorandum is strictly confidential and must be destroyed as soon 
+as it is understood.
+  Regarding the "T-virus" outbreak which occurred recently, this 
+Committee conducted a field survey. According to the results, estimates 
+on the amount of damage caused by the accident are considerably greater 
+than reported earlier. 
+  First, although it is very difficulty to obtain accurate data in terms 
+of actual numbers, it is thought that more than half of the researchers 
+died after exposure to the "T-virus". The body count will almost likely 
+increase since nearly all of the survivors show symptoms peculiar to the 
+"T-virus". Second, our security system is still in operation. However, 
+our special security guard squad has been nearly destroyed. Because of 
+that, research information considered by our company to be top secret 
+has been made available to outsiders. Counter-measures should be taken 
+as soon as possible.
+  Finally, many of the "subjects" from the experiments have escaped and 
+are out of control. We believe that some of the researchers were killed 
+by these "subjects" and their bodies were mutilated. 
+  By a curious coincidence, these events are proof of the success of our 
+research. However, there is also a very high risk that his news may be 
+leaked to the press if we don't act immediately.
+  The condition is very serious. Our operation to cover-up the situation 
+is difficult to attain, however we hope the problem will be solved 
+quickly.
+  We are especially concerned that the State Police and S.T.A.R.S. are 
+intervening too quickly.
+  We need to act on this situation as well.
+
+------------------
+  PASS CODE NO.1  
+------------------
+  "I swear by myself", declares the Lord, "that because you have done 
+this and have not withheld your son, your only son,
+  (Genesis 22:16)
+
+------------------
+  PASS CODE NO.2  
+------------------
+  I will surely bless you and make your descendant as numerous as the 
+stars in the sky, and as the sand on the seashore.
+  Your descendants will take possession of the cities of their enemies,
+  (Genesis 22:17)
+
+------------------
+  PASS CODE NO.3    
+------------------
+  and through your offspring all nations on earth will be blessed, 
+because you have obeyed me."
+  (Genesis 22:18)
+
+-------------------------
+  SECURITY SYSTEM MANUAL
+-------------------------
+                          Basement Level 1
+  Helicopter Port
+  Executive and Government Officials only on helicopter port. This 
+restriction may not apply in case of an accident. 
+
+  Passage To The Helicopter
+  No one is allowed to enter unless they are attended by a Research 
+Consultant or Security Director. 
+  All others will be shot on sight.
+
+  Elevator
+  The elevator stops during all emergencies.
+
+                         Basement Level 2
+  Visual Data Room
+  Visual Data Room is within the control of Special Research Division. 
+Keith Arving, the Room Manager, is designated to have jurisdiction over 
+room usage. 
+
+                         Basement Level 3
+  Prison
+  Sanitation Division controls the usage of the prison. Consultant 
+Researchers (E.Smith, S.Ross, A.Wesker) must be present if virus is 
+used. 
+
+  Triple Lock Door 
+  No one is allowed to enter unless he presents all pass code documents. 
+Pass code documents must be created on the specialized output machine by 
+the Chief Researcher of each block. 
+
+  Power Room
+  Only Headquarters Supervisors may enter. This restriction may not 
+apply in the Consultant Researcher has received special instructions. 
+
+  Pass-code Output Machine
+  No one is allowed to use the pass code output machine but the Chief 
+Researchers. 
+
+                          Basement Level 4
+  Top Secret
+  Regarding the progress of "Tyrant" after the use of T-virus...
+  (Remaining document is unreadable)
+
+----------
+  SLIDES  
+----------
+1. "Umbrella Bio-Organic Weapon Official Report"
+2. "MA-39 Cerberus"
+3. "FI-3 Neptune"
+4. "MA-121 Hunter"
+5. "T-002 Tyrant"
+6. (none)
+7. "Bio-Weapon Research Institute. R and D Staff"
+
+-------------------
+  BARRY'S PICTURE  
+-------------------
+  Something is written on the back of the picture.
+  "My dearest Moira and Poly.
+  I hope you will grow up to be strong and beautiful woman and help to 
+cheer up mother.
+  Your father will watching you all from heaven.
+                                        Dad"
+ 
+               
+***********************************************************************
+
+16/ S.E.C.R.E.T.S.
+
+***********************************************************************
+ - MAGNUM WITH UNLIMITED AMMO : Try to finish Advanced Mode and save
+all your partners.
+ - ROCKET LAUNCHER WITH UNLIMITED AMMO : Finish the game under 3 hours
+ - HIDDEN SCREEN : If you are good enough to finish the game under 1
+hour and save all your partners, you can see the different image of Jill 
+and Chris: Jill is going shopping. Chris is smiling at the scene of New 
+York.
+ - SPECIAL KEY : used to open the clothes room. Finish your game
+(Standard or Training) and save all your partners.
+ - JILL'S GAME : In the beginning, when you and Barry are checking the
+dining room. Let Jill go out. Then she will be forced to go in by
+Wesker. "Lost courage ? It's not like you, Jill !" - said Barry. Then
+check the grandfather's clock. The zombie in the next room will come to
+attack her. Barry finishes him up. Then return to Kenneth. If he loses
+his legs and has no clips, that means the cheat works. Enjoy the
+difference yourself.
+ - ADVANCED GAME : At the start screen, press and keep the right button
+until the Advance is highlight. Then you'll see this mode is easier
+than it must be.
+
+***********************************************************************
+
+17/ C O D E S 
+
+***********************************************************************
+
+ * FIRST NOTES :
+- These codes are from different sources. The author of this guide never 
+use codes to play games. So don't blame me of they don't work well. 
+
+     FUNCTION                                  CODES
+
+- Unlimited Health                             800C51AC 0060
+                                               800C867E 0060
+
+- All game time at the end is 00:00:00         800C867C 0000
+
+- Most Doors open                              800C86B4 BFDF
+                                               800C86B6CF7E
+
+- Play as Chris with Jill's voice & storyline  800C8668 0000
+
+- Play as Jill with Chris's voice & storyline  800C8668 0001
+
+- Turn Knife into Rocket Launcher              D00C8784 0001
+                                               800C8784 FF0A
+
+- Press L1+X to save anywhere                  D00CF844 0044
+                                               800C8456 0002
+                                               800343F2 2400
+                                               8003436E 2400
+
+- Unlimited Item in 1st position               800C8784 ????
+
+- Unlimited Item in 2nd position               800C8786 ????
+
+- Unlimited Item in 3rd position               800C8788 ????
+
+- Unlimited Item in 4th position               800C878A ????
+
+- Unlimited Item in 5th position               800C878C ????
+
+- Unlimited Item in 6th position               800C878E ????
+
+- Unlimited Item in 1st Chest                  800C8724 ????
+
+- Unlimited Item in 2nd Chest                  800C8726 ????
+
+- Unlimited Item in 3rd Chest                  800C8728 ????
+
+- Unlimited Item in 4th Chest                  800C872A ????
+
+- Unlimited Item in 5th Chest                  800C872C ????
+
+- Unlimited Item in 6th Chest                  800C872E ????
+
+- Unlimited Item in 7th Chest                  800C8730 ????
+
+- Unlimited Item in 8th Chest                  800C8732 ????
+
+- Unlimited Item in 9th Chest                  800C8734 ????
+
+- Unlimited Item in 10th Chest                 800C8736 ????
+
+- Unlimited Item in 11th Chest                 800C8738 ????
+
+- Unlimited Item in 12th Chest                 800C873A ????
+
+- Unlimited Item in 13th Chest                 800C873C ????
+
+- Unlimited Item in 14th Chest                 800C873E ????
+
+- Unlimited Item in 15th Chest                 800C8740 ????
+
+- Unlimited Item in 16th Chest                 800C8742 ????
+
+- Unlimited Item in 17th Chest                 800C8744 ????
+
+- Unlimited Item in 18th Chest                 800C8746 ????
+
+- Unlimited Item in 19th Chest                 800C8748 ????
+
+- Unlimited Item in 20th Chest                 800C874A ????
+
+- Unlimited Item in 21st Chest                 800C874C ????
+
+- Unlimited Item in 22nd Chest                 800C874E ????
+
+- Unlimited Item in 23rd Chest                 800C8750 ????
+
+- Unlimited Item in 24th Chest                 800C8752 ????
+
+- Unlimited Item in 25th Chest                 800C8754 ????
+
+- Unlimited Item in 26th Chest                 800C8756 ????
+
+- Unlimited Item in 27th Chest                 800C8758 ????
+
+- Unlimited Item in 28th Chest                 800C875A ????
+
+- Unlimited Item in 29th Chest                 800C875C ????
+
+- Unlimited Item in 30th Chest                 800C875E ????
+
+- Unlimited Item in 31st Chest                 800C8760 ????
+
+- Unlimited Item in 32nd Chest                 800C8762 ????
+
+- Unlimited Item in 33rd Chest                 800C8764 ????
+
+- Unlimited Item in 34th Chest                 800C8766 ????
+
+- Unlimited Item in 35th Chest                 800C8768 ????
+
+- Unlimited Item in 36th Chest                 800C876A ????
+
+- Unlimited Item in 37th Chest                 800C876C ????
+
+- Unlimited Item in 38th Chest                 800C876E ????
+
+- Unlimited Item in 39th Chest                 800C8770 ????
+
+- Unlimited Item in 40th Chest                 800C8772 ????
+
+- Item Slot 7 (Jill only)                      800C8790 ????
+
+- Item Slot 8 (Jill only)                      800C8792 ???? 
+
+- All Items in Chest - Set 1                   800C872A FF07
+                                               800C872C FF08
+                                               800C872E FF09
+                                               800C8730 FF3E
+                                               800C8732 FF13
+                                               800C8734 FF14
+                                               800C8736 FF15
+                                               800C8738 FF16
+                                               800C873A FF17
+                                               800C873C FF18
+                                               800C873E FF19
+                                               800C8740 FF1A
+
+- All Items in Chest                           800C8742 FF1B
+                                               800C8744 FF1C
+                                               800C8746 FF1D
+                                               800C8748 FF1E
+                                               800C874A FF1F
+                                               800C874C FF20
+                                               800C874E FF21 
+                                               800C8750 FF22
+                                               800C8752 FF23
+                                               800C8754 FF24
+                                               800C8756 FF25
+                                               800C8758 FF26
+                                               800C875A FF27
+                                               800C875C FF28
+                                               800C875E FF29 
+
+- All Items in Chest                           800C8760 FF2A
+                                               800C8762 FF2B
+                                               800C8764 FF2C
+                                               800C8766 FF2D
+                                               800C8768 FF2E
+                                               800C876A FF2F
+                                               800C876C FF30
+                                               800C876E FF31
+                                               800C8770 FF33
+                                               800C8772 FF34
+                                               800C8774 FF35
+                                               800C8776 FF36
+                                               800C8778 FF37
+                                               800C877A FF38
+                                               800C877C FF39
+
+- All Items in Chest - Set 4                   800C877E FF3A
+                                               800C8780 FF3B
+                                               800C8782 FF3C
+
+ * QUANTITY DIGITS TO ACCOMPANY ITEM & CHEST MODIFIER CODES
+
+- Delete Item                         0000
+
+- Knife                               0001                                         
+
+- Beretta Handgun                     6402
+
+- Shotgun                             6403
+
+- Colt Python (Dum dum rounds)        6404
+
+- Colt Python (Magnum Rounds)         6405
+
+- Flamethrower                        6406
+
+- Bazooka + Grenade Rounds            6407
+
+- Bazooka + Acid Rounds               6408
+
+- Bazooka + Flame Rounds              6409
+
+- Rocket Launcher                     640A
+
+- Clips                               640B
+
+- Shells                              640C
+
+- Dum Dum Rounds                      640D
+
+- Magnum Rounds                       640E
+
+- Fuel                                640F
+
+- Grenade Rounds                      6410
+
+- Acid Rounds                         6411
+
+- Flame Rounds                        6412
+
+- V-Jolt                              001B
+
+- Broken Shotgun                      001C
+
+- Square Crank                        001D
+
+- Hexagon Crank                       001E
+
+- Emblem                              001F
+
+- Gold Emblem                         0020
+
+- Blue Jewel                          0021
+
+- Red Jewel                           0022
+
+- Music Note                          0023
+
+- Wolf Medal                          0024
+
+- Eagle Medal                         0025
+
+- Chemical                            0026
+
+- Battery                             0027
+
+- MO Disk                             0028
+
+- Wind Crest                          0029
+
+- Flare                               002A
+
+- Slides                              002B
+
+- Moon Crest                          002C
+
+- Star Crest                          002D
+
+- Sun Crest                           002E
+
+- Ink Ribbon                          632F
+
+- Lighter                             0030
+
+- Lock Pick                           0031
+
+- Oil                                 0032
+
+- Sword Key                           0033
+
+- Armor Key                           0034
+
+- Shield Key                          0035
+
+- Helmet Key                          0036
+
+- P.Room Key                          0037
+
+- Special Key                         0038
+
+- Dormitory Key                       0039
+
+- Dormitory Key                       003A
+
+- C.Room Key                          003B
+
+- Master Key                          003C
+
+- Small Key                           003D
+
+- Red Book                            003E
+
+- Doom Book II                        003F
+
+- Doom Book I                         0040
+
+- First Aid Spray                     6441
+
+- Serum                               6442
+
+- Red Herb                            6443
+
+- Green Herb                          6444
+
+- Blue Herb                           6445
+
+- Blue + Red                          6446
+
+- Green + Green                       6447
+
+- Green + Blue                        6448
+
+- Green + Red + Blue                  6449
+
+- Green + Green + Green               644A
+
+- Green + Green + Red                 644B
+
+- Comm Radio                          004D
+
+- Pick Axe                            004C
+
+- Bottle of Water                     004E
+
+- "Eagle of East, Wolf of West" Book  004F
+
+- UMB No.2                            0015
+
+- UMB No.4                            0016
+
+- UMB No.7                            0017
+
+- UMB No.13                           0018
+
+- Yellow-6                            0019
+
+- NP-003                              001A                           
+                                                    
+
+***********************************************************************
+
+18/ M I S C E L L E N E O U S 
+
+***********************************************************************
+-----------------
+ QUICK STRATEGY
+-----------------
+  This guide is for expert players who want to make a record of time and 
+get the secret hidden screens. Let's begin.
+- Prepare for you a certain strategy before playing
+- Run as fast as you can whenever and wherever. 
+- Try to get all ammo on your way. Don't pass them because to return is 
+a waste of time. This work is not necessary in Training Mode.
+- Avoid any enemies you can.
+- You must know what you'll do and where you'll go next. To wander is 
+such a waste of time. 
+- When preparing, always arrange the orders of work which is fastest and 
+most convenient.
+- Don't read or collect any files. You can't believe how long it lasts.
+- Don't pick up any unnecessary items.  
+- Don't make any unnecessary work (such as making the V-Jolt)
+- Don't go to unnecessary place that has nothing to do. 
+- Always mix your herbs. Don't use in one except you really need it 
+badly.  
+
+***********************************************************************
+
+19/ T.H.E. T.R.U.E. S.T.O.R.Y. B.E.H.I.N.D. B.I.O.H.A.Z.A.R.D.
+
+***********************************************************************
+-------------------
+  WHO IS TREVOR ?
+-------------------
+  If you are a true fan of Resident Evil, maybe you have been ever 
+surprised about the mansion which has a lot of puzzles and mysteries we 
+players must solve in this game. Today I let you know a little info 
+about this special house.
+  George Trevor is the architect who designed this mansion for the 
+research. This note told about his mysterious disappearance. The owner 
+of the house is a strange guy named Spencer...
+
+------------------------
+  WHERE IS THIS BOOK ? 
+------------------------
+  Capcom-developer and publisher of this game released a book named "The 
+True Story Behind Biohazard" when the most original version of this game 
+was released. As a gift, this book is sold with Biohazard for Sega 
+Saturn with a limited number. 
+  But...Capcom soon removed this book at the last time because they 
+thought they revealed too much. 
+
+------------------------
+  CONTENTS OF THIS BOOK
+------------------------
+- Summary page
+- George Trevor's notes
+- Storyboard of Biohazard
+- Presentation of the characters
+- Biohazard, the beginning
+- An interview with the producer of the game "Biohazard".
+
+--------------------------------
+ INTRODUCTION OF TREVOR'S NOTES
+--------------------------------
+  Raccoon City
+  A city in the Western part of America. Within a deep forest on the 
+outskirts of this city there is a mansion, which seems strangely quiet.
+
+  November 13th 1967
+  A man was standing if front of the mansion. It was George Trevor, a 
+famous architect from New York, who had designed this place from 
+scratch. The owner of the mansion, Ozwell E. Spencer, had invited him 
+with all his family in order to thank him for the level of the 
+perfection in his work.
+  Overflowed with work, Trevor initially sent his wife Jessica and her 
+14 year old daughter Lisa before joining them later. Unfortunately, when 
+Trevor arrived on the spot, he didn't find his wife nor the child. 
+Trevor too would mysteriously disappear upon entering the mansion.
+  Where could they all have disappeared to then ?
+  The following comes from a small diary written while Trevor was in the 
+mansion. Spencer paid a fortune for this mansion. The construction alone 
+took 5 years of Trevor's life. Why did he devote so much time to it ? 
+And did Trevor already know that thirty years later other strange things 
+would happen in this mansion ? Personally I feel that this small diary 
+will be the key to understand all these mysteries. 
+
+-----------------
+  TREVOR'S NOTES 
+-----------------
+  November 13th 1967
+  After having finished my work and leaving New York I finally arrived 
+at the Mansion around 6.00pm. The hall is very spacious. The central 
+stairs leading to the second floor are also impressive. All these things 
+make me nostalgic all over again. 
+  Designing the plans of this place is the work I'm most proud of.
+  From the day I first showed the model to Ozwell E. Spencer in his 
+office, until the completion of the building, took me 5 years. Spencer's 
+orders were really difficulty and I had to call upon all of my energy 
+and ingenuity to realize it. 
+  At first sight no one would suspect anything to be out of the 
+ordinary. While turning to face me, Lord Spencer shakes the white hairs 
+from his shoulders.
+  He has an impressive stature, and at the first glance, one can feel 
+that he has a high level of self-confidence. He initially announces me 
+that my wife Jessica and my daughter returned to visit their aunt Emma, 
+who is ill, and then we lift our glasses and toast. We are only ones to 
+know about the numerous secrets contained within this building. Deeply 
+satisfied with the complicity, we taste the wine. 
+  The dining room is amazing. There is an incredible variety of food 
+laid out hammoniously on a large table in mahogany wood. When someone 
+would raise their eyes, they could see a statue of a goddess, in "Rodin" 
+style, on the second floor which seems to observe is with desire. But 
+despite all this splendor, the banquet can only be enjoyed by two guests 
+(Spencer and I). We only hear the quiet clicking noise of the clock 
+needles. Ahhh, if only Jessica and Lisa were there. 
+  According to Spencer, they arrived three days before me and 
+appreciated the house well. Lisa in particular benefited from the 
+Spencer's kindness and was able to use the piano among others. She 
+reportedly played the "Moonlight Sonata" of Beethoven (her specialty). 
+In this evening of full moon where the melody seemed to surpass the 
+satellite floating above the forest which surrounds the house, Spencer 
+had congratulated my wife for this superb moment. I imagine proudly that 
+their two faces had to illuminated with pleasure. 
+
+  November 14th 1967
+  Lord Spencer guided me around in the mansion. He opened the doors of 
+several rooms. Those rooms are decorated with the most marvelous at 
+pieces : painting of De Vinci, sculpture of Raphael...
+  In one of the rooms the eye of a stuffed beast has strangely sparkled, 
+and in another room armors of Middle Age Knights were aligned in good 
+order close to their captain.
+  All these art pieces were collected by Lord Spencer during past years 
+and he deserves well to be one of the richest man on earth.
+  "Do you like that ? I wish to use this residence as a seaside resort, 
+for a new company. I foresaw that, not only for the employees, but also 
+for the guests could use it."
+  His project is to design an international industrial medicine company. 
+He told me that its company would be called "Umbrella". But I wonder why 
+he hid as many things in his residence. He can say that he wants to make 
+a seaside resort but it's exaggerated. Even in the case his actions had 
+been led by his passion. 
+
+  November 18th 1967
+  My family hasn't come back yet. "Is aunt Emma that sick ?". I doubt 
+it. The telephone is not installed, which is not very convenient. I went 
+out to second floor terrace to clear my mind. Crows, perched on a rail, 
+looked at me and pushed strange croaking.
+  I had a dark intuition. I continuously have the strange impression of 
+being observed... I saw an astonishing thing, in a small court. It is a 
+ladder leading down into an underpass, which is masked by a 
+waterfall."It is not my work. When was this thing built then ?"
+
+  November 20th 1967
+  There is no trace of the shotgun my wife had offered Spencer for is 
+birthday. I'm smoking a cigarette in the room where a broken shotgun can 
+be found and estimate that it can fool people and pass for the original. 
+I wonder who exchanged Spencer's shotgun for this unusable shotgun and 
+why ?
+  Neither my wife nor my daughter have reappeared and I getting very 
+concerned. My rich employer informed me that my family and I couldn't 
+remain at the mansion any longer and when I suggested that I could join 
+them tomorrow, he laughed and said that it was useless to worry myself 
+like that.
+
+  November 21st 1967
+  Luggage was gathered and somebody led me into a large room, without 
+openings, on the first floor reserved for the receptions. As the Lord 
+hadn't arrived yet, I was observing the painting in company of a man in 
+a white blouse. He was one of the three unknown men on the courtyard. 
+  "Life is rich and short". On the painting, which were exposed on the 
+wall, time was represented by the life of a man, from his birth to his 
+death. 
+  "Your family died, now" -laughed the man while he was looking at me 
+styly. Time seemed to stop. What was he talking about ? At the same 
+moment I felt a terrible pain at the bottom of my neck, and I broke down 
+on the floor. 
+
+  November 24th 1967
+  How could he have become this kind of man ? What happened here ? And 
+what is the objective of this company called "Umbrella" ?
+  I was imprisoned in this room and time passed slowly. "The objective 
+is to keep all this as a secret, and since you are an unknown...". One 
+day, a man in a white blouse said this to me while bringing revolting 
+food.
+  What secret is more important than a human life ?
+  Lord Spencer and me are the two only ones to know the secrets of this 
+manor, and if I die, he will be the only holder of this knowledge. Is it 
+for that reason we have these creatures which prowl around the premises 
+of the Manor ? I cannot remain here and be eaten of worse. It is 
+necessary that I escape from here.
+  The question is to know if, since the beginning, I didn't quite simply 
+build my own prison. When I was creating this manor, and in accordance 
+with Lord Spencer's strange fascination for enigmas, I conceived a way 
+to escape for whoever would find himself imprisoned there. 
+  It would seem that Lord Spencer wants to test this mothod on me...
+  At this moment, one of the countless creatures which infest the floor 
+and the ceiling, fell from the ceiling onto my body. For an unknown 
+reason, it seemed to attract them. I jumped instinctively backwards and 
+while getting upright I trampled a great number of them. What are these 
+creatures ? Ants ? 
+
+  November 27th 1967
+  I finally succeeded to escape from this room. But nobody can exit from 
+the Manor on snap of a finger. You need the crests, the missing eye from 
+the Tiger's statue and the Gold Emblem. I can't occupy myself find 
+something else ! I have no time for this.
+
+  November 28th 1967
+  I can't find the words for it. A plant, absurdly gigantic, fills a 
+whole room. God could not have created such a thing.
+
+  November 30th 1967
+  It is impossible to get out. It is impossible to come out of the room. 
+A phantom laboratory, leading into a kind of underground cave without 
+visible exit. And finally, I found it :
+  One of the high-heeled shoes and the memory, that behind all it I will 
+find a passage. Jessica. Were my wife and my daughter subjected to the 
+same destiny as me ? No, I will escape at all cost, as they did before 
+me. 
+
+  December 5th 1967
+  My throat is dehydrated. I didn't eat for many days and I don't know 
+how much time I'll still resist. I am becoming insane.
+  Why ? Because I am like a rat, hopeless trying to escape from a 
+laboratory labyrinth. Does my fascination for the abnormal architect of 
+this residence was no reprehensible ? 
+
+  December 7th 1967
+  I am in a dark and wet underground secret conduit. And there, 
+suddenly, something monstrous opposite of me... I scrape my last match 
+with a trembling hand. A tombstone is here with my name engraved on it. 
+What kind of a psychopath would make a similar thing ?
+  "George Trevor" isn't me ? Spencer calculated since the beginning, 
+that I would come up to here to take my breath, and prepared my tomb. 
+Realizing, with success, to direct my attention away from each useful 
+way to escape. Jessica, please forgive me. Little time... It's the time 
+that remains me before joining you in paradise.
+                                George Trevor 
+    
+-------------------------
+  ORIGINAL BARRY BURTON 
+-------------------------
+  Oh yeah, all of you who have played this game know about an important 
+character named Barry Burton. In Resident Evil 1, the characters we know 
+are Chris Redfield, Jill Valentine, Barry Burton, Albert Wesker and some 
+other S.T.A.R.S. member. But do you know that Barry has another design 
+before him ? Chris and Jill weren't changed. But Jill's first supporter 
+is a giant guy named Gelzer. He was also a S.T.A.R.S. member who is 
+giant and "ugly". But later Capcom replaced this character by Barry 
+Burton we have already known. About the reason why... I don't know. In 
+addition to this, important characters in Resident Evil 1 also consisted 
+of Edward Dewey, the tall guy who is the pilot of Bravo Team appears in 
+the game. But in current versions, we don't see this guy. We only see 
+him in a few scenes of Resident Evil 0.       
+
+                 
+ ***********************************************************************
+
+20/ R.E.L.A.T.E.D. R.E.S.I.D.E.N.T. E.V.I.L.
+
+***********************************************************************
+===============
+ A. BIOHAZARD
+===============
+  Biohazard is the Japanese version which is almost like the later
+version but has no difficult. The game itself is the Training mode of
+Resident Evil Director's Cut which is easy to play.
+
+==================
+ B. RESIDENT EVIL
+==================
+  The later version which is written in English. Resident Evil has two
+mode : Original and Arrange. Original game is the same as Standard Mode
+of REDC. Arrange game is the same as Advance Mode. It was released for
+Sony Playstation and Sega Saturn. This game is considered as the
+greatest game in 1996 because of modern graphic and 3D images.
+
+==================================
+ C. RESIDENT EVIL FOR SEGA SATURN 
+==================================
+  The most complete version of Resident Evil was made for Sega Saturn. 
+This version has an added mini-game as Battle Mode. 
+  Hm... This battle game is almost the same as the one of Resident Evil 
+Code Veronica. You get it from a Saved file after beating up the game. 
+You go in a fixed map and kill monsters on your way by provided ammo. 
+Bring at least 2 healing items, then bring some powerful weapon, such as 
+the Shotgun to play. You'll run into some strong enemies such as Tyrant 
+and a Wesker zombie. Be careful !!!
+ 
+========================
+ D. RESIDENT EVIL BETA
+========================
+  Maybe this one is released before Resident Evil. It's almost the same
+but but some episodes are changed. This is the difference :
+
+   RESIDENT EVIL                              RESIDENT EVIL BETA
+-There's a typewriter in the         -There's no typewriter in the
+main hall.                           main hall. The camera angle is
+                                     different.
+
+-Kenneth's corpse appears in the     -Kenneth's corpse appears in the
+corridor behind the dining room.     red way in the blue room with a
+                                     living zombie(not lying). This
+                                     corpse looks like Barry but it's
+                                     really Kenneth.
+
+-The dining room has no zombies.     -The dining room has several
+                                     zombies. The camera angles are
+                                     different.
+
+-The zombie eating Kenneth in        -The zombie in the corridor behind
+the corridor behind the dining       the dining room is a white-shirt
+room wears a dark green coat.        Zombie.
+
+-The corridor behind the library     -The corridor behind the library
+has nothing.                         has something written on the wall
+                                     by blood.
+
+-The first time the huge snake       -The first time the huge snake
+appears in the room near             appears in the shed.
+Richard's corpse.
+
+-The corridor where there is the     -The corridor where there is the
+gallery, the wall has decoration.    gallery, the wall is white.
+
+-The angles when the first Hunter    -The angles when the first Hunter
+show the trees behind the shed.      show the white wall of the shed.
+
+  There are a lot of modifications in the beta version. Here I only
+tell you the clearliest episodes you can see. The other changes are
+about Items's positions and playing order.
+
+====================================================
+ E. RESIDENT EVIL DIRECTOR'S CUT DUAL SHOCK EDITION
+====================================================
+ The latest version which isn't different from Resident Evil Director's 
+Cut so much. The control is dual shock. The music and graphic are 
+scarier. And the rest...completely the same.
+
+
+***********************************************************************
+
+21/ O.T.H.E.R. S.T.U.F.F.S.
+
+***********************************************************************
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
+  MY OWN REVIEW ABOUT THIS GAME   \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  I'm a big fan of Resident Evil series. Now I want to share my opinion 
+about Resident Evil 1 - the first game of series with everyone. First, I 
+want to tell why I like this series. 
+  I didn't like games on investigation or exploring because they're 
+usually complex, hard and confusing that make me think. I hated, hated 
+them very much. But when I saw my friend playing Resident Evil 1 and 
+kept track of what he did, I felt something interesting in the game. 
+Later, I bought it and tried once. Oh, how exciting the game was ! the 
+graphic is lively, the characters were cool, the enemies were quite 
+good, etc that fascinated me. The puzzle were not so hard as I had ever 
+thought. It was not only real but funny as well. I thought that I had to 
+buy all this series. And I have done that until now. 
+
+  Gameplay 10/10
+  Funny, thrilling, exciting and new. These words are enough for me to 
+describe this game. I played it and I'm playing it. It still has a lot 
+of things I still don't feel boring and I want to play more. It still 
+keeps its own horror although the players have played very much, such as 
+me or my friends. 
+
+  Storyline 10/10
+  One of the simple reason's is that I like biology. Yeah, this is a 
+game whose content is about the long battle of biology, or we can call 
+"biohazard" as its Japanese name. The story is lively and real for the 
+current world, not like some stories of other games which are full of 
+useless fantasies and "dreams". 
+
+  Graphic 8/10 
+  Although its graphic wasn't so perfect, it was all right that time. 
+Resident Evil 1 deserved to be the great game of 1996 about graphic as 
+everyone supposed. Now it can't be compared with the later modern 
+Resident Evil but it is still remembered as the glorious birth of 
+series. 
+
+  Sounds 9/10 
+  It was the greatest sound system I has ever seen. Before it, I had 
+played a lot of games whose sounds are only made very badly simply that 
+I can't suffer. The sounds of feet, things, the cries of people and 
+conversation etc. They were the perfect sound at that time. 
+
+  Length 10/10 
+  A balance. The game is not so long but it's not so short, too. It is 
+long enough for the players to realize its attraction. The players would 
+be angry for the missing short game. But they are also boring for a long 
+game with useless episodes. This is a great point. 
+
+  Battle System 8/10
+  I hope it would be more various. This game is so simple about battle 
+system, even the later ones. My friends and I always complained :"These 
+police don't know martial arts !!!" 
+
+  Replayability 10/10
+  As I wrote, it always deserves to be replayed. Don't believe ? Just 
+try it if you are a new player. You will know there are more things you 
+can't guess after beating it only once.
+  
+  My conclusion is to buy... for a big fan like me. Or if you just want to 
+see what it is and beat it once, you can rent. But I affirm that this is 
+a good game, yeah... a good game ! 
+
+  Overall score : 8/10 (not an average)   
+  
+~~~~~~~~~~~~~~~~~~~~~~~\
+  RESIDENT EVIL GAMES   \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  NAME :  Resident Evil 
+ RELEASED DATE : 1996 - 1997
+ PLATFORM : Playstation, PC, Sega Saturn
+   This was the first Resident Evil of series. Its content is about the 
+incident in a mansion belonging Raccoon Forest. This involves the 
+Trevor's Note I wrote above. You take the role of either Chris Redfield 
+and Jill Valentine - two members STARS to explore the mansion. 
+
+ NAME : Resident Evil Director's Cut
+ RELEASED DATE : 1997-1998
+ PLATFORM : Playstation
+ It's almost the same as original Resident Evil with more modes and 
+features. 
+
+ NAME : Resident Evil Director's Cut Dual Shock Edition
+ RELEASED DATE : 1997-1998
+ PLATFORM : Playstation
+ It's almost the same as Resident Evil Director's Cut.
+
+ NAME : Resident Evil 2 
+ RELEASED DATE : 1998
+ PLATFORM : Playstation, Nintendo 64
+ It's about the accidental adventure of the rookie cop Leon Scott 
+Kennedy and Claire Redfield. Leon begins his first day of duty and 
+enters the city. Claire Redfield - a strange young lady enters the city 
+to search for her brother Chris Redfield - one of the survivors of the
+mansion incident and an important member of S.T.A.R.S. But both of them
+didn't know something terrible happening in Raccoon... 
+  They have an appointment at RPD Police Station where they thought it
+was safe...But...
+
+ NAME : Resident Evil 2 Dual Shock Edition
+ RELEASED DATE : 1998-1999
+ PLATFORM : Playstation, Dreamcast, PC
+ Its content is the same as Resident Evil 2. But it has a new mini-game 
+named Extreme Battle Mode which the two subordinate characters Chris 
+Redfield and Ada Wong can be played. 
+
+ NAME : Resident Evil 3 Nemesis
+ RELEASED DATE : 1999-2000
+ PLATFORM : Playstation, Dreamcast, PC. 
+ You take the main role of Jill Valentine to escape from Raccoon City 
+which is going be destroyed by Umbrella to wipe all the evidence about 
+the virus. She was one of the survivor of the mansion incident who knows 
+about this work. So Umbrella creates Nemesis to pursue her.
+
+ NAME : Resident Evil Gun Survivor
+ RELEASED DATE : 2000
+ PLATFORM : Playstation
+ You are a person who is injured by an accident. He forgets everything 
+about himself and tries to find the truth. In his journey, he is watched 
+by a guy of Umbrella named Vincent. Later the main character realizes 
+himself as Ark Thompson. He destroys an important facility of Umbrella 
+and escapes with Lott and Lily - the two children he meets on his way.
+
+ NAME : Resident Evil 0
+ RELEASE DATE : Early 2002
+ PLATFORM : GameCube
+   This game was released first for Gameboy. But now it has been redoing 
+with this new console. This scenario lets us know more about Rebecca 
+Champer - the support character in Resident Evil who rarely appears. You 
+also have a chance to know more about STARS and Umbrella in this game.  
+
+ NAME : Resident Evil Gaiden
+ RELEASE DATE : Fall 2002  
+ PLATFORM : Gameboy Color
+   This is a new scenario and also a chance for the Resident Evil fans 
+who like the character Barry Burton of the first Resident Evil. He would 
+be the main character of the game and start his adventure on a ship. 
+This is just a rumour. 
+
+ NAME : Resident Evil 4
+ RELEASE DATE : Early 2002
+ PLATFORM : Sony Playstation 2
+  Have you enjoyed enough Resident Evil Code Veronica ? And Resident 
+Evil 4 would give you the next answers of the Resident Evil story. There 
+are rumours that this game would be an impression of Capcom about 
+graphic and other systems. There are tons of stupid rumours about 
+characters. But I can't tell which is right. No more information is 
+received this time. I think this game is still so far.  
+
+~~~~~~~~~~~~~~~~~~~\  
+  WESKER'S REPORT   \~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   "Wesker's report" is the bonus DVD disc that will be released with
+Resident Evil Code Veronica X when it's sold. Some information said that 
+its original version was released for some months in Japan. And the 
+purpose which Capcom release this part might be to answer some unknown 
+questions about the game that the fans always wonder. I want to write 
+some parts of this report for you to know few about it :
+
+  "My name is Albert Wesker.
+   I aspired to become a leading researcher at Umbrella Inc. A
+pharmaceutical enterprise who covertly conduction Bio Organic Weapons,
+better known as B.O.W., for development. But at the leader development
+training ground situated in Raccoon city, I met a brilliant and
+talented researcher who decided to take a different path, William
+Birkin.
+   In time I shifted my position to S.T.A.R.S., a special force unit of
+the Raccoon Police Department. Umbrella, for crisis management reasons
+of their illegal Bio Organic Weapons development had many of its people
+working in the police department.
+   I became the leader of S.T.A.R.S. and conducted all sorts of
+intelligence activities for Umbrella. As I continued to serve I devised
+my own plans and waited for the right time moment to execute them.
+   Then at last, opportunity knocked.
+
+ - 1998 - July 24th -
+   The freak murder incidents had occurred in the forest near the
+mansion started it all. The mansion was Umbrella's secret BOW
+laboratory and it was clear that the indevelopment T-virus was the
+cause of the murder.
+   Initially, Umbrella instructed me secretively to keep S.T.A.R.S. to
+the mansion, dispose of them, then report the situation to headquarters
+so that their combat with the B.O.W. could be used for data analysis
+allowing Umbrella a comprehensive portrait of the B.O.W.'s combat
+abilities.
+   From the two S.T.A.R.S. teams I first pitched in the Bravo Team. As
+expected, the top elite of S.T.A.R.S. gave all they had and became
+useful sample data. Then following, I geared up the Alpha Team to
+"search and rescue" the lost Bravo Team. The members of Alpha Team also
+proved theor worth and as expected many died.
+   There was five survivors from the initial eleven S.T.A.R.S. members.
+From the Alpha team were Chris Redfield, Jill Valentine and Barry
+Burton. And from the Bravo Team were Rebecca Chambers and Enrico
+Marini.
+   It was time to begin executing my plans. In the midst of the whole
+affair I could take Umbrella's ultimate Bio-Organic Weapon, the Tyrant,
+and join forces with an opposing corporation of Umbrella. To buy into
+that opposing corporation I would need the actual combat data of the
+Tyrant.
+   The surviving privileged members of S.T.A.R.S. were just the perfect
+bait. I decided to have one of them play the Judas and draw them to the
+Tyrant.
+   That Judas was Barry.
+   Barry was the strong truth and justice kind and cherished his family
+more than anything. His type is easy to manipulate. I just took that
+most important thing away from him. My only miscalculation was the high
+potential of Chris and Jill. But with the family man Barry playing
+Judas the scheme went as planned.
+   Then the winds turn unexpectedly.
+   I had to eliminate Enrico who found out what was behind it all. I
+used Barry to get to him. After I successfully got rid of that nuisance
+I awaited the sample specimen that Barry would bring to me in the
+Tyrant room.
+   I injected the virus I obtained from Birkin in advance. If I made
+Umbrella believe I was dead, it made it far more convenient to sell
+myself to the opposing corporation. According to Birkin the virus had
+profound effects. It would put my body in a state of temporary "death".
+It would then bring me back to life with super human powers. Therefore
+I unleashed an awesome Tyrant from its slumber and let it attack me.
+  As my consciousness faded away I was certain that the whole scheme
+would end in success.
+  Never did I imagine that S.T.A.R.S. could slay the evil creation. I
+lost the Tyrant and the plan I devised which cost me my humanity ended
+in failure. Now anything and anyone who stood in my way would be
+terminated. It's been that way for a long time and it always will be.At
+all cost I had to make S.T.A.R.S. pay.
+
+ - September -
+   Two months had passed since the mansion incident. To regain
+everything I had lost in my new organization I joined hands with Ada
+Wong, a female agent who was also sent to spy on Umbrella.
+   I knew in my bones that the key developer was William Birkin, but
+what he didn't know was that Umbrella did not play games...with anyone.
+Eventually, Birkin would be assassinated, and the G-virus would be in
+the hands of Umbrella.
+   But the salvage team led by Hunk was ahead of us. By the time they
+got to Birkin, he'd already injected himself with the G-virus...he 
+became
+his own creation, and decimated them.
+   Soon after, the T-virus carried by rats spread throughout Raccoon
+city, and Umbrella faced its worst scenario.
+
+ - September 28th -
+   The good citizens became zombies, and the city had headed for its
+devastating fate. Humans were no match against zombies.
+   In the chaos, Umbrella Europe applied a new type B.O.W., called
+"Nemesis". The Nemesis would hunt down and destroy the surviving member
+of S.T.A.R.S., Jill. It became imperative that our organization would
+also obtain the Nemesis data.
+
+ - September 29th -
+   To cover up the whole affair, Umbrella jettisoned a Tyrant to take
+care of Leon and Claire, who were trying to unveil their secrets.
+   Then, a new revelation. Birkin used to hide the findings of his
+studies in his daughter Sherry's pendant. It was very possible that the
+G-virus was there. While Umbrella was busy with their cover up, we had
+to capture Sherry before they did. I sent Ada undercover to seek the
+location of Sherry. I, the "dead man" on the other hand, had to work in
+the shadows.
+   A spy's obligation and priority is in mission, to carry out the
+mission like a machine without any emotional interference.
+   But through her interaction and involvement with Leon Scott Kennedy,
+there had been an affection growing insider her.
+   My instincts sensed danger, something had to be done, quickly. My
+instincts did not disappoint me. Even though Ada almost had her hands
+on the G-virus, which Leon had acquired from Sherry, that affection of
+her drove her to her death. But she was still of some use. I had to
+save her life. My people hurried to retrieve the G-virus that Leon
+threw away. But Hunk, the only survivor of Umbrella's salvage team, was
+there before us.
+
+ - September 30th -
+   Our only option left was to bring back Birkin, the monster, as the
+sample specimen and have him finish Leon and Claire in order to obtain
+his combat data. Although Birkin lost the battle to Leon and Claire, we
+succeeded in gathering samples of the G-virus from his dead body.
+
+ - October 1st -
+   In the morning the government bombed Raccoon city in an attempt to
+stop for the viral outbreak. This was, of course, their feigned 
+reason...
+   Later, Claire left to Europe to find her lost brother Chris, and
+Leon joined forces with an underground anti-Umbrella organization.
+   Sherry is safe in our hands. I would never underestimate Birkin.
+   There's something about this little girl...
+
+* Source : Biohazardextreme.
+
+-----
+  But all of you know that it answers you some unknown questions that
+you always wonder. Let me give them in this short passage :
+
+- The survivors of the mansion incident were Chris Redfield, Jill
+Valentine, Barry Burton, Rebecca Champer and Brad Vickers.
+- Chris is the character who directly killed Tyrant.
+- Wesker was killed by Tyrant. But he had been infected the virus
+before that makes him alive.
+- Ada was saved by Wesker because he thought she's still useful for him. 
+She stole the G-virus for him. 
+- Sherry was caught by Wesker after Resident Evil 2 with the same 
+reason.
+- The official story of Resident Evil 2 is Leon A / Claire B.
+
+***********************************************************************
+
+22/ A.U.T.H.O.R.'S. L.A.S.T. W.O.R.D.S.
+
+***********************************************************************
+
+  Okay, I have finished my work about this FAQs. I hope this guide will
+help you to play the game better and have more fun. Guides are only
+necessary when you are really stuck. To tell you the truth, playing a
+game by yourself is better and funnier than playing completely with
+guides. The games will be quickly forgotten because you know it so much
+by the guides. That's my opinion. So I think everyone will sympathize
+if my guide is still simple. They are all my decisions. But you can have 
+ideas with my serious mistakes if I have. I thank you all of you about 
+that. Please see my other guides also at Gamefaqs.
+    There's one thing I want to tell you. Although I'm still a pupil who 
+have to go to school, I would try to have a time for checking your 
+emails about any problems in my guide. I have ever been a player who 
+needs others' helps and I have been disappointed when they didn't reply 
+my questions. So I understand how you think. Just contact me at my email 
+address anything you want. I'll try to answer your problems and won't 
+make you disappointed. But I won't answer any emails with bad purpose or 
+hate emails. It's just a waste of time. But I'm willing to serve anyone 
+who really need my help.
+  Those guides are frequently updated as this one. Thanks for reading 
+them ! Have a good time ! 
+                                     MYSTICCAT
+
+
+***********************************************************************
+
+23/ S.P.E.C.I.A.L. T.H.A.N.K.S.
+
+***********************************************************************
+
+  I send my special thanks to :
+
+- Http://www.survivhor.com - for info about beta version and "The True 
+Story Behind Biohazard". 
+ 
+- "The Horror is Alive" of resitez - for game shark codes 
+
+- Jeff "CjayC" Veasay - for posting this guide on website.
+
+- Http://www.psxcodez.com - for displaying this site.
+
+- Capcom - for creating this great game and giving me a change to make
+this FAQs.
+
+- This game "Resident Evil Director's Cut" - You can't be absent !
+
+- Berry Burton of GameFaqs message board - for info about related
+Resident Evil.
+
+- CVXFREAK of Gamefaqs message board - for info about Resident Evil for 
+Sega Saturn.
+
+- All the guys I know in Resident Evil message board - I have learnt a
+lot from you.
+
+- All readers who read and have ideas for this guide to be more perfect. 
+
+  Finally, thanks everyone for helping me to make this FAQs.
+
+-----------------------------------------------------------------------
+ Again, this FAQs is owned by
+            PHAN NGUYEN KHANH DAN "MYSTICCAT"
+
+  "Don't do bad things !"
+
+
+
+

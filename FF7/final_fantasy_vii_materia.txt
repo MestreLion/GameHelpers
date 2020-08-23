@@ -1,0 +1,314 @@
+All the Materia Final Fantasy 7  
+Auther:skultera@aol.com              
+Website:http://members.aol.com/skultera
+VERSION 3
+________________________________________________________________________________________________
+                        FINAL FANTASY 7 MATERIA GUIDE VERSION 3
+                        <><><><><><><><><><><><><><><><><><><><>                       
+                           PLUS AN ALL NEW WEAPON FAQ  
+                        <><><><><><><><><><><><><><><><><><><><>
+                          BY:skultera@AOL.COM  (a.k.a.fauk)
+                        <><><><><><><><><><><><><><><><><><><><>
+_________________________________________________________________________________________________
+  Hey everyone this is the revised version of the materia FAQ you all know and love.The reason I
+changed my screen name is because it lacked origonality.In this FAQ you can find out how to get
+all the materia.I've also added a new weapons FAQ for all of you who haven't beat them yet.For
+more FAQs and pics check out my webpage at (http://members.aol.com/skultera).Personaly I don't
+care what you do to this FAQ has long as you don't edit it in any way what so ever.If you have 
+questions feel free to e-mail me.If you use this in a webpage please send me a link and lastly
+and most important do not get frustrated it only makes losing worse and winning worse too.
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+THIS FAQ INCLUDES THE FOLLOWING
+1)Magic(green)materia
+2)Summon(red)materia
+3)Command(yellow)materia
+4)Support(blue)materia
+5)Independant(purple)materia
+6)Enemy Skills
+7)Hard to get materia
+**NEW**Weapons FAQ
+_________________________________________________________________________________________________
+1)THE GREEN MATERIA
+The most usful materia in the whole game.It is important to get all of this as you will be using
+these the most.
+
+ICE          LOCATION          AP TO NEXT LEVEL          MY NOTES ON IT  
+ice         almost any shop      2000                  useful on fire enemies
+ice2                            18000                  when you get this don't use it right away
+ice3                            35000                  only use on a powerful fire-based boss
+cost:600
+LIGHTNING    LOCATION           AP TO NEXT LEVEL         MY NOTES ON IT
+lightning   almost any shop       2000                  use on machanical enemies 
+lightning2                       18000                  only use when you have plenty of MP
+lightning3                       35000                  most of these become useless later
+cost:600
+RESTORE     LOCATION          AP TO NEXT LEVEL          MY NOTES ON IT
+cure        reactor no.1          2500                  heals about 500 HP
+cure2                            17000                  heals about 1000 HP
+regen                            25000                  regenerates health
+cure3                            40000                  good for about 2500 HP
+cost:750
+FIRE        LOCATION         AP TO NEXT LEVEL           MY NOTES ON IT
+fire      sect.7 shop           2000                    use on ice-based enemies
+fire2                          18000                    
+fire3                          35000                  
+cost:600
+POISON      LOCATION        AP TO NEXT LEVEL            MY NOTES ON IT
+bio        ShinraFloor67       5000                     poison those annoying enemies
+bio2                          20000                     for a slow but painful death
+bio3                          35000                     
+cost:1500
+EARTH      LOCATION         AP TO NEXT LEVEL            MY NOTES ON IT
+quake      shop in kalm        6000                     DO NOT use on skyborn enemies
+quake2                        22000              
+quake3                        40000
+cost:1500
+HEAL         LOCATION        AP TO NEXT LEVEL           MY NOTES ON IT
+poisona    shop in kalm        1200                     cures poison
+esuna                         52000                     cures unusual status
+resist                        60000                     resists bad status affects
+cost:1500
+REVIVE    LOCATION           AP TO NEXT LEVEL           MY NOTES
+life1     shop in junon        45000                    revives downed alli(like a pheonixdown)
+life2                          55000                    revives downed alli completly
+cost:3000
+SEAL       LOCATION          AP TO NEXT LEVEL           MY NOTES
+sleep     shop in junon        10000                    puts enemies to sleep
+silence                        20000                    silences enemies(they can't cast spells)
+cost:3000
+TRANSFORM   LOCATION         AP TO NEXT LEVEL           MY NOTES
+mini        mt.corel            8000                    cures or puts mini on an enemy
+toad                           24000                    cures or puts toad on an enemy
+cost:5000
+MYSTIFY    LOCATION          AP TO NEXT LEVEL           MY NOTES
+confu     shop in gongaga       12000                   confuses the enemy
+berserk                         25000                   puts enemy in berserk
+cost:6000
+TIME      LOCATION          AP TO NEXT LEVEL            MY NOTES
+haste     shop in gongaga       8000                    speeds up your team
+slow                           20000                    slows down the enemy
+stop                           42000                    completly stops opponent
+cost:6000
+GRAVITY  LOCATION           AP TO NEXT LEVEL            MY NOTES
+demi    cave of the gi         10000                    this spell is awesome
+demi2                          20000
+demi3                          40000
+cost:8000
+DESTRUCT  LOCATION          AP TO NEXT LEVEL           MY NOTES
+debarrier  shinra mansion       6000                   tears off opponents barrier
+despell                        10000                   acts like silence
+death                          45000                   can kill enemy in 1 shot
+cost:9000
+BARRIER   LOCATION          AP TO NEXT LEVEL           MY NOTES
+barrier   shop in rocket town   5000                   places protective barrier on alli
+m-barrier                      15000                   places a magic protecting barrier
+reflect                        30000                   reflects spells 4 times
+wall                           45000                   casts barrier and m-barrier
+cost:10000
+EXIT     LOCATION           AP TO NEXT LEVEL           MY NOTES
+escape   shop in rocket town    10000                  automatically escape from battle
+remove                          30000                  removes enemies
+cost:10000
+COMET     LOCATION          AP TO NEXT LEVEL           MY NOTES
+comet     forgotten city        12000                  makes a meteor smash on 1 opponent
+comet2                          60000                  meteors crash all over opponents
+cannot be bought
+FULLCURE  LOCATION          AP TO NEXT LEVEL           MY NOTES
+fullcure   cosmo canyon         100000                 fully cures 1 alli
+cannot be bought
+CONTAIN   LOCATION          AP TO NEXT LEVEL           MY NOTES
+freeze    mideel                5000                   a more powerful ice
+break                          10000                   an object crashes on opponent
+tornado                        15000                   a tornado comes to take enemies
+flare                          60000                   like fire
+cannot be bought
+ULTIMA   LOCATION           AP TO NEXT LEVEL           MY NOTES
+ultima    corel                 100000                 the best attack spell
+cannot be bought
+SHIELD   LOCATION          AP TO NEXT LEVEL            MY NOTES
+sheild   the crater            100000                  sheilds 1 alli
+cannot be bought
+_________________________________________________________________________________________________
+2)SUMMON MATERIA
+ The 2nd most important materia.The best magic in the whole game is located here.Knights of the 
+round.Summons cannot be bought.
+ NAME             ATTACK            LOCATION
+1)CHOCOMOG       deathblow          chocobo farm after talking to chocobo
+                 fatchocobo
+
+2)SHIVA          diamonddust         junon after saving priscilla
+
+3)IFRIT          hellfire            after jenova-birth on shinra cargo ship
+
+4)RAMUH          judgementbolt       inside chocobo racing room before the race
+
+5)TITAN          anger of the land   in destoyed shinra reactor in gongaga
+
+6)ODIN           gungelance          safe in shinra mansion (nibelheim)
+
+7)KJATA          elemantalattack     sleeping forest
+
+8)BAHAMUT        mega flare          after defeating red dragon in temple of the ancients
+
+9)ALEXANDER      holy attack         after defeating snow(great glacier)
+
+10)NEO BAHAMUT   giga flare          whirlwind maze
+
+11)LEVIATHON     water attack        after defeating godo in wutai
+
+12)PHEONIX       fire attack         fort condor
+
+13)HADES         4000 status affect  from the downed gelnika plane
+
+14)BAHAMUT ZERO  terra flare         from big blue huge materia in cosmo canyon
+
+15)TYPOON        sneeze attack       ancient forest
+
+16)KIGHTS OF THE ROUND ultimate end    north east island cave
+_________________________________________________________________________________________________
+
+3)COMMAND MATERIA
+Not the most important materia but a very useful bunch.You must you these if you want to get
+all the enemy skills.
+
+NAME                 COMMAND                LOCATION
+1)steal             steal                   midgar sewers after corneo
+                    mug
+
+2)sense             sense                   sector 6 playground after plate falls
+
+3)enemy skill       E.skill                 learn enemy skills
+
+4)throw             throw                    comes with yuffie
+                    coin
+
+5)manipulate        manip.                  comes with cait sith
+
+6)deathblow         D.blow                  road near gongaga
+
+7)morph             morph                   temple of the ancients
+
+8)double cut        2x-cut                  sunken gelnika 
+                    4x-cut
+
+9)X summon         W-summon                64,000 BP's at gold saucer battle arena
+
+10)slash all        slash all               ancient forest
+
+11)mime            mime                     cave south of wutai
+
+12)X-magic         X-magic                  the crater  
+
+13)X-item          X-item                   underneath midgar                       
+_________________________________________________________________________________________________
+4)SUPPORT MATERIA 
+ This materia is extremely useful.You can put all on any attack.
+
+NAME                        DESCRIPTION                      LOCATION
+1)all                       put all on magic                 begginer shop in midgar S.7
+2)elemental                 adds element to weapon           Shinra building floor 62
+3)added affect              adds status to weapon            cave of the gi
+4)MP absorb         absorbs MP when attached magic is cast    treasure chest in wutai shop
+5)HP absorb         absorbs HP when attached magic is cast    Wutai cat house
+6)added cut             attack when using attached orb        great glacier
+7)MP turbo            increases power of attack              whirlwind maze
+8)steal as well        steal when using attached orb         wutai mountains
+9)magic counter          counter with attached orb           chocobo racing gift
+10)final attack       cast attached orb when alli dies       special bout in battle square
+11)quadra magic      attached orb will be cast 4 times       cave south of wutai
+12)sneak attack    cast attached orb at beggining of battle   chocobo racing gift
+13)counter            counter with attached yellow orb       the crater
+_________________________________________________________________________________________________
+5)INDEPENDENT MATERIA
+
+NAME                      DESCRIPTION                        LOCATION
+1)cover                   protects other characters          aeris'garden
+2)chocobo lure            attracts chocobos                  chocobo farm
+3)long range attack       same attack strength               mythril mines
+4)counter                 counter attacks enemy              after materia keeper(mt.nibel)
+5)enemy lure              attracts more enemies              battle sqare
+6)speed plus              increases speed                    battle sqare
+7)MP plus                 increases max MP                   shop in cosmo canyon
+8)HP plus                 increases max HP                   shop in cosmo canyon
+9)luck plus               increases luck                     temple of the ancients
+10)magic plus             increases magic                    corral valley cave
+11)gil plus               increases gil at end of battle     wonder sqare
+12)pre-emp                increases rate of pre-emp attack   battle square
+13)exp.plus               increases exp.gained at end of bat|wonder square
+14)enemy away             decreases rate of battle           chocobo racing gift
+15)HP<-->MP               switches MP with HP                cave north of north corel
+16)mega all               "alls"every attack                 the crater
+17)underwater             20min.counter disapears at weapon  kalm traveler
+_________________________________________________________________________________________________
+6)ENEMY SKILLS
+
+NAME                     ENEMY                               LOCATION
+1)matra magic            custom sweeper                      outside midgar
+2)flame thrower          ark dragon                          mythril mines
+3)beta                   midgar zolom                        chocobo farm marsh
+4)frog song              touch me                            cosmo canyon jungle
+5)magic hammer           razor weed                          west continent
+6)death force            adamataimai                         west continent beach
+7)white wind             zemzelett                           condor area
+8)big guard              beach plug                          costa del sol beach
+9)laser                  death claw                          gold saucer prison
+10)dragon force          blue dragon                         gaea's cliff
+11)aqualung              jenova-life                         forgotten city
+12)tryne/trine           materia keeper                      mt.nibel
+13)magica breath         stilva                              gaea's cliff
+14)????                  jersey                              shinra mansion(nibelheim)
+15)goblin punch          goblin                              north east island
+16)L5 death              parasite                            the crater
+17)death sentence        GI specter                          cave of the GI
+18)death roulette        death claw                          the crater
+19)pandora's box         dragon zombie                       the crater
+20)shadow flare          ultima/ruby weapon                  the 3rd disk/the desert
+21)bad breath            malboro                             gaea's cliff
+22)angel's whisper       pollensalta                         the crater
+23)chocobuckle           chocobo                             use L4 suicide on a chocobo
+24)L4 suicide            mu                                  chocobo farm area
+_________________________________________________________________________________________________
+7)HARD TO GET MATERIA
+This is the area for the hard to get materia.You know the materia that is deeply hidden in this 
+game.
+
+1)CONTAIN-When Tifa leaves the party to take care of the sick Cloud,When you control Cid,find a
+little white chocobo.Give the chocobo a mimett green then rub behind his ear.
+
+2)ALEXANDER-In the Great glacier find the hot springs and dip your hands in it.Then go and
+find the snow woman and win the fight.
+
+3)KNIGHTS OF THE ROUND-You'll need to breed a gold chocobo first.Then go all the way north east
+till you find an island with a cave on it.
+
+4)UNDER WATER-Go to the under water reacter to fight the sunken ship.Morph it.You'll get the 
+guide book.Take it to the explorer in kalm.
+
+_________________________________________________________________________________________________
+
+**BONUS**WEAPON FAQ
+This is the part of the FAQ dedicated to killing those damn weapons that seem impossible.
+EMERALD WEAPON-Before even attempting to beat this one you must master KNIGHTS OF THE ROUND,
+FINAL ATTACK,W-SUMMON,2 MIMES,and PHEONIX.Take on this one before Ruby weapon.When you enter
+battle begin by setting up the defenses by casting haste,regen,and wall.DO NOT cast reflect.
+Have one person cast KNIGHTS OF THE ROUND twice with W-SUMMON.Then the other 2 keep miming the
+attack.Heal when nessicary.Emerald will die in a few turns.
+
+RUBY WEAPON-Before you enter battle kill 2 party members.YES I said kill them.This way Ruby will
+bury his arms right away.You can only damage him when his arms are buried.Using QUAD MAGIC
+cast BAHAMUT ZERO 4 times mime this over and over.DO NOT use KIGHTS OF ROUND or Ruby will
+counter with ULTIMA.Also do not use ULTIME Ruby is immune to it.When Ruby unbury's his claws use
+this time to heal up.Continue the strategy until he dies.
+
+_________________________________________________________________________________________________
+_______________________This FAQ is a copyright of skultera 1999__________________________________
+__________________Use of this FAQ without permission is prohibited_______________________________
+_________________________________________________________________________________________________
+
+
+
+
+
+
+   

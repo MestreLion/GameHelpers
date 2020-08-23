@@ -1,0 +1,689 @@
+                  DEFENDER OF THE CROWN       By Cinemaware
+
+
+
+                       REFERENCE CARD FOR THE ATARI ST
+
+LOADING INSTRUCTIONS
+Boot your ST with DEFENDER "REEL 1" in drive 1.  If you have a second drive 
+load it with DEFENDER "REEL 2".   Move the arrow cursor to the file  drawer 
+marked A and click the left mouse button twice.   Then double-click on  the 
+file marked "DOC.TOS".   Now,  just follow the on-screen directions.  NOTE:  
+DOC automatically sets up a RAM DISK for ease of play.  Machines with extra 
+memory will take longer loading the game.
+
+HOW TO PLAY
+Choose your character on the character selection screen by moving the sword 
+cursor to one of the four Saxons and pressing the left mouse button.
+
+When the game begins, choose your actions by moving the cursor to highlight 
+options  on  the  game menus.   Click the left mouse button  to  make  your 
+selection.   Note that the following main menu actions end your turn:  HOLD 
+JOUST,  GO RAIDING, BUY ARMY, END TURN, and attacking a territory.  You may 
+escape  from some options (like GO RAIDING) by clicking away from  the  map 
+when prompted to Select a Territory.
+
+To build your home army choose BUY ARMY from the main menu.   Then click on 
+soldiers,  knights,  catapults or castles.  (Clicking the right button will 
+allow you to buy 5 items at a time.)  To refund a purchase simply click  on 
+the word "cost" at the top of the menu.  Now you may exchange any items you 
+just purchased for gold.
+
+TOURNAMENTS
+You  need  at least five gold to host a jousting  tournament.   When  other 
+lords hold tournaments,  the code of chivalry requires you to  attend,  but 
+for  free.   (Your  first  joust  will  always be  with  the  host  of  the 
+tournament.)
+
+You  have  control in the joust when your opponent begins  charging  toward 
+you.   Aim  the tip of your lance at the center of the "x" in  his  shield.  
+When  you hear the clank of metal on metal,  you must IMMEDIATELY push  the 
+left mouse button.   If you don't push the button at the right item, or the 
+lance  isn't  lined up correctly you will miss,  and you risk  killing  his 
+horse!   (The  message following the joust should give you  valuable  clues 
+about your performance.)  Your opponent may also miss (especially if he has 
+a low joust rating), giving you another chance.
+NOTE:  You must have spare land to joust for territory!
+
+CONQUEST
+Your campaign army is represented on the map by the mounted  knight.   from 
+the SEEK CONQUEST menu,  select MOVE ARMY to capture hostile or  undefended 
+territories,  and to move through friendly ones.  (MOVE ARMY is the default 
+option  and need not be highlighted - just click on a territory.)  You  may 
+get Robin's help before attacking by  choosing SEE ROBIN, or by clicking on 
+Sherwood Forest on the map.
+
+To  transfer forces between your army and your territories select  TRANSFER 
+MEN.   The  arrow  at the top of the menu shows you the  direction  of  the 
+transfer.   To move men back into your campaign army click on the arrow  to 
+reverse its direction, and then repeat the transfer process.
+
+
+RAIDING
+Move  the  mouse left or right to move your character forward or  send  him 
+retreating back.   Click the left mouse button to attack and use the  right 
+button  to parry.   (A successful thrust will cause your opponent  to  jump 
+back.)  You want to thrust at your opponent when his sword is pointing  up;
+this is when he is most vulnerable.   Defend yourself by parrying and  keep 
+an eye on the strength bar at the bottom of the screen.  Escape to the left 
+if your strength is running low.   (To ask for Robin's help during a  raid, 
+select Sherwood Forest at the SELECT A TERRITORY prompt.)
+
+CATAPULTS
+You  must buy a catapult AND TRANSFER IT TO YOUR CAMPAIGN ARMY  before  you 
+can  attack a territory occupied by a castle.   To begin the  siege  simply 
+choose your ammunition.   But remember,  you must first knock a hole in the 
+wall  with  a BOULDER before you can fire DISEASE or GREEK  FIRE  into  the 
+castle.   Push  the left mouse button once to pull back the  catapult  arm.  
+(It  moves back automatically.)  Then push it again to fire.   The  farther 
+the arm is pulled back the farther the object will travel;  aim for the top 
+of the wall first,  then lower your aim to destroy it piece by  piece.   An 
+undamaged  castle nearly doubles the defending army's effectiveness in  the 
+battle following the siege.   The advantage decreases proportionately  with 
+each  hit  to the wall.   Launch GREEK FIRE and DISEASE over  the  wall  to 
+reduce the size of the defending garrison.   (Disease is more effective the 
+earlier  it is used in the siege.)  Select BEGIN BATTLE if you want to  end 
+the siege early.
+NOTE:   The  battle will begin automatically after 7 days.   To  completely 
+knock the wall down you must hit it with a boulder 7 times in a row.
+
+BATTLES
+Animated figures on the screen represent the armies.  Move the highlight to 
+change  tactics  during the battle.   (To retreat you  must  highlight  the 
+option  WILD  RETREAT  and  press the  left  mouse  button.)   Your  tactic 
+determines  how  both armies fight according to the strength  table  below.  
+For example,  you might choose OUTFLANK ENEMY if you think your  leadership 
+rating  is  higher  than your opponent's.   Knights  outlast  soldiers  and 
+provide an army's striking power - avoid losing them at all costs.
+NOTE:   The battle will proceed on its own but you may speed up the  action 
+by repeatedly clicking the left mouse button on a tactic.
+
+                    SOLDIERS    KNIGHTS    CATAPULTS
+                    --------    -------    ---------
+Stand and fight        1           6           0
+Knights charge         1           8           0
+Outflank enemy *       1           6           0
+Catapult barrage       1           6          16
+
+* Outflank doubles the effect of leadership.
+
+* Leadership can turn the tide of the battle.  A strong leader increases an 
+army's effectiveness while a weak leader has no effect.   You can  increase 
+your chances in battle by jousting to improve your leadership rating.
+
+*  Raiding in a good way to weaken a stronger opponent,  especially in  the 
+later  stages of a game.   Try to steal his gold with  a  raid--immediately 
+after he attacks you.
+
+
+
+
+                            QUESTIONS & ANSWERS
+
+
+
+HOW IMPORTANT ARE THE CHARACTER RATINGS?
+To win the game you must know your opponents,  and that means knowing their 
+ratings.  One of your first actions in each game should be to use the  READ 
+MAP option from the SEEK CONQUEST menu.   Look at the opposing lords'  home 
+territories and look at their ratings.   BE WARNED,  the SPY option  yields 
+valuable  information but it isn't cheap.   Be sure to use it sparingly  or 
+you may find your coffers empty.
+
+HOW CAN I PRACTICE JOUSTING AND SWORDFIGHTING?
+To  learn how to joust,  choose Wolfric as your character and spend a  game 
+holding tournaments.   To practice swordfighting, choose Geoffrey and spend 
+a game raiding castles.
+
+CAN I WIN THE GAME IF I ATTACK OTHER SAXONS?
+Many strategies can lead to victory,  and a strategy that works in one game 
+may not work in another.   Observe the ebb and flow of battle in each  game 
+and set your strategy accordingly.   Remember, the Saxons are a nervous lot 
+and some games may require an alliance by force of arms.
+
+IF ALL THE NORMANS ARE DEFEATED IS THE GAME OVER?
+If Saxons have captured all the Norman castles,  the game isn't quite over.  
+To win,  you must attack and capture all three Norman castles, even if they 
+are being held by Saxons.
+
+DO YOU HAVE ANY TIPS FOR WINNING THE JOUST?
+Try moving the lance in a circular motion and be sure to keep it in motion.  
+The important thing to remember though,  is to push your button as soon  as 
+you hear the CLANK.
+
+
+
+IT IS A TIME OF LEGENDS.  A time for heroes.  A time of bitter strife, when 
+great  men  rise above their peers to perform great deeds.   A  chapter  of 
+history is in the making.
+
+Your liege the king is dead, the throne vacant.  Britain enters a season of 
+destruction,  a  winter  of killing that can end only when the  last  brave 
+Saxon  knight  lies  dead or the castles of the Normans  lie  in  heaps  of 
+rubble, emptied of the foul oppressors who have enslaved your people.
+
+It  is a time when foreign invaders shall learn truths administered by  the 
+shining  blades of Saxon swords.   It is a time when heroes are  made,  and 
+legends are born.
+
+                                  THE MAP
+
+THE  CASTLES  -  Six great lords will vie for  the  throne;  their  castles 
+dominate the island nation.   In the south are the three Norman castles, to 
+the  north  are the homes of the three Saxons.   If a Saxon  lord  captures 
+every one of the Norman fortresses, he will win the throne.
+
+READING THE MAP - Your advisors will decipher the map for you.  Indicate to 
+them what interests you -- they know the value of the lands that lie before 
+you, and can estimate three strengths and weaknesses of your enemies.   Pay 
+careful  attention  to their words.   The knowledge can  help  you  achieve 
+success.
+
+ARMY BUILDING - What portion of your treasury will you devote to  conquest?  
+How much will you spend on defense?   Knights dominate the field of battle, 
+but  only  catapults  will reduce the massive walls  of  a  Norman  castle.  
+remember the defense of your castle -- mounted knights are useless atop the 
+battlements.  You need stout men-at-arms, and the more the better.
+
+The  army  you  build here defends you castle  when  you're  at  home,  and 
+spearheads  campaigns of conquest.   When your army is on  the  march,  the 
+ranks will be bolstered by vassals from the lands in your  possession,  but 
+the  vassals are too far away to be called upon when your castle  is  under 
+attack.
+
+BUILDING  NEW  CASTLES  -  After  successful  campaigns,  income  from  new 
+dominions fills your treasury, but the burden of defense will be greater as 
+well.   Build castles to defend your lands.   Without castles to stop them, 
+invaders  will sweep through your territories before you  can  respond.   A 
+line  of imposing castles along your borders will make a potential  invader 
+think twice before entering your domain.
+
+                               "SAGE ADVICE"
+
+1.  Familiarize  yourself with your surroundings.   Select "Read Map"  from 
+the  menu.  Inspect  the territory around your castle,  then size  up  your 
+opponents.
+2.  Select "Build army" from  the menu.   Two columns show the cost of  men 
+and  weapons,  and  the  size of your home army.   Your home  army  is  the 
+garrison of your castle -- add knights,  men and catapults to this force as 
+your treasury allows.
+3.  Men-at-arms are the least expensive military commodity, and the core of 
+an army's strength,  valuable at home for defense or in fields of conquest.  
+Fighting  on horseback,  knights are useful mainly for attack --  they  can 
+splinter a defending army with a single terrifying charge.
+
+
+
+YOUR  INCOME  - Although you start with a modest income  from  your  feudal 
+estates,  one or two forays of conquest can exhaust the treasury.  Increase 
+your  income  by adding new lands to your domain --  some  territories  are 
+richer than others, but each one contributes wealth to the treasury.
+
+At first,  turmoil caused by the death of the king presents an  opportunity 
+to those who act quickly.   Throughout the land there is anarchy -- how can 
+sheriffs  collect taxes without the power of a king behind them?   None  of 
+the lands has an overlord,  and those surrounding your castle can be  taken 
+quite easily,  indeed.   Move too slowly,  and the other lords may grab the 
+lion's  share of the territories before you've passed through  your  castle 
+gates.
+
+-------------------------------HISTORY BREAK------------------------------
+
+                            THE NORMAN CONQUEST
+
+William  the Conqueror understood the art of medieval warfare and knew  the 
+importance of castles;  in fact,  he might not have been able to subdue the 
+Anglo-Saxons without superior weapons and tactics.   Englishmen could  rise 
+with great courage to meet a national emergency,  and in the dark months of 
+1066  they  fought two great battles in the north against  viking  invaders 
+before meeting William and his Normans at Hastings.
+
+William  defeated  the English at the end of a long  bloody  day,  his  men 
+fighting  on horseback with swords and lances against an enemy  that  still 
+fought on foot and favored the battle-axe.   But Saxons were slow to accept 
+defeat,  and rebellions led by Edgar the Aetheling and Edric the Wild upset 
+the Normans' plans.
+
+William set about building castles.  He constructed dozens of fortresses to 
+consolidate  his gains and provide bases for further  advance.   Again  the 
+Normans demonstrated superior skills erecting the powerful castles on well-
+chosen sites.   Towering above the landscape,  William's castles controlled 
+the  countryside  for  miles  around  with  their  mere  presence.    Saxon 
+resistance continued for many years,  but the Normans' hold on England  was 
+secure.
+--------------------------------------------------------------------------
+
+                                 CONQUEST
+
+THE  CAMPAIGN  ARMY  - In medieval Europe,  land was  held  by  vassals  in 
+exchange  for  military and other services given to  overlords.   When  you 
+venture  from your castle in search of conquest,  vassals from  your  lands 
+form the foundation of your campaign army.   Bolster the ranks by  shifting 
+men  and weapons from your home army,  but remember -- the careful  general 
+leaves  behind a strong garrison to protect his castle unless he  plans  to 
+stay close to home.
+
+What path will you take on the road to conquest?   Should you strike  early 
+at  the Normans,  or capture lands in the north and take time to  build  an 
+invincible  army?   The course of your campaign may take you through  Saxon 
+land,  Norman  Territory  or unoccupied areas,  but remember  --  if  enemy 
+territories lie across the path to your chosen destination,  you'll have to 
+capture them before continuing on your way.
+
+BATTLE AND SIEGES - Capturing undefended territory is easy, laying siege to 
+a  castle much costlier and far more difficult.   When you begin  a  siege, 
+remember  that boulders can reduce a castle wall,  but only Greek fire  and 
+disease  will reduce the numbers of the castle's  defenders.   Operating  a 
+
+
+catapult requires a steady hand and an eye for distances.   Ammunition  can 
+vary  in  weight,  and  a catapult setting that launched  a  great  boulder 
+directly  into  the castle wall may hurl a smaller stone over  the  highest 
+tower.
+
+
+-------------------------------HISTORY BREAK------------------------------
+
+                        FROM WARWOLF TO GREEK FIRE
+
+Castles were built to be impregnable,  and there are many examples of  tiny 
+garrisons holding out against large armies for months on end.   Capturing a 
+castle required a great deal of preparation,  including the construction of 
+great siege towers and stone-throwing engines to bombard the castle walls.
+
+The catapult,  or mangonel,  was probably the most common of these and  was 
+very much a standard feature of siege warfare.   The larger catapults could 
+hurl stones weighing up to 600 pounds.   The owners of giant siege  engines 
+were  fond  of giving them nicknames -- in 1304,  a  stone-throwing  device 
+known as Warwolf was used at the battle of Stirling.   Philip  Augustus,  a 
+warlord  who preyed on the luckless King John,  called his  favorite  siege 
+weapon Mal Voisin (which means Bad Neighbor).
+
+Ammunition  for catapults was by no means limited to  stone  balls.   Greek 
+fire was the secret weapon of the period -- thought to have been mixed from 
+ingredients like oil, pitch, resin, sulphur and quicklime, it started fires 
+that  could  not be extinguished with water  alone.   In  a  siege,  almost 
+anything  was  fair  game for hurling  over  a  castle's  walls,  including 
+diseased  meat.   Many an attacker loaded his  catapult with a dead  horse, 
+hoping the projectile would spread disease among the defenders.
+--------------------------------------------------------------------------
+
+TACTICS  - If you meet the enemy in the field,  keep tight control on  your 
+men  - issuing the correct orders at the proper time is the key to  success 
+as a general.  Attacking with ferocity is a gamble.  It can save a day that 
+appears  to be lost,  but it can also be the undoing of a great  army  that 
+might have won with a more conservative approach.   Also, know when to give 
+up the field.  Dishonor is preferable to the loss of your last knight.
+
+VASSALS  - Each territory in your domain contributes vassals to  your  army 
+when  you  begin a campaign.   They will fight with  valor,  but  can't  be 
+expected to stick around for extended campaigns.  Desertions begin to mount 
+as one battle follows another.   After you return home from a campaign, the 
+ranks  of  your  vassals -- depleted by combat and desertions  --  will  be 
+replenished over time.
+
+
+                               "SAGE ADVICE"
+
+1.   Any  castle  or  territory may be attacked,  Normans  or  Saxon.   The 
+reverse is also true -- you may be attacked by Saxons, even though they are 
+allies  in the fight against Norman rule.   Chivalry was a club,  and  some 
+lords did not belong.
+2.  Select "Seek Conquest" from the menu.  The two columns show the size of 
+your Home Army and Campaign Army.   If you have any vassals,  their numbers 
+appear  in the Campaign Army column.   Use this menu to  assign  additional 
+forces to the campaign.
+3.  Of  your three tactical  choices in combat,  "Ferocious Attack" is  the 
+greatest gamble.   It gives you a better chance of victory against stronger 
+opponents, but it also means far greater casualties among your ranks.
+
+
+
+THE  MEN  OF  SHERWOOD  - Embarking on  an  important  campaign  may  bring 
+Locksley's promise to mind.   He pledged his aid three times in your  quest 
+to  restore the Kingdom to Saxon rule.   If you wish to seek his help in  a 
+campaign,  go to Sherwood before marching on any territories.   The men  of 
+Sherwood will join your ranks and your army will be formidable, indeed.
+
+
+
+-------------------------------HISTORY BREAK------------------------------
+
+                         KING JOHN AND THE BARONS
+
+Trust and confidence between a king and his subjects were things greatly to 
+be desired.   King John had neither.   Of all the rulers of  England,  John 
+perhaps  best  deserved the humbling he received at  Runnymede,  where  the 
+English barons forced him to sign Magna Carta on June 15, 1215.  While they 
+held  London  during their revolt against King John,  the barons  needed  a 
+means  of keeping the forces opposed to John under arms while  they  waited 
+for help to arrive from France.  It wasn't long before someone came up with 
+the idea of holding a tournament.
+
+Not  only would a tournament keep the barons' men ready for the coming  war 
+with John,  but it could also figure in a secret message they were  sending 
+to their French conspirators.   In the carefully-worded letter,  the barons 
+urged  their  friends to attend a tournament near London and  bring  enough 
+horses and arms to insure "honor" on the field,  promising that the  knight 
+who carried the day would have the "bear" which a certain lady was  sending 
+to  the tournament.   The plan worked,  and in June,  the barons had  their 
+"bear."
+
+
+
+
+
+
+                              THE TOURNAMENT
+
+JOUSTING  FOR  LAND  - Knights often journeyed to tournaments in  hopes  of 
+gaining a settlement in land from a fallen opponent.  The joust can be used 
+as  a  means  of expanding your domain,  but if you  fail  to  choose  your 
+opponents with care, they may strip you of your most prized holdings.
+
+WINNING THE JOUST - The tournament is accompanied  by a much  fanfare,  and 
+novice knights can be carried away by the heady atmosphere of this  courtly 
+event.  Be  not deceived by the pageantry preceding the joust -- the  vital 
+instant before the combatants collide is the briefest of moments.  You have 
+no  more than a handful of precious seconds to steady your lance.   All  of 
+your  concentration  and skill must come together for that  moment.   In  a 
+joust there is no second chance.
+
+Know  also  that knights with highly-refined skills in the  tournament  are 
+extremely difficult to unseat.   Your aim must be precise - anything but  a 
+direct  blow  at  the center of the shield may fail to  knock  a  practiced 
+opponent from his saddle.
+
+
+
+
+
+                               "SAGE ADVICE"
+
+1.  Your character's skill in the joust can vary -- you will find it easier 
+to win jousting matches if your character has a higher rating.   Be wary of 
+risking valuable land with a character who is unskilled in the joust.
+2.   The other Saxon lords are,  in principle,  your allies.  This does not 
+mean, however, that they will treat you as a friend on the jousting field.
+3.   The  laws of chivalry forbid a knight from striking anything  but  the 
+shield  or  helmet of his opponent.   Aim your lance at a  horse,  and  the 
+tournament will be your last.
+
+
+-------------------------------HISTORY BREAK------------------------------
+
+Jousting  was  one  of the earliest knightly  sports.   Dangerous  for  the 
+participants and popular with spectators,  it usually marked the  beginning 
+or  end of a tournament.   Brutal incidents are common throughout the  700-
+year history of tournaments -- mock battles could turn into the real  thing 
+when tempers flared.   The year 1240 saw a particularly violent  tournament 
+near Cologne in which sixty knights and squires perished.
+
+Abhorred  by the church and banned by responsible monarchs like  Henry  II, 
+the  tournament  nevertheless  was an enjoyable pastime  for  nobility  and 
+became  the accepted training ground for war.   On more than one  occasion, 
+jousting became an integral part of a war.   His coffers depleted by a  war 
+with France,  Richard I held tournaments to raise money.   At the height of 
+the hundred Years War, Edward III invited the enemy to tournaments, issuing 
+guarantees  of safe conduct to any Frenchmen who would meet his knights  in 
+courtly combat.
+--------------------------------------------------------------------------
+
+
+
+                                  RAIDING
+
+NORMAN CASTLES - Most lords are proficient in the science of swordplay  and 
+they  train their castle guards very well.   If you elect to raid an  enemy 
+castle, be prepared for a fight.  Slipping over a castle wall without being 
+detected is easy enough in the dead of night,  but the heart of a castle -- 
+the keep -- is more difficult to penetrate.   When the alarm is raised  and 
+guards appear,  act quickly to force your way inside the keep.   Time is of 
+the essence, so waste not a moment.
+
+SWORDSMANSHIP  - The courtyard of the enemy's castle is not the best  place 
+to  learn the secrets of swordsmanship.   Lessons learned here are  learned 
+the hard way.   Keep two things in mind and you should live long enough  to 
+reap the benefits of experience:  first,  the moment to thrust is when your 
+opponent is off balance,  his sword in motion away from yours;  second, you 
+must  always  keep moving.   Keep your opponent off balance  and  he'll  be 
+unable to anticipate your blows.
+
+And one last piece of friendly advice.   It is best not to allow the eye to 
+wander  from the flashing blade of your opponent's sword -- not even for  a 
+moment.  No matter what catches your attention in the moonlit sky.
+
+
+
+                               "SAGE ADVICE"
+
+1.   It  is possible to strike once with your sword,  then strike again  so 
+quickly that your opponent may find it impossible to parry your blow. Learn 
+this trick, and you can use it to great advantage.
+2.   Try  "mixing it up" by jiggling your character back and forth --  this 
+technique can enhance your ability to keep an opponent off guard.
+3.  Like all movie heroes, you can keep fighting after you've been wounded.  
+But even heroes run out of steam sooner or later,  so remember that you can 
+always get out the same way you came in....
+
+
+LOCKSLEY  & THE FRIAR - Just as you did before campaigning,  you  may  seek 
+help in Sherwood Forest on your way to a night raid.   When asked to select 
+a castle for your destination,  first journey to the forest.  Friends abide 
+there, and they are renowned for their prowess with a well-forged blade.
+
+
+-------------------------------HISTORY BREAK------------------------------
+
+                              THE REAL ROBIN
+
+Was there a real Robin Hood?   People have been telling stories and singing 
+songs about the outlaw of Sherwood Forest since the 13th century.  Scholars 
+have  written  books  trying to pin him down as one  historical  figure  or 
+another.  But like all good legends, Robin refuses to be pinned down.
+
+Cambridge  history professor J.C.  Holt theorizes that if there was a  real 
+Robin,  he was probably Robert Hood,  a yorkshire outlaw mentioned in court 
+records of 1225.   Other historians have tied Robin to a "Robyn Hod"  named 
+in pipe rolls from the reign of Edward II.  Still other accounts would have 
+us  believe that he was Robert Fitz-Ooth,  the rightful Earl of  Huntingdon 
+who became an outlaw when unjustly deprived of his title.
+
+More  than  likely,  the truth is that all of these men --  and  others  -- 
+contributed  to the legend as we know it today.   Scholars like Holt  point 
+out  that the original stories about Robin lacked many of the trappings  we 
+associate with the legend.   In the first ballads he was indeed an  outlaw, 
+he  did live in Sherwood and he wore a suit of Lincoln green.   But as  the 
+stories  were  handed down,  the tellers magnified the tale by  adding  new 
+characters and the deeds of other men.
+
+History  records that a man named Friar Tuck led a band of outlaws  in  the 
+forests of Sussex and Surry between 1417 and 1429.   Storytellers  couldn't 
+pass  up  the  opportunity to include a stout friar in  their  tales  about 
+Robin.  Writers  invented much of Robin's story,  giving him  a  birthplace 
+(Locksley),  a  girlfriend (Maid Marian) and a worthy foe (the  Sheriff  of 
+Nottingham).   Perhaps in the 21st century, Robin will get married and have 
+kids.  Who knows?  It really doesn't matter if we can still enjoy the story 
+of our most cherished hero - the noble outlaw of Sherwood Forest.
+--------------------------------------------------------------------------
+
+
+                         ROBIN HOOD IN THE MOVIES
+
+DEFENDER  OF THE CROWN is a tribute to those magnificent Hollywood  costume 
+adventures  that  transport audiences to a world  of  dashing  heroes,  and 
+damsels in distress, where kingdoms fall at the drop of a drawbridge.
+
+Perhaps no character sums up this spirit of adventure than Robin Hood.
+
+
+
+Although five motion pictures about the outlaw of Sherwood Forest were made 
+before  1920,  the definitive Robin Hood for the silent era was  the  1922 
+production  of  "Robin Hood",  starring Douglas  Fairbanks.   His  athletic 
+prowess,  daredevil  stunts  and light hearted approach to  adventure  made 
+Fairbanks an audience favorite.   Prior to "Robin Hood",  he had starred in 
+"The Three Musketeers" and "The Mark of Zorro".
+
+"Robin  Hood" is one of the most lavish productions of  all  time,  costing 
+over $1,400,000,  a staggering sum for those days.   Its massive, elaborate 
+sets  included a full scale medieval castle!   The most memorable  sequence 
+features  Robin  breaking   into  Nottingham  castle,   dashing  along  the 
+battlements fighting off literally hundreds of armed men.   Trapped in  the 
+minstrels  gallery,  beset  on both sides,  he dives over the  balcony  and 
+slides down a huge curtain to freedom.
+
+Fairbanks surrounded himself with an excellent cast of  players,  including 
+Alan  Hale  as  the  burly  Little John in the  first  of  his  three  film 
+appearances as Robin Hood's lieutenant.
+
+1938  saw what is still hailed as the definitive Robin  Hood  film,  Warner 
+Brothers'  "The Adventures of Robin Hood",  starring swashbuckler  supreme, 
+Errol Flynn.   The studio pulled out all the stops and shot the film in the 
+3-color-negative Technicolor process.
+
+The  casting  was  nothing  short  of  inspired.    Dashing,   daring,  and 
+courageous, flynn would always be identified with the role..and justifiably 
+so.   As  Maid Marian,  Olivia De Havilland  was a perfect  counterpart  to 
+Flynn.   So  much  so that Warners subsequently teamed them up  in  several 
+other features.   Villainy was placed into the matchless hands of cinematic 
+rotters  Basil  Rathbone (Sir Guy of Gisbourne) and Claude  Raines  (Prince 
+John).  Melville Cooper played the Sheriff of Nottingham as a comic figure.
+
+Alan Hale made his second appearance as Little John,  the addition of sound 
+allowing  his roaring voice and bellowing laughter to add new dimension  to 
+his character.
+
+Rotund, gravel-voiced Eugene Pallette played Friar Tuck and Patrick Knowles 
+was Will Scarlett.
+
+The film featured Robin storming into a Norman castle to defy Prince  John; 
+the  bank of outlaws attacking a gold train;  the archery  tournament;  the 
+daring  rescue  of  Robin  from the gallows;  and  the  final  storming  of 
+Nottingham  castle by Robin's men and the newly returned King  Richard  the 
+Lionheart.
+
+"The  Adventures  of Robin Hood" is probably the finest  costume  adventure 
+that Hollywood has ever produced.
+
+Alan  Hale made his final appearance as Little John in "Rogues of  Sherwood 
+Forest" (1950),  probably the best of the 'Son of Robin Hood' films.  As is 
+true  of  the others,  the actor portraying Robin could make or  break  the 
+film.   Fortunately, John Derek's (25 years before Bo) hero of Sherwood was 
+a  worthy champion of the poor and oppressed and was more than  capable  in 
+the derring-do department.  Reportedly, he did most of his own stunts.
+
+1952 saw two Robin Hood related films hit the screen.   The first was  Walt 
+Disney's  "The Story of Robin Hood".   Shot entirely in  England,  disney's 
+live-action feature starred Richard Todd as Robin, Joan Rice as Maid Marian 
+and Peter Finch as the Sheriff of Nottingham.
+
+
+The  second was MGM's mega-production of Sir Walter Scott's classic  novel, 
+Ivanhoe.   Robert Taylor accepted the part of Sir Wilfred of Ivanhoe  after 
+Errol  Flynn  and Laurence Olivier turned it down.   He  acquitted  himself 
+nobly in one of the most colorful and complex costume dramas every filmed.
+
+Midway through the film,  Robin Hood aids Ivanhoe by leading his men in the 
+exiting  siege  of the Norman castle of Torquilstone.   The  Saxon  outlaws 
+swarm  out  of the forest and launch themselves against  the  sheer  castle 
+walls, darkening the sky with a rain of arrows.
+
+The  tremendous  box-office success of "Ivanhoe" set the  pattern  for  the 
+studio's  subsequent  'knights  of  old'  swashbucklers,  "Knights  of  the 
+Roundtable" (1955) and "The Adventures of Quentin Durward" (1955).
+
+In  1955  Robin received his first television exposure in the  series  "The 
+Adventures  of  Robin  Hood".   From 1955 through  1958,  the  denizens  of 
+Sherwood  battled  the oppression of Prince John and company for  165  half 
+hour episodes.   Richard Greene's Robin Hood was more mature than  Flynn's, 
+cheerful and resourceful,  rather than dashing and athletic.  He became the 
+Robin Hood for an entire generation of Baby Boomers.
+
+1960 saw Greene reprise his Robin Hood for the big screen in Hammer  Film's 
+"Sword of Sherwood Forest".
+
+Disney  released  a  new animated version of  "Robin  Hood"  in  1973.   It 
+featured animals as the characters.   Robin was a fox; Prince John a thumb-
+sucking Lion; and Little John a bear; etc.
+
+In  1976 Richard Lester directed a much different type of Robin Hood  film.  
+"Robin and Marian" explored the legend during the disillusioned,  declining 
+years of Robin and the other characters.
+
+Interest in Robin Hood is apparently undying and universal.   The  Showtime 
+Cable Network began broadcasting a new,  English produced television series 
+in 1984.   And,  although they have not been exported, a number of Japanese 
+films have been produced, featuring the Rogue of Sherwood.
+
+The  appeal  of  Robin Hood will remain a timeless joy to  those  who  love 
+adventure,  whether  revisiting  an  "old friend"  or  entering  the  magic 
+greenwood of Sherwood Forest for the first time.
+
+It is these last lucky ones who are to be envied.
+
+Read More About It...
+
+Baker, Timothy.  THE NORMANS.  New York: Macmillan, 1966.
+Brown, R.A.  ENGLISH CASTLES.  London: Batsford, 1976.
+Brown,  R. Allen, Michael Prestwich and Charles Coulson.  CASTLES A HISTORY 
+     AND GUIDE.  New York: Continum, 1981.
+Falkus,  Malcolm,  and John Gillingham (ed).   HISTORICAL ATLAS OF BRITAIN.
+     New York: Continum, 1981.
+Funcken,  Liliane and Fred.   THE AGE OF CHIVALRY (3 volumes).  New Jersey: 
+     Prentice-Hall, Inc., 1983.
+Hogg,  Ian.   THE HISTORY OF FORTIFICATION.   New York: St. Martin's Press, 
+     1981.
+Holt, J.C.  ROBIN HOOD.  London: Thames and Hudson, Ltd., 1982.
+Kenyon, J.P. (ed).  A DICTIONARY OF BRITISH HISTORY.  Stein and Day, 1983.
+Kighly,  Charles.   STRONGHOLDS OF THE REALM.   London:  Thames and Hudson, 
+     Ltd., 1979.
+Linklater, Eric.  THE CONQUEST OF ENGLAND.  New York: Doubleday, 1966.
+Oman,  Sir Charles.  A HISTORY OF THE ART OF WAR IN THE MIDDLE AGES AD 378-
+1515.  Ithica: Cornell University Press, 1960.
+
+
+
+                             DESIGNER'S NOTES
+
+MEDIEVAL  BRITAIN  was  a crucible of  heroes.   Our  most  famous  legends 
+originated  in  "merrie  olde  England,"  during  that  romantic  time   of 
+chivalrous  knights,  when  all the women must have looked  like  Elizabeth 
+taylor.  That  single period in history gave us King  Arthur,  William  the 
+Conqueror,  Richard the Lionhearted,  the fictitious knight Ivanhoe and, of 
+course, Robin Hood.
+
+The story of the noble outlaw who robs from the rich and gives to the  poor 
+is the best known legend in the English-speaking world.  A survey conducted 
+during the hero-starved 1970's showed that Robin is the second most  famous 
+figure of fact or fiction.   What name was above Robin's at the top of  the 
+list?  Jesus of Nazareth.
+
+So  in  February  1986,  on the soggy Pacific Northwest  morning  when  Bob 
+Jacob's voice on the telephone said,  "Let's do a compute game with knights 
+and  castles and jousting and damsels in distress,  "I  knew  instinctively 
+what he had in mind.  This would be a tale of heroes.
+
+To  bring  those  heroes to life,  we took great care  in  recreating  12th 
+century  England.   History  buffs will  note that none of the  knights  or 
+horses  wears armor,  and that the main character is lightly  protected  by 
+chain mail.   Knights began wearing pieces of plate armor to protect  parts 
+of the body around 1300 and full suits of armor didn't become common  until 
+the latter part of the century.
+
+The castles are authentic,  based upon scrutiny of the books listed  herein 
+as  well as first-hand experience.   As I marvel at Jim Sachs'  magnificent 
+Norman  castle  looming  out of my computer screen,  I compare  it  to  the 
+snapshot  I  took of the castle that served as the model  for  my  original 
+sketches of the scene.  And somehow, I find reality lacking.
+
+None of our drawings or imaginings would have amounted to much without  the 
+skills of an inventive programmer.   When R.J. Mical joined the project, he 
+brought  more than his consummate technical skills,  he brought  ideas  and 
+solutions.  He literally willed the Amiga version into existence.
+
+Finally,  we  dedicate this interactive movie to our wives:   our  ultimate 
+collaborators in life.
+
+                                                 Kellyn Beeck
+                                                 September, 1986  

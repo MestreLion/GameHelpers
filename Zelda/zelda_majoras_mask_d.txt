@@ -1,0 +1,2306 @@
+
+                         T H E    L E G E N D    O F
+
+            ::::::::: :::::::::: :::        :::::::::      :::
+                 :+:  :+:        :+:        :+:    :+:   :+: :+:
+                +:+   +:+        +:+        +:+    +:+  +:+   +:+
+               +#+    +#++:++#   +#+        +#+    +:+ +#++:++#++:
+              +#+     +#+        +#+        +#+    +#+ +#+     +#+
+             #+#      #+#        #+#        #+#    #+# #+#     #+#
+            ######### ########## ########## #########  ###     ###
+
+                          M A J O R A S    M A S K
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+                       Zelda: The Major FAQ/Walkthrough
+                  Version Final Was Submitted July 17, 2002
+                     By Matt Hulbert(mhulbert86@yahoo.com)
+            http://www.gamefaqs.com/features/recognition/4150.html
+
+(Note to CJayC: This is no longer a Co-Authored guide. MHulbert is now the sole
+ author of the FAQ. Please make this shown in the game page etc... Thanks.)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ ***** Copyright Information *****
+
+• This guide is the property of the author/owner Matt Hulbert. This guide is
+protected under International Copyright Laws, as well as the Berne Copyright
+act of 1976. Any questions regarding the disclaimer listed below should be sent
+to the author of this guide, along with any permission seeking messages.
+
+• This guide is for your personal and private use only. This guide may never be
+sold, or distributed in any other way (even for free). This guide may never be
+used on a web-site, magazine, newsletter, book, or any other type recreation.
+This guide is never to be used for any type of profitable cause, it is never to
+be shown in any restricted areas, nor is it to ever be used for anything
+against the law.
+
+• The information in this guide was all compiled or created by the author in a
+legal manor. The information in this guide may never be used in another guide,
+nor may pieces or smaller sections of this guide ever be called separate guides
+or placed in other guides. You may save this guide on your hard drive offline,
+but this does not make you exempt from any part of this disclaimer.
+
+• According to my contributor policy, anything that someone contributes becomes
+a part of this guide (which belongs to the author). All contributions are to be
+credited in the section "Contributor Credits" but the contributor does not own
+any part of this guide, or have any legal right to void this disclaimer. Things
+sent in by random contributors can be removed at their request, but this
+doesn't mean that ANYTHING sent in will be posted, all contributions are
+reviewed before they are posted, to make sure everything is in order etc.
+
+• According to Brad Templeton, plagiarism is not tried in a criminal court, but
+is a crime. Not being tried in criminal court means that you are NOT innocent
+until proven guilty because it's civil court. For more information on Copyright
+Myths and facts you can check his web-site.
+
+• Failure to comply in any of the categories mentioned in this disclaimer can
+result in legal action. Please do not take advantage of the free service being
+provided to you. All emails sent to the author should include that it is in
+regard to this disclaimer in the topic/subject of the email. If it is not, the
+email will be deleted on the spot, and the author is not responsible for
+non-complying emails. Just because you send an email requesting permission does
+not mean that you have it, you must actually RECEIVE a response giving the ok.
+
+
+
+
+*******************************************************************************
+                       T A B L E   O F   C O N T E N T S
+*******************************************************************************
+
+                          I. Story Explanation
+                         II. Basic Controls/Maneuvering Link
+                        III. Ocarina Songs
+                         IV. Item/Weapon List
+                          V. The Walkthrough
+                         VI. Characters/Monster
+                        VII. The Masks
+                       VIII. Contributor Credits
+                         IX. Authors Comments
+                          X. Final Thoughts
+                         --. Authors Information
+
+===============================================================================
+Chapter I: Story Explanation
+===============================================================================
+
+Well, the game starts out with an explanation of how Link began his new quest,
+in search of an old friend which he parted with after leaving the land that
+made him a legend. SO he is riding through the forest, and 2 fairies which were
+with Skull Kid swoop down and cause Epona to buck him off and makes him
+unconscious for a while. Now Skull Kid searches him and happened to find the
+Ocarina, so when Links notices Skull kid jumps on Epona and tries to escape.
+So, Link hangs on for dear life but is eventually knocked off, and is left in
+pursuit of Skull Kid who has his Ocarina and Epona...
+
+
+===============================================================================
+Chapter II: Basic Controls/Maneuvering Link
+===============================================================================
+
+Magic Energy: This is how much magic power you have. Whenever this gage is
+empty, you will no longer be able to use magic. Things like magic spin attacks
+and magic arrows all take a certain amount away from this meter.
+
+Rupees: These are how many rupees you have collected. A rupee is the form of
+money in the Zelda game series. There are rupees worth 1, 5, 20 and a couple
+other different kinds of lager, rarer ones.
+
+Health Meter: This is how much life energy you currently have. This can be
+expanded by collecting Heart containers, or simply refilled by drinking a
+potion or collecting heart pieces. When this meter runs out of little hearts,
+you are officially dead. Note, it will blink when you get really low.
+
+Clock Time: This is how many days and hours you have left to complete the task
+at hand. It will show up and warn you after the end of each day, so hurry up!
+
+Map of Area: This is nice, because I would be lost without it. This is just a
+map of the area that you are in, you should remember from the last game. Now
+you can also buy maps, but that is usually not needed.
+
+-----------------------------------------------------------------------------
+Section 2: Basic Controls & Maneuvering Link
+-----------------------------------------------------------------------------
+
+C Buttons: Use the three C Buttons, excluding Up C, to use the items that you
+           Have set for them. An item can be set by going to the equipment
+           Screen and then highlighting it ,then press the C Button you wish
+           For it to be set on, then un-pause the game and it Is there.
+
+Up C: This button can be used to change your viewing point or perspective, and
+      If you hold it down, you can use it to look all the way around you.
+
+A Button: The A button is the action icon button as it was in the last game. It
+          Is used to open doors, push and pull things, and other various
+          actions Throughout the game. The action will flash on the game screen
+          for you.
+
+B Button: The B button is also known as the attack button. Depending on which
+          of The characters it is that you are playing as, Link will do that
+          type Of attack, or draw his sword with a swing/slash motion.
+
+Analog Stick: This is your main movement feature. It is used to navigate
+              through All of the different menus, as well as control the
+              movement of Link, such as the direction he rides, flies or
+              runs/walks.
+
+R Button: The R button has the same feature it did in the last game, the
+          shield. By simply pressing this button you can draw your shield,
+          although he Does not lock onto the enemy like if you used the Z
+          targeting buttom.
+
+Z Button: The Z is one of the most important parts of the game. It is used to
+          Lock onto enemies and certain parts of enemies which are there only
+          Weak points, that would be incredibly hard to lock onto manually. It
+          Can be used to lock onto other things, such as distanced speakers.
+
+L Button: This button simply brings out or hides your map of the current area
+          That you are in, which is also viewable in the paused game menu.
+
+Start Button: Naturally this is used to pause the game. Pausing can be done at
+              Any time, except during cut scenes, it can also be used to skip
+              Through the opening introduction, or un-pause the game screen.
+
+Diving: When you are in water deep enough that Link is forced to swim, not
+stand, by pressing the A button you can make him dive. You have to hold the A
+button to make him stay down, and he only has so much air anyway.
+
+Vertical Sword Swing: Z + B will cause Link to use a larger and more powerful
+swinging attack with his sword, where he chops down, rather than coming across
+the enemy from the side, it may be a little harder to hit stuff, but stronger.
+
+Horizontal Sword Swing: By pressing the B button, you will cause Link to do the
+normal attack. He simply swings his sword outward away from him.
+
+Spin Attack: Complete turn with the joystick + B will cause Link to do a spin
+attack. He will cock back the blade behind him and then let it all out in one
+massive spin attack. Just he could in the first game, he can add magic to this.
+
+Stab Attack: Z + Up + B makes link do a stabbing attack. He will hold the blade
+out in front of him, and then jump and thrust it straight out at whatever you
+are trying to attack. This is not all that effective in all cases.
+
+Jump Attack: Z + A and Link will do a jumping attack much like the vertical
+attack, except he will have jumped at the enemy, and this does more damage.
+
+Back Flip: Z + Back + A makes Link do a back flip, which can actually be used
+to an advantage if you learn how. It can be used to escape situations, or to
+get things faster, rather than turning and collecting.
+
+Roll Attack: When you are running, press Up + A and Link will go into a roll
+and come up into an attack. This is a good things when you don't want to
+actually make contact until you are very close, or if you are trying to avoid
+something.
+
+Side Jump: TO make Link Jump to the side simply press Z + Left or Right + A.
+Now you will be able to sidestep things that are trying to shoot at you, as
+well as things rolling or anything you might have to evade.
+
+-------------------------------------------------------------------------------
+Section 2 Cont... Links Attacks
+-------------------------------------------------------------------------------
+
+In this section, the attacks are only for the certain characters that Link is
+forced to become, such as Deku Link. These are not the same for all of them.
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Deku Link:
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is the character you basically start out with, because you cannot play as
+Link before he is turned into this creature. Deku Link is actually a pretty
+fast runner, although he is short and many townspeople consider him a joke. He
+is very in danger around flames, because he is basically a plant, so be
+careful.
+
+His Attack:
+When you are playing as Deku Link, you have a pretty weak attack. Once you
+press A e ill jump shortly and do a very fast spin that is capable of breaking
+boxes and chopping plants, but is still not as good as a blade.
+
+Other Moves:
+
+Bubble: Link can shoot bubbles at his enemies if he is facing them from a
+distance. The longer you hold the B button, the larger the bubble will become.
+This is a good attack when you do not wish to get to close to an enemy.
+
+Water Hopping: When you are on the water, you can press up constantly and link
+will hope across the water as If he were on the land, this is pretty neat.
+
+Deku Flower Jump: By standing on top of a deku flower, you can press A to dive
+into the flower, and then press A again, and you will jump out of the flower
+and be flying with spinning petals for a while, this is very useful.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Goron Link:
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Goron Link is the second of your forms. He is stronger than Deku Link, but
+still no substitute for the real things. Although he is massive, this does
+effect his swimming abilities and his speed in some cases.
+
+His Attack:
+
+Ball Curls can be performed by pressing and holding the A button to roll
+around, and eventually you will be able to roll right over your enemies,
+because you will have become armored. This is stronger than Deku Link, but not
+that great.
+
+
+Other Moves:
+
+Punch: This should probably have been classified as his actual attack, but it
+was not. This is a massive punch with a very long boxers reach, which can smash
+anything from boxes to boulders. If you time it correctly, it will me done in
+in consecutive shot of up to 3.
+
+Pound: The pound is a good way to defeat multiple attackers, because when you
+are rolling, he will spring into the air and come down causing a very
+tremendous force. DO not expect to kill all enemies with this every time
+though.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Zora Link:
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+He Is by far the coolest looking of the creature Links and his attacks are
+pretty cool as well. Although he can be damaged easily by things like fire, but
+that is natural because he lives in the water. He also has the largest variety
+of attacks out of all the Link creatures.
+
+His Attack:
+
+By pressing the B button for up to 3 attacks, Zora link will go Jackie Chan
+style on you if your not careful. These attacks are a mix of power and the
+martial arts, which makes them look really cool to watch.
+
+Other Moves:
+
+Swimming and diving are 2 very strong features that Zora Link has, which are
+understandable, because Zora’s are aquatic life forms. But what is cool is how
+you can navigate on the bottom of the water by holding the B button just as If
+you were a human walking around up on land.
+
+The boomerang which is used by holding and releasing B, is a good attack to use
+when you want to keep your distance. Now if you are looking for something a
+little more, you can use the barrier attack, which acts like an electric force
+field, the command for that is R + B.
+
+
+===============================================================================
+Chapter III: Ocarina Songs
+===============================================================================
+
+- Elegy of Emptiness: Lc, Uc, Lc, Rc, Dc, Lc, Rc
+
+Location: You will receive this after you kill the Ikana King in Ikana Canyon.
+Use: Creates your current form shell.
+
+-------------------------------------------------------------------------------
+
+- Epona's Song: Uc, Lc, Rc, Uc, Lc, Rc
+
+Location: Win the Romani Archery Challenge on the 1st day.
+Use: Summons Epona, the cows will give you a bottle of milk.
+
+-------------------------------------------------------------------------------
+
+- Goron Lullaby: A, Rc, Lc, A, Rc, Lc, Rc, A
+
+Location: Unfreeze the elder Goron, then his son will show you the rest.
+Use: Elders son and BigGoron in front of the Snowhead Temple.
+
+-------------------------------------------------------------------------------
+
+- Layered Song of Time: Rc, Rc, A, A, Dc, Dc
+
+Location: Listen to the scarecrow in the clock tower.
+Use: Fast forwards into the next time period.
+
+-------------------------------------------------------------------------------
+
+- New Wave Boss Nova: Lc, Uc, Lc, Rc, Dc, Lc, Rc
+
+Location: Rescue and return the 7 Zora eggs.
+Use: Awakens the turtle who is to take you to Great Bay.
+
+-------------------------------------------------------------------------------
+
+- Oath to Order: Rc, Dc, A, Dc, Rc, Uc
+
+Location: After completing the woodfall temple, you will be taught by
+someone...
+Use: Calls the 4 giants to the clock tower (use in the final fight).
+
+-------------------------------------------------------------------------------
+
+- Sonata of Awakening: Uc, Lc, Uc, Lc, A, Rc, A
+
+Location: The Deku Kings Monkey prisoner will tell you.
+Use: Summons the woodfall temple, Wakes sleeping deku nut at S.
+House/graveyard.
+
+-------------------------------------------------------------------------------
+
+- Song of Soaring: Dc, Lc, Uc, Dc, Lc, Uc
+
+Location: From the stone under the owl at Woodfall temple.
+Use: Returns to a temple entrance, warps you to Owl statues (activated).
+
+-------------------------------------------------------------------------------
+
+- Song of Time: Rc, A, Dc, Rc, A, Dc
+
+Location: When you get back the Ocarina, Link has a flashback.
+Use: Saves game, restarts you to 6AM on the very first day.
+
+-------------------------------------------------------------------------------
+
+- Song of Storms: A, Dc, Uc, A, Dc, Uc
+
+Location: On Flats tombstone in the Ikana Graveyard.
+Use: Summons rain, heals blue bubble curse, heals sharp.
+
+-------------------------------------------------------------------------------
+
+- Song of time Inversion: Dc, A, Rc, Dc, A, Rc
+
+Location: Listen to the scarecrow in the clock tower.
+Use: Slows down the passing of time.
+
+-------------------------------------------------------------------------------
+
+- Song of Healing: Lc, Rc, Dc, Lc, Rc, Dc
+
+Location: Learn from the happy mask man after you have your Ocarina.
+Use: Heals mask doing curses.
+
+
+===============================================================================
+Chapter IV: Item/Weapon List
+===============================================================================
+_____________________________________________________________________
+|                                                                     |
+| Name: Kokiri Sword                                                  |
+|                                                                     |
+| Description:                                                        |
+| The Kokiri sword is a coveted treasure of the Kokiri Forest. It is  |
+| also used in Ocarina of Time, when Link finds it in the Maze. Don't |
+| let the size of the blade decieve you, it is very powerful indeed.  |
+|                                                                     |
+| Location:                                                           |
+| Once you have become Kokiri Link again, meaning you are no longer   |
+| Deku Link, this sword will be there automatically. Now to get its   |
+| magic, just do as the fairy asks yous, and you will receive it too. |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Razor Sword                                                   |
+|                                                                     |
+| Description:                                                        |
+| The Razor Sword is only a temporary upgrade from the Kokiri Sword.  |
+| It is an extremely powerful, and much larger blade than the Kokiri  |
+| as well as it does twice as much damage, literally.                 |
+|                                                                     |
+| Location:                                                           |
+| You can only upgrade to this sword, by going to the blacksmith at   |
+| Snowhead, it will cost you 100 rupees, believe me its worth it. It  |
+| will only give you 100 hits before retorting back to the Kokiri.    |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Gilded Sword                                                  |
+|                                                                     |
+| Description:                                                        |
+| The Gilded sword in a very powerful sword indeed, with its double   |
+| timed blade, it is match for any oppressor. This does a lot more    |
+| than the other two do, and it looks cooler, so get this quick!      |
+|                                                                     |
+| Location:                                                           |
+| There is a little bit more that you have to do to obtain this one.  |
+| First, you will have to have it upgraded again, by the blacksmith   |
+| and you will also have to have some gold dust, this is permanent.   |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Hero Shield                                                   |
+|                                                                     |
+| Description:                                                        |
+| This too is your default weapon of that category, but it is not a   |
+| bad thing to start out with. One Upped only by the mirror shield it |
+| is very similar to the Hylian Shield seen in Ocarina of Time.       |
+|                                                                     |
+| Location:                                                           |
+| As I already said, this is the default shield, and I believe that   |
+| it is impossible to lose this one. I know the bird steals stuff,    |
+| but even if he did you can buy them in the Clock Town trading post. |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Mirror Shield                                                 |
+|                                                                     |
+| Description:                                                        |
+| The highest one can go in the department of shields, not only in a  |
+| battle can this one be used, but also when you have need to reflect |
+| light onto something like a switch, this too was in Ocarina of Time.|
+|                                                                     |
+| Location:                                                           |
+| The Mirror shield is located under the well, and it will take a bit |
+| of effort for you to get to this one. Although it is not altogether |
+| hard, it is certainly not as easy as say the Hero Bow.              |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Great Fairy Sword                                             |
+|                                                                     |
+| Description:                                                        |
+| The Sword of all Swords, it is basically Biggorons Sword with a new |
+| name, but what is so cool is how you can have this and another one  |
+| out at the same time, because this is a C button weapon, awesome!   |
+|                                                                     |
+| Location:                                                           |
+| While you are in the Ikana Canyon, you remember how the Great Fairy |
+| spoke of the other great ones who had been shattered, find all 15   |
+| of the Stone Temple fairys and this blade is yours.                 |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Hero Bow                                                      |
+|                                                                     |
+| Description:                                                        |
+| Also seen in Ocarina of Time, the game is basically not possible    |
+| for you to beat without this item. It is very similar to the fairy  |
+| bow, which is why I said it was in the last game, this is cool.     |
+|                                                                     |
+| Location:                                                           |
+| The Hero Bow is located in a chest in the Woodfall Temple, it is    |
+| not that hard to get, you just have to kill all of the enemies in   |
+| the room to make the chest appear, make sure to save once you have. |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Hook Shot                                                     |
+|                                                                     |
+| Description:                                                        |
+| One of Links most useful and necessary items, this basically allows |
+| you to reach places that you other wise could not have. It can not  |
+| lock onto anything but wood or certain switches, but that's ok.     |
+|                                                                     |
+| Location:                                                           |
+| The Hook shot is in the Gerudo Fortress, kind of like it was in the |
+| last game. Be careful when you are seeking this item, there is a    |
+| great danger that lies in wait, but you should be able to kill it.  |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Ice Arrow                                                     |
+|                                                                     |
+| Description:                                                        |
+| The Ice arrow was also seen in the last game, turning whatever it   |
+| hits to ice. It can freeze portions of water, and it even a way to  |
+| create icebergs to get across certain place in the water.           |
+|                                                                     |
+| Location:                                                           |
+| The ice arrow is found in the Great Bay Temple, you should not have |
+| a problem, attaining it, because it is not really that well seen. I |
+| would let you know this, do not become over confident with this.    |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Light Arrow                                                   |
+|                                                                     |
+| Description:                                                        |
+| The magic that without it Link could not have defeated the evil     |
+| Ganon. This can be used to stun enemies and to melt those blocks    |
+| these are very powerful, but that is why they take alot your magic. |
+|                                                                     |
+| Location:                                                           |
+| This ultimate fighter for good Is located in the Stone Tower Temple |
+| you can expect a mediocre time getting to it, but not all that. I   |
+| think you will greatly enjoy having this weapon in your inventory.  |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Fire Arrow                                                    |
+|                                                                     |
+| Description:                                                        |
+| The fire arrow may not be as powerful as the light arrow, but it is |
+| certainly just as useful. It can be used to light torches in small  |
+| groups at a time, or also to fight an enemy that is very powerful.  |
+|                                                                     |
+| Location:                                                           |
+| This is located in the Snowhead temple, do not expect it to be as   |
+| powerful as it was in the last game, although still very good. I    |
+| think it has lost ome of its power, it takes away 2 magic points.   |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Lens of Truth                                                 |
+|                                                                     |
+| Description:                                                        |
+| The lense of truth was also in Ocarina of time, it allowed and does |
+| allow Link to see through things such as false walls or hidden      |
+| chests, that would have been deveiving had he not had this with him.|
+|                                                                     |
+| Location:                                                           |
+| The Lense of truth is located in Snowhead, in the very small village|
+| in the mountains. Take note that this will use up your magic power  |
+| the more you use it, and it will not turn itself off, you must.     |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+|                                                                     |
+| Name: Ocarina of Time                                               |
+|                                                                     |
+| Description:                                                        |
+| The Ocarina of Time, the magic talisman that helped to seal away    |
+| the ultimate evil in Ganon, is now needed again to seal of the evil |
+| once more. The Majora's Mask may or may not match this power...     |
+|                                                                     |
+| Location:                                                           |
+| You will get back the Ocarina of Time from Skull Kid when you have  |
+| the confrontation in the Clock Tower. It is super easy to get it    |
+| back from him, and then you will have flashbacks with Zelda...      |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Magic Beans                                                   |
+|                                                                     |
+| Description:                                                        |
+| The Magic beans look like they are just any ordinary beans, but in  |
+| fact when you plant them, and then come back after a while you can  |
+| use them to reach higher areas, they are very useful to you later.  |
+|                                                                     |
+| Location:                                                           |
+| The main place to find these is the hole in the Deku Palace Gardens |
+| but they can also be at swamp Akindo Nut. In the garden all you have|
+| to do is buy them, there is no trial by fire or anything tough.     |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Deku Nut                                                      |
+|                                                                     |
+| Description:                                                        |
+| The Deku Nut is one of the most basic items on the game, because it |
+| is only a Nut that Link can throw. But, when it hits something or a |
+| thing, it explodes into a bright flash that will stun your enemies. |
+|                                                                     |
+| Location:                                                           |
+| Deku Nuts can be found just about anywhere, but one of the first    |
+| places you can find them are in the Clock Town trading post. They   |
+| are sometimes found when you cut up grass, or in any other stores.  |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Deku Stick                                                    |
+|                                                                     |
+| Description:                                                        |
+| THE most basic of all the items, just a simple branch, But it does  |
+| have its many uses. One of which is lighting things if you cannot   |
+| or don't have the Bow yet. And you can hit things, but they break.  |
+|                                                                     |
+| Location:                                                           |
+| This is probably also the most basic item to obtain, it can be found|
+| in just about any store or shop or trading post, and it I usually a |
+| thing you can get by chopping up the grass. They are not very pricy.|
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Powder Keg                                                    |
+|                                                                     |
+| Description:                                                        |
+| Woohoo! Bringin' out the big explosives now baby! This is Gorons own|
+| little, or should I say huge bomb, that is to big for you to carry  |
+| as little Link, so you need the Goron Mask, this is like a Nuc!     |
+|                                                                     |
+| Location:                                                           |
+| You can get the powder keg from Goron in the bomb shop after you've |
+| obtained the Goron Mask. It does not matter how many times you talk |
+| to him, he will still not allow you to buy it until then.           |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Bombchu                                                       |
+|                                                                     |
+| Description:                                                        |
+| The bombchu is kind of like a remote control mouse, rigged to blow  |
+| up after a certain amount of time. It is pretty nifty, and you can  |
+| even control where it goes. This is also seen in Ocarina of Time.   |
+|                                                                     |
+| Location:                                                           |
+| The Bombchu can be bought at the bomb shop in Clock town, and most  |
+| other stores as well. It can be found in a few treasure chests, but |
+| not a lot. This is a good item to have but not 100% necessary.      |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Adults Wallet                                                 |
+|                                                                     |
+| Description:                                                        |
+| The adults wallet is very simply a larger wallet than you begin with|
+| It can hold 200 rupees and that is its maximum. However, having this|
+| will allow you to buy more expensive stuff, don't go buy everything.|
+|                                                                     |
+| Location:                                                           |
+| This can also be bought in Clock Town, go to west section of town.  |
+| Then on the right you should see a guy in a little hut in the wall  |
+| give him 200 rupees and he will let you have it.                    |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Bomb                                                          |
+|                                                                     |
+| Description:                                                        |
+| The bomb is just like the old bombs from Rocky and Bullwinkle. They |
+| are a very dark blue ball with a little fuse, which can be thrown   |
+| or placed where you want them. They are very useful items to have.  |
+|                                                                     |
+| Location:                                                           |
+| The first place you will find these is the bomb shop, but they can  |
+| also be found in some of the other stores. They might be found if   |
+| you are lucky while you chopping grass but that doesn't Happen much.|
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+
+                                                                     |         
+                                                           |
+| Name: Bomb Bag                                                      |
+|                                                                     |
+| Description:                                                        |
+| The bomb bag is a much better buy than just the bombs, even though  |
+| it costs a little more. Because, you will be able to hold more of   |
+| them, and it comes with 20 bombs already in there, alright!         |
+|                                                                     |
+| Location:                                                           |
+| The best place to buy this is really at the bomb shop, and that is  |
+| because it is the only place where you can buy this item. Make sure |
+| you buy this before you leave clock town, you will be glad you did. |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Pictograph Box                                                |
+|                                                                     |
+| Description:                                                        |
+| This is kind of a neat idea that they decided to put into the game  |
+| for the first time. This will allow you to take pictures of any of  |
+| the characters, but you can only have 1 at a time.                  |
+|                                                                     |
+| Location:                                                           |
+| You will get this when you are in the Woodfall area, at the tourist |
+| center where Tingles father is working. Go along with all the stuff |
+| there and you will eventually receive this, listen closely to them. |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Empty Bottle                                                  |
+|                                                                     |
+| Description:                                                        |
+| An empty bottle is one of the most important things to get in the   |
+| entire game. Without it, you cannot carry things like bugs, or any  |
+| of the potions, blue fire, all very important stuff here.           |
+|                                                                     |
+| Location:                                                           |
+| The bottles can be found in the following places, because there are |
+| more than one: graveyard, racetrack, the milk bar obviously, the    |
+| magic shop (swamp) and also in the waterfall area.                  |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Moons Tear                                                    |
+|                                                                     |
+| Description:                                                        |
+| The moons tear is kind of an exclusive one time thing, atleast it   |
+| has been so far, but it is very important so I put it in. Without it|
+| you would not be able to fight Skull Kid and get back the Ocarina.  |
+|                                                                     |
+| Location:                                                           |
+| After you are a bomber and you can go into the hideout, pass through|
+| and go to the observatory. Look through the telescope and see where |
+| it goes after looking at skull kid first.                           |
+|_____________________________________________________________________|
+
+ _____________________________________________________________________
+|                                                                     |
+| Name: Quiver of Arrows                                              |
+|                                                                     |
+| Description:                                                        |
+| This is the default setting for when you first get the heros bow    |
+| from the woodfall temple. It will hold up to 20 arrows, that is not |
+| a whole lot, so try not to waste them.                              |
+|                                                                     |
+| Location:                                                           |
+| As I said before, this comes with the Hero bow, and luckily it will |
+| already have it maximum of 20 arrows inside it when you get the bow.|
+| Arrows can be bought or found in places.                            |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Large Quiver                                                  |
+|                                                                     |
+| Description:                                                        |
+| This is one step up from the default quiver, and It can hold up to  |
+| a maximum of 40 arrows! Now that is more like it eh?! So now you    |
+| don't really have to be robin hood, bcause you can afford to miss...|
+|                                                                     |
+| Location:                                                           |
+| Ok, this is only found in the swamp shooting gallery or in clock    |
+| town. To get it at either, you have to get the highest score, or in |
+| the swamp a perfect score to obtain it from the gallery owners.     |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Biggest Quiver                                                |
+|                                                                     |
+| Description:                                                        |
+| The ultimate quiver, holding up to 50 arrows this is one fine tuned |
+| ammo holder. Now that you can hold 50 arrows, you can afford to miss|
+| once or twice and it no huge thing, jut don't make it a habit.      |
+|                                                                     |
+| Location:                                                           |
+| Well, basically you have to do the same thing that you did for the  |
+| large quiver, you just have to get a higher score than you did for  |
+| did for that. I think it is easier if you do it in clock town.      |
+|_____________________________________________________________________|
+
+ ____________________________________________________________________
+|                                                                     |
+| Name: Giants Wallet                                                 |
+|                                                                     |
+| Description:                                                        |
+| The giants wallet is a little harder to obtain, but then again being|
+| able to hold 500 rupees is certainly worth it. Although, because of |
+| how that game saves, you may never really reach 500, but close.     |
+|                                                                     |
+| Location:                                                           |
+| To obtain this item, you have to kill all 30 of the Golden Skulltula|
+| in the Oceanside spider house. Not so tough right? Well you only get|
+| until the end of the day, so get crackin!                           |
+|_____________________________________________________________________|
+
+
+===============================================================================
+Chapter V: The Walkthrough
+===============================================================================
+************
+ Clock Town
+************
+
+The first real thing you will actually have to after watching the scene with
+Skull Kid, is follow him into the cavern. You are going to have to use the Deku
+Flowers to get from platform to platform, and then when you finally do catch up
+with Skull Kid, what does he do? He turns you into a Deku Scrub! Ok, well you
+are going to have to deal with it, but look on the bright side, atleast now you
+have a fairy to help guide you, eh? OK, now you are going to have to get into
+Clock Town, but first you will talk with the Happy Mask man. Ok, he will tell
+you if you can find the Imp and get back is precious item, then he will undo
+what the Skull Kid has done.
+
+There are some other things that you can do before North Clock town though:
+
+Treasure Chest Game:
+This is the first game that I have played so far, and it involves you having a
+limited amount of time to get all the way across the checkered floor and open
+the treasure box. Well, that doesn't seem to hard, but the little catch is that
+you have to do it with the floor popping up, and you never know when it will
+raise. Once it raises you will not be able to cross over that block of the
+floor again for the rest of the game. Normally, if you get surrounded by the
+blocks, you will have to go backtrack and then around. I have had pretty good
+luck when I stay nearer the edges of the building. Once you win for the first
+time, you will win 10 Deku Nuts! This game can be played as many times as you
+want to.
+
+Now, once you are actually in clock town, you need to find North Clock town.
+Watch out for the white dog, that looks like the one that used to be in Ocarina
+of Time, because it will attack you. Ok, once you are in North Clock town, you
+will see a large man wearing a green suit, who claims to be a Kokiri, but never
+got a fairy, but he is also selling maps. By the map of Clock town from him.
+Now, go up the ramp and into the cave area. When you get inside Links will say:
+" Oh no, the great fairy!", because she has been shattered! That's right, and
+guess who it is up to to put her back together again.
+
+Ok, you need to go to South Clock town, and then go up to the little water
+canal. Now look directly to your left and you will see a very narrow passage or
+alley, go down this, and you are in the same area as the fairy you need to
+catch. Now, run across the water, using the Deku Hop technique, and get close
+to the fairy. Ok, now she will tell you what do, so go back to the Fairy
+Fountain in North Clock Town, and return her to her old self. Now she will
+grant you the magic power we were used to in Ocarina of Time, except you get it
+much earlier in this game than the last.
+
+Ok, now go outside of the cave, and shoot the blue balloon with your bubble
+shot, and then go talk to the bomber kid right there with the blow gun. He will
+tell you about how they have a hideout and some stuff, then how you can learn
+the code, if you can earn it. To do that you have to play hide and seek with
+them. You will have until the next day to find all 5 of them, then you will
+learn the secret code. Note, the code is never the same, so don't just turn the
+game off after you learn it. A tip I received from Devin Morgan was "Start
+earlier, so you'll have more time to find them all." That is a good idea.
+
+Ok, once you have found them you will receive the password, and you can go to
+where the little bomber kid stand guard, and give him the code, then he will
+let you in. Now make your way into the Observatory, to get into the
+Observatory, you will have to quickly get across the floating platforms and
+then use your bubble to move the balloon away from the ladder. Now go up the
+stairwell, and then talk to the Astronomer, who has also been in confrontation
+with the Skull Kid. You will be asked to look for him with the telescope, and
+you will see a tear drop fall. You can go get the tear drop and then give it to
+the Deku Nut man. Now he leaves, and you can use the flower to fly to the ledge
+of the clock tower.
+
+Now eventually you will be allowed to enter the clocktower, and then you will
+need to hit the Skull Kid with the bubble shot, and now you can get the Ocarina
+back. Now play the song of time and then you can turn back time, thanks to
+Zelda's memory that is. Now you will go back and talk to the Happy Mask Shop
+owner and he teaches you the song of healing, now you are normal Link again!
+Now you are back to the old style gameplay, where you can kinda do what you
+want. Go back into Clock town and play some more of the games and stuff now
+that you can save. Now you can buy things like the Shield from the trading post
+there.
+
+Also remember how the great fairy said that once you were back to your original
+self that she would do something else for you, well, go check it out! I won't
+give this away yet. Now, you can also plan on one thing, not being attacked by
+the dog anymore, as well as being treated much better by some of the
+townspeople who did not like the Deku Scrub going around. Make sure to explore
+as much as possible, time is not a problem right now, but don't get used to
+that, and try to get as many rupees as you can too. It might even be a good
+idea to do the wallet deposit deal with the guy in west clock town. Here are
+the price lists for some of the other places that you can visit to get
+supplies:
+
+The Clock Town Trading Post Catalog and Price List:
+---------------------------------------------------
+Ok, you can use this as a little check list to see how many rupees you need to
+get to be bale to buy things, without going back and fourth between to the shop
+and where you are collecting them. Remember that you can save now, and don't
+forget once you buy a new item, or you will have to do it all again.
+
+Store Location:
+It is the middle shop in the little avenue in west Clock Town.
+
+===========================================================================
+---------------------------------------------------------------------------
+|Item: |          | Pieces |       | Price (rupees) |     | Bottle Needed |
+---------------------------------------------------------------------------
+Arrows 1          |   30   |       |       30       |     |      No       |
+Arrows 2          |   50   |       |       50       |     |      No       |
+Deku Stick        |   01   |       |       10       |     |      No       |
+Deku Nuts         |   10   |       |       30       |     |      No       |
+Fairy             |   01   |       |       50       |     |      Yes      |
+Green Potion      |   01   |       |       30       |     |      Yes      |
+Hero's Shield     |   01   |       |       80       |     |      No       |
+Red Potion        |   01   |       |       30       |     |      Yes      |
+---------------------------------------------------------------------------
+===========================================================================
+
+
+The Bomb Shop Price Listing:
+----------------------------
+Ok, this is the bomb shop, this is not your normal store, because they
+basically only sell explosives. Check it out, but the stuff here can be pretty
+expensive.
+
+Store Location:
+It is located in the building right before you get to the trading post.
+
+========================================
+----------------------------------------
+| Item |       | Price |    | Quantity |
+----------------------------------------
+Bomb Bag       |  50   |    | -------- |
+Bomb Set       |  30   |    | 10 Bombs |
+Bombchus       |  40   |    | 10 Piece |
+----------------------------------------
+========================================
+
+--------------
+3. CHARACTERS
+--------------
+These are the different people you'll meet on your quest who are in
+desperate need of help.
+
+----------------------------------------------------------------------
+4. WHO: BOMBERS, Secret Society of Justice: Helping people 24 hours a
+day.
+----------------------------------------------------------------------
+
+WHERE: North Clock Town
+
+WHEN: 24/7, Days 1-3
+
+HOW: Pop the blue Majora's Mask balloon. Talk to the kid and accept his
+challenge. Find the Bombers throughout Clock Town before the next
+morning. Two are in North Clock Town, in opposite corners. Two are in
+East Clock Town; one above Latte, holding a chicken, the other on the
+awning near The Stock Pot Inn. The last one is in West Clock Town near
+the Post Office.
+
+WHAT: Secret code: Code for entering Bomber's hideout. Bomber's
+Notebook: Members-only schedule book.
+
+------------------------------------------------------------
+5. WHO: ANJU, Stock Pot Inn's innkeeper: A courteous woman.
+------------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: The Stock Pot Inn. Located in East Clock Town.
+
+WHEN: 2pm, Day 1
+
+HOW: Talk to Anju, without the Kafei Mask, and tell her you do have a
+reservation.
+
+WHAT: Received Room Key: Got it by mistake. Enter at night.
+
+b. OBJECTIVE 2
+---------------
+WHERE: The Stock Pot Inn
+
+WHEN: Immediately following her first objective.
+
+HOW: Talk to her when the Postman is giving her a letter. Listen to
+their conversation. When the Postman leaves, talk to her with the Kafei
+Mask on. (See Madame Aroma's entry.)
+
+WHAT: Secret Night Meeting: Promised to meet in kitchen at 11:30pm.
+
+c. OBJECTIVE 3
+---------------
+WHERE: The Stock Pot Inn's Kitchen
+
+WHEN: Midnight-6am, Day 1 (Even though it says 11:30
+
+HOW: Just show up and talk to her.
+
+WHAT: Promised to meet Kafei: Promised to meet Anju's boyfriend. Letter
+to Kafei: Asked to drop in postbox in morning. (Mail this right away.)
+
+d. OBJECTIVE 4
+---------------
+WHERE: The Stock Pot Inn. Front desk on Day 2 or the last room upstairs
+on Day 3
+
+WHEN: 5-8pm on Day 2 or 6am-Noon on Day 3
+
+HOW: Give Anju the pendant Kafei gave you. (See Kafei's entry.)
+
+WHAT: Delivered Pendant: Conveyed Kafei's intentions to Anju. (Anju
+decides to wait for Kafei.)
+
+e. OBJECTIVE 5
+---------------
+WHERE: The Stock Pot Inn's Employee Room (First door upstairs.)
+
+WHEN: 5:30am, Day 3. Get there by Five just in case. Don't leave. I know
+it seems like Kafei won't get there but he'll make it in the knick of
+time. (As long as you met all the requirements. Make sure to keep
+checking Kafei's entry located below.)
+
+HOW: Reunite Kafei and Anju by helping Kafei get his Sun Mask (see
+Kafei's entry) and by giving Anju the pendant. Now cry as you watch them
+decide to die together. (Optional)
+
+WHAT: Couple's Mask: Sign of Anju and Kafei's happiness.
+
+----------------------------------------------------
+6. WHO: KAFEI: Strange youth seen near Laundry Pool
+----------------------------------------------------
+
+a. Objective 1
+---------------
+WHERE: Laundry Pool. Located out of South-West South Clock Town.
+
+WHEN: 3:30-8:30pm, Day 2
+
+HOW: Watch the Postman give Kafei the letter you mailed. (See Anju's
+entry.) Then wait for Kafei to go back in his house. Follow him in and
+go up to talk to him. Tell him you "can" keep a secret.
+
+WHAT: Pendant of Memories: Promised to deliver it to Anju. (Give it to
+her right away.)
+
+b. Objective 2
+---------------
+WHERE: Ikana Canyon. When your facing the river and the higher area of
+Ikana is in front of you, follow the path to the right. You'll see Kafei
+hiding behind some stones.
+
+WHEN: 6pm, Day 3
+
+HOW: Wait for Sakon (thief) to come. Make sure you stay hidden. Follow
+Kafei into the hideout. Kafei will step on a switch which will move the
+Sun Mask away. You will now control both characters. Using Link, step on
+the switch Kafei asked you to. With Kafei, push any of the blocks onto
+the switch. With Link, kill the Deku Baba. With Kafei, step on the blue
+switch. (NOTE* Stepping on the yellow switches will slow the conveyor
+belt. This is good. Stepping on the red switches will speed up the
+conveyor belt. AVOID STEPPING ON THE RED SWITCHES.) Using Link, kill the
+two Deku Babas. With Kafei, first push the far right block down. Then
+press the center block onto the red switch. Run back and press the
+yellow switch. Push the bottom block onto the blue switch. Now kill the
+Wolfos with Link. Push the far right block down away from the door and
+go through and press the switch with Kafei. Now press the final switch
+with Link. Are you shaking yet?
+
+WHAT: Escaped from Sakon's Hideout: Helped Kafei recover stolen mask.
+
+c. OBJECTIVE 3
+---------------
+WHERE: The Stock Pot Inn's Employee Room
+
+WHEN: 5:30am, Day 3 (Get there early and stay there.)
+
+HOW: Reunite Kafei and Anju by helping Kafei get his Sun Mask and
+delivering the pendant to Anju. (See Anju's entry.) Now cry as you
+realize Anju is going to sleep with a child. (Optional.)
+
+WHAT: Couple's Mask: Sign of Anju and Kafei's happiness.
+
+----------------------------------------------------------------------
+7. WHO: MAN FROM CURIOSITY SHOP, buys and sells stolen goods. Open at
+
+night only.
+----------------------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: Laundry Pool (Kafei's house.)
+
+WHEN: 1-10pm, Day 3
+
+HOW: Go up and talk to him. Only works if you've already talked to
+Kafei. (See Kafei's entry.)
+
+WHAT: Keaton Mask: Kafei and Curiosity Shop's mask. Letter to Mama:
+Letter to Kafei's mom: High Priority. (Do not deliver....yet.)
+
+b. OBJECTIVE 2
+---------------
+WHERE: Curiosity Shop. Located in West Clock Town.
+
+WHEN: 10pm-6am, Day 3
+
+HOW: Go in and buy it. Only works if you stopped Sakon on Day 1. (See
+Old Lady from Bomb Shop's entry.) It costs 500 rupees so you'll need a
+Giant's Wallet from the Great Bay Spider Hut. (See someone else's guide
+or e-mail me for details on this.)
+
+WHAT: All-Night Mask: Strange mask at a bargain. Valuable.
+
+-------------------------------------------------------------------
+8. WHO: OLD LADY FROM BOMB SHOP: Runs town Bomb Shop: Always open.
+-------------------------------------------------------------------
+
+WHERE: North Clock Town
+
+WHEN: Midnight, Day 1
+
+HOW: When Sakon (thief) steals her bag, slash him with your sword and
+wait for him to leave. Do not follow him.
+
+WHAT: Blast Mask: Thanks for guarding bag from thief.
+
+--------------------------------------------------------
+9. WHO: ROMANI: Young girl living at ranch with sister.
+--------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: Romani Ranch. Located South-West out of Termina Field and up Milk
+Road. A boulder will be blocking the path the first two days. You need a
+Powder Keg to clear the path. Please use someone else's guide to see how
+to do this or e-mail.
+
+WHEN: 6am-6pm, Day 1
+
+HOW: Talk to her by the barn and agree to help her. Ride Epona (horse)
+and pop all the ghost balloons within the allotted time. If you mess up,
+talk to her and try again.
+
+WHAT: Became ranch hand: Help get rid of ghosts at 2:30am. (You also get
+Epona.)
+
+b. OBJECTIVE 2
+---------------
+WHERE: Romani Ranch (Inside barn.)
+
+WHEN: 2:30am, Day 1
+
+HOW: Meet Romani then go outside and start shooting all the ghost 'till
+dawn.
+
+WHAT: Saved cows from "them": Protected cows and Romani 'till morn. Milk
+Bottle: Thanks for saving cows from ghosts.
+
+----------------------------------------------------------------
+10. WHO: CREMIA, manager of Romani Ranch: Milk is her specialty
+----------------------------------------------------------------
+
+WHERE: Romani Ranch (neat barn)
+
+WHEN: 6pm, Day 2
+
+HOW: Agree to ride to town with her. Shoot bandits repeatedly to protect
+milk. (NOTE* If you wear the Circus Leader's Mask before you start the
+trip, there will be no attackers. See Toto and Gorman's entries.)
+
+WHAT: Protected milk delivery: Saved milk from bandits. Romani's Mask:
+Shows Cremia considers you an adult.
+
+-------------------------------------------------
+11. WHO: MR. DOTOUR: Mayor of Clock Town. V.I.P.
+-------------------------------------------------
+
+WHERE: Mayor's Residence. Located in East Clock Town. He's behind the
+door on the left.
+
+WHEN: 10am-8pm, Days 1 and 2/ 10am-6pm, Day 3
+
+HOW: Speak to him using the Couple's Mask. (See Anju and Kafei's
+entries.)
+
+WHAT: Dotour's Thanks: Thanks for ending a looong meeting. (Heart
+Piece.)
+
+------------------------------------------------------------------------
+12. WHO: MADAME AROMA, the Mayor's Wife: In charge of town performances.
+------------------------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: Mayor's Drawing Room (Right door in Mayor's Residence.)
+
+WHEN: 10am-8pm, Days 1 and 2
+
+HOW: Just talk to her.
+
+WHAT: Kafei's Mask: Show it to help with the search.
+
+b. OBJECTIVE 2
+---------------
+WHERE: Latte
+
+WHEN: 6pm-6am, Day 3
+
+HOW: Go into Latte using Romani's Mask. (See Cremia's entry.) Talk to
+Aroma wearing Kafei's Mask and give her the Priority Mail. (See Man from
+Curiosity Shop's entry.)
+
+WHAT: Chateau Romani: Thanks for delivering letter to mom. (Includes
+bottle.)
+
+------------------------------------------------
+13. WHO: TOTO: Famed manager of The Indigo-Go's
+------------------------------------------------
+
+WHERE: Latte
+
+WHEN: 10pm-6am, Days 1 and 2
+
+HOW: Talk to her as Link, Deku Link, Goron Link, and Zora Link and agree
+to do a sound test each time. After you do this, The Ballad of the Wind
+Fish from Link's Awakening will play.
+
+WHAT: Circus Leader's Mask: Thanks for moving Gorman with song.
+
+------------------------------------------------------------------------
+14. WHO: GORMAN, leader of a traveling troupe: Has fine clothes, but a
+frightful face.
+------------------------------------------------------------------------
+
+Gorman's entry is exactly the same as Toto's. (See above.)
+
+------------------------------------------------------------------------
+15. WHO: POSTMAN, town's postal carrier: A very serious public servant.
+------------------------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: Post Office. Located in West Clock Town
+
+WHEN: 3pm-Midnight, Days 1 and 2
+
+HOW: Talk to him and stop the clock at exactly 10 seconds.
+
+WHAT: Training Award: Prize for getting time exactly right. (Heart
+Piece.)
+
+b. OBJECTIVE 2
+---------------
+WHERE: Any Postbox
+
+WHEN: Midnight-Noon, Spanning Days 1 and 2
+
+HOW: Simply deposit the letter Anju gave you. (See Anju's entry.)
+
+WHAT: Deposited Letter to Kafei: Deposited letter for delivery.
+
+c. OBJECTIVE 3
+---------------
+WHERE: Starting at Post Office, ending near Latte
+
+WHEN: 6pm-6am, Day 3
+
+HOW: Give the Postman the Priority Mail (See Man from Curiosity Shop's
+entry.) at the Post Office. Then follow him until he stops outside Latte
+and talk to him.
+
+WHAT: Postman's Hat: Thanks for enabling him to flee.
+
+------------------------------------------------------------------
+16. WHO: ROSA SISTERS, twin dancers: Members of the Gorman Troupe
+------------------------------------------------------------------
+
+WHERE: West Clock Town
+
+WHEN: 6pm-6am, Days 1 and 2
+
+HOW: Dance in front of them using Kamaro's Mask. (See Kamaro's entry.)
+
+WHAT: Rosa sister's thanks: Thanks for teaching the dance. (Heart
+Piece.)
+
+------------------------------------------------------------------------
+17. WHO: ??? (Person living in the inn's restroom): Details are unknown.
+------------------------------------------------------------------------
+
+WHERE: The Stock Pot Inn's restroom (Downstairs)
+
+WHEN: Midnight-6am, All three days
+
+HOW: Give him a Deku Land Title Deed. See another guide or e-mail me to
+see how to get one.
+
+WHAT: Thanks for the paper: Thanks for helping person in toilet. (Heart
+
+Piece.)
+
+----------------------------------------------------------------
+18. WHO: ANJU'S GRANDMOTHER: Storyteller and grandmother at inn
+----------------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: The Stock Pot Inn's Study (First room downstairs.)
+
+WHEN: 8am-6pm, Days 1 and 2
+
+HOW: Talk to her wearing the All-Night Mask (See Man From Curiosity
+Shop's entry.) and listen to the first story. Answer the question
+correctly.
+
+WHAT: Reading Prize 1: Prize for not sleeping through story. (Heart
+Piece.)
+
+b. OBJECTIVE 2
+---------------
+All information is the same as Objective 1, except listen to the second
+story and answer the question incorrectly.
+
+WHAT: Reading Prize 2: Prize for not sleeping through story. (Heart
+Piece.)
+
+------------------------------------------------------------------
+19. WHO: KAMARO, ghost of a charismatic dancer: Enjoys Moonlight.
+------------------------------------------------------------------
+
+WHERE: On top of a frozen tree outside of North Clock Town.
+
+WHEN: Midnight-6am, All three days
+
+HOW: Talk to him, then play him the Song of Healing.
+
+WHAT: Kamaro's Mask: Sign of taking over for dancer.
+
+--------------------------------------------------------------
+20. WHO: GROG, Cucco Shack's breeder: His crest is frightful.
+--------------------------------------------------------------
+
+WHERE: Cucco Shack. Located in Romani Ranch.
+
+WHEN: 6am-8pm, All three days
+
+HOW: Use the Bremen Mask (See Guru-Guru's entry.) to march around and
+get all ten chicks (no, not that kind) to follow you in a line.
+
+WHAT: Bunny Hood: Thanks for turning chicks into cuccos.
+
+--------------------------------------------------------
+21. WHO: GORMAN BROTHERS: Horse trainers. Suspicious...
+--------------------------------------------------------
+
+a. OBJECTIVE 1
+---------------
+WHERE: Gorman Track. Located left off Milk Road.
+
+WHEN: 6am-6pm, All three days
+
+HOW: Bring Epona (horse) there to race. Then kick their butts.
+
+WHAT: Garo's Mask: Prize for winning Gorman horcerace.
+
+b. OBJECTIVE 2
+---------------
+Exactly the same as Cremia's objective. Minus the Mask.
+
+-----------------------------------------------------------------------
+22. WHO: SHIRO, the inconspicuous soldier: He really doesn't stand out.
+-----------------------------------------------------------------------
+
+WHERE: Road to Ikana. When you first enter and you have a choice to go
+left to the graveyard or up to the village. Sitting in a circle of
+rocks. He's invisible.
+
+WHEN: All day everyday.
+
+HOW: Use the Lens of Truth and talk to him. He'll want some Red Potion.
+
+WHAT: Stone Mask: Thanks for giving strength to a soldier.
+
+--------------------------------------------------
+23. WHO: GURU-GURU: Musician in the Gorman Troupe
+--------------------------------------------------
+
+WHERE: Laundry Pool
+
+WHEN: 6pm-6am, Days 1 and 2
+
+HOW: Talk to him and listen to his story.
+
+WHAT: Bremen Mask: Thanks for hearing confession.
+
+--------
+24. FAQ
+--------
+
+Q: How can I give the Priority Mail to both the Postman and Madame
+Aroma?
+A: You can only give it to one of the two during a three day cycle. You
+must restart the three days in order to give it to the other person.
+
+Q: How can I stop Sakon (theif) and meet the Curiosity Shop Owner at the
+Laundry Pool?
+A: Same with the first question, you can only do one during a three day
+cycle.
+
+
+-----------------------------------------------------
+Boss Strategies
+-----------------------------------------------------
+- Odolwa -
+
+You do not actually have to defeat him, himself, but his magics of assistance.
+He has a few different things he will try to use to kill you off, but if you
+can manage to hol dhis attacks off long enough he is not all that hard. Just
+make sure that you collect any hearts you receive for beating his attacks, you
+may need them later. His attacks are Locusts, fire, scarabs(sp?), blocks.
+Overall, you should be able to handle him, but feel glad he was not as hard as
+he looks! After defeating him you will get his remains in mask form and a heart
+container.
+
+Ok, your not done yet, you have to get the Deku Princess out of the vines that
+are located behind you. Now take her back to the Deku Palace, and now that you
+have all 15 of the fairies,, if you do, you can go back to the Great Fairy of
+Magic and get what is coming to you. Except this time the fairy is in a
+different place. She is near the woodfall wall, eventually you will find the
+hole. And when you do you will be happy with your reward, and to recap, you
+know have the Hero Bow as well, and that is great!
+
+Ok, now it is time to do what you promised you would, in helping out to save
+the cows from the alien thieves. Now you are going to have to use the bow shoot
+them once they are in range, and when you shoot one, don't stop, you have to
+last until 6AM and then the aliens will retreat and you have saved the Ranch!
+You will most likely want to come back to the ranch a little before that if
+possible, because you don't know what delays you might face, so just leave a
+little early. Now it is on to the Snowfall area!
+
+
+I.    The Ikana Graveyard
+II.   The Ikana Canyon
+III.  The Well
+IIII. The Ancient Castle
+V.    Stone Tower
+VI.   Stone Tower Temple
+
+
+-------------------------------------------------------------------------------
+I-The Ikana Graveyard
+-------------------------------------------------------------------------------
+
+First off, you will need Epona to ride over the fences to get to the graveyard.
+Don't worry about the Real bomchu's, they can't hurt you as long as you're on
+Epona. Now, right before the cemetery, you will see a small circle of stones.
+Use the lens of truth to see a soldier, talk to him and he will ask you for
+some red potion, once you give it to him, the stone mask is yours. This is one
+of the coolest masks in the game. If you get sick of fighting enemies just whip
+out the stone mask and the enemies (being as stupid as they are) won't even see
+you! Now if you walk through the graveyard and up a trail, you will meet the
+incredibly lazy Captain Keeta, the only way you can wake this giagantic
+skeleton up is by playing the song of Awakening. Captain Keeta will quickly
+jump to his feet(damaging a few buildings while he's at it),and run away,
+daring you to try and catch up with him. Here are a few things that will make
+the race with him a tad bit easier, first the gates will try and roast you with
+fire, to aviod becoming barbequed Link, defeat the stalchildren that are at the
+gate. Second, if Captain Keeta gets to fast, simply fire a couple of arrows at
+him to slow him down a bit. Finally, if you catch up with Captain Keeta, battle
+him with your sword, when you see an opening, make a run for it and get to the
+treasure chest at the end of the trail. If you manage to get to the treasure
+chest before Captain Keeta, you will get the Captains hat, which will let you
+talk to the stalchildren in the graveyard at night. Order the stalchildren to
+dig up a grave each night, after they open a grave on the first night, go in to
+get a chest full to the brim with rupees. Now, light all the torches to open a
+door. Here you'll get to fight the infamous iron knuckle. Send this guy packing
+to met Flat, a composer and learn the song of storms. Have the stalchildren dig
+up yet another grave on the 2nd night to get to another grave, use your lens of
+truth inside the grave to find a secret door. Yet again, go into the grave the
+stalk children dig up on the 3rd night, here you'll find Dampe, the gravedigger
+from Ocarina of time. If you use z-targeting, walk backward, and lead him to
+the patches of ground to get him to dig something up (tip: go very slowly).
+Once he digs something up, a big Poe will attack. Fight it by using your shield
+when it attacks, and slashing it while it twirls around in circles. If you
+defeat the Poe, your reward will be a bottle. Now it's time to go to Ikana
+canyon. There is a little thing (that's the best I can describe it ) wearing a
+mask on a high ledge, talk to it wearing the Garo mask, which you can get from
+the Gorman brothers, and a small wood block will appear, hookshot it to get to
+Ikana canyon.
+
+-------------------------------------------------------------------------------
+II-Ikana Canyon
+-------------------------------------------------------------------------------
+
+If you wear the Garo's mask while your in the Canyon, a ghost ninja will attack
+you. Kill it, and you will get some advice for your adventures ahead. Now go
+north to spring water cave, there you'll meet Sharp, Flat's brother. When you
+met him, he will teach you a song that will drain your health. Play him the
+song of storms, this melody will lift his curse and start up  the Music Box
+House's waterwheel. The girl at the music box house is very suspicious of
+everything, and won't let you go in if she's home. Place a bomb at her doorstep
+and she'll come outside, if she doesn't spot you, you can sneak inside. Go to
+the houses basement and talk to the strange men there, play the song of healing
+to him before the
+ pesky girl comes to kick you out. For your pains, you'll get the Gibdo mask.
+
+-------------------------------------------------------------------------------
+III-The well
+-------------------------------------------------------------------------------
+
+Simply follow the uphill road behind the Music box house to get to the creepy
+well. To get past a door that the mummy guards, give them what they want,
+you'll need blue potion,5 pods of magic beans, milk , 10 bombs, 10 deku nuts, a
+fish, and a big Poe. By handing over all these items, you'll finally get to a
+room that contains the mirror shield, shoot the four braziers with a fire arrow
+to claim your prize.
+
+-------------------------------------------------------------------------------
+
+
+IV-Ancient Castle
+-------------------------------------------------------------------------------
+
+To enter the Castle, just find a sign that says the doors will never open, go
+to the left of the sign to see a small hole, go in and hit the switch to make
+the place a lot brighter, use your mirror shield to send the light onto the sun
+emblem on the block. Now enter the castle(here ,whip out the gibdo mask
+whenever you see a zombie, mummy ,or redead). First melt the ice switch to open
+a doorway, In this room, the floor shaped like a checkerboard is hot, so you
+can't get across. Spin into the switch as a deku scrub, now quickly scamper to
+the flower underneath the floor. Move the floor upward by jumping out of the
+flower, then go back into the flower and launch to a pillar. Step on the
+switch, shoot the crystal, then run to the exit. Clear out the mines with your
+hookshot, then as a deku use the flower to fly to a switch on the left side.
+Step on the switch, and use the lens of truth to see a platform. While your on
+the platform, kill the skulltula, then leap to the ledge and exit to the next
+room. Follow the stairs to the top of the castle, and follow the roof's ledge
+to the front of the place. Now hop onto the flower there, and fly to the switch
+on the pillar nearby. By hitting the switch, you'll allow light to come into
+another room. Now go back to  the beginning of the temple ,and this time shoot
+a fire arrow at the switch to the right. Enter the room, and battle the
+floormaster, after he's toast, use the mirror shield to melt the sun stone. In
+the next room, you'll have to fight the  extremely annoying Wizrobe. He's just
+like the wizrobe from Snowhead dungeon, except he shoots fireballs. After
+defeating him, head up the stairs. Walk along the castle roof until you reach a
+cracked area, use your powder keg to blow it up, and the sun will now be able
+to shine into the entrance. Here, use your mirror shield to blast some rays
+onto the sun stone, then enter the previously blocked passage. Now get ready,
+cause it's time to fight Igos Du Ikana (translation=skeleton dude).First,
+you'll have to fight his soldiers. Now, fend off the skeletons with your sword,
+then hit the curtains with your fire arrow. Now slash the skeletons until they
+fall, then reflect the light on their remains to get to fight the boss. Simply
+hit him with an arrow, then shine some light on him. After you have finally
+defeated him, he will teach you the elegy of emptiness, which lets you make
+copies of yourself(very useful for switches and stuff).
+
+-------------------------------------------------------------------------------
+V-Stone tower
+-------------------------------------------------------------------------------
+
+By weighing down switches with copies of yourself, you'll be able to use
+floating blocks to reach the top. Be prepared for a lot of boulders and enemies
+along the way.
+
+-------------------------------------------------------------------------------
+VI-Stone tower temple
+-------------------------------------------------------------------------------
+
+First thing, shoot the left  eye in the statue in front of you. Now in the next
+room, bomb the wall. Now, as Darmani, smash some crates to get to some small
+boxes. Place them on switches and use the elegy of emptiness for the ones left.
+Once there all weighed down, the courtyard door will open; bomb the square
+there that doesn't have plants by it. If you do this, light will shine into a
+room downstairs. Go back to the room with the switches and head up the stairs
+to get to this room. Reflect light onto the sun stone. Cross the lava (make
+sure your Darmani) and open the chest for the dungeon map. Bomb the Armos
+statues to get a key before you leave, then use your key on the locked door in
+the courtyard. Put on your zora mask, and swim straight into the dexihand's
+(yes, I'm serious, it may sound like suicide, but you will get thrown onto a
+ledge that contains a key).Now defeat the dexihand and swim down the passage.
+In this room, destroy the mines and press the gold switch, for an upside down
+chest to appear, which you can't get yet. Shoot the fire arrow at the frozen
+switch to get another chest that you can't get yet(patience is a virtue..).Last
+of all, reflect the light into the mirror, then use the mirror to melt the sun
+stone. Go through the door, here turn into darmani and punch the column until
+there aren’t any more pillar sections. Now reflect the light at another mirror,
+and then from the mirror to a sun block, then melt the block in the east by
+going to the middle of the room and reflecting the light to a mirror there, and
+from the mirror to the block... yada, yada, yada.... Now fly from air vent to
+air vent as a deku in the next room to get to yet another room. Here you will
+fight the Garo master for the light arrow. Hit him with an ice arrow, then
+slash him or use bombs. Now go all the way back to the entrance, and shoot the
+arrow at the red jewel there, to turn the temple upside down. Step on a switch
+to get rid of the block in front of the red jewel, then hit it. First look at
+the freaky view. then Open the chest in front of you, enter the door on the
+right and use the light arrow to melt the sun stone. The vents in the next room
+will make you fly if your a deku, fly to the middle bridge, hit the switch
+there to make a
+
+chest appear, and nap the key to the upper door. Shoot the red jewel across the
+way with a light arrow to flip the room, then cross the lava. In the next room,
+look at the ceiling, the square mark is where you'll need to push the block.
+Push it until you reach a raised part of the floor, then flip the room by
+shooting the switch with a light arrow, repeat until the block's in place. Once
+again, it's time for that enemy known as Wizrobe...yawn. Anyway, you should
+have the hang of this guy by now. When he's good and dead (and for the last
+time to, thank goodness),a chest will appear, use your hookshot on it to make
+your exit. Kill the poes in this new room, then as a deku, fly to a platform
+across the way. Now launch to a hallway to the right and fire light arrows at
+the armos statues. Now weigh down the switch with the help of the elegy of
+emptiness to get a key. Now return to the platform by the poes, and enter the
+next
+ room. Get rid of the mines, then fly as a deku to where the mines were, and
+then use the flower to get to the platform leading to the next room, now go
+through the door here to get to fight Gomess. Use the light arrow and then your
+sword, when he's history you'll get the boss key. Now backtrack to the room
+with the poes, when you reach the flower at the end of the room, turn left and
+go through the door. Here, the armos statue guards a floor switch, attack the
+enemy, then shoot the switch with your light arrow to make a chest appear,
+hookshot to it and enter the  next room. Kill the eyegore there to get the
+giant's mask. After using your hookshot to get to the Boss, it's time to fight
+the giant twinmold! Use the giant's mask and hit either it's tail or head with
+arrows or your sword. Now, pat yourself on the back, you just finished Stone
+temple!
+
+-------------------------------------------------------------------------------
+Final Battle (Fierce Diety)
+-------------------------------------------------------------------------------
+
+After all that hard work your finally here, and you have the fierce diety on
+you. Well, lets just have some fun with Majora.
+
+Form 1, Majoras Mask: This is a strange part of the fight, actually attacking
+the mask! Also real simple too, with that enormous, pointy, deadly projectile
+blade. You might have to dodge its attacks which are pathetic a dive at you, I
+know your shaken now so start firing that beam at it. 4-6 projectiles should
+send in the Calvary...
+
+Form 2, Team Mask: Thats what it is though a team of masks that are all the
+same
+besides appearance. Well Majora and the new recruited boss masks are smaller
+now so don't get cocky. Majora is now faster which was necessary and has a
+flame thrower. The other masks mostly just dive at you or fire they're own weak
+beam (I have only seen one fire though). Anyway the strategy for form 1 works
+again, although getting the boss masks out of the way might be a good idea (3
+hits to take 'em down), because they will follow you through the other forms.
+
+Form 3, Majora’s Incarnation: This is so odd, the mask becomes a giant running
+blood vessel. It took me a couple of times to figure out the attacks of this
+because Fierce Diety can take it out in some sword play or projectile shots in
+3 seconds. If you come into this targeting him and shooting he'll die. I know
+one of his attacks his well knocking you down from running. This thing is quick
+as you can tell from the long lengthy blood vessel legs. A cinch, too bad.
+
+Form 4, Majora’s Wrath: A challenge? Sadly no, Oni Link or Fierce Diety is just
+too powerful for Majora. Some more projectile shots will kill this one which by
+the way strolled out of resident evil and fell on to the Majora’s Mask
+cartridge. Its long arms can really hurt you, especially when the arms spin
+real fast. Although you will probably not see those attacks.
+
+Overview: Sadly Majora could have been tougher even with the fierce diety mask.
+Nintendo just basically gave up with this battle  offering no challenge. Next
+time Nintendo puts in a ultimate weapon maybe they'll find the ultimate
+opponent. Enjoy your Ending!
+
+
+===============================================================================
+Chapter VI: Character/Monster/Boss Section
+===============================================================================
+
+-------------------------------------------------------------------------------
+| Link: |
+---------
+
+The hero of time, who has been turned into a Deku Scrub? Well this is a most
+untimely fate for our hero, but he is still the same Link that destroyed the
+evil Ganon, so he will surely find a way to outsmart and defeat the Majora's
+Mask. He is the main character of the game, and looks better than ever before!
+
+-------------------------------------------------------------------------------
+| Skull Kid: |
+--------------
+
+This is the guy who basically screwed up everything, him and that Majora's
+Mask. He is the one who had the fairies startle Epona, then stole the Ocarina.
+In the end who will triumph, Link, or this little man?...
+
+-------------------------------------------------------------------------------
+| Tatl: |
+---------
+
+This is one of the fairies that helped the Skull Kid out when he knocked Link
+Off of Epona. She was left behind because she decided to mess around, and now
+she has become Links partner for the time being, not quite Navi, but ok.
+
+-------------------------------------------------------------------------------
+| Tael: |
+---------
+
+This nasty little fairy is the other who helped Skull Kid. It is Tatl's
+brother, and didn't even care that Tatl was left behind.
+
+-------------------------------------------------------------------------------
+| Epona: |
+----------
+
+Epona is Links horse which he received from Lon Lon Ranch back in Hyrule. She
+Gets stolen from him by Skull Kid, but will he ever see her again?
+
+-------------------------------------------------------------------------------
+| Astronomer |
+==============
+
+The astronomer is a bit shaken up after he has his encounter with the Skull
+Kid, but he does let you use the telescope. He seems like an ok guy, although
+you aren't around him that much.
+
+-------------------------------------------------------------------------------
+| Jim |
+=======
+
+The leader of the Bomber Kids, and the one who makes you play hide and seek
+with the little brats as Tatl puts it. He seems like a nice kid, although he is
+a little small to be wandering the streets at night, with a mini gang at his
+command, where is this kids parents?
+
+-------------------------------------------------------------------------------
+| Great Fairy of Magic |
+========================
+
+The great fairy was also in the last Zelda game for the N64, and she is
+basically the big boss of the fairies. She gave you the magic in this game just
+like she did the last time. She also says to come back later and she will help
+you with some more stuff...
+
+-------------------------------------------------------------------------------
+| Bomber Kids |
+===============
+
+The bomber kids are a small group of kids that live in a hideou tin Clock town,
+although they don't seem to ever be asleep. They hold the key to the
+Observatory, and they are a pain in the butt to find during the hide and seek
+game. They can really run fast when they want too, so be swift.
+
+-------------------------------------------------------------------------------
+| Happy Mask Man |
+==================
+If any of you have played Majora's Mask, then are familiar with this guy. He
+Is basically the one who allows you to turn back into yourself, or normal Link
+That is. He goes around selling masks to people, but apparently Skull Kid hit
+Him and knocked him out and then stole the Majora's Mask, and of course he has
+Looked at you to stop Skull kid, or as he says, something really, really bad is
+Gonna happen. Its kind of funny the dumb look he gets when he is upset.
+
+-------------------------------------------------------------------------------
+| Yoga People |
+===============
+I am not sure what is up with these people, but you think they could atleast
+Be a little bit nicer to the kid who is gonna save them all! IF you go up to
+Them at night when they are practicing she yells at you to leave them alone.
+
+-------------------------------------------------------------------------------
+| The Mayor of Clocktown |
+==========================
+The Mayor is very undecided about what to do regarding the carnival in Clock
+town because the moon might be falling. He has 2 sides arguing and all he can
+do is nod his head and make noised for both of them. His wife seems to be
+tougher than he is, but you wouldn't let the moon fall, now would you?
+
+-------------------------------------------------------------------------------
+| Reck Crew |
+=============
+Well, this is noone special, just the guy who has to clear the boulder from
+Milk Road. He says he will get it done very quickly, but he is full of it. It
+Ends up taking him like 3 days to do it! He seems nice though, because he will
+stop hitting the rock If you get close so you do not get injured.
+
+-------------------------------------------------------------------------------
+| Ramoni |
+==========
+Geez, why don't you just ask Link to do something weirder! "Oh, will you save
+My ranch from Alien cow snatchers? Well, anyway she seems like a very nice girl
+Kind of playing the same role that Malon did in the last game, except Ingo has
+Not taken her as his laborer slave.
+
+
+
+
+===============================================================================
+Monster Section:
+===============================================================================
+
+Skulltula:
+
+Description:
+------------
+These are the larger and less powerful versions of the Gold Skulltula's, that
+were also seen in the last game. One side of them is armored, so you will have
+to wait until they spin around to kill them. There stomach is very soft and one
+or two hits, dependning on your weapon should dispose of them rather easily.
+
+*****************************************************************************
+
+Gold Skulltula:
+
+Description:
+------------
+The Gold Skulltula played a huge role in the last game, by cursing the House of
+Skulltula remnants. Now basically they play the same sort of really dark, but
+easy to kill role. DO not touch them anywhere, except with a weapon. You will
+receive a token for killing these. These can be found almost anywhere if you
+just get lucky, or know where to look.
+
+*****************************************************************************
+
+Fire Keese:
+
+Description:
+------------
+These are quite possibly the most annoying enemies known to man. They fly at
+you out of almost nowhere in some cases, and burn you up, and in the last game
+they could even burn your shield! Get rid of these before they even have the
+chance to touch you at all, and you will be glad. Although, they are usually
+only encountered in darker, enclosed areas.
+
+*****************************************************************************
+
+Ice Keese:
+
+Description:
+------------
+These are much like their close cousin the fire Keese, when you come into
+contact with one of them, you become frozen. So it is best to take them out
+before they get close enough to do that, so I would say that the Hero Bow is
+your best bet, and make sure one shot does it.
+
+*****************************************************************************
+
+Armos:
+
+Description:
+------------
+These were also featured in the last game, the living statues which stay
+dormant until they are touched by someone. The goron punch should do the trick,
+one followed by another, and be careful, they are rigged to blow.
+
+*****************************************************************************
+
+Stalchild:
+
+Description:
+------------
+These are very skeleton like creatures, which were in the last game, remember
+they come out at night. Well, they are very annoying and you should be able to
+get rid of them pretty easily, although if you stand around you will be swarmed
+eventually, so keep yourself moving.
+
+*****************************************************************************
+
+Poe:
+
+Description:
+------------
+Poe the ghost, quite an evil and mean spirited little devil. He was in the last
+game, as Poe and then Big Poe. He will come out in certain places and basically
+annoy and taunt you until you do something, he can damage you, contrary to what
+a lot of people think, he is more than a floating sheet.
+
+*****************************************************************************
+
+Dodongo:
+
+Description:
+------------
+These were also seen in the last game, in there not fully evolved form. They
+are fire breathing giant lizards, resembling an Iguana. You can com eat them
+from behind, but they are actually pretty quick for their size. So your best
+bet is a distanced bombing, although they are kind of fun to battle.
+
+*****************************************************************************
+
+Beamos:
+
+Description:
+------------
+These were seen in excess at Dodongos Cavern and a couple other places in
+Ocarina of time, they are pretty annoying if you ask me. They shoot a laser
+beam out of that eye, so watch your step, although in most cases in can be out
+run if you start far enough ahead. A bomb will destroy them, so don't even try
+a blade.
+
+
+*****************************************************************************
+
+Wolfos:
+
+Description:
+------------
+These were seen in Ocarina of Time as the guards at the beginning of the forest
+temple, they have cruel intentions, but they are much more wussy than they
+appear. Your sword is all that you should need, and you may have to stay on
+your toes for a bit, but eventually he will turn his back and let down his
+guard.
+
+*****************************************************************************
+
+Mad Scrub:
+
+Description:
+------------
+If these aren't the biggest cowards in the game what are? These live in the
+Deku flowers, and they pop up when you are in range and shoot Deku Seeds at
+you, except they are larger than was once in Links slingshot. The harder thing
+about these is that they pop out of a lot of places behind you, so you don't
+know that they are there until you have already been hit. Just use the Z
+targeting and reflect there seed back at them with your shield.
+
+*****************************************************************************
+
+Deku Baba:
+
+Description:
+------------
+These are officially the meanest plants ever! Wow, if you are not careful in
+the start of the game, one of these could be your downfall. These are very
+fierce man eaters, you remember them from OoT, the snapping flowers, huge
+teeth, ya that's them. So try to stun them and then hit them after.
+
+*****************************************************************************
+
+Dragonfly:
+
+Description:
+------------
+This is not my choice of the nicest enemy on the game, sporting a mean electric
+tail stinger, he is out for blood. Try to keep away from this at all costs, but
+if you are forced into combat, use an arrow and he falls just like the rest.
+
+*****************************************************************************
+
+Red Chuco:
+
+Description:
+------------
+If you destroy this creature you will receive a heart piece, so if you do
+happen to lose anything to it, you can quickly get it back. This is an odd
+looking creature, and is not usually avoidable if you get to close to it, so
+just kill the thing.
+
+*****************************************************************************
+
+Blue Chuco:
+
+Description:
+------------
+
+A close relative to the Red Chuco, all the same except that it does NOT have a
+recovery heart in it, I have been told that you can freeze it with an Ice Arrow
+and it become a type eof stepping stone, ill just have to find out for myself.
+
+*****************************************************************************
+
+Bird Thief:
+
+Description:
+------------
+Well, this is probably the most annoying enemy on the game besides the Keese
+Because he can steal you stinking items! What is up with him? Well, whenever
+You are in Termina field you have to be very careful, because it is not fun
+Trying to get all of your items back once they are gone. Although, he can be
+killed it is not that easy.
+
+
+===============================================================================
+Chapter VII: The Masks
+===============================================================================
+
+Deku Mask:
+~~~~~~~~~~
+Obviously by its name this would have something to do with Link and the Deku's.
+This mask in fact gives Link the ability to tranform into his Deku Link form,
+like you started out the game with. When he is in this form he will be able to
+talk to other Deku creatures and things like that.
+
+-------------------------------------------------------------------------------
+
+
+Bremen Mask:
+~~~~~~~~~~~~
+This mask helped links relationship with the smaller animals of the game out a
+bit. This is used to complete Grogs task, and it makes the animals follow you,
+and I have been told it makes them want to be older, but I don't get that?
+
+-------------------------------------------------------------------------------
+
+Majora's Mask:
+~~~~~~~~~~~~~~
+The ultimate evil of the game, along with its wielder the skull kid. In the end
+it will come down to either you or the mask, but you must choose your fate. You
+will never actually get this mask in your inventory though...
+
+-------------------------------------------------------------------------------
+
+Mask of Truth:
+~~~~~~~~~~~~~~
+The mask of truth is another animal type mask, except it does a couple more
+things and has different effects than the Bremen Mask. This mask will allow you
+to actually converse with the animals, as well as with the Gossp stones.
+
+-------------------------------------------------------------------------------
+
+Couples Mask:
+~~~~~~~~~~~~~
+Dr. Dotour needs a little bit of help when he is inputing his information into
+the Bomber Notebook, so where this mask and he can do it! You will have to wear
+the mask both days so he can get all of the information in.
+
+-------------------------------------------------------------------------------
+
+Captain's Hat:
+~~~~~~~~~~~~~~
+With this mask you can communicate with Stalkids.
+
+-------------------------------------------------------------------------------
+
+Bunny Hood:
+~~~~~~~~~~~
+Think of this as like a speed steroid, because that's basically what it is
+going to allow you to do, go A LOT faster. This is a very useful mask.
+
+-------------------------------------------------------------------------------
+Blast Mask:
+~~~~~~~~~~~
+This is a pretty useful mask to have as well if you don't have any bombs. It
+is in lemens terms an explosive charge worn on Links face. Which you can let
+detonate and reload.
+
+-------------------------------------------------------------------------------
+
+Circus Leader Mask:
+~~~~~~~~~~~~~~~~~~~
+Wearing this mask will keep the Milk guys (names?) from messing with you when
+you are on the race track.
+
+-------------------------------------------------------------------------------
+
+Garo's Mask:
+~~~~~~~~~~~~
+Use this to get into the Ikanos Canyon.
+
+-------------------------------------------------------------------------------
+
+Don Gero's Mask:
+~~~~~~~~~~~~~~~~
+This mask will allow you tto speak with the 5 Don Gero Choir Frogs.
+
+-------------------------------------------------------------------------------
+
+Giants Mask:
+~~~~~~~~~~~~
+This mask makes link a giant, just like the name says...
+
+-------------------------------------------------------------------------------
+
+Fierce Diety Mask:
+~~~~~~~~~~~~~~~~~~
+Makes Link the Ultimate Warrior Link (the white guy) during boss fights.
+
+-------------------------------------------------------------------------------
+
+Goron Mask:
+~~~~~~~~~~~
+Makes Link into Goron Link.
+
+-------------------------------------------------------------------------------
+
+Gibdo Mask:
+~~~~~~~~~~~
+Lets you speak with Gibdo.
+
+-------------------------------------------------------------------------------
+
+Goht's Remains Mask:
+~~~~~~~~~~~~~~~~~~~~
+N/A
+
+-------------------------------------------------------------------------------
+
+Great Fairy Mask:
+~~~~~~~~~~~~~~~~~
+Lets you know when fairies are around (missing) and lures them to you.
+
+-------------------------------------------------------------------------------
+
+Kafei's Mask:
+~~~~~~~~~~~~~
+Is helpful when you are trying to find none other than Kafei.
+
+-------------------------------------------------------------------------------
+
+Keaton Mask:
+~~~~~~~~~~~~
+Allows you to talk to the Keaton, and maybe win something.
+
+-------------------------------------------------------------------------------
+
+Gyorg's Remains Mask:
+~~~~~~~~~~~~~~~~~~~~~
+N/A
+
+-------------------------------------------------------------------------------
+
+Kamaro's Mask:
+~~~~~~~~~~~~~~
+Allows you to dance like none other than Kamaro...
+
+-------------------------------------------------------------------------------
+
+Mask of Truth:
+~~~~~~~~~~~~~~
+Lets you talk to animals and gossip stones.
+
+-------------------------------------------------------------------------------
+
+Mask of Scents:
+~~~~~~~~~~~~~~~
+Lets you or rather helps you find certain things using scent.
+
+-------------------------------------------------------------------------------
+
+Romani's Mask:
+~~~~~~~~~~~~~~
+Allows you entrance to the Milk Bar later.
+
+-------------------------------------------------------------------------------
+
+Odolwa's Remains Mask:
+~~~~~~~~~~~~~~~~~~~~~~
+N/A
+
+-------------------------------------------------------------------------------
+
+Stone Mask:
+~~~~~~~~~~~
+Allows Link to get into and throughout/around the Gerudo Fortress Area.
+
+-------------------------------------------------------------------------------
+
+Postmans Hat:
+~~~~~~~~~~~~~
+No not Kevin Costners hat, more important as it allows you to open mail boxes.
+
+-------------------------------------------------------------------------------
+
+Twinmolds Remains Mask:
+~~~~~~~~~~~~~~~~~~~~~~~
+N/A
+
+-------------------------------------------------------------------------------
+
+Zora Mask:
+~~~~~~~~~~
+Lets you become Zora Link.
+
+
+===============================================================================
+Chapter VIII: Contributor Credits
+===============================================================================
+  ***SPECIAL THANKS***
++-+ MegaRaichuX50:
+Thanks a ton for the Majora's Mask fight walkthrough section, this guide
+could not have been completed had it not been for you, thanks again. Also
+be on the lookout for some of this great writers own works!
+
++-+ Yee Seng Fu:
+A special thanks to him, I kind of borrowed how he does some of his opening
+Format, and for all of his hard work in the RPG genre. Mainly, how he puts his
+Disclaimer and contact information on both end of the FAQ (it has been stolen
+already! Err!) and how he adds it to his title info.
+
++-+ Nintendo:
+Well, what can we say to them, for delivering the second and final installment
+of Zelda 64? Nothing but one huge thankyou. It is a sad yet happy occasion, the
+game is here, but there Will not be another one, but thanks for everything
+guys. I Would like to give a special thanks and shout out to the great Shigeru
+Miyamoto, the creator, thanks man!
+
++-+ Mike Mason:
+Providing all the information on the masks so far. He has also donated the
+beginning of the monster list, he's such a good cousin...lol A new thanks to
+Him for sending the Keatons questions.
+
++-+ Jeff Veasey:
+Well, we all owe a debt of gratitude to Jeff, he runs GameFAQs.com all
+By himself, and he even manages to write some guides of his own. He is
+Great about responding to his contributors even through his days of 24
+Hours of backlogged email. Check out his site at www.gamefaqs.com.
+
++-+ Brett "Nemesis" Franklin:
+
+Nemesis didn't really have anything to do with the actual information
+In this guide, but I have enjoyed talking to him a lot lately about the
+Upcoming game, and I believe he has a guide to, so make sure you look.
+
++-+ Dallas:
+Again, Dallas really didn't have anything to do with the information
+in this guide, but I did look at his FAQ to see how I would make my
+table of contents, because I was formatting before I really got the game.
+
++-+ Matt Hulbert:
+Heh, well I compiled all of the information in this guide, as well as
+typing it all up on the computer no big deal. But I must say I did
+have a lot of fun talking to everyone about, and compiling this guide.
+
+
+===============================================================================
+Chapter IX: Authors Notes
+===============================================================================
+
+Well I know I said that I would never come back and do anything to this guide,
+but it just looked so bad that I had to come back and try to reformat it. I
+have changed in some more practical art, better dividers, fixed most of the
+grammatical errors and anything else I could find. Obviously there are probably
+things I missed, please don’t email me about them. This guide is finished. On
+another note, this is no longer a co-authored guide; I am now the sole author.
+
+===============================================================================
+Chapter X: Final Thoughts
+===============================================================================
+
+Ok, this is the very first version of the guide, and I realize it is not 100%
+Complete or anywhere near that, so please just bear with me, as I am planning
+Daily updates for the next several weeks to get this guide where it needs to
+Be. If you have anything that you want to contribute, please feel free, but I
+Cannot promise that anything sent would be posted. Also note, this is my first
+Zelda guide, so this should be pretty interesting...
+
+*Jump up in time quite a few months*
+Well the guide is done, and it was certainly interesting. It is now as complete
+as it is going to be, unless people send in things, but that it the only case
+it will be updated. So, see you later.
+
+
+• This guide is the property of the author/owner Matt Hulbert. This guide is
+protected under International Copyright Laws, as well as the Berne Copyright
+act of 1976. Any questions regarding the disclaimer listed below should be sent
+to the author of this guide, along with any permission seeking messages.
+
+• This guide is for your personal and private use only. This guide may never be
+sold, or distributed in any other way (even for free). This guide may never be
+used on a web-site, magazine, newsletter, book, or any other type recreation.
+This guide is never to be used for any type of profitable cause, it is never to
+be shown in any restricted areas, nor is it to ever be used for anything
+against the law.
+
+• The information in this guide was all compiled or created by the author in a
+legal manor. The information in this guide may never be used in another guide,
+nor may pieces or smaller sections of this guide ever be called separate guides
+or placed in other guides. You may save this guide on your hard drive offline,
+but this does not make you exempt from any part of this disclaimer.
+
+• According to my contributor policy, anything that someone contributes becomes
+a part of this guide (which belongs to the author). All contributions are to be
+credited in the section "Contributor Credits" but the contributor does not own
+any part of this guide, or have any legal right to void this disclaimer. Things
+sent in by random contributors can be removed at their request, but this
+doesn't mean that ANYTHING sent in will be posted, all contributions are
+reviewed before they are posted, to make sure everything is in order etc.
+
+• According to Brad Templeton, plagiarism is not tried in a criminal court, but
+is a crime. Not being tried in criminal court means that you are NOT innocent
+until proven guilty because it's civil court. For more information on Copyright
+Myths and facts you can check his web-site.
+
+• Failure to comply in any of the categories mentioned in this disclaimer can
+result in legal action. Please do not take advantage of the free service being
+provided to you. All emails sent to the author should include that it is in
+regard to this disclaimer in the topic/subject of the email. If it is not, the
+email will be deleted on the spot, and the author is not responsible for
+non-complying emails. Just because you send an email requesting permission does
+not mean that you have it, you must actually RECEIVE a response giving the ok.
+
+
+=======================================================================
+Authors Information
+=======================================================================
+
+Please Check out my other guides for games such as:
+
+Lunar: Silver Star Story
+Lunar 2: Eternal Blue
+Zelda: Ocarina of Time
+Chrono Trigger... and many more!
+
+(http://www.gamefaqs.com/features/recognition/4150.html)
+
+
+

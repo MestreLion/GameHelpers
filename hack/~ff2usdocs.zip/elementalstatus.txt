@@ -1,0 +1,75 @@
+Updates:
+10/01/2000 Added the two previously unknown status bits: egg and covered
+status.
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+In each character/monster data record, there are four bytes that determine
+what status anomalies the character or monster is afflicted with. The
+following table shows which bit is associated with which status anomaly. Much
+of this information comes from Yousei's document (thanks Yousei!)
+
+Offset Bit Text     Notes
+------ --- ----     -----
+03     7   Swoon
+03     6   Stone    completely petrified
+03     5   Toad
+03     4   Small
+03     3   Pig
+03     2   Mute
+03     1   Darkness
+03     0   Poison
+
+04     7   Curse
+04     6   Float
+04     5   Paralyze
+04     4   Sleep
+04     3   Charm
+04     2   Berserk
+04     1   Petrify  2/3 petrified
+04     0   D        1/3 petrified
+
+05     7   D        magnetized
+05     6   Stop
+05     5   D        egg
+05     4   D        defending
+05     3   D        charging
+05     2   D        twin casting
+05     1   D        jumping
+05     0   Count
+
+06     7   D        hiding
+06     6   D        hp leak
+06     5   Wall
+06     4   Barrier  can't be hit with physical attacks (except Jump?)
+06     3   D        image high bit
+06     2   D        image low bit
+06     1   D        covered
+06     0   D        critical
+
+The names of the status anomalies are located from 7B640 to 7B6FF. The offset
+table for this text data is located from 7B600 to 7B63F.
+
+Elemental/status bytes are used in various places such as spell and item data.
+These bytes signify things such as what elemental and status anomalies an
+armor resists, what elements a weapon, spell, or usable item uses, what status
+change a spell, weapon hit, or usable item inflicts, and so on. These bytes
+are looked up in a table from 7A790 to 7A90F. Each entry in the table is
+composed of three bytes. The first byte is used for elementals:
+
+bit 0 fire
+bit 1 ice
+bit 2 lightning
+bit 3 darkness
+bit 4 sacred
+bit 5 spears/arrows
+bit 6 drain
+bit 7 (for armors) immunity to elements for which the bits are set, otherwise 
+    unknown
+
+The bits of the second byte have the same meaning as the status byte at offset
+03. The bits of the third byte have the same meaning as the status byte at
+offset 04.

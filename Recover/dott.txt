@@ -1,0 +1,520 @@
+
+ ==========================
+ == THE ELECTRONIC GAMER ==
+ ==========================
+ 
+ MANIAC MANSION 2: DAY OF THE TENTACLE WALKTHRU
+ 
+ Welcome to the second MANIAC MANSION adventure, DAY OF THE TENTACLE (DOTT).
+This walkthru is divided into sections based on which one of the three
+characters: Bernard, Hoagie or Laverne is active.
+ 
+ The game can be finished in several ways, using different characters
+at different times. The following walkthru is based upon the way I finished
+the game.
+ 
+ GENERAL NOTES
+ 
+ As with every LucasArts adventure, the interface is relatively simple.
+9 verbs are displayed on the screen (e.g. PICK UP, WALK, etc.) When
+these verbs are to be used in the game, I've presented them in all caps.
+ 
+ When I say in the walkthru "TALK TO . . . " this means you should talk to
+the character and explore all possible dialogue paths. It will help
+you understand the story better and provide invaluable clues about solving the
+puzzles.
+ 
+ Unlike other LucasArts adventures, if you CLICK on an INVENTORY ITEM,
+its icon will now become active and you can click that object anywhere
+on the screen. It's a drag and drop feature. So instead of "USING teeth
+with toothbrush," you could click on the teeth and drag them over to
+the toothbrush. This is an alternate method to the one described in the
+walkthru. You can use the one with which you feel comfortable.
+ 
+ DOTT has many inventory objects that have to be given from one character
+to another to be used. They are flushed through the Chron-O-John. The
+fastest way to do this is to click on the object and then drag it over
+to the other characters face. That character will now have that object
+in their inventory. I'll refer to this method as FLUSHING or GIVING an
+item to another character.
+ 
+ At the start, I'm very specific about places in the mansion. Later
+in the game, I expect that you will have learned the basic outline of the
+mansions, and thus loosen up on my descriptions.
+ 
+ As in other LucasArts adventures, you can never die in DOTT, so there isn't
+really any need to save your game very often. But it is a good idea to do
+so once in a while just to be safe (in case of a lockup, etc.)
+ 
+ IN THE MANSION WITH BERNARD
+ 
+ The first time you gain control of the game, you're Bernard and standing in
+the hall of the Maniac Mansion (present day).
+ 
+ First off, PICK UP the help wanted sign in the window, then PICK UP the flier
+from the rack of fliers.  In the pay phone, you will find a dime. PICK it up.
+ 
+ Next, OPEN the white door with the office sign. WALK inside. On Dr. Fred's
+desk, PICK UP his Swiss bankbook. OPEN the drawer, and PICK UP the Booboo-B-
+Gone. Leave Dr. Fred's office.
+ 
+ Since Laverene and Hoagie have the rest of the house covered, it's up to
+Bernard to find Dr. Fred's secret lab. Try OPENing the grandfather clock.
+You've just found a secret passage to Dr. Fred's lab.
+ 
+ WATCH THE CUT-SCENE and you will learn valuable information and find out that
+you're going to have to go back in time to save the world from the tentacles!
+ 
+ But during your trip back in time, Dr. Fred's imitation diamond breaks and all
+three of the kids are sent into different time periods. Bernard ends up exactly
+where he started (in the lab), Hoagie 200 years in the past, and Laverene in
+200 years in the future!
+ 
+ You gain control of Bernard again. WALK to the right of the screen. To
+the right of the hamster generator is a To Do list. LOOK at the paper below
+the To Do list and you will discover it's the super battery plans (patent).
+PICK UP the paper (now called patent application).  If you are playing the
+floppy version, the copy protection will now occur. Look in your manual for
+the answers. If you happen to be playing the CD-ROM version, there is no copy
+protection at all, so don't worry about it.
+ 
+ IMPORTANT: Dr. Fred has just FLUSHED the patent application to Hoagie, so he
+can possibly create a super battery to power his Chron-O-John. This FLUSHING
+is used quite often in the game to send objects among the 3 characters. To
+get used to this flushing method, let's try something out. To switch to
+another character, click on their face on the far right of the screen. In
+this case, click on Bernard's face. Dr. Fred will explain that he needs to
+find money for a new diamond. Let's flush the textbook that Bernard
+has in his inventory to Hoagie. Simply click on textbook, and then move it
+over Hoagie's face. Click your mouse button and Hoagie will now have
+possession of the textbook. Do the same with the FLIER and HELP WANTED sign.
+ 
+ SHAPING THE FUTURE OF AMERICA WITH HOAGIE
+ 
+ Ok, good. The next part of the game is basically used to gather inventory
+items for use later. As Hoagie, walk along the path and pay special attention
+to the kumquat tree (the tree with orange fruits). Continue along the path.
+ 
+ You should now be on a main screen with the mansion to the left and a field
+to the right. WALK over to the field (to the right). WOW! Ben Franklin
+himself is flying a kite. Remember what Ben discovered while flying a kite?
+Electricity! He might be very helpful later in the game so you can get
+power for your Chron-O-John. TALK to Ben for a while and learn about your
+present location.
+ 
+ Now head over to the Mansion. On your way in, LOOK AT the carriage. It sure
+looks like it needs a cleaning, but first Hoagie will need some cleaning
+supplies. Walk over near the mansion and OPEN the mailbox. PICK UP the
+letter inside and flush it to Bernard. OPEN the mansion door and head inside.
+ 
+ Hm. This place looks familiar, doesn't it? Wait a sec! This is the
+Maniac Mansion, 200 years in the past! Remember that secret passage Bernard
+found in the present day mansion? Well maybe it existed 200 years ago, also.
+To find out, try to OPEN the grandfather clock. By gosh, it's still there!
+ 
+ WALK down the stairs and TALK to Red Edison (Dr. Fred's distant cousin). PICK
+UP the left-handed hammer on the left side of Red Edison's desk. You see
+that nice lab coat hanging there? It would sure be nice if you could pick it
+up, but Red won't let you. I think he has it reserved for assistants only.
+If you GIVE Red the HELP WANTED sign, he will think you want to become his
+assistant. Now that you are a full-fledged employee of Red's he'll let you
+PICK UP the lab coat.
+ 
+ Since Red seems to be the only scientist around, maybe you should show him the
+patent application and see if he can help you make the super battery. GIVE
+the PATENT APPLICATION to Red. He will explain that you need OIL, VINEGAR and
+GOLD to make the super battery. Time to go searching for those ingredients!
+WALK UPSTAIRS.
+ 
+ OPEN the big red doors with the MAIN HALL sign over them. WALK inside and TALK
+TO John Hancock, Thomas Jefferson and George Washington. It seems like that
+suggestion box is lacking suggestions, don't you think? How about fixing
+that, by USING the filer with the suggestion box. Since George has changed
+the constitution to include a vacuum cleaner, Laverne now has one she can use
+in the future. It seems that the Thomas Jefferson won't give up that log of
+his to start a fire though everyone is freezing. But I bet if George
+Washington looked cold, Jefferson would start a fire! How could you make
+George look cold? We'll come back to that. WALK through the swinging doors
+and into the kitchen.
+ 
+In the kitchen, PICK UP the spaghetti from the pantry. Also, there is oil on
+the shelf! PICK UP the oil. You've already found one of the ingredients for the
+super battery. Only two more to go.
+ 
+ OPEN the door on the right and WALK into the room. PICK UP the bucket on the
+floor. OPEN the red cabinet. Inside you'll find a brush. Hey, remember the
+carriage outside? That brush and bucket would sure come in handy for cleaning
+it, but you still need some soap. Anyhow, PICK UP the brush and leave
+the room. In the kitchen there is a water pump on the left side. USE the
+bucket with the water pump and fill it up with water. WALK through the
+swinging doors, then exit the main hall and go upstairs.
+ 
+ Once upstairs, OPEN the first door on the right. Wow, what an honor. This
+is where George Washington sleeps. I bet he has good maid service since he
+is the president of the United States. Let's mess his bed up a little! USE
+George's bed. Now all the covers are messed up. Let's see what kind of maid
+service George gets. PULL the cord to the left side of the door. FAST
+SERVICE! Quickly walk outside of George's room. Outside, there is the maid's
+cart, and look what is on it! SOAP! If you could get that soap, then you
+could probably wash the carriage outside. Be careful the maid doesn't see
+you. CLOSE the DOOR and then PICK UP the soap. USE the SOAP with the bucket
+of water to make soapy water. Well it looks like Hoagie has all the stuff he
+needs to clean the carriage, but he still has to find those two ingredients for
+the super battery, VINEGAR and GOLD, so let's continue searching the house.
+ 
+ OPEN the door to the final room in this hall. It looks like Ben Franklin's
+room. To the right of the door, there is a WINE bottle. PICK UP the wine
+bottle. Wait a sec! Doesn't wine eventually mature into vinegar after a long
+time? It sure does! Maybe Hoagie could give the wine to Jefferson to put in
+his time capsule and then Laverene could send it back to Hoagie through the
+Chron-O-John 400 years into the future where it's bound to be vinegar. Leave
+the room and walk into the next hall.
+ 
+ Look at the horse! Try talking to the horse. WOW! It talks. Have a chat
+with the horse, and then try reading him some of that textbook. USE the
+textbook with the horse. Looks like he is so bored he's fallen asleep, but
+first he put his dentures into the glass. Disgusting as it may be, PICK UP
+the horse dentures. Now open the door on the left side of the hall and WALK in.
+ 
+ It's Ned and Jed Edison! It looks like Ned is carving a really nice statue
+of Jed. Let's play a trick on Ned though. USE the left-handed hammer with
+the right-handed hammer Ned is currently using. After a quick switcharoo, Ned
+can no longer carve so he and Jed have to switch places. Since you've had
+about as much fun as you can in this room, exit it.
+ 
+ WALK up the stairway. How cute! A cat and mouse playing with each other. USE
+Ned's bed. Hm. That squeaky mattress seemed to distract the cat for a
+second. Maybe if you could distract it longer, you could pick up that rat.
+USE the squeaky mattress with Jed's bed. Now try USING Jed's bed. The cat
+will walk over, and quickly, PICK UP the squeaky mouse toy. LOOK AT that
+bucket of Red paint behind the cat. Remember when George Washington said he
+used to cut down Cherry trees and remember the kumquat tree outside. Cherries
+are red, and that paint is red. I bet Hoagie could paint the Kumquat tree red
+(it's presently orange) and then convince George to cut it down. It's worth
+a shot. PICK UP the red paint and exit through the window and then walk over
+to the chimney and climb down it.
+ 
+ Before heading outside to paint the Kumquat tree, GIVE the wine to Jefferson
+for his time capsule.
+ 
+ WALK outside and over to the Kumquat tree. USE the red paint with the Kumquat
+tree. It looks just like a cherry tree now. Go back inside the mansion and
+TALK TO George Washington. You're going to need to convince George to chop
+it down.
+ 
+ Say:
+ "Is it true about you and the cherry tree?"
+ "I bet you've lost it. You couldn't cut down a tree to save your grandmother"
+ 
+ Now that the tree is chopped down, Laverne is free! Let's not get too
+confused with Laverne yet, but try to help Bernard. First, GIVE Red Paint
+to Bernard and then click on Bernard's face to gain control of him.
+ 
+ CHECKING OUT THE MANSION TO HELP DR. FRED STARING BERNARD
+ 
+ After exiting the grandfather clock, walk up the stairs to the right. Enter
+the room with the "W" marked on it. (A honeymoon suite). CLOSE the door behind
+you. Wait a second! There's a set of keys in the door. PICK UP the keys. USE
+the television to find out about the diamond Dr. Fred needs to buy to "save the
+world." That's about all you can do here now. OPEN the door again and
+leave the room. Go into the first "R" room.
+ 
+ Poor Dwayne. He's just tried to commit suicide. Try to cheer him up, by
+GIVING him the letter in your inventory. Now that Dwayne is so happy, he
+immediately leaves his room. PICK UP the disappearing ink on the table beside
+the door, and PICK UP the flag gun beside the bed. Exit the room and go
+into the second "R" room.
+ 
+ Look, it's Bernard's old friend Green Tentacle. TALK to green and find out
+about Purple's plans to take over the world. PUSH the speaker that has
+nothing on top of it. USE the stereo beside the door. Looks like some fake
+bark fell off the ceiling!  Remember to go pick it up later. Since the stereo
+is really, loud, USE it again and it will turn off. Also, on top of the
+stereo there is a videotape. PICK UP the videotape and then leave Green's
+room.
+ 
+ Walk toward the arrow and enter the next hall. OPEN the door to the right.
+It's weird Ed Edison. TALK to Weird Ed. PICK UP the hamster in the cage.
+[NOTE: Beside Ed's desk, there is a computer. If you USE the computer, you
+will get the play the Original Maniac Mansion game. Once you exit Maniac
+Mansion 1, you will return to the same place you were in #2. A walkthru for
+MANIAC MANSION 1 is available in the TEG ARCHIVES] Bernard, being the
+practical joker he is, has a perfect opportunity to have some fun with Ed.
+USE the disappearing ink with Ed's stamp album. Watch it disappear. You're
+now outside in the hall. PICK UP the stamp and the STAMP ALBUM. Since
+Bernard is a nice guy, GIVE the stamp album back to Weird Ed, but keep the
+stamp.
+ 
+ Exit his room, and walk back to near room "W" where there is an ice
+machine on the left wall. OPEN the ice machine and USE the hamster with it.
+He's now permanently frozen and will be preserved. WALK back downstairs and
+PICK UP the fake barf that fell down. Go outside. Notice Dead Cousin Ted.
+He will come in handy later on. WALK to the right side of the screen and you
+will end up in the parking lot. TALK TO the man in the ski mask. GIVE the
+man the keys you found in the honeymoon suite. He will give you a crowbar.
+Now head back into the house. USE the crowbar with the gum with a dime stuck
+in it on the floor Now USE the gum with a dime stuck in it to get the gum
+off the dime. Head back upstairs to the "W" room. USE both the dimes you have
+with the FickleFingers coin slot. The man on the bed will fall off, but leave
+his sweater behind. PICK UP the sweater and leave the room.
+ 
+ USE the crowbar with the candy machine and then PICK UP the quarters.
+ 
+ Walk downstairs into the main hallway, and OPEN the white doors below the
+welcome sign.  TALK to the cigar salesman. He will offer you a cigar.
+Except his offer. USE the flag gun with the cigar lighter (looks like a gun).
+Bernard will make a quick switch. Now TALK TO the cigar salesman again.
+ 
+ Say:
+ "Nice Cigars."
+ "Sure, lay one of those Havanan babies on me."
+ 
+ The salesman will put a cigar in your mouth and try to light it, but since you
+replaced the cigar lighter with the flag gun, the cigar didn't light. It's a
+good thing too! LOOK AT it and you will discover it's an exploding cigar.
+ 
+ Near the fireplace, there is a grate. OPEN the grating. Now walk over to the
+vat of teeth on the next screen to the left. Try to PICK UP the chattering
+teeth. They are too hard to catch. So WALK behind them and chase them into
+the grating. Once they fall into the grate, PICK UP the chattering teeth.
+Hm, those might look good in George Washington, to make him look cold!
+Think about that.
+ 
+ Now WALK through the swinging door beside the fireplace. Welcome to the
+kitchen. PICK UP the fork on the table an also PICK UP the coffee and decaf
+coffee pots on the coffee maker. Open the door near the microwave and enter
+the next room.
+ 
+ OPEN the pink cabinet, and inside PICK UP the funnel. Since the sweater is
+all wet from the man's drool, you should dry it off. OPEN the dryer, and then
+USE SWEATER with DRYER. Now USE QUARTERS with COIN SLOT on the DRYER (that
+should keep the machine going, for say, 200 years?).
+ 
+ WALK back downstairs to Dr. Fred's secret lab. In order for Dr. Fred to get
+the 4 million dollars needed for the diamond, he needs to remember the safe
+combination to get the contract. Maybe if you put him to sleep, he will
+remember it. It seems he only drinks regular coffee to keep him awake, so
+what would happen if he drank decaf? Chances are he would fall asleep. Try
+it out. GIVE decaf coffee to Dr. Fred. He instantly falls asleep and goes
+upstairs to his office.
+ 
+ WALK upstairs to the second hall. OPEN the door to the room on the left and
+enter. It's the video room, and look what is on the monitor. Dr. Fred with
+the safe combination! TALK TO nurse Edna. It looks like she's not letting
+you anywhere near the equipment so you can see Dr. Fred's safe combination.
+So PUSH nurse Edna to get her out of the way. Now, it's time to look at the
+safe combination. First, USE videotape with VCR (located to the right of the
+large TV monitor) to record the safe combination. LOOK AT monitor. Press the
+RECORD BUTTON (red square) to record Dr. Fred opening the safe. Shoot! He's
+opening it too fast! And now the IRS has taken Dr. Fred away. Try slowing
+down the tape. First, REWIND the tape (<<). NOW, change the SP/EP
+switch on the right to EP and press PLAY (>). Now that the tape is slowed
+down, you can see the combination. [NOTE: You don't need to remember this
+combination]. Now leave the monitor by clicking the outside of it, and walk
+downstairs to Dr. Fred's office.
+ 
+ Now that you know the combination, OPEN the safe and then PICK UP the contract.
+All you have to do is get Hoagie to mail it from the past, and then the
+contract will be valid through time. You need a stamp! That stamp from
+Weird Ed's stamp book will do just fine. USE stamp with contract. Good.
+Now exit the room and go through the white doors.
+ 
+ Go up the chimney by just clicking on it. WALK through the right window.
+Look! It's Dr. Fred all tied up by the IRS. First, PICK UP the rope around
+him. Now, PICK UP Dr. Fred. OOPS! The IRS heard about Dr. Fred and has put
+him back. It looks like you need a suitable substitute for Dr. Fred. How
+about Dead Cousin Ted downstairs? He's already bandaged up! Exit though the
+window, and USE rope with pulley. Go back downstairs through the chimney and
+out the front door. Since Dr. Fred is red, USE red paint with Dead Cousin
+Ted. Now USE dangling rope with Dead Cousin Ted. Walk back upstairs through
+the chimney. PULL rope. Since you have fallen down, WALK back upstairs
+through the chimney again! This time, on the flagpole, PICK UP the
+crank. Now WALK back in the window. USE Ted with Dr. Fred to make them
+switch places. To get Dr. Fred out of the room, USE rope with Dr. Fred.
+WALK outside and PULL rope.
+ 
+ You now gain control of Bernard back down in the lab. You need to wake Dr.
+Fred up. Use the opposite method of the way you put him to sleep. USE funnel
+with Dr. Fred. USE coffee with Dr. Fred and he will awaken. Fred is now
+awake, and you need him to sign the contract. USE contract with Dr. Fred.
+To get him to sign it say:
+ 
+ "Oh, forget it. I'll get rid of Purple Tentacle myself!"
+ "I'm getting Purple Tentacle declared insane and arrested."
+ 
+ Dr. Fred signs the contract.
+ 
+ It's time to go back in time to Hoagie. But first, FLUSH the following
+items to Hoagie: Exploding Cigar, chattering teeth, signed contract, and the
+cigar lighter. Switch to the control of Hoagie.
+ 
+ HOAGIE HELPS BERNARD AND DR. FRED OUT
+ 
+ WALK over to the dirty carriage and USE bucket full of soapy water with
+carriage. The sky will turn gray and a thunderstorm will start. Ben Franklin
+will enter the house because of the poor design of his current kite in the
+weather.
+ 
+ To mail the signed contract through time, walk over to the mailbox and USE
+signed contract with mailbox. After viewing the cut scene with Dr. Fred, walk
+inside the mansion (as Hoagie). Go into the main hall and USE exploding cigar
+with George Washington. OOPS! His teeth fell out. GIVE chattering teeth to
+George Washington. His fellow colleagues think that George looks cold because
+his teeth are chattering, so the three founding fathers build a fire. WALK
+over near John Hancock and PICK UP the blanket. WALK upstairs to the room with
+the cat and mouse and go out the window. USE blanket with Chimney and the
+house will fill with smoke. Go back through the window to the main hall.
+PICK UP gold-plated quill pen from the desk to use as the gold ingredient for
+the super battery. WALK left and the founding fathers will automatically appear.
+ 
+ Switch to Laverne (you can't flush her any items just yet!)
+ 
+ IN THE FUTURE WITH LAVERNE
+ 
+ TALK TO Tentacle Guard and say "Oooh... I don't feel so good..." He will take
+you to the medical room. After the Dr. Tentacle leaves, PICK UP the Tentacle
+chart and exit through the door. TALK TO the person in Tutu sitting on the
+bench. After learning about the tentacle contest, WALK through the big door
+in the middle of the screen, and then WALK into the kennel.
+ 
+ Again, TALK TO the Tentacle Guard and say "I have to go to the bathroom!"
+Once you are outside, WALK along the path to the Chron-o-John. GIVE
+Tentacle Chart to Hoagie and GIVE scalpel to Bernard. Switch to Hoagie and get
+him to GIVE Laverene the following items: can-opener, spaghetti (which gets wet
+in the Chron-o-john), dentures and the squeaky mouse toy.
+ 
+ Hoagie should walk upstairs to the flag room (2nd room). USE the Tentacle
+Chart with patterns. Now Laverene can use the Tentacle flag in the future as a
+costume to make her look like a tentacle. Switch to Bernard.
+ 
+ Have Bernard WALK upstairs to the room with the fireplace, and USE scalpel
+With Oozo the Clown. PICK UP Box 'O Laughs and then GIVE them to Laverne.
+Also, GIVE Laverene the following items: Crank, Booboo-B-Gone, Fake Bark, and
+the fork. Switch back to Laverne.
+ 
+ Make Laverne WALK back to the front yard and enter the mansion. She will
+automatically be placed back into custody. TALK TO the Tentacle guard for one
+last time and say "Oooh... I don't feel so good..." You are now in the
+medical room. Exit the room. Go NORTH. USE fireplace to climb it. USE
+crank with crank box. Now PULL crank to lower the flag. PICK UP flag and USE
+flag. You are now a Tentacle look alike! Go back down through the chimney.
+ 
+ WALK EAST, and TALK TO Blue Tentacle. He will automatically give you a name
+tag. WALK through the WEST door and up the stairs.
+ 
+ LOOK AT ice machine. Remember the hamster Bernard put there 200 years ago?
+Looks like it's still frozen. PICK UP frozen hamster. Enter room "W"
+ 
+ Look! It's the time capsule from 400 years ago! USE can opener with time
+capsule. The wine that Hoagie put in the capsule has matured into vinegar,
+the last ingredient needed for the super battery. PICK UP the vinegar. GIVE
+(FLUSH) the vinegar to Hoagie. Switch to him.
+ 
+ WALK out of the flag room and down to Red's secret workshop (via the
+grandfather clock).
+ 
+ GIVE oil to Red, along with the gold-plated quill pen, and the vinegar. Red
+will build the battery. Once he is done, PICK UP battery. The only problem
+is that the battery needs to be charged.
+ 
+ WALK into Ben Franklin's room. (3rd room on the second floor.) GIVE labcoat
+to Ben. He will now make a new kite and you are automatically taken outside
+with Ben. Before Ben says "NOW" USE super battery with pocket (on the kite).
+This has to be done fast, but if it doesn't work, you do get as many chances
+as you need. When Ben says "NOW" PUSH the kite.  Later that day, Ben
+awakens. He drops the battery on his way to Philly. With the lightning
+striking the kite, the battery is fully charged! Hoagie is ready to go home.
+PICK UP the fully-charged battery on the ground, that Ben dropped, and head
+back to the Chron-o-John.
+ 
+ USE battery with plug on Chron-o-John. Now when Laverne's Chron-o-John is
+set-up, everyone can go back to the present. One down, one to go!
+Switch back to Laverne.
+ 
+ Enter the next room (R). USE name tag with the Mummy. PICK UP the
+extension cord. PICK UP the roller skates and then USE roller skates with
+Mummy. PUSH Mummy into the human show.
+ 
+ Have Laverne go into Room F and meet with Purple Tentacle. TALK to him if
+you want to, or else leave the room and walk north. You've arrived at the
+Tentacle contest.
+ 
+ The first thing is to disqualify that Harold guy. He has a rather amazing
+haircut, which the mummy surely couldn't beat. USE the fake barf with Harold.
+He will be disqualified because he looks sick.
+ 
+ It's time to dress up the mummy. USE wet soggy noodles with Mummy. USE fork
+with Mummy's head to style her hair. USE Box O' Laughs with Mummy and
+finally, USE dentures with Mummy.
+ 
+ WALK over to the highly restricted judging area and TALK TO the Judges.
+ 
+ Say: "Hey, when are you guys going to judge Best Hair?"
+ The Mummy wins!
+ 
+ TALK TO them again and say:
+ "Hey, when are you guys going to judge Best Smile?"
+ The mummy wins without competition!
+ 
+ For the last time TALK TO the judges and say:
+ "Hey, when are you guys going to judge Best Laugh?"
+ The mummy wins the entire contest!
+ 
+ Exit the room and WALK outside. There is a cat on the lawn. Hm. Major joke
+potential here. USE the Booboo-B-Gone with the fence. The cat now looks like
+a skunk. To lure the cat down from the roof, USE squeaky mouse toy with cat.
+ 
+ Walk back inside, go NORTH then EAST (enter the door beside the fireplace).
+You are now in the high-tech kitchen. USE frozen hamster with microwave.
+You've nuked him! WALK EAST into the next room. Wow, it's the laundry room and
+the sweater just finished drying (Bernard sure did put a lot of quarters in
+it 200 years ago!). OPEN dryer and PICK UP sweater. It's extremely small now,
+even small enough for a hamster! USE sweater with cool-wet hamster to warm
+him up. He's now toasty warm! Exit the room.
+ 
+ GO NORTH, and NORTH again into the kennel. TALK TO the Tentacle guard. Now,
+GIVE Tentacle guard the dinner certificate. He will exit the room. PULL switch
+to turn off the alarm system. It seems the folks being held captive, are so
+tired they don't want to escape. Make them want to escape by USING cat. They
+will all run out of the mansion in a frenzy! It seems the head tentacle guard
+also left!
+ 
+ Exit the room and go WEST. OPEN the Grandfather clock and enter it. It's a
+generator. That would sure work well to power Laverne's Chron-o-John. USE
+toasty warm hamster with generator. Don't worry about the hand that comes out
+(it happens every time). It seems the little hamster got scared and ran into
+a mouse hole.
+ 
+ Thank god Hoagie changed the constitution to include a vacuum cleaner. First
+PICKUP hub cap and then USE built-in shop vac with mouse hole. OPEN hatch on
+the vacuum cleaner and PICK UP dustball.
+ 
+ Try it again. USE toasty warm hamster with generator. Now USE extension cord
+with outlet and USE extension cord with window.
+ 
+ Exit the mansion and return to the Chron-o-John. USE extension cord with
+plug. Laverne now has power!
+ 
+ SPENDING 2 MILLION ON A DIAMOND WITH BERNARD
+ 
+ The final act of business is to get that new diamond.
+ 
+ Switch to Bernard. WALK upstairs to Dwayne's room (R). USE phone to order
+the diamond.
+ 
+ This is going to take some time, since it will come via regular mail, so come
+back in 3 weeks and you can play the game some more (just kidding! It's a
+little walkthru humor, ok?).
+ 
+ In the magic world of computer games, the diamond can be delivered within
+seconds. With the new diamond in place, everyone is brought back in time!
+Dr. Fred transports the threesome back in time to where Purple Tentacle was
+turned insane, so the Sludge-O-Matic can be turned off and this whole fiasco
+never happens. But Purple has also arrived because he wants to stay insane!
+ 
+ THREE HEADS ARE BETTER THAN ONE
+ 
+ OOPS! It seems during the trip back in time, everyone is now one person
+trying to escape the evil purple tentacle and his ray gun. Exit the
+honeymoon suite, and OPEN room "R" (make sure you aren't small). Purple
+Tentacle will zap you. Quickly WALK into room "R" and go thr

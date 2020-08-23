@@ -1,0 +1,4962 @@
+Final Fantasy Origins Guide
+*****************************************************************************
+By Joseph Witham
+*****************************************************************************
+Email: josephcwitham@hotmail.com
+*****************************************************************************
+Web Site: http://www.geocities.com/jwfaqs
+*****************************************************************************
+Version 1.5 - 4/16/2003
+
+Contents
+~~~~~~~~~
+I. Opening Copyright Notice
+II. Introduction
+III. Version History
+IV. PlayStation Changes
+***Final Fantasy***
+V. Walkthrough
+VI. Classes
+VII. Items
+ 1. Support Items
+ 2. Key Items
+VIII. Magic
+ 1. White Magic
+ 2. Black Magic
+IX. Weapons
+ 1. Swords
+ 2. Axes
+ 3. Staves
+ 4. Hammers
+ 5. Nunchaku
+ 6. Knives
+X. Armor
+ 1. Body
+ 2. Head
+ 3. Arm
+ 4. Shields
+XI. Monsters
+XII. Boss Strategies
+XIII. Shops
+XIV. Status Ailments
+***Final Fantasy II***
+XV. Walkthrough
+XVI. Spells
+ 1. White Magic
+ 2. Black Magic
+XVII. Items
+ 1. Support Items
+ 2. Battle Items
+ 3. Key Items
+XVIII. Weapons
+ 1. Swords
+ 2. Axes
+ 3. Knives
+ 4. Spears
+ 5. Staves
+ 6. Bows
+XIX. Armor
+ 1. Body
+ 2. Head
+ 3. Arm
+ 4. Shields
+XX. Shops
+XXI. Boss Strategies
+XXII. Secrets
+XXIII. Closing Copyright Notice
+
+=============================================================================
+I. OPENING COPYRIGHT NOTICE
+=============================================================================
+
+This guide is Copyright 2003 Joseph Witham (josephcwitham@hotmail.com).
+Anyone who desires to reproduce, distribute, or use this guide on their web 
+site has the author's permission under the following conditions:
+ 1. It must not be altered in any way.
+ 2. It must not be used for profit; it must be distributed freely. 
+ 3. It must remain in its entirety, with every part intact.
+ 4. Credit must be given to the author, Joseph Witham.
+All information in this guide, unless otherwise noted, was compiled and 
+written by the author. You may not reproduce any information from this guide
+and use it in any other publication without written consent of the author.
+
+=============================================================================
+II. INTRODUCTION
+=============================================================================
+
+This guide includes a complete walkthrough for both Final Fantasy and Final 
+Fantasy II, as well as a huge selection of supplementary appendices to help 
+you get the most out of Final Fantasy Origins.
+
+=============================================================================
+III. VERSION HISTORY
+=============================================================================
+
+1.5 - 4/16/2003
+ -Corrected a couple minor errors.
+
+1.4 - 4/15/2003
+ -Everything in FF2 has been changed to fit the new release.
+ -The entire guide is now Final Fantasy Origins compatible.
+
+1.3 - 4/13/2003
+ -Weapon, armor, and monster names for FF1 are now FFO compatible.
+ -The Final Fantasy portion of the FAQ is complete.
+
+1.2 - 4/12/2003
+ -Item, spell, class and location names for FF1 are now FFO compatible.
+
+1.1 - 4/9/2003
+ -I've begun changing item/spell/monster names to fit the new release.
+
+1.0 - 3/17/2003
+ -Initial Release.
+
+=============================================================================
+IV. PLAYSTATION CHANGES
+=============================================================================
+
+Final Fantasy:
+-Graphics and sound have been upgraded to 16 bit quality. The graphics are 
+based on the WonderSwan Color version of the game, with a few touch-ups, such 
+as increased resolution and Mode 7 support.
+-A brand new FMV has been added allowing the player to see a scene from the 
+game in super-realistic graphics.
+-New music for boss battles and churches have been added.
+-The menu system is easier to navigate.
+-You can choose either normal mode or easy mode. The easy mode makes the 
+game extremely easy compared to its Famicom counterpart. Changes include 
+cheaper shop prices better level-up statistics, and easier battles.
+-The auto target feature prevents characters from attacking dead monsters.
+-The Dash feature increases walking speed in towns and dungeons.
+-As you progress through the game, you will unlock an Omake mode, which 
+provides information on monsters, towns, and dungeons; it also allows you 
+to view media from the game. You must complete the game on both easy and
+normal mode to unlock everything.
+
+Final Fantasy II:
+-Audio and visuals have been upgraded to 16 bit standards. Like Final 
+Fantasy, the updates are based on the WonderSwan Color version of the game, 
+with a few touch-ups.
+-The game's system has been tweaked in order to make it easier. Spells and 
+weapons are much more accurate, and status ailments are far less effective 
+for enemies.
+-Boss music has been added for each boss; however, the original boss music 
+has been removed and replaced by a new one.
+-Color palettes have been changed in favor of a more realistic look. For 
+example, the Dreadnought is now metal instead of wooden.
+-A brand new FMV has been added to enhance the visual experience.
+-The battle system has been cleaned up; however, you can still attack 
+yourself to gain HP and attack and cancel to gain skill levels.
+-A Dash feature has been added to increase walking speed.
+-The Auto Target feature prevents characters from attacking dead monsters.
+-Item space has been upgraded from 32 from the original to 63.
+-Items, equipment, and spells now have icons that tell what they are.
+-As you progress through the game, you will unlock an Omake mode, which 
+provides information on monsters, towns, and dungeons; it also allows you 
+to view media from the game.
+
+*****************************************************************************
+********************************FINAL FANTASY********************************
+*****************************************************************************
+
+=============================================================================
+V. WALKTHROUGH
+=============================================================================
+
+-----------------------------------------------------------------------------
+1. Cornelia
+-----------------------------------------------------------------------------
+
+Press O and START together to view the overworld map. If you are on easy 
+mode, press the O button to dash in towns and dungeons. Enter the town and 
+go shopping for goods. Try to balance out your purchases, don't spend all 
+your money on equipment and none on magic. You should buy at least one 
+Cure spell and one attack spell for your mages. Enter the castle and speak 
+to the king on the top floor. When your characters are equipped and ready 
+to fight, you should leave town and level up to at least level 3. Once you 
+feel confident, head north to the ruined temple. Be wary on the way there, 
+there are many strong monsters.
+
+-----------------------------------------------------------------------------
+2. Temple of Chaos
+-----------------------------------------------------------------------------
+
+TREASURE: Leather Cap, Potion, Tent, Lute.
+
+Walk clockwise around the perimeter of the temple and collect treasure. 
+There are two locked doors, ignore them for now. When you enter the inner 
+sanctum, heal your characters and prepare to fight Garland.
+
+Garland
+ EXPERIENCE: 128
+ GIL: 250
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use Fire or Bolt spells.
+
+After you defeat Garland you will briefly speak to Princess Sarah and then be 
+automatically transported back to Cornelia Castle. Talk to Princess Sarah to 
+receive the Lute. Cross the newly built bridge north of Cornelia.
+
+-----------------------------------------------------------------------------
+3. Matoya's Cave
+-----------------------------------------------------------------------------
+
+TREASURE: Potion ×2, Antidote.
+
+Travel north west from the bridge and enter the cave. Speak to Matoya and 
+collect treasures found within her cave. Return to the bridge and travel 
+east to the port town.
+
+-----------------------------------------------------------------------------
+4. Pravoca
+-----------------------------------------------------------------------------
+
+Defeat Bikke the Pirate's men to earn a ship. Buy new equipment and spells 
+as desired. North east of Pravoca is a peninsula where extremely powerful 
+enemies abide. Travel to this peninsula in order to rack up huge amounts of 
+experience early in the game. You should be at least level 5 and have 
+Dia and Fire spells for your mages. Now that you have your ship you can 
+access a hidden puzzle game. To get it, get on your ship and hold down X and 
+then press O 55 times to play. If you get 1st place you'll win 10000 Gil, 
+2nd place for 5000 Gil, and 3rd place for 2000 Gil. You can also win items 
+for finishing it within certain times. When you're ready, sail south and 
+land on the port and travel south to the town.
+
+-----------------------------------------------------------------------------
+5. Elfheim
+-----------------------------------------------------------------------------
+
+There are several new upper level spells and weapons available here. Talk to 
+the Prince's steward in the Elven Castle. I recommend that you are at least 
+level 8 before venturing into the Marsh Cave. Travel south west past the
+mountains to the large hole when you are ready.
+
+-----------------------------------------------------------------------------
+6. Marsh Cave
+-----------------------------------------------------------------------------
+
+TREASURE: 680 Gil, 620 Gil, 295 Gil, 385 Gil, Dagger, Broadsword, Cottage, 
+Steel Plate, Copper Armlet, Crown.
+
+Travel north to the stairs and collect treasure. Go back to the entrance and 
+exit and heal if necessary. Travel south from the entrance, collect treasure 
+on the way. You will eventually reach an area with several rooms. Enter the 
+south west room with a treasure chest surrounded by statues. Fight the Pisco 
+Demons to get the Crown. There is locked door south of this room, ignore it 
+for now. Exit the Marsh Cave and travel north to the Western Keep.
+
+-----------------------------------------------------------------------------
+7. Western Keep
+-----------------------------------------------------------------------------
+
+TREASURE: Crystal Eye, Jolt Tonic, Mystic Key.
+
+There is one locked door in this castle, ignore it for now. If you have the 
+Crown, fight Astos for the Crystal Eye.
+
+Astos
+ EXPERIENCE: 2248
+ GIL: 2000
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use high level Black Magic spells.
+
+Return to Matoya's Cave and give her the Crystal Eye for the Jolt Tonic.
+With the Jolt Tonic, return to the Elven Castle and talk to 
+the Prince's steward to wake the Prince up. He'll give you the Mystic Key.
+
+-----------------------------------------------------------------------------
+8. Mystic Key Quest
+-----------------------------------------------------------------------------
+
+TREASURE: [Elven Castle]: Bronze Gloves, Mythril Hammer, 400 Gil, 330 Gil.
+[Cornelia Castle]: Cosier, Nitro Powder, Saber, Mythril Knife,
+Iron Shield.
+[Temple of Chaos]: Rune Blade, Gold Needle, Werebane.
+[Western Keep]: Falchion, Power Staff, Steel Gloves.
+[Marsh Cave]: Silver Armlet.
+
+Open the locked door in the Elven Castle for treasure. Return to Cornelia 
+Castle and open the locked doors for treasure. There is one very important 
+item in the castle called Nitro Powder. Go to the Temple of Chaos and open
+the two locked doors for treasure. Travel to the Western Keep and open the
+locked door for treasure. Finally, go back to the Marsh Cave and travel 
+as far south as possible to the locked door for treasure.
+
+-----------------------------------------------------------------------------
+9. Mt. Duergar
+-----------------------------------------------------------------------------
+
+TREASURE: 575 Gil ×2, 450 Gil, Tent, Grand Helm, Wyrmkiller, 
+Mythril Knife, Mythril Mail, Cottage, Helmet.
+
+Sail your ship west to reach Mt. Duergar. Explore the cave for its 
+treasure. Give the dwarf in the southern area the Nitro Powder you got in 
+Cornelia. The explosion will cause a new canal to form. You are now free
+to sail out of the Cornelian Bay.
+
+-----------------------------------------------------------------------------
+10. Melmond
+-----------------------------------------------------------------------------
+
+Land on the port west of the Mt. Duergar to reach Melmond. You will notice 
+that there are no item shops or churches. There are some great, yet very 
+expensive, spells and armor. When you're ready, travel south to the Terra 
+Cavern.
+
+-----------------------------------------------------------------------------
+11. Terra Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 1975 Gil, 795 Gil, 5000 Gil, 880 Gil, 330 Gil, 575 Gil, 3400 Gil, 
+1020 Gil, Antidote, Potion ×2, Tent, Coral Sword, Leather Shield, 
+Sleeping Bag, Star Ruby.
+
+Be wary of strong monsters as you collect treasure in the cave. When you 
+reach B3F you will have to fight a Vampire.
+
+Vampire
+ EXPERIENCE: 1200
+ GIL: 2000
+ WEAKNESS: Fire, Dia
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should use Dia and heal when needed, Black and Red Mages should use 
+ Fire magic.
+
+After defeating the Vampire you will receive a Star Ruby. If you try to 
+travel any farther, your path will be blocked, so exit for now.
+
+-----------------------------------------------------------------------------
+12. Titan's Cave
+-----------------------------------------------------------------------------
+
+TREASURE: [Titan's Cave]: 620 Gil, 420 Gil, Great Axe, Mythril Helm.
+[Sage's Cave]: Earth Rod.
+
+Enter the cave north of the Terra Cavern. Speak to the Titan and give him the 
+Star Ruby to move him out of your way. Exit the cave and enter Sage's Cave.
+Speak to the old man to receive the Earth Rod. Return to the Terra Cavern.
+
+-----------------------------------------------------------------------------
+13. Terra Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 3400 Gil, 1520 Gil, 1455 Gil, 5450 Gil, 1250 Gil, Staff, Tent, 
+Mythril Shield.
+
+Return to the room where you fought the Vampire and continue to the stone 
+that was blocking your path. To move the stone, open the menu and access the 
+Earth Rod. Collect treasure as you descend to B5F, where Lich awaits.
+
+Lich
+ EXPERIENCE: 2200
+ GIL: 3000
+ WEAKNESS: Fire, Dia
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should use Dia and heal when needed, Black and Red Mages should use
+ Fire magic.
+
+Relight the crystal and use the warp to exit the cavern.
+
+-----------------------------------------------------------------------------
+14. Crescent Lake
+-----------------------------------------------------------------------------
+
+TREASURE: Canoe.
+
+Sail your ship to the south east-most port and walk to Crescent Lake. Buy 
+new equipment as needed. Follow the hidden path to the Circle of Sages. 
+Talk to the Sages and you'll get a Canoe. You should be at least level 18 
+before moving on. Enter the lake to use the Canoe and row north to the 
+volcano.
+
+-----------------------------------------------------------------------------
+15. Mt. Gulg
+-----------------------------------------------------------------------------
+
+TREASURE: 1520 Gil ×2, 4150 Gil, 750 Gil, 795 Gil, 1455 Gil, 1975 Gil, 
+1760 Gil ×2, 2750 Gil, 880 Gil, 7350 Gil, 155 Gil, 10 Gil, 2000 Gil, 
+1250 Gil, Mythril Helm ×2, Great Axe, Mythril Gloves, Potion ×2, 
+Tent, Antidote ×2, Mythril Axe, Mythril Shield, Gold Needle, Cottage, Staff, 
+Ice Brand, Flame Shield, Flame Armor.
+
+Walking on the lava reduces each character's HP, but it eliminates all random 
+battles at the same time. This dungeon is full to the brim with treasure. 
+Just head generally south and be sure to check each room on your way down. 
+You will eventually meet up with Marilith, the fiend of fire.
+
+Marilith
+ EXPERIENCE: 2712
+ GIL: 3000
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use high level magic. Watch out for Marilith's high level Fire spells.
+
+Use the warp to exit the volcano. Return to your ship and sail to the bay 
+just north of Crescent Lake. Navigate your canoe to the eastern cave.
+
+-----------------------------------------------------------------------------
+16. Ice Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 7900 Gil, 9900 Gil, 5450 Gil, 5000 Gil, 180 Gil, 12350 Gil, 
+10000 Gil, Flame Sword, Ice Armor, Shirt, Mythril Gloves, Potion, 
+Sleeping Bag, Ice Shield, Levistone.
+
+Follow the general path and you'll eventually find your way to a chest 
+containing the Levistone. You'll have to fight an Evil Eye before you can 
+get it. Once you have the Levistone exit the cave and sail back to 
+Crescent Lake. From there, navigate the southern river into the desert 
+area. Use the Levistone to get an airship!
+
+-----------------------------------------------------------------------------
+17. Citadel of Trials
+-----------------------------------------------------------------------------
+
+TREASURE: 1455 Gil, 7340 Gil, Gauntlets, Healing Staff, Steel Gloves, 
+Ruby Armlet, Ice Brand, Cottage, Rat's Tail.
+
+Fly your airship north to the continent with the huge desert and land on the 
+west peninsula. Try to find a close parking space anywhere on grassy areas. 
+Enter the castle and talk to the old man. Enter the north west room and walk 
+on the throne to warp into the castle. Use your intuition to find your way 
+through the warp maze. You'll eventually reach another throne room with a 
+chest containing a Rat's Tail. Step onto the throne to warp back to the 
+entrance.
+
+-----------------------------------------------------------------------------
+18. Dragon Caves
+-----------------------------------------------------------------------------
+
+TREASURE: 1455 Gil, 2000 Gil, 2750 Gil, 1520 Gil, 2750 Gil, 9500 Gil, 
+160 Gil, 500 Gil, 10 Gil, 575 Gil, Cottage, Tent, Gold Needle.
+
+Head to the long strip of islands off the coast of Citadel of Trials. In 
+each of the islands are treasures and friendly dragons. There are no enemies 
+in the caves. Be sure to explore each cave for treasure. You'll eventually 
+reach the mighty dragon king, Bahamut. Give him the Rat's Tail and he'll 
+upgrade your classes. Now that your characters have been upgraded 
+a whole slew of new spells and equipment will be available to them, so 
+revisit each town to see what you've been missing.
+
+-----------------------------------------------------------------------------
+19. Caravan
+-----------------------------------------------------------------------------
+
+TREASURE: Bottled Faerie.
+
+On the north west continent you'll see a desert. Within this desert is a 
+small patch of desert surrounded by grass. Enter this patch and buy the 
+Bottled Faerie for 50000 Gil (40000 on Easy Mode). Once you buy the 
+Bottled Faerie a new set of items will become available for you to buy.
+
+-----------------------------------------------------------------------------
+20. Gaia
+-----------------------------------------------------------------------------
+
+TREASURE: Oxyale.
+
+Fly your airship into the mountain range above the huge desert and enter
+the town. Buy whatever supplies you need. Travel up the northern path to a 
+spring. Open the menu and access the Bottled Faerie to release a fairy. She 
+will give you Oxyale for freeing her.
+
+-----------------------------------------------------------------------------
+21. Onlak
+-----------------------------------------------------------------------------
+
+Travel to the continent west of Gaia and enter the town located there. There 
+are a few new spells, but the town's overall inventory is lacking. Walk to 
+the east most area of the town and talk to the girl next to the submarine to 
+enter the next dungeon.
+
+-----------------------------------------------------------------------------
+22. Sunken Shrine
+-----------------------------------------------------------------------------
+
+TREASURE: 2000 Gil, 9900 Gil ×2, 110 Gil, 450 Gil, 8135 Gil, 7690 Gil, 
+385 Gil, 5450 Gil, 2250 Gil, 7340 Gil, 20 Gil, 12350 Gil, 1760 Gil, 
+9000 Gil, 2750 Gil, 4150 Gil, 5000 Gil, 10000 Gil, 10 Gil, Giant's Gloves, 
+Light Axe ×2, Ribbon, Diamond Armor, Mage's Staff, Diamond Armlet, 
+Antidote, Diamond Shield, Diamond Gloves, Rosetta Stone, Diamond Helm.
+
+There are two paths in the first room, one to the left and one to the right. 
+The left paths leads to the boss and the right leads to a huge amount of 
+treasure and one very important plot item. You will end up having to take 
+both paths. Save time by taking the right path first, and be sure to pick up
+the Rosetta Stone on the way. Head back to the entrance and take the left 
+path and make your way to the boss.
+
+Kraken
+ EXPERIENCE: 4245
+ GIL: 5000
+ WEAKNESS: Bolt
+ STRATEGY: Knights/Ninjas/Masters should attack physically, White Wizards 
+ should attack physically and heal when needed, Black and Red Wizards should
+ use high level Bolt spells.
+
+Restore the crystal and use the warp to exit the dungeon.
+
+-----------------------------------------------------------------------------
+23. Waterfall Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 13450 Gil, 6400 Gil, 5000 Gil, Spellbinder, Ribbon, Defender, 
+Warp Cube.
+
+To the north of Onlak is a waterfall. Canoe up to the waterfall and enter 
+it. In the southern area of the waterfall is a room full of treasure. There 
+is also a friendly robot inside. One of the chests contains the Warp Cube. 
+This item is of special importance. Exit the cavern and return to your 
+airship.
+
+-----------------------------------------------------------------------------
+24. Lufenia
+-----------------------------------------------------------------------------
+
+TREASURE: Bell.
+
+Return to Melmond with the Rosetta Stone. Talk to the scholar in the north 
+east corner of town and he will teach your party the Lufenian language. 
+Travel to the town on the south peninsula of the continent with the huge 
+desert. You'll have to park your airship next to the northern lake to get 
+there. When you enter the town be sure to check out the hidden path in the 
+north east corner of the town to reach a hidden magic shop which has two of 
+the best spells in the game. Talk to all of the Lufenian people and you'll 
+eventually run into someone who gives you a Bell. Return to your airship 
+and fly over the huge desert. Find a parking place somewhere near the 
+desert.
+
+-----------------------------------------------------------------------------
+25. Tower of Mirage
+-----------------------------------------------------------------------------
+
+TREASURE: 800 Gil, 3400 Gil, 18010 Gil, 2750 Gil, 8135 Gil, 7900 Gil, 
+12350 Gil, 13000 Gil, 7600 Gil, 10000 Gil, Tent, Healing Helm, Vorpal Sword, 
+Aegis Shield, Cottage, Thor's Hammer, Sunblade, Dragon Mail.
+
+Walk to the center of the huge desert and enter the tower. Once you have 
+reached the third floor you'll be warped to the Flying Fortress.
+
+-----------------------------------------------------------------------------
+26. Flying Fortress
+-----------------------------------------------------------------------------
+
+TREASURE: 180 Gil, 5000 Gil, 6720 Gil, 7900 Gil, 9900 Gil, 4150 Gil ×2, 
+13000 Gil, 880 Gil, 8135 Gil, 9500 Gil, 6400 Gil, 5450 Gil, 9000 Gil,
+3400 Gil, Protect Ring, Healing Helm, Potion, Diamond Gloves, 
+Diamond Shield, Ribbon, Adamantite, Cottage, Mythril Helm, 
+Protect Ring, Shirt, Protection Mantle, Gold Needle, Potion, 
+Venom Blade, Gold Needle, Black Robe, White Robe, Sasuke.
+ 
+There's a treasure chest on floor 2 that contains Adamantite. Be sure to get 
+this item if you want the Excalibur. Look into the glowing ball on the third 
+floor to see the world being invaded by the four fiends. At the end of the 
+long hall on the top floor is the boss.
+
+Tiamat
+ EXPERIENCE: 5496
+ GIL: 6000
+ WEAKNESS: Flare
+ STRATEGY: Knights/Ninjas/Masters should attack physically, White Wizards 
+ should attack physically and heal when needed, Black Wizards should use 
+ Flare and Red Wizards should attack physically.
+
+Restore the crystal and use the warp to return to the outside of Tower of 
+Mirage.
+
+-----------------------------------------------------------------------------
+27. Temple of Chaos
+-----------------------------------------------------------------------------
+
+TREASURE: 45000 Gil, 65000 Gil, 26000 Gil, Protection Mantle, 
+Protect Ring, Sasuke, Masamune, Excalibur.
+
+Go to Mt. Duergar and give the Adamantite to the blacksmith. He will weld 
+it into the Excalibur, one of the best weapons in the game. You should be 
+at least level 30 for a safe trip through the temple. Buy any items and 
+equipment needed before entering the temple. With all four crystals lit, 
+return to the Temple of Chaos and touch the orb to be warped back in time 
+2000 years. The only way out of the temple is to cast the white magic spell 
+Warp2. There is a stone blocking your way on 3F. To remove it, access the 
+menu and use the Lute. Along the way you will have to fight all four fiends 
+over again at different set locations throughout the temple. Always keep you 
+HP up and be prepared for anything. After a very long walk you will reach a 
+triangular room. Inside this room is the final boss, Chaos.
+
+Chaos
+ EXPERIENCE: --
+ GIL: --
+ WEAKNESS: Flare, Holy
+ STRATEGY: Knights should use the Excalibur or Masamune. Ninjas should use 
+ Sasukes or the Masamune. Masters should attack physically. 
+ White Wizards should use Holy and should also use Cure4, Heal3, and Life2
+ when needed. Red Wizards should attack physically. Black Wizards should 
+ use Flare.
+
+=============================================================================
+VI. CLASSES
+=============================================================================
+
+BASIC CLASSES
+~~~~~~~~~~~~~~~~~
+Warrior
+ UPGRADE: Knight
+ ABILITIES: Warriors can equip high level weapons and armor. They have 
+ very high HP and attack power.
+
+Thief
+ UPGRADE: Ninja
+ ABILITIES: Thieves can equip low level weapons and armor. They can run from 
+ battle easier than any other class. They have very low HP and attack power.
+
+White Mage
+ UPGRADE: White Wizard
+ ABILITIES: White Mages can equip low very low level armor and weapons. They 
+ can use most white magic spells. They have medium HP and very low attack 
+ power.
+
+Black Mage
+ UPGRADE: Black Wizard
+ ABILITIES: Black Mages can equip very low level weapons and armor. They can 
+ use most black magic spells. They have very low HP and attack power.
+
+Red Mage
+ UPGRADE: Red Wizard
+ ABILITIES: Red Mages can equip medium level weapons and armor. They can use 
+ several, but not many, black and white magic spells. They have medium HP 
+ and attack power.
+
+Monk
+ UPGRADE: Master
+ ABILITIES: Monks can equip medium level armor and very few weapons. They 
+ are best without weapons equipped. They have very high HP and attack power.
+
+CLASS UPGRADES
+~~~~~~~~~~~~~~~~~
+Knight
+ ORIGINAL CLASS: Warrior
+ ABILITIES: Knights can equip very high level weapons and armor. They can 
+ use a few level 1-3 white magic spells. They have very high HP and attack 
+ power.
+
+Ninja
+ ORIGINAL CLASS: Thief
+ ABILITIES: Ninjas can equip almost any weapon or armor. They can use 
+ several level 1-4 black magic spells. They have very high HP and attack 
+ power.
+
+White Wizard
+ ORIGINAL CLASS: White Mage
+ ABILITIES: White Wizards can equip low level weapons and armor. They can 
+ use any white magic spells. They have medium HP and low attack power.
+
+Black Wizard
+ ORIGINAL CLASS: Black Mage
+ ABILITIES: Black Wizards can equip low level weapons and armor. They can 
+ use any black magic spells. They have very low HP and attack power.
+
+Red Wizard
+ ORIGINAL CLASS: Red Mage
+ ABILITIES: Red Wizards can equip medium level weapons and armor. They can 
+ use most black and white magic spells. They have medium HP and attack 
+ power.
+
+Master
+ ORIGINAL CLASS: Monk
+ ABILITIES: Masters can equip low level armor and very few weapons. They 
+ have very high HP and attack power.
+
+=============================================================================
+VII. ITEMS
+=============================================================================
+
+1. SUPPORT ITEMS
+~~~~~~~~~~~~~~~~~
+Antidote
+ DESCRIPTION: Recovers poison status.
+ COST: 75 | 50 (Easy Mode)
+
+Cottage
+ DESCRIPTION: Restores all HP/MP to party on world map.
+ COST: 3000 | 2000 (Easy Mode)
+
+Gold Needle
+ DESCRIPTION: Recovers stone status.
+ COST: 800 | 500 (Easy Mode)
+
+Potion
+ DESCRIPTION: Restores small portion of HP.
+ COST: 60 | 40 (Easy Mode)
+
+Sleeping Bag
+ DESCRIPTION: Restores small amount of HP to party on world map.
+ COST: 75 | 50 (Easy Mode)
+
+Tent
+ DESCRIPTION: Restores large amount of HP to party on world map.
+ COST: 250 | 160 (Easy Mode)
+
+2. KEY ITEMS
+~~~~~~~~~~~~~~~~~
+Adamantite
+ DESCRIPTION: Given to the blacksmith in Mt. Duergar for the Excalibur.
+ LOCATION: Flying Fortress
+
+Bell
+ DESCRIPTION: Used to make Tower of Mirage appear.
+ LOCATION: Lufenia
+
+Bottled Faerie
+ DESCRIPTION: Frees the fairy in the spring in Gaia.
+ LOCATION: Caravan
+
+Canoe
+ DESCRIPTION: Allows you to travel in rivers.
+ LOCATION: Crescent Lake
+
+Crown
+ DESCRIPTION: Used to fight Astos.
+ LOCATION: Marsh Cave
+
+Crystal Eye
+ DESCRIPTION: Given to Matoya for the Jolt Tonic.
+ LOCATION: Western Keep
+
+Earth Rod
+ DESCRIPTION: Destroys the stone blocking the path in the Terra Cavern.
+ LOCATION: Sage's Cave
+
+Jolt Tonic
+ DESCRIPTION: Awakens the Elf Prince.
+ LOCATION: Matoya's Cave
+
+Levistone
+ DESCRIPTION: Used in the desert south of Crescent Lake for an airship.
+ LOCATION: Ice Cavern
+
+Lute
+ DESCRIPTION: Removes the stone blocking the path in Temple of Chaos.
+ LOCATION: Cornelia Castle
+
+Mystic Key
+ DESCRIPTION: Used to open various locked doors.
+ LOCATION: Elven Castle
+
+Nitro Powder
+ DESCRIPTION: Used to blow up a canal.
+ LOCATION: Cornelia Castle
+
+Oxyale
+ DESCRIPTION: Allows you to use the submarine in Onlak.
+ LOCATION: Gaia
+
+Rat's Tail
+ DESCRIPTION: Given to Bahamut for a class upgrade.
+ LOCATION: Citadel of Trials
+
+Rosetta Stone
+ DESCRIPTION: Given to the scholar in Melmond to learn Lufenian.
+ LOCATION: Sunken Shrine
+
+Star Ruby
+ DESCRIPTION: Fead to the Titan in Titan's Cave to move on.
+ LOCATION: Terra Cavern
+
+Warp Cube
+ DESCRIPTION: Used to warp to the Flying Fortress from Tower of Mirage.
+ LOCATION: Waterfall Cavern
+
+=============================================================================
+VIII. MAGIC
+=============================================================================
+
+1. WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Level 1:
+
+Cure1
+ DESCRIPTION: Restores a small amount of HP to one character.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Dia1
+ DESCRIPTION: Causes a small amount of damage to undead creatures.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Blink
+ DESCRIPTION: Increases one character's evade.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Shld1
+ DESCRIPTION: Increases one character's defense power.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Level 2:
+
+Silence
+ DESCRIPTION: Prevents enemies from using magic.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+NulBolt
+ DESCRIPTION: Bolt damage caused to party is decreased.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Invis1
+ DESCRIPTION: Increases one character's evade.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Lamp
+ DESCRIPTION: Cures one character of blind status.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Level 3:
+
+Cure2
+ DESCRIPTION: Restores a medium amount of HP to one character.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+NulFire
+ DESCRIPTION: Fire damage caused to party is decreased.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Dia2
+ DESCRIPTION: Causes a medium amount of damage to undead creatures.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Heal1
+ DESCRIPTION: Restores a small amount of HP to entire party.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Level 4:
+
+Esuna
+ DESCRIPTION: Cures one character of poison status.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+NulIce
+ DESCRIPTION: Ice damage caused to party is decreased.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Fear
+ DESCRIPTION: Causes enemies to run from battle.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Vox
+ DESCRIPTION: Cures one character of silence status.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Level 5:
+
+Cure3
+ DESCRIPTION: Restores a large amount of HP to one character.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Life
+ DESCRIPTION: Restores life to one fallen character.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Dia3
+ DESCRIPTION: Causes a large amount of damage to undead creatures.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Heal2
+ DESCRIPTION: Restores a medium amount of HP to entire party.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Level 6:
+
+Stona
+ DESCRIPTION: Cures one character of stone status.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Warp2
+ DESCRIPTION: Teleports party out of dungeons.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Invis2
+ DESCRIPTION: Increases party's evade.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Shld2
+ DESCRIPTION: Increases party's defense power.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Level 7:
+
+Cure4
+ DESCRIPTION: Restores a very large amount of HP to one character.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Gaia
+
+Dia4
+ DESCRIPTION: Causes a very large amount of damage to undead creatures.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Gaia
+
+NulMgc
+ DESCRIPTION: Prevents party from death spells.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Onlak
+
+Heal3
+ DESCRIPTION: Restores a large amount of HP to entire party.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Onlak
+
+Level 8:
+
+Life2
+ DESCRIPTION: Restores life and full HP to one character.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Lufenia
+
+NullAll
+ DESCRIPTION: Protects one character from all spells and status effects.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+Holy
+ DESCRIPTION: Causes a large amount of damage to all enemies.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+Dispel
+ DESCRIPTION: Removes status increasing spells from one enemy.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+2. BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Level 1:
+
+Fire1
+ DESCRIPTION: Causes a small amount of fire elemental damage to one enemy.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Bolt1
+ DESCRIPTION: Causes a small amount of bolt elemental damage to one enemy.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Focus1
+ DESCRIPTION: Increases one character's hit rate.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Sleep1
+ DESCRIPTION: Puts one enemy to sleep, disabling their commands.
+ COST: 100 | 50 (Easy Mode)
+ LOCATION: Cornelia
+
+Level 2:
+
+Ice1
+ DESCRIPTION: Causes ice elemental damage to one enemy.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Slow
+ DESCRIPTION: Decreases one enemy's hit rate.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Fog
+ DESCRIPTION: Causes blind status to enemies.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Steel
+ DESCRIPTION: Increases one character's attack power.
+ COST: 400 | 250 (Easy Mode)
+ LOCATION: Pravoca
+
+Level 3:
+
+Fire2
+ DESCRIPTION: Causes a medium amount of fire elemental damage to all enemies.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Bolt2
+ DESCRIPTION: Causes a medium amount of bolt elemental damage to all enemies.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Bind
+ DESCRIPTION: Stuns one enemy, disabling all commands.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Focus2
+ DESCRIPTION: Decreases all enemies' evade.
+ COST: 1500 | 1000 (Easy Mode)
+ LOCATION: Elfheim
+
+Level 4:
+
+Haste
+ DESCRIPTION: Increases one character's hits.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Ice2
+ DESCRIPTION: Causes a medium amount of ice elemental damage.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Sleep2
+ DESCRIPTION: Puts one enemy into a deep sleep, disabling their commands.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Muddle
+ DESCRIPTION: Causes enemies to attack other enemies.
+ COST: 4000 | 2500 (Easy Mode)
+ LOCATION: Elfheim
+
+Level 5:
+
+Fire3
+ DESCRIPTION: Causes a large amount of fire elemental damage to all enemies.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Warp1
+ DESCRIPTION: Teleports party back one floor in dungeons.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Poison
+ DESCRIPTION: Kills all enemies.
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Slow2
+ DESCRIPTION: Decreases one enemies' hit rate
+ COST: 8000 | 5000 (Easy Mode)
+ LOCATION: Melmond
+
+Level 6:
+
+Bolt3
+ DESCRIPTION: Causes a large amount of bolt elemental damage to all enemies.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Reaper
+ DESCRIPTION: Kills one enemy.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Quake
+ DESCRIPTION: Kills all enemies.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Stun
+ DESCRIPTION: Stuns one enemy, disabling all commands.
+ COST: 20000 | 13000 (Easy Mode)
+ LOCATION: Crescent Lake
+
+Level 7:
+
+Ice3
+ DESCRIPTION: Causes a large amount of ice elemental damage to all enemies.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Gaia
+
+Break
+ DESCRIPTION: Turns one enemy into stone.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Gaia
+
+Saber
+ DESCRIPTION: Increases one character's attack power.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Onlak
+
+Blind
+ DESCRIPTION: Causes blind status to one enemy.
+ COST: 45000 | 30000 (Easy Mode)
+ LOCATION: Onlak
+
+Level 8:
+
+Flare
+ DESCRIPTION: Causes a very large amount of damage to all enemies.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Lufenia
+
+Doom
+ DESCRIPTION: Kills one enemy.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+Stop
+ DESCRIPTION: Stuns all enemies, disabling their commands.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+Warp
+ DESCRIPTION: Kills all enemies.
+ COST: 60000 | 40000 (Easy Mode)
+ LOCATION: Gaia
+
+=============================================================================
+IX. WEAPONS
+=============================================================================
+
+1. SWORDS
+~~~~~~~~~~~~~~~~~
+Broadsword
+ COST: 550 | 450 (Easy Mode)
+ LOCATION: Pravoca
+ ATTACK POWER: 15
+ HIT RATE: 10
+
+Coral Sword
+ COST: --
+ LOCATION: Terra Cavern
+ ATTACK POWER: 19
+ HIT RATE: 15
+
+Defender
+ COST: --
+ LOCATION: Waterfall Cavern
+ ATTACK POWER: 30
+ HIT RATE: 35
+
+Excalibur
+ COST: --
+ LOCATION: Mt. Duergar
+ ATTACK POWER: 45
+ HIT RATE: 35
+
+Falchion
+ COST: --
+ LOCATION: Western Keep
+ ATTACK POWER: 15
+ HIT RATE: 10
+
+Flame Sword
+ COST: --
+ LOCATION: Ice Cavern
+ ATTACK POWER: 26
+ HIT RATE: 20
+
+Ice Brand
+ COST: --
+ LOCATION: Mt. Gulg, Citadel of Trials
+ ATTACK POWER: 29
+ HIT RATE: 25
+
+Long Sword
+ COST: 1500 | 1200 (Easy Mode)
+ LOCATION: Melmond
+ ATTACK POWER: 20
+ HIT RATE: 20
+
+Masamune
+ COST: --
+ LOCATION: Temple of Chaos
+ ATTACK POWER: 56
+ HIT RATE: 50
+
+Mythril Sword
+ COST: 4000 | 3200 (Easy Mode)
+ LOCATION: Elfheim, Crescent Lake
+ ATTACK POWER: 23
+ HIT RATE: 15
+
+Rapier
+ COST: 10 | 8 (Easy Mode)
+ LOCATION: Cornelia
+ ATTACK POWER: 9
+ HIT RATE: 5
+
+Rune Blade
+ COST: --
+ LOCATION: Temple of Chaos
+ ATTACK POWER: 18
+ HIT RATE: 15
+
+Saber
+ COST: 450 | 360 (Easy Mode)
+ LOCATION: Elfheim
+ ATTACK POWER: 13
+ HIT RATE: 5
+
+Sasuke
+ COST: --
+ LOCATION: Flying Fortress, Temple of Chaos
+ ATTACK POWER: 33
+ HIT RATE: 35
+
+Scimitar
+ COST: 200 | 160 (Easy Mode)
+ LOCATION: Pravoca
+ ATTACK POWER: 10
+ HIT RATE: 10
+
+Sunblade
+ COST: --
+ LOCATION: Tower of Mirage
+ ATTACK POWER: 32
+ HIT RATE: 25
+
+Venom Blade
+ COST: --
+ LOCATION: Flying Fortress
+ ATTACK POWER: 22
+ HIT RATE: 30
+
+Vorpal Sword
+ COST: --
+ LOCATION: Tower of Mirage
+ ATTACK POWER: 24
+ HIT RATE: 25
+
+Werebane
+ COST: --
+ LOCATION: Temple of Chaos
+ ATTACK POWER: 18
+ HIT RATE: 15
+
+Wyrmkiller
+ COST: --
+ LOCATION: Mt. Duergar
+ ATTACK POWER: 19
+ HIT RATE: 15
+
+2. AXES
+~~~~~~~~~~~~~~~~~
+Battle Axe
+ COST: 550 | 450 (Easy Mode)
+ LOCATION: Pravoca
+ ATTACK POWER: 17
+ HIT RATE: 5
+
+Great Axe
+ COST: --
+ LOCATION: Titan's Cave
+ ATTACK POWER: 22
+ HIT RATE: 5
+
+Light Axe
+ COST: --
+ LOCATION: Sunken Shrine
+ ATTACK POWER: 28
+ HIT RATE: 15
+
+Mythril Axe
+ COST: 4500 | 3600 (Easy Mode)
+ LOCATION: Crescent Lake, Mt. Gulg
+ ATTACK POWER: 25
+ HIT RATE: 10
+
+3. STAVES
+~~~~~~~~~~~~~~~~~
+Cosier
+ COST: 200 | 160 (Easy Mode)
+ LOCATION: Elfheim
+ ATTACK POWER: 14
+ HIT RATE: --
+
+Healing Staff
+ COST: --
+ LOCATION: Citadel of Trials
+ ATTACK POWER: 6
+ HIT RATE: --
+
+Mage's Staff
+ COST: --
+ LOCATION: Sunken Shrine
+ ATTACK POWER: 12
+ HIT RATE: 10
+
+Power Staff
+ COST: --
+ LOCATION: Western Keep
+ ATTACK POWER: 12
+ HIT RATE: --
+
+Spellbinder
+ COST: --
+ LOCATION: Waterfall Cavern
+ ATTACK POWER: 15
+ HIT RATE: 15
+
+Staff
+ COST: 5 | 4 (Easy Mode)
+ LOCATION: Cornelia, Terra Cavern, Mt. Gulg
+ ATTACK POWER: 7
+ HIT RATE: --
+
+4. HAMMERS
+~~~~~~~~~~~~~~~~~
+Hammer
+ COST: 10 | 8 (Easy Mode)
+ LOCATION: Cornelia, Pravoca
+ ATTACK POWER: 9
+ HIT RATE: --
+
+Mythril Hammer
+ COST: 2500 | 2000 (Easy Mode)
+ LOCATION: Crescent Lake
+ ATTACK POWER: 12
+ HIT RATE: 5
+
+Thor's Hammer
+ COST: --
+ LOCATION: Tower of Mirage
+ ATTACK POWER: 18
+ HIT RATE: 15
+
+5. NUNCHAKU
+~~~~~~~~~~~~~~~~~
+Iron Nunchaku
+ COST: 200 | 160 (Easy Mode)
+ LOCATION: Elfheim
+ ATTACK POWER: 16
+ HIT RATE: --
+
+Nunchaku
+ COST: 10 | 8 (Easy Mode)
+ LOCATION: Cornelia
+ ATTACK POWER: 12
+ HIT RATE: --
+
+6. KNIVES
+~~~~~~~~~~~~~~~~~
+Cat Claws
+ COST: 65000 | 52000 (Easy Mode)
+ LOCATION: Gaia
+ ATTACK POWER: 22
+ HIT RATE: 35
+
+Dagger
+ COST: 175 | 140 (Easy Mode)
+ LOCATION: Elfheim
+ ATTACK POWER: 7
+ HIT RATE: 10
+
+Knife
+ COST: 5 | 4 (Easy Mode)
+ LOCATION: Cornelia
+ ATTACK POWER: 5
+ HIT RATE: 10
+
+Mythril Knife
+ COST: 800 | 640 (Easy Mode)
+ LOCATION: Mt. Duergar, Crescent Lake
+ ATTACK POWER: 10
+ HIT RATE: 15
+
+=============================================================================
+X. ARMOR
+=============================================================================
+
+1. BODY
+~~~~~~~~~~~~~~~~~
+Black Robe
+ COST: --
+ LOCATION: Flying Fortress
+ DEFENSE POWER: 24
+ EVADE: 2
+
+Chain Mail
+ COST: 80 | 65 (Easy Mode)
+ LOCATION: Cornelia
+ DEFENSE POWER: 15
+ EVADE: 15
+
+Copper Armlet
+ COST: 1000 | 800 (Easy Mode)
+ LOCATION: Elfheim, Marsh Cave
+ DEFENSE POWER: 4
+ EVADE: 1
+
+Diamond Armor
+ COST: --
+ LOCATION: Sunken Shrine
+ DEFENSE POWER: 42
+ EVADE: 10
+
+Diamond Armlet
+ COST: --
+ LOCATION: Sunken Shrine
+ DEFENSE POWER: 34
+ EVADE: 1
+
+Dragon Mail
+ COST: --
+ LOCATION: Tower of Mirage
+ DEFENSE POWER: 42
+ EVADE: 10
+
+Flame Armor
+ COST: --
+ LOCATION: Mt. Gulg
+ DEFENSE POWER: 34
+ EVADE: 10
+
+Ice Armor
+ COST: --
+ LOCATION: Ice Cavern
+ DEFENSE POWER: 34
+ EVADE: 10
+
+Knight's Armor
+ COST: 45000 | 36000 (Easy Mode)
+ LOCATION: Melmond
+ DEFENSE POWER: 34
+ EVADE: 33
+
+Leather Armor
+ COST: 50 | 40 (Easy Mode)
+ LOCATION: Cornelia
+ DEFENSE POWER: 4
+ EVADE: 8
+
+Mythril Mail
+ COST: 7500 | 6000 (Easy Mode)
+ LOCATION: Crescent Lake, Mt. Gulg
+ DEFENSE POWER: 18
+ EVADE: 8
+
+Ruby Armlet
+ COST: 50000 | 40000 (Easy Mode)
+ LOCATION: Citadel of Trials, Gaia
+ DEFENSE POWER: 24
+ EVADE: 1
+
+Shirt
+ COST: 10 | 8 (Easy Mode)
+ LOCATION: Cornelia, Ice Cavern, Flying Fortress
+ DEFENSE POWER: 1
+ EVADE: 2
+
+Silver Armlet
+ COST: 5000 | 4000 (Easy Mode)
+ LOCATION: Marsh Cave, Melmond
+ DEFENSE POWER: 15
+ EVADE: 1
+
+Steel Plate
+ COST: 800 | 640 (Easy Mode)
+ LOCATION: Pravoca, Elfheim
+ DEFENSE POWER: 24
+ EVADE: 23
+
+White Robe
+ COST: --
+ LOCATION: Flying Fortress
+ DEFENSE POWER: 24
+ EVADE: 2
+
+2. HEAD
+~~~~~~~~~~~~~~~~~
+Diamond Helm
+ COST: --
+ LOCATION: Sunken Shrine
+ DEFENSE POWER: 8
+ EVADE: 3
+
+Grand Helm
+ COST: 450 | 360 (Easy Mode)
+ LOCATION: Mt. Duergar, Melmond
+ DEFENSE POWER: 5
+ EVADE: 5
+
+Healing Helm
+ COST: --
+ LOCATION: Tower of Mirage, Flying Fortress
+ DEFENSE POWER: 6
+ EVADE: 3
+
+Helmet
+ COST: 100 | 80 (Easy Mode)
+ LOCATION: Mt. Duergar, Elfheim
+ DEFENSE POWER: 3
+ EVADE: 3
+
+Leather Cap
+ COST: 80 | 65 (Easy Mode)
+ LOCATION: Temple of Chaos, Pravoca, Elfheim
+ DEFENSE POWER: 1
+ EVADE: 1
+
+Mythril Helm
+ COST: 2500 | 2000 (Easy Mode)
+ LOCATION: Titan's Cave, Crescent Lake, Flying Fortress
+ DEFENSE POWER: 6
+ EVADE: 3
+
+Ribbon
+ COST: --
+ LOCATION: Sunken Shrine, Waterfall Cavern, Flying Fortress
+ DEFENSE POWER: 1
+ EVADE: 1
+
+3. ARM
+~~~~~~~~~~~~~~~~~
+Bronze Gloves
+ COST: 200 | 160 (Easy Mode)
+ LOCATION: Elven Castle, Melmond
+ DEFENSE POWER: 2
+ EVADE: 3
+
+Diamond Gloves
+ COST: --
+ LOCATION: Sunken Shrine, Flying Fortress
+ DEFENSE POWER: 8
+ EVADE: 3
+
+Gauntlets
+ COST: --
+ LOCATION: Citadel of Trials
+ DEFENSE POWER: 6
+ EVADE: 3
+
+Steel Gloves
+ COST: 750 | 600 (Easy Mode)
+ LOCATION: Western Keep, Melmond, Citadel of Trials
+ DEFENSE POWER: 4
+ EVADE: 5
+
+Leather Gloves
+ COST: 60 | 50 (Easy Mode)
+ LOCATION: Pravoca
+ DEFENSE POWER: 1
+ EVADE: 1
+
+Mythril Gloves
+ COST: 2500 | 2000 (Easy Mode)
+ LOCATION: Crescent Lake, Mt. Gulg, Ice Cavern
+ DEFENSE POWER: 6
+ EVADE: 3
+
+Protect Ring
+ COST: 20000 | 16000 (Easy Mode)
+ LOCATION: Gaia, Flying Fortress, Temple of Chaos
+ DEFENSE POWER: 8
+ EVADE: 1
+
+Giant's Gloves
+ COST: --
+ LOCATION: Sunken Shrine
+ DEFENSE POWER: 6
+ EVADE: 3
+
+4. SHIELDS
+~~~~~~~~~~~~~~~~~
+Aegis Shield
+ COST: --
+ LOCATION: Tower of Mirage
+ DEFENSE POWER: 16
+ EVADE: --
+
+Buckler
+ COST: 2500 | 2000 (Easy Mode)
+ LOCATION: Crescent Lake
+ DEFENSE POWER: 2
+ EVADE: --
+
+Diamond Shield
+ COST: --
+ LOCATION: Sunken Shrine, Flying Fortress
+ DEFENSE POWER: 16
+ EVADE: --
+
+Flame Shield
+ COST: --
+ LOCATION: Mt. Gulg
+ DEFENSE POWER: 12
+ EVADE: --
+
+Ice Shield
+ COST: --
+ LOCATION: Ice Cavern
+ DEFENSE POWER: 12
+ EVADE: --
+
+Iron Shield
+ COST: 100 | 80 (Easy Mode)
+ LOCATION: Elfheim
+ DEFENSE POWER: 4
+ EVADE: --
+
+Leather Shield
+ COST: 15 | 12 (Easy Mode)
+ LOCATION: Pravoca
+ DEFENSE POWER: 2
+ EVADE: --
+
+Mythril Shield
+ COST: 2500 | 2000 (Easy Mode)
+ LOCATION: Terra Cavern, Crescent Lake, Mt. Gulg
+ DEFENSE POWER: 8
+ EVADE: --
+
+Protection Mantle
+ COST: --
+ LOCATION: Flying Fortress, Temple of Chaos
+ DEFENSE POWER: 8
+ EVADE: 2
+
+=============================================================================
+XI. MONSTERS
+=============================================================================
+
+Aeros
+ LOCATION: Flying Fortress
+ EXPERIENCE: 1613
+ GIL: 809
+ WEAKNESS: --
+
+Allosaurus
+ LOCATION: Pravoca (North Peninsula), Northeast Continent
+ EXPERIENCE: 3384
+ GIL: 502
+ WEAKNESS: --
+
+Anaconda
+ LOCATION: Terra Cavern, Crescent Lake
+ EXPERIENCE: 164
+ GIL: 50
+ WEAKNESS: --
+
+Aquos
+ LOCATION: Sunken Shrine, Temple of Chaos
+ EXPERIENCE: 1961
+ GIL: 800
+ WEAKNESS: --
+
+Basilisk
+ LOCATION: Northeast Continent, Temple of Chaos
+ EXPERIENCE: 1976
+ GIL: 658
+ WEAKNESS: --
+
+Black Knight
+ LOCATION: Tower of Mirage, Flying Fortress, Temple of Chaos
+ EXPERIENCE: 1260
+ GIL: 1600
+ WEAKNESS: --
+
+Black Widow
+ LOCATION: Cornelia, Temple of Chaos, Marsh Cave
+ EXPERIENCE: 28
+ GIL: 8
+ WEAKNESS: --
+
+Bloodbones
+ LOCATION: Marsh Cave, Ice Cavern
+ EXPERIENCE: 378
+ GIL: 378
+ WEAKNESS: Fire, Dia
+
+Blue Dragon
+ LOCATION: Tower of Mirage
+ EXPERIENCE: 3240
+ GIL: 2000
+ WEAKNESS: --
+
+Centipede
+ LOCATION: Crescent Lake
+ EXPERIENCE: 1194
+ GIL: 300
+ WEAKNESS: --
+
+Chimera
+ LOCATION: Tower of Mirage, Flying Fortress, Temple of Chaos
+ EXPERIENCE: 2064
+ GIL: 2500
+ WEAKNESS: --
+
+Clay Golem
+ LOCATION: Citadel of Trials, Waterfall, Flying Fortress, Temple of Chaos
+ EXPERIENCE: 1256
+ GIL: 800
+ WEAKNESS: --
+
+Cobra
+ LOCATION: Elfheim, Melmond
+ EXPERIENCE: 120
+ GIL: 50
+ WEAKNESS: --
+
+Cocktrice
+ LOCATION: Terra Cavern, Ice Cavern, Waterfall Cavern
+ EXPERIENCE: 186
+ GIL: 200
+ WEAKNESS: Bolt
+
+Crawler
+ LOCATION: Marsh Cave
+ EXPERIENCE: 186
+ GIL: 200
+ WEAKNESS: --
+
+Crazy Horse
+ LOCATION: Cornelia, Matoya's Cave, Pravoca
+ EXPERIENCE: 63
+ GIL: 15
+ WEAKNESS: --
+
+Crocodile
+ LOCATION: River
+ EXPERIENCE: 816
+ GIL: 900
+ WEAKNESS: Bolt
+
+Dark Warrior
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 3419
+ GIL: 3420
+ WEAKNESS: --
+
+Dark Wizard
+ LOCATION: Ice Cavern, Temple of Chaos
+ EXPERIENCE: 1095
+ GIL: 1095
+ WEAKNESS: --
+
+Death Eye
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 1
+ GIL: 1
+ WEAKNESS: --
+
+Deepeyes
+ LOCATION: Sunken Shrine
+ EXPERIENCE: 3591
+ GIL: 3591
+ WEAKNESS: --
+
+Desert Baretta
+ LOCATION: Northeast Continent
+ EXPERIENCE: 2608
+ GIL: 1
+ WEAKNESS: --
+
+Doom Knight
+ LOCATION: Flying Fortress
+ EXPERIENCE: 2700
+ GIL: 3000
+ WEAKNESS: --
+
+Dragon Zombie
+ LOCATION: Citadel of Trials, Temple of Chaos
+ EXPERIENCE: 2328
+ GIL: 999
+ WEAKNESS: Fire, Dia
+
+Earth Medusa
+ LOCATION: Flying Fortress, Temple of Chaos
+ EXPERIENCE: 1218
+ GIL: 1218
+ WEAKNESS: --
+
+Evil Eye
+ LOCATION: Ice Cavern, Flying Fortress
+ EXPERIENCE: 3224
+ GIL: 3225
+ WEAKNESS: --
+
+Fire Gigas
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 1504
+ GIL: 1506
+ WEAKNESS: Ice
+
+Fire Hydra
+ LOCATION: Mt. Gulg, Flying Fortress
+ EXPERIENCE: 1212
+ GIL: 400
+ WEAKNESS: --
+
+Fire Lizard
+ LOCATION: Mt. Gulg, Temple of Chaos
+ EXPERIENCE: 2472
+ GIL: 1200
+ WEAKNESS: Ice
+
+Gargoyle
+ LOCATION: Marsh Cave
+ EXPERIENCE: 132
+ GIL: 80
+ WEAKNESS: --
+
+Ghast
+ LOCATION: Pravoca
+ EXPERIENCE: 116
+ GIL: 117
+ WEAKNESS: Fire, Dia
+
+Ghost
+ LOCATION: Sunken Shrine
+ EXPERIENCE: 989
+ GIL: 990
+ WEAKNESS: Fire, Dia
+
+Ghoul
+ LOCATION: Temple of Chaos, Marsh Cave
+ EXPERIENCE: 92
+ GIL: 50
+ WEAKNESS: Fire, Dia
+
+Gigas Worm
+ LOCATION: Cornelia, Temple of Chaos, Matoya's Cave, Pravoca
+ EXPERIENCE: 63
+ GIL: 15
+ WEAKNESS: --
+
+Gnoma
+ LOCATION: Terra Cavern, Temple of Chaos
+ EXPERIENCE: 1536
+ GIL: 768
+ WEAKNESS: --
+
+Goblin
+ LOCATION: Cornelia, Temple of Chaos, Matoya's Cave, Pravoca
+ EXPERIENCE: 6
+ GIL: 6
+ WEAKNESS: Fire
+
+Goblin Guard
+ LOCATION: Cornelia, Temple of Chaos, Matoya's Cave, Pravoca
+ EXPERIENCE: 18
+ GIL: 18
+ WEAKNESS: --
+
+Goggler
+ LOCATION: Ocean
+ EXPERIENCE: 40
+ GIL: 40
+ WEAKNESS: Bolt
+
+Gray Ooze
+ LOCATION: Marsh Cave, Mt. Gulg
+ EXPERIENCE: 254
+ GIL: 70
+ WEAKNESS: --
+
+Green Dragon
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 4068
+ GIL: 5000
+ WEAKNESS: --
+
+Green Slime
+ LOCATION: Marsh Cave
+ EXPERIENCE: 84
+ GIL: 20
+ WEAKNESS: Fire, Ice, Bolt
+
+Guardian
+ LOCATION: Tower of Mirage
+ EXPERIENCE: 1224
+ GIL: 400
+ WEAKNESS: Bolt
+
+Hell Hound
+ LOCATION: Tower of Mirage
+ EXPERIENCE: 1181
+ GIL: 600
+ WEAKNESS: Ice
+
+Hill Gigas
+ LOCATION: Pravoca (North Peninsula), Terra Cavern, Crescent Lake
+ EXPERIENCE: 879
+ GIL: 879
+ WEAKNESS: --
+
+Horned Devil
+ LOCATION: Mt. Gulg, Citadel of Trials
+ EXPERIENCE: 387
+ GIL: 387
+ WEAKNESS: --
+
+Hydra
+ LOCATION: River
+ EXPERIENCE: 912
+ GIL: 150
+ WEAKNESS: Bolt
+
+Hyenadon
+ LOCATION: Melmond, Titan's Cave, Mt. Gulg
+ EXPERIENCE: 288
+ GIL: 72
+ WEAKNESS: --
+
+Ice Gigas
+ LOCATION: Onlak, Temple of Chaos
+ EXPERIENCE: 1750
+ GIL: 1752
+ WEAKNESS: Fire
+
+King Mummy
+ LOCATION: Citadel of Trials, Waterfall Cavern
+ EXPERIENCE: 984
+ GIL: 1000
+ WEAKNESS: Fire, Dia
+
+Kraken
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 2000
+ GIL: 1
+ WEAKNESS: Bolt
+
+Lava Worm
+ LOCATION: Mt. Gulg, Temple of Chaos
+ EXPERIENCE: 1668
+ GIL: 400
+ WEAKNESS: --
+
+Lesser Tiger
+ LOCATION: Titan's Cave
+ EXPERIENCE: 436
+ GIL: 108
+ WEAKNESS: --
+
+Lich
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 2000
+ GIL: 1
+ WEAKNESS: Fire, Dia
+
+Lizard
+ LOCATION: Matoya's Cave, Pravoca, Mt. Gulg
+ EXPERIENCE: 152
+ GIL: 50
+ WEAKNESS: --
+
+Manticore
+ LOCATION: Flying Fortress
+ EXPERIENCE: 1317
+ GIL: 650
+ WEAKNESS: --
+
+Marilith
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 2000
+ GIL: 1
+ WEAKNESS: --
+
+Medusa
+ LOCATION: Citadel of Trials, Tower of Mirage, Flying Fortress
+ EXPERIENCE: 698
+ GIL: 781
+ WEAKNESS: --
+
+Mindflayer
+ LOCATION: Ice Cavern, Citadel of Trials, Flying Fortress
+ EXPERIENCE: 821
+ GIL: 999
+ WEAKNESS: --
+
+Minotaur
+ LOCATION: Terra Cavern, Mt. Gulg
+ EXPERIENCE: 489
+ GIL: 489
+ WEAKNESS: --
+
+Mummy
+ LOCATION: Ice Cavern, Waterfall Cavern
+ EXPERIENCE: 300
+ GIL: 300
+ WEAKNESS: Fire, Dia
+
+Necrotaur
+ LOCATION: Pravoca (North Peninsula), Citadel of Trials
+ EXPERIENCE: 1050
+ GIL: 1050
+ WEAKNESS: Fire, Dia
+
+Neochu
+ LOCATION: River, Flying Fortress
+ EXPERIENCE: 3188
+ GIL: 500
+ WEAKNESS: Bolt
+
+Nightmare
+ LOCATION: Citadel of Trials, Waterfall, Tower of Mirage, Flying Fortress
+ EXPERIENCE: 1272
+ GIL: 700
+ WEAKNESS: --
+
+Ochu
+ LOCATION: River
+ EXPERIENCE: 1224
+ GIL: 102
+ WEAKNESS: Bolt
+
+Ogre
+ LOCATION: Matoya's Cave, Pravoca, Elfheim, Melmond
+ EXPERIENCE: 192
+ GIL: 195
+ WEAKNESS: --
+
+Ogre Chieftain
+ LOCATION: Pravoca, Elfheim, Melmond, Mt. Gulg
+ EXPERIENCE: 288
+ GIL: 300
+ WEAKNESS: --
+
+Ogre Mage
+ LOCATION: Terra Cavern, Mt. Gulg
+ EXPERIENCE: 723
+ GIL: 723
+ WEAKNESS: --
+
+Piranha
+ LOCATION: River
+ EXPERIENCE: 240
+ GIL: 20
+ WEAKNESS: Bolt
+
+Pirate
+ LOCATION: Pravoca
+ EXPERIENCE: 40
+ GIL: 40
+ WEAKNESS: --
+
+Piscodemon
+ LOCATION: Marsh Cave, Terra Cavern, Ice Cavern
+ EXPERIENCE: 276
+ GIL: 300
+ WEAKNESS: --
+
+Purple Worm
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 4344
+ GIL: 1000
+ WEAKNESS: --
+
+Pyrolisk
+ LOCATION: Mt. Gulg, Waterfall Cavern
+ EXPERIENCE: 423
+ GIL: 500
+ WEAKNESS: Ice
+
+Pyros
+ LOCATION: Mt. Gulg, Temple of Chaos
+ EXPERIENCE: 1620
+ GIL: 800
+ WEAKNESS: --
+
+Rakshasa
+ LOCATION: Citadel of Trials, Flying Fortress
+ EXPERIENCE: 602
+ GIL: 800
+ WEAKNESS: --
+
+Red Dragon
+ LOCATION: Mt. Gulg
+ EXPERIENCE: 2904
+ GIL: 4000
+ WEAKNESS: Ice
+
+Red Piranha
+ LOCATION: River
+ EXPERIENCE: 546
+ GIL: 46
+ WEAKNESS: Bolt
+
+Remora
+ LOCATION: Ice Cavern
+ EXPERIENCE: 2244
+ GIL: 1000
+ WEAKNESS: --
+
+Rhyos
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 4585
+ GIL: 5000
+ WEAKNESS: --
+
+Sabertooth
+ LOCATION: Northeast Continent, Tower of Mirage
+ EXPERIENCE: 840
+ GIL: 500
+ WEAKNESS: --
+
+Sahagin
+ LOCATION: Ocean
+ EXPERIENCE: 30
+ GIL: 30
+ WEAKNESS: Bolt
+
+Sahagin Chief
+ LOCATION: Ocean, Sunken Shrine
+ EXPERIENCE: 108
+ GIL: 105
+ WEAKNESS: Bolt
+
+Sahagin Prince
+ LOCATION: Sunken Shrine
+ EXPERIENCE: 882
+ GIL: 882
+ WEAKNESS: Bolt
+
+Sand Worm
+ LOCATION: Northeast Continent
+ EXPERIENCE: 2680
+ GIL: 900
+ WEAKNESS: --
+
+Scorpion
+ LOCATION: Pravoca, Marsh Cave, Crescent Lake
+ EXPERIENCE: 224
+ GIL: 70
+ WEAKNESS: --
+
+Sea Scorpion
+ LOCATION: Sunken Shrine, Temple of Chaos
+ EXPERIENCE:640 
+ GIL: 300
+ WEAKNESS: --
+
+Sea Snake
+ LOCATION: Sunken Shrine, Temple of Chaos
+ EXPERIENCE: 956
+ GIL: 600
+ WEAKNESS: Bolt
+
+Sea Troll
+ LOCATION: Sunken Shrine, Temple of Chaos
+ EXPERIENCE: 852
+ GIL: 852
+ WEAKNESS: Bolt
+
+Shadow
+ LOCATION: Marsh Cave, Melmond
+ EXPERIENCE: 89
+ GIL: 45
+ WEAKNESS: Fire, Dia
+
+Shark
+ LOCATION: Ocean
+ EXPERIENCE: 264
+ GIL: 66
+ WEAKNESS: Bolt
+
+Skeleton
+ LOCATION: Cornelia, Temple of Chaos, Marsh Cave
+ EXPERIENCE: 9
+ GIL: 3
+ WEAKNESS: Fire, Dia
+
+Soldier
+ LOCATION: Flying Fortress
+ EXPERIENCE: 4000
+ GIL: 2000
+ WEAKNESS: --
+
+Specter
+ LOCATION: Ice Cavern
+ EXPERIENCE: 150
+ GIL: 150
+ WEAKNESS: Fire, Dia
+
+Sphinx
+ LOCATION: Terra Cavern
+ EXPERIENCE: 1160
+ GIL: 1160
+ WEAKNESS: --
+
+Spirit Naga
+ LOCATION: Flying Fortress
+ EXPERIENCE: 3488
+ GIL: 4000
+ WEAKNESS: --
+
+Stone Golem
+ LOCATION: Flying Fortress, Temple of Chaos
+ EXPERIENCE: 2384
+ GIL: 1000
+ WEAKNESS: --
+
+Tarantula
+ LOCATION: Pravoca, Elfheim, Marsh Cave
+ EXPERIENCE: 140
+ GIL: 50
+ WEAKNESS: --
+
+Tiamat
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 2000
+ GIL: 1
+ WEAKNESS: Flare
+
+Troll
+ LOCATION: Pravoca (North Peninsula), Terra Cavern, Crescent Lake
+ EXPERIENCE: 1240
+ GIL: 621
+ WEAKNESS: Fire
+
+Vampire
+ LOCATION: Terra Cavern, Tower of Mirage
+ EXPERIENCE: 1200
+ GIL: 2000
+ WEAKNESS: Fire, Dia
+
+Vampire Lord
+ LOCATION: Flying Fortress, Temple of Chaos
+ EXPERIENCE: 2384
+ GIL: 3000
+ WEAKNESS: Fire, Dia
+
+Warg Wolf
+ LOCATION: Temple of Chaos, Matoya's Cave, Provaka
+ EXPERIENCE: 88
+ GIL: 22
+ WEAKNESS: --
+
+Warmech
+ LOCATION: Flying Fortress
+ EXPERIENCE: 32000
+ GIL: 32000
+ WEAKNESS: --
+
+Water Naga
+ LOCATION: Sunken Shrine
+ EXPERIENCE: 2352
+ GIL: 2355
+ WEAKNESS: --
+
+Weretiger
+ LOCATION: Northeast Continent, Tower of Mirage
+ EXPERIENCE: 780
+ GIL: 780
+ WEAKNESS: --
+
+Werewolf
+ LOCATION: Pravoca, Terra Cavern
+ EXPERIENCE: 132
+ GIL: 67
+ WEAKNESS: --
+
+White Croc
+ LOCATION: River
+ EXPERIENCE: 1890
+ GIL: 2000
+ WEAKNESS: Bolt
+
+White Dragon
+ LOCATION: Ice Cavern, Temple of Chaos
+ EXPERIENCE: 1700
+ GIL: 2000
+ WEAKNESS: Fire
+
+White Shark
+ LOCATION: Sunken Shrine, Temple of Chaos
+ EXPERIENCE: 2360
+ GIL: 600
+ WEAKNESS: --
+
+Wight
+ LOCATION: Terra Cavern, Ice Cavern
+ EXPERIENCE: 117
+ GIL: 117
+ WEAKNESS: Fire, Dia
+
+Winter Wolf
+ LOCATION: Pravoca (North Peninsula), Ice Cavern, Onlak, Temple of Chaos
+ EXPERIENCE: 402
+ GIL: 200
+ WEAKNESS: Fire
+
+Wolf
+ LOCATION: Cornelia, Temple of Chaos, Matoya's Cave, Pravoca
+ EXPERIENCE: 24
+ GIL: 6
+ WEAKNESS: --
+
+Wraith
+ LOCATION: Western Keep, Ice Cavern
+ EXPERIENCE: 231
+ GIL: 231
+ WEAKNESS: Fire, Dia
+
+Wyvern
+ LOCATION: Northeast Continent
+ EXPERIENCE: 1173
+ GIL: 50
+ WEAKNESS: --
+
+Zombie
+ LOCATION: Temple of Chaos, Marsh Cave
+ EXPERIENCE: 24
+ GIL: 12
+ WEAKNESS: Fire, Dia
+
+=============================================================================
+XII. BOSS STRATEGIES
+=============================================================================
+
+Astos
+ LOCATION: Western Keep
+ EXPERIENCE: 2248
+ GIL: 2000
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use high level Black Magic spells.
+
+Chaos
+ LOCATION: Temple of Chaos
+ EXPERIENCE: --
+ GIL: --
+ WEAKNESS: Flare, Holy
+ STRATEGY: Knights should use the Excalibur or Masamune. Ninjas should use 
+ Sasukes or the Masamune. Masters should attack physically. 
+ White Wizards should use Holy and should also use Cure4, Heal3, and Life2
+ when needed. Red Wizards should attack physically. Black Wizards should 
+ use Flare.
+
+Garland
+ LOCATION: Temple of Chaos
+ EXPERIENCE: 128
+ GIL: 250
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use Fire or Bolt spells.
+
+Kraken
+ LOCATION: Sunken Shrine
+ EXPERIENCE: 4245
+ GIL: 5000
+ WEAKNESS: Bolt
+ STRATEGY: Knights/Ninjas/Masters should attack physically, White Wizards 
+ should attack physically and heal when needed, Black and Red Wizards should
+ use high level Bolt spells.
+
+Lich
+ LOCATION: Terra Cavern
+ EXPERIENCE: 2200
+ GIL: 3000
+ WEAKNESS: Fire, Dia
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should use Dia and heal when needed, Black and Red Mages should use 
+ Fire magic.
+
+Marilith
+ LOCATION: Mt. Gulg
+ EXPERIENCE: 2712
+ GIL: 3000
+ WEAKNESS: --
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should attack physically and heal when needed, Black and Red Mages should
+ use high level magic. Watch out for Marilith's high level Fire spells.
+
+Tiamat
+ LOCATION: Flying Fortress
+ EXPERIENCE: 5496
+ GIL: 6000
+ WEAKNESS: Flare
+ STRATEGY: Knights/Ninjas/Masters should attack physically, White Wizards 
+ should attack physically and heal when needed, Black Wizards should use 
+ Flare and Red Wizards should attack physically.
+
+Vampire
+ LOCATION: Terra Cavern
+ EXPERIENCE: 1200
+ GIL: 2000
+ WEAKNESS: Fire, Dia
+ STRATEGY: Warriors/Thieves/Monks should attack physically, White Mages 
+ should use Dia and heal when needed, Black and Red Mages should use 
+ Fire magic.
+
+=============================================================================
+XIII. SHOPS
+=============================================================================
+
+-----------------------------------------------------------------------------
+Cornelia
+-----------------------------------------------------------------------------
+
+INN COST - 30
+
+REVIVE COST - 40
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Sleeping Bag - 75 | 50 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Fire1 - 100 | 50 (Easy Mode)
+Bolt1 - 100 | 50 (Easy Mode)
+Focus1 - 100 | 50 (Easy Mode)
+Sleep1 - 100 | 50 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Cure1 - 100 | 50 (Easy Mode)
+Dia1 - 100 | 50 (Easy Mode)
+Blink - 100 | 50 (Easy Mode)
+Shld1 - 100 | 50 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Nunchunks - 10 | 8 (Easy Mode)
+Knife - 5 | 4 (Easy Mode)
+Staff - 5 | 4 (Easy Mode)
+Rapier - 10 | 8 (Easy Mode)
+Hammer - 10 | 8 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Shirt - 10 | 8 (Easy Mode)
+Leather Armor - 50 | 40 (Easy Mode)
+Chain Mail - 80 | 65 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Pravoca
+-----------------------------------------------------------------------------
+
+INN COST - 50
+
+REVIVE COST - 80
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Sleeping Bag - 75 | 50 (Easy Mode)
+Tent - 250 | 160 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Ice - 400 | 250 (Easy Mode)
+Slow - 400 | 250 (Easy Mode)
+Fog - 400 | 250 (Easy Mode)
+Steel - 400 | 250 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Silence - 400 | 250 (Easy Mode)
+NulBolt - 400 | 250 (Easy Mode)
+Invis1 - 400 | 250 (Easy Mode)
+Lamp - 400 | 250 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Hammer - 10 | 8 (Easy Mode)
+Broadsword - 550 | 450 (Easy Mode)
+Battle Axe - 550 | 450 (Easy Mode)
+Scimitar - 200 | 160 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Leather Armor - 50 | 40 (Easy Mode)
+Chain Mail - 80 | 65 (Easy Mode)
+Steel Plate - 800 | 640 (Easy Mode)
+Leather Shield - 15 | 12 (Easy Mode)
+Leather Gloves - 60 | 50 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Elfheim
+-----------------------------------------------------------------------------
+
+INN COST - 100
+
+REVIVE COST - 200
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Tent - 250 | 160 (Easy Mode)
+Cottage - 3000 | 2000 (Easy Mode)
+Gold Needle - 800 | 500 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Fire2 - 1500 | 1000 (Easy Mode)
+Bolt2 - 1500 | 1000 (Easy Mode)
+Bind - 1500 | 1000 (Easy Mode)
+Focus2 - 1500 | 1000 (Easy Mode)
+Haste - 4000 | 2500 (Easy Mode)
+Ice2 - 4000 | 2500 (Easy Mode)
+Sleep2 - 4000 | 2500 (Easy Mode)
+Muddle - 4000 | 2500 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Cure2 -1500 | 1000 (Easy Mode)
+NulFire - 1500 | 1000 (Easy Mode)
+Dia2 - 1500 | 1000 (Easy Mode)
+Heal1 - 1500 | 1000 (Easy Mode)
+Esuna - 4000 | 2500 (Easy Mode)
+NulIce - 4000 | 2500 (Easy Mode)
+Fear - 4000 | 2500 (Easy Mode)
+Vox - 4000 | 2500 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Iron Nunchaku - 200 | 160 (Easy Mode)
+Dagger - 175 | 140 (Easy Mode)
+Cosier - 200 | 160 (Easy Mode)
+Saber - 450 | 360 (Easy Mode)
+Mythril Sword - 4000 | 3200 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~ 
+Steel Plate - 800 | 640 (Easy Mode)
+Copper Armlet - 1000 | 800 (Easy Mode)
+Iron Shield - 100 | 80 (Easy Mode)
+Leather Cap - 80 | 65 (Easy Mode)
+Helmet - 100 | 80 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Melmond
+-----------------------------------------------------------------------------
+
+INN COST - 100
+
+REVIVE COST - No church
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Fire3 - 8000 | 5000 (Easy Mode)
+Warp1 - 8000 | 5000 (Easy Mode)
+Poison - 8000 | 5000 (Easy Mode)
+Slow2 - 8000 | 5000 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Cure3 - 8000 | 5000 (Easy Mode)
+Life - 8000 | 5000 (Easy Mode)
+Dia3 - 8000 | 5000 (Easy Mode)
+Heal2 - 8000 | 5000 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Cosier - 200 | 160 (Easy Mode)
+Saber - 450 | 360 (Easy Mode)
+Falchion - 450 | 360 (Easy Mode)
+Long Sword - 1500 | 1200 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~ 
+Knight's Armor - 45000 | 36000 (Easy Mode)
+Silver Armlet - 5000 | 4000 (Easy Mode)
+Grand Helm - 450 | 360 (Easy Mode)
+Bronze Gloves - 200 | 160 (Easy Mode)
+Steel Gloves - 750 | 600 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Crescent Lake
+-----------------------------------------------------------------------------
+
+INN COST - 200
+
+REVIVE COST - 400
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Tent - 250 | 160 (Easy Mode)
+Cottage - 3000 | 2000 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Bolt3 - 20000 | 13000 (Easy Mode)
+Reaper - 20000 | 13000 (Easy Mode)
+Quake - 20000 | 13000 (Easy Mode)
+Stun - 20000 | 13000 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Stona - 20000 | 13000 (Easy Mode)
+Warp2 - 20000 | 13000 (Easy Mode)
+Invis2 - 20000 | 13000 (Easy Mode)
+Shld2 - 20000 | 13000 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Mythril Knife - 800 | 640 (Easy Mode)
+Mythril Sword - 4000 | 3200 (Easy Mode)
+Mythril Hammer - 2500 | 2000 (Easy Mode)
+Mythril Axe - 4500 | 3600 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~ 
+Mythril Mail - 7500 | 6000 (Easy Mode)
+Mythril Shield - 2500 | 2000 (Easy Mode)
+Buckler - 2500 | 2000 (Easy Mode)
+Mythril Helm - 2500 | 2000 (Easy Mode)
+Mythril Gloves - 2500 | 2000 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Caravan
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Bottled Faerie - 50000 | 40000 (Easy Mode)
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Gold Needle - 800 | 500 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Gaia
+-----------------------------------------------------------------------------
+
+INN COST - 500
+
+REVIVE COST - 750
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Tent - 250 | 160 (Easy Mode)
+Cottage - 3000 | 2000 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Ice3 - 45000 | 30000 (Easy Mode)
+Break - 45000 | 30000 (Easy Mode)
+Doom - 60000 | 40000 (Easy Mode)
+Stop - 60000 | 40000 (Easy Mode)
+Warp - 60000 | 40000 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Cure4 - 45000 | 30000 (Easy Mode)
+Dia4 - 45000 | 30000 (Easy Mode)
+NullAll - 60000 | 40000 (Easy Mode)
+Holy - 60000 | 40000 (Easy Mode)
+Dispel - 60000 | 40000 (Easy Mode)
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Cat Claws - 65000 | 52000 (Easy Mode)
+
+ARMOR
+~~~~~~~~~~~~~~~~~ 
+Ruby Armlet - 50000 | 40000 (Easy Mode)
+Protect Ring - 20000 | 16000 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Onlak
+-----------------------------------------------------------------------------
+
+INN COST - 300
+
+REVIVE COST - 750
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 60 | 40 (Easy Mode)
+Antidote - 75 | 50 (Easy Mode)
+Tent - 250 | 160 (Easy Mode)
+Cottage - 3000 | 2000 (Easy Mode)
+Gold Needle - 800 | 500 (Easy Mode)
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Saber - 45000 | 30000 (Easy Mode)
+Blind - 45000 | 30000 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+NulMgc - 45000 | 30000 (Easy Mode)
+Heal3 - 45000 | 30000 (Easy Mode)
+
+-----------------------------------------------------------------------------
+Lufenia
+-----------------------------------------------------------------------------
+
+BLACK MAGIC
+~~~~~~~~~~~~~~~~~ 
+Flare - 60000 | 40000 (Easy Mode)
+
+WHITE MAGIC
+~~~~~~~~~~~~~~~~~ 
+Life2 - 60000 | 40000 (Easy Mode)
+
+=============================================================================
+XIV. STATUS AILMENTS
+=============================================================================
+
+Darkness: Lowers character's hit rate.
+ CURE: Healed automatically after the duration of battle.
+
+Death: Character is dead, and unable to use any commands.
+ CURE: Priest in a church or White Magic Life / Life2 spells.
+
+Mute: Prevents characters from using spells.
+ CURE: Healed automatically after the duration of battle.
+
+Paralysis: Disables character's commands.
+ CURE: Healed randomly during battle or after duration of battle.
+
+Poison: Degenerates character's HP during each battle round.
+ CURE: Antidote.
+
+Sleep: Puts target to sleep, disabling character's commands.
+ CURE: Healed randomly during battle or after duration of battle.
+
+Stone: Turns character to stone, disabling all commands.
+ CURE: Gold Needle.
+
+*****************************************************************************
+*******************************FINAL FANTASY II******************************
+*****************************************************************************
+
+=============================================================================
+XV. WALKTHROUGH
+=============================================================================
+
+***Introduction to Final Fantasy II's unique game mechanics***
+This game's system is untraditional compared to other FFs; however, it is 
+very logical and unique. Stats are gained individually by how often they are 
+used. If you lose a lot of HP in battle, then you'll most likely gain HP. 
+Use a lot of MP in battle to gain more. Use weapons to gain strength, magic 
+for magic power, etc. Also, the inn system is untraditional in this game, 
+costs are determined like this: one Gil per MP and one Gil for four HP. To 
+revive dead characters, take them to a goddess statue in a town.
+
+-----------------------------------------------------------------------------
+1. Altair
+-----------------------------------------------------------------------------
+
+TREASURE: Potion.
+
+The game will begin with the party, Firion, Maria, Gus, and Leon, 
+running from the empire's soldiers. An un-winnable battle will commence and 
+all of your characters will die within the first few rounds. Firion will 
+be revived by Mindu and Hilda, the leader of a small rebellion against the 
+empire. Firion will meet Maria and Gus on his way to the throne room, but 
+Leon is nowhere to be found. Enter the throne room and talk to Hilda 
+twice. She'll give you the Wild Rose password, to learn it, click on the 
+highlighted password using the Memorize command. Collect treasure in 
+the rebel base and exit to the town. Before venturing out, I would suggest 
+buying at least a Cure spell. Take note of what weapons your characters are 
+equipped with and change them according to what you want them to master. 
+Travel outside and gain HP for a while and prepare to infiltrate Fynn Castle.
+
+-----------------------------------------------------------------------------
+2. Fynn
+-----------------------------------------------------------------------------
+
+TREASURE: Potion ×3, Ring, Canoe.
+
+From Altair travel north. On your way you'll find a small town just below 
+the crescent shaped lake. This town is called Gatrea, it's rather small and 
+has few new items to offer in its stores. Stay in the inn if needed and 
+continue on your journey northward. Walk into the center of the crescent 
+shaped lake and enter the town. This is Fynn, and it's been invaded by the 
+Paramecian empire. Don't talk to any of the soldiers or they'll attack you 
+and you'll be thrown into an un-winnable battle. There are normal battles in 
+the village as well, but they shouldn't pose too much threat. None of the 
+houses or shops are inhabited at the moment. Walk north and go east along 
+the perimeter of the outer wall to reach the Pub. Talk to the bar tender and 
+tell him the Wild Rose password by using the Ask command. Walk into the 
+basement behind the bar and talk to the dying man on the bed. His name is 
+Scott, and he was the ruler of Kas'ion before it was destroyed by the empire.
+He is also the older brother of Gordon, who you may or may not have met in 
+Altair, and he is in love with Hilda. Before he dies, he uses the last of his 
+strength to give you a Ring to give to Hilda. The Ring will allow you to 
+view a world map by pressing O and Start together. Return to Altair and tell 
+Hilda the sad news by showing her the Ring with the Items command, she'll 
+insist that you keep it. She will then teach you a new password, Mythril. 
+She explains that if you can find this ore, Tobul, the blacksmith, will weld 
+Mythril equipment, making your rebellion a little bit stronger. Mindu will 
+join you. He is a very powerful White Mage with almost every White Magic 
+spell available. He will also give you a Canoe, making it possible to travel 
+to Semmit Falls.
+
+-----------------------------------------------------------------------------
+3. Semmit Falls
+-----------------------------------------------------------------------------
+
+TREASURE: 10 Gil, 200 Gil, 530 Gil, 1 Gil, Antidote, Potion ×2, Fire, 
+Warp, Mythril.
+
+Cross the lake just north of Altair to reach Paloom. This town offers some 
+new equipment, but I would recommend waiting until you reach Salamand before 
+buying any new equipment. Talk to the sailor at the entrance of the town and 
+pay 32 Gil for a boat trip to the next town. This town is called Poft. 
+You'll find Cid in the Pub, and you can learn the Airship password from him.
+His assistant will give you Airship rides to the areas outlined below:
+Bafsk - 100 Gil
+Salamand - 200 Gil
+Semmit Falls - 300 Gil
+Kas'ion - 400 Gil
+You can take the Airship straight to Semmit Falls from here, but I would 
+recommend stopping by Salamand first for some really great spells and 
+equipment. In the freezing town of Salamand you'll learn that the 
+town's men are trapped in Semmit Falls. Stay at the inn and buy new 
+equipment. Stock up on curative items and do some last minute leveling
+up before heading west to Semmit Falls. Navigate the river east to 
+the cave right above the falls. Make your way through the mine, 
+collecting treasure as you go. You will eventually reach four doors in
+a row, enter the west-most door, the others lead to nothing. West from
+there is another trio of doors, again take west-most door. In this room,
+you'll meet all the men from Salamand. Talk to the Ninja, his name 
+is Pavel, he'll help everyone escape from here. You'll soon venture 
+into an intersection, east and south lead to dead ends, the north path 
+will lead on. In the next room there is a bridge leading west, take 
+this path to reach a chest containing the Warp spell, but be ready with 
+Ice spells to fight the Spiketoise guarding it. Return to the 
+bridge and head north, take the western door to reach the boss.
+
+Sergeant
+ WEAKNESS: None
+ STRATEGY: Use your strongest weapons against the boss. Have Mindu cast 
+ Shield and Blink on the party.
+
+Take the Mythril and have Mindu cast Warp to warp out of the mine.
+
+-----------------------------------------------------------------------------
+4. Bafsk Cave
+-----------------------------------------------------------------------------
+
+TREASURE: Long Sword, Longbow, Pass.
+
+Return to Altair and talk to Hilda, she'll give you the Dreadnought password 
+and send you to Bafsk to investigate the progress of the empire's Dreadnought. 
+Before you leave for Bafsk, go to the weapon shop and talk to Tobul. Show 
+him the Mythril and he'll use it to weld new equipment. Altair has new 
+Mythril armor and weapons. Paloom and Poft have some additional new Mythril 
+weapons. Buy new Mythril equipment and then go to Poft, and take the airship 
+to Bafsk. Talk to the soldier in the south end of the town. Tell him the 
+Dreadnought password to gain entrance to the cave. After a short walk you'll 
+meet a Dark Knight. He and his assistant, Borghen, will walk out of the cave, 
+follow them to see the Dreadnought fly off, you were only a minute too late… 
+Walk back into the cave and take the east path. Be sure to get the treasure 
+chest containing the Pass, you'll need this item later on. Step on to the 
+warp to return to the entrance of Bafsk. 
+
+-----------------------------------------------------------------------------
+5. Snow Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 100 Gil, 150 Gil, Snowcraft, Notus, Battle Axe, Antidote, 
+Mythril Mace, Potion ×2, Ice, Mythril Spear, Mythril Shield, Ancient Sword, 
+Silver Plate, Goddess's Bell.
+
+Return to Altair with the horrible news of the Dreadnought's departure. On 
+your way back to Altair you'll see the horrible effects of the Dreadnought on 
+Poft and Paloom. Their populations have greatly decreased and the towns are 
+in ruin. In Poft, tell Cid the Airship password to learn the Sunfire 
+password. The Sunfire is the only thing that can stop the Dreadnought. In 
+Altair, talk to Hilda. Mindu will leave the party to help with the injured 
+Altairians. Enter the king's chambers in the east part of the rebel base. 
+Tell him the Sunfire password to learn the Goddess's Bell password. This bell 
+is the only way into Kas'ion Castle. Return to Salamand and enter the north 
+east house. Talk to the man inside, his name is Josef. Tell him the Goddess's 
+Bell password and he'll join you. Return to Semmit Falls and inspect the 
+north east wall next to the giant blue stone. Get the chest in here, it 
+contains the Snowcraft. Exit Semmit Falls and walk to the northern mountain 
+range. Enter the snow field and slide eastward on the Snowcraft. Enter the 
+cave when you reach it. Head generally south, collecting treasure as you go. 
+You will eventually reach a door that leads to a village of Giant Beavers. 
+Talk to the beaver standing in the north of the village. Tell him the 
+Goddess's Bell password. Gus understands the beavers and will talk to him. He 
+learns that there is a secret passage in the village. Walk to the top of the 
+east wall to enter the secret passage. Head south and fight the giant turtle.
+
+Adamantoise
+ WEAKNESS: Ice
+ STRATEGY: Use ice battle items and Ice spells. Cast Shield on the     
+ party. Using weapons is futile, the huge shell is extremely defensive.
+
+Walk up to the wall and get the Goddess's Bell. A set of stairs will form. 
+Take these stairs and enter the door. This door leads to a shortcut back to 
+the entrance. Borghen will be waiting for you at the entrance.
+
+Borghen
+ WEAKNESS: None
+ STRATEGY: This boss is rather weak in comparison with other bosses. This 
+ battle shouldn't be too tough as long as you keep your HP up. The easiest 
+ way to defeat him is by using weapons.
+
+A giant boulder will begin to fall down the stairs at the entrance. Josef 
+will jump in front of it, sacrificing his life for the party. Exit the cave 
+and return to Altair.
+
+-----------------------------------------------------------------------------
+6. Kas'ion Castle
+-----------------------------------------------------------------------------
+
+TREASURE: 300 Gil, Cure, Mythril Axe, Mythril Sword, Gold Shield, Eye Drops, 
+Werebane, Mallet, Antidote, Golden Mail, Egil's Torch, Sunfire.
+
+In Altair, talk to Hilda, she'll grieve Josef's death. She'll then explain 
+that Gordon went to Kas'ion by himself in search of the Sunfire. You must 
+now travel to Kas'ion Castle and help Gordon in his search. Go to Poft and 
+take the airship to Kas'ion. Use the Goddess's Bell on the door at the 
+entrance to enter the castle. Shortly up the path you'll meet Gordon. He'll 
+join you on your way through the castle. As you can see from Gordon's stats, 
+he's really weak; you might want to do some leveling up before venturing 
+through the rest of the castle. Make your way through the linear castle, 
+checking each door and corner for treasure. On the fourth floor you'll fight 
+a boss.
+
+Shrieker
+ WEAKNESS: Magic
+ STRATEGY: Use high level magic spells to defeat it. Otherwise, if your 
+ weapon skill is high enough, attack it physically. Watch out for its strong 
+ magic attacks.
+
+Get the Egil's Torch. Return to the entrance of the castle and use the Egil's 
+Torch on the flame. This will collect Sunfire for you. On the world map, 
+head directly south of the castle to the bare patch in the forest to enter 
+the Chocobo Forest. Talk to the Chocobo, and you'll automatically exit the 
+forest where the Chocobo will be waiting for you. Hop on and head south 
+through the huge desert and stop at the gigantic ship just south of the huge 
+desert.
+
+-----------------------------------------------------------------------------
+7. Dreadnought
+-----------------------------------------------------------------------------
+
+TREASURE: 400 Gil, Crescent, Shade Bow, Thief's Gloves, Potion ×2, 
+Main Gauche, Trident, Ice Shield, Titan's Helm.
+
+Give the soldier at the entrance the Pass that you got in Bafsk Sewers. 
+Don't talk to any of the soldiers on the ship unless you have very high 
+attack power as they will attack you if you talk to them. To get the 
+treasure on the 2nd floor walk through the wall directly west of it. From 
+the entrance, head east first and find Cid and Hilda in a cell. Talk to Cid 
+and he'll lead Hilda to safety. Return to the first room and head south this 
+time. On your way to the engine room you'll find yourself in a maze of 
+guards. Don't talk to them and try to find spaces where there are none. 
+When you finally reach the engine room, throw the Sunfire into the glowing 
+green reactor. Cid will save you just as the Dreadnought blows to 
+smithereens. He'll then fly you safely back to Altair.
+
+-----------------------------------------------------------------------------
+8. Deist Cavern
+-----------------------------------------------------------------------------
+
+TREASURE: 30 Gil, Gold Hairpin, Cottage, Phoenix Down, Stun, Stop, Curse, 
+Unicorn Horn, Eye Drops, Gold Needle, Antidote, Sage's Wisdom ×2, Cross, 
+Saint's Spirit ×2, Mallet, Wing Blade, Mythril Helm, Mage's Staff, Pendant, 
+Mythril Shield, Acid Bottle, Potion, Knight's Armor, Flame Bow, 
+Mythril Mail, Mythril Gloves, Mythril Mirror, Dragon Egg.
+
+Enter the King's chambers and talk to him. He instructs Gordon to rule along 
+side Hilda on the throne, and he tells Mindu to seek out the forbidden magic, 
+Ultima. Finally, he suggests that Firion and his party travel to Deist and 
+seek the aid of the Dragoons. He will then die. Talk to Gordon in the 
+throne room to learn the Dragoon password, tell him this password to 
+learn the Wind Drake password. From Altair go to Paloom. Talk to the woman 
+standing in the entrance, she's a pirate named Leila. She'll offer you a 
+ride to Deist in her ship. Exit the town and walk to the ship, it's parked 
+just east of Paloom. She'll stop the ship in the middle of the ocean and send 
+her crew after you. They are extremely weak, so eliminate them quickly. 
+Firion decides to forgive Leila and lets her join the party. You now have 
+control of her ship for the rest of the game. Now would be a good time to do 
+some leveling up, since Leila will need it for the upcoming dungeon. Sail 
+south through the horizontal peninsula and then south east to reach the 
+island of Deist. Your ship can port anywhere, so port along the middle of the 
+southern edge of the island. Enter the castle in the center of the island. 
+Talk to the boy at the entrance, and he will run off, talk to him again and 
+he'll run off again. After a short walk you'll see the boy next to his 
+mother, talk to her and then enter the room right next to her. You'll meet 
+the Wind Drake in this room, he is very weak and on the verge of death. After 
+this, explore the entire castle for treasure, there are no enemies so don't 
+worry about fighting. Exit the castle and walk north to the cave. This cave 
+is full of fierce monsters, so it is essential to have high weapon levels.
+The Hill Gigases and Revenants are especially dangerous. First, go to the 
+east room and get the shining object, this is the Pendant. Return to Deist 
+Castle and tell the dying Wind Drake the Wind Drake password to receive the 
+Dragon Egg. Return to Deist Cavern. The south west path leads to 
+several treasure chests. The south east path leads to the boss. The south 
+east path is very long and maze like, watch out for faulty bridges. 
+Eventually you'll reach four doors in a row, take the second to the east 
+door. This door leads the boss.
+
+Chimera
+ WEAKNESS: None
+ STRATEGY: You'll have to fight several of these in this fight. Block out 
+ the effectiveness of their Flame attack by using Shell. Attack them 
+ physically. Take advantage of the many status increment items you found 
+ throughout the cave.
+
+When the Chimeras are defeated, place the Dragon Egg in the green pool.
+Exit the cave and return to Altair.
+
+-----------------------------------------------------------------------------
+9. Coliseum
+-----------------------------------------------------------------------------
+
+TREASURE: Antidote, Elixir, Ether, Cottage.
+
+Go to the Rebel Base and enter the room south of the late King's chambers.
+Hilda will be waiting, the rest of the party will leave, leaving Firion 
+alone with her. She'll tempt him, and as he gets closer she'll transform 
+into a Lamia Queen! The rest of the party will then return and will help 
+fight her.
+
+Lamia Queen
+ WEAKNESS: None
+ STRATEGY: Be ready with a Unicorn Horn or a high level Basuna spell to help 
+ guard against her sleep and charm spells. Just attack her physically with 
+ your highest level equipment.
+
+After the fight you'll learn that Paramecia still has Hilda imprisoned in 
+their Coliseum. Go to your ship and sail to a spot near the middle of the 
+huge desert below Kas'ion Castle. Walk into the center of the mountain range 
+on the east side of the desert. Enter the building below the huge castle in 
+the mountains. Be prepared for an immediate boss fight. Walk north toward the 
+Emperor's throne and you'll be trapped in the middle of the Coliseum with a 
+deadly beast.
+
+Behemoth
+ WEAKNESS: None
+ STRATEGY: This fight isn't too challenging, although the Behemoth can hit 
+ pretty hard. Just attack it with you strongest weapons.
+
+After the fight you'll be thrown into a jail cell. Walk up to the gate and 
+you'll see Pavel come to the rescue. Make your way through the short dungeon,
+and be sure to check each door, some of them have treasure in them. In the
+jail cell area, approach the third to the west cell to rescue the real Hilda. 
+Gordon will then leave the party and lead Hilda to safety. Exit to the south 
+and return to Altair.
+
+-----------------------------------------------------------------------------
+10. Fynn Castle
+-----------------------------------------------------------------------------
+
+TREASURE: 1000 Gil ×2, 2000 Gil, Aura, Potion, Doom, Break, Toad, 
+Titan's Gloves, Werebane.
+
+When you enter Altair, you'll see that everyone has abandoned the Rebel Base 
+and is preparing to retake Fynn. The guard at the entrance. He tells you that 
+they are at an encampment south of Fynn. Go north to the encampment below the 
+crescent lake south of Fynn. Talk to Hilda and Gordon, and they'll ask you to 
+invade Fynn Castle and defeat the Empire's general. Walk north and enter 
+Fynn Castle. Head north through the entrance to meet Leila, and she'll join 
+you. From here, head directly north, don't bother getting treasure chests 
+yet. Enter the throne room and defeat the man sitting on the throne.
+
+Gottos
+ WEAKNESS: None
+ STRATEGY: Use high level weapons and attack spell. He'll occasionally use 
+ magic, so use Shell and have Basuna ready if he inflicts any battle effects 
+ on the party.
+
+As soon as he is defeated the castle will return to normal. Gordon and Hilda 
+will reclaim the thrown and no random battles will occur around the castle. 
+Talk to Gordon to learn the Mysidia password, repeat it to him to learn the 
+Ultima Scroll password. Tell Hilda the Ultima Scroll password to learn the 
+Mask password. Finally, repeat the Mask password to Hilda to learn the 
+Ekmet Teloez password. You will then learn that your next quest is to travel 
+to the ancient town of Mysidia and to learn more about obtaining Ultima, the 
+ultimate magic spell, and how the White and Black Masks play a role in 
+obtaining it. You'll also learn that the White Mask is hidden somewhere in 
+Fynn Castle's basement. Before leaving the castle, be sure to completely 
+explore the castle for treasure. Be intuitive of the many hidden walls 
+throughout the castle and watch out for chests containing monsters. Fynn 
+town's shops have been re-opened now that the empire was driven out. Go 
+shopping for goods at the many stores and buy all new equipment and spells 
+for the party in preparation for the next quest.
+
+-----------------------------------------------------------------------------
+11. Fynn Basement
+-----------------------------------------------------------------------------
+
+TREASURE: Gold Shield, Golden Mail, Gold Plate, Eye Drops, Shirt, Knife, 
+Potion ×3, Maiden's Kiss, Flame Shield, Silk Web, Flame Mail, Blood Sword, 
+Backstabber, Orichaldagger, White Mask.
+
+Talk to the very top of the east wall in the throne room in Fynn Castle. Tell 
+it the Ekmet Teloez password to reveal a path through the wall. Head down 
+the castle stairs and stop right before entering the basement. Walk through 
+the east wall and then west through the south wall to find hidden treasure. 
+Return to the entrance of the basement and continue forward. On the 1st 
+floor of the basement the battles will be against almost entirely undead 
+monsters, including the hard-hitting Revenants. However, on the other 4 
+floors the enemies are generally easy and shouldn't pose too much threat. 
+After a long, confusing walk through the basement, you'll finally reach the 
+5th floor where there will be a line of 6 doors, take the 5th to the west 
+door, the others lead to nothing. In the next room there is a chest 
+containing the White Mask and north of that is a warp that brings you back to 
+the entrance of the castle.
+
+-----------------------------------------------------------------------------
+12. Tropical Island
+-----------------------------------------------------------------------------
+
+TREASURE: 1000 Gil, Eye Drops, Hi-Potion ×2, Silk Web, Ether, Poison ×2, 
+Blind ×2, Slumber Stalk, Silk Web, Garlic, Sleep, Phoenix Down, 
+Slumber Stalk ×2, Gaia Drum, Thanatos, Black Mask.
+
+Gordon and Hilda mentioned the ancient town of Mysidia earlier, it's now time 
+to go there. To get there, either walk south along the strip of land west of 
+Altair, or sail your ship into the into the bay south of Altair. The town is 
+settled outside of the west side of a circular mountain range. This town is 
+full of ancient wisdom, both in architecture and inhabitants. There are tons 
+of new weapons and armor, plus a gigantic selection of magic. Walk to the 
+south end of the town and walk down the stairs on the platform in the middle 
+of the water. Walk up to the statue and put the White Mask on it. Return to 
+your ship and look at your map, you'll see a small dot on the southern end of 
+the world, this is your destination. Enter the cave and be ready to tackle a 
+long, maze-like dungeon. Eventually you'll reach an area with two paths, take 
+the north path to discover a hidden village of strange men wearing black 
+masks. The masked man dressed in red on the east side of the village will 
+sell you miscellaneous items. Here is a listing of what he sells:
+Demon Axe - 10000
+Demon Spear - 10000
+Ruby Plate - 800
+Gaia Drum - 8000
+Exit the village and return to the main path. On the 5th floor, enter the 
+room located in the middle and fight the boss.
+
+Gigan Rhino
+ WEAKNESS: None
+ STRATEGY: Occasionally this enemy will inflict a critical hit on a party 
+ member, just be ready with curative items and spells. Attack the enemy with 
+ your strongest weapons and spells.
+
+Open the chest to get the Black Mask, then walk north and step on the warp to 
+return to the entrance. Head back to Mysidia.
+
+-----------------------------------------------------------------------------
+13. Mysidian Cave
+-----------------------------------------------------------------------------
+
+TREASURE: Gold Hairpin, Ninja Suit, Power Staff, Flame Lance, Ogrekiller, 
+Ice Bow, Potion ×5, Mute Bell, Phoenix Down, Gold Needle, Drain ×2, Mini, 
+Osmose, Crystal Rod.
+
+In Mysidia, heal and stock up on supplies. Also, do some serious leveling 
+up, the next cave is tough, so you need to be as resistant as possible. When 
+prepared, enter the circular mountain range from the east and enter the cave
+inside. In the south of the first room you'll encounter a doppelgänger that 
+looks just like Firion. Put the Black Mask on it to move on. Head generally 
+south through the entire cave, checking each and every door for treasure. 
+Always keep your HP up and be ready with Esuna spells and Gold Needles just 
+in case you're stoned by a Cockatrice. Once you reach the chest containing 
+the Crystal Rod, warp out and return to Mysidia.
+
+-----------------------------------------------------------------------------
+14. Leviathan
+-----------------------------------------------------------------------------
+
+TREASURE: Headband, Power Sash, Power Armlet, Terra Sword, Diamond Shield.
+
+Restore your health at the inn in Mysidia. Before leaving, buy a Cottage at 
+the item shop, if you don't already have one. Return to your ship. In the 
+bay south of Altair, sail north into the small circular bay. You'll be 
+swallowed up by Leviathan, a huge sea monster. You'll find yourself trapped 
+in his belly, surrounded by yellow stomach acid that reduces your HP if you 
+walk on it. You'll also find that Leila is no longer with you. Continue 
+through the creature's intestines until you come to a small settlement of 
+other people that have been swallowed by Leviathan. Talk to the man standing 
+in the middle of the settlement, his name is Gareth, he is the husband of 
+the woman in Deist Castle and the last surviving Dragoon. He'll join 
+you if you show him the Crystal Rod. Continue to the mouth of the creature 
+and fight the giant worm guarding your ship.
+
+Barrel Worm
+ WEAKNESS: Bolt
+ STRATEGY: High level Bolt spells work well on this boss. Attacking it 
+ with weapons is also an effective way of defeating this boss. Watch your 
+ characters' HP and heal continually.
+
+After the fight you'll regain control over your ship, continue north through 
+the circular bay and port at the small island with the huge tower on it. Use 
+a cottage to restore your party's health and magic.
+
+-----------------------------------------------------------------------------
+15. Mysidian Tower
+-----------------------------------------------------------------------------
+
+TREASURE: Staff ×3, Flame Bow, White Robe, Flame Lance, Flame Shield, 
+Flame Sword, Flame Mail, Flame Helm, Ice Shield, Ice Gloves, Ice Mail, 
+Ice Brand, Ice Lance, Potion, Spellbinder, Silk Web, Hermes, Unicorn Horn, 
+Hourglass, Cross, Black Robe, Ultima.
+
+Enter the huge tower. There are several deadly monsters in this tower, some 
+of the most deadly are Imps, they can cast Muddle on you and your character 
+could easily kill off your entire party if they have high enough weapon 
+skill. This is why it's extremely important to be ready with high level 
+Basuna spells or Unicorn Horns. There are also lots of new treasures in this 
+tower, so be sure to check out every chest, you won't want to miss some of 
+them. In the first room, walk north and find the secret hole in the wall to 
+get the chest. After getting the room's treasures, go up the central 
+staircase. This leads to the fire section of the tower. The lava will 
+reduce your party's HP one per step, but it will also prevent you from 
+being attacked. You will eventually come to a room with a wizard guarding 
+the staircase, defeat it to move on.
+
+Fire Gigas
+ WEAKNESS: Ice
+ STRATEGY: Use your highest level Ice spells on this boss to quickly 
+ defeat it. Also very effective in this battle are Notus battle items. 
+ This boss can hit hard, so heal often.
+
+There are two paths in the entrance of the ice section, the one near the 
+entrance leads to a single treasure chest, and the other leads to the correct 
+path. Watch out for the undead creatures in this section of the tower. You 
+will soon meet another Gigas, defeat it to move on.
+
+Ice Gigas
+ WEAKNESS: Fire
+ STRATEGY: Use Fire spells and Hellfires to beat this boss. Weapons are 
+ generally weak against this boss. Also, watch out for it's strong Ice 
+ spells, and counter them with Shell spells.
+
+The air section is pretty straightforward, just don't stray too far off the 
+main path. You'll come to yet another Gigas soon enough.
+
+Thunder Gigas
+ WEAKNESS: Earth
+ STRATEGY: If you have one, use an Gaia Drum to help defeat this boss. 
+ Otherwise, just use your brute strength to defeat this boss. You might also 
+ want to set up a shield of Wall, Blink, Shield, or Shell spells to help 
+ protect against this boss.
+
+After defeating this boss you'll come to another maze-like floor. One of the 
+doors is the correct door, and the others lead to nothing. On the 9th floor, 
+in the north-most area, is a chest guarded by a boss.
+
+White Dragon
+ WEAKNESS: None
+ STRATEGY: This monster has very high defense, it's going to be tough trying 
+ to defeat it with just weapons alone, so go ahead and use high level magic 
+ as well. Also, casting Shield on the party will help boost your defense 
+ against this hard hitter.
+
+On the 10th floor you'll meet Mindu. He'll use the last of his life energy 
+to open the door for the party. Yet another sacrifice for the party's sake 
+has taken place… In the next room, touch all of the blue orbs and then 
+touch the yellow orb in the middle. You finally have Ultima, the most 
+powerful spell in the game! Finally, step on the warp to return to the 
+entrance of the tower.
+
+-----------------------------------------------------------------------------
+16. Cyclone
+-----------------------------------------------------------------------------
+
+TREASURE: Ninja Suit, Ruby Plate, Thief's Gloves, Gold Plate, Elixir, 
+Gold Hairpin, Silver Plate, Blood Sword, Wind Drake, Ripper, Venom Axe, 
+Diamond Gloves, Diamond Helm, Defender, Diamond Mail, Zephyr's Flute.
+
+On your way back to Fynn you'll notice that Altair, Gatrea, Paloom, and Poft 
+are all destroyed and can't even be entered. You'll find out what happened 
+when you reach Fynn. Enter Fynn Castle and go to the throne room. Talk to 
+Hilda to learn the Cyclone password. You'll learn that the Empire summoned 
+this Cyclone and destroyed and killed many towns and people. Worst of all, 
+it's on a straight course for Fynn. Go to the entrance of the castle and 
+enter the staircase to the south west. Head north to the room with the giant 
+mirror. Hold the Pendant that you got in Deist Cavern up to the mirror to see 
+the Wind Drake hatch from its egg. You'll see it fly directly into the castle 
+to meet its master, Gareth, the Dragoon. Before entering the Cyclone, 
+enter the town of Fynn and go to Pavel's house in the south west corner of 
+the town. Talk to Pavel and then check the wall east of the bed to find a 
+secret room. There are eight treasure chest ripe for the picking inside. Exit 
+Fynn and walk into the Cyclone just north of Fynn, and the Wind Drake will 
+fly you into it. On the first floor, take the take the east staircase first, 
+it leads to treasure. Return to the entrance and take the west staircase to 
+continue forward. On the 6th floor there is a chest guarded by a boss.
+
+Green Dragon
+ WEAKNESS: None
+ STRATEGY: This boss has some hard hitting spells and attacks. Be sure to 
+ cast spells to protect against it. If you have it, it would also be a good 
+ idea to use the Haste spell to give your weapons a boost and speed up the 
+ battle.
+
+You'll finally face the emperor on the 7th floor. As you approach him, 
+you'll have to fight several guards, these battles are generally easy, so 
+don't worry. When you reach the emperor you will confront him.
+
+Emperor
+ WEAKNESS: None
+ STRATEGY: Defeat the Wood Golem and Royal Guards first. Use weapons to 
+ finish off the emperor, he is actually very easy to defeat. Although, 
+ you should watch out for his offensive spells and heal when necessary.
+
+You'll automatically return to Fynn Castle after the battle. Hilda and 
+Gordon will throw a party to celebrate your victory. Unfortunately, the 
+party is stopped short with the horrible news that the Dark Knight has 
+claimed the Emperor's throne. And, even worse, you find out that this "Dark 
+Knight" is actually your long lost brother, Leon.
+
+-----------------------------------------------------------------------------
+17. Paramecia
+-----------------------------------------------------------------------------
+
+TREASURE: Diamond Plate, Hourglass, Garlic, Knife, Buckler, Thunder Spear, 
+Saint's Spirit, Healing Staff, Mage's Staff, Spellbinder, Slumber Stalk, 
+Elixir ×3, Hellfire, Zephyr's Flute, Sunblade.
+
+Talk to Hilda to learn the Paramecia password. Afterward, go to Pavel's 
+house. You'll see that Cid is staying with Pavel, talk to him and he'll lay 
+down on the bed. There he will die… and in so doing, he'll give you his 
+airship! The airship is waiting for you in, the now destroyed, Poft. Get 
+there by ship and the airship will be parked in the same place it's always 
+been, intact and fully functional. You can now explore the world to your 
+heart's content. After leveling up, return to the Coliseum and land on the 
+Castle just north of it in the mountain range. In the first room, walk north 
+and enter the door. The floor will fall out from under you and you'll 
+plummet all the way down to the first floor. Take caution as you explore 
+this dungeon, there are many fierce monsters. This castle is full of useful 
+treasure, so explore it completely. After a long, twisting path through 
+the castle, you'll finally meet the Dark Knight himself, or shall we say, 
+Leon. After a short talk with him, the Emperor will suddenly revive. 
+Gareth will stay and keep him at bay while the rest of the party and 
+Leon escape. How many more people must die for the party's sake?
+
+-----------------------------------------------------------------------------
+18. Jade
+-----------------------------------------------------------------------------
+
+TREASURE: Excalibur, Hellfire, Diamond Mace, Hellfire, Notus, Cat Claws, 
+Rune Axe, Backstabber, Aegis Shield, Dragon Mail, Holy Lance, Yoichi's Bow, 
+Hi-Potion ×2, Protect Ring.
+
+You'll meet back at Fynn Castle, where the party and Hilda will have a brief 
+talk, wherein Maria will mention all the people that died at the hand of the 
+empire. Leon will repent for his madness in joining the empire and 
+shamefully rejoin the party. Be sure to learn the Pandaemonium password from 
+Hilda. Your airship is parked safely outside of Fynn. Use it to go to 
+Deist Castle. Tell Gareth's wife the Dragoon password to receive the 
+Excalibur, the second best weapon in the game. Now is the time to do some 
+serious leveling up. I would recommend having at least 7000 HP and 300 MP 
+per character, even more would be better. You should spend all your excess 
+money on buying Elixirs. When you're ready, fly to the east end of the 
+horizontal peninsula south east of Fynn and enter the huge hole by foot. This 
+is the first of the last two dungeons in the game, I hope you're prepared. 
+It isn't too hard to find your way through this dungeon, just be sure to 
+check each door. On the 2nd floor there is a chest guarded by a boss.
+
+Blue Dragon
+ WEAKNESS: None
+ STRATEGY: Use your strongest weapons. Use Shield to shield against its 
+ attacks. Heal whenever it deals a critical hit.
+
+The waterfall on the third floor will lower your HP with each step. There is 
+another chest on the third floor guarded by a boss.
+
+King Behemoth
+ WEAKNESS: None
+ STRATEGY: This boss has really strong defense, therefore, you may want to 
+ try defeating it with powerful magic more than fighting it physically. This 
+ boss is a hard hitter, he could easily kill one of your characters in a 
+ single blow, so take necessary precautions in this battle.
+
+Behind the waterfall at the very bottom of the 3rd floor is a shop that sells 
+extremely powerful magic. You'll definitely want to look into buying some of 
+these spells:
+Doom - 10000
+Berserk - 10000
+Haste - 20000
+Flare - 40000
+On the fourth floor, there is yet another chest guarded by a boss.
+
+Red Dragon
+ WEAKNESS: Ice
+ STRATEGY: Use Ice spells and Notus battle items to win this 
+ battle. Weapons are almost completely useless in this fight. Unless you 
+ have someone using the Excalibur with a level 16 sword skill, try not to 
+ rely on weapons.
+
+On the 6th floor you'll find a warp that will transport you to the final 
+dungeon. You can cast Warp now if you don't think you're ready, otherwise, 
+just continue to the warp.
+
+-----------------------------------------------------------------------------
+19. Pandaemonium
+-----------------------------------------------------------------------------
+
+TREASURE: Ether, Eye Drops, Genji Gloves, Masamune, Genji Helm, Genji Armor, 
+Ribbon, Sage's Wisdom, Hellfire, Acid Bottle.
+
+This is it! You've finally reached the final dungeon, the residing place of 
+the Emperor, Pandaemonium. There are several precautions to take. First, 
+beware the monsters in this dungeon, some of them hit extremely hard, some 
+confuse your party, and others can kill a party member in a single hit. To 
+counter such hardships you should always keep your MP high enough to be able 
+to use your Cure spells. You should also bring along as many Unicorn Horns 
+and high level Basuna spells as possible. You should wear armor that 
+protects your status, such as Ribbons and Protect Rings. Finally, use 
+Elixirs whenever needed. The first, second and third floors are pretty 
+straightforward. On the 4th floor you'll come to a line of four doors. From 
+the west, take the 1st door first. Go to the east section of this room and 
+walk through the bottom of the wall east of the huge pillar to find a hidden 
+room. You'll find a chest containing the Masamune, the best weapon in the 
+game. Exit the hidden room and walk to the chest, it's guarded by a boss.
+
+Zombie Borghen
+ WEAKNESS: Holy, Fire, Cure
+ STRATEGY: Since this boss is undead, you can use Cure spells to help 
+ defeat it. Also effective are Fire and Holy spells. Overall, this is a 
+ pretty easy battle.
+
+Exit this room and enter the 2nd from the west door. Follow the path to the 
+chest, it's also guarded by a boss.
+
+Tiamat
+ WEAKNESS: Flare
+ STRATEGY: If you took the time to level up your best spells before entering 
+ Pandaemonium, now would be a good time to use them. You can also use 
+ weapons, now that you have the Masamune. Watch out for this bosses 
+ attacks, they hurt.
+
+Exit this room and this time enter the 4th from the west room. The chest in 
+here is also guarded by a boss.
+
+Beelzebub
+ WEAKNESS: None
+ STRATEGY: The best method of defeating this enemy is just attacking it 
+ physically. This boss has a lot of HP so keep attacking it as hard as you 
+ can. You should also be ready to cure status ailments, should this boss use 
+ them against you.
+
+Exit this room and enter the 3rd to the west room. This is the last chest 
+guarded by a boss, and it's the hardest of the four, so heal up before 
+opening the chest.
+
+Astaroth
+ WEAKNESS: Ultima, Flare, Holy
+ STRATEGY: This boss hits extremely hard, not only that, it can also kill 
+ your entire party in one hit with its death spell. Always keep your HP to 
+ the max and revive dead characters immediately. Only attack physically with 
+ the Masamune and have everyone else use your best spells, such as Ultima, 
+ Flare, and Holy.
+
+After this fight, continue following the path in this room to the warp. From 
+here, the path is very linear, just follow it normally and eventually you'll 
+come to a room full of glowing pillars. Got to the south west corner of this 
+room to reach the warp. Walk north and stop before engaging the final boss. 
+Make sure everyone is fully healed in both HP and MP and equip each member 
+with two Elixirs. Engage the Emperor for the final battle!
+
+Emperor
+ WEAKNESS: Ultima, Flare, Holy
+ STRATEGY: Attack the Emperor physically with the Masamune and the Excalibur, 
+ whoever attacks physically should have Haste cast on them. Use Ultima, 
+ Flare, and Holy spells. Heal with Cure for HP, Esuna for status ailments, 
+ and Basuna for battle effects. Create a defensive shield by using Wall, 
+ Blink, Shield, Shell, and Barrier spells. 
+ [Secret]: If you saved your Blood Swords, equip someone with both, or divide 
+ them between two characters (or one, if you only have one of the swords). 
+ The battle will probably be over within one or two rounds, depending on your 
+ characters' sword skill levels.
+
+After the battle, it's over, you've completed the game!
+
+=============================================================================
+XVI. SPELLS
+=============================================================================
+
+1. WHITE MAGIC
+~~~~~~~~~~~~~~~~~
+Barrier
+ DESCRIPTION: Increases defense.
+ COST: 8000
+ LOCATION: Mysidia
+
+Basuna
+ DESCRIPTION: Cures battle effects.
+ COST: 800
+ LOCATION: Bafsk, Mysidia
+
+Blink
+ DESCRIPTION: Increases evade.
+ COST: 400
+ LOCATION: Paloom, Poft, Mysidia
+
+Cure
+ DESCRIPTION: Restores HP.
+ COST: 200
+ LOCATION: Altair, Paloom, Poft, Kas'ion Castle, Mysidia
+
+Dispel
+ DESCRIPTION: Removes status increments.
+ COST: 3000
+ LOCATION: Fynn
+
+Esuna
+ DESCRIPTION: Cures status effects.
+ COST: 800
+ LOCATION: Bafsk, Mysidia
+
+Faze
+ DESCRIPTION: Absorbs MP.
+ COST: 1500
+ LOCATION: Salamand, Mysidia
+
+Fear
+ DESCRIPTION: Causes enemy to run away.
+ COST: 800
+ LOCATION: Bafsk, Mysidia
+
+Fog
+ DESCRIPTION: Lowers hit rate.
+ COST: 3000
+ LOCATION: Fynn
+
+Holy
+ DESCRIPTION: Causes divine damage, especially effective against undead.
+ COST: 20000
+ LOCATION: Mysidia
+
+Life
+ DESCRIPTION: Restores life.
+ COST: 1500
+ LOCATION: Salamand, Mysidia
+
+Mini
+ DESCRIPTION: Minimizes target, lowering stats.
+ COST: 3000
+ LOCATION: Fynn, Mysidian Cave
+
+Shell
+ DESCRIPTION: Increases magic defense.
+ COST: 400
+ LOCATION: Paloom, Poft, Mysidia
+
+Shield
+ DESCRIPTION: Increases defense.
+ COST: 400
+ LOCATION: Paloom, Poft, Mysidia
+
+Silence
+ DESCRIPTION: Prevents magic usage.
+ COST: 800
+ LOCATION: Bafsk, Mysidia
+
+Slow
+ DESCRIPTION: Decreases hit amount.
+ COST: 3000
+ LOCATION: Fynn
+
+Swap
+ DESCRIPTION: Swaps MP and HP with target.
+ COST: 8000
+ LOCATION: Mysidia
+
+Ultima
+ DESCRIPTION: The ultimate offensive spell.
+ COST: --
+ LOCATION: Mysidian Tower
+
+Wall
+ DESCRIPTION: Reflects magic.
+ COST: 8000
+ LOCATION: Mysidia
+
+Warp
+ DESCRIPTION: Teleports party out of dungeons.
+ COST: 1500
+ LOCATION: Salamand, Semmit Falls, Mysidia
+
+2. BLACK MAGIC
+~~~~~~~~~~~~~~~~~
+Aura
+ DESCRIPTION: Raises stats.
+ COST: --
+ LOCATION: Fynn Castle
+
+Banish
+ DESCRIPTION: Warps party back one floor in dungeons.
+ COST: 1500
+ LOCATION: Salamand, Mysidia
+
+Berserk
+ DESCRIPTION: Causes target to fight uncontrollably
+ COST: 10000
+ LOCATION: Jade
+
+Blind
+ DESCRIPTION: Causes blind status, lowering hit rate.
+ COST: --
+ LOCATION: Tropical Island
+
+Bolt
+ DESCRIPTION: Causes electric elemental damage.
+ COST: 400
+ LOCATION: Altair, Mysidia
+
+Break
+ DESCRIPTION: Turns target into stone
+ COST: --
+ LOCATION: Fynn Castle
+
+Curse
+ DESCRIPTION: Decreases attack power.
+ COST: --
+ LOCATION: Deist Castle
+
+Doom
+ DESCRIPTION: Immediately defeats target.
+ COST: 10000
+ LOCATION: Fynn Castle, Jade
+
+Drain
+ DESCRIPTION: Absorbs HP.
+ COST: --
+ LOCATION: Mysidian Cave
+
+Fire
+ DESCRIPTION: Causes fire elemental damage.
+ COST: 400
+ LOCATION: Altair, Mysidia
+
+Flare
+ DESCRIPTION: Causes nuclear elemental damage.
+ COST: 40000
+ LOCATION: Jade
+
+Haste
+ DESCRIPTION: Increases hit amount.
+ COST: 20000
+ LOCATION: Jade
+
+Ice
+ DESCRIPTION: Causes ice elemental damage.
+ COST: 400
+ LOCATION: Altair, Snow Cavern, Mysidia
+
+Muddle
+ DESCRIPTION: Causes target to attack allies.
+ COST: --
+ LOCATION: Won in battle
+
+Osmose
+ DESCRIPTION: Absorbs MP.
+ COST: --
+ LOCATION: Mysidian Cave
+
+Poison
+ DESCRIPTION: Causes poison elemental damage.
+ COST: --
+ LOCATION: Tropical Island
+
+Sleep
+ DESCRIPTION: Causes sleep status, disabling commands.
+ COST: --
+ LOCATION: Tropical Island
+
+Stop
+ DESCRIPTION: Prevents any action in battle
+ COST: --
+ LOCATION: Deist Castle
+
+Stun
+ DESCRIPTION: Prevents any action in battle.
+ COST: --
+ LOCATION: Deist Castle
+
+Toad
+ DESCRIPTION: Turns target into toad, lowering stats and causing them to run.
+ COST: --
+ LOCATION: Fynn Castle
+
+=============================================================================
+XVII. ITEMS
+=============================================================================
+
+1. SUPPORT ITEMS
+~~~~~~~~~~~~~~~~~
+Antidote
+ DESCRIPTION: Cures poison status.
+ COST: 200
+
+Cottage
+ DESCRIPTION: Restores HP and MP to party on world map.
+ COST: 5000
+
+Cross
+ DESCRIPTION: Cures curse status.
+ COST: 1000
+
+Elixir
+ DESCRIPTION: Restores all HP and MP to one character.
+ COST: 50000
+
+Ether
+ DESCRIPTION: Restores a small amount of MP.
+ COST: 2500
+
+Eye Drops
+ DESCRIPTION: Cures blind status.
+ COST: 100
+
+Gold Needle
+ DESCRIPTION: Cures stone status.
+ COST: 2500
+
+Hi-Potion
+ DESCRIPTION: Restores a medium amount of HP.
+ COST: 500
+
+Maiden's Kiss
+ DESCRIPTION: Cures toad status.
+ COST: 2500
+
+Mallet
+ DESCRIPTION: Cures silence status.
+ COST: 2000
+
+Phoenix Down
+ DESCRIPTION: Revives one character.
+ COST: 5000
+
+Potion
+ DESCRIPTION: Restores a small amount of HP.
+ COST: 50
+
+2. BATTLE ITEMS
+~~~~~~~~~~~~~~~~~
+Acid Bottle
+ DESCRIPTION: Casts Poison 16.
+ LOCATION: Deist Cavern, Pandaemonium
+
+Bacchus's Wine
+ DESCRIPTION: Increases attack power.
+ LOCATION: Won in battle
+
+Backstabber
+ DESCRIPTION: Casts Muddle 16.
+ LOCATION: Fynn Basement, Jade
+
+Gaia Drum
+ DESCRIPTION: Casts Quake 10.
+ LOCATION: Tropical Island
+
+Garlic
+ DESCRIPTION: Damages undead creatures.
+ LOCATION: Tropical Island, Paramecia
+
+Hellfire
+ DESCRIPTION: Casts Fire 5.
+ LOCATION: Paramecia, Jade, Pandaemonium
+
+Hermes
+ DESCRIPTION: Casts Haste 8.
+ LOCATION: Mysidian Tower
+
+Hourglass
+ DESCRIPTION: Casts Stop 8.
+ LOCATION: Mysidian Tower, Paramecia
+
+Magiconch
+ DESCRIPTION: Casts Shell 16.
+ LOCATION: Equipped on Mindu
+
+Mute Bell
+ DESCRIPTION: Casts Silence 16.
+ LOCATION: Mysidian Cave
+
+Mythril Mirror
+ DESCRIPTION: Casts Wall 16.
+ LOCATION: Deist Cavern
+
+Notus
+ DESCRIPTION: Casts Ice 16.
+ LOCATION: Snow Cavern, Jade
+
+Sage's Wisdom
+ DESCRIPTION: Increases magic power.
+ LOCATION: Deist Castle, Deist Cavern, Pandaemonium
+
+Saint's Spirit
+ DESCRIPTION: Increases magic power.
+ LOCATION: Deist Castle, Deist Cavern, Paramecia
+
+Silk Web
+ DESCRIPTION: Casts Slow 9.
+ LOCATION: Fynn Basement, Tropical Island, Mysidian Tower
+
+Slumber Stalk
+ DESCRIPTION: Casts Sleep 16.
+ LOCATION: Tropical Island, Paramecia
+
+Thanatos
+ DESCRIPTION: Casts Fear 10
+ LOCATION: Tropical Island
+
+Unicorn Horn
+ DESCRIPTION: Casts Basuna 16
+ LOCATION: Deist Castle, Mysidian Tower
+
+Zephyr's Flute
+ DESCRIPTION: Casts Cyclone 13
+ LOCATION: Cyclone, Paramecia
+
+3. KEY ITEMS
+~~~~~~~~~~~~~~~~~
+Black Mask
+ DESCRIPTION: Placed on the doppleganger in Mysidian Cave.
+ LOCATION: Tropical Island
+
+Canoe
+ DESCRIPTION: Given to you by Mindu. Allows you to cross rivers and lakes.
+ LOCATION: Altair
+
+Crystal Rod
+ DESCRIPTION: Allows entrance to Mysidian Tower.
+ LOCATION: Mysidian Cave
+
+Dragon Egg
+ DESCRIPTION: Placed in Deist Cavern to help hatch it.
+ LOCATION: Deist Castle
+
+Egil's Torch
+ DESCRIPTION: Collects Sunfire in Kas'ion Castle.
+ LOCATION: Kas'ion Castle
+
+Goddess's Bell
+ DESCRIPTION: Allows you to enter Kas'ion Castle.
+ LOCATION: Snow Cavern
+
+Mythril
+ DESCRIPTION: Allows Tobul to create Mythril equipment and weapons.
+ LOCATION: Semmit Falls
+
+Pass
+ DESCRIPTION: Shown to the guard at the entrance of the Dreadnought.
+ LOCATION: Bafsk Cave
+
+Pendant
+ DESCRIPTION: Views the Wind Drake in the mirror at Fynn Castle.
+ LOCATION: Deist Cavern
+
+Ring
+ DESCRIPTION: Given to you by Scott. Allows you to view the world map.
+ LOCATION: Fynn
+
+Snowcraft
+ DESCRIPTION: Allows the party to cross the snow field.
+ LOCATION: Semmit Falls
+
+Sunfire
+ DESCRIPTION: Thrown into the Dreadnought's engine, exploding it.
+ LOCATION: Kas'ion Castle
+
+White Mask
+ DESCRIPTION: Placed on the statue in Mysidia.
+ LOCATION: Fynn Basement
+
+Wind Drake
+ DESCRIPTION: Allows entrance to the Cyclone, casts Fire 7 in battle.
+ LOCATION: Fynn Castle
+
+=============================================================================
+XVIII. WEAPONS
+=============================================================================
+
+1. SWORDS
+~~~~~~~~~~~~~~~~~
+Ancient Sword
+ COST: --
+ LOCATION: Snow Cavern
+
+Blood Sword
+ COST: --
+ LOCATION: Fynn Basement, Fynn (Pavel's House)
+
+Broadsword
+ COST: 400
+ LOCATION: Altair
+
+Crescent
+ COST: --
+ LOCATION: Dreadnought
+
+Defender
+ COST: --
+ LOCATION: Cyclone
+
+Excalibur
+ COST: --
+ LOCATION: Deist Castle
+
+Flame Sword
+ COST: --
+ LOCATION: Mysidian Tower
+
+Ice Brand
+ COST: --
+ LOCATION: Mysidian Tower
+
+Long Sword
+ COST: 600
+ LOCATION: Salamand, Bafsk Cave
+
+Masamune
+ COST: --
+ LOCATION: Pandaemonium
+
+Mythril Sword
+ COST: 1800
+ LOCATION: Altair, Paloom, Poft, Kas'ion Castle
+
+Sunblade
+ COST: --
+ LOCATION: Paramecia
+
+Terra Sword
+ COST: --
+ LOCATION: Leviathan
+
+Wing Blade
+ COST: 5000
+ LOCATION: Deist Castle, Fynn
+
+2. AXES
+~~~~~~~~~~~~~~~~~
+Axe
+ COST: 500
+ LOCATION: Gatrea, Paloom, Poft
+
+Battle Axe
+ COST: 800
+ LOCATION: Salamand, Snow Cavern
+
+Demon Axe
+ COST: 10000
+ LOCATION: Tropical Island
+
+Mythril Axe
+ COST: 2000
+ LOCATION: Paloom, Poft, Kas'ion Castle
+
+Ogrekiller
+ COST: 15000
+ LOCATION: Mysidia, Mysidian Cave
+
+Rune Axe
+ COST: --
+ LOCATION: Jade
+
+Venom Axe
+ COST: --
+ LOCATION: Cyclone
+
+3. KNIVES
+~~~~~~~~~~~~~~~~~
+Cat Claws
+ COST: --
+ LOCATION: Jade
+
+Dagger
+ COST: 800
+ LOCATION: Paloom, Poft
+
+Knife
+ COST: 150
+ LOCATION: Altair, Fynn Basement, Paramecia
+
+Main Gauche
+ COST: --
+ LOCATION: Dreadnought
+
+Mythril Knife
+ COST: 800
+ LOCATION: Altair
+
+Orichaldagger
+ COST: --
+ LOCATION: Fynn Basement
+
+Ripper
+ COST: --
+ LOCATION: Cyclone
+
+4. SPEARS
+~~~~~~~~~~~~~~~~~
+Demon Spear
+ COST: 10000
+ LOCATION: Tropical Island
+
+Flame Lance
+ COST: 15000
+ LOCATION: Mysidia, Mysidian Cave, Mysidian Tower
+
+Holy Lance
+ COST: --
+ LOCATION: Jade
+
+Ice Lance
+ COST: --
+ LOCATION: Mysidian Tower
+
+Javelin
+ COST: 300
+ LOCATION: Altair
+
+Mythril Spear
+ COST: 1500
+ LOCATION: Altair, Paloom, Poft, Snow Cavern
+
+Spear
+ COST: 500
+ LOCATION: Bafsk
+
+Thunder Spear
+ COST: --
+ LOCATION: Paramecia
+
+Trident
+ COST: 5000
+ LOCATION: Dreadnought, Fynn
+
+5. STAVES
+~~~~~~~~~~~~~~~~~
+Diamond Mace
+ COST: --
+ LOCATION: Jade
+
+Healing Staff
+ COST: --
+ LOCATION: Paramecia
+
+Mace
+ COST: 500
+ LOCATION: Paloom, Poft
+
+Mage's Staff
+ COST: --
+ LOCATION: Deist Castle, Paramecia
+
+Mythril Mace
+ COST: 1500
+ LOCATION: Altair, Snow Cavern
+
+Power Staff
+ COST: 8000
+ LOCATION: Mysidia, Mysidian Cave
+
+Spellbinder
+ COST: --
+ LOCATION: Mysidian Tower, Paramecia
+
+Staff
+ COST: 250
+ LOCATION: Altair, Mysidian Tower
+
+Werebane
+ COST: 3000
+ LOCATION: Kas'ion Castle, Fynn, Fynn Castle
+
+6. BOWS
+~~~~~~~~~~~~~~~~~
+Bow
+ COST: 150
+ LOCATION: Gatrea, Paloom, Poft
+
+Flame Bow
+ COST: 5000
+ LOCATION: Deist Cavern, Fynn, Mysidian Tower
+
+Ice Bow
+ COST: 5000
+ LOCATION: Mysidia, Mysidian Cave
+
+Longbow
+ COST: 250
+ LOCATION: Salamand, Bafsk Cave
+
+Mythril Bow
+ COST: 1000
+ LOCATION: Paloom, Poft
+
+Shade Bow
+ COST: --
+ LOCATION: Dreadnought
+
+Yoichi's Bow
+ COST: --
+ LOCATION: Jade
+
+=============================================================================
+XIX. ARMOR
+=============================================================================
+
+1. BODY
+~~~~~~~~~~~~~~~~~
+Black Robe
+ COST: --
+ LOCATION: Mysidian Tower
+ DEFENSE POWER: 35
+
+Bronze Mail
+ COST: 400
+ LOCATION: Salamand
+ DEFENSE POWER: 5
+
+Copper Plate
+ COST: 200
+ LOCATION: Paloom, Poft
+ DEFENSE POWER: 5
+
+Diamond Mail
+ COST: --
+ LOCATION: Cyclone
+ DEFENSE POWER: 43
+
+Diamond Plate
+ COST: --
+ LOCATION: Paramecia
+ DEFENSE POWER: 43
+
+Dragon Mail
+ COST: --
+ LOCATION: Jade
+ DEFENSE POWER: 50
+
+Flame Mail
+ COST: --
+ LOCATION: Fynn Basement, Mysidian Tower
+ DEFENSE POWER: 29
+
+Genji Armor
+ COST: --
+ LOCATION: Pandaemonium
+ DEFENSE POWER: 75
+
+Golden Mail
+ COST: 2500
+ LOCATION: Kas'ion Castle, Fynn, Fynn Castle
+ DEFENSE POWER: 22
+
+Gold Plate
+ COST: 1000
+ LOCATION: Fynn, Fynn Castle, Fynn (Pavel's House)
+ DEFENSE POWER: 15
+
+Ice Mail
+ COST: --
+ LOCATION: Mysidian Tower
+ DEFENSE POWER: 36
+
+Knight's Armor
+ COST: 5000
+ LOCATION: Deist Cavern, Mysidia
+ DEFENSE POWER: 22
+
+Leather Armor
+ COST: 100
+ LOCATION: Gatrea
+ DEFENSE POWER: 2
+
+Mythril Mail
+ COST: 1000
+ LOCATION: Altair, Deist Cavern
+ DEFENSE POWER: 10
+
+Ninja Suit
+ COST: --
+ LOCATION: Mysidian Cave, Fynn (Pavel's House)
+ DEFENSE POWER: 40
+
+Power Sash
+ COST: --
+ LOCATION: Leviathan
+ DEFENSE POWER: 25
+
+Ruby Plate
+ COST: 800
+ LOCATION: Tropical Island, Fynn (Pavel's House)
+ DEFENSE POWER: 15
+
+Shirt
+ COST: 20
+ LOCATION: Altair, Fynn Basement
+ DEFENSE POWER: 1
+
+Silver Plate
+ COST: 400
+ LOCATION: Bafsk, Snow Cavern, Fynn (Pavel's House)
+ DEFENSE POWER: 10
+
+White Robe
+ COST: --
+ LOCATION: Mysidian Tower
+ DEFENSE POWER: 30
+
+2. HEAD
+~~~~~~~~~~~~~~~~~
+Bronze Helm
+ COST: 200
+ LOCATION: Paloom, Poft
+ DEFENSE POWER: 2
+
+Diamond Helm
+ COST: --
+ LOCATION: Cyclone
+ DEFENSE POWER: 17
+
+Flame Helm
+ COST: --
+ LOCATION: Mysidian Tower
+ DEFENSE POWER: 13
+
+Genji Helm
+ COST: --
+ LOCATION: Pandaemonium
+ DEFENSE POWER: 30
+
+Gold Hairpin
+ COST: --
+ LOCATION: Deist Castle, Mysidian Cave, Fynn (Pavel's House)
+ DEFENSE POWER: 11
+
+Headband
+ COST: --
+ LOCATION: Leviathan
+ DEFENSE POWER: 12
+
+Leather Cap
+ COST: 80
+ LOCATION: Altair, Gatrea
+ DEFENSE POWER: 1
+
+Mythril Helm
+ COST: 300
+ LOCATION: Altair, Deist Cavern
+ DEFENSE POWER: 4
+
+Ribbon
+ COST: --
+ LOCATION: Pandaemonium
+ DEFENSE POWER: 10
+
+Titan's Helm
+ COST: 600
+ LOCATION: Dreadnought, Fynn
+ DEFENSE POWER: 6
+
+3. ARM
+~~~~~~~~~~~~~~~~~
+Bronze Gloves
+ COST: 300
+ LOCATION: Paloom, Poft
+ DEFENSE POWER: 3
+
+Diamond Gloves
+ COST: --
+ LOCATION: Cyclone
+ DEFENSE POWER: 35
+
+Genji Gloves
+ COST: --
+ LOCATION: Pandaemonium
+ DEFENSE POWER: 45
+
+Ice Gloves
+ COST: --
+ LOCATION: Mysidian Tower
+ DEFENSE POWER: 20
+
+Leather Gloves
+ COST: 50
+ LOCATION: Altair, Gatrea
+ DEFENSE POWER: 1
+
+Mythril Gloves
+ COST: 800
+ LOCATION: Altair, Deist Cavern
+ DEFENSE POWER: 6
+
+Power Armlet
+ COST: --
+ LOCATION: Leviathan
+ DEFENSE POWER: 19
+
+Protect Ring
+ COST: --
+ LOCATION: Jade
+ DEFENSE POWER: 18
+
+Thief's Gloves
+ COST: 1000
+ LOCATION: Dreadnought, Mysidia, Fynn (Pavel's House)
+ DEFENSE POWER: 15
+
+Titan's Gloves
+ COST: 2000
+ LOCATION: Fynn Castle, Mysidia
+ DEFENSE POWER: 15
+
+4. SHIELDS
+~~~~~~~~~~~~~~~~~
+Aegis Shield
+ COST: --
+ LOCATION: Jade
+
+Bronze Shield
+ COST: 200
+ LOCATION: Paloom, Poft
+
+Buckler
+ COST: 50
+ LOCATION: Altair, Gatrea, Paramecia
+
+Diamond Shield
+ COST: --
+ LOCATION: Leviathan
+
+Dragon Shield
+ COST: --
+ LOCATION: Won in battle
+
+Flame Shield
+ COST: --
+ LOCATION: Fynn Basement, Mysidian Tower
+
+Gold Shield
+ COST: 1000
+ LOCATION: Kas'ion Castle, Fynn, Fynn Castle
+
+Ice Shield
+ COST: 5000
+ LOCATION: Dreadnought, Mysidia, Mysidian Tower
+
+Mythril Shield
+ COST: 500
+ LOCATION: Altair, Snow Cavern, Deist Cavern
+
+=============================================================================
+XX. SHOPS
+=============================================================================
+
+-----------------------------------------------------------------------------
+Altair
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Cure - 200
+Fire - 400
+Bolt - 400
+Ice - 400
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Knife - 150
+Staff - 250
+Javelin - 300
+Broadsword - 400
+
+[Available after obtaining Mythril]
+Mythril Knife - 800
+Mythril Mace - 1500
+Mythril Spear - 1500
+Mythril Sword - 1800
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Buckler - 50
+Leather Cap - 80
+Shirt - 20
+Leather Gloves - 50
+
+[Available after obtaining Mythril]
+Mythril Shield - 500
+Mythril Helm - 300
+Mythril Mail - 1000
+Mythril Gloves - 800
+
+-----------------------------------------------------------------------------
+Gatrea
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Javelin - 300
+Broadsword - 400
+Axe - 500
+Bow - 150
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Buckler - 50
+Leather Cap - 80
+Leather Armor - 100
+Leather Gloves - 50
+
+-----------------------------------------------------------------------------
+Paloom
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Cure - 200
+Blink - 400
+Shield - 400
+Shell - 400
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Dagger - 800
+Mace - 500
+Axe - 500
+Bow - 150
+
+[Available after obtaining Mythril]
+Mythril Spear - 1500
+Mythril Sword - 1800
+Mythril Axe - 2000
+Mythril Bow - 1000
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Bronze Shield - 200
+Bronze Helm - 200
+Copper Plate - 200
+Bronze Gloves - 300
+
+-----------------------------------------------------------------------------
+Poft
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Cure - 200
+Blink - 400
+Shield - 400
+Shell - 400
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Dagger - 800
+Mace - 500
+Axe - 500
+Bow - 150
+
+[Available after obtaining Mythril]
+Mythril Spear - 1500
+Mythril Sword - 1800
+Mythril Axe - 2000
+Mythril Bow - 1000
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Bronze Shield - 200
+Bronze Helm - 200
+Copper Plate - 200
+Bronze Gloves - 300
+
+-----------------------------------------------------------------------------
+Salamand
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Life - 1500
+Faze - 1500
+Banish - 1500
+Warp - 1500
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Mace - 500
+Long Sword - 600
+Battle Axe - 800
+Longbow - 250
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Bronze Shield - 200
+Bronze Helm - 200
+Bronze Mail - 400
+Bronze Gloves - 300
+
+-----------------------------------------------------------------------------
+Bafsk
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Fear - 800
+Basuna - 800
+Esuna - 800
+Silence - 800
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Dagger - 800
+Spear - 500
+Long Sword - 600
+Longbow - 250
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Bronze Shield - 200
+Bronze Helm - 200
+Silver Plate - 400
+Bronze Gloves - 300
+
+-----------------------------------------------------------------------------
+Fynn
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Dispel - 3000
+Mini - 3000
+Fog - 3000
+Slow - 3000
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Werebane - 3000
+Trident - 5000
+Wing Blade - 5000
+Flame Bow - 5000
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Gold Shield - 1000
+Titan's Helm - 600
+Golden Mail - 2500
+Gold Plate - 1000
+
+-----------------------------------------------------------------------------
+Mysidia
+-----------------------------------------------------------------------------
+
+ITEM
+~~~~~~~~~~~~~~~~~
+Potion - 50
+Hi-Potion - 500
+Eye Drops - 100
+Antidote - 200
+
+Cross - 1000
+Mallet - 2000
+Maiden's Kiss - 2500
+Gold Needle - 2500
+
+Phoenix Down - 5000
+Ether - 2500
+Cottage - 5000
+Elixir - 50000
+
+MAGIC
+~~~~~~~~~~~~~~~~~
+Fire - 400
+Bolt - 400
+Ice - 400
+Cure - 200
+
+Cure - 200
+Blink - 400
+Shield - 400
+Shell - 400
+
+Barrier - 8000
+Wall - 8000
+Swap - 8000
+Holy - 20000
+
+Life - 1500
+Faze - 1500
+Banish - 1500
+Warp - 1500
+
+Fear - 800
+Basuna - 800
+Esuna - 800
+Silence - 800
+
+WEAPON
+~~~~~~~~~~~~~~~~~
+Power Staff - 8000
+Flame Lance - 15000
+Ogrekiller - 15000
+Ice Bow - 5000
+
+ARMOR
+~~~~~~~~~~~~~~~~~
+Ice Shield - 5000
+Knight's Armor - 5000
+Thief's Gloves - 1000
+Titan's Gloves - 2000
+
+-----------------------------------------------------------------------------
+Tropical Island
+-----------------------------------------------------------------------------
+
+Demon Axe - 10000
+Demon Spear - 10000
+Ruby Plate - 800
+Gaia Drum - 8000
+
+-----------------------------------------------------------------------------
+Jade
+-----------------------------------------------------------------------------
+
+Reaper - 10000
+Berserk - 10000
+Haste - 20000
+Flare - 40000
+
+=============================================================================
+XXI. BOSS STRATEGIES
+=============================================================================
+
+Adamantoise
+ WEAKNESS: Ice
+ STRATEGY: Use ice battle items and Ice spells. Cast Shield on the     
+ party. Using weapons is futile, the huge shell is extremely defensive.
+
+Astaroth
+ WEAKNESS: Ultima, Flare, Holy
+ STRATEGY: This boss hits extremely hard, not only that, it can also kill 
+ your entire party in one hit with its death spell. Always keep your HP to 
+ the max and revive dead characters immediately. Only attack physically with 
+ the Masamune and have everyone else use your best spells, such as Ultima, 
+ Flare, and Holy.
+
+Barrel Worm
+ WEAKNESS: Bolt
+ STRATEGY: High level Bolt spells work well on this boss. Attacking it 
+ with weapons is also an effective way of defeating this boss. Watch your 
+ characters' HP and heal continually.
+
+Beelzebub
+ WEAKNESS: None
+ STRATEGY: The best method of defeating this enemy is just attacking it 
+ physically. This boss has a lot of HP so keep attacking it as hard as you 
+ can. You should also be ready to cure status ailments, should this boss use 
+ them against you.
+
+Behemoth
+ LOCATION: Coliseum
+ WEAKNESS: None
+ STRATEGY: This fight isn't too challenging, although the Behemoth can hit 
+ pretty hard. Just attack it with you strongest weapons.
+
+Blue Dragon
+ WEAKNESS: None
+ STRATEGY: Use your strongest weapons. Use Shield to shield against its 
+ attacks. Heal whenever it deals a critical hit.
+
+Borghen
+ LOCATION: Snow Cavern
+ WEAKNESS: None
+ STRATEGY: This boss is rather weak in comparison with other bosses. This 
+ battle shouldn't be too tough as long as you keep your HP up. The easiest 
+ way to defeat him is by using weapons.
+
+Chimera
+ WEAKNESS: None
+ STRATEGY: You'll have to fight several of these in this fight. Block out 
+ the effectiveness of their Flame attack by using Shell. Attack them 
+ physically. Take advantage of the many status increment items you found 
+ throughout the cave.
+
+Emperor
+ WEAKNESS: None
+ STRATEGY: Defeat the Wood Golem and Royal Guards first. Use weapons to 
+ finish off the emperor, he is actually very easy to defeat. Although, 
+ you should watch out for his offensive spells and heal when necessary.
+
+Emperor (Final)
+ WEAKNESS: Ultima, Flare, Holy
+ STRATEGY: Attack the Emperor physically with the Masamune and the Excalibur, 
+ whoever attacks physically should have Haste cast on them. Use Ultima, 
+ Flare, and Holy spells. Heal with Cure for HP, Esuna for status ailments, 
+ and Basuna for battle effects. Create a defensive shield by using Wall, 
+ Blink, Shield, Shell, and Barrier spells. 
+ [Secret]: If you saved your Blood Swords, equip someone with both, or divide 
+ them between two characters (or one, if you only have one of the swords). 
+ The battle will probably be over within one or two rounds, depending on your 
+ characters' sword skill levels.
+
+Fire Gigas
+ WEAKNESS: Ice
+ STRATEGY: Use your highest level Ice spells on this boss to quickly 
+ defeat it. Also very effective in this battle are Notus battle items. 
+ This boss can hit hard, so heal often.
+
+Gottos
+ WEAKNESS: None
+ STRATEGY: Use high level weapons and attack spell. He'll occasionally use 
+ magic, so use Shell and have Basuna ready if he inflicts any battle effects 
+ on the party.
+
+Gigan Rhino
+ LOCATION: Tropical Island
+ WEAKNESS: None
+ STRATEGY: Occasionally this enemy will inflict a critical hit on a party 
+ member, just be ready with curative items and spells. Attack the enemy with 
+ your strongest weapons and spells.
+
+Green Dragon
+ WEAKNESS: None
+ STRATEGY: This boss has some hard hitting spells and attacks. Be sure to 
+ cast spells to protect against it. If you have it, it would also be a good 
+ idea to use the Haste spell to give your weapons a boost and speed up the 
+ battle.
+
+Ice Gigas
+ WEAKNESS: Fire
+ STRATEGY: Use Fire spells and Hellfires to beat this boss. Weapons are 
+ generally weak against this boss. Also, watch out for it's strong Ice 
+ spells, and counter them with Shell spells.
+
+King Behemoth
+ LOCATION: Jade
+ WEAKNESS: None
+ STRATEGY: This boss has really strong defense, therefore, you may want to 
+ try defeating it with powerful magic more than fighting it physically. This 
+ boss is a hard hitter, he could easily kill one of your characters in a 
+ single blow, so take necessary precautions in this battle.
+
+Lamia Queen
+ WEAKNESS: None
+ STRATEGY: Be ready with a Unicorn Horn or a high level Basuna spell to help 
+ guard against her sleep and charm spells. Just attack her physically with 
+ your highest level equipment.
+
+Red Dragon
+ WEAKNESS: Ice
+ STRATEGY: Use Ice spells and Notus battle items to win this 
+ battle. Weapons are almost completely useless in this fight. Unless you 
+ have someone using the Excalibur with a level 16 sword skill, try not to 
+ rely on weapons.
+
+Sergeant
+ WEAKNESS: None
+ STRATEGY: Use your strongest weapons against the boss. Have Mindu cast 
+ Shield and Blink on the party.
+
+Shrieker
+ LOCATION: Kas'ion Castle
+ WEAKNESS: Magic
+ STRATEGY: Use high level magic spells to defeat it. Otherwise, if your 
+ weapon skill is high enough, attack it physically. Watch out for its strong 
+ magic attacks.
+
+Thunder Gigas
+ WEAKNESS: Earth
+ STRATEGY: If you have one, use an Gaia Drum to help defeat this boss. 
+ Otherwise, just use your brute strength to defeat this boss. You might also 
+ want to set up a shield of Wall, Blink, Shield, or Shell spells to help 
+ protect against this boss.
+
+Tiamat
+ WEAKNESS: Flare
+ STRATEGY: If you took the time to level up your best spells before entering 
+ Pandaemonium, now would be a good time to use them. You can also use 
+ weapons, now that you have the Masamune. Watch out for this bosses 
+ attacks, they hurt.
+
+White Dragon
+ WEAKNESS: None
+ STRATEGY: This monster has very high defense, it's going to be tough trying 
+ to defeat it with just weapons alone, so go ahead and use high level magic 
+ as well. Also, casting Shield on the party will help boost your defense 
+ against this hard hitter.
+
+Zombie Borghen
+ WEAKNESS: Holy, Fire, Cure
+ STRATEGY: Since this boss is undead, you can use Cure spells to help 
+ defeat it. Also effective are Fire and Holy spells. Overall, this is a 
+ pretty easy battle.
+
+=============================================================================
+XXII. SECRETS
+=============================================================================
+
+Blood Swords deal huge amounts of damage when used against monsters or bosses 
+with large amounts of HP. Use this to your advantage when fighting bosses to 
+significantly shorten battles.
+
+While using your Airship, press the action button to greatly increase the 
+ship's speed. Press it again to cancel this effect.
+
+If monsters aren't hitting you hard enough to raise your HP, attack your own 
+characters to help gain HP faster.
+
+To level up your weapons and spells extremely fast, attack a target, or use a 
+spell, and then cancel it before actually starting the turn. Continue this 
+process 100 times to gain a level.
+
+An Omake Mode is unlocked when you beat the game that allows you to view 
+monster stats and game-related media.
+
+To catch a Chocobo, head to the bare patch in the forest directly south of 
+Kas'ion castle. Talk to the Chocobo and you'll automatically appear outside 
+where the Chocobo will be waiting for you.
+
+When the Cyclone appears, speak with Gordon and Hilda in Fynn Castle to 
+learn new passwords. Then, go to Pavel's house in the town of Fynn and talk 
+to him. Check the wall east of the bed in his house to find a hidded room 
+full of treasure.
+
+=============================================================================
+XXIII. CLOSING COPYRIGHT NOTICE
+=============================================================================
+
+This guide is Copyright 2003 Joseph Witham (josephcwitham@hotmail.com).
+Anyone who desires to reproduce, distribute, or use this guide on their web 
+site has the author's permission under the following conditions:
+ 1. It must not be altered in any way.
+ 2. It must not be used for profit; it must be distributed freely. 
+ 3. It must remain in its entirety, with every part intact.
+ 4. Credit must be given to the author, Joseph Witham.
+All information in this guide, unless otherwise noted, was compiled and 
+written by the author. You may not reproduce any information from this guide
+and use it in any other publication without written consent of the author.

@@ -1,0 +1,1656 @@
+       _____________    ______________  ______________
+      /  __________/   /  ___________/ /__________   /_______   
+     /  /____         /  /____                   /  /
+    /  _____/        /  _____/                  /  /
+   /  /             /  /                       /  /_______
+  /  /             /  /                       /  /
+ /  /             /  /                       /  /
+/__/ I N A L     /__/ A N T A S Y           /__/_______               
+
+
+
+
+
+FINAL FANTASY 7 WALKTHROUGH VERSION 2.5 BETA BY APOLLO (JOSH HARRISON)
+the base website where this walkthrough is stored is 
+http://www.angelfire.com/az/dragonfire. 
+check here for different versions of this walkthrough. E-mail me at 
+apollo_jh@angelfire.com. For tips and tricks for FF7, head on over to 
+http://www.angelfire.com/az/dragonfire/tips.html, 
+there you will find MANY tips and tricks on this game.
+
+
+INFO:This is my first REAL walkthrough and I intend on it being the best 
+you can find. I would type this bigger, but it will probably double the 
+total size of the walk-through. I will include the smallest things and I 
+wont leave dead ends where people might get stuck like I've seen in so 
+many other walkthroughs. I will be playing the entire game all the way 
+through for this walkthrough. I am not going to just give the easiest 
+way out, I will go in full detail what to get in each section of this 
+masterpiece game. Well, without much further ado, here's the 
+walkthrough!
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+TABLE OF CONTENTS:
+
+A. NON-SPOILER STORYLINE
+   DISC 1
+I. REACTOR REACTION ACTION
+II. MIDGAR MADNESS
+III. HOW KAN I BE KALM AT A TIME LIKE THIS!?
+IV. AIN'T JUNON BIG!?!?!
+V. COSTA DEL SOL -COAST OF THE SUN
+VI. CORE OF COREL
+VII. BLOW YOUR MONEY AT GOLD SAUCER!
+VIII. GOIN' GA-GA OVER GONGAGA
+IX. COSMO CANYON COSMOS
+X. NIBELHEIMLICH MANEUVER
+XI. ROCKET TOWN!!!
+XII. GET LOST AT THE TEMPLE OF THE ANCIENTS
+XIII. FORGOTTEN CAPTIOL PUNISHMENT
+    DISC 2
+XIV. 'TIS COLD IN THE ICICLE INN
+XV. NORTH CAVE, ANYBODY?
+XVI. WU-TAI CLAN
+XVII. CHOCOBO RAISING BONANZA
+XVIII. MIDEEL WITH IT
+XIV. HUGE MATERIA QUEST 1: NORTH COREL
+XV. HUGE MATERIA QUEST 2: FORT CONDOR
+XVI. MIDEALT WITH IT
+XVII. HUGE MATERIA QUEST 3: JUNON
+XVIII. HUGE MATERIA QUEST 4: ROCKET TOWN
+XIX. MIDGAR MADNESS 2: THE MAYHEM RESUMES
+XX. NORTH CAVE, ANYBODY, ONCE AGAIN? 
+B. SPOILER STORYLINE
+C. HISTORY
+D. INDEX
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+A. NON-SPOILER STORYLINE
+	The story of Final Fantasy 7 is a very well-thought out one with 
+many twists and turns in the storyline. Basically, Final Fantasy 7 is a 
+story of Cloud and how his struggle to bring Shinra down turned out to 
+be a struggle to save the planet from a demise of epic proportions. 
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+DISC 1
+
+I. REACTOR REACTION ACTION
+	To begin Final Fantasy 7 we start off by opening the CD case and 
+inserting CD 1 into the Playstation...don't worry, I'm just joking, Im 
+not going THAT much into detail! Ok, watch the beginning video and when 
+the train pulls up you, Barret, Wedge, Biggs, and Jessie jump off. The 
+two guards that were thrown into the train both have potions so just 
+"talk" to them (I use "talk" alot, like: talk to the treasure chest or 
+talk to the innkeeper or talk to the safe, so that pretty much means 
+press circle (or whatever may be your "selecting" button) and you will 
+get them. Now, run to the end and take a left (while walking around, 
+press select so a red arrow indicates where a door or entryway is, you 
+will now have a pointer above your head as well). After going through 
+the doorway, meet up with the rest of the gang and you will get to name 
+yourself (I named Cloud Apollo). Then, after Barret scolds all of you, 
+head right (you could just follow everybody), then go around to the top 
+of the "screen" (I also use "screen" alot, by screen, I mean literally, 
+the screen you are playng on (tv screen if you are still baffled), well, 
+nonetheless, you will eventually get what I mean if you STILL don't 
+understand) and go left. At this intersection, you can only go up, so go 
+up. Then talk to Barret (I named Barret Jugger -short for Juggernaut)and 
+he joins your party. Then, talk to Jessie and she'll open the gate, then 
+have her open the other gate at the top of the room for you. When she 
+does that, go to the right into another room and pick up the Phoenix 
+Down in the chest. Go back out and have Jessie open the elevator door at 
+the top. Take the elevator up and go out. Follow everybody down the 
+stairs to the more complicated part. Run across the catwalk and Jessie 
+will stay in her spot. Grab the potion in front of her. Go down and take 
+all the ladders and stuff to the bottom. Then, save at the save point 
+and pick up the Restore Materia before you and Barret set off the bomb. 
+Set it off and run. You will fight Guard Scorpion (boss). Use Bolt on 
+him and DO NOT ATTACK HIM WHEN HE RAISES HIS TAIL. You will receive 
+about 75 damage to both you and Barret. When you beat him 
+(kkkeeeeeeeeeoooooooooooooeeeeeeeeeee, recognize that sound?), equip the 
+prize, Assault Gun, on Barret. You now have 10 minutes to retrace your 
+steps back out. When you get to the part where you left Jessie, get her 
+loose because she got stuck. If you don't you can't open the gates in 
+which you came from. Just talk to her to get her loose. Be sure to save 
+where you first saved. Go back up have Jessie open the gates. I would 
+suggest getting a few levels by fighting around if you have the time for 
+it. When you are ready, exit and watch Reactor No. 1 burn to the ground! 
+Now, when Jessie blows out a hole in the place you were hiding, leave 
+and follow Barret up the stairs. 
+	When you come out, you are in Midgar and you meet Aeris for the 
+first time. It really doesn't matter what you say when you see her, but 
+if you want to be better to her than to Tifa, don't hint that anything 
+happened to her and buy a flower from her. Go down and get the Potion 
+near the middle of the screen. Go down again and keep running from the 
+guards (unless you really want to fight them). You will jump onto the 
+train, escaping the guards. Go to the front of the train and await 
+arrival at the Train Graveyard. On the way, you will get a descriptive 
+overwview of what Midgar is like, so PAY ATTENTION! Not that it really 
+matters, it's just that the first time I played FF7, I had no clue what 
+Midgar was supposed to be like. It all comes together, though. Head to 
+Tifa's Bar (Seventh Heaven) from the Train Graveyard. When yo first go 
+in, you can give the flower you might have bought from Aeris to Marlene 
+or Tifa (It doesn't really matter who you give it to, it just depends on 
+who you want to be good to, Aeris or Tifa; I named Tifa Angel). (At 
+Tifa's bar, look on the top floor in the bottom-right corner of the 
+screen, it says Texas, are we in America!?, something to think about. 
+Something else, after everybody goes down, talk to Tifa at the bar and 
+she'll give you a hard drink if you want one.).  Now, talk to Barret and 
+everybody and when you go back up, Barret will give you 1500 gil. You 
+can explain what materia is materia to Barret and you will get that 
+Restore materia you picked up at the reactor (you don't have to explain 
+it, but I'm not quite sure if you have to explain it to him to get 
+Restore). After all the dialogue is completed, run outside and go to the 
+beginners hall (big building South of Seventh Heaven). You can buy Iron 
+Bangle/Assault Gun/and Grenade from the shop on the first floor. On the 
+second floor, you can talk to people about Final Fantasy 7 (they'll give 
+you help on certain topics) Be sure to pick up the All materiawhen you 
+first come in, and get the Ether that is in the box that drops down from 
+the roof. You can sleep in the bed on the third floor for 10 gil. 
+There's really not much you can do in this place, except talk to people 
+(you can get some REALLY weird conversations like the guards outside the 
+town on the bottom right corner of the screen, or the people left after 
+Biggs, Wedge, and Jessie scurry off (what did Tifa and Cloud do last 
+night?), so just go out at the top exit of town (remember, you can buy 
+some useful materia from the shop next to the bottom exit). When you 
+come out, go to the right at the intersection and keep going to the 
+train station. 	Get in the train and head off. You will encounter an 
+ID Checkpoint in which you fail to pass and you get to run to the front 
+of the train. When the timer begins, talk to the guy at the back of the 
+train and he will give you a Phoenix Down. Then, get to the next car and 
+run (talk to the guy at the front and he will give you a Hi-Potion (talk 
+quickly). Keep running down the train (there's nothing else to get from 
+people, so don't bother talking to people). At the end of the train, 
+jump off and you will end up in the tunnel (Bolt is excellent down 
+here). You have the option of going down or up. If you go down 4 
+screens, you will see Shinra soldiers. You can either stay and fight 
+them (excellent place to gain levels) or run off. You have the option of 
+running off between battles. Ice and Fire are both good against the 
+soldiers. From what I've played, there are probably an infinite supply 
+of Shinra soldiers to fight. You can win Antidotes, and Grenades from 
+them. I spent about an hour trying to find something about this (and 
+using an All-Ice combo; I got to level 11 -almost 12 for Cloud; 16 
+Antidotes and 1 Grenade), but it seems as though it's just an infitely 
+long battle (my FF7 disc keeps messing up here...whine...whine...whine). 
+If you go up you will end up at vent where you must go through to get 
+out. When you go in the vent, grab the Ether and go down the ladder. You 
+will be in a big clearing area where it looks confusing. Go up the first 
+ladder to the left (or the second one by Wedge, it doesn' t matter) of 
+the one you came down, through the vent and out where Jessie is 
+standing. Grab the Potion by  the corner and go down the ladder on the 
+left side of the screen. Go around to the Save Point, grabbing the Tent, 
+use the Tent (if you need to) then save. Talk to Biggs and go up the 
+ladder, through the vent. You will end up at the reactor. Go to the 
+bottom door and blow Reactor 5 after another one of Cloud's memories. 
+Then run out and go up the stairs to the top door of the reactor. (God! 
+I hate my FF7 disc!!!). Push the button to open the gate and leave. I 
+would suggest saving if you plan on dying against Airbuster (a  boss). 
+You get the advantage with a double sided battle, but make sure both 
+sides have a Lightning materia. Watch out for it's Counter Attacks, 
+they're vicious. He has abut 1200 HP. 
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+	
+II. MIDGAR MADNESS
+
+	When you beat Airbuster, Cloud falls into Aeris' church. 
+Immediately equip Airbusters prize, Titan Bangle. It doesn't really 
+matter what you say when you talk to her (same story, who's good side do 
+you want ot be on)You can talk to a man before he comes out if you go to 
+the front of the church before the entrance while Aeris is checking her 
+flowers. Talk to Aeris and you can name her (I named her Cetrianne). 
+Then Reno will come and you get to run away. When Aeris yells for help, 
+tell her to hold on and push the barrels on the rafters off in this 
+order: left side-bottom, left side-top, then right side-top (don't push 
+the right side-bottom one). But only push them when she yells for help. 
+Ice is good in this place when you fight. Then, Aeris will come and you 
+will run off together on top of the church. Keep running off to the left 
+and you will end up at the path from Aeris' Church to the Sector 5 Slums 
+to the Wall Market. Go to the Sector 5 Slums and poke around there a 
+little (buy 3 more Titan Bangles while yer at it). Be sure to steal the 
+little boy's 5 gil in his room in the house by Aeris' House (check the 
+wall for the first Turtle's Paradise newsletter). Now, exit the Sector 5 
+Slums at the top exit leading to Aeris' House. Before you save or go in, 
+go in Aeris' garden and grab the Ether and Cover materia in the lower 
+section. Now you can save and go in. Stay the night and before you exit 
+your room, grab the Potion/Phoenix Down by the door. In order to exit 
+without being caught, just WALK, don't run, walk the whole way to the 
+bottom of the stairs. 
+	Leave and head left on the road from the Sector 5 Slums. Sector 6 
+is challenging so this is how you get through it: go up the wood pile, 
+across the bar, around and down the pink board, under then around road,  
+up the pole, and down the second wood pile. After the dialogue with 
+Aeris in the park, leave and you will end up in the Wall Market. While 
+there, you can do whatever, but you should go to the back of town and go 
+to Corneo's Mansion and decide to get a dress for CLOUD (yes, Cloud). Go 
+to the Boutique and get the story of hte lady's father who is at the 
+bar. Go to the bar and have him make a dress (it doesn't matter what you 
+want it to look like, one that feels clean is the Cotton Dress and one 
+that feels soft is Silk Dress; the second choices have nothing to do 
+with the resulting dress) then go back to the Boutique and get it. You 
+will then need to get a wig so go to the Men's Hall (...) and race Big 
+Bro' for a wig with squats (...). Then go back to the Boutique and you 
+are now dressed as a girl. (...uhhh...what's with this town!) If you 
+tell them "I'm not ready", you can go buy stuff from the guy who's 
+closed if you couldn't have already. Now, head up to The Don's (heh heh) 
+Mansion and go get Tifa who's in the basement (farthest door to the left 
+up the stairs). When you can move freely, grab the Ether by the 
+fireplace. Then go to Don's room and he will choose which person to take 
+(it's random, Cloud can even get picked). When you get to the room with 
+all the other guys, take the Phoenix Down from the bottom right corner 
+of the room. Then talk to everybody, then go talk to Scotch at the top 
+of the room and you will bust out after fighting them all off. After all 
+that, run down to the basement where you will meet Kotch who's chasing 
+Aeris/Tifa around. Then go in The Don's room where he is putting his 
+moves on Tifa/Aeris. There, you will interrogate Don Corneo and after he 
+tells you everything, grab the Hyper behind his bed (?) and walk over to 
+Aeris and Tifa then he will ask you about how he feels about telling you 
+about all that, you will choose from 3 answers (none of which are 
+correct by his book) and you will be dropped to the sewers through a 
+secret door.
+	You will watch how the Shinra is going to go about dropping the 
+plate above Sector 7 and then you will be in the sewers. (I think 
+Heideggers saying something about mayors when he talks about Mayor 
+Domino (mayor of Midgar); you will learn to like Reeve, although he's a 
+real pain in the ass when your not used to him...) You will then fight 
+Aps in the sewers (he hurts himself more than he hurts you!!! 
+HAHAHA!!!), so be prepared. He has about 1300 HP. Bolt and Ice are good 
+against him. When he dies, go up the stairs near the fence to get to the 
+Potion that awaits you. Then climb the ladder , go around and go down 
+the other ladder to the other set of stairs on the other side of the 
+fence which leads you to Steal materia. Behind Steal is a vent that you 
+take down to some more sewers. Run down the stairs and climb up the big 
+green thing and go up the ladder.
+	Now you are in hte (I swear to god, if I spell "the" like that 
+again, I am going to kill myself) mega-pain-in-the-butt Train Graveyard. 
+Be sure to save because this part is no fun. First, go inside the train 
+closest to you and talk to the barrel outside the other entrance for a 
+Hi-Potion, then climb hte (arrrrgghhhhhh....BBAAAMMMMMM!!!!!!, I died) 
+ladder to the top of the first train closest to you for another  Hi-
+Potion. Follow it down to a big peice of metal and go right on it and go 
+down and grab the Potion. Go back to hte metal peice and go left and get 
+the Echo Screen in the barrel on the tracks. Go down, under the metal 
+peice and enter the train. Go out and climb the ladder to the top of 
+another train. Go up and go down another ladder, then get in hte train, 
+follow it to the back and grab the Potion outside it. Go up and out of 
+hte first section. Go under the trains and left and back around the 
+trains to get a Potion.  Go back up and left, around more trains to a 
+barrel to get an Ether. Then go all the way right and get in the cockpit 
+of the different colored train and move it, then move it back after it 
+smashes the other train out of the way.Then go through the newly created 
+path and go in the train cockpit of the different colored train and 
+smash it into the peice of metal, then go up the ladder on the first 
+train to the right of the just-moved train for a Hi-Potion.Then jump 
+across to on top of the newly-moved train and run across the peice of 
+metal and yer out of the Train Graveyard. Go to the left of the station 
+and you will find out that a battle is occuring on the support structure 
+holding the Sector 7 plate. You can buy stuff from the grey-haird man. 
+Now, save and head to the top of the structure! When you get up there, 
+Barret joins your party and you will fight Reno (unfortunately, you 
+can't steal anything from him THIS time). Once you beat him, Tseng will 
+fly up in a helicopter with the recently-kidnapped Aeris and the 
+structure will blow. You will end up in the park again and after you 
+leave to the Sector 6 path, keep going , and Barret and Tifa will come 
+to you, then go back and grab Sense materia by the fence near the 
+entrance. Now, go through Sector 6 and go to the Sector 5 Slums, then to 
+Aeris' House to talk about Aeris' kidnapping and how Elmyra came to take 
+care of her. When you can finally move around freely, go upstairs and go 
+in the room where Barret and Marlene are, leave and, if you need it, go 
+to the room next door to sleep. Then, leave Aeris' House and you will 
+begin to head to the Shinra Building. You will need to go back to the 
+Wall Market, so, get on over there. When you get there, go to the Gun 
+Shop and talk to the guy who isn't selling weapons and buy the Batteries 
+from him. Then, go up past the Gun Shop and follow the kids that you 
+encounter. Go up the wire and you are now in a hard part. Climb as far 
+as the wire goes then go around, under the wire to the yellow box. Go up 
+to it and put a Battery in to activate the propeller which soon dies 
+back down. Then go up on the pole where the yellow box is and climb to 
+the rails. Go up it and put the Battery in the yellow box, moving a bar 
+up, so you can now access the swinging bar part. Climb the rod to where 
+Cloud talks and when he finishes, jump on to the pole. When the pole 
+sqeaks is when you are supposed to jump on to it. Jump off at the other 
+end and climb up. Keep climbing up and go right to where you can climb 
+down on a pole. Go down and put a Battery in the yellow box for an 
+Ether. Climb down the left-hand pole and do the swinging bar section 
+again. Go back to where you climbed down the first time, but go up and 
+get on to the bar and go up to the Shinra Building. 
+	The Shinra Building can be a real pain in the ass for some people, 
+but if you pay attention here, you should be outta here in no time flat. 
+Unless you want to climb about 69,000,000,000,000,000,000 stairs (not 
+literally, but there A LOT!), you would probably want to "bust on in!". 
+At the entrance, I would suggest saving. You will have to fight some 
+Shinra soldiers, but its no problem. Go to the back of the first floor 
+and check the board on the left side for a Turtles Paradise Newsletter. 
+Keep in mind that there is a Save Point outside, don't hesitate to run 
+down and use it when needed. Now, go up the stairs (not elevator) and in 
+the room at the top-right corner and you can buy items from the lady at 
+the desk. Unfortunately, you can't open the treasure boxes until you 
+stop by here again. Talk to the man watching the TV and him and the girl 
+will run, now you can watch the TV (pretty interesting TV program). Now 
+leave and hit the elevators (don't bother going up the next set of 
+stairs). An alarm will sound while going and you will have to stop the 
+elevator, fighting people until you reach the 59th story. When there, 
+get in the elevator that the guards were guarding using the Keycard 60 
+that you just found. Go to Floor 60. Now, go to the top-left room and 
+you are at the fun part. ONLY MOVE WHEN THE SOLDIERS ARE MOVING. Just 
+hide behind the yellow statues once the soldiers move, do the same for 
+the others, using the O button. Then repeat the process again to the 
+other side (this side is harder because the soldiers run). Go up the 
+stairs on the other side and you are on the 61st Floor. Don't worry 
+about enemies up here, you don't fight any. Everybody tries to hint to 
+you that you have to have a Keycard to access floor above 60, so unless 
+you got the Keycard 61 from the man in Wall Market like I told you MANY 
+MANY MANY times to do earlier in the walkthrough, your screwed...just 
+joking, talk to the guy closest to the elevator and he will ask you who 
+you are and what you want, answer him with a "...." (if you ask him 
+about Aeris, you will learn about a coincidence with "her") and he will 
+give you Keycard 62 under the impression that you are a repairman fixing 
+the doors. Now that you have it, go up to the 62nd Floor and go in the 
+room where Mayor Domino is walking around. He will let you try to guess 
+a password for the Keycard 65. You can go all out and guess the password 
+(it's randomized, so I can't tell you what it is) or go to each of the 4 
+libraries in this floor and collect clues (you can ask the public 
+servant in front of Mayor Dominos door for clues (500 gil for the first 
+one (check around in the library for clues), 1000 gil for the second 
+one(materials from each library might be mixed around), and 2000 gil for 
+the third and final one(match numbers before files with letters on 
+files). If you get it on the first try, you get somethig like Elemental 
+Materia or a weapon, the second try you get an Elixer, and I don't think 
+you get anything on the third try. Now you have Keycard 65! Now, go up 
+to Floor 63 for another fun thing. I doubt the possibility of you being 
+able to get the item in the middle room (All Materia), so just get the 
+end two (Four Slots, Star Pendant). Then leave and go up to the 64th 
+Floor and poke around there for awhile. You can use a couple of the 
+machines in the fitness room, beat the soda machine up, and rest and 
+save here as well. In the locker room at the top of the screen, check 
+the lockers for items (Phoenix Down, Ether). Once you are completed with 
+this floor (be sure to sleep and save in the "nap room") run on up to 
+the 65th floor. You can get in fights in this floor so watch out (Bolt 
+is pretty useful in this area). This is a tricky section, go to the top 
+room to the left and open the bottom treasure chest. Go to the middle 
+room and place the Midgar parts in places where it looks broken (if you 
+imagine the Midgar model being a clock, where 8 o'clock would be, you 
+can't put anything). Now, go to the bottom left room and open the top 
+treasure chest, place it in Midgar and go back to the same room, taking 
+the bottom chest item and placing it in Midgar. Now, go around the model 
+room and pick up the Midgar Pieces in the plant room and put them in 
+Midgar. Finally, go to the top-left room and grab the top chest's item 
+and put it on Midgar. Now, go to the stairs and get the treasure chest 
+there for the Keycard 66. Go upstairs and go to the top-right room (yes, 
+the bathroom!) Go in the stall (yes, the stall!) and flush the toilet a 
+bunch of times (yes, flu-...no, you don't need to, just do it for fun, 
+waste those bastard Shinra's money (I'm sure if you flushed the toilet 
+enough times, you might run their water bill up to 
+1,000,000,000,000,000,000 gil!!!)) Now, climb up the toilet (yes, cli-
+OK, enough of that) climb the toilet and go to the other vent opening 
+(when Palmer rolls around and says "Oh man", I could swear he split 
+himself in half jumping up and down!). When you are finished, go back 
+down and follow Hojo out. Then go up and do the whole thing with Hojo 
+and look at Jenova (doesn't look an aweful lot like the Jenova I know; 
+be sure to steal a Hardedge sword from guys with big swords). Then go up 
+and grab the Poison Materia in the box and save. Then head up in the 
+elevator and talk to Hojo. He will get eaten by Red XIII and he will 
+join your team (I named him Skyfire).You will then fight a boss, don't 
+worry about the little orange guys. Be sure to equip the Talisman. Then 
+after you pick your group and equip all your stuff, grab the Enemy Skill 
+Materia in the glass case where Red XIII and Aeris were. Then, go up to 
+where the guy went to activate the cage thing and get the Keycard 68 
+from him. Then get the 2 Potions from above the door and the 2 Potions 
+from past the door and go down the stairs to the 66th Floor elevator, 
+where everybody's waiting for you. Now, the Turks will catch you and 
+bring you to President Shinra. You will be thrown in jail and then talk 
+to everybody. When you sleep, you wake up and everybody's dead. Talk to 
+Tifa and bust everybody out. Then, run to where you acquired Red XIII 
+and go in the elevator you came down here in after babbling at him. Then 
+go out to the stairs to the right and go up to the 69th Floor 
+(wooohoo!). Just pretty much follow the blood (one of the few instances 
+in this game where there's blood). Then get to the 70th Floor and you 
+will see that Pres' Shinra is dead, killed by Sephiroth. Run out to 
+Rufus after he lands his snazzy helicopter and talk to him, you will 
+split up. Tifa and Cloud don't really need materia, so take their 
+materia away. Then prepare for a boss battle in the elevator at the 69th 
+Floor. It would be a good idea to let Red XIII and Aeris have Lightning 
+Materia, because only long range attack weapons can reach him. He has 
+1600 HP and is weak against Lightning. Use Grenades on him if you 
+happened to stock up on them (this battle is good to waste items that 
+you wouldn't use otherwise). The second part of the boss has 1000 HP and 
+is weak against Lightning and Wind. Keep pumping him with Grenades and 
+you'll do jis' fine (ooooohhhhhhh how I love you Healing Wind!). Ohh, 
+Mythril Armlet....oh oh oh, give it to Cloud!!! GIVE IT TO CLOUD!!! 
+hehehe. Anyways, give the Mythril Armlet to Cloud and use the materia 
+exchange feature in the materia menu to trade off materia. Then, get 
+ready to do battle with Rufus (heheh, his attacks look funny, 
+hehehhahah). He has 500 HP, not much, and his dog (where in the hell did 
+that thing come from?) has about 250, I never checked. HA! Do you like 
+Climhazzard!?!!?! Huh!, huh!, HUH you dirty son of a bitch!!! 
+oooooohooo, get ready to get hot and sweaty........uhh....FIRE!!! How do 
+you like that!!! What!!! You wuss! Huh, oh, sorry about that, just a 
+little in-game action. After he dies, run back inside and meet Tifa on 
+Floor 69 (heheh). Be sure to save it though. You will control Aeris and 
+Company now. Run to the exit and talk until ol' Cloud shows up on his 
+hog (what the hell kind of truck is that!!! What's up with the door!) 
+Now, we're gonna have some fun. This is an insanely fun part of the 
+game, but you will fight a boss soon, so equip All->Lightnings and make 
+sure, you have all the stuff you want equipped. I don't think I need to 
+walk you through this part. Now fight this boss, the damages to the 
+truck paid off here, plus he runs you over. Grenades once again are 
+useful. He has 2600 HP and is weak against Lightning. Oooh, very 
+weak....let's not get into that again.Ohhhh, Star Pe-...oh, sorry. After 
+you beat it, you will be ready to venture out of Midgar. 
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+	
+III. HOW KAN I BE KALM AT A TIME LIKE THIS!?	
+
+	Do as Barret told you and head NE to Kalm. It shouldn't be that 
+hard to find, just look at the map ([select]). While you're at Kalm, be 
+sure to snoop around in houses, steal items whenver possible. On the 
+bottom floor of the house right of the Inn is an Ether in the little 
+door, a mysterious treasure chest in the second house (I have never been 
+able to open that, it may be something to look into) and an Ether in the 
+wardrobe, a Guard Source upstairs (first staircase) in the third house, 
+Peacemaker (you'll find a use for this one later) in the treasure chest 
+up the second staircase, and an Ether in the bottom floor of the house 
+on the other side of town. Now head over to the Item/Materia/Weapons 
+shops and buy!buy!buy! If you run out of money, sell the Peacmaker for a 
+ragin' 1750 gil, or Ethers, they run expensive these days! When you go 
+to the Inn, go to the wardrobe behind the staircase and grab the 
+Megalizer (yes, already!). He will say he can't reach it, but press 
+abunch of buttons and he will reach up an knock it down. Talk to 
+everybody and you will learn about Cloud and Sephiroth's past (...) 
+together. I won't explain it because it's boring enough, but I love 
+those videos. Man, Sephiroth's weapon's stats are awesome 255 Attack %, 
+whew. Ultima Weapon has better Attack, though...(oh, 
+you'll...uh...ummm...j-j-j-just..uhhh..y-you'll..ummmm....uhhhh...y-y-y-
+you-you'll get it s-sometime in the g-g-game........oooohhhhhh 
+kaaaayyyyy...). Ooooohhhhboy, I absolutely love the Sephiroth-fire 
+video. Oh man, all these videos...ooohhhhhhh to good for me. Remember 
+that scene where the screen keeps going back and forth between Cloud and 
+Sephiroth, you'll see another one sometime. Ok, now that that's 
+finished, equip everybody's stuff (use PHS) and sell their old used 
+stuff. I would recommend having 5 Tents right about now. It's not a 
+neccesity, but its good, also have all your guys on Fury (use a Hyper). 
+It pisses them off, so their limit gauge fills faster, but you will miss 
+on physical attacks more often (but its not a noticeable amount). Now, 
+go off to the East until you reach a farm (Chocobo Farm). It probably 
+wouldn't be all that bad of an idea to save before you go in (you can 
+save w/out a Save Point on the world map). Steal Ethers from the 
+Ostrich-looking birds. When you get to the Chocobo Farm, talk to the 
+Chocobo who's standing by the fence: tell it "wark" not "warrrk", they 
+will do a gay little dance and you will get your first Summon Materia, 
+Choco/Mog. Now, go in the Chocobo Farm and head over to the house and 
+talk to Choco Bill (tell him you are crossing the marshes), he will tell 
+you to go to the stables (behind the Chocobo area), go there (if you 
+want to sleep, go to the bedroom in the house and you can rest there; 
+did you know that while you are sleeping there, Choco Bill is watching 
+ou sleep! Kinda freeeaky!). Talk to Choco Billy and tell him you want a 
+Chocobo. You can learn on how to catch Chocobos if you ask him (do it if 
+you don't know how). When finished, buy the Chocobo Lure Materia from 
+him (2000 gil). Then buy some greens (the more expensive the better). 
+Now go outside and catch a chocobo (if you didn't pay any attention to 
+what he said, your screwed, 'cause I ain't tellin' ya...just joking, 
+equip the Chocobo Lure you bought, go outside and run around in the 
+chocobo tracks, feed it greens (the more expensive, the longer they 
+last) and kill all the enemies (except, obviously the chocobo; 
+unfortunately if you do attack it, it can't die even though it has 150 
+or so HP)). Take the chocobo across the marshes (don't get caught by the 
+Midgar Zolom (3500 HP and about 800 damage per attack!)) and into the 
+Mythril Mines. Go right when you come into the cave and go up. Grab the 
+Ether and Tent up there. Then climb the vine up near the exit of this 
+same screen and get the Long Range Materia (put it on somebody to be 
+able to attack from the back row w/out penalties). Go back out and go 
+left (be sure to get the Flame Thrower Enemy Skill from the Ark Dragon 
+(flying guys, usually with 3 snakes) by having him cast it on the person 
+with Enemy Skill Materia). Go left and down, then right at the three 
+openings for a Mind Source. Then go right, past the three openings to 
+exit this screen. You will have a meet-up with Rude (from the Turks) and 
+you will learn a little bit about the Turks. After all that, don't follw 
+them, go up into a room that has an Elixer and a Hi-Potion. Go back out 
+and follow the Turks out. You are now on your way to Junon.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+IV. AIN'T JUNON BIG!?!?!
+
+	To get to Junon, just follow the mountains to the West coast. When 
+in Junon, just mosey around for awhile. When you've completed moseying, 
+go to the fish skelton hanging by the house and get ready for a boss 
+fight. When finished getting ready, go down the stairs nearby to the 
+water. He has 2500 HP, and is weak to Wind (hint hint...Choco/Mog). When 
+he does the barrier thing on one of your guys, use a Bolt spell (on it, 
+not the person it closed) to break it. Flame Thrower is useful on it as 
+well. After you kill it, you will have to do CPR on Pricilla. Just keep 
+doing it for awhile and you will get it. Go down to the house nearest to 
+the entrance to Junon and go in the house where the lady is standing. 
+You can rest if you want, after that go up to the house where the bunch 
+of stairs is leading up to. She will give you Shiva summoning materia 
+(she calls it an amulet). Follow the girl out to the water and you get 
+to jump on Mr. Dolphin so he can take you up to Upper Junon (don't get 
+it the first few times, its funny to watch Cloud fall). When you get to 
+Upper Junon, you get to see the airship for the first time. Go out and 
+get dressed in the Shinra Uniform. Now, you get to do the funny part. 
+Just follow the Commanders instructions and if you do great (35+ 
+points), you get a, uh, i don't know, good luck if you try to get it, I 
+can't, if you do so-so (31-34 points), you get 6 Potions, if you do bad 
+(30-0 points), you get a Grenade. (finally, I think my FF7 disc is 
+working right now). After doing the parade, you will meet Rufus, 
+Heidegger and the rest of the Soldiers at the train thing. You will go 
+to the locker room and the Commander will tell you how to do the 
+performance thing. After that, go to the docks (just keep follow the 
+buildings, buy stuff if you feel the need to). When you get to the 
+docks, you get to do the presentation for Rufus and Heidegger. If you do 
+great (100+), you get a Force Stealer, if you do so-so (50-90), you get 
+an HP Plus, and I'm not quite sure what you get if you do terrible, I 
+think you get a Grenade. You will then get on the boat after everybody 
+leaves, and you will then meet up with your party (all, even Red, are 
+wearing Shinra uniforms). When you are on the ship, be sire to grab the 
+Ether and All Materia near the entrance. Talk to everybody on the ship 
+and you will find out who's who. Talk to Aeris twice and she will ask 
+about Barret. Go up on the deck and go past where Red XIII is and talk 
+to Barret. You will hear of a suspicious character onboard 
+(hmmm...suspicious...), go to the main part of the deck and talk to 
+everybody. Select your party (wisely), and equip for a boss battle. You 
+can talk to the other people who aren't in your party to select a new 
+party if you want to. Now, go downstairs to find dead people, and go in 
+the engine room (the door that that one soldier was guarding; you can 
+fight down there, so be careful). You can steal Shinra Betas from the 
+Shinra guards down here. When you first go in, go up the ladder and get 
+the Wind Slash (a weapon for a character you don't quite have) next to 
+the dead body. Then go back down and talk to the Shinra Commander who 
+dies. Sephiroth will appear and you will soon fight Jenova Birth after a 
+breif conversation. She has 4000 HP. Grenades, Shiva, Climbhazzard, and 
+Fire are all good against her (that BITCH killed Cloud right before the 
+end of the battle!!! arggghhhh!). After all the dialogue, grab the Ifrit 
+Summoning Materia laying where Jenova was. Leave and you will be in 
+Costa Del Sol.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+V. COSTA DEL SOL -COAST OF THE SUN
+
+	After you leave the docks, Heidegger and Rufus will come out and 
+Rufus will get in a helicopter and leave. When you can move around in 
+Costa Del Sol, go to the Villa across the bridge, and go downstairs to 
+the basement. Take the Fire Ring, Motor Drive (Tifa's Weapon), and Power 
+Source and equip/use them. If you hapen to have 300,000 Gil on you, you 
+can buy this villa from the man sleeping on the first floor, not really 
+worth it though. Poke around the town for a bit (don't forget to buy 
+armor from the guy in the bar). When you're finished, go to the beach 
+(if you slept at the inn, Hojo won't be there, if you didn't, Hojo will 
+be there). Either way you will find out where to go: Mt. Corel. Leave 
+and head over there. Whaddya mean you don't know where it is...oh, ok, 
+go up to the mountains near Costa Del Sol and follow the dirt path 
+between the mountains to a cave. Follow it out to a reactor. Follow the 
+walkway to the main reactor part and go down. Follow the train tracks 
+(don't bother going down the stairs), just follow the roller coaster 
+tracks, grabbing items and stuff 'til the end. When you get to the last 
+hump in the tracks, go up and follow the tracks until it curves around. 
+Once you hear chirping, climb the wall, and you will see a bunch of 
+chocobo chicks. Tell them you will take the treasure and you will fight 
+a bird guy (the same bird guy you fight on the tracks). When it's dead, 
+you will get 10 Phoenix Downs. Then go back and go in the shed. Hit the 
+switch and go all the way back to where you decided up or down on the 
+humps in the tracks, and go down instead of up (Cloud moves awfully fast 
+on the tracks doesn't he?). Then follow the tracks to the end of the 
+screen. Just keep going on the rope bridge to the end where North Corel 
+is. After Barret gets yelled at for ruining this town, talk to him and 
+he'll tell you the story. Then, just mess around in the city for a bit. 
+When you are finished, go to the left side of town and get ready to go 
+to the Gold Saucer!
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+VII. BLOW YOUR MONEY AT GOLD SAUCER! (for Gold Saucer tips and tricks, 
+go to http://www.angelfire.com/az/apollojh/gold.html)
+
+	Take the ropeway station to the Gold Saucer and buy a Ticket to 
+get in (3000 gil, make sure you have it). When you get in, pick your 
+groupmate and go to the Wonder Square (follow Barret). You will meet 
+Cait Sith for the first time here (I named him Win-Lose). Man, I didn't 
+get a very good batch of chicken tenders from Burger King! When you 
+finish doing things in the Gold Saucer, go to Battle Square (if you 
+haven't already!).  You will be caught by Gold Saucer Security and Dio 
+(Gold Saucer Manager) and be sent to the Corel Prison where you will 
+meet Barret. After talking to him, he will run off, follow him to the 
+house in the bottom-right corner of the prison (upper house). After 
+hearing Barret's story about North Corel, go up as far as you can go ang 
+go right at the fork. You should be blocked by a fault, go right. Then 
+go up again, and you will be at another fault, and go right once again. 
+You will be at a dump area, follow it up and you will meet Dyne. Equip 
+Barret with all the good stuff because you will fight Dyne. Dyne has 
+1200 HP and attacks at a higher rate then normal enemies, so make sure 
+Restore is used (Big Shot has never found a better place in the game 
+than here!). When you finish fighting, he will give you a pendant. Then 
+you will be in the truck where Mr. Coates is. He will then allow you to 
+enter the Chocobo Races after you show him the pendant. Then, with the 
+aid of a manager, you get to race Chocobos. While in the setup room, be 
+sure to grab Ramuh Summoning Materia in one of the jockeys lockers. 
+Then, you will get to race. I would suggest putting it into manual and 
+using a lot of turbo. You can replenish stamina by holding 
+R1+R2+L1+L2+up. You can use it while turboing and it will slow down the 
+rate of stamina usage by about 50%. After all that, Dio gives you a 
+buggy and you get to go to Gongaga (over a stream to the South, and down 
+to a reactor in a forest.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+VIII. GOING GA-GA OVER GONGAGA
+
+	If you want to, you can go to part IX (Cosmo Canyon) before this 
+part. You can get better weapons and stuff there, but the enemies are a 
+bit harder there too. Once you go in, you have to complete the section 
+before you can leave. When you get in to Gongaga, you will see Reno and 
+Rude talking about Aeris and Tifa. Then you will fight them. Reno has 
+2000 HP and Rude has 2000 HP as well. After you win, you will get Fairy 
+Tale. Then, go up to the dead reactor. You can steal Phoenix Downs from 
+the Big guys in the reactor screen if you need any. When you get to the 
+reactor, Scarlet and Tseng will show up and you will learn about Huge 
+Materia (ha! weapon!). After they leave, check where Scarlet checked and 
+you will get Titan Summoning Matiera. After all that, go back to where 
+you fought Reno and Rude and go left to the next screen and get the 
+Deathblow Materia then go into town. Shop and stuff (be sure to buy Time 
+Materia from the accessories lady and get the treasure chests scattered 
+across town) then go to the house nearest the exit (Zack's house, you 
+probably don't know him yet). You will learn a little bit about Zack and 
+Aeris will leave the house. Follow her out and you will learn about her 
+and Zack's relationship. Now, there's realy no point in hanging out 
+here, so head off to Cosmo Canyon for Section IX. Be sure that you don't 
+drive past Cosmo Canyon or your buggy will break (it'll get fixed 
+though). While your out and around, go into a forest between Gongaga and 
+Cosmo Canyon and you will fight a ninja girl. Beat here and after he 
+battle, she will be laying there. She will jump up and ask you to fight, 
+decline, she will ask if your scared, tell her your petrified, she will 
+say she's leaving, tell her to wait, then she will offer to give her a 
+name, tell her there's no time to. Whatever you do, don't go and save at 
+the save point, she will steal money from you. I was joking around when 
+I named Yuffie and somehow she managed to end up with the name "you 
+bitch". I didn't remember that I didn't want to save when she has that 
+name, but I guess I'm screwed now!
+	
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+IX. COSMO CANYON COSMOS
+
+	Once you get in Cosmo Canyon, you will be greeted by a man who 
+knows Red XIII (Nanaki). Then, when you can finally go in, go up to 
+Bugenhagens place up high on the left side of town. He will ask you to 
+pick 2 more party members, go talk to one (you will be able to select 
+from all your party members when you talk to one person) and come back. 
+Bugenhagen will take you up in his machine and show ou about Earth and 
+all that astronomy stuff. After all that, you are ready to roam the 
+place. Go up to the Cosmo Candle (flame in the center of town) and talk 
+to everybody. After talking to everybody then Red XIII, go up to the 
+locked door by the ladder leading to Bugenhagens house. Then you will go 
+through it and down to the Cave of the GI. You will have to go in the 
+little cave things and break open the rocks to open a door at the end. 
+Break open the one closest to it to do it. Once you open the door, go 
+through it. You will be in a maze-like area, I will leave finding the 
+items up to you  because it's not that hard. Just watch out on the part 
+where the ground looks greased, if you run on it, you will go sliding 
+into some spikes, doing mega-damage to your characters. After collecting 
+all that you want or can, go to the top and exit. The next section is a 
+real pain because you have no option but to fight the spiders (2200 
+HP)that guard the road with their webs. At the spot where there are 5 
+holes to go into, take the one to the right of the middle one and get 
+the X-Potion at the end. Whatever you do, do not use it! You will find a 
+use for it later, believe me! Then go back around and go in the one left 
+of the middle one and follow that to the back (Man, for being that hard, 
+the spiders sure don't give a lot!). After you pass first web on the 
+left, go left and down, but press right as you walk along the wall, you 
+will get that treasure chest which contains a Fairy Ring (useful in 
+here). Then go past the other web and before the eixt, run left along 
+the wall to get the Turbo Ether that awaits in the treasure chest. Then 
+leave this screen. Now, don't bother with this boss, he's easy as cake 
+as long as you didn't use the X-Potion. Just use it on him if you didn't 
+already and BOOM! he's dead! Funny huh! It just does 5500 damage and 
+it's over! After it dies, equip the Wizer Staff on Aeris (if she's in 
+your group) and grab the Gravity Materia lying on the floor and follow 
+everybody past the screen. (OK, my Playstation disc is going to lead me 
+to suicide if it doesn't start cooperating with me soon, it keeps 
+stopping, not locking-up, and I have to take the disc out and clean it 
+or just open and close the disc cover and it will start up, but now it 
+won't!ARGH!). After you learn about Seto, you will be back at the Cosmo 
+Candle. After you leave, contrary to what Cloud thinks, Red will join 
+the group. Put him in your party or the next time he's your party, equip 
+the Saraph Comb on him (an extremely good weapon). Your buggy's fixed if 
+it broke down also. Now you get to head off to Nibelheim, Cloud's home 
+town.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+X. NIBELHEIMLICH MANEUVER
+
+	Once you get into Nibelheim, go around and you will see black 
+cloaked guys. Some of them will give you very useful items when you talk 
+to them. Make sure you talk to all of them. Also, be sure to go to 
+Tifa's room in her house and read the letter that's there, it will 
+explain a lot. After you have roamed the city, go to the Shinra Mansion 
+at the top of town. Beware in here, you can fight people. Be ESPECIALLY 
+aware of the floating pumpkin guys, they are ruthless! I would suggest 
+running away if you can't handle it! Use Demi on the guy hanging from 
+the blade. Also remeber to get the ???? Enemy Skill from the guys with 
+weights. In here is the safe where Odin, the Basement Key, and Cosmo 
+Memory is located. It's in the top room on the second story at the left. 
+Use the combination Right 36, Left 10, Right 59, and Right 97 to open 
+it. But beware, there is a hard boss guarding it. So make sure your 
+ready if you do it. He has 7000 HP and there are 2 stages of him, hard 
+and harder. Watch out for Lost Punch, it can do 1000-2500 damage! 
+Choco/Mog and Cross-Slash is good on him. Haste yourself and try to stop 
+him with Seal Evil also. Man, talk about a hard battle! That bastard son 
+of a bitch killed Aeris 3 turns before he died! Argh. Oh, well, when he 
+dies, grab Odin (all hail Odin!) and get the Basement Key still inside 
+the safe. Cosmo Memory is Red XIII's L4 Limit Item (if you don't 
+understand limit items, here a breif explanation: when you get a L4 
+limit item (say Cosmo Memory for example), you can use that to get the 
+characters Level 4 Limit Break. Of course, it's not that easy, you have 
+to have all the limits up to level 4 before you can use it (all level 1, 
+2, and 3 limits are needed). Then, you can use it on the character and 
+WHAM! that character has that limit (don't forget to set it)). (WOW! M-
+Tentacles does A LOT!). Well, back to the game, go right before the 
+stairs into a room that contains Silver M-Phone (Cait Sith's weapon). Go 
+in the door under the stairs, you will end up at a 3 way intersection, 
+go right and up to the other room for Twin Viper (Yuffie's weapon). Go 
+upstairs then left (that Ghirofelgo fella is funny!) and in the plant 
+room for Enemy Launcher, Barrets weapon. Go upstairs and right, then up 
+for a Magic Source. Go down where you went up for the magic source and 
+in the basement stairwell. Follow it down into the basement hallway. 
+(you hear the music playing? I can play it on the guitar!). Follow it 
+down. If you got the Basement Key, go to the second screen and go 
+directly up to a room that's right out of the line of vision. (Watch out 
+for Ying and Yang, they are pains!) Talk to the coffin in the middle and 
+Vincent will come out. When you have the option of talking, talk about 
+Sephiroth, (aha! my Excessive Speed demo download is complete! 18.6 
+friggin megs!) and he will go back in his coffin. Talk to him again and 
+ask him who he is. You will get to name him (not a vulgar name this 
+time, I named him Raziel after Raziel from Legacy of Kain). He will 
+again close the coffin. This time leave and run off, he will come to you 
+and join your group. (Sorry Vincent, Aeris and Red XIII are more 
+important right now). Then after all that (if you did it), go to the 
+right end and in the basement door. Go to the back and you will meet 
+Sephiroth. He will tell you about the Reunion and to go to Mt. Nibel to 
+find out more. he will then throw Destruct materia at you. Now leave and 
+go outside of the Shinra Mansion. Once you are outside it, follow the 
+right side of it all the way back to the area between Nibelheim and a 
+cave. Go in the cave and you will be at Mt. Nibel. You must cross this 
+whole area (recognize it?). Keep going and climb the first mountain to 
+the right to get Rune Blade. Then climb the other mountain for a Plus 
+Barrette. Then leave to the next screen to the bridge (recognixe it?). 
+After you pass the bridge, you will end up at some tubes. The one left 
+to the middle takes you down to the treasure box, which has All Materia 
+in it. The one right to the middle, leads you to Powersoul (a great 
+weapon for Tifa). While you are down here, watch out for Dragons, they 
+have 3500 HP. If you fight it, steal Gold Armlets from it. Don't use 
+Fire on them, it heals 'em. Next to the big spider (Materia Keeper), is 
+a cave opening. Go in it (it's not insanely necessary, only if you want 
+to go down all the pipes) and jump down to the other hole. Go in and go 
+all the way to the back of the cave (don't leave) and get into the hole 
+near the top. Follow it around to the Elixer in the chest then you can 
+leave. You will be at that materia area and Elemental Materia will be 
+laying on the ground. Leave and you will be at another cave. Go right 
+and take the next left to get a Sniper CR gun for Vincent. Then go back 
+right and down to start over from an area just like the beginning of 
+this area, it will take you to a reactor. There's really no point in 
+going in the reactor. Go behind the reactor and into a little door which 
+will take you back to the tubes. Just climb the stairs to get up there 
+(I would reccomend folding the stairs near the bottom down so you can 
+climb up if you need to). Now would probably be a good idea to save 
+because you are going to fight that big spider guy. Be prepared, he has 
+8400 HP (!) and absorbs Fire. Be sure to utilize Haste and Big Guard. 
+Odin and Titan are both good against him as well. Make sure you have 
+Enemy Skill because you can learn Trine from it. You will get Jem Ring 
+and acquire the oh-so-wonderful Counter Attack Materia. Now leave to the 
+path where the Materia Keeper was guarding and you will be back on the 
+world map. Now, you get to go to Rocket Town! Just go around the 
+mountains and head NW.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+XI. ROCKET TOWN!!!
+
+	When you first get in here, you will notice the thing that gave 
+this town its name...a rocket. First, run up to the man who is standing 
+in front of a building and talk to him twice and when he asks if you 
+will look at the rocket with him, do it and he'll give you Yoshiyuki, a 
+great weapon for Cloud, its limitations are obvious though. Now just run 
+around here and buy things. There are treasure chests in here, so look 
+around for them. After you have messed around, go to Cid's house and in 
+the backyard. You will see the Tiny Bronco in the backyard and Shera 
+will pop out of the house. She will tell you to visit Cid in the rocket, 
+so go up there. Talk to him (I named him Tomas) and he will tell you 
+about his past. When he finishes, go back down and talk to Shera. Cid 
+will come in and swear at Shera a lot and she will tell you how Shinra 
+No.26 failed. Cid will come back in and swear at her some more. Palmer 
+and the rest of the gang will come and Cid will go outside to talk to 
+Rufus. (I just love the way he talks to Palmer! hahah!). Go outside and 
+you will find out why Rufus and Palmer are here. Shera will tell you to 
+go in the backyard and you will fight Palmer. He's not much of a 
+challenge, but it's a good idea to get ready for him. He has 6000 HP. 
+(Palmer getting ran over is the funniest thing!). You will get Edincoat 
+and will get on the Tiny Bronco. It will get shot and you will land in 
+the ocean after grabbing Cid. Now, you have to go back to the Gold 
+Saucer area. A little bit SE of the Gold Saucer is a small house. Go 
+there and talk to the blacksmith who lives there. After you getting all 
+the info you want, sleep in his bed (9 people in 1 bed!?) and get over 
+to Gold Saucer (through North Corel, the trashed city NW of G.S.).Once 
+you are in Gold Saucer, go to Battle Square. (Doing the actual game is 
+fun, try it, it's not easy though). When you are ready, go up the stairs 
+near the right registration desk. Go up to the center display and talk 
+to it, you will see the Keystone. You will have to do the battle square 
+for him (you get the Keystone regardless of wether or not you win; I 
+almost beat it, so I can't tell what you get when you beat it for him). 
+When you try to leave, you will find that the tram is out of order and 
+you have to stay here for a while. You will be at the creepy hotel and 
+you will tell your story to everybody. Then, you will have to go with 
+Tifa/Aeris/Yuffie to the Event Square. It really doesn't matter what you 
+say, but I think you might be able to figure out how to really do the 
+play. Then, you two will go on the Round Square tram ride. (The videos 
+are cool). You will then have to chase that Cait Sith fellow around. He 
+has the Keystone. He will give it to Tseng who you will later meet at 
+the Temple of the Ancients. Cait Sith is R-...whoa! I guess I shouldn't 
+blow it for you! You won't understand the thing he plays for you unless 
+this is your second time through the game and understand what he's 
+playing. You will end up in your room where you can take an Elixer from 
+the wardrobe. Now you can leave to the Temple of the Ancients, which is 
+a bit South of Midgar in a forest. You'll have to use Tiny Bronco to get 
+there. 
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+
+XII. GET LOST AT THE TEMPLE OF THE ANCIENTS
+
+	Now, before you go to in the temple, you may want to listen to 
+what I have to say: if you like Aeris (as a character), take her out and 
+treasure the moments you have with her. When you feel ready to go inside 
+the Temple, do so, just use Aeris as much as you can. (People who have 
+gone through this part of the game before know why you might want to 
+level her up). Once you get in, talk to the dead black-cloaked guy and 
+go in. You will meet Tseng and he will give you the Keystone. Place it 
+on the altar and you will go down into the labyrith part of this place. 
+It is so easy to get lost, so you might want to follow these 
+instructions word for word. Go up the first small set of stairs leading 
+to a larger set. Don't go up it but go around and down the other stairs. 
+Go in the little cave and climb down the vines. Go strait under the BIG 
+stairs and get the Trident in the treasure chest. You can steal Hi-
+Potions from the DoorBulls (centaur guys), Antidotes from the centipede 
+guys, and Remedys from the sphinx guys. Go down the stairs in front of 
+the treasure chest and climb up the vines. Go left of the cave and go 
+after the wizard guy into the cave there (be sure to grab the Mind 
+Source next to the stairs). Go in the cave and talk to the wizard guy. 
+After everybody gets in your group again, talk to him again and you can 
+buy/sell things, rest for free, and save (be sure to get the Silver 
+Rifle in the chest). Then go out and go down the vine. Once you go down 
+the vine, go down towards the Turbo Ether (you cannot see the entrance) 
+and get it. Then go down the stairs and get the Rocket Punch in the 
+treasure chest. Then go over towards the wizard and climb the vines, but 
+don't follow him into the cave. Go up the stiars and climb the big vine 
+there and go under the stairs to get "Lucky Plus" materia (it's really 
+called "Luck Plus"). Then go into the cave where the wizard guy went. 
+You will be at a challenging section where you must get in the little 
+space inside the rocks that fall (be sure to get Morph Materia). Once 
+you get to the end, Aeris will tell you to go to the pool where Morph 
+was. You will see what Sephiroth is doing through Aeris. He kills Tseng 
+and it will be over. When you are back at the pool, watch it, Sephiroth 
+will jump in and out of it. Go away from the pool and you can rest and 
+save using the wizard guy. I would suggest saving. Then go down the 
+stairs and you will be at a fun part. You control where time leads and 
+this is what each part of the clock is:
+I.A chest containing a battle.
+II.Rocks
+III.A chest containg a pain-in-the-ass battle
+IV.Princess Guard (Aeris' best weapon)
+V.Leads to treasure chest in labyrinth, contains the almighty Ribbon
+VI.Game where you have to catch the wizard guy, then leads to the place 
+where Sephiroth was with the pictures on the walls.
+VII.Trumpet Shell
+VIII.Megalixer
+IX.Rocks
+X.Where you start from
+XI.Rocks
+XII.Big Bad Wall Boss (do it last, please!)
+(while crossing the numbers, you can get knocked off by the second hand. 
+If you do , you get to fight 2 Ancient Dragons (don't worry, not full-
+fledged dragons) and you get a Nail Bat in the treasure chest. When you 
+leave, you will be at the labyrinth outside the cave you couldn't go in 
+before. Now you get to go through all that stuff again).
+
+You will probably want to go in I-V, and VII-XI before hitting VI and 
+XII. Then go in VI first. When you go in VI, play the wizards little 
+game and get the key to go in the room with the murals on the walls. 
+When you go in, you will meet Sephiroth and he will tell you a vague 
+version of his plan. He will leave and Cloud will go crazy. You will 
+then fight a Red Dragon. He has 6800 HP and gives you a Dragon Armlet. 
+Don't use Fire on him (I think, I didn't try it, I was too busy whooping 
+his ass). Once he dies, grab the (ooooooohhhhh!!!!) BAHUMUT SUMMONING 
+MATERIA!!! Yeah, Buhumut kicks ass. Then, go over to the right side of 
+the room and you will see a floating pyramid. You will find out about 
+what the Black Materia is and Cait Sith will volunteer his lifeless body 
+to be the dummy that gets destroys the Temple. After all that, go out to 
+the clock and go to XII (do you really have a choice?). I would suggest 
+getting ready for a more challenging boss fight here. Heal up using the 
+wizard if you need to. Run up to the door and you will trigger the boss 
+fight with a ...wall...ahem. Doesn't really inject a great amount fear 
+into you. He has 10000 HP. Cait Sith will go away and the Temple will 
+fall to the ground. Cloud will give the Black Materia to Sephiroth (!) 
+and Aeris will leave your group for a while... You will wake up at 
+Gongaga where Barret and Tifa are there to greet you. Then, get yourself 
+ready, get in the conviently placed Tiny Bronco (on the shore by 
+Gongaga) and head up to the North Continent, to a city on the SE part.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+XIII. FORGOTTEN CAPITOL PUNISHMENT
+
+	Once you get in Bone Village, you will come upon a bunch of guys 
+digging in the ground. Ask the guy standing in the doorway to either buy 
+things or hire people to try to find the Lunar Harp for you. Hire guys 
+to get the Lunar Harp (you really don't need to use them, just use that 
+option). The Lunar Harp is on the higher level up the ladder and to the 
+right of the smoke coming out of the building on the first level. Once, 
+you get it, go to the forest at the back and go through it. On the 
+second screen (where the camera is at a top-down perspective) watch for 
+a red dot floating around under the trees. Grab it and you will be 
+rewarded with Kjata Summoning Materia then go up. Once you enter this 
+sea-ish area, go right of the stairs and under the log for a Water Ring. 
+Then go through the log and and follow the path down. Then enter 
+Forgotten Capitol and go left and in the building for a Magic Source. 
+Then go back out and go right this time instead of left. Go inside the 
+first building on the right for a Guard Source at the top. Then to the 
+next building to the right for an Elixer and a rest. Rest and in the 
+middle of the night, Cloud will get up. Go back to where you can go 
+left, up, or right and go left to save or up to continue. Go up all the 
+way to the lake then in the little shell house. (it's getting closer!). 
+When you get in, go all the way to the top and get, oh yeah!, Comet 
+materia. Then go back to the main floor and through the little grassy 
+circle down to a crystallized cave. Go down the steps and save. Get 
+ready for a boss fight with another Jenova.She's pretty much water based 
+so, make sure you have Water Ring on. Go over to where Aeris is knelt in 
+prayer and talk to her. Swing your sword at her and Sephiroth will come 
+down and kill Aeris. For good. Aeris is dead forever. Sephiroth will fly 
+off and you will fight Jenova Life. She has about 14000 HP (I never 
+checked, I didn't have Sense equipped) and is weak against Lightning. 
+After the battle, you will lay Aeris to die in the lake. End of disc 2.
+
+STATS:
+TIME: 36:04
+GIL: 78005
+LEVELS: Cloud lv47, Tifa lv40, Barret lv39, Red XIII lv42, Yuffie lv38, 
+Cait Sith lv38, Cid lv41, Vincent lv43, Aeris lv44.
+LIMITS: (only good ones): Cloud (Finishing Touch), Tifa (Waterkick), 
+Vincent (Hellmasker), Red XIII (Lunatic High).
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+Disc 2
+
+XIV. 'TIS COLD IN THE ICICLE INN
+	
+	When disc 2 starts up, you will still be at Forgotten Capitol. Go 
+outside and follow Sephiroth. Get the treasure box containing Viper 
+Halberd (Cid's weapon) and climb the big tree thing. (While out here, 
+steal Water Rings from the giant crab guys). Once you get in, climb 
+around, getting the items and get to the ladder and go to the bottom on 
+it. Then go all the way up the ladder to the top of the screen and into 
+the cave. Get the Power Source and leave this cave. Then go basically NW 
+to a town called Icicle Inn. Go in and buy things (ooooohh, Organics). 
+(Don't forget the X-Potion at the topp floor of the inn, by the window). 
+When finsihed, get the Glacier Map and go to the back of town and go 
+down and talk to the person there. Elena and friends will show up. When 
+she goes to slap you, press left to dodge the blow. Then, after she 
+falls down the hill, go in the house with the dog outside (near the 
+entrance of the town) and get the snowboard iat the back. You'll have to 
+talk to the little boy first. Then you can go down by the lady at the 
+back of town. You will get to snowboard now. It really doesn't matter 
+where you go and how many baloons you get, so just get to the end. At 
+the end, you will land somewhere (determined by the paths taken while 
+snowboarding). While out here, you have about 15-30 minutes (real-time) 
+to run around and not pass out. Get to NE area of the glacier (follow 
+the map if needed by pressing square at landmarks) and go up at the 4 
+way intersection. Go left and get the Added Cut materia laying there in 
+the snow. Then go left another screen and you should be at a hot spring 
+area. Go up to it and touch it. Then, around the same 4-way intersection 
+is another 4-way intersection that leads to a cave if you go up at it. 
+Go in when you find at and talk to the guy (that's why you touched the 
+hot spring) and you will fight him (her?). When you win, you will get 
+Alexander Summoning Materia. Be sure to grab the All in the cave at the 
+windy plains area (where you drop the red flags) and get the Safety Bit 
+from the tent in the island after near the right side of the glacier. 
+Also, steal Circlets from Snow (lady wearing a swimsuit in the snow). 
+Then (if you haven't already made a stop by there) get to the top of the 
+area and go up to Gaea's Cliff. Climb up to the first cave (make sure 
+you raise your body temperature at each platform) and go in the first 
+opening and take the one immediately to the left. Grab the Javelin 
+(Cid's weapon) and go in the cave next to that. Then, go through the 
+hole and push the boulder over, breaking some icicles blocking the road. 
+Go back to where you went left then down and go up (you couldn't 
+before). Go through the hole after you go in and follow the trail 
+outside. Climb up (way up) to the next cave and go in. Get the Elixer in 
+the chest and save (you can't get the item in the box up there yet). 
+Then go in the only opening you can. Follow the trail around and go in 
+the cave. Grab the Fire Armlet before you go under the big icicles. Then 
+you get to fight the icicles (...). Fight all four of them (Fire 2 or 3 
+should do it)to get the Last Elixer (it's really just a megalixer (I 
+think it might be 2 of them). You don't neccissarily have to fight the 
+bats, just kill the icicle and the battle will end. Make sure you don't 
+jump down or yer screwed. After you get it, then jump down and all the 
+icicles you fought are in the slots down there. Go up to the chest near 
+the Save Point (you couldn't reach it before, remember?) and get the 
+Speed Source in it. Go back down and up to the other new cave hole. It 
+probably wouldn't be all that bad of an idea to save now as well, you 
+are fighting a boss soon. Grab the Enhance Sword in the box (not all 
+that great if you bought Organics) and follow the trail around. Be sure 
+to get the Bad Breath Enemy Skill from Marlboros (big toothy plant guy). 
+(Make sure you have Ribbon equipped on one of your guys when he uses Bad 
+Breath, or you will die). Follow the trail until you get back outside. 
+Climb up again and go in the cave. You should probably save. Then, 
+talkto the bright spot and your HP/MP will be restored. Go around and 
+you will fight the boss, a double headed dragon. Shizo Right has 18000 
+HP and Shizo Left has 18000 HP. Shizo Left is immune to Fire and Shizo 
+Right is immune to Ice. You get a cheap Dragon Fang when you win. Then 
+go out and climb the hill (you don't have to replenish your body temp.) 
+When you scale the hill, you might recognize the video, one of the 
+frames of it is the logo for my website 
+(http://www.angelfire.com/az/dragonfire). Now you will be at the North 
+Cave.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XV. NORTH CAVE, ANYBODY?
+
+	When you arrive, you will be going down a slope. Go down more and 
+a black-cloaked guy will die before you. Then go down and you will be at 
+a cool looking part. Keep going and get the (oooooooooohhhhh yeah!) Neo 
+Bahumut. Then save and keep going. Follow the trail until you meet up 
+with Sephiroth, he will fly up and you will fight Jenova Death. She has 
+25000 HP. After she dies, give the black materia to either Red XIII or 
+Barret (you can't give it to one of them if that one is in your group). 
+Then grab the MP Turbo materia lying on the ground. Then save and get 
+the Poison Ring and go up, out of the screen. After you pass the third 
+and final barrier, you will go into one of Sephiroth's illusions. Just 
+follow along with it until it ends with a scene with Rufus, Hojo, and 
+Scarlet. (when the Earth starts shaking, watch the green eye that opens 
+and closes briefly). Go through more cinema and the coolest videos in 
+the game and you will be in Junon. Weapon and Meteor will be summoned 
+and all looks pretty bad right now. Follow Tifa and the Shinra guard to 
+the chamber where they will die. (recognize the big fat guy in the 
+chair?). Tifa will get sent to the chamber where she dies and when the 
+guard leaves, he drops the key that Tifa needs to get out (..hmmmm....). 
+Then, when Cait Sith pops out of his disguise, equip him with stuff and 
+have Barret go try to open the door where Tifa is. Weapon will get a 
+blast from Junon's cannon and the video is awesome. Then, when you can 
+control Barret again, get to the airport. Talk to Yuffie (if you got 
+her) and she will join your group. Then keep going until you reach the 
+Airship itself. You will be back to Tifa and use this combination to get 
+the key and use it: grab the key with your feet using O and X, unlock 
+her right hand using Triangle and X, then use Square to use her right 
+hand to free the left hand. The water Weapon blows a conveniently place 
+hole in the ceiling above Tifa where you can climb out. Climb down Junon 
+and onto the cannon. (watch the Shinra guards fall off. Hahahah!). At 
+hte end of the cannon, Scarlet will meet you and you will have a bitch 
+fight up there. it doesn't matter whether you win or not, but Barret 
+will drop a rope down from Highwind (the Airship) and you will have it 
+after a little bit of dialogue (woooohoooooo!). At this part, you have a 
+few options you can choose from: (1)Go to Wutai and get Yuffies little 
+subquest done with, (2)Get a Gold Chocobo, or (3) go to Mideel (next 
+part in the game). If you do Yuffie's subquest, just go to section XVI, 
+if you are going to get a Gold Chocobo, go to section XVII, and if you 
+go to Mideel, go to section XVIII.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVI. WU-TAI CLAN
+
+	 Wutai is located on the island keys on the far West. It is in an 
+open area by the shore on the Northern section of the keys. When you get 
+there, Yuffie will stop you and Shinra guards will fight you. Yuffie 
+will steal most of your materia (pretty much everything except Magic 
+Materias). You will have to follow her into Wutai and chase her. Go into 
+the weapons shop above Turtle's Paradise (recognize that name?) and get 
+the HP Absorb Materia from the treasure box (you can't get it any other 
+time) and Yuffie will steal that from you as well. Then go to the house 
+right next to the entrance to Wutai and talk to the little folding wall 
+and Yuffie will pop out from behind it. She will run, follow her to 
+Turtle's Paradise and talk to the wiggling barrel out front. Follow her 
+back to her house and to her basement. She will give a little sob story 
+and you will have to push a lever. It doesn't matter what one you push 
+because a cage will drop and Yuffie will run off again. Then head 
+towards the pagoda on the West side of town and into the buiding on the 
+right. Hit the gong at the top and a door will open. Go in the door and 
+find that Yuffie is tied by by...The Don.... Get the Swift Bolt and 
+Elixer in the treasure chests and go up the stairs. Kill the guards and 
+leave the building. Go over to Rude and Reno and they will agree to not 
+fight with you. Now go (you might want to save) up to the big DaChao 
+Statues. Follow Rude and get the Dragoon Lance from the treasure chest 
+in the cave he's standing by then go out and down. You will see Yuffie 
+and Elena tied up and Corneo standing there. You will fight Rapps. He 
+has 6000 HP. He's very resistant to magic and is weak against physicak 
+attacks (makes sense). You get Peace Ring when you win. The Turks will 
+come and put Corneo to rest, a long and deep rest, far into the ground. 
+Then, Yuffie will give you your materia back (not in the right places).
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVII. CHOCOBO RAISING BONANZA
+
+	Stage 1 of raising a chocobo:
+Go to the chocobo farm and rent all the available stables. If you can't 
+rent any, you are too early. It will take a bit to but the stables when 
+talking to the lady in the house (not the barn; this lady watched you in 
+your sleep while sleeping in the house). This will cost about 60,000 gil 
+(70,000 if you haven't already bought Chocobo Lure; you can also find it 
+lying in the bottom-right corner of the first chocobo farm screen, below 
+the fence.
+	Stage 2 of Chocobo Raising:
+You will need to head to the Gold Saucer area and catch a chocobo (using 
+the equipped Chocobo Lure materia bought/found at the Chocobo 
+Farm)accompanied by either two flying things or two flying things on the 
+ground. Once on it in the main map, get off and choose to send to the 
+stables (you will be prompted for this). Then head on over to Mideel and 
+catch a chocobo accompainied by two spirals (roly-poly things). You may 
+need to keep trying to get this kind of configuration in a battle. Go to 
+the Chocobo Sage and buy 20, 30, or 40 Sylkis Greens (go for about 5,000 
+gil a piece, you will eventually need 40). Now, outside of Chocobo 
+Sage's place, in the grassy area, or south of Chocobo Sages place, below 
+the mountains, in the plains area, fight a Vlarkados (kangaroo-looking 
+thing). It is rather hard if you aren't progressed very far in the game 
+(about 30,000 HP hard). Kill/steal/morph him for a Carob Nut, you may 
+want to do this 4 times to cover how many you will be using. Now give 
+each of your two "great" chocobos 10 Sylkis Greens each (you can see 
+what Chocobilly rates them when you move them from the fence area, which 
+you will need to do, to the stables in the barn. You should have both of 
+your chocobos "great", if not, get new ones using the method 
+forementioned). Save your game: very important, if you do not get the 
+chocobo you want, you can just reset and mate again. Mate your two 
+chocobos using a Carob Nut. If all goes well, you should get a green or 
+a blue chocobo. If not, you'll get a yellow one. If yellow, reset and 
+mate again. Wait a while when the chocobos are ready (yellow->yellow) to 
+mate again using Carob Nut. Save before doing this, and you should get a 
+chocobo. Keep doing this until you get a m/f blue and a green one, 
+opposite sex of the blue one. Race these up to "a" or "s" class at the 
+Gold Saucer, talk to Ester and she will sign you up for a corresponding 
+race for your chocobo.
+Chocobos acheived:Green, Blue
+Special area abilites: Green: Wutai area materia cave for Mime materia
+Stage 3 of raising a chocobo:
+Once you have an "a" or "s" class green & blue chocobo, mate them 
+together using another Carob Nut. Save before this, so you can reset 
+when you don't get the right chocobo. You should get a black chocobo. Go 
+catch a chocobo on the SW corner of the North Continent (snow-covered 
+one), catch a "wonderful" chocobo and race the black and wonderful to 
+"a" or "s" class. Save game. Feed them both 10 Sylkis Greens each. Mate 
+wonderful and black together using a Zeio Nut (found at Goblin Island NE 
+of east continent (one w/midgar); steal/morph/kill a goblin to get it 
+(find them in the foresty area of the string of islands). You will soon 
+get a GOLD CHOCOBO!*YAY*
+Chocobos acheived:Black, GOLD
+Special area abilities: Black: North Corel area materia cave for HP->MP 
+Switch, Mideel area materia cave for Quadra Magic; GOLD:Round Island for 
+Knights of Round.
+NOW YOU ARE THE PROUD OWNER OF ALL THE CHOCOBOS! They will come in handy 
+sometimes.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVII. MIDEEL WITH IT
+
+	This shouldn't really be counted as a section but, it passes as 
+one for me. Go to Mideel (South of Fort Condor, on an island) and buy 
+things (notice the "Crystal" theme?). Then go to the weapons shop and 
+try to go into the door in the back area. It is locked. Go across the 
+bridge thing and walk behind the old man standing by the buiding until 
+you hear a clink sound (you may have to walk back and forth a few 
+times). Talk to it and you will get the key needed for the door. Then go 
+back to the weapons shop and try the door. The key will break and the 
+cashier will question you, tell him the truth and he will tell you that 
+the door you were trying to open is a painting. He will give you Curse 
+Ring. Then, if you want Contain Materia (I would suggest getting it), 
+gleave and go to the Chocobo Farm and buy a Mimmett Green. Go back to 
+Mideel and talk to one of the white chocobos running around in the 
+stores. It will ask for Samolen Greens (don't worry, thats another name 
+for Mimmett Greens), give it some. Then, when you get the option to 
+tickle it, do it behind its ears. It will throw Contain Materia at you 
+and you will have it. After you are finished, go under the bridge and 
+you will learn that Cloud washed up to Mideel. Tifa will go and stay 
+with Cloud for a while and you will be in control of Cid. Now, leave for 
+Corel.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+XIV. HUGE MATERIA QUEST 1: NORTH COREL
+
+	When you go to Corel, you can either go the back way (by Costa Del 
+Sol) or go in the city itself and go to the back entrance. You will be 
+going to the reactor at Mt. Corel. Go up to the entrance and kill the 
+guards there. A train will come out and you will have to follow it on 
+another one. You have 10 minutes to get to the front of the other train. 
+There will be a battle on each car, geting harder each car. You can 
+steal Warrior Bangles from the steel bird at the end of the train. When 
+you kill the Shinra Guard at the end, slowing down doesn't matter all 
+that much, just as long as you have time left. Then you will get the 
+Huge Materia. The little kid who said he saw something in a well last 
+time you were here will give you Ultima Materia 
+(ooooooooooohhhhhyyyyeeeeeaaaaaaa!!!!!).
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XV. HUGE MATERIA QUEST 2: FORT CONDOR
+
+	Fort Condor is located North of Mideel, go there and talk to the 
+guy out front, then climb your way in. Talk to the guy sitting at the 
+table and he will fill you in on the details. When finished, go down the 
+ladder and rest/save. Then go up and buy Materia (oohh, the only place 
+in the game where you can buy All Materia) and items. After you are 
+finished dilly-dallying around down there, climb WAY up to the top and 
+talk to the guy standing on a chest. You will then be at the Fort Condor 
+wargame. Set as many troops as you can and play this however you want. 
+If you win, whooptydoo, if you lose, you have to fight a weak boss, 
+whooptydoo. The best guys to use are Defenders. Unfortunately, you don't 
+get anything for halting the attack. After you win, you might recognize 
+the Condor video from my Materia section at my website 
+(http://www.angelfire.com/az/dragonfire). When the guy tells you to go 
+outside, do it and you can get Phoenix Summoning Materia out there 
+(oooooohhhhh yah!!). Then go back in and talk to the guy at the table 
+downstairs. He will give you the second Huge Materia and you will decide 
+o go to Mideel to check on Cloud.
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVI. MIDEEALT WITH IT
+
+	When you get back to Mideel, go back into the hospital and check 
+on the little guy (Cloud). When the Earth starts shaking, go outside to 
+fight Ultima Weapon breifly. Ultima Weapon withstands about 10000 HP. 
+You can steal Curse Ring from it before it leaves. When it flys away, 
+the Lifestream begins to gush up and Cloud and Tifa fall in. Now, brace 
+yourself because this part here will take about a half and hour to and 
+hour to go through. I won't even bother explaining it to you. 
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVII. HUGE MATERIA QUEST 3: JUNON
+
+	This is a fairly easy task, just go to Upper Junon and get to the 
+tunnel where the Shinra guys are practicing. (before that, Cloud says he 
+feels like he's forgetting something, I have yet, in my 1 and a half 
+years of owning this game, to figure this one out, I don't know what 
+he's missing if anything). (another thing, while in the hallway, this is 
+just for fun, hit the big red button to sound an apocalypse alarm, 
+heheheh). Follow the Shinra troops and just keep going down the hallway 
+until you meet Reno by the submarine docks. He will move back and you 
+will fight Carry Armor. He has 25000 HP and is weak against lightning. 
+Use All->Lightning and Trine to put him off. Use your best summons too. 
+If you keep fighting hard, you should be able to beat him (I finished 
+him in about 1 and a half minutes). Just make sure that you always have 
+Regen on and maybe even MBarrier because that damned pain in the ass 
+Lapis Laser that does about 1500 damage. But, kill it before it kills 
+you. After it dies, get the items around there (Leviathan Scales, 
+Scimitar, and some other item, I don't remember the name, I wasn't 
+typing this when I went through it). Then get the Submarine and when you 
+can use it, go down and get the red sub's Huge Materia. It's in the 
+greenish tall grass area near where the Temple of the Ancients used to 
+be. Then, go up near the East side of the North Continent and get the 
+Ancient Key (its tucked away in a cave). Whatever you do while you are 
+down here, DO NOT RUN INTO THE GUY FLOATING AROUND THERE, HE HAS 
+1,000,000 HIT POINTS AND WILL KILL YOU IN A SECOND!!! If you dare fight 
+him, you might want to go here: 
+http://www.angelfire.com/az/dragonfire/wep.html. Now head off to Rocket 
+Town!
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XVIII. HUGE MATERIA QUEST 4: ROCKET TOWN
+
+	When you get into Rocket Town, go up to the Shinra 26 rocket and 
+fight off the Shinra soldiers. Then fight off Rude and 2 guards. Don't 
+worry about the guards, kill them off and kill Rude. He has 9000 HP. Be 
+sure to steal Zeidrich from him, it's very good despite it's 0 Materia 
+slots. When you finish off Rude, go inside the rockets cockpit and you 
+will get to fly.........to space......ahem. When the rocket blasts off 
+and after a bit of dialoague and when you can move around don't leave 
+the cockpit, go up the ladder and get the materia in there. I don't know 
+the passcode, so don't even ask me...................................... 
+........................................................................
+........................................................................
+....actually, I do know it, but I'm not telling you what it is, so thats 
+that! Actually, the passcode is CIRCLE, SQUARE, X, X. The forcefield 
+will open up and you will be able to get the Huge Materia from it. Then 
+go out of the cockpit and go down the ladder and follow the path to the 
+escape pod. Shera will show up and you will bail out of the rocket in 
+the pod. The rocket doesn't do what everybody expected it to do, it only 
+broke off peices of Meteor. You will have to go to Cosmo Canyon to see 
+Bugenhagen so go there. (I won't make a new section for this). Go in his 
+room and into the machine room. Talk to him and he'll take you up there 
+and he'll hold on to the Huge Materias. When you go up, talk to the blue 
+Huge Materia and you will get Bahumut ZERO, but only if you have Bahumut 
+and Neo Bahumut. If you don't have those, you can't go back and get 
+them. Now you will have to get the Key To The Ancients underwater (if 
+you haven't already gotten it). Then go up through Bone Village and up 
+to Forgotten Capitol. Go left at the intersection and follow the path to 
+the grassy cave. Go in and go down the steps to the treasure chest 
+containing Aurora Armlet. Go up and over to where ole Boognhaygn is. A 
+bit of dialogue, blah, blah, blah and yer out. Now you get to go to good 
+old Midgar. Leave and head over there. When you enter the Airship, 
+Diamond Weapon emerges from the water. 
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+XIX. MIDGAR MADNESS 2: THE MAYHEM CONTINUES
+
+	Go over to the shores north of Midgar and wait for Diamond Weapon, 
+you will fight him. In this times, I would suggest getting ready. Heal 
+up and equip good stuff. When you fight him, steal Rising Sun from him. 
+He has about 35000 HP (you can't sense, so I am guessing). Ultima and 
+Bahumut ZERO are good against him. So is Ice. You had better be happy 
+about what he gives you, you get 25000 EXP when he dies and 3500 AP as 
+well. After it dies, you will have to fly to the North Cave, then you 
+will have to fly back. In between, you will find out that Cait Sith is 
+Reeve, or is at least controlling him. When you get to Midgar, you will 
+parachute out of the airship and land in Midgar. Follow Cait Sith and 
+talk to him and he will open the gate to Lower Midgar (I would suggest 
+saving). Climb all the way down the ladder and go up the ladder to the 
+left for a Aegis Armlet. Then climb back down and go right at the first 
+ladder you came down and fall down to the lower level. Climb the ladder 
+at the back and climb up. Get the Starlight Phone and Elixer and climb 
+down and jump down to the little tube and climb up. Then climb up the 
+ladder there and get the Max Ray at the top. Go back to the bottom of 
+the tube and climb the ladder right by it and go up the stairs. Save at 
+the top of the stairs and go in the hole. When you come out at the other 
+end, you will fight Elena, Reno, and Rude. Rude has 28000 HP and you can 
+steal a Zeidrich from him, Reno has 25000 HP and you can steal Touph 
+Ring from him, and Elena has about 26000 HP (you can't Sense her) and 
+you can steal Minerva Band from her. When she loses, go down the 
+corridor 8 screens for a Power Source, 10 screens for a Guard Source, 12 
+screens for a Mind and Magic Source, and 13 screens for the almighty W-
+Item. Then you get to go all the way back up. When you get back to the 
+main sewer screen (the one with the ladder), go up 3 screens and go left 
+instead of right, into a little branch off the sewer. Then climb up the 
+ladder and you will be able to go to the Shinra HQ. Go in and go to the 
+back of the first floor and talk to the Turtle's Paradise Newsletter on 
+the bulletin board. Then go up the stairs (not the elevator) and go in 
+the little shop and steal Pile Bunker (it says Pile Bunker when you get 
+the item, but when you go to equip it, it says it's Pile Banger...???) 
+and Master Fist from the treasure chests. Then go out and take the 
+elevator to the 64th floor. When you get in there, talk to the lockers 
+and get the HP Shout (Cait Sith's best weapon). Then leave the HQ and go 
+down 2 screens and go left there instead of right. Climb up the bar 
+structure and fight Proud Clod (Proud Cloud???).  He has about 50000 HP 
+and is a little resistant to magic attacks, but Bolt and Ultima do him 
+fine. You get the almighty Ragnarok when he dies. Put Barret in your 
+group (if he isn't already) and save and go up the stairs. On the 
+stairs, near the railing will be Missing Score, Barrets best weapon. 
+Equip it and go up the stairs and fight Hojo. He has 5 forms. The first 
+level has 3 weaker forms (all under 10000 HP), the second form has 25000 
+HP and the final form has about 50000 HP (you can't Sense it). Hojo is 
+weak against Ultima and really isn't resistant to anything. Just 
+Haste/Wall (of Barrier/MBarrier)/Regen yourself and you will succeed. 
+After you beat him you will go through a lot of dialogue.
+
+end of disc 2
+
+STATS:
+TIME:50:42
+GIL: 253503
+LEVELS: Cloud lv60, Barret lv57, Cid lv55, Tifa lv53, Red XIII lv52, 
+Yuffie lv50, Cait Sith lv50, Vincent lv53.
+LIMITS: Cloud (Finishing Touch), Barret (Satelite Beam), Tifa 
+(Meteodrive)
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+disc 3
+
+XX. NORTH CAVE ANYBODY, AGAIN?
+
+this is just the North Cave section off of my website, it is subject to 
+change 
+
+Section 1
+You will start off outside the airship. Take the ladder down the side of 
+it and follow the path to where Cloud asks if you are gonna run down 
+yet. Run down and you will be at the beginning of the cave. Make sure 
+you have plenty of Ether/Turbo Ether/Elixer/Megalixers and Phoenix Downs 
+when you are travelling down the North Cave. I reccomend being about 
+level 45-60 in this area. Jump down and go to the treasure chest where 
+you will get the vital "Save Point" item (there are no save points in 
+the North Cave if you were wondering). Don't use the item yet, you will 
+want it for later. Follow the spiral down down to the bottom fighting 
+Gargoyles (2000 HP), Parasites (6000 HP), and Dark Dragons (14000 HP). 
+When you fight the Gargoyles, they cast "L4 Death" when they die, so 
+make sure any of your characters who have a level that is divisible by 4 
+(ex. lv40, lv44, lv48...) are defended by the "Death Force" enemy skill 
+(recieved from Adamantanai (big turtle guy) by Wutai beach(Manipulate 
+it)) or have exited the battle (using "Exit" materia). Exit this section 
+right at the bottom.
+Section 2
+When you start in this area, you will have the option of going the quick 
+way (go right), collecting minimum items or the long way (go left), 
+collecting items and a materia (HP Absorb). QUICK WAY: go right and down 
+to the bottom-right, collecting some helpful items. SLOW WAY: jump down 
+the ledge you start on, go left and jump up to the treasure chest then 
+go right on that ledge and you will get HP Absorb. Then just follow the 
+path down collecting several items, fighting Parasites (6000 HP) and 
+Gargoyles (2000 HP, be careful of "L4 Death!)). When you reach the 
+bottom, go right to the end of the screen to exit this section. If you 
+want to get all the items, go down the quick way and come back up the 
+long way. You can't go up the quick from the bottom.
+Section 3
+This is the most confusing part in the game. Once again, there is a 
+quick and slow way, each with the same drawbacks as Section 2's. You 
+will be fighting Dark Dragons (14000 HP), Master Tonberry's (44,444 HP; 
+morph for a Ribbon), and Scissors' (2900 HP). FAST WAY: After you jump 
+off the ledge you began on, go right (not left to the cave). You will 
+jump down a hole that you cannot see. At the ledge you are on now, go 
+left to pick up the item in the treasure chest. Then jump off again at 
+the right. Go in the cave and follow it around to the outside. Then go 
+left right off the edge. When you land, jump down to the right and jump 
+down the rest of the ledges to the left, down to the end of the section. 
+SLOW WAY: When you start at the ledge, jump off to the right (not into 
+the cave, into a hole hidden behind some rocks). Then go right to the 
+edge of the ledge (DO NOT JUMP OFF). When it says "Push (OK) button to 
+jump", push (OK) and jump to the edge where you can walk to the left, 
+off the edge and go in the cave. When you get the item (I believe it is 
+a Megalixer), go back out and go to the left of the sceen, you will drop 
+off yet another hole that you cannot see, down  to a cave hole. Go in 
+the cave and collect the contents of the chests you see, go in the black 
+hole near the top-right corner, to the chest. Go back out the top of the 
+cave. When you are out, go to the fast way part at the top of this 
+section to exit it.
+Section 4
+This is where you meet up with the rest of your party and will decide 
+which of the two ways you will go. This is a good place to use your Save 
+Crystal. Choose your current party (by sending them in the same 
+direction as you). You can fight Dark Dragons (14000 HP), Parasites 
+(8000 HP), Master Tonberry's (44,444 HP) and Dragon Zombies (13000 HP). 
+At this point you can go to Section 5A for going RIGHT at the fork, 
+Section 5B for taking a LEFT. (HELPFUL HINT: if you are not going RIGHT 
+and Tifa isn't in your group you are using now, send her RIGHT, you'll 
+see why in Section 7..., also, send Yuffie LEFT if she's not in your 
+group regardless if you're going LEFT or RIGHT, you'll see why in 
+Section 5B...)
+Section 5A
+This is basically just a spiral that goes down to a skeleton of a dead 
+monster. You can't go back up after you drop off of the spiral. Follow 
+the spiral down fighting Pollensaltas (4000 HP), Malboros (4400 HP), 
+Death Dealers (7000 HP -learn E. Skill "Roullete" from them), Dragon 
+Zombies (13000 HP), and Parasites (8000 HP). Once you reach the bottom, 
+get the treasure chest directly to your right (between two egg things) 
+for a Tetra-Elemental. Then go up and right for the treasure chest that 
+contains teh all-mighty Mystile, EQUIP THIS IMMEDIATELY!!! You go 
+between some eggs to the left to get a treasure chest at the far left 
+side. Go to the end where it is reddish colored and follow the skeleton 
+to the bottom where you will end up meeting the rest of your party once 
+again.
+Section 5B
+In the cave area where you decide UP or DOWN, you can fight King 
+Behemoth (18000 HP), Armored Golem (10000 HP), and Allemagne (8000 HP; 
+you remember Eye/Phantom and Evileye/Floating Eye from the other Final 
+Fantasies don't you!) in this cave area. If you go UP skip to section 
+6A, if you go DOWN, go to section 6B. You can exit this cave by going 
+directly up. (HELPFUL HINT: if you aren't going UP, and Yuffie isn't in 
+your group send Yuffie UP, you'll see why in Section 7...)
+Section 6A
+This is the funnest section (as well as having the most rewards!). I 
+think this section has the best graphics in all of FF7. In this section 
+you will fight Master Tonberry (44,444 HP), Movers (Morph for a Protect 
+Ring (automatically sets up [Barrier/MBarrier], fight in sets pf three, 
+convenient huh?; 3000 HP 9000 AP!!!), Allemagne (8000 HP), Christopher 
+(6000 HP) and Gighee (5500 HP), Magic Pots (use Elixers on them, then 
+you can kill it for 8000 EXP/1000 AP; 4096 HP), You will start on a 
+mound, jump down and go right, jump the mound for an treasure chest, or 
+go left. Going left will force you to go underwater at the green stain 
+at the end of the path. Follow the trail (going left for the treasure 
+box) and you will exit this screen. Go right at the path break for a 
+treasure chest or go right then left for a treasure chest, up and on the 
+bank for Shield materia, or up and on the hill, then down at the green 
+stain and underwater for a treasure chest. There is little trick in this 
+area: at the chest after you go underwater, you can go in front of the 
+chest and underwater to get to the end of this screen, and back to the 
+chest the same way. Exit this screen by going on the bank at the right. 
+This is a cool little area, you can fight King Behemoths (18000 HP), 
+Master Tonberrys (44,444 HP), Armored Golems (10000 HP), Allemagnes 
+(8000 HP), Parasites (8000 HP), and Dark Dragons (14000 HP) here. At the 
+top of the bright light (Holy?...), pick up either W-Magic or Counter 
+materia (sorry, I can't remember what one was where, I had already 
+gotten them when I came here for this strategy), pick up the other 
+materia directly above the light in the bushes (you can kinda see it). 
+Exit this section by going in the hole all the way to the left.
+Section 6B
+This section is pretty much a bore. It just isn't fun. But it has some 
+useful items. You can fight Parasites (8000 HP), Master Tonberrys 
+(44,444 HP), Allemagnes (8000 HP), Armored Golems (10000 HP), Start off 
+by going down the steps and grabbing the treasure chest to the left. Go 
+right and up for another chest. Go down and exit this screen (grab the 
+chest to your left). When you start this screen, head down and jump down 
+off the step. Pick up the chest to your left and go around to the right, 
+picking up the chest to your right. Move behind the big step and keep 
+heading left. Before you go down, get the Magic Counter floating in 
+front of the waterfall (it's white on white so look hard). Run down to 
+exit this screen. Jump down and pick up the contents of the treasure 
+chest and head left. Keep going down and go up where the trail splits. 
+Before you jump up to the large piece of land, grab the Mega-All materia 
+(you'll have to do it while jumping, once you touch the step before the 
+big land area) Grab the treasure chest on this piece of land at the far 
+left. Go down and exit this section.
+Section 7
+This is where your group will meet up again. Grab the treasure chest 
+before you talk to them. Going back up Section 6B is the only way back 
+out from here. Talk to all your group members to get items from the 
+people (if you followed my instructions in Section 4, you will get 
+Mystile from Tifa!!!, and if you followed my instructions in section 
+Section4 and 5B, you will get Counter materia from Yuffie!!!). Pick your 
+group and head down into Section 8.
+Section 8
+This isn't a very hard section, but hurry through here, keep your HP and 
+MP high for what follows. You will fight Allemagnes (8000 HP), Dragon 
+Zombies (13000 HP), and Iron Man (morph for Escort Guard; 20000 HP). 
+There's nothing to pick up in this level. OK, before you go down to the 
+main ground structure, heal up for this battle, it may be hard or easy 
+depending on your level and what you have. Fight Jenova (Jenova-
+SYNTHETICA about 50000 HP; 60000 EXP, 1500 AP). Kill her before she 
+counts down (she'll cast Ultima on you if you don't kill her before she 
+finishes (make sure you have 4000+ HP if she casts it)).
+Section 9
+This is the end of the game, the last showdown, the final battle, the 
+ending fight, you get the idea, but it's not over 'til ole Sephiroth 
+takes a whacking. Choose your group(s) wisely and HEAL UP.
+Sephiroth A (Bizzaro-Sephiroth)
+This is the first Sephiroth and he's relatively easy, but can take a 
+while to beat. His arms have about 20000 HP, his head has about 35000 
+HP, and his body has about 75000 HP. He heals alot and regenerates his 
+arms/head. Just concentrate on attacking his body and don't attack the 
+core, it won't take any damage unless its defenses are down (it'll say 
+so). You get EXP and AP from him, but it doesn't tell you how much, I'd 
+guess about 15000 EXP and 10000 AP.
+Sephiroth B (Safer-Sephiroth)
+This Sephiroth has cool theme music (One Winged Angel, you may be 
+listening to it if you are my web page right now. He is the hardest 
+Sephiroth. He has about 100,000 HP.  Debarrier him when he does Wall. 
+All I can say is watch out for Supernova (good old 4 minute long spell 
+that drops all your party's HP into the hundreds regardless of how much 
+HP you have now) and Heartless Angel (it is worse than Supernova, it 
+drops all your party members to 1 HP!!!). Also watch for Shadow Flare 
+and Pale Horse. Keep Megalixers handy!!! When you beat him, its not over 
+yet!
+Sephiroth C (Sephiroth)
+Go through one of the coolest scenes and fight the easiest Sephiroth, he 
+literally has 1 HP. Use the edited version of Omnislash on him (the 
+camera looks at Sephiroth, then Cloud, then Sephiroth, then Cloud and 
+continues near the end; you will have Omnisalash whether or not you 
+gained it in the game). If you don't attack, Sephiroth will and will do 
+a bit under your max HP, he will never kill you and you will Counter 
+Attack if he hits you and you will kill him. So don't worry about him. 
+Once he dies, go through the LONG movie and watch the credits and watch 
+the little Red XIII and sons movie after the credits. It gets kinda 
+weird at the end...reminds me of a screensaver doesn't it...
+YOU'VE BEATEN IT!!!
+CONGRATULATIONS!!!
+
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+B. SPOILER STORYLINE
+	
+	It all starts out at Midgar. Cloud, Barret and his co-Avalanchers 
+blow up a reactor to try to hinder the amount of Mako being used by the 
+Shinra Corporation. In response, Shinra kidnaps Aeris and drops the 
+plate above Sector 7 to try to kill the Avalanche off. It fails and 
+Avalanche goes to the Shinra HQ. They get to the top to find President 
+Shinra dead at his desk. Rufus flies in and trys to kill Cloud and then 
+escapes. Avalanche leaves Midgar for Kalm where Cloud explains the whole 
+story to Barret, Tifa, Red XIII, and Aeris. His past with SOLDIER and 
+Sephiroth and how his and Tifa's relationships stretch into the past. 
+Cloud tells them that Sephiroth had stayed in the Shinra Mansion 
+basement for a long time, reading about Jenova, who he thinks is his 
+mother. He comes across revealing facts about Jenova and Profesor Gast, 
+who wrote the report, and decides to take Jenova into his custody by 
+going to the reactor where she is stored and taking her. Cloud and his 
+party then chase Sephiroth around the world. They finally catch up with 
+him at the Temple of the Ancients. He reveals his plan to merge with the 
+planets energy and become a supreme being. He leaves on a sour note and 
+everybody is trapped in the Temple where they find out that the Temple 
+itself is the Black Materia that Sephiroth needs to cast Meteor which is 
+used to get all the planet's energy concentrated at one spot, where 
+Sephiroth will meld with it to become the supreme being, the god of all 
+that there is. Cait Sith volunteers to be the "junkie" that gets to die 
+for the Black Materia and does it. Cloud will have a run-in with 
+Sephiroth and he will control Cloud and have him give him the Black 
+Materia. Aeris runs off to a place called the City of the Ancients 
+(otherwise known as Forgotten Capitol) and Cloud and friends scramble 
+off to get her. There is where Aeris meets her fate, Sephiroth kills 
+her. Cloud and the Aerisless party go after Sephiroth some more and they 
+get lead to the North Cave. They all find that Hojo, Rufus and Scarlet 
+are there, watching upon the events that occur and Hojo explains to 
+Cloud his creation. He tells him that he was created by Hojo, injected 
+with the cells of Jenova and that he was a failed experiment as well. He 
+finds out that he was probably the only non-failure experiment. Cloud 
+gives the recently acquired Black Materia back to Sephiroth under 
+Sephiroth's influences, and Weapon (all 5 of them) and Meteor get 
+summoned. After a week goes by, Tifa and Barret get to be publicly 
+executed. They escape and one of the 5 weapons are blasted away by the 
+Junon Cannon, "Sister Ray". The party goes to Mideel where they find 
+Cloud washed up and in a hospital. Everybody except Tifa leaves, to get 
+2 Huge Materias, which Shinra needs to blow up Meteor. The Cloudless 
+party goes to Mideel for Cloud with the first 2 Huge Materias when 
+weapon attacks. It is held off, but the aftermath sends Tifa and Cloud 
+into the Lifestream, where Cloud finds himself with Tifa's help. He 
+finds out that it wasn't him who had lead the group along with 
+Sephiroth, it had been Zack, Aeris' boyfriend from long ago. Cloud was 
+just a guard that had went with them. but, he turned out to be much more 
+than a guard, he did in fact kill Sephiroth at the reactor. It is just 
+Sephiroth's image roaming across the land. The final 2 Huge Materias are 
+retrieved. Shinra has the Junon cannon transported to Midgar where they 
+will blow the barrier around the North Cave away, but the blast also 
+kills Diamond Weapon, but not before he releases hindreds of missles and 
+rockets upon Midgar. Rufus is killed by Diamond WEapon and parts of 
+Midgar are destroyed. Everybody then parachutes into Midgar after Hojo. 
+They make their way to Hojo where he tells them he is Sephiroth's 
+father, then they kill him after he injected himself with Jenova Cells. 
+When finished with Hojo, the party goes to the North Cave to fight 
+Sephiroth, who awaits them at the bottom. 
+
+
+
+
+
++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+C. HISTORY
+
+12/19/98- came up with the idea of having a strategy guide and began on 
+the table of contents.
+12/21/98- began working on part A and I.
+12/29/98- after a laziness attack, I finally got up and started to do 
+this thing some more. finished part I *YAY*
+12/30/98- started section II.
+1/6/99- finally started it again after "vacationing". Finished section 
+II. (see 12/29/98)
+1/7/99- continued the walkthrough, finshed section III, started IV.
+1/8/99- Dyed my hair black, it was brown before
+1/10/99- I'm wondering about that date I set for myself, is it possible? 
+Finished section IV. Started and finished section V, started and 
+finished section VI, started section VII.
+1/11/99- uhhhh....getting closer and closer to the 19th! Kept working on 
+and finished section VII. Started Section VIII and IX.
+1/13/99- finished section VIII and IX. Started section X. I'm borrowing 
+my friends FF7 disc 1. Finsihed section X and started section XI.
+1/14/99- finished section XI. Destroyed PsychoCody! oh yeah (or at least 
+hindered him; if you want to tell him he's an idiot for hacking me, do 
+so at psychocody@yahoo.com). Started section XII.
+1/18/99- ahhhh!!! no, I probably won't make it, wahhhhh!!!  Finished 
+section XII, started section XIII.
+1/19/99- day I want this strategy guide to be complete, but I guess that 
+won't happen! let's try a new date. 
+1/20/99- started disc 2
+1/21/99- finished section XIV, started section XV. 
+1/25/99- finished section XV, started and finished sections XVI, XVII, 
+and XVIII. 
+1/26/99- finished section XVIII, started and finished sections XIV, XV, 
+and XVI.
+1/27/99- started and finished sections XVI, XVII, XVIII, XIX, and XX. 
+yay. it's finished. 
+2/9/99- new date that I want this guide to be done by

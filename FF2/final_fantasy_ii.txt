@@ -1,0 +1,745 @@
+Final Fantasy 2 - Hint Sheet by Luke Drelick
+duky@worldnet.att.net
+http://rpgocean.hypermart.net
+
+[INDEX]
+
+1. Thanks
+        [a] Who Wrote This?
+        [b] Who Offered Insight?
+        [c] ATTENTION!!!
+
+2. The Tricks
+        [a] Perfect Stat Increasing Trick
+        [b] Avoid An Enemy Encounter
+        [c] World Map
+        [d] Chocobo in FF2
+        [e] Getting Lots of Gil
+        [f] Getting Holy And The Ogre Axe
+        [g] Stocking Up On Magic
+        [h] Stocking Up On Weapon Levels
+        [i] Secret Spell Shop
+        [j] Airship Turbo Boost
+
+3. Boss Help
+        [a] Lieutenant
+        [b] Adamantaimai
+        [c] Borgan
+        [d] Red Soul
+        [e] Chimera
+        [f] Lamia Queen
+        [g] Behemoth
+        [h] Gorts
+        [i] Big Horn
+        [j] Great Worm
+        [k] Fire Gigas
+        [l] Ice Gigas
+        [m] Thunder Gigas
+        [n] White Dragon
+        [o] General
+        [p] Green Dragon
+        [q] Emperor and Guards
+        [r] Cursed Emperor
+        [s] Blue Dragon
+        [t] King Behemoth
+        [u] Red Dragon
+        [v] Zombie Borgon
+        [w] Tiamat
+        [x] Asta Lord
+        [y] Beelzebull
+        [z] Emperor (Final Boss)
+
+4. Locations
+        [a] Altea
+        [b] Gatea
+        [c] Phin
+        [d] Poft
+        [e] Palm
+        [f] Salmando
+        [g] Cave Of The Semite Waterfall
+        [h] Bofsk
+        [i] Ice Cave
+        [j] Kashuon
+        [k] Empire's Warship
+        [l] Dist
+        [m] Dist Caverns
+        [n] Arena
+        [o] Camp
+        [p] Mysidia
+        [q] Black Mask Cave
+        [r] Mysidian Cave
+        [s] Tower of Mysidia
+        [t] Whirlwind
+        [u] Paramekia Castle
+        [v] Jade/Pandemonium Castle
+
+5. Party Members
+        [a] Minh
+        [b] Josef
+        [c] Gordon
+        [d] Layla
+        [e] Richard
+        [f] Lionheart
+
+6. NPC's
+        [a] Hilda
+        [b] Scott
+        [c] Paul
+        [d] Cid
+        [e] Nellie
+        [f] Elena
+        [g] Borgan
+        [h] Dark Knight
+        [i] Emperor
+
+7. Spells
+        [a] Fire
+        [b] Thunder
+        [c] Blizzard
+        [d] Keal
+        [e] Blink
+        [f] Protect
+        [g] Shell
+        [h] Fear
+        [i] Vasna
+        [j] Esuna
+        [k] Silence
+        [l] Barrier
+        [m] Wall
+        [n] Change
+        [o] Holy
+        [p] Flare
+        [q] Ultima
+        [r] Death
+        [s] Dispell
+        [t] Teleport
+        [u] Raise
+        [v] Clouder
+        [w] Drain
+        [x] Fog
+        [y] Haste
+        [z] Curse
+        [aa] Sleep
+        [ab] Stun
+        [ac] Stop
+        [ad] Confu
+        [ae] Blind
+        [af] Toad
+        [ag] Break
+        [ah] Degeon
+        [ai] Minimal
+        [aj] Anti
+        [ak] Slow
+        [al] Aspell
+        [am] Aura
+        [an] Berserk
+
+[THANKS]
+
+a. This document was written by Luke Drelick as a brief hint sheet for FF2. 
+These are some strategies to make your characters into walking deities, and ake 
+life through this challenging game much easier.
+
+b. I'd like to give thanks to a number of friends right now, who all made this 
+info file possible.
+
+Brian Pacula - Providing lots of help on actually playing through FF2, and wrote 
+a great FF2 FAQ. Told me the Gil Grabbing trick.
+
+Demi, Flobbasko, BigWierd - For doing a fantastic job on the FF2 Neo 
+translation, which, when released, will give this document a burst in 
+popularity. :)
+
+Demi, once again - For putting this document on his page, and informed me of 
+what certain spells do.
+
+Tomo1657 - Helping me in select FF2 spots, told me the location of the Arena, 
+revealed the Airship Turbo Boost trick to me, and informed me on what certain 
+spells do.
+
+Tomas "Toma" Guinan - Telling me about a bunch of spells I forgot to add to this 
+document.
+
+Mo - Telling me what the Change spell does.
+
+c. ATTENTION! If you have ANYTHING to add to this document, email me at 
+"duky@worldnet.att.net" right away! If you want to use this document on your web 
+page, go right ahead, but please email me first to inform me, and don't change 
+the content of this document around.
+
+[THE TRICKS]
+
+a. Here we go, the ultimate FF2 cheat! This is a way to turn your characters 
+into walking gods in about an hour. You can do any variation of this cheat, but 
+here's my preference. First and foremost, buy a "Cure" spell for the 3 main 
+characters, as the 4th character you get could leave the party at
+any time. Second, make sure you have about 500+ gil (it all depends on how 
+powerful you are). Now, get into a battle against real weak enemies (Goblins, 
+Leg Eaters, Hornets), and start pounding on your own guys. Keep on pelting your 
+guys with damage, until they're all in their "low HP" position. Save your game 
+after every round, if you're using an emulator, just in case somebody dies. Win 
+the battle, and your guys should gain some HP, and possibly Strength points or 
+Defense points. Enter another battle, and constantly cast "Cure" magic on your 
+guys, who should have low HP. Once all their HP is full, or all their MP is used 
+up, win the battle, and you'll gain more MP. I've noticed that the amount your 
+Max HP/MP goes up increases when your Max HP/MP gets very high. My Frioniel has 
+4000 HP, and every time his HP goes up, it increases 80+ points! Finally, after 
+completing these steps, go to an Inn, rest up, then repeat as necessary. It's 
+helpful to be at extremely high HP, due to the 
+complexities of the game's dungeons. Don't power up that many spells, only Cure, 
+Fire, Ice, and Bolt, or whatever spells you use constantly. Weapon points go up 
+as you kill enemies, and when they reach 100, the character becomes more adept 
+at using his/her weapon, allowing for greater hits. Build up the weapon levels 
+while fighting the strongest possible enemies you can at whatever stage you're 
+on.
+
+b. If you're playing FF2 through an emulator (which is very likely, due to the 
+rarity of the actual cart), you probably know that the number of steps it takes 
+to get into an encounter is determined as soon as you enter 
+the level. The same holds true with FF1 and 3, but strangely, not with the 
+Dragonquest games. In case you're extremely lazy, are using an emulator with a 
+save state function, and don't want to get into a battle, do this trick. Walk, 
+and after every step, save the game. Keep doing this until you get attacked. 
+Load the save game RIGHT before you get attacked. Now, go to the Status Screen 
+and cast the Cure spell on one of your party members. Exit the Status Screen, 
+save your game again, then continue walking, until you get attacked again. Then, 
+repeat. Unfortunately, for this trick to work, one of your characters needs to 
+have gotten damaged, with HP lower than the max.
+
+c. Like in FF1, you are able to view the complete world map. When you're on the 
+world map screen, hold "B", and press "Select". This will bring up a screen with 
+a giant globe in the middle of it. Press a button on the direction pad to rotate 
+the globe in that direction, but be wary, as the rotation proceeds extremely 
+slowly. The flashing brackets indicate the party's current position, and any 
+flashing dots indicate important locales, such as towns, caverns, or castles. 
+Note that this trick only works on the world map, and AFTER you've gotten the 
+Ship (although you don't need to be on the Ship to see the map).
+
+d. The Chocobo is directly south of the Kashuon Castle. From the Castle, just 
+hold "down" on the controller, and you'll get to the Chocobo's forest. Catch it 
+(it's TRES fast!), and ride around!
+
+e. Brian Pacula told me a real cool trick to getting lots of gil. First, you'll 
+need to be slightly strong, with over 500 HP. Now, head a little ways north of 
+Phin. Around here lurk Magicians, and if you're unlucky, Land Turtles. The 
+reason why you need lots of HP is in case you run into these asses. Magicians, 
+when defeated, sometimes drop spell books. The spells aren't all that useful, so 
+sell them for cash. You'll gain a lot of cash this way, and be able to buy 
+powerful armor and weapons.
+
+f. In the village of Mysidia, you can buy many types of Magic, both White and 
+Black. This includes the powerful Holy spell, sold for a whopping 20,000 gil! 
+You're also able to purchase the Ogre Axe, which is an extremely strong axe 
+weapon. With this, and Guy with a weapon level of 6, I was doing 700 damage 
+every time! Even before you retake Phin, and it's required to travel to Mysidia, 
+you can go here and purchase these items. As soon as you get the Ship, just head 
+to Mysidia, southwest of Altea, and purchase 
+away! Be careful, as the enemies around here are STRONG! If you use the "skip an 
+encounter" trick, you'll make it here alright. These items will help you greatly 
+as you go to the Cave of Dist, and advance through the game.
+
+g. There is a way to stock up on Magic Levels extremely easily, but it requires 
+patience. Get into a battle with some enemies, preferably weaker ones, to begin. 
+When the person with the spell you want to use comes up (it has to be one of the 
+3 lead characters for this trick to work), cast the spell, target the enemy, and 
+all. Press "B" to cancel the last character's move, then recast the spell on the 
+enemy. Repeat as necessary. Every time you do this, your Spell Points will 
+increase by 1. Do this 100 times, and you'll gain another Spell Level. 
+Unfortunately, you can only gain 1 Spell Level per battle, and it takes an awful 
+amount of time to do this trick, but it's worth it!
+
+h. There's also a way to stock up on Weapon Levels. It's almost exactly like the 
+Magic Level trick. Get into a battle with some enemies, then have the person you 
+want to use Fight. Cancel that command, and have him use Fight again. Cancel, 
+then Fight, then Cancel, then Fight, etc. for 100 times, and you'll gain another 
+Weapon Level. Unfortunately, you can only gain 1 Weapon Level per battle, and it 
+takes an awful amount of time to do this trick, but it's worth it!
+
+i. There's a secret spell shop in Jade Caverns, where you can buy the spells of 
+Death, Berserk, Haste, and Flare, for a large price. Once you get to the bottom 
+of the HUGE waterfall in Jade, when you're wading in the water, walk underneath 
+the waterfall. In the middle of it, you'll hit something. Search it, and you'll 
+find the shop.
+
+j. If you think Cid's Airship goes too slow, there's a way to give it an extra 
+speed boost. Rapidly press the "B" button real fast 40 times. Then, you'll start 
+to go really fast. Hold down "B" and you can keep going at this speed. It makes 
+trips around the world A LOT easier!
+
+[BOSS HELP]
+
+a. The Lieutenant is the first boss you fight, guarding the Mythril in the Cave 
+of the Semite Waterfall. To defeat him, you should have a Fire spell up to level 
+2, and some guys with a Sword level of 4. Keep attacking him with Fire and your 
+weapons, and he'll die soon. Make sure you spend some time building up
+HP, so his attacks won't do that much to you.
+
+b. The Adamantaimai guards the Goddess Bell in the Ice Cave. Like it's name 
+implies, the Adamantaimai has defense of steel. Physical attacks on it will 
+hardly do anything, but 2 hits of a Blizzard spell at level 3 will put this 
+beast out of commision.
+
+c. Borgan, an Empire villain, will wreck your day up at the end of the Ice Cave, 
+after you get the Goddess Bell. If you've healed your guys after the rough 
+battle with the Adamantaimai, you'll be more than poised to finish off Borgan. 
+Keep attacking him, and Bye Bye Borgan!
+
+d. At the very top of Kashuon Castle, the Sun Flame is to be found, guarded by a 
+meanie, the Red Soul. This guy has the ability to cast a fire spell on the whole 
+party, but he's not as immune to attacks as the Adamantaimai was. Since you're 
+able to equip yourself with 2 items to use during a battle, equip 2 Hi Potions 
+for all your guys, save Gordon. In fact, don't worry about him throughout the 
+whole battle. Throw everything you've got at the Red Soul, and when your HP is 
+low, use Cure spells and Hi Potions. Ice spells also work real well, obviously.
+
+e. Before you can drop the Hiryuu's Egg into the pool underneath the Dist 
+Caverns, you'll need to battle from 1-4 Chimeras. First, if you're using an 
+emulator with instant state savings, keep on getting into battle with the 
+Chimeras, until a favorable number of them appears. If you do decide to fight 
+multiple Chimeras, battle them one at a time, throwing Ice spells and strong 
+attacks against them. You'll also want to get the Knight Armor for Frioniel, at 
+the bottom of Dist Caverns (take the southwest passage on the first floor, and 
+follow the passage through), which will lessen the Chimera's damage by a good 
+percent. With high HP, this boss shouldn't give you that much trouble.
+
+f. The fake Hilda is really a Lamia Queen in disguise. This chick is a real ass 
+to beat, too. First and foremost, she uses a Confuse spell, and a spell that 
+increases it's evade, causing your guys to miss. Secondly, if that wasn't bad 
+enough, she attacks you for 300 damage a pop, and then makes your guy 
+fall asleep, for 2-3 rounds. I cannot stress having multiple characters with the 
+"Esuna" spell at this moment. Whenever a guy is asleep, or confused, cast Esuna 
+on him, and cure like mad! Swords and the Fire Bow do a nice amount of damage, 
+but unfortunately, the Axe isn't too useful. I'd recommend that you resort to 
+spells once the Lamia uses her evade increase spell. Finally, make sure you have 
+HP in the 1500 range, and you'll win. Don't be surprised if you suffer a few 
+fatalities in this battle, though.
+
+g. After the Lamia Queen, you fight a real simple boss. Unlike in FF4, FF2's 
+Behemoth isn't all that powerful. He mainly attacks physically, doing only 200-
+300 damage. If you were able to beat the Lamia Queen, and have your characters 
+at their maximum HP, you should be able to beat the Behemoth without even 
+healing, using only physical attacks. Otherwise, enjoy the cool music that plays 
+when you fight this guy.*
+
+h. Gorts is the boss of the occupied Phin Castle. He deals around 400 HP per 
+hit, and is smart enough to take one guy on at a time, so be careful. I'm sure 
+Layla, after you get her in Phin Castle, is extremely weak, so put her in the 
+back row, and have her cast Bolt spells. Make your other guys attack Gorts like 
+crazy. After Gorts attacks one guy, get ready to cast Cure in the next round. He 
+only has about 2000 HP, so it won't take all that long.
+
+i. The Big Horn, boss of the Black Mask Cave, is laughably easy. I've even seen 
+him appear as a regular enemy over by Mysidia at times. If you have full HP when 
+you enter this fight, you should not lose. Use your strongest 
+weapons/spells/items/etc. on him, and in 3 or 4 rounds, he'll be dead! If you 
+ARE extremely weak, remember to heal the wounded characters.
+
+j. The Great Worm is the boss of the Leviathan. He's not too hard to defeat, but 
+can deal up to 900 points of damage to one character. First off, be sure 
+Frioniel, Maria, and Guy have 2000+ HP. Then, I'd suggest putting Richard, who 
+only starts with about 600 HP to begin with, in the back row so he won't get 
+damaged. To finish off the job, attack the Great Worm, and when your HP gets to 
+around 1000-1200 HP, heal. It shouldn't take too long to beat if you're careful.
+
+k. The Fire Gigas is the first of 3 Gigases in the Tower of Mysidia. He's not 
+hard at all. Attack, and use strong Blizzard spells. If you don't have strong 
+Blizzard spells, use Holy. His attacks only take about 350 damage on you.
+
+l. Now, the Ice Gigas is a bit harder than the Fire Gigas. His attacks take away 
+more HP, and he has more life than the Fire Gigas, but shouldn't pose a threat 
+at all. That's because...
+
+m. ...these guys are only softening you up for the mighty Thunder Gigas. The 
+Thunder Gigas is only weak against Clouder (which you can get in the Black Mask 
+Cave). Attacks don't do that much damage. My suggestion is to equip the Unicorn 
+Horn you found on the previous floor on your strongest 
+warrior, then use it. This'll cast "Haste" on him. Then, blast away with Clouder 
+and Holy. The Thunder Gigas can hit for up to 1500 HP, so be extremely careful. 
+He also uses strong Thunder spells on you.
+
+n. Guarding a treasure on the 9th floor of the Tower of Mysidia is the White 
+Dragon. You don't even have to bother defeating this boss, but you should, if 
+you're strong enough. The White Dragon attacks for around 500-1000 HP, so keep 
+your HP levels high, and put Richard in the back row. Use 
+Holy, and powerful physical attacks. What makes this battle so hard is that 
+you're probably worn out after the gigantic climb and the fight with the 3 
+Gigases. Defeating the Dragon, though, will net you both a Black Robe, for 
+Maria, and a Wind Flute.*
+
+o. On a high floor in the Whirlwind, you'll find the Diamond Armor and Diamond 
+Helm, in a treasure chest guarded by the General. This will be a relatively 
+simple fight. Although he can do 1200+ damage in a turn, he only attacks once, 
+and won't take more than 3 rounds to beat. Holy seems to work best for this guy. 
+You might want to heal your characters, never letting them drop below 1200 HP.
+
+p. At the next-to-last floor in the Whirlwind, you'll come across a treasure 
+chest with another Wind Flute in it. Unfortunately, you'll have to battle the 
+Green Dragon to get it. The Green Dragon isn't extremely difficult, but you'll 
+need to fully cure before attempting to grab the treasure chest the Dragon lurks 
+in. Normally, the Green Dragon attacks for about 1000 HP, but after you've worn 
+it down, it'll resort to using an attack called "Poison Breath", which will take 
+about 200 HP on everybody. When it comes to this point, forget about healing, 
+and finish the Dragon off.*
+
+q. Finally, you come face to face with the Emperor. He's a real wuss, but before 
+fighting him, you'll need to face off against 2 sets of Horsemen Corpses. 
+They're not hard, don't waste magic on them. Once you do that, you'll finally 
+face the emperor, 2 Horsemen Corpses, and a Wood Golem. First, attack the Wood 
+Golem with Holy. The Wood Golem can put a guy to sleep for a few rounds whenever 
+it attacks, so you'll want to deal with it first. Defeat it, and hack up the 
+Horsemen, like you did before. All this whole time, the Emperor sits in the 
+corner, using Haste on himself, and casting extremely weak thunder magic on the 
+party. Once you breech the Emperor's defenses, he'll start to attack, but for 
+only about 400 damage. Finish him off with something like 1500 HP worth of 
+damage, and you've won!
+
+r. In Paramekia Castle, you'll fight the Cursed Emperor. He lurks in a treasure 
+chest which holds the Thunder Spear. Make sure you have your guys up with full 
+HP, and use your strongest attacks on him.
+
+s. The Blue Dragon lurks in Jade, where he guards the Cat Claw, a powerful 
+dagger. He shouldn't pose much of a threat if you posess a Holy spell and an 
+Ultima spell. He'll take around 1200 damage off a party member, and at times 
+uses a thunder spell which will take 200 damage off of everybody. Don't worry 
+about these, and concentrate on attacking. If you haven't spent the time to 
+build him up, put Lionheart in the back row to protect him from attacks, since 
+he's probably weaker than your other 3 characters.*
+
+t. Use the EXACT same strategy on the King Behemoth as you did on the Blue 
+Dragon. In return for your efforts, you'll grab the Rune Axe.
+
+u. The Red Dragon will probably be the strongest and hardest enemy you'll ever 
+fight up to this point in the game. He'll give you 10,000 gil, a Dragon Shield, 
+and a Yoichi Bow (Yoichi = pure blood?) if you defeat him. I cannot stress the 
+importance of both full HP and MP when you find yourself face to face with this 
+dragon. Whenever it attacks, pray it uses Blaze 16 instead of a physical attack. 
+Its physical attacks take away up to 2000 damage on a party member. The dragon 
+also has a high amount of HP.*
+
+v. The Zombie Borgan, who guards the Genji Helmet, is a joke, compared to the 
+rest of the 3 bosses guarding treasure in the Pandemonium Castle. I beat him in 
+2 rounds, getting lucky and getting a pre-emptive strike the first round :) Use 
+Holy, a Rune Axe, Excalibur, and you'll beat him soon. His spells, like Flare, 
+are fairly weak, and shouldn't pose a threat. Has about 3000 HP.
+
+w. Remember Tiamat from the original Final Fantasy? This Tiamat is just as much 
+as a pain in the ass as its successor. His attacks, which consist of Blaze, 
+Lightning Strike, and Poison Breath will take away anything from 150-300 damage, 
+eating your party down a little bit at a time. Don't overlook the fact that this 
+guy will take a while to beat, so you should heal when you're low on HP. You'll 
+get a Genji Chestguard when you beat it.*
+
+x. Make absolute sure your HP is over 4000, and your MP is at maximum before you 
+fight the Asta Lord. It's another extremely challenging boss. Not only does it 
+take about 10 minutes to kill, but it has spells like Death, which will usually 
+take out one party member. It uses Death sporadically, mainly concentrating on 
+Clouder and Drain. These don't do too much damage, but they can wear you down. 
+As if all that's not bad enough, his physical attacks will take about around 
+3200 damage! You get a Ribbon for your heavy efforts, IF you win...*
+
+y. Guarding the powerful Genji Armor is the Beelzebull. It's not a very hard 
+boss, at least compared to the Asta Lord! Use a purely physical strategy, but be 
+careful, because it can immobalize you with Stun spells, or Confuse one party 
+member. If you don't have enough HP, exit from Pandemonium Castle, rest up, then 
+try attacking this fool again...*
+
+z. You're now face to face with the evil Emperor. Using this strategy will 
+greatly increase your chances of winning.
+
+Character	Row	HP	MP	Weapon		Magic		Item
+--------------------------------------------------------------------------------
+------------------------------------------------
+Frioniel		1	4000	0	Masamune	None		Bacchus Wine, Elixir
+Maria		2	4000	400	Yoichi Bow	Holy 16		Wind Flute, Elixir
+Guy		2	4000	400	Rune Axe	Ultima 16	Wind Flute, Elixir
+Lionheart	1	4000	0	Excalibur	None		Bacchus Wine, Elixir
+--------------------------------------------------------------------------------
+------------------------------------------------
+
+Have Frioniel attack with the Masamune, Maria cast Holy from the back row, Guy 
+cast Holy from the back row, and have Lionheart attack with the Excalibur. Use 
+Bacchus Wines to speed up Frioniel and Lionheart the first round of the battle. 
+If any character is low on HP/MP, use their Elixir, and if they're missing an 
+Elixir, use their Wind Flute to do minor (about 200) damage with the Whirlwind 
+attack. I'd say, as an estimate, he has about 10,000 HP. Good luck, for you'll 
+need it!*
+
+*These bosses have the REAL GREAT FF2 Boss Music play while fighting them!
+
+[LOCATIONS]
+
+a. It's OBVIOUS where Altea is! You start here :)
+
+b. Gatea town is directly below Phin, and north of Altea. It's at the 
+intersection of 2 rivers, one preventing direct passage to Phin.
+
+c. Phin is right north of Gatea town. Unfortunately, there's a river blocking 
+direct passage to Phin, so you'll need to cross the bridge west of Gatea town, 
+and head down the river coastline, sidetracking until you find a bridge. Now, 
+head back to Phin.
+
+d. Once you get the Canoe, head to the lake directly north of Altea. From here, 
+sail east, through the mountainous passage, and you'll come to Poft, the Pirate 
+Town.
+
+e. There are 2 ways to get to Palm. The easiest is to take a ferry in Poft, for 
+32 gil. The other way is to head directly north of Palm, following the mountains 
+up, then when the mountains split, head east until you come to the mountain that 
+looks like a fish, and go down to Palm.
+
+f. Salmando is to the northwest of Palm. From Palm, head directly north. Then 
+you'll see a snow field, blocked by mountains. Follow the mountains west, and 
+you'll come to a village nested in the mountains. This is Salmando. You can also 
+get to Salmando via Cid's Airship.
+
+g. From Salmando, follow the mountains west, until you come to the shoreline. 
+Now, you have the choice of going up and down. Head down, and nestle the Canoe 
+in the river that appears before you. Take the river straight east until you 
+come to a cave over a waterfall. This is, of course, the Cave of the Semite 
+Waterfall. You can also get to the cave via Cid's Airship.
+
+h. Bofsk is quite a distance from any town, so it's best to hitch a ride via 
+Cid's Airship to here. It's located directly east of Palm village, but you'll 
+need to head north to get over the mountains and ocean that block the two 
+villages.
+
+i. The Ice Cave is directly north of Salmando, nestled in the big Snow Field. 
+After you've gotten the Pass in Bofsk and the Ice Boat in the Cave of the Semite 
+Waterfall, you can get onto the Snow Field and head to the cave. To get to the 
+Snow Field, though, you'll need to enter from the west.  Directly north of the 
+river you took to get to the Cave of the Semite Waterfall is a valley through 
+the mountains, where you launch the Ice Boat from.
+
+j. No matter where you are, it's a real long trek to Kashuon. It's nestled in 
+the middle of a circular group of mountains, far south of Bofsk. Your best bet 
+is to take Cid's Airship here, although you'll have a helluva time walking back 
+to Altea.
+
+k. The Empire's Warship is FAR north of Altea and Phin. It'll be a very long 
+travel to get to the Warship, so purchase 2 Cottages, because you'll need to go 
+round-trip. Slightly north of Phin, the strength of the enemies increase 
+drastically, and you'll be fighting Land Turtles, Magicians, and more. Just 
+continue onward, though, and you'll eventually come to the Warship.
+
+l. Dist is on a small island directly west of Bofsk. Take the Ship you get from 
+Layla to this island, and dock. It's in the center of the island, but if you're 
+having trouble finding it, remember, you can now use the World Map to find it!
+
+m. Dist Caverns is easy to find. Just head directly north of Dist, in the 
+valley. :)
+
+n. The Arena is out of the way. It's to the south of Kashuon. Go into the 
+desert, head straight east, and follow the mountains all the way down, until you 
+come to the small arena. Dock your Ship over by where the mountains start, as 
+you can get to the continent Kashuon's on by heading directly west of Altea.
+
+o. After saving Hilda, her and Gordon will be waiting in a camp, ready to attack 
+Phin. The last remaining people in Altea and Batea tell you that the camp is to 
+the west of Batea. Cross the bridge to the west of Gatea, and you'll find the 
+camp, on the other side of the river.
+
+p. Mysidia is fairly tough to find, as it's not on the map, but you're able to 
+go here after you get the Ship. Dock your boat to the southwest of Altea, east 
+of the Arena, and beat it to the River. Take the River over to the mountains, 
+and then get out. Head down the west side of the mountains, and you should see a 
+small village. This is Mysidia, village of the Magicians.
+
+q. The Black Mask Cave is on a small island to the north of the Ice Field.The 
+island is one big mountain, with a cave in the middle of it. Keep checking the 
+world map to find the location of it.
+
+r. The Mysidian Cave is directly east of Mysidia, in the center of mountains 
+shaped in a hollow circle pattern. It's blatantly obvious to where this is if 
+you use the world map function.
+
+s. The Tower of Mysidia, and hence, Leviathan, are directly west of Altea, in 
+the water, with a circular shaped landmass surrounding it.
+
+t. The Whirlwind is directly northeast of Phin Castle.
+
+u. The Castle of Paramekia is directly north of the Arena. Take your Airship, 
+and descend on top of it to get in.
+
+v. Jade is a portal that will take you to Pandemonium Castle, a hideous castle 
+said to be linked to Hell itself. It's a portal far east of Mysidia, at the end 
+of a peninsula. After beating Jade, you'll finally come face to face with 
+Pandemonium Castle, and begin your final search for the Emperor.
+
+[PARTY MEMBERS]
+
+a. Minh is Hilda's magician. He is equipped with assorted white magic spells 
+when you get him at the beginning of the game, and will prove a valuable ally to 
+you while you try and get the Mythril in the Cave of the Semite Waterfall. Later 
+on, Hilda sends him on a task to fetch the powerful magic, Ultima, from  the top 
+of the Tower of Mysidia. Will he make it back?
+
+b. Josef is a man who the party meets while trying to grab the Mythril. He lives 
+in Salmando and knows the way around the Ice Field, so he accompanies you there. 
+He hates Paramekia, so he agrees to help you.
+
+c. Gordon is the brother of Hilda's fiancee, Scott, and prince of Kashuon 
+Castle. He joins you to help light the Eagle Torch for the party, and cleanse 
+the occupied Castle free of all monsters. He starts out with 64 HP, and no 
+spells. Put bluntly, he's crap. He'll die after the 2nd fight you get into, and 
+he's better off left dead, IMHO.
+
+d. Layla is the captain of the Pirates, and offers to lend you her ship to go to 
+Dist. But are her intentions clear? Apparently, not. She immediately attempts to 
+rob the party, but when she realizes you're fighting Paramekia, she joins. Leila 
+posesses about 350 HP, and a Thunder spell. This'll help you out in your trip 
+throughout the seas.
+
+e. Richard is the last surviving Dragoon, swallowed by Leviathan. He joins your 
+party when you show him the Crystal Rod you've found in the Mysidian Cave. He's 
+fairly strong, equipped with the Wind Sword, but posesses no spells.
+
+f. Lionheart is your permanent fourth character. He is lost in the beginning of 
+the game after your defeat against the Black Horsemen.
+
+[NPC'S]
+
+a. Hilda is the Princess of Phin. Unfortunately, her family was kicked out of 
+Phin by the Empire, and her parents were slain, so she escaped. She now heads 
+the Resistance movement in Altea, a small town directly south of Phin. After 
+reviving youu, Hilda will send you out on your mission to defeat the Emperor, 
+and will play an important role in the story.
+
+b. Scott is Hilda's fiancee. He's hidden in Phin, where he's breathing his dying 
+breath. Fading away, he gives the party a Ring to show to Hilda, and tells the 
+party he won't make it.
+
+c. Paul is the master thief, who steals from the Empire. He always returns 
+favors, so after you rescue him in the Cave of the Semite Waterfall, he'll be 
+thankful to you, and pay you back much later in the game.
+
+d. Cid is the famous Airship man. He'll allow the party to use his Airship 
+service to get them where they need to go in the beginning of the game, and 
+later, after the Empire attacks, he bequeaths his Airship upon you.
+
+e. Nellie is Josef's daughter.
+
+f. Elena is the wife of the last surviving Dragoon, Richard. She tells the party 
+about the Dragoon race, and the flying dragons. Later on, she'll give Richard 
+and the party the Excalibur, a powerful sword.
+
+g. Borgan's the Empire confidant. He's a real jerk, and will lead your party 
+into trouble. Luckily, he's a weakling...
+
+h. The Dark Knight is a mysterious recruit to Empire Paramekia, who's past is 
+surrounded in mystery. He appears at certain times to mysteriously taunt the 
+party.
+
+i. The Emperor is the main villain of the game. He built up Paramekia to crush 
+every area in it's way. Some believe he gets his powers from the gates of Hell 
+itself...
+
+[SPELLS]
+
+a. Fire is a spell that you'll use a lot on the course of your mission, 
+presumably against Ice-based creatures. It sends a small blaze at enemies.
+
+b. Thunder will be another spell you'll use frequently throughout your 
+adventure, especially when you get the Ship. It sends a bolt of electricity to 
+strike enemies.
+
+c. Blizzard is your third most invaluable spell. It'll cover the enemy in white 
+snow.
+
+d. Keal is probably the most important spell in the game, bar none. It'll heal 
+your party members.
+
+e. Blink nullifies the next few physical attacks from the enemy. 
+
+f. Protes increases the defense of a party member. Not too useful, unless you've 
+got low HP.
+
+g. Shell increases your defense against magic. 
+
+h. Fear strikes the enemies with immense fear, increasing their chances of 
+running away from you.
+
+i. Vasna heals all the party members, but it's much weaker than the regular 
+Keal. 
+
+j. Esuna is an important spell. It cures you of any status ailment inflicted on 
+you.
+
+k. Silence will attempt to mute the monsters, so they won't be able to cast 
+spells.
+
+l. Barrier increases your defense against physical attacks, stronger than Protes 
+does.
+
+m. Wall puts a wall up on your party, reflecting magical attacks used against 
+them.
+
+n. Change swaps the caster's HP/MP with whomever you use it on.
+
+o. Holy sends a powerful white explosion to scorch the enemy, regardless of 
+his/her Element.
+
+p. Flare is a powerful fire ball which is sent at enemies. This spell is found 
+atop the Tower of Mysidia, or in a secret shop at the base of the waterfall in 
+Jade (see above).
+
+q. Ultima will send a massive green light to scorch all opponents. This is the 
+strongest spell in the game, but you can only get it atop the Tower of Mysidia.
+
+r. Death will bring an enemy to an instant death.
+
+s. Dispell removes any power up spells the enemy casts on itself.
+
+t. Teleport allows you to escape from a dungeon, but makees the caster extremely 
+weak. When it's level raises, though, it puts less and less of a strain on the 
+caster.
+
+u. Raise revives a character. VERY important spell.
+
+v. Clouder (sometimes called Aero) sends massive waves of purple clouds to 
+damage the enemy. Can be found in the Black Mask cave.
+
+w. Drain drains the HP out of one opponent, and sends it to the caster.
+
+x. Fog is just a stronger version of Mute, and if this gets used against you, 
+the effects will stay with you even after the battle's over. 
+
+y. Haste increases the attack power of the person it's cast on. Extremely 
+important spell, and essential in the boss battles.
+
+z. Curse weakens the enemy's attack power.
+
+aa. Sleep makes the enemy fall asleep, thus it can't attack until it's damaged.
+
+ab. Stun resembles the Sleep spell, except that the character stays frozen after 
+attack.
+
+ac. Stop stops the opponent, like Stun.
+
+ad. Confu confuses the enemy, so it attacks itself and other enemies.
+
+ae. Blind lowers a character's hit rate, and if your party member gets attacked 
+with it, it gets to wear those funky shades :)
+
+af. Toad turns an enemy to a wussy frog that runs away.
+
+ag. Break turns a character to stone. Reversed with a Gold Needle.
+
+ah. Degeon warps you up 1 floor of the dungeon.
+
+ai. Minimal shrinks a character, bringing attack and defense down dramatically.
+
+aj. Anti takes away MP, but doesn't absorb it, like Aspell.
+
+ak. Slow lowers the number of attacks a character can make with his weapon.
+
+al. Aspell takes away enemy MP, absorbing it.
+
+am. Aura changes the colors of the characters, but I don't know if this has any 
+real effect asides from that.
+
+an. Berserk makes an enemy go crazy, only attacking.
+
+*Note that the effectiveness of ALL spells is determined by the level of the 
+spell (1-16)!
+
+[END/ (C) 1998 LUKE DRELICK/ http://rpgocean.hypermart.net]

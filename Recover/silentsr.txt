@@ -1,0 +1,638 @@
+From tsr@www.komkon.org (|tsr)
+
+NES-IV-USA
+
+Ultra(r) Games
+
+How to play Silent Service(tm)
+
+---
+
+Find 'em, chase 'em, sink 'em!
+
+Just above the beat of your heart, you hear hostile propellors churning
+through calm seas. At any second the first depth charge will explode. Your
+watch ticks. Sweat rolls into your eyes. As the enemy's sonar ping intensifies
+you hold your breath, realizing that the pressure of an unmerciful sea is all
+around you.
+
+Such is your life as a commander in the elite Silent Service Force, a detailed
+simulation of World War II submarine missions in the bloody South Pacific.
+
+From the moment you dive into action, you'll be confronted with the same
+information, problems and resources available to an actual sub captain. Your
+primary mission will be to take on the Japanese Navy in their home waters and
+to neutralize the Japanese Merchant Merine.
+
+With a limited number of torpedoes and fuel, your goal is to sink a maximum
+tonnage of enemy ships and bring your sub safely back to base. Your overall
+evaluation from Fleet Command will be based on the number and types of ships
+you sink.
+
+So go get 'em commander. Your crew is counting on you... because they know if
+you fail, they'll become instant shark bait!
+
+US Attack Sub
+The US Fleet Submarine of the Second World War was an outstanding weapon. With
+200 tons of diesel fuel and a cruising range of 12,000 miles, no area of the
+Pacific was safe for enemy shipping.
+
+---
+
+Mission options
+There are three types of scenarios. "Torpedo/Gun Practice" places you outside
+the America base at Midway Island. Four old cargo ships are anchored there as
+torpedo and gunnery practice targets. "Convoy Actions" recreate a variety of
+actual submarine attacks on a convoy. "War Patrols" allow you to command an
+entire patrol, putting out to sea from submarine bases at Midway, Brisbane or
+Fremantle, continuing through a number of convoy actions, and concluding with
+a victorious return. (Or sunken dreams!)
+
+To select your mission option, press the Control Pad Up or Down and lock in
+your decision with the A Button.
+
+Skill levels
+There are four skill levels: MIDSHIPMAN (beginner), LIEUTENANT, COMMANDER
+(designed to be the most historically correct), and CAPTAIN (expert). The
+skill level effects the accuracy of torpedo runs, damage from depth charge
+attacks, and the skill of enemy lookouts and sonar operators.
+
+Lock in your skill level by pressing the A Button.
+
+Combat difficulty levels
+
+You can customize your mission with various "combat levels." Each level
+introduces an element that's more realistic and more difficult. They include:
+
+Limited visibility. If this level is selected, enemy ships which are beyond
+ radar/sonar range won't appear on the map displays.
+Convoy zig-zags. If this level is selected, enemy convoys will "zig-zag"
+ (change course) at regular intervals. If this level is not selected, cargo
+ ships will steam straight ahead unless they are attacked by torpedoes or
+ encounter land masses.
+Dud torpedoes. Some of your torpedoes may be "lemons" if you select Dud
+ Torpedoes instead of No Dud Torpedoes. Dud torpedoes may hit the enemy but
+ will not explode.
+Port repairs only. If this level is selected (instead of Repairs Under Fire),
+ repairs will no longer occur automatically while in battle or on patrol.
+Expert destroyers. IF this level is selected (instead of Standard Destroyers),
+ certain enemy convoys will be escorted by "expert" destroyers. These escorts
+ are more persistent and have better trained sonar operators.
+Convoy search. If this level is selected (instead of Close convoys), convoys
+ will not always appear within radar range. You'll need to search them out.
+ Far off convoys are best sighted by performing a 360 degree periscope/
+ binocular sweep of the horizon.
+
+To choose your levels, press the Control Pad Up or Down, then make your
+selections by pressing the A Button.
+
+Overall difficulty
+
+The skill level and difficulty levels you select combine to produce an overall
+difficulty factor from 1 to 9. This difficulty and the tonnage you sink will
+determine your ranking in the "Submariner's Hall of Fame" at the conclusion of
+your mission.
+
+---
+
+Terminology
+
+Port: the left side of the ship.
+Starboard: the right side of the ship.
+Bearing: the direction you are looking.
+Heading: the direction your ship is going.
+
+---
+
+Control functions
+
+Raise or Lower Periscope: This command raises scope if it's down, and lowers
+it if it's up. It also sets the visual bearing to be the same as the sub's
+heading. You can use the periscope, in daylight only, down to a maximum depth
+of 44 feet.
+
+Throttle (Speed): Choose from Dead Stop (0) to Full Speed Ahead (4).
+
+Reverse: Use to reverse engines for an emergency escape. To change speed while
+in reverse, adjust the Throttle, then select Reverse again.
+
+Guidance Control: To dive, move the arrow onto the down pointer of the
+Guidance Control. To surface, move the arrow onto the up pointer of the
+Guidance Control.
+
+For left rudder, move the arrow onto the left pointer of the Guidance Control.
+This turns the sub toward the left (port). If looking at the Map screen, you
+will see the sub turn counterclockwise.
+
+For right rudder, move the arrow onto the right pointer of the Guidance
+Control. This turns the sub toward the right (starboard). If looking at the
+Map screen, you will see the sub turn clockwise.
+
+To cancel all dive and turn commands, move the arrow to the center of the
+Guidance Control and press the A Button.
+
+You can also blow emergency tanks by holding down the B Button and pressing
+the A Button on the player 2 controller. This can halt an otherwise fatal
+dive, and usually brings your sub to the surface. You may perform this only
+once per engagement.
+
+---
+
+Time scaling defined
+
+In order to ensure accuracy, all ship movements, sightings, torpedo runs and
+dive rates are recalculated every two seconds of simulated game time. However,
+under most conditions it is desirable to speed up the action somewhat.
+
+Normally the simulation proceeds at four times real-time: One minute of game
+time takes 15 seconds. If the "F" is selected on the clock, the time scale is
+doubled. Repeated pressing will continue to increase the Time Scale up to a
+maximum of 32 times real times (ie. one hour of game time will take 2 minutes
+at time scale 8).
+
+To increase the Time Scale, move the arrow to the "F" of the Time Scale and
+press the A Button. Each subsequent key press doubles the speed, to a maximum
+of 32 times real time speed (three key presses).
+
+To return to the normal Time Scale, move the arrow to the "N" on the Time
+Scale and press the A Button. Note: You automatically return to normal time
+when detected by the enemy or when you fire a torpedo or the deck gun.
+
+---
+
+The conning tower menu screen
+
+The Conning Tower screen acts as a menu screen. From this screen, you may
+select any of the four detailed battle station screens: Instruments and
+Gauges, Maps and Charts, Periscope/Binoculars, and Damage Reports. (See below)
+Use the arrow to position the captain at the desired battle station, then
+press the A Button. Moving the arrow to the Map Table, for example, moves the
+captain to the table. Press the A Button and the Map screen will appear.
+
+You may also select two special functions from this screen. If you are playing
+a Training or Convoy Action scenario, the "End of Game" function will end your
+mission. If you are playing a War Patrol scenario, the "Continue Patrol"
+function ends the current convoy battle and returns you to the patrolling
+screen. You cannot end the battle if you are being tracked by the enemy
+escorts, have torpedoes active, or if an enemy ship is still sinking.
+
+The "Quartermaster's Log" option (located at the bottom right corner of the
+command compartment) is used to review your accomplishments during the current
+patrol.
+
+When you are at the Conning Tower screen, the simulation is paused. Note:
+some selections are unavailable under certain conditions.
+
+To choose the Conning Tower Menu, press the Select Button. Once in the Conning
+Tower, make selections by moving the arrow to different areas (ie. the
+periscope, the map, etc.) and then press the A Button.
+
+---
+
+Combat controls
+
+These controls are at your command when at Periscope/Binocular Battle Stations
+(see below). Once again, move the arrow to your selection and press the A
+Button.
+
+Attack controls
+To identify the target under the crosshairs on the periscope/binoculars, move
+the arrow to the Target ID.
+
+To fire a torpedo at the target under the white crosshairs, move the arrow
+onto the Torpedo Firing Control. Bow or aft tubes will be selected
+automatically, depending on which ones face the target.
+
+To fire the four-inch deck gun at the target under the white crosshairs, move
+the arrow onto the Deck Gun Firing Control. The gun may be fired only when
+your sub is on the surface.
+
+Note: Four torpedoes and gun shells (total) may be active at any one time.
+
+To increase gun deflection, press the Player 2 Control Pad UP. Each additional
+press adds 25 more yards to the deflection. You want to increase deflection
+when the target is moving away from you. To decrease the gun deflection, press
+the Player 2 Control Pad DOWN. Each additional press subtracts 25 yards from
+the deflection. You want to decrease deflection when the target is moving
+toward you. (See DECK GUN below)
+
+To rotate the periscope view left, press the Player 2 Control Pad LEFT. To
+rotate the periscope view right, press the Player 2 Control Pad RIGHT.
+(Rotating the view changes its bearing.)
+
+To release debris and oil, use the Player 2 Control Pad and hold down the A
+Button while you press the B Button. The debris will rise to the surface and
+may convince the enemy that your sub has sunk. You may release debris only
+once per engagement.
+
+---
+
+Battle station screens
+
+Silent Service contains multiple Battle Station screens. On each screen
+different information is available and different commands can be entered. The
+battle stations represent the main locations from which the captain manages
+the battle. Not all controls are operable from all screens. Be sure to note
+what controls are available on each screen.
+
+War patrol navigation maps battle station (War Patrol scenarios only)
+
+When you select a War Patrol scenario you start out on this screen, which
+displays a map of the South Pacific Ocean. You are free to explore any area of
+the map. Your ship is a tiny white dot near the starting port of Fremantle,
+Brismane or Midway. The patrol screen simulates the time required to proceed
+from your base to enemy-controlled waters, as well as the patrolling activity
+between engagements. (A typical patrol lasted up to two months.)
+
+Moving on the War Patrol map: Using the Control Pad, move the arrow in the
+direction you wish to go. Time moves quickly while patrolling. The ocean
+changes from light to dark to represent day and night.
+
+Finding the Enemy: When the ocean or screen border turns red, you've spotted
+a convoy. Press the A Button to exit from patrol if you want to engage in
+battle. Note: Enemy ships are generally found along the heavily travelled
+convoy routes and close to land. Valuable tanker and troop ship convoys are
+more likely to be found near Japan.
+
+Getting Home: The submarine bases at Midway Island, Fremantle and Brisbane are
+indicated by flashing dots. When you have reached your base and the ocean
+turns green, you can return to port. Press the A Button to end the patrol and
+record your score in the Submariner's Hall of Fame.
+
+Important Note: No other controls function on the patrol navigation screen.
+To make other controls you must exit the War Patrol.
+
+---
+
+Instruments and gauges battle stations
+
+
+  a    d    e   f
+    bc          g
+      i  k  l   n
+  h   j
+            m   o
+
+A. Battery Level - indicares electricity remaining in the battery. Recharge by
+   surfacing. A fully charged battery allows one hour of high-speed maneuvering
+   underwater and 5 to 6 hours at slow speed. If your battery is drained,
+   you'll be unable to move underwater.
+
+B. Battery Charge Light
+
+C. Battery Drain Light
+
+D. Speed - Maximum surface speed is 20 knots. Maximum submerged speed is 10
+   knots.
+
+E. Depth - Zero means sub is on the surface. Maximum diving level is 500 feet.
+
+F. Periscope Indicator - Green means it's up, black means it's down.
+
+G. Torpedo Ready Indicator - Green means forward and aft torpedo tubes are
+   ready. Torpedo reloading takes 10 minutes per tube. The number under each
+   column indicates how many torpedoes remain in addition to those already in
+   the the tube. The number alongside shows the number of deck gun shells
+   remaining.
+
+H. Fuel Levels - Shows the amount of fuel in the three main tanks.
+
+I. Depth Under The Keel - Depth from sub to ocean's bottom. When gauge reads
+   zero you'll run aground.
+
+J. Water Temperature - When the dial is in the blue section, it indicates the
+   submarine is below a thermal gradient layer. Note: Hiding below a thermal
+   gradient layer can provide extra protection against the enemy's counter
+   attack.
+
+K. Christmas Tree - Indicates status of hull openings. Green means closed, red
+   means open. Hull openings close automatically when you dive.
+
+L. Compass - Indicates direction sub is heading.
+
+M. Throttle - 0-4 settings: All Stop, 1/3, 2/3, Full Speed and Flank (reverse)
+   Speed.
+
+N. Clock - Shows time of day. Dusk in the Pacific is from 7:00 pm (Hour 19) to
+   8:00 pm (Hour 20). Dawn is from 5:00 am to 6:00 am.
+
+O. Dive Bubble - Shows whether the sub is diving or surfacing. The bottom line
+   displays your current speed (in knots), depth (in feet) and heading (in
+   degrees).
+
+---
+
+Maps and charts battle station
+
+The maps and charts screen displays information available from the navigator
+and the tracking party. Map information, visual sightings, radar and sonar are
+combined on this screen to show the location of your submaring, torpedoes and
+all known enemy ships. Remember that your submarine is represented by a white
+dot. Torpedoes and enemy ships are black dots, and green areas represent land
+masses and islands.
+
+Note: Sometimes there are enemy ships out there that you have not yet
+detected. These undetected ships do NOT appear on the map. Your lookouts
+aren't always reliable - it's wise to leave the Maps Battle Station and look
+around the horizon with the periscope/binoculars.
+
+Zoom: You may enlarge or shrink the scale of the map to any of four levels of
+detail by moving the arrow onto the Small Scale or Large Scale Map and
+pressing the A Button. The initial map shows the entire South Pacific. The
+Patrol Area Map shows a 500 by 300 mile area. Zoom again and you'll see the
+Navigation Map, which shows 60 by 40 miles. The most detailed map is the
+Attack Plot Map, which shows an area of 8 miles by 5 miles. Ships are
+displayed on the Attack Plot.
+
+Note: When the screen begins flashing, the enemy is either within range or you
+may have wandered off the map. You'll also notice, as you patrol the seas,
+that the map color changes from dark to light. This represents the passing of
+days and nights.
+
+Controls Available: All Submarine and Time and Scale controls, plus "Release
+Debris".
+
+---
+
+Periscope/binoculars battle station
+
+This screen displays the view through the attack periscope during daylight/
+dusk/dawn, and the view from the bridge's Target Bearing Transmitter
+Binoculars at night. The viewing area shows an enlarged image of visible ships
+and land. This screen may be selected when the sub is on the surface, or at
+periscope depth (44 feet or less) during daylight hours.
+
+Torpedo Data Computer: When the crosshairs turn white the Torpedo Data
+Computer is activated and target tracking is displayed. The TDC displays the
+range to the target, the target's speed, and the target's course. To fire a
+torpedo, fire the deck gun or request information, move the arrow onto the
+appropriate control and press the A Button.
+
+---
+
+Damage reports battle station
+
+This screen indicates the nature of any damage to the submarine. Damage may
+be caused by depth charge attacks or enemy gunfire. Types of damage include:
+
+Bow/Aft Torpedo Damage: Torpedo tube doors have been damaged. The torpedoes
+will not fire.
+
+Periscope Damage: The periscope housing has been damaged. The periscope cannot
+be lowered or raised.
+
+Dive Plane Damage: The bow and stern dive planes have been damaged. The
+submarine will only dive or surface at half its normal rate.
+
+Fuel Leaking: The external fuel tanks are leaking. Fuel will be consumed at
+twice the normal rate. In addition, fuel rising to the surface will make the
+submarine easier to detect by enemy destroyers.
+
+Engine Damage: The main diesel engines are damaged. Surface speeds are reduced
+by half.
+
+Machinery Damage: Internal pumps and engines are damaged. The extra noise
+makes the enemy's sonar tracking easier.
+
+Battery Damage: Batteries are used up at twice the normal rate when submerged.
+If the "Port Repairs Only" combat level is not selected, repairs are attempted
+by the crew automatically.
+
+Water Damage: If your sub is taking on water, the leakage rate is indicated in
+gallons per second (GPS). Leakage will often cause your sub to descend,
+although the dive planes may be able to counter-act the dive. This information
+is provided in the top right hand side of the Damage Reports screen.
+
+---
+
+Messages and sounds
+
+You may receive messages at any time from various members of the crew. They
+will appear on the top line of the screen. You will also hear the sounds of
+your own engines, nearby ships and torpedoes.
+
+Sonar reports destroyers closing ("ping" sound)
+Sonar reports depth charges dropped ("splash" sound)
+Depth charges exploding! (explosion sound)
+Lookouts report destroyers firing (gun sound)
+Shell hit! Sub damaged (whistling explosion sound)
+Bow (aft) torpedo fired! 135' track (torpedo launch, torpedo motor sound)
+Deck gun fired! (gun fire sound)
+Sonar reports distant explosions (distant explosion sound)
+Warning: test depth exceeded (hull creaking sound - check the Damage Reports
+ screen!)
+We have run aground! (grinding sound)
+Repairs completed (check the Damage Reports screen)
+Blow emergency tank! (alarm sound)
+Collision! Abandon ship! (grinding sound)
+
+Completing your mission
+
+Convoy Action missions end when you select the "End of Game" option. War
+Patrol missions end when you return to one of your bases. Either mission
+category ends ifyou are sunk or beached. In all cases you will see a screen
+displaying all ships which you have sunk and your final rank.
+
+All players will rank at least Ensign. Higher levels are Lieutenant JG,
+Lieutenant, Lieutenant Commander, Commander, Captain, Vice-Admiral, Admiral,
+Fleet Admiral and ultimately WGSC (World's Greatest Submarine Captain)!
+
+---
+
+Convoy action scenarios
+
+Convoy action scenarios are shorter missions which place you in specific
+historical situations. They are useful for becoming acquainted with the
+features of this simulation, practicing specific tactics or when time is
+short.
+
+Plunger in the inland sea (Lt. Commander DC White)
+Day/Submerged
+Jan. 18, 1942, Latitude 33-30N, Longitude 135-00E.
+The USS Plunger, patrolling off the southern coast of Japan, sights an
+escorted cargo ship steaming east at high speed. This scenario gives you the
+opportunity to set up a torpedo firing solution against a moving ship.
+Remember that even though the Torpedo Data Computer calculates the correct
+lead gyro angle to hit the target, it is often a good idea to fire a spread of
+torpedoes in case your targes changes course unexpectedly.
+
+Wahoo vs. Convoy (Lt. Commander "Mush" Morton)
+Day/Surface
+Jan. 26, 1943, Latitude 2-37N, Longitude 139-42E.
+Off the New Guinea coast, USS Wahoo sights a small Japanese convoy. The
+situation is a submariner's dream: an unescorted convoy including a troop ship
+and a large oil tanker. However, the convoy has radioed for help and a
+destroyer is on the way! Your objective is to strike quickly and cause as much
+damage as possible. Be sure to use your aft torpedoes if your bow tubes are
+empty.
+
+Hammerhead at Borneo (Commander JC Martin)
+Night/Radar
+October 1, 1944, Latitude 6-30N, Longitude 116-11E.
+SJ radar picks up a large escorted convoy as the USS Hammerhead patrols the
+northern coast of Borneo. The tanker, one of Japan's dwindling handful
+remaining at this stage of the war, should be your primary target. This
+scenario introduces night combat against an escorted convoy. You should take
+care to avoid being spotted as long as possible. Use moderate speeds, keep a
+minimum profile toward the escort, and try to time your attack so that the
+escort is on the other side of the convoy.
+
+Searaven at Toagel Mlingui (Commander H. Cassedy)
+January 13, 1943, Latitude 9-12N, Longitude 130-38E.
+Somewhere between the Philippine Islands and the Japanese naval base at Truk
+Lagoon, USS Searaven comes across a northbound convoy. You are in a bad
+position: astern of the convoy in daylight.
+
+Tautog at night (Lt. Commander Sieglaff)
+Radar/Visual Night
+March 16, 1944, Latitude 42-25N, Longitude 144-55E.
+Off the eastern coast of Japan, USS Tautog encounters a Japanese convoy. Night
+attacks depend very much on the prevailing visibility conditions. During poor
+visibility, a low lying sub can safely close with its target on the surface.
+If visibility is good, however, more caution is required.
+
+Grayback in the China Sea (Lt. Commander JA Moore)
+Submerged Radar
+October 21, 1944, Latitude 26-48N, Longitude 124-56E.
+A very difficult situation. Three radar-equipped escorts are guarding the
+convoy! Your best hope is a dawn or dusk periscope attack.
+
+---
+
+War patrol scenarios
+
+The War Patrol scenarios are the true test of a submariner's skill. Your
+mission is to scour the Japanese convoy lanes, finding, attacking and sinking
+the maximum tonnage of enemy shipping. You will encounter a wide variety of
+situations, opportunities and dangers. Note that each submarine is equipped
+differently - your tactics should take into account the strengths and
+weaknesses of your sub.
+
+For an overview of Japanese convoy lanes, see the map. All of these convoy
+lanes are active in scenarios that occur early in the war. As the war
+progresses, and the area of the pacific controlled by Japan gradually shrinks,
+it becomes very difficult to find convoys in areas distant from Japan. In the
+scenarios that occur later in the war, it is easiest to find targets in the
+waters around the islands of Japan.
+
+---
+
+Torpedoes
+
+Primary submarine armament consisted of six torpedo tubes forward and four
+tubes aft. A total of 24 torpedoes were carried: 14 forward and 10 aft. A
+torpedo reload required about 10 minutes.
+
+Most torpedoes were fired at a range of 1000-3000 yards. The best torpedo
+track was one which was perpendicular to the course of the target ship. This
+provided the largest potential target area. Head-on shots or stern shots were
+unlikely to hit their targets.
+
+Torpedo data computer
+
+The TDC, when fed with the target speed, range and course, automatically
+calculated the correct torpedo track. The captain would often aim slightly
+ahead or behind the target ship if he expected a particular change in course.
+Frequently a "spread" of torpedoes was fired by aiming one slightly ahead of
+the target, one directly at the target, and one slightly behind the target.
+
+It was important to make the first set of torpedoes count. Once the torpedo
+tracks were spotted, the convoy would begin to zig-zag radically and the
+escorts would charge in on the sub's position.
+
+Deck gun
+
+The deck gun was effective in sinking badly damaged targets or to slow a ship
+and force it to fall behind the convoy. The gun was also used as a last ditch
+measure by subs which were forced to surface.
+
+ATTENTION COMMANDER: The gun may only be fired when your sub is on the
+surface. Use the crosshairs on the periscope/binocular screen to aim the gun.
+The range is automatically set to the TDC range of the target at which you are
+aiming. Press the player 2 Control Pad UP or DOWN to add or subtract deflection
+from this range. Example: an 18 knot destroyer coming directly towards you
+from 4000 yards away will move over 200 yards in the time it takes the shell
+to hit the target. Therefore you should press the Control Pad DOWN to select
+a deflection of -200 to -250 yards before firing the gun. At 2000 yards the
+shell will only take half the time to reach the target, so a -100 yard
+deflection should be used. Your gun is supplied with 80 shells.
+
+---
+
+Japanese convoys
+
+Japanese shipping generally travelled in small convoys of three to seven
+ships. Convoys consisted of cargo ships, troop ships, tankers and destroyer
+escorts.
+
+Tankers were the most important target class. The Japanese were critically
+dependent on the flow of oil to keep the Main Battle Fleet in operation.
+Troop ships were also important targets. You are more likely to find these
+valuable ships sailing through the shipping lanes which lead directly to
+Japan.
+
+Cargo ships represented the majority of Japanese shipping. They hauled
+supplies and equipment to and from the Japanese homeland.
+
+Escorts came in two classes. Destroyers were often used for escort duty. The
+Japanese also constructed a special class of escort for anti-submarine
+defense: the "Kaibokan". This sub killer extraordinare was packed with
+sophisticated radar and special depth charges. A submarine's best chance
+against a Kaibokan was to outrun it on the surface, since its top speed was
+less than 20 knots. Destroyers could steam at close to 30 knots.
+
+Japanese convoy traffic tended to concentrate along the routes between major
+ports. Refer to the convoy route map above for details.
+
+Submarine tactics
+
+A successful submarine attack was very much a team effort by the entire
+submarine crew, with the captain making crucial decisions which spelled the
+difference between success or failure. Carefully weighing the number of
+escorts, the types of ships, visibility, water depth, number of torpedoes
+remaining, battery charge, the convoy's course and speed he decided how, when
+and where to attack the enemy.
+
+With their low surface profile and ability to submerge, stealth and surprise
+were vital ingredients in all submarine attacks. Once an enemy ship or convoy
+had been spotted, a successful attack required a well thought out approach to
+within a few thousand yards or the enemy without being detected.
+
+---
+
+Escape
+
+If detected by enemy escorts, escape became the sub's main objecting. A
+submarine was no match for even a single destroyer in a gun and ramming duel.
+The usual tactic was to dive a deeply as possible and rig for silent running.
+Maintaining a minimum profile and minimum running noise was especially
+important under these circumstances. A strong temperature gradient could also
+provide some protection from the enemy's sonar. Leaking fuel or machinery
+damage made the escort's job easier.
+
+Submarines gained some benefil from their tighter turning circle and ability
+to constantly track the escorts propeller noises. Under extreme circumstances,
+a sub might try to convince the attacking destroyers that it had been
+destroyed by releasing oil and debris which floated to the surface. (Refer
+above for this procedure.)
+
+At night the sub's 20 knot surface speed was sometimes sufficient to outrun
+pursuing escorts.
+
+Advice to the captain
+
+Make sure you understand the role of the Torpedo Data Computer (TDC) - most
+torpedo shots should be made with the periscope crosshairs directly on your
+target.
+
+Make sure you understand the distinction between BEARING and HEADING. BEARING
+is the direction in which your periscope/binoculars are looking. HEADING is
+the direction your sub is facing. Note that it is generally much faster and
+easier to aim your torpedoes and gun by rotating the periscope (changing your
+BEARING) rather than by steering the sub (changing your HEADING).
+
+In general, you should plan on making a submerged attack in daylight, and a
+surface attack at night. During dawn and dusk you can try both.
+
+---
+

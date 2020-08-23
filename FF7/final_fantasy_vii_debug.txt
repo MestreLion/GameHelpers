@@ -1,0 +1,2988 @@
+                                                                      
+                                                                             
+                                                              .    oo.
+                                                              #  #
+                                                        .:###@ # .           
+                                           .-@   .    .O######.              
+                                            +o  . ...0#####@o                
+                                      .  : : :  8 .o######0+.                
+                                     .  : @ 0 @8:@######@o8
+                                     :.-@-#.#@-#########
+                               .   .=o#@@@@@o#0#######.
+                               . .+00@@@@@@@@#######+.
+                        . . . ..OO800@@@@@@@@#######.
+                      .:--===+OOO88800@@@@@@@@####+-
+                  ..-..=++=:.=oOOO88000@@@@@@@@#8#
+         . ...    :.   .=+++-oOoOO888008@@@@@@0--..
+#### ###  #  #: .##  ### .=+o####+O8##08o##=#@@#####  ##  ###  #   #   # # #####
+ # #  #   ## #  -##.. # .++++=#O#=oo##8O8##=#@8# # #  ## #  ## #   #   # #  # #
+ # #  #   ##.# :.##.  #.+++++=#oO=oo##O88##=#O8  #    ## #   # #   #   # #  # #
+ #    #   ## # . ##..:#.+=+++=#o =oo##+88##:#=+  #    ## ##  # #   #   # #  # #
+ #    #   ## #:- ## .:#.=++++=#=#:oo##=O8##.#8-- #    ##  ##    ###    # #  # #
+ # #  #   ####:-# .#.=#.=-.++=###oO####OO##=#..  #   #  #  ##    #     # #  # #
+ ###  #   # ##--#. #. #..:+++:#.#oo#oo#OO#### .  #   #  #  ##    #     # #  # #
+ # #  #   # ##:-#:.# =#:-===-.#..oo#oo#oO#:##..  #   #  #   #    #     # #  # #
+ #    #   # ##:.# .#..#:= -:.:#.:oo#o8#oO#=##.   #   #  # ## #   #     # #  # #
+ #    #   # ##..#### .#:..===:#=+oo####oO#=##.   #   #### #  #   #      ##  # #
+ #    #   #  #..#. # .#-#:===.#=o++#o8#oO#=## .  #   #  # #  #   #      ##  # #
+ #    #   #  #..#: #..#=#.==-:#-++-#o=#oo#-## .. #   #  # #  #   #      ##  # #
+ #    #   #  #  #. #..#+#.=-=:#-o+-#o=#-o#:0#.   #   #  # #  #   #      ##  # #
+###  ###  #  #  #  # ####.:--###=+8# 8#-o#+:#.   #   #  #  ##    #  ®   ## #####
+            :.....:.....=--=-=-===--=-=: .
+################################################################################
+                       -------=====-=::
+          .....:::::---------======:=+ .
+             ..:::::::-------=-==+ :+
+                :.:::::-----=-=== :=   .  F F V I I
+                  ...:-:-------===:
+                 .  .::-:------==.    D E B U G    G U I D E
+                    .....-----::.                                            
+                  .    .:-:::.      B y  A n d r e w  D e a n
+                                  
+                                  (deano@ravensnest.demon.co.uk)    
+                      
+                                                                                                                            
+                                    Version 1.7
+                                    
+                                     12-Dec-99   
+                               
+
+New: It's been a long while since I last updated this FAQ, but since 
+the last edition I've become rather unsatisfied with the general 
+layout and structure of the guide, so changes have been made.
+You'll now find little maps of all the debug rooms so you'll no longer
+have to spend an age working out who the hell I'm referring to by saying 
+things like "Tifa 47 - next to the left side of Cloud 24", or whatever.
+
+If you're a Gameshark owner, please check out the new improved code 
+section for a joker code that will let you use the debug room properly.
+In fact you may as well check the codes section anyway, as there are 
+now Joker codes for the FF versions so you no longer have to keep 
+flicking your AR switch on and off. I've also now got the American 
+version of FF7 as well as the PAL one, so I can check any findings 
+involving codes, etc that you moght have regarding that version.
+
+There are also a few new additions to the miscellaneous sections and other 
+more in-depth sections of the guide, so I recommend you read through them.
+
+
+ANNOUNCEMENT: There is now a (pictorialised) HTML version of this FAQ available
+on the following address:-
+
+i.am/lzj/
+
+This is Lau Zhen-Jock's FF7 page, and you'll find lots of useful FF7 information
+as well as a truly collossal set of links and other resources like message boards 
+and more. He has painstakingly copied out virtually all of this FAQ and formatted
+it in easy to follow HTML along with a large selection of pictures to illustrate 
+how to do certain things, etc, and it really is a must see if you're even slightly 
+interested in the debug room and/or this FAQ.
+
+WANTED: Can anyone create an NTSC version of the Joker code? (see code section for
+details)
+Also, can anyone make a PAL version of the 'Kill Sephiroth' code? (see 'The Super
+deluxe guide to getting Sephiroth' section at the end of the guide).
+
+
+NOTICE:
+------
+
+This FAQ can ONLY be freely distributed as long as it is done so in IT'S ENTIRETY and
+is unaltered. This FAQ CANNOT be used commercially or otherwise reprinted or
+incorporated into any commercial medium. It is FOR PRIVATE USE ONLY.
+
+THIS FAQ IS FOR THE PAL VERSION OF FF7. AS FAR AS I KNOW IT IS THE SAME AS THE
+AMERICAN VERSION, BUT THIS IS NOT CERTAIN.
+(But judging by the effort put into the PAL conversion - i.e. zero, it is pretty
+likely the games are the same. The Japanese version, however is DEFINITELY NOT the
+same. Read Kao Megura's FAQ for that version (thanks for the mention BTW :) )).  
+
+
+Introduction
+============
+
+Like most Playstation owners I had bought and enjoyed Final Fantasy VII from
+Squaresoft. I had played the game to death, solved every puzzle, collected
+every item and found every secret, it seemed that I had would have to wait for
+FF VIII for my next FF fix. But then I heard about the secret debug room. I
+didn't believe it at first, and as I have the PAL version of the game I
+couldn't see it for my own eyes. Then someone came up with the PAL version of
+the code and it blew my mind. This must be the most comprehensive debug mode of
+any game ever, it lets you start at any point in the game with any characters
+and any items. I decided to catalog the confusing menus and options so that I
+could actually work out ways to use it rather then just mess about with it.
+
+All you need to access the room is a Gameshark or Action Replay cartridge, some
+patience, and this guide. Included are codes for nearly every FF7 version (the 
+only version that there isn't a code for is Japanese FF7 International, at least 
+that I know of). I hope you enjoy reading this FAQ and have fun discovering some 
+of the weird secrets of Final Fantasy VII. 
+
+------------------------------------------------------------------------------------
+CONTENTS:
+========
+
+1.) The Debug Codes.
+2.) The Main Debug Room. (includes 'map' of rooms).
+3.) Hints And Tips (Recommended that you read first).
+4.) The 10 Debug rooms.
+5.) Miscellaneous (including the 'Pyramid' enemies).. 
+6.) Music Player Guide.
+7.) Frequently Asked Questions. (useful as a 'quickstart' guide)
+8.) Credits/Copyright/Thanks..
+
+------------------------------------------------------------------------------------
+How To Use This Guide
+=====================
+
+I'm not trying to be patronising, but it has really become noticable that some
+people - far from not reading the instructions - have become confused as to the 
+layout of the guide and where to find the information they want. I originally split
+the guide into themed sections so that you can quickly find what you want, but as the
+versions have piled up the debug rooms section has hidden the other sections away 
+under hundreds of lines of options.
+I intended the guide to work as follows:
+
+Debug rooms breakdown (Sections 1-4):-
+This is the bulk of the guide and simply consists of a huge list of every option
+and what they do. If you've been looking through the rooms and want to know what
+option X does, then look here.
+
+Frequently Asked Questions (Section 7):-
+This is possibly the most useful section of the FAQ. It is designed not only to
+let you quickly see if any problems you may have had have been previously answered,
+but also covering useful little tricks and tips for the debug room. 
+Basically, if you want to know ANYTHING interesting that can be achieved 
+via the debug room, look here first.
+
+Miscellaneous (Section 5):- 
+This section goes hand in hand with the FAQ section. It offers an in depth 
+explanation of some useful and strange tricks in the debug rooms, as well as
+providing further explanations of parts of the main debug room guide.
+ 
+You see, it's simple. I hope you didn't find that too tedious or patronising,
+but I figured that if by writing this I could stop another ten people asking
+"How do I get Sephiroth?", then it would be worthwhile..
+
+------------------------------------------------------------------------------------
+
+Now, the most important part..
+
+
+|--------------------|
++ 1.) The Debug Codes+--------------------------------------------------------------
+|--------------------|
+
+Remember, these codes are designed for Action Replay/Gameshark cartridges and may not 
+work on Xplorer or other such devices.
+
+----------------------------------------------------------------------+
+THE AMERICAN RELEASE DEBUG CODE                                       |
+---------------+------------------------------------------------------+
+               |This code was the one that started it all. Thanks to: |
+(original code)|                                                      |
+8009A05C 0041  |R P G O D and C Z A R D R A G O N                     |
+(Improved code)|                                                      |
+8009ABF6 0041  |FF players the world over can enjoy a truly remarkable| 
+               |secret. We Salute you!                                |
+---------------+------------------------------------------------------+
+THE UNITED KINGDOM PAL RELEASE DEBUG CODE                             |
+---------------+------------------------------------------------------+
+               |For once PAL owners were not left out, thanks to:     |
+               |                                                      |
+80099F2C 0041  |G U R T Y G U R T                                     |
+               |                                                      |
+               |the code can be used on the PAL game. This guide would| 
+               |not exist without this code. Thank you!               |
+---------------+------------------------------------------------------+
+THE FRENCH PAL RELEASE DEBUG CODE CODE                                |               
+---------------+------------------------------------------------------+    
+               |A new addition, this code was donated by:             |
+               |                                                      |
+8009A174 0041  |A L E X I S  H U E T                                  |
+               |                                                      |
+               |Now French owners can join in the fun.                |
+               |Merci beaucoup!                                       |
+---------------+------------------------------------------------------+
+THE JAPANESE RELEASE DEBUG CODE                                       |
+---------------+------------------------------------------------------+
+               |Ironically, this was the last code I heard about.     |  
+               |                                                      |
+800987F4 0041  |C H A R L E S   M C D O N A L D                       |
+               |                                                      |
+               |created this code for the Japanese game.              |
+               |Now every FF7 version is covered. Great work!         |
+---------------+------------------------------------------------------+
+
+JOKER CODES (READ INSTRUCTIONS BELOW)
+
+----------------------------------------------------------------------+
+THE UNITED KINGDOM PAL RELEASE JOKER DEBUG CODE                       |
+---------------+------------------------------------------------------+
+               |UK Joker code made by:                                |
+               |                                                      |
+D01D252C 0000  |D E A N   C O N N E L L                               |
+80099F2C 0041  |                                                      |
+               |Big thanks to him. Read his Xplorer codes FAQ at      |
+               |www.ravensnest.demon.co.uk                            |
+---------------+------------------------------------------------------+
+
+
+Code to play the terrible PAL version in NTSC (not perfect, but still better
+than PAL. Can anyone fix the screen position?).
+
+PAL to NTSC code: D0051464 0001
+                  80051464 0000
+
+BASIC INSTRUCTIONS:
+===== ============
+(Read this CAREFULLY before you use the code).
+
+1. Enter the code into your GS/AR as usual. (For the N.America release, enter
+both the provided codes. BTW, this new code fixes some graphical glitches.)
+
+2. Start the game with the code active.
+
+3. Either select 'New Game' to start in the debug room with a level 1 party, or select
+'Load Game' to start with a saved party (then enter any town or 'field screen' to get 
+to the debug room).
+
+4. Once the debug room has loaded, SWITCH OFF the GS/AR (you cannot enter the other 
+debug rooms otherwise).
+
+5. To get back to the debug room, either select an option from a character in one of 
+the other debug rooms with the switch on, or if you are in the actual game walk off 
+any exit in the game with the switch on (as long as it dosen't lead to the world map 
+screen).
+
+6. ALWAYS SWITCH OFF THE CODE WHEN ENTERING THE WORLD MAP SCREEN.
+
+
+GAMESHARK OWNERS READ THIS:
+========= ====== ==== ====
+
+Several people have written to me complaining that they cannot enter 
+any of the other rooms except the main debug room, despite switching 
+the code off. After further investigation it seems that certain 
+versions of gameshark do not disable the code properly, so the code 
+is permanently on preventing access to the other rooms. If you have 
+this problem (and are SURE that you have switched the code off), 
+then try the following solution:
+
+1. Load the game with the code on as usual.
+2. Once you are in the debug room, talk to Yuffie and select 'MENU ON'.
+3. Now save the game to your memory card.
+4. Reset the Playstation.
+5. Load the game up again, but this time DO NOT SWITCH ON THE CODE AT ALL.
+6. Load the saved game you made earlier.
+
+There is one downside to this, you cannot re-enter the main debug room
+unless you load the saved game again.
+
+
+JOKER CODE INSTRUCTIONS:
+===== ==== ============
+
+These codes allow you to enter the debug room just by using your 
+joypad, so you don't have to constantly switch on/off your AR/GS 
+cartridge (a big help to people like me who have their Playstations in
+awkward places). Enter the codes for your game version then load up 
+the game with the switch left ON.  Now once you start actually playing
+the game (either from a saved game, or once the sequence at the 
+station appears at the start) go to the menu and choose 'config'.
+Now go to the window colour box. Click on the top-left corner.
+
+fig.1
+
+          ---------------------------
+HERE!--->|                           |
+         |                           |
+         |                           |
+         |                           |
+         |                           |
+          ---------------------------
+
+Now change the RED component of the RGB slider to '000' if it isn't 
+already. Even if it is you MUST click on it once to activate the debug
+code. Now the debug code is on and entering a new room will take you 
+to it as before.
+
+          
+fig.2
+
+         -------------------------------      
+   R 000 []                             |
+         -------------------------------
+   G ???                                |
+         -------------------------------
+   B ???                                |
+         -------------------------------
+
+Changing the R value to anything greater '000' (e.g. '001') will 
+switch the code off.  
+
+To summarise:
+change R to 000 to enter the debug room. Change R to 001 once you get 
+there.
+This may seem quite cumbersome at first, but pratice using it and 
+you'll find it very useful. It also bypasses the problem with the 
+Gameshark cartridge.
+
+Big thanks to Dean Connell for providing me with this code.
+
+Can anyone make an American version code? (I tried, but it didn't work..)
+
+|------------------------|
++ 2.) The Main Debug Room+-----------------------------------------------------------
+|------------------------|
+
+
+This is the centre of the debug mode, allowing access to all the other rooms
+and also back to the game itself. To get to the debug room, simply switch on
+the code and walk into any normal field screen (NOT the map screen). Remember,
+ALWAYS switch off the code when you go into the map screen mode, or something
+very strange will happen...
+
+The most useful feature of this room is Yuffie. Talk to her to bring up a
+general menu with the following options:
+
+    NEXT - Next set of options.
+
+    MENU ON - Enables all menu options (i.e Save and PHS. Thanks to 
+              'EsperFF6' for that one :) ) 
+
+    BATTLE LOCK - Disables battles. (Try wandering around the map and see what
+                                     happens...)
+    BATTLE UNLOCK - Enables battles again.
+
+    MOVIE LOCK - Skips all the movies.
+
+    MOVIE UNLOCK - Enables movies again.
+
+    GLOBAL RESET - Resets money and party.
+
+    FULL NAME - Puts a load of gibberish in each characters name.
+                (Also creates an interesting side effect - see 
+                 miscellaneous section.)
+
+    NEW START - Restarts the game as if 'NEW GAME' was selected on the title
+                screen. (THIS ONLY WORKS WITH DISK 1!)
+
+    EXIT - Cancels
+
+Menu 2:
+    BACK - Goes back.
+
+    SOUND RESET - Resets sound effects/music.
+
+    FULL MATERIA - Gives you all materia (that can fit in the list)
+
+    BATTLE999 - Special battle against some pyramids (See end of guide).
+
+    EXIT
+
+Walking off the left side of the room (Marked 11 below) results in you
+returning to the game outside Midgar. It is therefore recommended that you leave
+your Chocobo/Highwind there. (MAKE SURE YOU SWITCH OFF THE CODE WHEN LEAVING!)
+
+
+The 10 rooms are arranged in the following order:
+(Room 11 is the exit.)
+
+Room Order:
+                             10
+
+                             8
+                          7     9
+
+                     11 6         1
+
+                          5 Y   2
+                             3
+
+                             4
+
+Y=Yuffie
+
+Some of the rooms have special debug keys which perform different operations.
+These are outlined below:
+
+Debug Keys:
+===== ====
+
+Room 1.
+---- -
+
+Select: Help menu for the below.
+Square: "Reset Flag" - ?
+L1: "Battle off" - switches off battles. Press again to re-enable.
+L2: "Set Normal Party" - Gives you Cloud, Barret and Tifa in party.
+R1: "Reset Flag" - ?
+R2: "Default Name&No Money" - just as it says.
+R2 (again): Debug Name&Debug Money" - removes all names and gives you 131071
+            gil.
+Room 2.
+---- -
+
+NONE
+
+Room 3.
+---- -
+
+Square: "1P" (press again for:) "2P" - This changes the options for 
+all the characters in the room.
+L1: "Debug [Number]" - Determines whether the game was started from 'New Game' 
+or 'Load Game' option. 0 is a new game, 8 is a saved game.
+
+Rooms 4-10 have no debug keys.
+
+|---------------------------------|
++ 3.) SOME USEFUL HINTS AND TIPS: +--------------------------------------------------
+|---------------------------------|
+
+*. If you want to play a specific part of the game, put in the correct disk for
+that part. Although, as you may know, you can play through FF7 on the wrong disk
+usually, doing so with some debug options will crash the game rather than just 
+showing the wrong films, etc.
+
+*. Many parts of the game will be in the state that you have previously left them
+in. For example, if you load up a save from the end of the game and then enter 
+the debug room and go to the Temple of the Ancients, many parts will not work/not
+work properly as in your game the temple no longer exists.
+
+*. ALWAYS SWITCH OFF THE CODE IN BOSS BATTLES! Otherwise even if you win you
+will see the game over screen..
+This also happens in 'scripted' battles (e.g. the 2 guards in the train station at
+the start of the game, or the guards when Yuffie steals your materia).
+
+*. Take nothing for granted. Just because an option says 'cancel' or 'quit' 
+dosen't mean it does..
+
+*. Adding to the first point, in scenes where a certain character MUST be in
+your party (e.g. Cait Sith at the Gold Saucer) make sure they are or the game
+may behave strangely, or hang.
+
+*. Remember, if anything goes horribly wrong you can always restart the game by 
+holding all the shoulder buttons, and start and select together. Even if the game
+seems to have totally gone up the wall this often still works. If not, you'll 
+have to reset.. (having said that, you should always be patient, as at least a few
+options appear to hang the game or just not respond to commands, but after a few 
+minutes they will work again).
+
+*. USE YOUR COMMON SENSE! Walking about with Aeris, Sephiroth and Young Cloud 
+whilst using disabled materia is not likely to make the game play very reliably.. 
+
+*. Beware of parts of the game that put Tifa or Cid in charge, as they have a 
+nasty habit of messing up the debug room. This dosen't always happen, but has 
+happened enough times to annoy me.
+
+*. Options that have [] (Picture of PSX square button) or "R1 de mage" have another
+function that will only be shown if you hold the corresponding button down whilst
+selecting (keep it held until it has loaded).
+
+*. If you start from a new game, avoid any thing that leads to the PHS screen, as
+without any other characters you will be stuck there unless you reset the 
+Playstation.
+
+|-----------------------|
++ 4.) The 10 Debug Rooms+------------------------------------------------------------
+|-----------------------|
+
+Room 1. "Welcome To FinalFantasy 7 English Version"
+==== =
+
+
+Map:
+---
+
+   +-----+ +---------+ +----+ +-------+ +--------+
+   |Aeris| |S. Barret| |Tifa| |T.Guard| |H.B.Girl|
+   +--+--+ +--+------+ +-+--+ +--+----+ +--+-----+
+      |       |_  _______|  _____|  _______| +----+
+      |______  | |  _______| ______|   ------+Rude|
+             | | | | ________|        |      +----+
+             @ @ @ @ @ @______________|
+                                           +---+
+                          @----------------+Dog|
+         ____@ @ @ @ @ @______________     +---+
+        |      | | | |                |
+        |      | | | |_              ++--+
+   +----+----+ | | |_  |   +-------+ |Cat|
+   |Sephiroth| | |   | ----+Dolphin| +---+
+   +---------+ | | +-+----++-------+
+             __| | |Sailor|
+            |    | +------+
+            |  +-+----+
+            |  |Wizard|
+            |  +------+
+   +--------+--+
+   |CDS Barmaid|
+   +-----------+
+
+
+
+Aeris: "Working Now" Leads to Tifa having a dream/flashback at Junon whilst she
+is captive with Barret.
+
+Sailor Barret: "7th Street" - Leads to first 'Beginner's Hall'
+
+   Welcome Home - Leads to return to 7th Heaven after first Mako reactor
+                  mission.
+   Before Memory - Talk with Tifa about "The Promise", etc.
+
+   Materia - Appear down stairs in hideout. Once you ride the lift/pinball
+             table up the game jumps to the point where Cloud is about to walk
+             out on Tifa.
+   Good Morning - Next Morning Scene. Start in hideout, but everyone has
+                  already gone.
+   Before Battle - Sector 7 Pillar battle.
+
+   Cancel - Cancels (obviously)
+
+   After Memory - Same as 'materia' except you start actually talking to Tifa.
+
+'Dressed Up' Tifa: (Ahem..)
+   Leads to Party Select screen.
+
+Train Station Guard: "Last train from Midgar"
+
+   Cargo - Begins after you've met with Barret in the train cargo carriage,
+   then leaps to the conversation with Jessie about the train ID system.
+
+   Train 1 - Same as above except you start talking to Jessie.
+
+   Train 2 - Second reactor train journey, scene where the alarm goes off.
+
+   Train 3 - Car 4 of second train where AVALANCHE escape.
+
+   Train 4 - Car 3 of train escape sequence
+
+   Monitor - Monitor sequence with Jessie.
+
+   Station 1 - AVALANCHE arrival back at sector 7 after first mission.
+
+   Station 2 - Second reactor mission train journey.
+
+   StationFlashback - Flashback of Elmyra finding Aeris.
+
+"Honey Bee Inn" Girl: (NOTE: This seems to crash the game if you walk off the
+                       screen back into town. It also changes the Config
+                       options.)
+   First Time - First visit to H.B.I asking for Tifa.
+
+   2nd Time - Visit with members pass..
+
+   3rd Time - Return when Cloud Dressed as woman..
+
+   After All - Return when Shinra have occupied the inn.
+
+   Cancel
+
+
+Rude:
+
+   "Everyday My Works are..." - Cancels
+
+   Got The Jyro - Resets Flag on little Bronco
+
+   After The Meteo...TIFA - Makes Tifa Party leader
+
+   After the Meteo...CID - Makes Cid party leader
+
+   After the Meteo...CLOUD - Makes Cloud party leader
+
+   Mako Under The sea - ?
+
+   Hp&Mp 1 - Kills lead character and removes all Mp
+
+   No Money - Removes all money.
+
+   MoneyMoneyMoney - Gives you 365294 Gil.
+
+   Got The keystone - Gives you Keystone Key item.
+
+Dog: "JUNONDOC"
+   JUNONDOC1 - Junon. Scene where party boards boat to new continent. Also
+               restores default party names and removes all money.
+   JUNONDOC2 - Puts you at the empty dock at Junon. In the middle of the ocean!
+               Not very useful..
+
+   ROAD1 -  Puts you in the SOLDIER base just before the main Junon town.
+
+   (Cancel) - Cancels
+
+   ROAD3 - Puts you in tunnel in Junon SOLDIER base. Seems to mess up as no
+           characters appear.
+   ROAD4 - Junon Huge materia sequence in tunnel guarded by dog. You appear
+           inside a wall so this is also useless.
+   ROAD5 - Another corridor leading to the Junon underwater reactor.
+           Again you're stuck in the wall
+   ROAD6 - Puts you in Junon shop, stuck in the counter.
+
+   ROAD7 - Bottom of Junon liftshaft.
+
+   ELE 1 - Puts you in the Junon underwater reactor lift (the scene with the
+           secretary and guards). There seems to be no controllable character.
+           
+   ELE 2 - Puts you at top of Junon town liftshaft.
+
+   ROOM - Same as ROAD1.
+
+Cat: "JUNONL" (This also acts as quit)
+   JUNONL1 - Junon Town street. Characters are stuck in the wall.
+
+   JUNONL2 - Left side of Sliding Junon lift. No characters.
+
+   JUNONL3 - Part of Junon street? Once again the characters are stuck in the
+             wall.
+   JUNONL-W - Junon weapons shop. Amusingly you're stuck in the giant display
+              cabinet..
+   JUNONL-I1 - Junon accessories shop. You're stuck in the counter. Again.
+
+   JUNONL-I2 - Junon Item shop. This time you're stuck in a bar stool. How I
+               laugh.
+   JUNONL-INN - Appear at Junon inn. Stuck inside the owner - but try staying
+                the night and.. you'll still be stuck in the owner. Oh well..
+   JUNONL-PUB - Appear at Junon Shinra bar. Guess what? You're stuck in the
+                counter.
+   JUNONL-MIN0 - Secret beginners room in Junon inn. You're stuck in the co.. -
+                 but no! you're not stuck at all! Amazing!
+   JUNONL-MIN1 - SOLDIER barracks. And. You. Are. Stuck. In. The. Wall.. Gaggh
+                 (dies).
+   JUNONL-MIN2 - Top floor of barracks. SIAW (Stuck In A Wall, okay?)
+
+Dolphin: "JUNONR" (Also quits)
+
+   JUNONR1 - Junon Parade performance. Once you follow your platoon outside
+             they just stand there and the game refuses to progress to the next
+             scene. Useless.
+   JUNONR2 - Starts outside the sliding lift. Scene is after WEAPON attacks.
+
+   JUNONR3 - Entrance to Shinra headquarters above Junon.
+
+   PARADE - Starts at the actual parade minigame, but then goes to sliding lift
+            and characters are stuck in the wall.
+   JUNONR-W - Junon Weapons shop. Stuck in the wall.
+
+   JUNONR-PUB - Junon Pub SIAW.
+
+   JUNONR-I - Item shop SIAW.
+
+   JUNONR-M -  Weapon Shop SIAW.
+
+   JUNONR-MIN1 - SOLDIER barracks STIAW.
+
+   JUNON-MIN2 - Cat room of SOLDIER barracks SIAW.
+
+   JUNON-MIN3 - SOLDIER barracks bedroom - SIAW
+
+   JUNON-MIN4 - Same as second part of 'JUNONR1' soldiers just stand there.
+
+Sailor: "Submarine" (Cancels and leads to party screen)
+   SubmarineDock - Red Submarine in dock SIAW.
+
+   BridgRed - Bridge of red submarine SIAW.
+
+   BridgeBlue - Bridge of Blue Submarine.
+
+   SubmarineRed - Scene just before 'Bridgered'
+
+   SubmarineBlue - Scene just before 'Bridgeblue'
+
+   Escape - Escape from submarine dock (if you failed to get a sub)
+
+   Minigame0 -     Submarine game at various difficulties.
+   Minigame1 -
+   Minigame2 -
+   Minigame3 -
+   Minigame4 -
+
+Wizard: "Temple of the Ancients" (quits and leads to party screen)
+   Temple - Leads to The entrance to the temple - after it's been destroyed..
+
+   After Collapse - Almost the same as 'temple'
+
+   Altar - At the Alter where you put the keystone. But the temple is already
+           destroyed, so you can't enter!?
+   Alter2 - Keystone placement scene (leading to maze).
+
+   Temple of The Ancients - Maze section
+
+   Shop Of The Ancients - The err, shop of the ancients basically.
+
+   The Rock - Rolling rocks trap scene.
+
+   The Hole Of the Time - Giant Clock Scene
+
+   Tirano - Battle with monster at the bottom of the clockface.
+
+   Treasure - Treasure room. you can't open the chest or leave.
+
+   Chase - Annoying wizard chase sequence. Leaving takes you to boss battle
+           scene.
+   Next Page - Leads to second page of locations:
+   "Temple of the Ancients 2" - Leads to a nice picture of a wall. That you are stuck 
+                                in. Great.  
+   Mateo - Leave and then re-enter for 'Cloud going psycho' scene.
+   
+   Sephiros - Sephiroth explains his evil scheme ("nya ha ha").
+   
+   Hole1 - A blocked tunnel in the temple of the ancients (I don't remember this 
+           bit..). Not much use as you are Stuck in the wall.
+  
+   Hole2 - Another tunnel in the temple. No visible characters, making this
+           useless. 
+   Boss - Scene after you have killed 'Demon's Gate' boss. 
+
+   Mateo2 - Same as 'Mateo' option.
+
+   Cancel - Cancels.
+
+
+Costa Del Sol Barmaid: "Costa Del Sol" - Cancels
+   Town - CDS at early part of the game
+
+   Beach - Beach of CDS
+
+   Harbor - Harbour scene
+
+   Debug - Rufus arrives at CDS. (Seems to mess up after this.)
+
+Sephiroth: "Mt. Corel)
+   
+   Mountain Road - Start of pathway up Mt. Corel.
+
+   (Cancel) - Cancels
+   
+   Vally - Mt. Corel railway bridge (leading to 'Rollercoaster' section).
+
+   Up&Down - Scene where you fall off the railway track and can climb up to 
+             get some items.
+
+   River - Bridge over the Corel river (the bridge is already lowered).
+
+   Hole - Secret Miner's cavern under Mt. Corel. 
+
+   PiyoPuyo - Secret Birdsnest scene.
+
+   Bridge - Rope bridge from North Corel.
+
+   Railway - 'Rollercoaster' railway section.
+
+   Ballet's Memory - Barret flashback sequence of him and Dyne watching North
+                     Corel burn.
+   Cancel - Cancels
+
+
+ROOM 2. 
+==== =
+NOTE: ENTERING CHANGES NAMES AND PUTS PARTY TO CLOUD + SEPHIROTH.
+
+Map:
+---
+
+                 +---------+
+                 |Sephiroth|
+                 +----+----+
++-------------+       |        +---------+
+|Railway Guard+----+  |        |Fat Bloke|
++-------------+    |  @        +--+------+
++-----------+      @    @_________|
+|Bald Geezer+----@        @           +----+
++-----------+      @    @ |_________--+Rude|
+                   |  @ |             +----+
+   +-----+         |  | | +------+
+   |Shera+---------+  | +-+Sailor|
+   +-----+            |   +------+
+                      |
+                   +--+--+
+                   |Aeris|
+                   +-----+
+
+Sephiroth (with Head..): CG Movie Viewer
+   use   - leads to :
+
+           South Reactor - Reactor explosion (where Cloud falls)
+
+           (Blank space) - sector 7 pilar explosion
+
+           NIVILHIAM tragedy - Scene where monster emerges from reactor/
+                              Sephiroth kicks ass.
+
+           (Blank Space) - Aborted rocket launch scene.
+
+           Gold Saucer - Cable car departure/arrival. Also Round square ride
+                         films.
+
+           take off Tiny Bronco - Tiny Bronco sequence.
+
+           AERITH death - Aeris snuffs it.
+
+           SEPHIROTH - Sephiroth/weapons awaken.
+
+           WEAPON Attack - Attack on Junon + Highwind escape.
+
+           CLOUD psychoanalusis - Mideel destruction/lifestream scene.
+
+           (Blank Space) - Rocket take off.
+
+           METEO intercept failure - escape capsule/meteor scene.
+
+           shoot SISTER LAY - (snigger..) Firing of the 'Sister Ray'.
+
+   cancel - cancels
+
+   (Blank Space) - returns to main room
+
+Fat Bloke: "KARM Town"
+
+   cancel - cancels
+
+   First come - Kalm when you first get there. Asks you to organise your party first.
+
+   After Armagedon - leads to sub menu:
+      Check Oldman's event?
+
+       Yes - leads to old man quest flags as below:
+       No - leads to the pub in Kalm
+
+        old man event:
+        get GUIDE BOOK - Guide Book key item
+        get DESERT ROSE - Desert Rose key item
+        get EARTH HARP - Earth Harp key item
+        event start - sends you to Kalm pub with the selected items.
+
+Rude: "SOUTH DUNGEON"
+   cancel - cancels
+
+   Meet TARCKS - outside the scene where you meet the Turks in Mithril Mine. Gives 
+                 you the option of putting Aeris in your party.
+
+   we can't go - reorganise party, then leads to Mithril mine.
+                 (This seems to be a good way of getting Sephiroth)
+
+Sailor: "ANOTHER CHECK"
+   Last Dungeon - Gives you the option of adding the secret characters Yuffie
+                  and Vincent before going to the Final dungeon. Also gives you the 
+                  option of having 99 save crystals! (Each time you use one, the last 
+                  one placed is lost, so you can only have one active save point)
+
+   HIGHWAY Minigame - Lets you play the bike game (game storyline version, not at Gold
+                      Saucer).
+
+   Shinra Airship - Takes you to the crashed Gelnika.
+
+
+Aeris: "AERITH EVENT"
+
+   Decline Church - Church escape sequence.
+
+   Forgotten Relm - Top of the City of the Ancients
+
+   Go To Northland - Appear in City of the Ancients in a house talking to the
+                     party.
+
+Shera: "ROCKET VILLAGE"
+   Meet CID - scene before rocket launch.
+
+   METEO intercept - same as above.
+
+   Rocket at space - Rocket in space..
+
+Bald Geezer: "GONGAGA VILLAGE"
+   Cancel - cancels
+
+   Meet TARCKS -  Takes you to Gongaga village.
+
+   Who am I? - Takes you to The City of the ancients.
+
+Railway Guard: "TUNNEL"
+
+   Cancel - cancels
+
+   Tunnel - "LEVEL of TORIYAMA EVENT" (Train escape event)
+
+             Perfect! - least distance to reactor.
+
+             Normal - Normal distance from reactor.
+
+             OH NO! - Miles away from reactor
+
+   5th Reactor - AIRBUSTER ambush.
+
+ROOM 3.
+==== =
+NOTE: ENTERING CHANGES NAMES AND LEAD CHARACTER TO CLOUD WITH SWORD MODEL.
+
+IMPORTANT NOTE: PRESSING [] (SQUARE) WILL RESULT IN NEW OPTIONS FOR SOME CHARACTERS.
+(HUGE Thanks to Ozzy151629).
+
+Map:
+---
+
+            +----------+   +--------+
+            |Clouds Mum|   |Tifa (1)|
+            +------+---+   +-+------+ +---------+
++---------+        |         |        |Aeris (1)|
+|Yuffie(3)|        |_____    |        +-+-------+
++-----+---+              |   |          |
+      |                  |   |          |
+      |_____             |   |          |
+            |_____@      @   |   _______|
++----------+                 |   @        +-------------+
+|Yuffie (2)|---@             @      +-----+Turks Vincent|
++----------+                        |     +-------------+
+            @                       @
++----------+           @
+|Yuffie (1)|-----@     |__________________
++----------+                              | +-------------+
+                             @            +-+Shaking Cloud|
+                    @    @   |     @        +-------------+
+                    |    |   |_    |_________
++----------+        |    |     |             |
+|T. Vincent+--------+    |     |             |
++----------+             |     |             |
+                         |  +--+--------+  +-+------+
++--------+               |  |Sword Cloud|  |Tifa (2)|
+|Tifa (3)+---------------+  +-----------+  +--------+
++--------+
+
+
+Shaking Cloud:
+   Ima.. - rename.. (select character to rename)
+
+   Chokobo - Chocobo race (Gives you a new chocobo to name then starts a race).
+
+   Jet - Play Speed Square Gold Saucer Game
+
+   Yame - Cancel
+
+Sword Cloud: "8Bangai" (Sector 8)
+
+   tojikomerarechatta - Scene in tunnel after first reactor mission where Jessie
+                        is setting a bomb.
+   BOOM to kitamonda - Tunnel explodes from bomb.
+ 
+   hajimete earith - Meet Aeris for the first time after first reactor mission.
+
+   tobe cloud - Scene where Cloud gets trapped by troops and jumps on the train.
+
+   hoka ga ii - Cancels.
+
+
+Cloud's mum: "Movie Check"
+NOTE: YOU MUST BE USING DISK 1 FOR THESE TO WORK!
+(Thanks to everyone who emailed me about this one).
+
+   doka~n - Disk 1: Mako reactor. Disk 2: Sephiroth/weapons awaken Disk 3:
+                    scene where blocks move up the screen at the end.
+   tou! - (jump!)Cloud jumping onto the train after the first reactor mission.
+
+   dongaragashan - Scene where pillar collapses/AVALANCHE escape.
+
+   touchaku - Gold Saucer train entering Corel.
+
+   departu - Entering Gold Saucer.
+
+   Sample - Scene at Junon where Cloud climbs up to the airport (camera pans back
+            to show the Highwind).
+
+   Sample -  Plays opening scene 
+
+   Yame - Cancel.
+
+
+Tifa 1 (next to Cloud's mum): "6Bangai" (Sector 6)
+
+   Love love - Aeris visit to playground.
+
+   7ban dokan - Recovery after pilar collapse scene.
+
+   matte matte -  Scene after Sector 7 pilar crash.
+
+   checkyou kouen - On the way to wall Market.
+
+   yameta - cancel
+
+Aeris 1 (Next to Tifa 1): Party?
+    un - change party (pick any 3 members, leaders or not)
+    uun - cancel
+
+Turks Vincent: "bokujou"
+
+   ie no naka (R1 de mage) - Talking to chocobo Bill about Sephiroth (Hold R1 
+                             for the menu that you get later on in the game where 
+                             you can ask for stalls, advice, etc).
+
+   soto(R1 de mage) - Chocobo ranch at the at start of the game (Hold R1 for the
+                      later version where you can actually ride Chocobos, etc).
+   bobou(R1 de mage) - Chocobo barn, initial version (R1 for later version).
+
+   (Blank Space) - Lucrecia/Sephiroth flashback. Then you appear at Kalm town as
+                   Lucrecia! Unfortunately you are stuck in the wall..
+
+   sittitai - Slaughtered Midgar Zolom scene.
+   
+   yame - Cancel.
+
+Tifa 2 (Below T Vincent): Chokobo ijiri (Fun with Chocobos basically.)
+
+   ST Check - Stats check. Choose the chocobo to check. (See end of guide)
+              Chocobos in stables only.
+
+   Tukamaeta - Controls the types of Chocobo in the paddock outside the Chocobo farm:
+  
+               owari - quit.
+               A - Wonderful Chocobo
+               B - Great Chocobo
+               C - Good Chocobo
+               D - So-so Chocobo 
+               E - Average Chocobo
+               F - Not bad Chocobo
+               G - Not very good..
+               H - "I really can't recommend this one."
+
+The menu appears 4 times, once for every empty space in the paddock.
+Use Vincent's options to visit the farm (hold R1).
+
+A BIG thanks to CzarDragon for telling me that one.
+
+
+   Yasai to mi ippai - Gives you all the different types of Chocobo food (nuts as well
+                       as greens).
+
+   Magego Bokujou - Go to Chocobo farm SIAW.
+
+   Yaoya - Buy Chocobo Greens.
+
+   Yame - Cancel.
+
+Tifa 3 (Below Shaking Cloud): "Lasdan" (Last Dungeon)
+
+   LAS3-1 - Start of second choice route after going  Left.
+   
+   LAS3-2 - Second screen of above, but stuck on a platform.
+
+   LAS3-3 - Last screen of above, SIAW.
+   
+   LAS4-0 - Last screen of main Dungeon (party all together).
+
+   LAS4-1 - Screen just before the above, SIAW.
+
+   LAS4-2 - Floating islands before fighting Jenova.
+
+   LAS4-3 - Last set of islands, before Jenova.
+
+   LAS4-4 - Screen where Jenova appears.
+
+   LAS4-42 - Scene after Jenova where the columns fly up the screen.
+   
+   Ikisaki - Lets you assign each member of the party to the 3 different groups
+             possible in the final boss fight against 'Bizarro-Sephiroth'.
+   Dokoitta? - Checks the group assignments as above.
+
+   Yame - cancel
+
+Vincent 2 (Next to Tifa 3): "Corel"
+   
+   hajime - Arrival at Corel prison.
+   
+   sonchou - Just before Cloud enters the manky old house (where Barret shoots
+             the bloke hiding behind the sofa).
+      
+   dyne kessen - Dyne goes one-on-one with Barret (I pity da' fool, etc.).
+   
+   ueniikunone - Barret talks to 'Mr.Coates'. 
+
+   yame - cancel
+
+Aeris 2 (Left of shaking cloud): "EARITH HOME"
+   
+   1F okaasan au - Aeris arrives home with Cloud.
+  
+   1F katari haha - Cloud and chums report that Elmyra's only daughter has been 
+                    abducted for use in depraven experiments by Hojo. Elmyra is not 
+                    very pleased.
+   2F nigeru - Scene just before Cloud has to sneak out of Aeris's house.
+
+   2F ballet naku -  Barret cuddles Marlene. "ahhhh".
+
+   Hoka wo ataru - Not at the moment
+
+Yuffie 1 (Bottommost Yuffie): "ijiru"
+
+   Love_paraijiri - Love points. How many 'love points' each character has
+                     received from your actions so far in the game. Whoever has
+                     the most points dates Cloud at the Gold Saucer. Even
+                     Barret (No wonder he wore that sailor suit..). (BTW the odds
+                     are stacked heavily in Aeris' favour, usually Cloud has to
+                     act like a total bastard to 'date' Yuffie or Barret).
+       Options:
+       earith 1ban - Maximum points to Aeris
+       tifa 1ban - Maximum points to Tifa
+       yufi 1ban - Maximum points to Yuffie
+       Ballet 1ban - Maximum points to Barret
+       Nakamiru - View totals
+
+   Okane ippai - Lots of money (NOTE: understatement of the year..)
+
+   Okane nasi - No Money
+
+   G Reset -  Resets game clock, etc.
+
+   dflname Kaeru - Changes names to the set with "Earith" and "Ballet".
+
+   GP ippai -  Lots of GP (100000)
+
+   member zenin - Gives you all characters.
+
+   member yufi vin igai - Gives you all characters except Yuffie and Vincent.
+    
+
+   item iroiro - Gives you every characters limit break manual and 99 speed
+                  and power sources. Some other goodies too.
+
+   Yame - Cancel
+
+Yuffie 2 (Middle Yuffie): "GS" (Gold Saucer options)
+NOTE: It is best to have Cait Sith in your party for most of these locations as
+when you play the game normally he would be permanently in your party.
+
+   Hotel - Takes you to Hotel lobby.
+
+   jet - takes you to outside Speed Square Game
+
+   game1F - 1st room of wonder square
+
+   game2F -  2nd room of wonder square. (Note that you can't snowboard..)
+
+   Kanransha - Outside tour ride
+
+   Hiroba - Theatre. You're stuck on the stage!
+
+   eki (R1 de mage) - Leads to Gold Saucer entrance. Stangely, you can't leave.
+                      (Hold R1 for the same...?) 
+   Karansha naka - Tour ride with THREE people. Third character gets stuck in
+                   the ticket booth afterwards..
+   Tougijou - Battle Square. The special battle is unlocked !?
+
+   Yame - cancel
+
+Yuffie 3 (Top Yuffie): "Gold" (Gold Saucer)
+NOTE: You should have Cait Sith in your party for most of these.
+
+   Ballet Punpun - Scene where Aeris pisses off Barret at GS.
+
+   Caitsith toujou - GS entrance before you meet Cait Sith.
+
+   dio toujou - GS entrance before you have met Dio.
+
+   tougijou de - Battle square massacre scene.
+
+   kaettekita cloud - Scene in lift before chocobo race.
+
+   under corel - Arrival in Corel prison.
+
+   Yameta - Cancel
+
+ALTERNATIVE OPTIONS (press square for "2p"):
+=========== =======
+Bottom Yuffie:
+Same options as Yuffie in the main debug room.
+
+Middle Yuffie: "date chuu to GS2"
+N.B.1: If you are in an area that the 'date sequence' does not go to, go back to
+the station and the date will begin.
+N.B.2: See the end of the guide for a more detailed explanation of this part.
+
+   jet - Speed square with Aeris on 'date'.
+
+   game1F - First Wonder square arcade room with Aeris.
+
+   game2F - Second wonder square room with Aeris.
+
+   kanransha - Entering Round Square ride with Aeris.
+   
+   hiroba - Start of Event Square play with Aeris.
+
+   chokobo - Chocobo Square with Aeris.
+
+   tougijou - Battle Square with Aeris.
+
+   mogo - Playing 'Mog's House' game (with Aeris).
+
+   yame - Cancel.
+
+Top Yuffie: "GS2"
+
+   eki - Arrival at Gold Saucer. Cloud has a spasm and gets stuck.
+
+   hotel matome - Cloud tells us "the story so far.." at the Ghost Hotel. 
+
+   cs uragiri - End of 'date' sequence stuck in the #!%&@ ticket booth. 
+
+   dio no tenjistu - Talking to Dio about obtaining the Keystone.
+
+   date no osasoi - 'Date' character comes to Cloud's room.
+
+   nigeta cs no saigo - Cait Sith gives the keystone to Tseng.
+
+   hotel deppatu - In Cloud's room before leaving the hotel.
+
+   yame - Cancel.
+   
+Cloud's Mum: "movie check"
+(USE DISK 1, OR SOME OF THESE WILL CRASH/NOT WORK.)
+   saishono - Ropeaway train goes to the Gold Saucer for the first time.
+
+   jet - Round Square ride passing through the Speed square track.
+
+   chokobo - Round square ride going past the Chocobo races.
+
+   diozou - RS passing statue of Dio.
+
+   hotel - RS passing Ghost Hotel.
+
+   hiroba - RS passing Event Square.
+
+   hanabi1 - Firework display.
+
+   hanabi2 - Fireworks 2 (zoomed out camera).
+
+   yame - Cancel.
+
+Tifa 3:
+   hokora1 - Sleeping man's cave (gives you Mithril every time?).
+  
+   hokora2 - Gongaga Weapon salesman's house (where you get Aeris's limit break).
+
+   hokora3 - Chocobo Sage's house, SIAW.
+
+   hokora4 - Lucrecia's cavern.
+  
+   hokora5 - Materia Cave (Mime) SIAW.
+
+   hokora6 - Materia Cave (HP<->MP) SIAW.
+  
+   hokora7 - Materia Cave (Quadra Magic).
+
+   hokora8 - Materia Cave (Knights Of The Round) SIAW. 
+
+   yame - Cancels.
+
+ROOM 4.
+==== =
+NOTE: ENTERING CHANGES NAMES AND SETS PARTY TO CLOUD, TIFA, BARRET.
+
+Map:
+---
+
+ +-----------+              +------+
+ |Giant Aeris|              |Doctor|
+ +---------+-+              +---+--+
+           |                    |
+           |                    |
+           @                    @
+
+        #####
+        #####
+        #####
+        |                +-----+
+        |              +-+Nurse|
+        |          @___| +-----+
+        |
+        |
+        |
+Walking in this area (#) will result in the floor talking to you..
+
+
+
+"For those in a hurry" - Takes you to Aeris menu
+"For those with a little time" - Lets you walk around
+
+I recommend you use the "in a hurry" menu, as otherwise the characters don't appear.
+
+
+Giant Aeris: "Hello there, wanna be-hero.
+              You ready for your journey?"
+  "So? Where to?"
+
+   To Mideel! - Mideel before it has been destroyed. (Characters are invisible and the 
+                game often hangs).
+   To Mideel Clinic! - Scene where Cloud is in hospital and Tifa is watching him 
+                       (characters are invisible again..).
+   
+   To the Mideel Talk Event! - Game hangs unless you talk to the Doctor first
+                               (See below).
+
+   To the Attack Event! - In Mideel Clinic (invisible characters). 
+   
+   To the Lifestream! - Scene in clinic as the ground begins to shake..
+
+   To the Mindzone! - Cloud sinking into the Lifestream.
+   
+   To the Spirit World! - Start of 'inside Cloud's mind' scene.
+
+   To Spirit World2! - Middle part of Lifestream scene.
+   
+   To Spirit World3! - Scene where Young Cloud Talks with Tifa. 
+
+   To the Spirit World again! - Destroyed Mideel.
+  
+   To Mideel after it fell! - Visit to Nibelheim in Cloud's mind (should have been the
+                              above option).
+   To Hades! - Sarcastic comment from Aeris..
+   
+NOTE: Choosing "For those in a hurry", produces the same results, but the bottom 
+option is  now "Hold it, I need a break!", which leads to the battle with WEAPON.
+The other options are the same, but seem to work much more reliably.
+
+
+Nurse:  "Who're you going with?"
+    Lets you change party members.
+
+Doctor: "Take down a flag?"
+
+   Mideel - Mideel destroyed flag(?) Switch this on to enable the "Mideel
+            talk event!" option from Aeris.
+  
+   Ionia - Tifa flag?
+
+   Materia - Huge materia?
+
+   To the Dark Hill - Cloud and Tifa 'get it on' :)
+
+   To the Light Hill - The morning after..
+
+   (invisible option) - Highwind whilst Cloud and Tifa are at Mideel. 
+
+Thanks to scrwdrvr for the "Mideel Talk Event!" tip.
+
+
+ROOM 5.
+==== =
+
+Map:
+---
+
+
++----------+  +----------+ +-------------+
+|Barret (2)|  |Barret (1)| |Cait Sith (1)|
++--+-------+  +--+-------+ +-+-----------+
+   |             |           |
+   |             |+------+   |   +-------+
+   |          ___||Cid(1)|   |   |Cid (3)|
+   |         |    ++-----+   |   +-+-----+
+   |___      |     |  _______|     |
+       |     |     | |             |  +-------+
+       |     |     | |             |  |Cid (4)|
+       @     |     | @             @  +-+-----+
+             |     |            ________|
+             @     |_          @
+                     |            +------+
+                     @     @------+Sailor|
++-------------+                   +------+
+|Cait Sith (2)+------+
++-------------+      |
+                     @
+                 @                    +------+
+       ______@   |      @-------------+Yuffie|
+      |          |                    +------+
++-----+---+      |          @___
+|Aeris (2)|      |              |
++---------+      |              |
+                 |              |        +----+
++---------+      |              +--------+Dyne|
+|Aeris (1)+------+                       +----+
++---------+
+
+
+
+
+
+
+Cid 1 (Middle Cid): "Colneo"  (Don Corneo)
+
+   Ponbiki -  Don's Mansion
+
+   Irasshai - Inside Mansion. (Nothing seems to happen).
+
+   Tifa to goryuu - Tifa is taken to Corneo and you go in the room dressed as
+                     a girl.
+   Yame - cancel
+
+Cait Sith 1 (Top CS): Change party
+
+   Cloud Dake - Cloud Party Leader
+
+   Tifa Dake - Tifa Party Leader
+
+   Cid Dake - Cid Party leader
+
+Sailor:
+   
+   utai iriguti - Just entering Wutai.
+
+   yufi wo oe! - Entering Wutai persuing Yuffie.
+
+   yufi nakamani - Scene where you first beat/meet Yuffie. (Puts you in the
+                   ocean when you leave..)
+
+   yufi nigeru1 - Scene where you are ambushed by Shinra troops after Yuffie steals
+                  your materia.
+
+   yufi nigeru2 - Same as above? (different battle camera angle..)
+
+   meteo1 - Scene where meteor is hit by the rocket (KaBOOM..)
+
+   meteo2 - Cosmo Canyon after above scene.
+
+   meteo3 - Same as above, but alternative version (i.e. didn't (or maybe did)
+            get the huge materia out of the rocket).
+
+   yame - Cancels.
+
+
+Cid 2 (Above Sailor):
+   
+   tifa to saikai - Cloud meets up with Tifa in the Don's mansion.
+
+   earith to gouryuu - Aeris gets to 'meet' Corneo..
+   
+   colneo sonogo - Later on in the game in the basement of the Don's mansion
+                   with Kotch tied up.   
+   yame - cancel.
+
+Cid 3 (Top right Cid): "iroiro"
+
+   colneo kobun beya - Cloud gets to 'meet' Corneo's lackeys..
+   
+   sinra kaiden 1 - 1st set of Shinra building stairs..
+   
+   sinra kaiden 2 - 2nd set of stairs.
+
+   sinra kaiden 3 - Last set of stairs.
+
+   sinra 59F - 59F. Stuck in a wall.. 
+ 
+   sinra elevetor - Elevator after breaking in to the shinra building (alarm goes 
+                    off, etc).
+   sinrabil totunyuu - Scene outside Shinra building when you first climb up there.
+
+   sinrabil dasshutu - Shinra Building lobby, before the infamous motorbike 
+                       scene :). (I think the film part dosen't work though :( ).
+   yame - cancel.
+
+
+Yuffie:
+(probably needs disk 1)   
+  cosmo materia ya - Cosmo Canyon materia shop. 
+  
+  cosmo touchaku - Zoomed out view from when you first visit Cosmo Canyon.
+  
+  seto no kabe - Scene where Red XIII arrives at the statue of Seto. 
+  
+  Movie Check - DISK 1 ONLY. Plays film of Bugenhagens planet machine thingy.
+  
+  boogen jikkensitu - Boogenhagen shows off his 3D orrary thing.
+
+  sayonara cosmo - Scene as Cloud leaves Cosmo Canyon, only to be joined by Red XIII.
+
+  meteo go cosmo - Cosmo Canyon after the threat of Meteor.
+
+  onegai boogen - Inside Bugenhagen's room. (He's waiting inside his machine thing).
+
+  hyuji materia - Huge materia display.
+  
+  sayonara boogen - In Bugenhagen's room.
+
+  ............ -  Bugenhagen 'goes away' and gives Red XIII his Ultimate Weapon.
+
+Dyne:
+NOTE: Some of these MUST have disk 1 in to work.
+   sinra 60F - Video of guard falling asleep. Then Cloud SIAW.
+
+   sinra 61F - 61F of Shinra building.
+
+   sinra 64F - 64F of Shinra building (gym). No keycard, so you're stuck!
+   
+   sinra 63F - 63F of Shinra building (item maze) SIAW.
+
+   sinra 62F - 62F (library) SIAW.
+
+   sinrabil shoumen - Outside Shinra HQ. Then game hangs..
+
+   sinrabil uraguti - Shinra back entrance (leading to the stairs).
+
+   minigame - Motorbike game (This seems to run much faster than normal). Afterwards
+              Cloud appears in an empty black room. Weird.
+ 
+   sinrabil matane - Outside Shinra Building. SIAW.  
+
+   yame - cancel
+
+Cait Sith 2: (Bottom CS)
+NOTE: These need disk 1 to work.
+   Unpansen - In disguise on board the cargo ship to Costa Del Sol.
+   corel kaisou1 - Barret flashback to the original North Corel town/Shinra meeting.
+   corel kaisou2 - Shinra/townspeople meeting scene of flashback. 
+   saishuukessen - End of the game. Cloud travels towards the light..
+   yame - Cancels.
+
+Aeris 1 (Closest to CS 2):
+
+   Cloud erabeu - Cloud Chosen by Don Corneo
+   Earith erabeu - Aeris chosen
+   Tifa erabeu - Tifa Chosen
+   Yame - Cancel
+
+Aeris 2 (Bottom left most):
+
+   Cloud no Baai - Cloud in Corneos' room
+   Earith no Baai - Aeris in room
+   Tifa no Baai - Tifa in room
+   Yame - cancel
+
+Barret 1 (Closest to Cid): "5Bangai" (Sector 5)
+   
+   kyoukai no yane - Aeris talking to Cloud on the church roof.
+   yane pyon - on the roof tops with Aeris. Then SIAW..
+   yane kara oriru - Cloud and Aeris jump off the last bit of the pile of junk. 
+   yame - Cancel.
+
+Barret 2 (Top left): "5Bangai2" (Sector 5 part 2)
+   
+   slum chuusin - Sector 5 main area.
+   dokan - Inside the sickman's house/pipe place.  
+   icchaya - Outside of main Sector 5 (when you're trying to sneak away without 
+             Aeris).
+   yame - Cancel. 
+
+ROOM 6.
+==== =
+
+Map:
+---
+
++--------+ +-----+ +------+ +----------+
+|Red XIII| |Reeve| |Barret| |Snow Woman|
++---+----+ +--+--+ ++-----+ ++---------+
+    |         |     |        | +---------+
+    |______   |   __| _______| |Cait Sith|
+           |  |  |   |         +-+-------+
++---+      @  @  @  @  @_________|
+|Cid+-+
++---+ |                     +------------+
+      |____@     @     @----+Man with Hat|
+                 |          +------------+
++--------+       |
+|Wrestler+-@   @ | @   @    +-----+
++--------+     | | |   |___-+Aeris|
+            ___| | |        +-----+
++------+   |     |++---+
+|Yuffie+---+     ||Tifa|
++------+         |+----+
+                 |
+             +---+-+
+             |Cloud|
+             +-----+
+
+
+Cid: Battle against Vagyrisk (SP?) then:
+   
+   Man - wall market as Cloud
+   Be Girl - Wall market as Cloud in dress.
+
+Red XIII: "Train Grave"
+   
+   MDS7ST2 - Second screen of the Train Graveyard.  
+   MDS7ST1 - Party enter the start of the Train Graveyard.
+   Cancel - cancels
+
+Reeve:
+
+   1 - Leads to Shinra meeting and unveiling of the 'Sister Ray'.
+   2 - Firing of sister ray
+   3 - After firing of Sister Ray/The death of Rufus.
+   Last 0-3 - Start of North cave (leaving Highwind)
+   Cancel
+
+Barret: "Organaize Party?"
+  This lets you choose the lead character as well as the usual support
+characters.
+
+Snow Woman
+   (blank spaces)
+
+   1. - Recovering from snowboard landing (great glacier, near some trees).
+
+   2. - 'Ice Gate' sign at Great Glacier.
+ 
+   3. - Recovering from Snowboard landing at the above sign post.
+
+   4. - Recovering in thick forest area.
+
+   HYOU3 - Recovering in rock valley area.
+
+   HYOU13-1 (After) - Outside Snow Woman's cave. (After kicking her ass).
+ 
+   HYOU13-1 (Before) - Outside Snow Woman's cave (before fighting her).
+
+   HYOU5-2 - Screen with all the little icebergs to jump on.
+
+   Cancel - Cancels. 
+
+   
+Cait Sith: "Climb Wire"
+
+   WCRIMB1(with Battery) - First part of rubble climbing scene with batteries.
+   WCRIMB1(without Battery) - Same as above - but guess what? You've got no batteries.
+   WCRIMB2 - Last climb scene (with batteries).
+   WCRIMB1 - Annoying bit where you have to jump onto the swinging pole. (with 
+             batteries)
+   Cancel - Cancels
+
+Man With Hat: "CONDOR1"
+
+  1. Leads to sub menu:
+   1a. Entrance to Fort Condor Cloud is leader  
+   1b. Entrance to Fort Condor, but Tifa is party leader.
+   1c. Entrance to Fort Condor, but Cid is party leader.
+   cancel - cancels.
+   
+
+  2. Leads to sub menu:
+   2a. Fort Condor already upstairs (Cloud leader + Tifa + Cid).
+   2b. Fort Condor already upstairs (Tifa leader + Young Cloud + Cid)
+   2c. Fort Condor already upstairs (Cid leader + Young Cloud + Sephiroth!)
+   cancel - Fort condor upstairs. (With your current party) DOSEN'T CANCEL!
+  
+  3. Leads to:
+   3a. Entrance to Fort Condor (after final huge materia battle. Cloud leader +
+       Cid + Tifa). 
+   3b. Same as above, but Tifa is party leader (plus Cid and Young Cloud) 
+   3c. Same as above, but Cid is party leader (plus Young Cloud + Sephiroth)
+   cancel - Same as above but with current party
+  
+  4. Leads to:
+   4a. Fort Condor (seems to be the same as option 1a.)
+   4b. Fort Condor (same as option 1b.) 
+   4c. Fort Condor (same as option 1c.
+   cancel - Fort Condor with Cid leader, Young Cloud, and Cloud.
+  
+  5. Leads to:
+   5a. Fort Condor before Huge materia battle (Cloud+Tifa+Cid).
+   5b. Fort Condor before Huge materia battle (Tifa+Cid+Y.Cloud).
+   5c. Fort Condor, same as above. (Cid+Y.Cloud+Sephiroth)
+   cancel - Fort Condor Battle 2 (Current party).
+
+  6. Leads to:
+   6a. After winning Huge materia battle (Cloud+Tifa+Cid).  
+   6b. After winning Huge materia battle (Tifa+Y.Cloud+Ci).
+   6c. Same as above but with Cid+Sephiroth+Y.Cloud.
+   cancel - Same as above, but with current party.
+  
+  7. After Huge materia battle talking to old man downstairs. Game hangs when you 
+     talk to him.
+   
+  8. In command shed after losing a battle.
+ 
+  9. ?
+
+  10. Cancels. 
+
+
+Aeris: (Sometimes this menu is a mess, and sometimes it works. Strange.) 
+   MRKT1 - Top half of Wall Market at start of game. 
+   MRKT2 (After) - First visit to Wall Market with Aeris 
+   MRKT2 (Before) - Wall Market before 'Plate climb' scene.
+   Cancel - Cancels
+
+Tifa:
+Options which give you:
+
+   1. Gives you another 300 Gil.
+   2. Gives you another 131072 Gil.
+   3. Gives you 99 of every item.
+   4. Fight against pyramids
+   5. Resets items/time/party to 0 (This also lets you select all 
+      menu options. DO NOT SELECT PHS WITHOUT A PARTY)!
+   6. ? 
+   7. ?
+   8. Quit?
+
+Yuffie: "20 Movie"
+   Look - View movie (This ONLY WORKS WITH DISK 2!)
+   Plus - Add one to the movie number.
+   Cancel - Cancels
+
+Wrestler:
+
+Play Fort Condor Minigame
+1-6 or 'last one' for huge materia game version.
+
+ROOM 7.
+==== =
+
+Map:
+---
+
+  +------+ +----+ +---+ +-----+
+  |Barret| |Tifa| |Man| |Aeris|
+  +--+---+ +---++ +-+-+ +-+---+
+     |         |   _|     |
+     |______   |  |   ____|   +---+
+            |  |  |  |      +-+Cid|
++---------+ @  @  @  @      | +---+
+|Priscilla|                 |
++---------+-@  @     @______| +------+
+              _|              |Yuffie|
+            @| @  @  @        +-+----+
+            || |  |  |__________|
++-------+   || |  |
+|Old Man+---+| |  |   +-------+
++-------+    | |  +---+Man (2)|
+        _____| |_     +-------+
+       |         |
+  +----++       ++-------+
+  |Cloud|       |Red XIII|
+  +-----+       +--------+
+
+
+
+Priscilla:
+   Allows you to add every possible character to the global party list or
+   remove individual characters. This results in that character being removed
+   from the PHS list as if you had not found him/her. Remember YOU CAN ONLY
+   GET THE CHARACTER BACK FROM HERE by using the all members option.
+
+Barret:
+   Allows you to change characters as usual, but also lets you change Cid to
+party leader ("put Cid on point").
+
+Tifa: "Going to North Corel"
+   Barret of North Corel - North entrance of Corel town.
+   ropeway - Gold Saucer ropeway entrance (corel side).  
+   North Corel - version you get if you fsil to stop the runaway train.
+   Quit - quits.
+
+Man (Next to Tifa):
+These options all work by setting flags of what has and hasn't been done by the
+player. It is almost impossible to test a lot of these options fairly, as leaving
+the debug room puts you by Midgar. This is a problem because you need the Highwind to
+investigate the changes. Also, by using the Highwind option it sets the game to after
+you have got the highwind, cancelling out options/events before it.
+    
+    Palmer - After Palmer boss fight
+    Highwind - Gives you the Highwind. (look where it is..)
+    Materia mission - ? 
+    Cloud's revival - ?
+    Rocket launch - Huge materia rocket ready to launch.
+    Sister Ray - Going to stop intercept the Sister Ray.
+    Train Success - ?
+    Train Failure - ?
+    Train Last - ?
+    Quit - This DOES NOT QUIT! it sends you to N.Corel after the train
+           mission, but there is no visible character on screen and you cannot
+           enter any houses or exits. In short you are stuck!
+
+Aeris: "Snowboard Game" - guess what this does..
+
+Cid:
+
+Leads to icicle inn just before snowboard section
+
+Yuffie: "Hydroplane event"
+   Deck No.1 - Should be a scene from weapons awakening, but dosen't seem to work.
+   Parachute Deck - parachuting into Midgar scene.
+   bridge no. 1 - Scene before the Sister Ray is used by Hojo.
+   bridge no. 2 - Scene where Reeve explains Hojo problem to Cloud.
+   bridge no. 3 - Scene after Reeve is captured/Highwind heads for Midgar.
+   Conference room 1 - Heidegger/Scarlet explain huge materia plan to Rufus. 
+   Conference room 2 - Reeve takes control..
+   Conference room 3 - Reeve gets 'busted'.  
+   Send-off people - Just before parachuting into Midgar scene.
+
+Man 2(at bottom): "Gaea's Cliff test"
+   Gaea's cliff no.1 - 1st Freezing climb section. 
+   Gaea's cliff no.2 - 2nd freezing climb section.
+   Gaea's cliff 1 of 3 - 3rd freezing climb section. 
+   Gaea's cliff 2 of 3 - Last climb to top of cliff.
+   Base of Gaea's cliff - Outside Mr. Holzoff's house.
+   Quit - cancels.
+
+Red XIII: "Where are you going underneath Junon?"
+   Under junon 1 - Junon fishing town next to the beach.
+   There'll be monsters - Junon fishing town, before you've met Rufus, but
+   after you've saved Priscila. 
+   Dolphin Jump - 'Dolphin jump' scene (but you don't have the whistle?).
+   Artificial respiration - 'CPR' scene.
+
+Old Man:
+   Crater no.1 - Start of Crater 'reunion' scene. 
+   Whirlwind Maze no. 1 - Scene where Sephiroth tricks Red XIII.
+   Whirlwind Maze no. 2 - Next screen on from 'Crater no. 1 '.
+   Atmospheric barrier no. 1 - First 'Barrier' scene.
+   Atmospheric barrier no. 2 - Second 'barrier' scene.
+   Atmospheric barrier no. 3 - third 'barrier' scene.
+   Quit - cancels.
+
+
+ROOM 8.
+==== =
+
+Map:
+---
+
++-----+ +----+ +---+
+|Aeris| |Tifa| |Cid|
++---+-+ +-+--+ ++--+ +----------------+
+    |__   |   __|    |President Shinra|
+       |  |  |       +-+--------------+
+       |  |  |         |
+       @  @  @  @______|
+
+
+                        +------+
+                   +----+Jessie|
+       @  @  @  @__|    +------+
+       |  |  |
+       |  |  |_____
+       |  |        |
+       | ++-----+  |
+       | |Barret| ++-------+
+       | +------+ |Red XIII|
++------+----+     +--------+
+|Man in suit|
++-----------+
+
+
+Aeris:
+
+   cancel - cancel.
+   bone after arma - Strange. Puts you at Bone Village, after Meteor is summoned, but
+                     some characters act as though it hasn't.
+   san dun - Corral Valley cave climbing scene.
+   sleep forest - First screen of sleeping forest.
+   ancient forest - leads to the ancient forest secret area (with the frogs and 
+                    flies, etc).
+   lost lake - 'Music Box' area in The City of the Ancients (with the waterfall). 
+   water pray - Scene where Aeris is praying before she is killed by Sephiroth.
+   Aeris dead - Scene after Jenova-LIFE boss battle.
+   rocket ([] first) - Scene before Palmer boss fight. (Hold square for when the party
+                       first see the Tiny Bronco).
+   bone first - Bone village.
+   bone luna - Bone Village before you have got to the City of the Ancients.
+   los in - Scene at Junon when the party realise the giant cannon is missing.
+
+Tifa:
+   past jenova ([] egg) - Scene where Sephiroth nearly kills Tifa/Cloud remebers
+                          the truth. (Hold square for scene after Cloud has stabbed 
+                          Sephiroth.)
+   join vincent - Scene where Vincent stops you and joins the party.
+
+   shinra house vincent ([] Present) - Shinra mansion. Cloud can't get out of the 
+           bed? (Hold [] for the entrance to the mansion just before the 'reunion'.)
+   
+   Shinra under ([] awake) - Shinra mansion outside of library (flashback scene)
+                (Hold [] for second library visit).
+
+   nivl reactor - Just outside of 'egg' room.
+
+   nivl reactor out ([] with Tifa) - Arrival at Mako reactor (flashback)
+                (Hold [] for Outside Mako reactor persuing Sephiroth)
+
+   nivl mt entrance ([] past) - Mt. Nibel 'fly-by' FMV. (Hold [] for Mt. Nibel
+                    flashback when Cloud and Tifa were children.)
+
+   materia cave - Just outside of the 'materia cave' in Mt. Nibel (flashback).
+
+   new event sininb34 - outside of S.Mansion library (leads to truck flashback). 
+
+   new event sininb35 - Actual beginning of Zack flashback.
+
+   new midgal - Scene where Cloud+Zack reach Midgar.
+
+   nivgate - Zack+Cloud stagger out of Nibelheim.
+
+   () - Cancels.
+
+   
+Cid: (For mako reactor scenes play on disk 1 to prevent annoying hangs.)
+   opening - (Dosen't appear to work.)
+   Feel Wind - leads to diamond weapon boss battle.
+   gate 1 open - The scene outside the first mako reactor after leaving the station.
+   T road - T road as AVALANCHE enters the first mako reactor. (Hold Square for 
+            'escape' scene.)
+   1reactor ([] 5reactor) - On bridge leading to first boss battle. (Hold down square 
+                            for sector 5 reactor equivalent.)
+
+   junon - Television crew press conference scene. (Hold Square for the same, 
+           but with Yuffie disguised as a camera man later on. Or press R1 for Tifa 
+           gas chamber escape sequence).
+   () - cancel
+
+President Shinra: (In general these will mess up quite badly if disk 2 isn't
+                   inserted, so beware.)
+   white - Tifa in gas chamber scene.
+   
+   white boogen(key) - Scene where the music box projects an image.
+                       This refuses to work properly, if Disk 1 or 2 are 
+                       inserted it messes up and shows the wrong films
+                       (The orrary thing and the Gelnika taking the huge materia from
+                        Junon), but if Disk 3 is inserted it works at first, then the
+                        game hangs..
+
+   white boogen(nokey) - screen before Bugenhagen examines the 'music box'. 
+   
+   before - The same as above.
+   
+   after - After 'music box' scene has been completed.
+   
+   white 2 - The same as above.
+   
+   Junonn in2 - Music box 'projection' scene. 
+
+Man in Suit:
+
+   Para - parachute scene? (dosen't work)
+   66F - 66F of Shinra building at the start of the board meeting.
+   67F - 67F as Hojo enters. (Hold square for 'captured' scene.)
+   68F - Just before boss fight with HO512.
+   68F2 - Scene where Red XIII first appears.
+   70F - leads to:
+         
+         plate down meeting - Heidegger and Reeve talk to P.Shinra about the Sector 7 
+                              pillar sabotage plan.
+         caught - scene where the team are introduced to President Shinra by Rude.
+         dead president - Arrival in P.Shinra's office only to find him dead.
+         app rufaus - Rufus arrives outside in his helicopter.
+         after heli - scene just before Rufus boss battle.
+   elevetr - Scene where the turks capture everyone in the lift.
+   () - cancels
+ 
+Barret: Leads to one of the pathways in the final dungeon.
+
+Red XIII:
+NOTE: A lot of these need Disk 2 inserted to work correctly.
+
+
+   7 pillar - Just before you talk to Barret on Sector 7 pilar battle.
+   Kolneo under - Sewers below Don Corneo's mansion.
+   high way - Scene after 'Motor Ball' boss.
+   5 out - Scene where party leave Midgar headed for Kalm.
+   airport ([] gelnica) - Outside Highwind at airport (Disk 2 only, but seems to hang 
+                          game) 
+                          (Hold square for the Gelnika airport scene).
+ 
+   after fire sephiros - Dosen't seem to work.
+   jairo sky - Scene where Tiny Bronco is about to crash land.
+   jairo sea - Scene where Tiny Bronco is crashed landed in the sea.
+   junon cannon - scene where weapon is attacking Junon/ Barret escapes.
+   junon medical - Scene after Tifa's Flashback in Junon whilst held prisoner.
+   () - cancel    
+
+Jessie:
+
+Allows you to acquire individual characters and most usefully, add Aeris to the
+active party list.
+   
+   
+   Lock Cloud - Keeps cloud as party leader
+
+ROOM 9.
+==== =
+
+Map:
+---
+
+ +---------+ +-----+ +---------+ +----+ +-----------+
+ |Sephiroth| |Aeris| |Priscilla| |Tifa| |Little Girl|
+ +------+--+ +----++ +--+------+ ++---+ +-+---------+
+        |         |     |      ___|       |
+        |________ |__   |     |           |
+                 |   |  |   __|   ________|
+                 |   |  |  |     |
+                 |   |  |  |   __|   +--------------+
+                 @   @  @  @  @   +--+Red Haired Man|
+                         _________|  +--------------+
++---------+             |            +------+
+|Cait Sith+------@      @  @  @------+Zangan|
++---------+                |         +------+  +------+
+                           +-------------------+Doctor|
+      ___________@   @  @                      +------+
+     |               |  |
++----+-+ +------+    | ++-------------------+
+|Barret| |Yuffie+----+ |Highwind Crew Member|
++------+ +------+      +--------------------+
+
+
+
+Sephiroth: "Sephiroth related"
+   Quit - cancels.
+ 
+   from pinball - Cloud remembering truck flashback sequence.
+  
+   from Cam's inn - Truck flashback ('original' Kalm version).
+  
+   starry sky - Cloud and Tifa at the well flashback.
+   
+   gate - Sephiroth and Cloud arrive at Nibelheim.
+
+   gate no.2 - Lifestream visit to Nibelheim. (No characters?)
+ 
+   starry sky - Well flashback in Lifestream. 
+
+   village no.2 - Nibelheim, stuck in Tifa? (ooer missus)
+
+   truck no.2 - Dosen't seem to work.
+
+
+
+Aeris: "Church" (sometimes this menu is a mess, sometimes it's okay).
+   First of all - Cloud awakeing in the flowerbed
+   
+   Following roof incident - Inside the church with the little kids looking at
+                             the flowers.
+  
+   After Aeris's death - Return to church to see the ghost of Aeris.
+
+Priscila:
+   Highwind (Not going) - cancel
+   
+   Shinra's highwind - Rufus and Co fly to the 'reunion'.
+   
+   Party's highwind - First scene on the captured Highwind bridge.
+   
+   Evening's highwind - same as 'Shinra's Highwind'.
+   
+   sign - Parachute deck of the Highwind, SIAW..
+   
+   passageway - Middle room of the Highwind, SIAW. 
+   
+   Conference room - Highwind conference room, Cloud apologizing..
+   
+   Chocobo - Inside Highwind Chocobo stable, SIAW.
+   
+   [Cloud's current name] Highwind - usual Highwind bridge scene. 
+
+Tifa: "My dear hometown Nibelheim"
+   village - Flashback of Nibelheim. (At town square). 
+
+   1st floor of inn - Stuck in the kitchen.
+
+   2nd floor of inn - Stuck in Sephiroth?
+
+   store - Item shop SIAW.
+
+   Cloud's house - Cloud's house (leaps to flashback version).
+
+   Tifa's house - Leads to:
+      
+      1st floor - SIAW.
+  
+      2nd floor - SIAW.
+     
+      2nd floor window - Tifa as a child flashback.
+  
+      reminiscing - Tifa+Cloud as children flashback (the day Tifa's mother 
+                    died..).
+          
+   1st floor of house - Bottom of house in Nibelheim. SIAW.
+
+   2nd floor of house - Attic room of house. You're stuck, even though you are 
+                        standing in the middle of the room..
+   Quit - Cancels. 
+   
+
+Little Girl (With Pigtails): "Goodbye to party members Cloud"
+Zack flashback scene.
+
+Cait Sith: "Tragedy of Nibelheim" (also quit)
+   Part 1 - Sephiroth's version of Nibelheim events..
+ 
+   Part 2 - Sephiroth shows Cloud the truth..
+
+Red haired Man: "Global Reset"
+   Yes - resets time
+   no - cancels
+   ended reflecting on the past - ?
+
+Doctor: "Present day Nibelheim"
+   Go - Nibelheim SIAW.
+   Don't go - Cancels.
+
+Zangan:
+(says nothing..)
+
+Barret:
+
+   1. (Game hangs)
+   2. Puts Cloud in Party
+   3. Puts Barret in party
+   4. Puts Aeris in party
+   5. Puts Red XIII in party
+   6. Puts Yuffie in party
+   7. Puts Cait Sith in party
+   8. Puts Vincent in party
+   9. Puts Cid in party.
+   10. Makes young Cloud party leader
+   11. Makes Cloud party leader.
+   12. Makes Tifa party leader.
+   13. Makes Cid party leader.
+   14. Quit
+
+Yuffie:
+   quit - Cancels.
+
+   TRNAD51 - Scene just after Cloud gives Sephiroth the black materia.
+
+   TRNAD52 - scene before Cloud gives Sephiroth the black materia.
+
+   TRNAD53 - Very strange. Gives the message "Northen Cave 5-3". Then SIAW.
+
+   BLACKBGD - At entrance to northen cave/Highwind.
+
+
+Highwind Crew Member:
+   quit - Cancels.
+
+   regular hours - After getting Cloud back, heading to junon on the Highwind.
+
+   star's scream - Cid makes his rousing speech .. :) (on Highwind)
+
+   weapon appears - Diamond weapon attacks Midgar (Highwind).
+
+   What happened to Sephiroth? - Heading to the Northen Cave (Highwind)
+
+   On the final day - Cloud tells everyone to go home..
+
+   everyone came home. - The party all rejoin Cloud and Tifa on the Highwind.
+
+   called from the last dungeon - On Highwind at the end of the game.
+
+ROOM 10.
+==== ==
+NOTE: REMOVES SOME CHARACTERS NAMES.
+
+Map:
+---
+
+
++-------+ +--------+ +-------------+ +------+
+|Vincent| |Red XIII| |Middle Person| |Yuffie|
++---+---+ +---+----+ ++------------+ ++-----+
+    |_____    |    ___|  _____________|
+          |   |   |    _|
+          |   |   |   |        +-----+
+          @   @   @   @   @----+Aeris|
+                               +-----+
+
+          @       @       @
+          |       |       |    +------+
++---------+ +-----+----+  +----|Barret|
+|Cait Sith| |Save Point|       +------+
++---------+ +----------+
+
+
+
+Vincent: "pary make"
+   (change last character to X)
+    
+Red XIII:
+   
+   cancel - Cancels.
+  
+   SPGATE - underwater reactor SIAW
+   
+   SPIPE 1 - In glass tunnel leading to the underwater reactor.
+  
+   SPIPE 2 - End of glass tunnel. SIAW.
+
+   SEMKIN 1 - Inside pressure lift. SIAW.
+   
+   SEMKIN 2 - Stuck on Red Submarine in reactor.
+
+   SEMKIN 8 - Underwater reactor scene before boss fight.
+   
+   SEMKIN 3 - Main scene of underwater reactor. SIAW.
+
+   SEMKIN 4 - The reactor chimney. SIAW.
+
+   SEMKIN 5 - Huge Materia loaded into red submarine. SIAW.
+
+   SEMKIN 6 - Before boarding submarine. SIAW.
+
+   SEMKIN 7 - Shinra troops on the run. SIAW.
+
+            - cancel.
+  
+   
+Yuffie:
+   Cancel - cancels
+   Tucks union - Turks on holiday in Wutai on/off.
+   DATIO 1 - stuck in a painful looking area of Dao-Chao, Wutai. The 
+             Turks are there too.
+   DATIO 2 - Stuck on Dao-Chao.   
+
+   DATIO 3 - Dao-Chao. SIAW.
+
+   DATIO 4 - Stuck in D-C again.
+
+   DATIO 5 - D-C SIAW.
+
+   DATIO 6 - D-C SIAW.
+
+   DATIO 7 - On top of 'saluting' fingers at D-C. SIAW.
+
+   DATIO 8 - Fire Cave, Dao-Chao. SIAW.
+
+   5TOWER - Bottom of the 'Pagoda of the Five Mighty Gods'.  
+
+Middle Person:
+   
+   Quit - Cancels.
+  
+   next page - Page 2 of options.
+  
+   BLACKBGH - An empty black room. Excellent.
+
+   BLACKBGI - Appear back in the same debug room..
+
+   TUNNEL 6 - Railway tunnels in the 'Siege on Midgar' part. 
+
+   MD8 6 - Outside trapdoor leading to under Midgar. SIAW.
+
+   MD8 B1 - Sector 8 ladder maze, SIAW. 
+
+   MD8 B2 - Sector 8 Ladder maze second part. SIAW.
+
+   MD8 32 - Sector 8 below walkway to the Sister Ray. SIAW.
+
+   MD8 BRDG2 - Before you fight the 'Proud Clod'. SIAW.
+
+   TUNNEL 4 - Really weird. In the train tunnels, trapped behind a closed door, but
+              if you keep going you can get to another tunnel.
+
+   TUNNEL 5 - Sector 8 train tunnel, SIAW.
+
+PAGE 2:
+
+   prepage - back to page 1.
+   
+   CANON 1 - Walkway to the Sister Ray. SIAW.
+
+   CANON 2 - Hojo preparing the Sister Ray.
+
+   MTCRL 2 - Outside Mt. Corel Mako Reactor (Huge materia scene).
+
+   ZCOAL 1 - Coal train Engineers platform. SIAW.
+
+   ZCOAL 2 - Coal Train crash scene.
+
+   ZCOAL 3 - Fight against train driver.
+
+   4SBWY 22 - Crawling through air duct into Sector 8 train tunnels.
+
+
+Aeris: "player change"
+
+    cloud - puts Cloud in lead
+
+    tifa - Tifa is leader
+
+    cid - the same, but with Cid.
+
+    cancel - cancels.
+
+
+Barret: "materia max"
+    Yes - Gives you a load of Bahamut materias (the game appears to hang, but 
+          be patient and it should respond again).  
+    No - cancel.
+Cait Sith:
+   cancel - cancels.
+
+   LAS2 1 - Final dungeon. 'Left' path, at the fork in the road.
+
+   LAS2 2 - First screen of 'watery' route.
+
+   LAS2 3 - Second screen of 'watery' route. SIAW.
+
+   LAS2 4 - In the middle of the 'glowing crater' (mega all materia). SIAW.
+
+   LAS0 6 - End of the 'vertical descent' section of the FD.
+
+   LAS0 7 - Side tunnel of above section. SIAW.
+
+   LAS0 8 - Start of 'right' path. SIAW.
+         
+   MOGU 1 - Play 'Mog House' game. Then leads to Gold Saucer.
+
+Save Point:
+
+Lets you save in the debug room.
+
+
+ROOM 11. Exits the debug room and makes party appear just outside of 
+==== ==  Midgar.
+
+
+|--------------------|
++ 5.) Miscellaneous: +---------------------------------------------------------------
+|--------------------|
+
+*. THE DATE SCENE:
+
+One of the most amusing things you can do in FF7 is 'date' all the female characters,
+as well as Barret (NO, it's NOT like that :) ). Usually it requires you to be kind/
+unkind to different characters to decide which of them you will go with. Each time you
+choose certain options you are adding or subtracting to each characters total of how
+many 'love points' they have recieved from your actions. 
+By using the debug room you can bypass playing through the game and skip right to the
+'good stuff'. The only problem is which character is chosen.
+In view of this I formulated a plan of how to 'date' each character:
+
+1. Go to room 3.
+
+2. Talk to the Aeris on the far right.
+
+3. Select "un" and choose Cloud, the character you want to go with (out of Aeris,
+Tifa, Yuffie, and Barret), and finally "inai".
+
+4. Press the square button (you should see "2P" appear)
+
+5. Talk to the top Yuffie. Choose "date no osasoi".
+
+6. Et Voila!
+
+You can do this the hard way by setting the number of points for each character,
+but I can't seem to get Barret this way.
+
+*. Chocobo stats:
+
+It is extremely difficult to work out what all the statistics in the Chocobo
+screen menu mean, but here is what I have found:
+
+TSP: Maximum Stamina
+
+TS: Current Stamina
+
+SPP: Maximum Speed
+
+SP: Current Speed
+
+ST: ? (maybe this is stamina after all)
+
+AC: Acceleration?
+
+T: Intelligence (out of 100).
+
+LOY: Loyalty. How well the Chocobo behaves (100 is best).
+
+CHR: ?
+
+CHCT: ?
+
+SEX: 0 Male
+     1 Female
+
+COL: (Colour)
+     0 Normal
+     1 Green
+     2 Blue
+     3 Black
+     6 Gold
+
+CL: Number of times Chocobo has been ridden in a race (or races won?).
+
+R: ? (Always seems to be 2)
+
+
+*. Weird Things:
+
+Something extremely strange and interesting:
+
+1. Enter the debug room through the 'New Game' option.
+2. Go to room 2.
+3. Talk to the Sailor and select 'shinra airship'.
+4. now go outside..
+
+Not only are you not in the submarine, but you are piloting the Key of the 
+Ancients! Even stranger, you can actually ride over the edges of the ocean cliffs
+and sail over the land. Somewhat pointlessly the topography of the normal map has
+been roughly preserved, so you can sail over the whole of the landscape. The map
+in the bottom of the screen dosen't appear to work properly, as it seems that there
+are exact copies of the sea floor scattered around the place. It would be interesting 
+to see whether there are any other areas you can explore that are not usually accessible.
+
+Thanks to 'Sanagi' for this. (Seems to be an expert at finding weird things :) ).
+
+Start a New game and go to room 4. Talk to the nurse and select "I'm starting over"
+Now select "princess" This turns you into the giant Aeris.
+
+Again, thanks to Sanagi for that.
+
+
+*. Room 4 has lots of strange in jokes. In particular, try walking on the
+talking floor, or choosing "To Hades!", from the Giant Aeris menu.
+(Presumably due to the tedium of constant bug testing..)
+
+*.SUPER ARMOR
+
+V.IMPORTANT: DO NOT USE THIS CHEAT ON YOUR CHARACTER'S ULTIMATE 
+WEAPONS. You will not get them back. In fact, you should equip your 
+characters with the worst armour and weapons you can find (i.e. 
+initial weapons which you can't sell anyway) before you use this 
+cheat (that goes for accessories, too) as they will be lost forever 
+otherwise.
+
+My good friend Vishy discovered an interesting side effect of the 
+"full name" option:-
+
+In the Main Debug room, talk to Yuffie and choose "FULL NAME". This 
+will mess up the characters names, but more importantly mess up the 
+weapon and armor statistics..
+
+Now when you return back to the game you will be practically 
+invincible. Every attack made apon you by the enemy will miss, or if 
+they are lucky enough to actually hit you then the damage will 
+actually HEAL you like using elemental defence! I haven't tested this 
+out that thoroughly yet, (like against instant death attacks) but it 
+definitely deflects ANY kind of physical attack and I think all the 
+magic attacks. In theory this should also work on enemies such as the 
+WEAPONS and even Sephiroth! I haven't tested this yet, but it 
+certainly seems conceivable. Thanks a lot Vish!
+
+BUG/SIDE EFFECT NOTE:
+Rob Bill mailed me to say that when you use this cheat the third 
+character will have 'Death Sentence' cast apon them as soon as battle 
+commences. To get round this, simply equip the third character with a 
+Ribbon to counteract the problem.
+
+
+*. The Pyramids...
+
+PYRAMID (real name is unknown)
+
+LEVEL: 4
+HP: 10
+MP: 200
+EXP: 500000
+GIL: 500000
+AP: 10000
+
+Appear in a group of 5.
+The Pyramids do not attack or respond at all to the player. they are 
+very easy to destroy, but only physically disappear when instant death
+is used on them (This has led to the misconception that they are 
+extremely tough, but in reality they are easily beaten but don't 
+disappear). Obviously you must hit every single pyramid to win the 
+match. This is an incredibly easy way to earn levels in seconds. You 
+can build up a party of level 1 characters up to level 99 in under one
+minute. Using 'Exp plus' materia makes the process even faster.
+
+Pyramid properties:-
+
+The pyramids can be manipulated but have no attacks. 
+Cannot be morphed or stolen from.
+Can be poisoned - but dies straight away anyway..
+Can be silenced.
+Can be confused! - they spin around.
+Can be 'mini'ed and 'toad'ed (needs multiple attempts)
+Can be 'beserk'ed - turn red.
+Can be sent to sleep.
+You can use the enemy skill 'L4 suicide' on them (I expect the reason why
+they are at level 4 is for testing this).
+Can be 'sense'ed.
+Can be killed by 'instant death' attacks.
+
+Each Pyramid gives you a Turbo Ether when killed.
+
+Thanks to 'Vegeta3485' for pointing out that the pyramids can actually
+be minied/toaded.
+
+INTERESTING UPDATE:
+Zach Fisher mailed me with a strange observation. He found that if you
+attacked the Pyramid in the far back row (middle) the battle would end
+immediately, without even touching the other pyramids. I experimented 
+with this and I found that as he said, you could win by just attacking
+the back pyramid. What was stranger though, was that if you attack any
+other pyramid first and then attacked the back pyramid you would 
+still have to defeat all 5 pyramids to win.
+
+Use this little tip and you can earn levels even faster than before. 
+
+
+*. THE SUPER-DELUXE GUIDE TO GETTING SEPHIROTH!
+
+As you probably know, you can use the debug room to add Sephiroth to 
+your party. However, getting him and making use of him can be 
+difficult. Here are some usefull tips:
+
+TO GET SEPHIROTH
+
+The basic question. The best way to get Sephiroth is to do the 
+following:
+
+1. Load up the game with the code on. USE DISK 1 and select "NEW GAME".
+The reason for this is that if you enter the debug room with Vincent 
+in your party, then it makes your probability of getting Sephiroth to 
+plummet to almost nothing (it is nearly impossible to get Sephiroth 
+once you have Vincent, or even reach a part of the game where you 
+Could get Vincent).
+
+2. Go to debug room 2 and talk to Sephiroth and choose his bottom 
+(blank) option. Now you'll be back in the main debug room. 
+
+3. Check the menu screen and if you see the name Sephiroth and his 
+portrait, then the chances are that you have got a 'working' 
+Sephiroth. Now you can do whatever you want with him.
+
+SEPHIROTH - ABILITIES AND LIMITATIONS
+
+Why bother getting Sephiroth? Aside from looking good, Sephiroth has a
+useful trick up his sleeve - he's invincible. Although his attacks are
+not that powerful, Sephiroth cannot be hurt by ANYTHING. In fact, I 
+think the only thing that can hurt him is Ruby WEAPON's "whirlsand" 
+attack (and this only removes him from battle). Having trouble beating
+the WEAPONs? Then try using Sephiroth and sit back and wait.. It'll 
+take a LONG while, but eventually he'll beat them - on his own if need
+be. 
+This highlights a major advantage/disadvantage of sephiroth - you 
+can't control his actions in battle. No matter what you do, Sephiroth 
+will always just attack, and use magic where appropriate. There is no 
+way to control him yourself.
+
+Actually, that's not quite true..
+
+HOW TO CONTROL SEPHIROTH IN BATTLES
+
+Sorry about the rather vague info on this subject in previous FAQ 
+versions. To make up for it, here is the info "straight form the 
+horses mouth". Take it away LZJ!
+
+"Put Sephiroth in your party and use the order command to put him in the
+first slot. Now enter a battle and use the following code:-  800F840C 0000
+His HP should be 0 now but he will still be alive and his HP is in yellow
+colour . It doesn't matter. Just win the battle and remember to switch of
+this code. Now if you enter the menu screen, you should find that
+Sephiroth's HP is now 0. Now enter another battle again and you will notice
+that Sephiroth is standing but he is not moving(cause they didn't make a
+dead animation for him). Now use phoenix down or life on him to revive him.
+Upon his revival, you should be able to control him. This doesn't happen
+without side-effects however, cause he will no longer be invincible and he
+is just like any character just that he looks good. Notice that you will
+have to repeat this process every time you enter battle, so if you really
+want him, just kill him before the end of each battle (he is no longer
+invincible so you can kill him)."
+
+NOTE: This will not work if you use the 'BATTLE999' option in the debug room
+to enter a battle. It will only work if done in the game proper. 
+
+Big thanks to LZJ for finding this in the first place and giving more 
+detailed info after I was too lazy ("busy") to properly test this. 
+
+Could anyone make a PAL version of the above code?
+
+*. On-screen Character change
+
+A big update to the 'play as Giant Aeris' tip discovered by Phfor.
+
+Tired of playing as Cloud all the time? Try this:
+
+1. Go to room 4.
+
+2. Talk to the Nurse.
+
+3. Select "I'm starting over".
+
+4. Talk to her again.
+
+5. This time select the character you want to play as (e.g. Red XIII).
+
+6. Now talk to Aeris in that room and choose "To Mideel Clinic!".
+
+You should now appear as the character you selected earlier.
+
+This works with all the characters, but you should be aware as there 
+are a lot of weird things that can potentially happen. This little 
+cheat definitely should only be used for a bit of fun, never try and 
+play the game like this as there are lots of problems and side effects
+and the game is very likely to crash.
+
+Big thanks to Phfor for telling me about this.
+
+|-----------------------|
++ 6.) Music Player Guide+------------------------------------------------------------
+|-----------------------|
+
+Unfortunately, there is no music player in the debug room. But now you have the next
+best thing. 
+
+
+Alrighty then, here we go:
+===============================+=========+==========================+
+Song                           | Where?  | Who?                     |
+===============================+=========+==========================+
+Chocobo 'Surf' Theme           | Room 4. | N/A                      |
+-------------------------------+---------+--------------------------+
+Costa Del Sol Theme            | Room 1. | Bikini Girl.             |     
+-------------------------------+---------+--------------------------+
+FF 'Requiem' Tune              | Room 1. | N/A                      |
+-------------------------------+---------+--------------------------+
+Final Dungeon Theme            | Room 1. | Talk to Rude thrice.     |
+-------------------------------+---------+--------------------------+
+Another Final Dungeon Tune     | Room 9. | N/A                      |
+-------------------------------+---------+--------------------------+
+Highwind Theme (Short version) | Room 1. | Talk to Rude four times. |
+-------------------------------+---------+--------------------------+
+'Worried' version of Highwind/ | Room 1. | Talk to Rude twice.      |
+FF7 theme.                     |         |                          |
+-------------------------------+---------+--------------------------+
+Initial World map Theme        | Room 1. | Sephiroth.               |
+-------------------------------+---------+--------------------------+
+Mt. Corel Theme                | Room 10.| N/A                      |
+-------------------------------+---------+--------------------------+
+Rufus Parade Theme             | Room 1. | Dog.                     |
+                               | Room 1. | Cat.                     |
+                               | Room 1. | Dolphin.                 | 
+-------------------------------+---------+--------------------------+
+Temple of the Ancients Theme   | Room 1. | Wizard.                  |
+-------------------------------+---------+--------------------------+
+Tifa's theme                   | Room 1. | Sailor Barret.           |
+-------------------------------+---------+--------------------------+
+Tiny Bronco Theme              | Room 1. | Rude.                    |
+-------------------------------+---------+--------------------------+
+Underwater tune                | Room 1. | Sailor.                  |
+-------------------------------+---------+--------------------------+
+Uneasy tune/Train tune         | Room 1. | Train Guard.             |
+-------------------------------+---------+--------------------------+
+'Worried' Shinra Theme         | Room 6. | Reeve.                   |
+-------------------------------+---------+--------------------------+
+Wall Market theme              | Room 1. | Honey Bee Inn girl.      |
+                               | Room 6. | N/A                      |
+-------------------------------+---------+--------------------------+
+
+
+|-------------------------------|
++ 7.) Frequently Asked Questions+----------------------------------------------------
+|-------------------------------|
+
+AERIS
+
+Q. I want to resurrect Aeris. How do I do it?
+
+A: There are several ways, but this is the most reliable:
+
+   1. Enter room 9.
+   2. Talk to Barret.
+   3. Choose the fifth option from the invisible menu (push down four times).
+   You Now have Aeris back! To get her in top condition you'll have to do this:
+
+   Limit break Manual:
+   4. Go to room 3.
+   5. Talk to the bottom Yuffie. Select "item iroiro" for Aeris's limit break.
+
+   Maximum stats:
+   6. in the main debug room talk to Yuffie and choose "BATTLE999" and kill the
+   pyramids until Aeris reaches level 99 (takes about 4 turns without 'Exp plus'
+   materia).
+   7. Give her loads of the Power and Speed sources you'll have got from Yuffie.
+
+   Best Weapon:
+   8. Go to Tifa in room 6. Select option 3. Now you can give Aeris the 
+   Umbrella, her best weapon. Note that it has NO Materia slots at 
+   all, however.
+
+SEPHIROTH
+
+Q. I want to play as Sephiroth. How?
+
+A: It is very difficult to get a reliable Sephiroth (ie. actually appears in
+battles, etc.), but try this:
+
+   1. Go to room 2.
+   2. Talk to the Sailor and choose last Dungeon. (If you go back to the debug
+      room you may lose Sephiroth)
+   3. Get back in the Highwind and have fun with Sephiroth!
+NOTE: this can be a bit hit and miss. Sometimes it will work perfectly, other 
+times it won't.
+
+Also, try reading the 'Miscellaneous' section for more info on this.
+
+GOLD CHOCOBO
+
+Q. I Want A Gold Chocobo. How do I cheat?
+
+A: Tsk. Do the following:
+(Make sure you have an empty Chocobo stable first).
+   1. Go to room 2.
+   2. Talk to the fat bloke. Choose "After Armegedon"
+   3. Choose "yes", then "get DESERT ROSE", and finally "event start".
+   4. Go outside and into the nearest house and go upstairs.
+   5. Talk to the old man twice. Talk to the Chocobo, and he's yours!
+
+ITEMS
+
+Q. I want the Guide book/I want the items you get for killing weapon(s), but I
+   can't be bothered to kill them..
+
+A: Do the same as for the last question, but select get [item name] for all the
+items.
+
+Q. I want character X/Y/Z's limit break. Where can I get 'em?
+
+A: Here:
+
+   1. Go to room 3.
+   2. Talk to the bottom Yuffie. Choose "item iroiro". Simple.
+
+Q. How can I get all those 'source' things?
+
+A: Do the same as for the above question To get speed and power sources. Or do 
+   the same as the question below to get 99 of all of them:
+
+Q. How can I get every item?
+
+A: Talk to Tifa in room 6. Select option 3.
+
+WATCHING THE CGI FILMS
+
+Q. I want to watch all the excellent CGI films. How do I do it?
+
+A: There are several film viewers, but they are very unreliable and unfriendly 
+to use. The best ones IMHO are:
+
+    1. Go to room 2 and talk to sephiroth and select 'use'. This is the best player
+    (IMHO) as it plays the films with the correct music and follows past any cuts in 
+    the film, etc. It also checks for the correct disk for once as well.
+
+    2. Go to room 6 and talk with Yuffie. ONLY DO THIS WITH DISK 2 INSERTED (I can't 
+    get it to work with any other disk). Choosing 'plus' skips a film.
+
+There are others, but they either play only 1 or 2 specific films or crash badly.
+
+Q. I want to watch the end film(s). How?
+
+A: Unfortunately there is no direct way to jump to the end sequence via the debug
+room. The best solution I have come up with is as follows: 
+
+Firstly, you must have a high level (i.e Lv99) party, and the Knights Of The Round 
+materia. If you don't have these then use the debug room to get them as explained
+above.
+
+Once you've done all that equip your people with the appropriate materias, etc then
+go to debug room 3.
+
+Talk to 'Tifa 3', and choose LAS4-4. This will take you to the very end of the game
+just before the fight with Jenova (I tried to start off even closer to the end then 
+this, but the game either crashes or you get in an endless loop fighting Sephiroth at
+the end if you do..). Use Knights Of The Round. On the next fight use Knights Of The 
+Round. On the next fight use KOTH twice. You'll now be able to watch the ending.
+
+If anyone has found a better way, or a way that to make the other options near the
+end work properly, then please tell me.
+
+MINIGAMES
+
+Q. I want to play X/Y minigame. Where are they?
+
+   Highway Bike Game: Room 2. Talk to the sailor. Select "HIGHWAY minigame"
+                      Room 5. Talk to Dyne, and select minigame.
+ 
+   Submarine Game: Room 1. Talk to the sailor and select "minigame X".
+   The number X is the game version (difficulty).
+
+   Snowboarding Game: Room 7, talk to Aeris.
+
+   Fort Condor Battle game: Go to room 6. Talk to the wrestler. 1-6 changes the 
+   difficulty, and 'last one' is the Huge materia version (hardest).
+
+MUSIC PLAYER
+
+Q. I want to listen to all the music. Is there a music player?
+
+A: No. Try looking in the 'miscellaneous' section for some music locations.
+
+Q. The characters have all been given stupid names like 'Princess' or 'Ballet'.
+How the hell do I change them back?
+
+A: Try going to a different debug room to change them back, or do the following:
+
+   1. Go to room 3 and talk to the shaking Cloud.
+   2. Select 'ima..'
+   3. Choose your character to rename. 
+
+BUGS/SIDE EFFECTS
+
+Q. Can I change my onscreen character to someone else? Like Sephiroth?
+
+A: This is possible, but totally unreliable. 
+   Read the Miscellaneous section for a detailed description of how to
+   play as every playable  character in the game. Alternatively, try:
+    
+   1. Going to room 3 will turn Cloud into Cloud with his sword drawn. 
+
+   2. You can make Tifa and Cid as leaders as would happen in some parts of the 
+      game normally. 
+
+   3. It is possible to appear as Sephiroth holding Jenova's head, but I haven't 
+      been able to repeat this. 
+
+   4. Also selecting a certain option will return you to the game looking like Lucretia, 
+   but unfortunatley you are stuck in a wall making this useless..
+
+   5. It is possible to appear as the giant Aeris in room 4.
+
+
+Q. Yuck! The debug room graphics are all messed up. I won't stand for this, how do I
+change it back!?
+
+A: If you have the N.American version, use the improved code as well as the old one. 
+If not, try going to room 2, talking to Sephiroth and selecting the bottom invisible option.
+
+
+Q. What the hell is the strange mess you see when you go to the world map with the 
+switch on?
+
+A: This makes the game display the world map with the 'snow wasteland' effect seen in 
+   the Great Glacier section of the game. you cannot control the camera or enter 
+   any town, you can only walk around and fight random battles. If you start a new 
+   game and end up here you see the instructions that you receive when you get here in 
+   the game proper. The only way out of here is to reset the game (L1+L2+R1+R2+Select+Start),
+   or switch off the Playstation and start again. 
+You can avoid this screen appearing by using the improved code for the American version.
+
+THE 'DATE' SEQUENCE
+
+Q. I want to date Tifa/Yuffie/Barret. How?
+
+A: Try looking in the 'miscellaneous' section for a guide to this.  
+
+That's all for now..
+
+
+|------------------------------------------|
++ 8.) Credits/Copyright Notice/Thanks/etc..+------------------------------------------
+|------------------------------------------|
+
+This FAQ was written totally by Andrew Dean. This guide is all my own work and
+is simply a compilation of everything I have found. As such it may not
+necessarily be accurate, and so does not claim to be 100% correct, although the upmost
+measures were taken to be accurate.
+
+
+FAQ ©1999 Andrew Dean   (deano@ravensnest.demon.co.uk)
+
+Playstation is Copyright of Sony Computer Entertainment Inc ©1999
+Final Fantasy VII is ©1997 Square Soft Inc. 
+All other trademarks (if any) are acknowledged.
+
+
+This FAQ can be freely distributed AS LONG AS it is done so in IT'S ENTIRETY and
+is unaltered. This FAQ CANNOT be used commercially or otherwise reprinted or
+incorporated into any commercial medium. It is FOR PRIVATE USE ONLY.
+
+If you want to put this FAQ on your site, please ask permission first. I'm not
+likely to say no, I would just like to know where it's been spread to so I
+can send you updates as they become available.
+
+If you use information from this FAQ (in particular UNIQUE information), then please
+give me some credit. (Especially if the information happens to be wrong. 
+For example..)
+
+Remember, this is my work. I DO NOT expect to see it copied word for word in some
+third rate computer games magazine (unless you want to pay me lots of money..).
+
+CONTACT INFORMATION
+^^^^^^^ ^^^^^^^^^^^
+What do you think? Found something interesting? 
+Then you can send me mail at:
+
+deano@ravensnest.demon.co.uk
+
+Please bear in mind that I cannot afford constant internet access and so may
+only be able to check my mail once a week. You will get a reply!
+
+
+This FAQ will always be available from these sites:
+
+www.gamefaqs.com   (GameFAQS)
+
+www.ravensnest.demon.co.uk     (My site)
+
+www.console-gamer.com   (Console Gamer)
+
+i.am/lzj   (Lau Zhen-Jock's FF7 Web Page)
+
+www.absolute-playstation.com   (Absolute Playstation)
+
+It may be available from other sites, but these are the priority 
+locations.
+
+In particular, my site will always have the latest version, so check 
+here before you ask a question (there may be a new version that hasn't
+yet been updated on Gamefaqs).
+
+FAQ HTML version available at:
+
+i.am/lzj   (Lau Zhen-Jock's FF7 Web page)
+
+Note: This version of the FAQ is the 'official' HTML FAQ. However, it is created
+independently of this version. It contains the same information, but is fully
+illustrated and more user friendly than a text-based FAQ could ever be. If you see
+any errors (ONLY EXLCUSIVELY) in the HTML version, please report them to 
+Lau Zhen-Jock (he has kindly created and maintained the HTML version for me) at 
+the following address: 
+zehnjock@mypad.com
+If the error is in the original FAQ text, then obviously report it to me (Andrew 
+Dean).
+
+
+THANKS TO...
+"""""" ""
+The sterling work of gameshark hackers:
+
+RPGod + CzarDragon 
+
+GurtyGurt
+
+Charles McDonald
+
+Alexis Huet
+
+Dean Connell (Read his Xplorer Codes FAQ on www.ravensnest.demon.co.uk)
+
+for making FF fans' days the world over.
+Thankyouthankyouthankyouthankyou!
+And once more - thank you!
+
+Rosemary - for being my 'Official Action Replay Cartridge Switch Operator'. :)
+
+Hawk Chadwick and 'Dave452345' for pointing out that you CAN watch Cloud's Mum's movies.
+
+EsperFF6 for the use of the 'menu on' option. 
+
+'Ozzy151629' for discovering the use of the "2P" option.
+
+Sanagi for finding some VERY weird stuff :).
+
+CzarDragon (again) for working out the Chocobo paddock option.
+                   (and the new debug code). 
+Scrwdrvr for the "Mideel Talk Event" tip.
+
+Zach Fisher for more info on quickly beating the pyramids.
+
+Lau Zhen-Jock for finding the way of controlling Sephiroth in battles.
+Also for creating the excellent HTML version of this guide (at i.am/lzj)
+and giving me ideas and suggestions.                 
+
+Vishy Nagalingam for finding the "Super armor" trick, seemingly 
+hours after I told him about the FAQ. 
+
+'Vegeta348' for correcting me on some of the Pyramid's properties.
+
+Rob Bill for pointing out the problem with the 'super armour'.
+
+Phfor for the amazing 'play as anyone' trick.

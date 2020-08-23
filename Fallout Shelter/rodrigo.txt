@@ -1,0 +1,75 @@
+MULTI-SHOT
+-------------------------------------------------------------------------
+Railway rifle	Enhanced railway rifle	14-16	15	100	rare
+Inst rifle	Institute rifle 	14-16	15	100	rare
+Railway rifle	Hardened railway rifle	14-17	15.5	500	legendary
+Gauss rifle	Rusty Gauss rifle	16	16	100	rare
+Railway rifle	Accelerat railway rifle	14-18	16	500	legendary
+Gauss rifle	Gauss rifle     	16-17	16.5	100	rare
+Inst rifle	Excited Institute rifle	15-18	16.5	100	rare
+Railway rifle	Railmaster      	14-19	16.5	500	legendary
+Plasma rifle	Rusty plasma rifle	17	17	100	rare
+Gauss rifle	Enhanced Gauss rifle	16-18	17	500	legendary
+Plasma rifle	Plasma rifle    	17-18	17.5	100	rare    	3 Micro, 3 Globe, 3 Alarm
+Gauss rifle	Hardened Gauss rifle	16-19	17.5	500	legendary
+Plasma rifle	Tuned plasma rifle	17-19	18	500	legendary
+Inst rifle	Long Institute rifle	16-20	18	500	legendary
+Gauss rifle	Accelerated Gauss rifle	16-20	18	500	legendary
+Gauss rifle	Magnetron 4000  	16-21	18.5	500	legendary
+Plasma rifle	Focused plasma rifle	17-20	18.5	500	legendary
+Minigun 	Rusty minigun   	19	19	500	legendary
+Plasma rifle	Amplified plasma rifle	17-22	19.5	500	legendary
+Inst rifle	Night-vision Inst rifle	17-22	19.5	500	legendary
+Minigun 	Minigun         	19-20	19.5	500	legendary
+Plasma rifle	Mean Green Monster	17-23	20	500	legendary
+Minigun 	Enhanced minigun	19-21	20	500	legendary
+Minigun 	Hardened minigun	19-22	20.5	500	legendary
+Inst rifle	Targeting Insti rifle	18-24	21	500	legendary
+Gatling laser	Rusty Gatling laser	21	21	500	legendary
+Minigun 	Armor piercing minigun	19-23	21	500	legendary
+Gatling laser	Gatling laser   	21-22	21.5	500	legendary
+Minigun 	Lead Belcher    	19-24	21.5	500	legendary	3 Clock	2 Tape	4 Shovel
+Gatling laser	Tuned Gatling laser	21-23	22	500	legendary
+Inst rifle	Virgil's rifle  	19-26	22.5	500	legendary
+Gatling laser	Focused Gatling laser	21-24	22.5	500	legendary	3 PCB	2 Horse	4 Micro
+Gatling laser	Amplified Gatling laser	21-25	23	500	legendary	3 PCB	2 Horse	5 Micro
+Gatling laser	Vengeance       	21-26	23.5	500	legendary	3 PCB	3 Horse	5 Micro
+
+
+ONE SHOT
+-------------------------------------------------------------------------
+Flamer  	Rusty flamer    	15	15	100	rare
+Flamer  	Flamer          	15-16	15.5	100	rare
+Junk Jet 	Recoil compensated JJ	14-17	15.5	100	rare
+Flamer  	Enhanced flamer 	15-17	16	100	rare
+Inst pistol	Scattered Inst pistol	13-19	16	500	legendary
+Flamer  	Hardened flamer 	15-18	16.5	100	rare
+Flamer  	Pressurized flamer	15-19	17 	100	rare
+Junk Jet	Tactical Junk Jet	15-19	17	100	rare
+Flamer  	Burnmaster      	15-20	17.5	500	legendary
+Inst pistol	Apotheosis      	14-21	17.5	500	legendary
+Plasma thrower	Plasma thrower  	17-19	18	500	legendary
+Junk Jet	Electrified Junk Jet	16-21	18.5	500	legendary
+Plasma thrower	Agitated plasma thrower	18-21	19.5	500	legendary
+Junk Jet	Flaming Junk Jet	17-23	20	500	legendary
+Plasma thrower	Tactical plasma thrower	19-23	21	500	legendary	2 PCB	3 Flask	3 Globe
+Junk Jet	Technician's Revenge	18-25	21.5	500	legendary
+Plasma thrower	Boosted plasma thrower	20-25	22.5	500	legendary	2 PCB	3 Flask	4 Globe
+Plasma thrower	Overchar plasma thrower	21-27	24	500	legendary
+Plasma thrower	Dragon's Maw    	22-29	25.5	500	legendary
+
+
+AREA OF EFFECT
+-------------------------------------------------------------------------
+Missile 	Rusty missile launcher	20 	20	500	legendary
+Missile 	Missile launcher	20-21 	20.5 	500	legendary
+Missile 	Enhanced missile launch	20-22 	21	500	legendary
+Missile 	Hardened missile launch	20-23 	21.5 	500	legendary
+Fat Man 	Rusty Fat Man   	22 	22	500	legendary	2 Flask	3 Tape	4 Shovel
+Missile 	Guided missile launcher	20-24 	22	500	legendary	2 PCB	3 Clock	4 Micro
+Fat Man 	Fat Man         	22-23 	22.5 	500	legendary
+Missile 	Miss Launcher   	20-25 	22.5 	500	legendary
+Fat Man 	Enhanced Fat Man	22-24 	23	500	legendary
+Fat Man 	Hardened Fat Man	22-25 	23.5 	500	legendary	2 Flask	3 Tape	5 Shovel
+Fat Man 	Guided Fat Man  	22-26 	24	500	legendary	2 Flask	3 Tape	5 Shovel
+Fat Man 	MIRV            	22-27 	24.5 	500	legendary	3 Flask	3 Tape	3 Shovel

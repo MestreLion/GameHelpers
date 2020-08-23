@@ -1,0 +1,178 @@
+ML - 36
+--------------------------------------
+
+Spider		em 6:08:16 h  	às 07:00:31 hora - inicio serie 8, voltar +2s
+[01]Lonely	em 6:01:49 h 	às 07:00:35 hora - fim serie
+Kas 03		em 6:10:48 h 	às 07:06:23 hora - desviar
+KAvenskas 02	em 6:10:24 h 	às 07:07:05 hora - inicio serie 10
+KAvenskas 02	em 6:08:52 h 	às 07:07:08 hora - fim serie
+KAvenskas 02	em 6:11:02 h 	às 07:08:27 hora - inicio serie 5
+KAvenskas 02	em 6:07:13 h 	às 07:08:28 hora - fim serie
+Magnum		em 6:24:15 h 	às 07:25:14 hora - real
+002		em 6:25:42 h 	às 07:27:32 hora - real
+
+7:00:07
+
+
+ Tropas:
+	 3	Heróis
+	 3859	Legionários
+	 21361	Pretorianos
+	 28450	Falanges
+
+
+SB
+----------------------------
+Recurso: paulinha (8m)
+
+[#2]Gaia	em 5:17:04 h 	às 07:02:22 hora - inicio serie 11	OK
+[#2]Gaia	em 5:20:51 h  	às 07:07:02 hora - fim serie
+[01]Lonely	em 5:20:28 h 	às 07:07:07 hora - inicio serie		PERDEU
+[#3]Métis	em 5:19:40 h 	às 07:07:41 hora - limpeza
+02. Travinho	em 5:20:06 h 	às 07:09:34 hora - limpeza
+[#1]Monte	em 5:19:46 h 	às 07:09:40 hora - inicio serie		OK
+[#1]Monte	em 5:20:33 h 	às 07:11:35 hora - fim serie 8
+TROPA DE ELITE	em 6:06:29 h 	às 07:59:40 hora - inicio serie 14
+TROPA DE ELITE	em 6:11:28 h 	às 08:05:17 hora - fim serie
+
+
+
+ Tropas:
+	 2	Heróis
+	 9753	Pretorianos
+	 249	Equites Caesaris
+	 5906	Lanceiros
+	 500	Paladinos
+	 1500	Falanges
+	 138	Cavaleiros Druidas
+
+
+Capital
+
+ Tropas:
+	 3	Heróis
+	 2168	Legionários
+	 53440	Pretorianos
+	 213	Imperianos
+	 200	Equites Legati
+	 10000	Lanceiros
+	 1600	Paladinos
+
+[01] MestreLion  	952  	(-176|13)
+[04] CbN_MT  (Capital) 	951 	(-188|0)
+[07] FenixDoInferno 	808 	(-186|4)
+[14] Skin Ball 	807 	(-175|-1)
+[02] ChuckNorris 	805 	(-189|-1)
+[13] Rhino 	787 	(-171|22)
+[03] MestreFanfarrao 	754 	(-194|-1)
+[06] Fofinha 	753 	(-184|2)
+[08] Tuminha 	679 	(-191|0)
+[10] Rodrigo 	638 	(-185|-2)
+[12] WWF 	603 	(-182|7)
+[11] Sadat 	595 	(-194|-6)
+[05] Touchable 	500 	(-183|-4)
+[09] Agamemnon 	477 	(-184|14)
+[15] Paulinha 	476 	(-180|4)
+[16] Barreto 	256 	(-184|-6)
+
+sfera da aldeia TROPA DE ELITE 1 K
+13 
+
+Alone da aldeia [01]Lonely 
+5
+
+Kryger777 da aldeia KAvenskas 02 C 
+5
+
+Kryger777 da aldeia KAvenskas 02 C
+10
+
+
+
+
+Pessoal, como muitos aqui devem ter saber, hoje de manha fui o bola da vez da SCS, que veio em peso, todas as wings, em cima de mim (e tambem do Nehru e do Fim do Mundo)
+
+Sofri dezenas de ataques reais que me renderam Top 1 na medalha que eu menos queria ter ganho.. rsrsrs... nao so da semana como do server inteiro.
+
+Separei alguns logs pra vcs se deleitarem:
+
+[b][14] SKIN BALL[/b]
+Ex-aldeia principal do lider da SCS5. Conquistei as 2 maiores e pelo visto ele nao gostou ;)
+Foram 69 ataques ao todo, limpou a defesa feita pela ally, danificou bastante a aldeia, mas fiz uns encaixes com defesa propria pra matar as catas.
+
+
+Alone:
+Limpou o encaixe de de tropas:
+http://travilog.org.ua/pt/6991281/caa3a30a6d08b01204e7a54a0c556906
+
+Mas teve 5 ataques de cata interceptados por novos encaixes ;)
+http://travilog.org.ua/pt/4219813/60e72b179c1e3b52643de0739efba01c
+
+Travinho
+Matou as tropas encaixadas
+http://travilog.org.ua/pt/5381035/21424033d02acd059ac9ef23b9f0b200
+
+Alone (de novo!):
+Esse cara nao da sorte... mais 5 ataques de cata interceptados, iguais a esse:
+http://travilog.org.ua/pt/4219813/60e72b179c1e3b52643de0739efba01c
+
+RSL:
+Matou as tropas encaixadas
+http://travilog.org.ua/pt/8840333/3a613d8e616f9afe4b21366230919faa
+
+sfera:
+13 ataques iguais a esse, com defesa propria encaixada:
+http://travilog.org.ua/pt/3794612/cea7823c247a0529b834bc3e05c53e42
+
+E pra fechar o caixao:
+http://travilog.org.ua/pt/1280199/7e80cb5cec8d68dc1c325ec35421da25
+
+[b][01] MestreLion[/b]
+Minha aldeia inicial, a maior depois da capital. Sempre um alvo bem obvio. 
+
+Kryger777
+
+Belo ataque... azar dele que nao limpou ;)
+http://travilog.org.ua/pt/5908258/136602c78384b2e01b4df10ccb06c5fc
+
+200 haeduanos escoltando 200 catapultas em 10 ataques (ui, quanta cata pro saco!)
+http://travilog.org.ua/pt/3985584/dd8966e58c3807fa36b43a540c3773cb
+
+Nao satisfeito, escoltou mais 5 ataques de cata com haeduano:
+http://travilog.org.ua/pt/5599365/83cfafd011e13e9d1ea19803117b1710
+
+
+
+atom:
+
+Limpou as defesas que restaram, mas perdeu quase tudo
+http://travilog.org.ua/pt/2019705/2f2b0ccc7d0eff4de5047db18064b6d5
+
+
+[b][04] CbN_MT[/b] - Capital
+
+Zabuza
+
+Ataque noob, perdeu tudo
+http://travilog.org.ua/pt/3979652/feccc6a054b058881972475c8440886e
+
+[b]ALDEIAS QUE NAO FORAM DEFENDIDAS[/b]
+(llevaram umas pedradas... mas vcs podem ver quem tem ataque e de quanto...)
+
+[b][06] Fofinha:[/b]
+
+Coiotesp
+http://travilog.org.ua/pt/7639866/5b56e7a18bb19dcf3768fcee64f0b85b
+
+jujub4
+http://travilog.org.ua/pt/3093218/1cc0b8902c869967be2bc82f4080933d
+
+[b][02] ChuckNorris[/b]
+
+soprano A
+http://travilog.org.ua/pt/8253840/ae1c78d13fdf5f35e54d6a648e1eab04
+
+
+
+
+

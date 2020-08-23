@@ -1,0 +1,34 @@
+01 - VM - Top of Log
+02 - VM - Rope Bridge
+03 - Under Metal Stairs, EVA
+04 - Swamp
+05 - Inicio, Bode
+06 - Lake, underwater
+07 - Bolshaya Past South - Tree near last barbed wire fence
+08 - Bolshaya Past Base - Central building, under chair
+09 - Bolshaya Past Crevice - Behind Snake (left of Ocelots Patrol)
+10 - Caverna, sala do Night Vision Glasses (poço redondo no meio)
+11 - Caverna 2, sala do Pain, ao alto
+12 - Caverna 3, sala com morcegos e claymores, ao alto
+13 - Pantano 1, Inicio a esquerda
+14 - Pantano West, underwater, grate tunnel, neat wooden "porch"
+15 - Warehouse, top of 3rd pillar in the cellar
+16 - Forest, Left of exit, tree branch
+17 - Lab Fortress, External - Left side, base of tree in outer hill
+18 - Lab Fortress, Inner Walls - Window of un-enterable building
+19 - Lab, 1F - Above lockers, corridor
+20 - Lab, B1 East (Jail) - Last jail, near bed
+21 - Lab, B1 West - Scientists TV room, on shelf
+22 - Svyatogornyj South - Behind and above entrance, corner
+23 - Svyatogornyj West - Following left border, near trap and hollow tree
+24 - Sokrovenno South - Hill behind armory cabin
+25 - Sokrovenno West - "mini-cave" at the end of river
+26 - Sokrovenno North - ground, near tree, next to hollow tree, south of "big hole" on the map
+27 - Tunnel - ground, behind 1st "arch" in the middle of tunnel
+28 - Mountains 1 - top left of stone "arch" end of area
+29 - Mountains 2 - top of blownable provisions cabin
+30 - Mountain Top - right border, near cabin
+31 - Mountain Ruins - Top shelf, near bed
+32 - Mountain Rear - center of nearest red tower (veeeery far)
+
+

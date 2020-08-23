@@ -1,0 +1,1604 @@
+
+     Solid Snake, Infiltration, Alaska, Nuclear Weapon Storage,  Terrorists,  Revolution, 
+     Hi-Tech Unconventional Warfare Unit,   FOX-HOUND,  Shadow Warriors,  Next-Generation 
+     Special Force,  VR Simulation,  Gene  Therapy,  Soldier Gene,  Exoskeleton,  Stealth
+     Camouflage,  Nanomachines,  DDS,  Dog Sled Race,  Gulf War  Syndrome,  PAL,  Psychic
+     Soldier, Soliton Radar,  Real Time Burst Communication, Dismantled Nuclear Warheads,
+     Dissolved Nucleus Plutonium,  Trinity,  Apoptosis,  Asymmetry Theory, Black Project,
+     Black Budget,  National Security Agency, Defence Intelligence Agency,  Department of
+     Energy, OUTER HEAVEN, Zanzibar Land,  Big Boss, Manhattan Project, Hiroshima,  MIRV,
+     Inter-continental   Ballistic   Missile,   Submarine-Launched   Ballistic   Missile,    
+     Airbourne-Launched Ballistic Missile, Mass Destruction Weapon, Comprehensive Nuclear
+     Test Ban  Treaty,  Nuclear  Nonproliferation Treaty,  Anti-Ballistic Missile Treaty, 
+     Theater Missile Defense,  Sub-critical Nuclear Experiment, Nova, Nif, Nuclear Launch
+     Simulation,  Surface-piercing   tactical   nuclear   bomb,  START-3,  Liquid   Snake    
+
+
+
+                  >[ T A C T I C A L    E S P I O N A G E    A C T I O N ]<
+ 
+
+
+,--------++----------.
+| M E T A L  G E A R |------+------<---------------+<<----------------------------+-----------.
+'-++-----------+-----'                                                            (000>>+-----'
+$$$*^$$$*^$$b d$$*^*$$b $$$       d$$*^*$$b $$$         d$$*^*$$b d$$*^*$$b d$$*^*$$b $$$*^*$$b
+$$$  $$$  $$$ $$$   $$$ $$$*^^$$$ $$$   $$$ $$$         $$$   $$$ $$$   $$$ $$$   $$$ $$$   $$$
+$$$  $$$  $$$ $$$   $$$ $$$       .aaaad$$$ $$$   $$$   $$$   $$$ $$$   $$$ .aaaad$$$ $$$   $$$
+$$$  $$$  $$$ $$$   $$$ $$$   $$$ $$$   $$$ $$$   $$$   $$$   $$$ $$$   $$$ $$$   $$$ $$$   $$P 
+$$$  $$$  $$$ $$$   $$$ $$$   $$$ $$$   $$$ $$$   $$$   $$$   $$$ $$$   $$$ $$$   $$$ $$$^^$$b 
+$$$  $$$  $$$ $$$^^^^^^ $$$   $$$ $$$   $$$ $$$   $$$   ^^^^^^$$$ $$$^^^^^^ $$$   $$$ $$$  '$$$
+$$$  $$$  $$$ T$$b.d$$P T$$b.d$$P T$$b.d$$P T$$b.d$$P   T$$b.d$$P T$$b.d$$P T$$b.d$$P $$$   $$$
+,-----+<<0O0)                                                                     ,-----+-----.
+'--->>--------------+-------------------+--------------------->+------------------| S O L I D | 
+                                                                                  '--->>------'
+                                           SCPS 45317~9
+                                            SLUS 00594
+
+                        ---+>> Metal Gear Solid FAQ and Walkthrough 2.0 <<+---             
+                ---+>> Everything in here is (c) Johan Henriksson (crayon) 1998 <<+---
+                       ---+>> members.xoom.com/mgs_faq | hson@hotmail.com <<+---
+
+[please note that I am swedish and any spelling or grammatical errors are
+ therefor justified and excusable :]
+
+If anything is wrong, gomenesai. Please inform me at hson@hotmail.com
+
+last update: 25th Oct. 1998
+
+,--------------------------------------------------------------------------------------------------.
+| Table of Contents                                                                                |
+'--------------------------------------------------------------------------------------------------'
+
+[ introduction / general info ]
+0.0.0 Updates
+0.0.1 Intro
+0.0.2 Story *spoilers*
+0.1.0 Controls
+
+[ walkthrough ]
+1.0.0 Dock
+1.0.1 Heliport
+1.0.2 House 1 - Tank Hangar
+1.0.3 House 1 B1 - Cells
+1.0.4 Armory                                   [boss - Revolver Ocelot]
+1.0.5 Tank Hangar
+1.0.6 Canyon                                   [boss - Tank]
+1.0.7 Nuke Building 1
+1.0.8 Nuke Building B1
+1.0.9 Nuke Building B2 + Lab                   [boss - Ninja]
+1.1.0 House 2 B1                               [boss - Psycho Mantis]
+1.1.1 Cave
+1.1.2 Underground Passage                      [boss - Sniper Wolf]
+1.1.3 House 1 B1 - Torture / Prison
+1.1.4 REMOVED SECTION                          [not there anymore]
+1.1.5 Communications Tower A
+1.1.6 Communications Tower B                   [boss - Hind D]
+1.1.7 Snowfield                                [boss - Sniper Wolf]
+1.1.8 Blast Furnace
+1.1.9 Cargo Elevator
+1.2.0 Warehouse                                [boss - Vulcan Raven]
+1.2.1 Passageway
+1.2.2 Underground Base 1                       [boss - Metal Gear Rex, Liquid Snake]
+1.2.3 The Chase
+
+[ additional ]
+2.0.0 Frequencies
+2.0.1 Characters *spoilers*                    
+2.1.0 Equipment
+2.1.1 Cardboard Boxes
+2.1.2 Camera
+2.1.3 Inventory Growth
+2.2.0 VR Training
+2.5.0 Frequently Asked Questions
+
+3.0.0 Secrets / Mysteries
+3.0.1 *Subject to change*
+3.0.2 Getting a better score [japanese version]
+3.0.3 Rankings
+3.0.4 Japanese <-> English differences.
+3.0.5 Games Psycho Mantis react to
+3.1.0 The Premium Package
+3.1.1 Rumours?
+3.1.2 Metal Gear Solid merchandise!
+3.1.3 Reader tips
+3.1.4 Metal Gear Solid Original Game Soundtrack
+
+,--------------------------------------------------------------------------------------------------.
+| Updates                                                                                    0.0.0 |
+'--------------------------------------------------------------------------------------------------'
+
+News > It's here. I've seen the light, I finally understand what they're saying! 
+       My old japanese copy of MGS has been tucked back into the Premium Package box and the only  
+       CDs spinning in my PlayStation nowadays are my MGS US CDs! It's better than I was expecting,
+       it's like a whole new experience. The voices are good, and now that i can understand them I 
+       can say that the story is good. All I can say is if you don't get it; BUY IT NOW!@
+
+       This update of the FAQ (2.0) is updating the info to fit both the japanese and US versions,
+       the game is exactly the same but area names and minor details are different (section 3.0.4)
+        
+       http://members.xoom.com/mgs_faq | hson@hotmail.com
+
+>>> 25 Oct. 1998 [2.0]
+Fixes, smaller additions. All the US info I could think of added.
+
+>>> 05 Oct. 1998 [1.6]
+Minor stuff added + fixed.
+
+>>> 26 Sept. 1998 [1.5]
+Big update, lots of stuff added. Check the table of contents!
+
+>>> 23 Sept. 1998 [1.4]
+Fixed up the characters section and made a few other fixes, also added the 'Story' section.
+
+>>> 22 Sept. 1998 [1.3]
+Removed two sections [ 1.1.4 + 0.9.9 ] and added the Ratings section [ 3.0.4 ]
+
+>>> 20 sept. 1998 [1.1]
+Added the "Making it through the game with a nice score [ 3.0.3 ]" section
+
+>>> 17 sept. 1998 [1.0]
+Added all the stuff that wasn't in the last version (too much to list)
+
+>>> 12 sept. 1998 [0.1]
+First FAQ stolen and sent to several sites by a certain Jonathan Leissler
+
+>>> 12 sept. 1998 [0.1]
+FAQ started, walkthrough and partial inventory lists added
+
+,--------------------------------------------------------------------------------------------------.
+| Intro                                                                                      0.0.1 |
+'--------------------------------------------------------------------------------------------------'
+
+Metal Gear Solid is Konami's latest action adventure released for the Playstation. Like the logo
+states it's "Tactical Espionage Action" where your goal is to rather than kill everyone, you need 
+to hide from enemies, sneak around and find stuff and rescue people, your ultimate goal being to
+stop Fox Hound. This doesn't mean that you can't get any killing action if you want it, there is
+plenty of killing going on. You get a ton of weapons and you can even break peoples necks.
+
+This game is the third in the series, the first two (Metal Gear and Metal Gear 2: Solid Snake) 
+appeared on the pretty uknown console MSX. Like this game the goal was to sneak around a military 
+base and to defeat the enemy, basically. I remember spending weeks on the first Metal Gear on the 
+NES, I loved every minute of it and hated when I had to return it to the rental store. Being more
+of an experience than a game, this game has to be seen and lived before you can get an accurate
+view of it. My text can't begin to imitate the experience, so I wont. All I can say is that if 
+you can stand Japanese, you need to import this game ASAP! If you don't like japanese, or if you
+think japanese games are hard to play, wait for the american version. Or you can do it like me,
+get both! Now that the US version is out, there is no real need for anyone to get the import 
+version, unless someone comes across a premium package :)
+
+I'd say that this is easily the game of the year, if not the best game for the playstation 
+altogether.
+
+Anyways, thanks for giving this FAQ a chance and reading it. If you'd like to contact me for any
+reason I can be reached at hson@hotmail.com or on IRC as crayon (or crayonFLG, crayon_Q0, or...you 
+get it right?).
+
+Best regards (to anyone I don't hate :)
+Johan Henriksson a.k.a Crayon
+
+(another small disclaimer: I only know hiragana and katakana, basic H&K that is, and like 5 kanji
+ and how sentences are built in japanese. That's it, so please don't verbally kill me if something
+ is wrong, ok? O_O)
+
+,--------------------------------------------------------------------------------------------------.
+| Story *spoilers*                                                                           0.0.2 |
+'--------------------------------------------------------------------------------------------------'
+
+The covert operation team known as FOX-HOUND takes over a nuclear weapon disposal facility, they
+threaten to fire nuclear weapons at the united states if they do not give them the remains of Big 
+Boss. But things don't go as they had originally planned and they can't activate the stealth missile
+launchers, which is why they let Snake infiltrate their base. Liquid also has an ulterior motive, 
+he wants to get revenge on Snake. They were both cloned from Big Bosses DNA, and Snake got all the 
+good stuff while Liquid got the bad stuff. Big Boss always said that Snake was the good one, his
+favorite.
+
+If Liquid Snake only knew how wrong he is.
+
+,--------------------------------------------------------------------------------------------------.
+| Controls                                                                                   0.1.0 |
+'--------------------------------------------------------------------------------------------------'
+
+You control Snake basically the same you would control him in a NES game. In other words, you don't
+control him like in Resident Evil, where up is forward. Here each direction on the d-pad is the 
+direction where Snake will head if you hold it.
+
+All the buttons on the controller are used as well.
+
+Cross      Press this once to squat. Hold a direction on the d-pad to start crawling, useful for 
+           hiding under objects like trucks or tanks and for going through air ducts.
+Triangle   Hold this to look through Snake's eyes, sometimes pretty useful to get a better look at
+           whats going on in front of him. VERY useful if you have the Radar turned off.
+Square     If you don't have a weapon equipped, you will grab people with this button. When you have
+           them grabbed you can do three things; Hold them, drop them or break their necks. You can 
+           hold them and use the enemy as a human shield by holding the Square button pressed and 
+           walking around. You drop them by letting go of the Square button, then press a direction.
+           Breaking their necks is done by repeatedly pressing the Square button until the enemy 
+           gives in and dies.
+
+           With a weapon equipped this will fire it.
+   
+           If you hold a direction and press this close to an enemy, you will throw him in the 
+           direction you pressed. Excellent for use in the 1st tower, during the chase sequence.
+Circle     If you're close to a button, or a console you can use this will activate it.
+
+           If you're not, this is the fighting button. Press the button once to swing with Snake's
+           right arm, press it twice to make him punch with each arm once. And press it three times
+           to make him make a combo with two punches and a kick.
+L1         Quick selection of the last item you had used. 
+L2         Hold and press directions on the d-pad to go through your inventory
+R1         Quick selection of weapons
+R2         Hold and press directions on the d-pad to go through your weapons
+
+If you start shooting and hold down Square, you can also hold the Cross button, now you can run 
+around shooting! Only weapon it's really practical with it Fa-Mas though.
+
+The game supports Analog control as well as the Dual Shock feature.
+[It does not use the second analog stick, R3 and L3]
+
+,--------------------------------------------------------------------------------------------------.
+| Dock                                                                                       1.0.0 |
+'--------------------------------------------------------------------------------------------------'
+
+[Ration]
+[Ration]
+[Ration]
+
+Run down the stairs into the water to get a Ration.
+
+The best way to go through here is this way:
+Crawl under the pipe, run to the upper wall and wait until the coast is clear for you to run to 
+the very right side of the room. Stand to the right of the big vent and wait for the guard 
+to come stand to the left of it. Crawl under the pipe and run straight up. Wait on the right side 
+of the Forklift until the elevator comes down and the guard who comes out leaves and the coast is 
+clear. Run into the elevator and it'll automatically go up. If the alarm is on, the elevator will 
+not leave.
+
+,--------------------------------------------------------------------------------------------------.
+| Heliport                                                                                   1.0.1 |
+'--------------------------------------------------------------------------------------------------'
+
+[Rations          ]
+[Chaff Grenades x3]
+[Stun Grenades  x3]
+[Socom        [gun]
+
+Run to the right side of the helipad, and wait until the two spotlights are as far away from each 
+other as a possible, then make a run for it. Pick up the Chaff Grenades while you run. Run into the 
+room on the left, and sneak along the top crates then make a run for the Stun Grenades when the 
+camera isn't looking. Sneak back outside then run up the left wall and make sure the guard in the 
+upper left corner is sleeping. If he is, make a run for the truck. While inside pick up the Socom 
+and wait for the right moment to run outside, past the camera and up the stairs to the right. Sneak 
+past the guard up here and crawl into the air vent.
+
+,--------------------------------------------------------------------------------------------------.
+| Tank Hangar                                                                                1.0.2 |
+'--------------------------------------------------------------------------------------------------'
+
+[Thermal Goggles  ]
+[Socom Bullets x12]
+
+Sneak past the camera in the top right corner and then down and into the cargo room (room on the 
+right, you can't miss it). Watch out for the camera and pick up the Thermal Goggles. Run out of the 
+cargo room and follow the bridge. Ignore all closed doors since you do not have a keycard yet. 
+Sneak down the stairs at the end of the "bridge" while watching out for the camera. Sneak behind 
+the stairs and pick up the Socom Bullets. Then wait until the coast is clear and run right to the 
+elevator (double-doors saying "EV." with a yellow button next to it) Go down to B1.
+
+,--------------------------------------------------------------------------------------------------.
+| House 1 B1 - Cells                                                                         1.0.3 |
+'--------------------------------------------------------------------------------------------------'
+
+[Socom Bullets x12]
+[Level 1 Keycard  ]
+[Socom Bullets x12]
+[Socom Bullets x12]
+
+Follow the passage-way down and right until you reach a ladder, then climb it. Explore this vent 
+and look down through all the grates. After the long talk scene with the leader of DARPA, there 
+will be a short shooting sequence. Just shoot everyone you see and pick up the ammo/rations they 
+drop. Use rations if necessary. Now you'll have a Level 1 Keycard. You can open all doors that have 
+a 1 on them now. Go back inside the door you just exited and pick up some more ammo inside. Go back 
+to the elevator now and go down to B2.
+
+[NOTE: Anderson, the manager of DARPA, is telling you about Metal Gear and how Snake needs to find 
+       PAL keys to shut it down]      
+
+[remember that you need to equip keycards for them to function]
+
+,--------------------------------------------------------------------------------------------------.
+| Armory                                                                       1.0.4 |
+'--------------------------------------------------------------------------------------------------'
+
+[Socom Bullets  x12]
+[Socom Bullets  x12]
+[Grenade        x04]
+[Grenade        x04]
+[C4             x02]
+[C4             x02]
+[C4             x02] 
+[Socom Bullets  x12]
+[Socom Bullets  x12]
+[Chaff Grenades x03]
+[Stun Grenades  x03]
+[Socom Bullets  x12]
+[Socom Bullets  x12]
+[Socom Bullets  x12]
+[Level 2 Keycard   ]
+[Fa-mas            ]
+[Fa-mas Bullets x25]
+[Fa-mas Bullets x25]
+
+This floor consists of one big room with 2 exits, and 6 smaller rooms. The smaller rooms are the 
+ones I'm talking about.
+
+Go out of the elevator and down to the room in the mid-low part. Watch out for trap-doors. Run out 
+of the room and to the room on the left, there pick up the grenades and run out. Go to the mid-high 
+room and pick up the C4. Now, look at the walls on each side of the elevator. Notice the blueish 
+cracked ones? Place a C4 in front of one of them and blow it up. Get all the bonuses and run down 
+to the lower left corner, here blow up the wall and go in. In this little hall find the wall you 
+can blow up and do so. And in this next hall blow up the upper wall that you can destroy, the 
+rightmost one is for later.
+
+You will now face Revolver Ocelot.
+
+He will run around the cubic room and fire at you, after he has fired 6 shots he has to reload. Try 
+to get a shot in on him and then advance after him while he's stunned, just keep doing this and 
+watch out for his shots. Pretty easy eh?
+
+A good tactic is to run+shoot with the Socom, only hold both the buttons until you can get a clear
+shot. There's no need to waste too much ammo, right?
+
+After the very lengthy talking sequence with Kenneth Baker you will have the Level 2 keycard. Go 
+back the way you came and enter the Level 2 room in the big B2 room. Equip the Thermal Goggles and 
+evade the infra-red sensors and you'll have yourself a new weapon, the Fa-mas. Go out and take the 
+elevator back up to the Tank Hangar [level 1]
+
+[NOTE; Cigarettes will also help you find infra-red!]
+
+,--------------------------------------------------------------------------------------------------.
+| Tank Hangar                                                                                1.0.5 |
+'--------------------------------------------------------------------------------------------------'
+
+[Socom Supressor  ]
+[Cardboard Box A  ]
+[Chaff Grenades x3]
+[Mine Detector    ]
+[Ration           ]
+
+First off call Meryl on the radio. [her frequency is on the back of the box, lower right screenshot]
+She will tell you to wait and she'll open the big door to the right of the elevator.
+While you wait I suggest you do the stuff below.
+
+Go out of the elevator and through the door on the right, sneak up on the sleeping guard and 
+kill him. Get the supressor and use it (if you have the Socom equipped it will be used 
+automatically). Go out of this room and go up the stairs to the 2nd floor of the Tank Hangar. Go 
+through the first door on the 2nd floor. Pick up the Cardboard Box and the Chaff Grenades. Go out 
+of this room and follow the bridge back to the top right room, go inside and pick up the Mine 
+Detector and perhaps the rations. Now you you can go downstairs, kill the guards and go through the 
+big door.
+
+When you're through the big door, equip the Thermal Goggles and avoid the infra-red sensors and go 
+through the door on the other side, welcome to the Canyon.
+
+,--------------------------------------------------------------------------------------------------.
+| Canyon                                                                                     1.0.6 |
+'--------------------------------------------------------------------------------------------------'
+
+[Ration    ] 
+[Ration    ]
+[Grenade x4]
+[Grenade x4]
+[Ration    ]
+
+Here you will fight a boss, a tank, so I suggest you make sure you're ready before you go ahead.
+You have to make your way pretty far up, the best way is alongside the left wall. You can just 
+equip your Mine Detector and avoid the mines. Either way you have to go upwards. When you've 
+reached the tank simply run around it throwing grenades up on the tower to take out the gunner. 
+Watch out for the machine gun fire. You will now automatically enter the Nuke Building 1.
+
+[NOTE; Crawl on top of mines and you'll pick them up]
+
+,--------------------------------------------------------------------------------------------------.
+| House 2 - Nuke Building 1                                                                  1.0.7 |
+'--------------------------------------------------------------------------------------------------'
+
+[Rations]
+
+Run up to the left to pick up the rations.
+
+In this entrance just run down the passage and crawl under the door. Watch out in here because if 
+the alarm is set off the place will be filled with gas and you will die. Stick to the bottom wall 
+and creep into your cardboard box to hide from the patrolling guard. Once he passes you continue 
+to the left and sneak up the stairs. Pick up any bonuses along the way but don't bother with any 
+out of the way bonuses because they can easily get you spotted and killed. Once up the stairs, run 
+to the elevator and take it down to B1.
+
+,--------------------------------------------------------------------------------------------------.
+| Nuke Building B1                                                                           1.0.8 |
+'--------------------------------------------------------------------------------------------------'
+
+[Ration           ]
+[Socom Bullets x12]
+[Stun Grenade x3  ]
+[Nikita Launcher  ]
+[Nikita Missile x4]
+[Nikita Missile x4]
+
+Run to the left and into the bathroom and kill the guy taking a leak (just to stop him from 
+disturbing you later). Now run through the lower door and into the office room. Kill the guard and 
+enter any doors you can. Get the Nikita+ammo and run out to the elevator, take it down to B2.
+
+,--------------------------------------------------------------------------------------------------.
+| Nuke Building B2 + Lab                                                                     1.0.9 |
+'--------------------------------------------------------------------------------------------------'
+
+[Ration           ]
+[Gas Mask         ]
+[C4 x2            ]
+[Grenade x4       ]
+[Grenade x4       ]
+[Nikita Missile x4]
+[Nikita Missile x4]
+[Chaff Grenade x03]
+[Ration           ]
+[Fa-mas Bullet x25]
+[Chaff Grenade x03]
+[Fa-mas Bullet x25]
+[Fa-mas Bullet x25]
+[Ration           ]
+[Level 4 Keycard  ]
+
+Go to the right wall and press against it, then go through the door on the bottom wall. When you get 
+through the second door you will enter a gas-filled room with an electrical floor. Fire a nikita 
+missile and guide it to the left and up to the switch box on the wall. (the one shown in the little
+animated sequence). Run out and get some air, then run in again and enter the two rooms you can enter
+on the right wall. Get the Ration and the Gas Mask and run down the passage, here you can either go
+right and fight a boss or go left and pick up a few bonuses. Even if you go for the bonuses you should
+go to the right and through the door afterwards. Go through a few doors and see a few pretty busted
+up bodies and your old friend Ninja slice a few guys up. Follow him through the door then get ready
+to fight.
+
+Fighting Ninja isn't too hard. Just watch out for his attack and hit him when you can. Don't use 
+any firearms in the beginning, only throw punches. When you beat him up a little he'll start hiding, 
+just equip the Thermal Goggles and keep beating him up. When he starts walking around calmly and 
+throwing punches that HURT, just throw Chaff Grenades to stun him and beat him up. When he is 
+starting to break down and stands in a big blue ball, fire at him with the Fa-mas and he'll soon be 
+out of the way.
+
+After a lengthy talk with Lee 'Otacon' Emmerich (some of it concerning anime! :) you will have a 
+level 4 keycard. Now go back the way you came and go to the elevator. Take it up to B1.
+
+,--------------------------------------------------------------------------------------------------.
+| Nuke Building B1                                                                           1.1.0 |
+'--------------------------------------------------------------------------------------------------'
+
+[Level 5 Keycard  ]
+[PAL key          ]
+[Socom Bullet  x12]
+[Ration           ]
+[Fa-mas Bullet x25]
+[Fa-mas Bullet x25]
+[Socom Bullet  x12]
+[Ration           ]
+
+Go into the big office and kill the guard patrolling on the right. Then let the guard on the left 
+see you. He will flee, follow him. Run up to the last booth in the ladies bathroom and look in it. 
+You will now meet Meryl again (she was the guard in disguise, see). You will talk for a while and 
+she will equip you with a level 5 keycard and the PAL key. After this it's time to enter the 
+double-doors in the corridor to the left of the elevator and fight Psycho Mantis.
+
+Mantis will control Meryl at first, throw a Stun Grenade and he'll come out and introduce himself 
+and the real fight will begin.
+
+---+>> [tip from Leon]
+
+ "Also, to enlighten your readers more about the "hideo" display when you fight Mantis.  As you 
+ correctly pointed out, Japanese TVs display this sign for video inputs.  The actual katakana says 
+ "hideo", which is a play on "bideo" (or "video" in English).  Most Sony TVs display this when 
+ you're using the video input to let you know which line input you are using." 
+
+<<+--- [end tip]
+
+That play on "video" is a joke, it's supposed to mean that Mantis is powerful enough to even 
+control your TV!
+
+The Hideo thing was kept in the US version, it's in plain roman letters now though.
+
+Ok, so there is a REALLY easy trick to beating him. As I said earlier, he is so powerful that he
+controls your TV, right? He can even predict what you're doing, by reading what buttons you press
+through controller port 1. So if you have a second controller (or you can just switch places with
+one controller) you can just pick that up and beat him up. Equip the thermal Goggles and follow
+him around. Duck under any flying furniture.
+
+He will wake Meryl up again later on, just keep stunning her with stun grenades and Mantis will 
+give up trying to control her.
+
+When you beat him you exit through the hidden door behind the top right bookshelf. (opens
+automatically, don't worry).
+
+,--------------------------------------------------------------------------------------------------.
+| Cave                                                                                       1.1.1 |
+'--------------------------------------------------------------------------------------------------'
+
+Meryl walks off to the right, you should follow the snowy path and crawl under that low bridge. 
+Then run through the caves (keeping to the right) until you reach the point in the lower right 
+corner where you can crawl under and met Meryl again. You can place a bullet in the wolves if they 
+bother you too much. Exit through the door to the north.
+
+,--------------------------------------------------------------------------------------------------.
+| Underground Passage                                                                        1.1.2 |
+'--------------------------------------------------------------------------------------------------'
+
+Meryl will get shot by Sniper Wolf here. After all the talk and automated sequences, run all the 
+way back to the very first house (you know, with the Tank Hangar) and go down to B2. Enter the 
+level 5 (up-left) room and get the PSG1, then run all the way back to where you just were, where 
+Meryl got shot.
+
+While on your way either forth or back, you can stop by in the Office room in B1 in the 2nd House,
+the Nuke Building 1.  Here you can now pick up Cardboard Box B.
+
+[NOTE; use Diazepam pills, they making snipering ALOT easier!]
+
+Now get ready to start some sniper-fighting with Sniper Wolf. She will keep shooting and running
+around, all you have to do is hit her a few times. There are a number of usable tactics here, all 
+I can say is that it's pretty easy if you concentrate.
+
+After you beat her, follow the passageway and try to enter the door on the right. You will be 
+captured and get to play the "Torture Scene"
+
+,--------------------------------------------------------------------------------------------------.
+| Torture / Prison                                                                           1.1.3 |
+'--------------------------------------------------------------------------------------------------'
+
+[Ketchup        ]
+[Scarf          ]
+[Level 6 Keycard]
+
+During torture, all you have to do is keep pressing Circle to survive. If you can't hack it you 
+must press select before you die, since there is no Continue option in this part of the game!
+
+[NOTE: The torture scene will decide which ending you get, if you endure it or surrender, you will
+recieve different endings. If you endure you get the "good" ending]
+
+Ocelot says something like "Don't even think about using an auto-fire controller, or I'll know". 
+Well, I used a Blaze autofire controller and he didn't say anything about it, it helps greatly, 
+I had full life almost all the time. 
+
+Between the torture sequences you will be in a cell, the first time nothing will happen. The 2nd 
+time Otacon will come and give you some Ketchup, a Scarf and a level 6 keycard. 
+During the 2nd time the guard will also run to the bathroom which gives you the chance to hide 
+under the bed and get him to open the door. If you don't do this, you can wait 'til the third time 
+in the cell and let Ninja smash the door. Either way, if you survive the torture you will get to 
+escape.
+
+Follow the passage-way back into the torture room when you escape, don't forget to grab the big red 
+box which contains all of your old belongings. Go out through the door and watch out for the cannon 
+above it. Leave using the Elevator. Take it up to Level 1, the Tank Hangar.
+
+,--------------------------------------------------------------------------------------------------.
+| Going back                                                                                 1.1.4 |
+'--------------------------------------------------------------------------------------------------'
+ 
+From the Tank Hangar you have to make your way back, all the way, to where you fought Sniper Wolf
+and got caught. Along the way you can go down to B2 in house 2 and pick up the Body Armor in the
+leftmost corridor (the gas-filled one). Or you can just ignore it since you will get it later.
+
+Anyways, when you reach Underground Passage (where Meryl got shot and all that), enter through the 
+door with your new Level 6 card. 
+
+,--------------------------------------------------------------------------------------------------.
+| Communications Tower A                                                                     1.1.5 |
+'--------------------------------------------------------------------------------------------------'
+
+Run down the corridor and enter the door. This will sound an alarm and basically the only thing 
+you're supposed to do is grab the Rope and Stun Grenades and run like hell. Run up the stairs as 
+far as they go, throwing Stun Grenades to get rid of enemies when they get too close. Ignore the 
+door you see half-way, you can't open it yet. Just keep running and throwing Stun Grenades.
+
+Once up, go outside and up the stairs (upper left). After the satellite has been destroyed, equip 
+the rope and walk up to the edge. This will start the Rappelling sequence. Watch out for steam and 
+bullets here. When you've hit the ground the helicopter will stop following you. 
+
+Here you can blow the door open, but you shouldn't enter it now. You should equip your PSG1 and 
+take out the guys who are waiting for you on the other side of the bridge you're on. Run up the 
+path when they're gone and enter the door. 
+
+[You can keep running when Liquid shows up in his Hind! Keep that in mind, or you'll get shot]
+
+,--------------------------------------------------------------------------------------------------.
+| Communications Tower B                                                                     1.1.6 |
+'--------------------------------------------------------------------------------------------------'
+
+[Stinger Launcher  ]  
+[Stinger Missile x5] 
+
+Get the Stinger and the ammo and run out through the lower door. Here, run to the right and follow
+the stairs down until you reach the broken stairs. Now turn and run back up and go down where you 
+went right earlier. You will meet Otacon and have a little chat with him. Start making it up the 
+stairs. Now every fourth turn there will be a few cannons, just throw a chaff grenade and they 
+won't even notice you!
+
+Use the door and go outside. You will now face Liquid Snake in his chopper.
+
+All you have to do is dodge his shots, run as far up as you can when he shoots missiles and fire 
+Stinger shots at him. It's pretty easy, it just takes a little while since he's flying all over the 
+place.
+
+Once you beat him, enter the tower and run all the way down to the elevator and take it down to the 
+1st floor. On the elevator you will face 4 invisible enemies, just put on your Thermal Goggles and 
+fight them. After you get off the elevator I suggest you run right and pick up the Ration and the 
+PSG1 bullets. Then run right and exit through the door. Run through the corridors, dodging the 
+cannons.
+
+,--------------------------------------------------------------------------------------------------.
+| Snowfield                                                                                  1.1.7 |
+'--------------------------------------------------------------------------------------------------'
+
+Run around for a bit, once you get too far you will be shot down. It's time to face Sniper Wolf 
+again. This time it's alot easier than the first time, so just equip your PSG1 and take her out.
+
+[NOTE; I've gotten quite a few mails saying that it's easier to beat wolf with the Nikita. Just run
+       for cover and stand there firing missiles. Guiding them straight up her back. Nice idea]
+
+Enter the mid-top building (level 6 door) and run to the top right, then run down the stairs.
+
+[all the other buildings here contain bonuses, the one closest to the truck has Cardboard Box C]
+
+Congrats, you just beat the first disc. Now hurry, exchange the discs.
+
+,--------------------------------------------------------------------------------------------------.
+| Blast Furnace                                                                              1.1.8 |
+'--------------------------------------------------------------------------------------------------'
+
+Take out the first guard with a few Socom shots and pick up any ammo and such. Then run to the 
+right and follow the longer of the two bridges, when you reach the wall press against it and walk 
+up the wall (keep pressing against it!). You need to duck for the crane that passes by. Once you've 
+made it across, follow the bridge down the stairs. To the left here there's some ammo and a ration. 
+I suggest you go down the right bridge and enter through the opening in the south wall.
+
+[ignore this part and enter through the northern door in the Blast Furnace if you already have
+ the Body Armor]
+
+In here you need to watch out for the steam. Run, duck and crawl through. Once outside pick
+up the body armor and ammo and make your way back. Now enter the big door in the north wall
+(opposite of the opening you just came from).
+
+,--------------------------------------------------------------------------------------------------.
+| Cargo Elevator                                                                             1.1.9 |
+'--------------------------------------------------------------------------------------------------'
+
+All you need to do in here is run up to the shaft and wait for the elevator to come up. Then you 
+get on it and activate it using the control panel on the right. During this ride you get to kill 
+some guards.
+
+Once the elevator lands, simple run up and to the right and get on the next elevator. You might 
+want to look out for mines on the ground here.
+
+When this elevator lands, run through the doors to the north.
+
+,--------------------------------------------------------------------------------------------------.
+| Warehouse                                                                               1.2.0 |
+'--------------------------------------------------------------------------------------------------'
+
+Here you fight Vulcan Raven. There's one easy tactic to use here, just one. Get in behind him
+and fire a stinger missile at him. He's never hit me, so he's pretty darn easy!
+
+[now you find out that the first DARPA leader you met was a fake who was lying about the PAL keys
+ in order to fool Snake into activating Metal Gear, this fake was Decoy Octopus]
+
+After Raven's done for, exit through the northern door.
+
+,--------------------------------------------------------------------------------------------------.
+| Passageway                                                                                 1.2.1 |
+'--------------------------------------------------------------------------------------------------'
+
+Throw a Chaff Grenade and make a run for it, exit through the northern door. To the right and up 
+the stairs are only 15 stinger missiles, they're not worth it.
+
+,--------------------------------------------------------------------------------------------------.
+| Underground Base 1                                                                             1.2.2 |
+'--------------------------------------------------------------------------------------------------'
+
+Follow the passageway out to the REX, go right and up the ladder. Go left, up and climb the ladder.
+Climb the next ladder, climb down on the other side. Follow the passage and shoot the guard.
+Keep following the passage until you find the stairs, go up and watch the sequence. Since Snake
+dropped the PAL key you're gonna have to run back down to the base of the REX room, and run around 
+the water trying to find it. If you pick up an item called 'BOMB' open your inventory and use it
+the way you use Rations, otherwise you will die. If you can't find it, try to find a swimming rat
+instead and shoot him to pieces. He will most likely have it!
+
+Now, run all the way back up to the control room and go inside. Equip the PAL key and go to the
+leftmost laptop computer and use the use it. After that, check the other computers and find out
+that you need to change the card itself. For this you have to visit 2 different rooms and change
+the cards in there.
+
+(you MUST change it first to blue then to red, in that order!)
+
+To make the card blue and usable on the blue laptop: Go to the Warehouse (where you fought 
+Raven) and run around a bit 'til it has changed. Now run back to the control room and use it on 
+the Laptop.
+
+To make the card red and usable on the red laptop: Go back to the Blast Furnace and equip the 
+PAL key and run around there for a bit until it changes to red. When it has changed you need to go 
+back to the control room and use the key. 
+
+This will set off the alarm and you will find out that your 'friend' Master Miller has been
+Liquid Snake in disguise all along! Anyways, the alarm will be set off and gas will fill the room
+you will need to call Otacon at 141.12 and he'll get the door open.
+
+To beat the Rex, all you have to do is throw a Chaff Grenade, and shoot him with the Stinger.
+You can only lock onto the radar satellite during the first time you meet him. The second time you
+can only lock onto the booth where Liquid Snake is sitting. Watch out for his missile fire, the 
+machine gun fire and the laser beam. If you have a chaff grenade disturbing the radar, the missiles
+will miss if you run away from them. If not, they'll most likely hit you. 
+
+Now you have to fight Liquid Snake in a one-on-one fist fight. It's pretty easy.
+Watch out though. At first you can hit him with all of your three-hit combo (press attack 3 times),
+then after he yells something (can't remember what it is) you can only hit him with ONE hit. After
+that one hit you'll need to run away a bit, since he'll strike back with two punches. To defeat him
+you must throw him over the edge.
+
+,--------------------------------------------------------------------------------------------------.
+| The Chase                                                                                  1.2.3 |
+'--------------------------------------------------------------------------------------------------'
+
+This is your escape from the complex. First off you should go back through the door you just came
+from, to get a ration. Then you should run left. Now follow Meryl's (or Otacon's) lead and get into 
+the car. First shoot the barrels, and then at the next stop shoot everyone then shoot the barrels. 
+At the last stop you only need to shoot everyone.
+
+Enter Liquid Snake. You just have to keep shooting him and eating up Rations if you lose HP.
+
+If you survive this. All i can do is congratulate you on beating one of Konami's finest. :)
+
+,--------------------------------------------------------------------------------------------------.
+| Frequencies                                                                                2.0.0 |
+'--------------------------------------------------------------------------------------------------'
+
+  Deep Throat                 [140.48]
+  Master Miller               [141.80]
+  Mei Ling                    [140.96]
+  Meryl Silverburgh           [XXX.XX]
+  Naomi Hunter                [140.85]
+  Nastasha Romanenko          [141.52]
+  Roy Campbell                [140.85]
+
+Meryl's frequency is on the back of the CD case, I don't want to give it out since it's obviously
+some type of copy protection from Konami.
+
+There is an extra slot in the 'Memory' section in the radio menu, which I haven't filled yet. Word 
+is that this slot was meant to be a secret frequency where you could hear the MGS staff talk, or
+something funny like that. But they just didn't have the time to add it, it wasn't included in the 
+US version either.
+
+,--------------------------------------------------------------------------------------------------.
+| Characters *be spoiled or be dead!*                                                        2.0.1 |
+'--------------------------------------------------------------------------------------------------'
+
+Big Boss:
+Ex-FOX HOUND commander. Tought to be a mercenary all around the world during the 70's. Respected 
+by people as the "Great Soldier". In the 90's he was appointed the duty as the commander of the 
+unconventional warfare force known as FOX HOUND. Through the ample funds and connections from his
+mercenary days, he was able to build an independent military station called "OUTER HEAVEN", which
+was later destroyed by Snake.
+
+Decoy Octopus:
+A member of FOX HOUND. He was at the Alaskan base with the rest of FOX HOUND, his duty was to look
+like Donald Anderson and sit in a cell. When Snake came to the rescue he told Snake all about the 
+PAL keys, because noone but Snake could activate them (weird? :). He was killed by the FOXDIE 
+virus. All other details are unknown.
+
+Deep Throat:
+Just like in the X-Files, Deep Throat is Snake's informant. Deep Throat will contact you when he 
+has something to say. Deep Throat is really Gray Fox (Ninja). The name Deep Throat comes from the
+watergate scandal.
+
+Donald Anderson:
+The chief of DARPA (Defense Advanced Research Projects Agency). An advocate of the nuclear 
+retaliation theory. He was taken hostage at the Alaskan base during the terrorist act. The reason
+why he came to the nuclear weapon disposal facility is unknown.
+
+Hal "Otacon" Emmerich:
+Loves Japanimation (japanese animation). His nickname "otacon" comes from the "Otaku Convention"
+which is a fan event of japanese animation held in the US, which he is a regular visitor to.
+
+Kenneth Baker:
+The President of ArmsTech, which is the leading company of the military industry. He's a middle 
+aged man. He was taken hostage at the Alaskan base during the terrorist act. It is unclear why the
+president of ArmsTech, as a civilian, was at the nuclear weapon disposal facility.
+
+Liquid Snake:
+A man who looks exactly like Snake. After the uprising of Zanzibar (after Solid Snake left the 
+unit) he joined FOX HOUND. His splendid fighting skills made him the combat leader of FOX HOUND. 
+He is the ringleader behind this incident and seems dedicated to get revenge on Snake. 
+
+MacDonald Benedict "Master" Miller:
+A third generation AJA (American with Japanese Ancestory). He served in the SAS, Green Beret, 
+Marine Corps and FOX HOUND as a master of survival training. In those days he was recognized among 
+soldiers as a hard-hearted instructor and was called "Master Miller" with respect. After retiring 
+from the armed forces, he lives in the nature of Alaska.
+
+Mei Ling:
+She is in charge of the communication data processing in this operation. A student at MIT. Her
+nationality is Chinese (Kwangtung), though she was born in the US. She grew up in China Town.
+Specializing in the image and data processing operations of spy satellites. She also developed
+the new communication equipment and radar used by Snake in this mission. (She's a genius! :)
+
+Meryl Silverburgh:
+She is Campbell's niece. As a ??? she was assigned to Shadow Moses Island and arrived at the 
+island of the terrorist act, this dragged her into this incident. She will work with Snake to
+fight the terrorists. Born in a house of military tradition, from her childhood days she has 
+trained herself to be able to become a soldier. Has no combat experience, just like any typical
+recruit. Being a woman she still handles a Desert Eagle with only one hand.
+
+Naomi Hunter:
+The medical chief of FOX HOUND. A brown-skinned beauty. In charge of gene therapy and gene
+strengthening. Her staff affectionally calls her "Doctor Naomi". Her reports to Snake are 
+provided via vidcom. She is the one who implants everyone in FOX HOUND with the FOXDIE virus.
+
+Nastasha Romanenko:
+Military analyst, in her thirties, loves smoking. Specializing in hi-tech weapons and nuclear 
+weapons. Lives in Los Angeles. Her support to Snake is provided via vidcom. She served in the DIA
+(Defense Intelligence Agency), NSA (National Security Agency), but the end of the cold war 
+deprived her of her positions in the government organizations. After she left the agencies she 
+started working as a freelance analyst.
+
+Ninja (Gray Fox):
+ "A cyborg ninja whose identity is unkown. Covered with stealth camouflage, cuts through steel and
+even bullets with his sword. He is actually Gray Fox who fought a deadly fight with Snake. After
+the battle with Snake, the armed forces has kept him as a subject of experiments of exoskelton and
+gene therapy technologies which pretty much disable him. Now he lives solely to finish up what he
+has to with Snake. That is the reason why he goes to Alaska."
+ "A mysterious stealth cyborg. Seems like it is infiltrating the same base, but nothing else is 
+known is it friend or foe?"
+Ninja is actually an old enemy of snakes, they had a fight which got cut off and now Ninja wants
+to finish it. Someone said that Ninja also took care of Naomi Hunter when she was little, because
+she thought he was her brother. 
+
+Psycho Mantis:
+FOX HOUND member. Was a psychic secret agent for the KGB. Has powerful psychokinetic powers and the
+ability to read people's minds. Losing his position in the Soviet union, after it's crumble, he 
+moved to the US. He served in the FBI for a while, then became a freelance espionage agent and 
+later joined the FOX HOUND team.
+
+Revolver Ocelot:
+FOX HOUND member. Ex-Spetsnaz. A gun nut who loves cowboy movies and spaghetti westerns. He is 
+also a "torture maniac" (sadist). His name is from being special torturing advisor at concentration
+camps, during the Spetsnaz days.
+
+Roy Campbell:
+Ex-commander of FOX HOUND. Though already retired from the armed forces, he has been called out 
+because there was no other commander who could get in touch with Solid Snake, the only man who can
+interdict the terrorist act at this time. Before entering the "former" FOX HOUND team, he served 
+in the US Marin Corps, Green Beret and Delta Force. In FOX HOUND, he was assigned to X.O. of the 
+unit for his strategic planning capabilites backed up by his experience.
+
+Sniper Wolf:
+FOX HOUND member. Genius in sniping. Has such incredible patience that she can keep aiming at her
+target for a long time (even a week) without eating or drinking. A Kurd (Iraqi tribe). She takes
+care of wolfdogs kept in the base, she sees something of herself in the wolfdogs. Is proud of 
+crossing wolves and huskies.
+
+Solid Snake: 
+FOX HOUND operator. IQ 180. Speaks 6 languages fluently. Also known as "The Legendary Mercenary"
+and "The man who makes the impossible possible", since his outstanding activities in "The OUTER
+HEAVEN crisis" and "The UPRISING OF ZANZIBAR". Colonel Campbell called Snake back from his 
+solitary life in Alaska which he has been living since he left FOX HOUND, to ask him to infiltrate
+Shadow Moses Island. At the end of the game Snake says his real name is David.
+
+,--------------------------------------------------------------------------------------------------.
+| Equipment                                                                                  2.1.0 |
+'--------------------------------------------------------------------------------------------------'
+,--------------------------------------------------------------------------------------------------.
+| Bandana              | Words <Limitless> sewn on it.                                             |
+|                      | A reward for beating the game [Meryl ending]                              |
+| Body Armor           | Bulletproof vest. Reduces damage upon impact.                             |
+|                      | Go through the steam room in the Blast Furnace [House 3]                  |
+| Camera               | You can snap shots of people, uses 2 memory card slots for one picture    |
+|                      | In a secret room to the right of where you go to meet Revolver Ocelot     |
+| Cardboard Box A      | < To Heliport > written on it.                                            |
+|                      | Top left room of the Tank Hangar [house 1] lvl 1 keycard required         |
+| Cardboard Box B      | < To Nuclear Weapon Storage Building > written on it.                     | 
+|                      | B1 in house 2, the big office room, the top left office                   |
+| Cardboard Box C      | Same as A                                                                 |
+|                      | Bottom left room of Snipers Grounds 2                                     |
+| Cigarettes           | Solid Snake's favorite brand. Smoking is hazardous to your health.        |
+|                      | You have them from the beginning                                          |
+| Diazepam             | Anti-anxiety drug. Temporarily stops involuntary trembling.               |
+|                      | A few different places.                                                   |
+| Disc                 | It's a disc with the test info on Metal Gear, you can't actually use it.  |
+|                      | Given to you by Kenneth Baker                                             |
+| Gas Mask             | Filters the gas, so you lose your breath at half the speed                |
+|                      | Third room on the right in the gasfilled corridor of B2 in House 2        |
+| Ketchup              | Lie down and use it in the prison cell, then lie very still               |
+|                      | Otacon gives it to you when you're locked in the cell                     |
+| Magnifying Scope     | Magnifying scope. Press O to zoom in, X to zoom out.                      |
+|                      | You have it from the beginning                                            |
+| Medicine             | Cure for the common cold                                                  |
+|                      | Found on B2 of House 2, in the big office, Level 6 Door                   |
+| Mine Detector        | Shows mines on your radar                                                 |
+|                      | Top right room (upper level) of Tank Hangar, House 1                      |
+| Night-Vision Goggles | Image-intensifier. Allows sight in extremely low light.                   |
+|                      | On B2 of House 2 [Nuke Building 1] in the rightmost corridor              |
+| PAL Card Key         | Emergency input or override device.                                       |
+|                      | Use on the laptops, see section 1.2.2                                     |
+| Ration               | Restores life.                                                            |
+|                      | Use by pressing O while menu is open.                                     |
+| Scarf                | Wolves love this smell, obviously                                         |
+|                      | Otacon gives it to you when you're in the cell                            |
+| Stealth Suit         | Makes you invisible, like Ninja or Otacon, not from bosses though!        |
+|                      | Reward for beating the game                                               |
+| Thermal Goggles      | Thermal imaging system for night-vision use.                              |
+|                      | Bottom right room (upper level) in Tank Hangar, House 1                   |
+'--------------------------------------------------------------------------------------------------'
+
+Stuff worth noting:
+Using the Bandana or Stealth Suit detracts from your final score, it seems.
+
+The Stealth Suit makes you completely invisible to normal enemies, but wolves and bosses still can
+still know you're there (wolves smell you and bosses just see you as if you weren't invisible), 
+in places where you MUST fight to survive (breaking out of the first cell with Meryl, 1st Tower)
+the guards will see you.
+
+The Body Armor and Gas Mask do not totally eradicate injuries, they only make them milder.
+
+Diazepam wears off pretty fast.
+
+,--------------------------------------------------------------------------------------------------.
+| C4                   | Plastic explosive. Press Square to set. Press Circle to detonate.         |
+|                      | Can be found anywhere                                                     |
+| Chaff Grenades       | Disables electronics. Press Square to pull pin. Release to throw.         |
+|                      | They're everywhere                                                        |
+| Claymore             | Press Square to set. Explode when target is within range.                 |
+|                      | Crawl over mines you see with the Thermal G. or Mine D.                   |
+| Fa-Mas               | Assault rifle. Press Square to fire. Hold down Square for full-auto.      |
+|                      | Level 2 room on B2 of House 1 [need a level 2 keycard]                    |
+| Grenade              | Frag grenade. Push Square to pull pin. Release to throw.                  |
+|                      | They're everywhere                                                        |
+| Nikita               | Press Square to fire. Use directional buttons to control after firing.    |
+|                      | the big Office room on B2 in House 2, need a level 3 keycard              |
+| PSG1                 | Sniper rifle. Aim with directional buttons and press Square to fire.      |
+|                      | the Level 5 room on B2 in House 1 [need a level 5 keycard]                |
+| Socom                | Semi-automatic pistol. Hold down Square to aim. Release to fire.          |
+|                      | The first truck, in the Heliport                                          |
+| Stinger              | Portable SAM. Aim with directional buttons and press Square to fire.      |
+|                      | Bottom floor of Communications Tower B                                    |
+| Stun Grenades        | Disable all enemies. Press Square to pull pin. Release to throw.          |
+|                      | They're everywhere                                                        |
+'--------------------------------------------------------------------------------------------------'
+,--------------------------------------------------------------------------------------------------.
+| Cardboard Boxes                                                                            2.1.1 |
+'--------------------------------------------------------------------------------------------------'
+
+You can do more than just hide with the boxes, you can also use them for quick transportation 
+between the games three trucks.
+
+All you have to do is to climb into a truck, equip the right box and wait a little.
+
+Cardboard Box A used in Truck 2 and 3 drives you to Heliport
+Cardboard Box B used in Truck 1 and 3 drives you to House 2 [Nuke Building 1]
+Cardboard Box C used in Truck 1 and 2 drives you to Snowfield
+
+The cardboard boxes have yet another use! When you've reached the caves, and Meryl takes point. 
+You follow her up to a door and she says "What's the matter Snake? I thought you were good with 
+dogs?" .. Naturally you feel like smacking her at this point, do so and quickly hide in a box. 
+She'll whistle and a dog will come and take a leak on the box! This makes it possible for you to 
+hide in the box and just walk right past the dogs when you need to pass through there later.
+
+,--------------------------------------------------------------------------------------------------.
+| Camera                                                                                     2.1.2 |
+'--------------------------------------------------------------------------------------------------'
+
+The camera is a neat addition to the game. It doesn't have any use besides taking fun pictures as
+far as I have seen. You can find the camera in the first house, Bottom floor (B2) through the right
+wall where you blew your way through the upper wall to fight Revolver Ocelot and free Kenneth Baker.
+You will need a Level 4 keycard to get the camera. 
+
+The camera will also give "ghost" pictures, like the ones you can see on TV shows like Unsolved 
+Mysteries, with a mysterious "person" suddenly appearing on your photograph when you view it.
+
+The "ghosts" are members of the production team.
+
+Some places where you can find "ghosts":
+
+Looking out to the water from the cliff on the heliport                                  [Fukushima]
+The sleeping soldier on the heliport                                                        [Tanaka]
+Dead end in the top air vent in the first building                                       [Yoshimura]
+Kenneth Baker when he's all tied up                                                    [Kohei Onoda]
+Behind the water tank in the Canyon                                              [Shigehisha Kozyou]
+The guy taking a leak                                                                     [Korekado]
+The twitching dead guy in the corridor                                                   [Matsuhana]
+Second Policenauts poster in Otacon's Lab                                             [Hideo Kojima]
+Mirror in the womans bathroom                                                        [Yukiko Kaneda]
+The pictures on Psycho Mantis' northern wall                                         [Hideki Sasaki]
+Sewage waterfall near Underground Base 1                                            [Yutaka Negishi]
+The blue world map in the MGREX control room.                                                   [??]
+
+[ a total of 012 (of 043) ghost pictures ]
+
+,--------------------------------------------------------------------------------------------------.
+| Inventory Growth                                                                           2.1.3 |
+'--------------------------------------------------------------------------------------------------'
+
+Each time you beat a boss, you can carry more stuff in your inventory. Here's a chart:
+
+                 C4  Rations  Chaff  Stun  Socom  Grenade  Fa-Mas  Stinger  Nikita  Claymores  PSG1
+Default          04       01     03    03     25       08     101                          06    16
+
+Revolver Ocelot  06              06    06     49       12     N/A      N/A     N/A        N/A   N/A
+Tank                                                                   N/A     N/A              N/A
+Ninja                                                                  N/A                      N/A
+Psycho Mantis    12       04     15    15    121       24     251      N/A      12?        12   N/A
+Sniper Wolf      14       04     18    18    145       28     301      N/A      20?        14    21
+Hind D
+Sniper Wolf
+Vulcan Raven
+
+,--------------------------------------------------------------------------------------------------.
+| VR Training                                                                                2.2.0 |
+'--------------------------------------------------------------------------------------------------'
+
+VR Training. It's that option that you just disregard cause you want to have a go right away at the
+real game (well, I know I did that! :). But I'd recommend anyone to try it out before playing the
+game, since it really does seem to help. It's also great for competing between MGS playing friends,
+who gets the best times and such you know?
+
+It's separated into three parts, you need to beat one to get the next and so on, you know?
+
+Training Mode; take your time and explore your options. All you need to do is get past the guards
+without them noticing. Easy as peas.
+
+Time Attack Mode; just like Training, but this time you've got a set time you have to make it 
+through on. Still easy. The time records are (including KCEJ's best scores within paranthesis):
+
+KCEJ = Konami of Japan, the makers of the game. In case you didn't know.
+
+Stage 0001 00:05:00 (00:03:58)     Stage 0006 00:??:?? (00:06:38)
+Stage 0002 00:07:00 (00:05:31)     Stage 0007 00:09:00 (00:06:58)
+Stage 0003 00:14:00 (00:11:91)     Stage 0008 00:08:00 (00:06:50)
+Stage 0004 00:09:00 (00:07:48)     Stage 0009 00:15:00 (00:11:06)
+Stage 0005 00:??:?? (00:05:34)     Stage 0010 00:12:00 (00:08:99)
+
+Gun Shooting Mode; just like the two previous modes, but with a gun. Times, including KCEJ times:
+
+Stage 0001 00:04:00 (00:03:11)     Stage 0006 00:12:00 (00:07:15)
+Stage 0002 00:15:00 (00:04:60)     Stage 0007 00:10:00 (00:04:68)
+Stage 0003 00:18:00 (00:11:86)     Stage 0008 00:13:00 (00:04:51)
+Stage 0004 00:20:00 (00:08:84)     Stage 0009 00:20:00 (00:11:73)
+Stage 0005 00:10:00 (00:05:12)     Stage 0010 00:25:00 (00:13:15)
+
+Survival Mode; you have seven (7!) minutes and limited ammo to get through all the levels that are
+in the above modes. When you get caught 30 seconds are added to the time you had when you entered
+the level, and if you beat a level your ammo doesn't get replenished.
+
+In-game best times: 03:30:00
+                    04:30:00
+                    05:30:00
+
+KCEJ's site doesn't mention the Survival Mode as far as I can tell.
+
+The prize you get for beating Survival Mode is supposedly a movie of someone at KCEJ beating 
+Gun Shooting Mode (so you see how you do it the best way). 
+
+,--------------------------------------------------------------------------------------------------.
+| Frequently Asked Questions                                                                 2.5.0 |
+'--------------------------------------------------------------------------------------------------'
+
+Q: How do I save?
+A: Call up Mei Ling on your Codec, her frequency is 140.96. The first option is "Save", the second 
+   is "Don't Save"
+
+Q: I just got some C4, now what?
+A: See the blueish cracked walls? Place some C4 on them and blow them up!
+
+Q: I just beat Revolver Ocelot and recieved the Level 2 keycard, now what?
+A: Go up to the first level and call Meryl up on your Codec, her frequency is on the back of the 
+   box, lower right screenshot.
+
+Q: What's Meryl's frequency?
+A: It's on the back of the japanese box, lower right screenshot.
+
+Q: Is the tank invincible?!
+A: No, see section 1.0.6
+
+Q: How can I hit Ninja? He keeps deflecting my shots!
+A: Unequip your weapon and fistfight him!
+
+Q: How come I can't kill Meryl?
+A: She's your friend, dummy!
+
+Q: How the heck do I do some substantial damage to Psycho Mantis?!
+A: Use your second controller, or plug your first into the second port.
+
+Q: Meryl just got shot! How do I save her?!
+A: Don't worry, you have to leave to get the PSG1 [see section 1.1.2], you can save her by not
+   giving up during the Torture Scene [see section 1.1.3] though!
+
+Q: I just got to the top of the tower, how am I supposed to take out the Hind?
+A: Hide behind stuff when he shoots, and try to get a few hits in with the Stinger.
+
+Q: Help! I lost the PAL key, where is it?!
+A: You saw Snake drop it didn't you, it's down in the water on the bottom floor.
+
+Q: It's not in the water, where is it?!
+A: A rat took it. If you see one, blast it!
+
+Q: Do I get a different code name if I play better?
+A: Yes, see the "Rankings" section [3.0.3]
+
+Q: How do I get a better Ranking then?
+A: See the "Get a better score" section [3.0.2]
+
+Q: How do I play as Meryl?
+A: You don't.
+
+Q: Why is Ninja red?
+A: Good question, he sort of looks like Spider-Man doesn't he?
+
+Q: Can I play as Ninja?
+A: Nope.
+
+,--------------------------------------------------------------------------------------------------.
+| Secrets / Mysteries                                                                        3.0.0 |
+'--------------------------------------------------------------------------------------------------'
+
+There are two endings. One with Meryl and one without, which you get depends on your actions in the
+Torture Scene. (Surrender or Endure + Escape)
+
+The two different endings also give you two unique items, Bandana for rescuing Meryl and Stealth 
+Suit for letting her die, I have also heard of people who get great scores and get both in one 
+ending. I can not confirm nor deny this, it seems unlikely though since the items are part of the
+endings.
+
+Ninja turns RED when you have beaten the game at least twice and gotten both endings. (He looks 
+like spider-man, I think that's basically is the whole point of him being red). I beat the game a
+third time and got the new ending song. Ninja now turned back to blue.
+
+Is there a real and direct use for the Night Vision Goggles? I haven't seen any places that 
+actually requires the use of them.
+
+Secret or removed weapon? Towards the end of slpm_861.11 on disc 1, there are lists of your 
+inventory. Socom2 is not in what seems to be the real list, but in a list under it. Check your 
+file yourself, it's very close to the end. It could just be Socom with the suppressor though.
+
+If you beat the game at least two times and get both endings in the US version, you can start a new
+game as Tuxedo Snake.
+
+When you beat the game you can also get a mode called "Demo Theater" in the Special menu. Here you
+can view the entire game, except the parts where you play (ie you only see cutscenes and dialog)
+through to the end. You can get two "Meryl" and "Otacon".
+
+,--------------------------------------------------------------------------------------------------.
+| Subject to change                                                                          3.0.1 |
+'--------------------------------------------------------------------------------------------------'
+
+,--------------------------------------------------------------------------------------------------.
+| Getting a better score [japanese version]                                                  3.0.2 |
+'--------------------------------------------------------------------------------------------------'
+
+To get the best rating possible, you need to consider the scores you see at the end of the game.
+First, you need a good time, and if you've gone through the game a few times this should be no 
+problem. You will also need to save very sparingly and never use rations. Try to not get spotted
+more than 5 times, and ONLY kill the people you MUST kill. Speaking of that, throw Stun Grenades 
+when you're being chased in the first tower, try to let Meryl kill as many of the enemies you meet
+when you first meet her as she can (yes, she kills them, but it's unusual). Try to save whenever
+you know there's a passage where you could mess up, but don't do it too much.
+
+Turn off the radar as well.
+
+Now, those who said this game was too easy, want to give that a shot? :)
+
+,--------------------------------------------------------------------------------------------------.
+| Rankings                                                                                   3.0.3 |
+'--------------------------------------------------------------------------------------------------'
+
+This is pretty preliminary since I haven't gotten that many Ratings myself, these are just the ones
+I heard about: [alphabetical order]
+
+Big Boss        [beat extreme]
+Chicken   
+Falcon 
+Fox               
+Gazelle 
+Grizzly         [kill alot of people]
+Hippopotamus 
+Jackal 
+Jaws 
+Leopard         [be fast through the game]
+Pig             [eat alot of rations]
+Tarantula 
+Turtle          [go through the game very slowly]
+
+Got any ratings info? mail me.
+
+[info from various people and gaming-edge.com]
+
+,--------------------------------------------------------------------------------------------------.
+| Japanese <-> English differences                                                           3.0.4 |
+'--------------------------------------------------------------------------------------------------'
+
+The US version has a few differences, one secret:
+Snake in a Tuxedo [beat the game at least twice, getting both endings]
+
+It also has four difficulties:
+Easy                                                                 [equal to the japanese version]
+Normal                       [just a bit rougher, with less health given back and more damage given]
+Hard                                                                 [like Normal but without radar]
+Extreme                                              [insane, hardly any rations and TONS of damage]
+
+The japanese torture sequence only had three torture sessions, the US version has four.
+
+,--------------------------------------------------------------------------------------------------.
+| Games Psycho Mantis react on                                                               3.0.5 |
+'--------------------------------------------------------------------------------------------------'
+
+Psycho Mantis can read your mind (ie your memory card) to see what games you like to play. If you 
+have saves from Konami games on your memory card he will say something like "ahh, you like ..." 
+Here's a list of the one's he react on, and the one's he doesn't.
+
+Azure Dreams
+Castlevania: Symphony of the Night
+International Superstar Soccer Pro '98
+Silent Hill
+
+,--------------------------------------------------------------------------------------------------.
+| The Premium Package                                           [hey, i paid $123 for this!] 3.1.0 |
+'--------------------------------------------------------------------------------------------------'
+
+Those who pre-ordered the Metal Gear Solid import could throw in an additional $50 or so and 
+recieve the Premium Package, a big silver box with a bunch of promo stuff in it.
+
+It contains:
+Metal Gear Metal Gear 2 Solid Snake Music Collection [more info below]
+Metal Gear Solid Classified              [Thick 60 page or so Artbook]
+Metal Gear Solid T-Shirt                                 [pretty ugly]
+Specially Issued Fox Hound Dogtag                             [small!]
+Card Collection                             [what the hell are these?]
+
+This box is pretty neat and a great collectors item, or a cool thing for any MGS fan to own.
+The music collection is neat if you like old 8-bit songs, which I happen to do. Those older games 
+have got some pretty damn good songs, too bad I only ever played the NES version of Metal Gear 
+(it seems like no music from the MSX version was in the NES version, and this music collection is
+from the MSX games). The artbook has to be the coolest thing about the whole package, it is huge 
+and the quality of everything in it is awesome. Print, paper, pictures, everything! It contains 
+info on the guys who made the game, the earlier Metal Gear games, characters, music and a slew of
+other stuff. Noone should even mention the T-Shirt really, cause it's butt ugly. It's white with
+some ugly silver/black print saying "MGS - Metal Gear SOLID" (not even the normal logo!). Dogtag
+is cool I guess, it's pretty small and it's numbered. But these Manual Pages are pretty weird,
+they come in a little black Sony envelope labeled "Card Collection", and my front cover had 003 
+written on it. Are these perhaps collectable? Maybe you can buy the binder and more pages 
+separately. The pages are basically more detailed manual pages, in green/white.
+
+Music Collection track list:
+
+METAL GEAR Yori                                        
+1 Operation Intrude N313 (Opening BGM)                 [00:34]
+2 Theme of Tara                                        [02:09]
+3 -!- Red Alert                                        [01:43]*
+4 Sneaking Mission                                     [01:52]
+5 Mercenary (Boss BGM)                                 [01:12]*
+6 TX-55 Metal Gear (Metal Gear ?? BGM)                 [01:11]*
+7 Escape -Beyond Big Boss- (Last Battle  ~ ???? BGM)   [01:51]
+8 Return of Fox Hounder (End Theme)                    [01:15]
+9 Just Another Dead Soldier (Game Over BGM)            [00:08]
+METAL GEAR 2 SOLID SNAKE ORIGINAL SOUNDTRACK Yori
+10 Theme of Solid Snake (Opening BGM1)                 [03:13]
+11 Zanziber Breeze (Opening BGM2)                      [03:07]
+12 Frequency 140.85                                    [02:25]
+13 Level 3 Warning                                     [01:13]
+14 Killers (Boss BGM4)                                 [01:37]
+15 The Front Line                                      [02:10]*
+16 Advance Immediately                                 [02:08]
+17 Mechanic (Boss BGM2)                                [01:11]
+18 Nighit Fall                                         [01:39]
+19 Level 1 Warning                                     [02:19]*
+20 Natarsha's Death                                    [02:21]
+21 Zanziberland National Anthem                        [00:17]
+22 Spiral                                              [01:33]*
+23 Return                                              [02:20]
+24 Farewell (End Demo 2)                               [01:52]
+25 Disposable Life (Game Over BGM)                     [00:13]
+SNATCHER JOINT DISK Yori
+26 Theme of Metal Gear                                 [00:53]*
+KONAMI ALL STARS
+27 Zanziber Breeze                                     [04:32]*
+SNATCHER >< POLICENAUTS
+28 Policenauts -????- from Policenauts                 [01:56]
+29 Danger Dance & Justice All from Snatcher            [02:05]*
+                                                       [50:59]
+* = the best songs
+
+The Premium Package also comes with the game, naturally. It is a double jewel case with coated 
+paperback-ish covers, with the Metal Gear Solid logo in silver on the front. Inside there are the
+black/white MGS discs. The manual is pretty cool and good looking, it is loaded with pics and in
+full color. Bundled in here are also metallic stickers and a GensoSuikoden II demo disc + manual.
+
+And no, the Suikoden II demo is not that much to get wet over. It sucks if you ask me.
+
+,--------------------------------------------------------------------------------------------------.
+| Rumours                                                                                    3.1.1 |
+'--------------------------------------------------------------------------------------------------'
+
+Rumours spreading around the internet, I've quoted some from e-mails I've gotten.
+
+---+>> Justin Strauss wrote:
+
+"In the fight with Mantis, there is another way to stop himfrom reading your mind. If you lose 
+ against him in the fight, and die (I'm not sure how many times, it was my friend who died, not me) 
+ you can do a special thing in the room in which you fight him. You can break those two white 
+ statues in the room, and this will cut off his mind control, just as the second-controller bit 
+ did."
+
+---+>> EVOLOGRE@...com wrote:
+
+"One question I have for you. A friend of mine who works for THQ told me that he heard from a THQ 
+ connection at Konami that Konami Japan had originally intended to package MGS cigarettes with the 
+ premium package (could that spot on the righthand side beneath the soundtrack been for them)but at 
+ the last minute decided against it. I'm not quite sure if we're talking about real smokes or not 
+ but wouldn't it be cool to smoke official Solid Snake smokes.
+
+ Initially Konami had CG scenes made (I have them on a demo I got from Buy Rite a long time ago 
+ called Spring Preview. It was yellow and had a bunch of games on it. None playable). I heard this 
+ footage was put in somewhere but it may be all a bunch of BS. CG isn't that important anyway."
+
+---+>> Unknown (sorry! lost your mail!) wrote:
+
+"While traveling back and forth an the freight elevator leading to the crows molten metal room 
+ etc... master calls and tells you that naomi hunter maybe a spy,  you later learn that the shot 
+ she gave you in the begining was called foxdie retrovirus.  the virus' effects on you somehow 
+ depend on your DNA and will to live and your time to die (something to that effect, according to 
+ my girl). everyone in the base is effected by foxdie, snake liquid, revolver, all the genom 
+ soldiers (your enemies).
+
+ Naomi hunter wants revenge on snake for killing her brother (who is grey fox,ninja who adopted 
+ her and saved her life, and who is snakes best friend). ninjas whole existance is based on 
+ wanting to fight with snake.
+
+ Meryl is cambell's neice,  you learn later that she is really his daughter.
+
+"Snake and liquid's father is big boss ( i think snake killed in in hte previous game). BUT...  big 
+ boss' DNA was extracted during the 70's as part of a super soldier creation project.  Snake and 
+ liquid were created in test tubes, along with about six others, but snake and liquid killed the 
+ other sperm (whatever) and only they survived.  But if that was not enough to satisfy the us gov. 
+ they wanted better so they took all of the good dna and put it in snake, and gave all the bad DNA 
+ to liquid.  you learn that all the genom soldiers are snake and liquid's brothers from the 
+ project.
+
+ You also learn that the real reason for having the pal key to unlock metal gear and aquire the 
+ STEALTH nuclear weapons (not just regular ones like your told in the begining) is to threaten the 
+ us gov. so they will give liquid the cure to the foxdie retrovirus.  By now I guess you notice that 
+ Master is really liquid and was leading a trail so you could unlock metal gear.
+
+ Otacon,  the stealth scientist,  is in love with wolf, the sniper."
+
+[NOTE: I'm not sure how close to the truth all of this is, except for a few things I know for sure
+       are right. But this all seems pretty right, doesn't it? Big thanks to whoever sent me this 
+       and his girlfriend! If you're reading this, e-mail me again and I'll put your name in!!]
+
+Other rumours include: Metal Gear and Metal Gear 2 playable, as a secret.
+                       Ninja playable (I doubt this though, hidden character rumours are popular)
+
+,--------------------------------------------------------------------------------------------------.
+| Metal Gear Solid merchandise                                                               3.1.2 |
+'--------------------------------------------------------------------------------------------------'
+
+MGS merchandise is cool. Anyone who claims otherwise is wrong! :)
+
+So far I've seen:
+Metal Gear Solid Premium Package (counts as merchandise)
+A Zippo lighter
+A Cap
+The music sampler CD (pre-order gift from EB)
+
+I've also heard of:
+A new T-shirt (babbages pre-order gift)
+Note Pad (babbages pre-order gift)
+
+Anyone have any pictures or info on merchandise, e-mail me. If you know any place online where I 
+can pick up a copy of the sampler CD (EB pre-order gift) without purchasing the US version, a Cap,
+a Zippo and the Babbages pre-order gifts, all without buying the US version. E-mail me right this 
+minute! ^-^
+
+[see, I can't afford to pay another $50 for just the game and some CD or notepad or whatever]
+
+,--------------------------------------------------------------------------------------------------.
+| Reader tips                                                                                3.1.3 |
+'--------------------------------------------------------------------------------------------------'
+
+This is the section where I quote people who have sent me e-mails with different tips, I quote them
+because it might be awkward to fit the info in to the FAQ any other place, or because it's better
+written than what I could've done. If your info is in here with the wrong name, or you want to be
+referred to as something else; e-mail me again and tell me! Much thanks to the guys who helped me,
+and their japanese girlfriends.
+
+---+>> Justin Strauss wrote:
+
+"Also, is a ghost picture that you can get from taking a picture of Meryl. It is actually at a time 
+ that she is on the move, not standing still, but you CAN use the camera on her, and it will freeze 
+ her in place when you do, obviously. See if you can find it. Also, "Deep Throat" is ORIGINALLY 
+ from the Richard Nixon "Water Gate" scandal in America. Deep Throat was an informant who revealed 
+ key facts to reporters, and never revealed his name. There was a joke about this character on the 
+ sitcom "Murphy Brown." The X-files used this as an imitation of the Nixon case as well, though in 
+ a serious and similar way as the real person.
+
+ If you sneeze near a guard, he will hear you and search for you, just like when you slam your hand 
+ on walls."
+
+---+>> Leon wrote:
+
+"Did you mention the item "medicine" that you can find in level B1 of the nuclear storage (it's in 
+ a room that requires level 6 passcard, in the room just south of the woman's restroom).  As for 
+ what it exactly does, I'm not sure (I know that it restores health, but dunno how much health it
+ restores).  And speaking of women's restrooms, the programmers put in a neat little detail - along 
+ each woman's toilet, they put a small receptacle for women's sanitary napkins (Japanese women use 
+ these - my Japanese girlfriend has one!).
+
+ you can also pick up the body armor earlier on in the game in the electrified corridor area (b2 of 
+ the nuclear storage area).  You just need a level 6 passcard to get it (then the body armor won't 
+ be in the molten steel area later on in the game)."
+
+---+>> Narong Jongpakdee-aksorn wrote:
+
+"I believe you might have heard about the Infrared gimmick of Sony Camcorder "0-lux Night Shot"...
+ Well, NVG. also serve the same dirty function!! When you found Meryl as a disguised guard in 
+ Women's room. Equip your NVG....and look at her...her top will be almost as thin as paper.
+ then you...will...notice...that......argh...oh..uh...f..o..x.........die.................
+
+ That...is after she took off her uniform...... 
+
+ Notice this also when play MGS for THE SECOND ROUND...(I don't know that anyone has yet told you..)
+ When Snake follow a guard into women rest room... Snake found a guard shirt and PANTS and boots....
+ and...Meryl pointed a gun to him.......She only had her UNDERPANT on....!!! I believe there might 
+ be other things (like this...!) in the game which we haven't found out yet!!!"
+
+[NOTE: Seeing through her top obviously doesn't work, since I tried it. Maybe I was doing something
+       wrong? I'm still a skeptic. The second one is true though, she doesn't have pants on there]
+
+,--------------------------------------------------------------------------------------------------.
+| Metal Gear Solid Original Game Soundtrack                                                  3.1.4 |
+'--------------------------------------------------------------------------------------------------'
+
+Konami released the MGS soundtrack in Japan on September 23rd 1998. It has 21 tracks, 19 from the 
+game and two bonus tracks. 
+
+The CD comes in two kinds; normal and the Special Box. The Special Box is just the normal version
+in a silvery cardboard case. That's the only difference I know of anyway. Inside the jewel case,
+there's the CD a four-page booklet and an ad, a survey form and one of those little tab things 
+japanese cd's always seem to have folded around their left sides. 
+
+Inside the four page booklet there are pictures of Liquid Snake, Solid Snake and Metal Gear REX,
+the picture of REX has the following four words written on it; Adenine, Thymine, Guanine and 
+Cytosine. If anyone knows what that's supposed to mean, please tell me.
+
+The front cover of the soundtrack is a picture of Liquid and Solid Snake in silvery colors, the
+CD itself is silver with white text on it.
+
+Serial No. KICA7895
+2,243 Yen (Tax included)
+
+01 Metal Gear Solid Main Theme
+02 Introduction
+03 Discovery
+04 Cavern
+05 Intruder 1
+06 Encounter
+07 Intruder 2
+08 Warhead Storage
+09 Intruder 3
+10 Mantis' Hymn
+11 Hind D
+12 Duel
+13 Enclosure
+14 Blast Furnace
+15 Colosseo
+16 Rex's Lair
+17 Escape 
+18 End Title / The Best is Yet to Come
+19 VR Training
+20 Metal Gear Solid Main Theme (1997 E3 Edit)
+21 Metal Gear Solid Control Mix [mixed by Quadra]
+
+<<+--- The Best is Yet to Come [english lyrics] 
+
+transcribed EXACTLY like they're written in the booklet, including the bad grammar and 
+spelling mistakes!:
+
+Do you remember the time
+when little thing made you happy
+
+Do you remember the time
+when simple thing made you smile
+
+Life can be wonderful
+if you let it be
+
+Life can be simple
+if you try
+
+Whatever happend to those day?
+Whatever happend to those night?
+
+Do you remember the time
+when little thing made you sad
+
+Do you remember the time
+when simple thing made you cry
+
+Is it just me
+or 
+is it just us
+
+Felling lost in this world?
+
+Why do we have to hurt each other
+Why do we have to shed tears?
+
+Life can be beautiful
+if you try
+
+Life can be joyful
+if we try
+
+Tell me
+I'm not alone
+
+Tell me 
+we are not alone in this world
+fighting against the wind
+
+Do you remember the time
+when simple thing made you happy
+
+,--------------------------------------------------------------------------------------------------.
+| All that other crap that noone ever reads anyway                                                 |
+'--------------------------------------------------------------------------------------------------'
+
+Metal Gear, Metal Gear Solid, Snake Solid, Snake's Revenge and any other names written in this 
+document are (c) Konami or their respective owners. All other above text is (c) Johan Henriksson 
+1998, no reprinting or selling allowed under any circumstances. This was written for free,
+distributed for free, and you should have gotten this for free. If you didn't, you're a sucker ^-^
+
+useless info: I ate massive amounts of Ramen and watched alot of Anime the last few weeks.
+              My first time through this game i got a total time of 7:40 and the rating "Grizzly"
+              Second time i made it in 3:31 and advanced to "Leopard", I lost track after that.
+              I really suck at VR training, and at beating certain bosses (GRR*HIND*GRR)
+
+Leo of metalgear.net deserves a "Hi!" and a "Thanks!" for being like the only other MGS pimp around
+I can communicate with. :)
+
+many thanks to my real life friends (you know who you are, if you'd ever read this! :), and 
+equally as many thanks to my "IRC friends" which I have made and abandoned over the years.
+hiya gloone, scumdog, shonen, post & the satimg crew, darklore, the #av crew, my really old homies
+who I never see anymore from #ansi and #sweart. I would also love to thank Konami and The Rage,
+one for making the game and one for delivering it in 4 (!) days! A big thanks should go out to 
+the japanese culture, for bringing me anime which always seems to get me in a very good mood.
+
+FFLG power!@
+
+The biggest Fuck You ever to mr Jonathan Leissler (or whatever his name is) for stealing my FAQ,
+calling it his and posting it all over the web, basically. I hate you and I really wish you the 
+worst. If you ever see this, and if you ever dear creep out from under the rock where you live and
+say that you were wrong for stealing this, post an apology. Clear both our names and your consience.
+But what am I saying, how can a heartless motherfucker like you care about what happens to me?
+As long as you get your 15 minutes of shame, right? 
+
+Other games I've played as much as MGS (or beaten with a perfect score, whichever comes first):
+Castlevania Symphony of the Night (Dracula X Gekka no Nocturne)
+Choro Q Marine Q Boat
+Final Fantasy VII
+MegaMan Legends   
+Spyro the Dragon  
+Numerous NES classics, back in the day
+
+
+
+                  _ ___ _  _                                             _  __  ___ _ _
+                 / /                                                                 \ \
+                ( ( 06 21 14 14 25   06 21 14 14 25   12 09 20 20 12 05   07 09 18 12 ) ) 
+                 \_\____ _ _    _                                           _  _ ____/_/ 
+
+
+
+
+

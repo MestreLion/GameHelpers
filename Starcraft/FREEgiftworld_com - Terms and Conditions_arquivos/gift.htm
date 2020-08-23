@@ -1,0 +1,301 @@
+var gifts = new Object();
+
+function write_giftHTML() {
+	var gift_html;
+	
+	switch (gifts[adtgid].type) {
+		case "book" : gift_html = get_bookHTML();	break;
+		case "music": gift_html = get_musicHTML();	break;
+		case "toy"  : gift_html = get_toyHTML();	break;
+		case "video": gift_html = get_videoHTML();	break;
+		case "other": gift_html = get_otherHTML();	break;
+	}
+	var html = "<table cellpadding=0 cellspacing=0 border=0>"
+	         + "	<tr>"
+	         + "		<td valign='top' style='padding: 20px;'>"
+	         + 				gift_html
+	         + "		<\/td>"
+	         + "		<td valign='top'style='padding: 20px 0;'>"
+	         + "			<img src="+gifts[adtgid].img_url+" alt='"+gifts[adtgid].name+"' border=0 width='"+gifts[adtgid].img_w+"' height='"+gifts[adtgid].img_h+"'/>"
+	         + "			<p style='font-weight: bold; margin: 5px 0; text-align: center;'>Level " + gifts[adtgid].tier + " Gift</p>"
+	         + "		<\/td>"
+	         + "	<\/tr>"
+	         + "<\/table>";
+	document.write(html);
+}
+
+function get_bookHTML() {
+	var html = "<h1>"+gifts[adtgid].name+"<\/h1><br />"
+	         + "<span style='font-weight: bold;'>Author: "+gifts[adtgid].author+"<\/span><br />"
+	         + "Edition: "+gifts[adtgid].format+"<br />"
+	         + "<h2 style='margin: 10px 0 0 0;'>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span>" : "")+"&nbsp;&nbsp;Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>";
+	return html;
+}
+
+function get_musicHTML() {
+	var html = "<h1>"+gifts[adtgid].name+"<\/h1><br />"
+	         + "<span style='font-weight: bold;'>Artist: "+gifts[adtgid].author+"<\/span><br />"
+	         + "<p>"+( (gifts[adtgid].desc) ? gifts[adtgid].desc : "" )+"<\/p>"
+	         + "<h2 style='margin: 10px 0 0 0;'>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span>" : "")+"&nbsp;&nbsp;Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>";
+	return html;
+}
+
+function get_toyHTML() {
+	var html = "<h1>"+gifts[adtgid].name+"<\/h1><br />"
+	         +  ( (gifts[adtgid].desc) ? gifts[adtgid].desc : "" )+"<br />"
+	         + "<h2 style='margin: 10px 0 10px 0;'>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span>" : "")+"&nbsp;&nbsp;Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>"
+	         + "<a href='javascript:giftDetailsPop();'>> detailed product info</a>";
+	return html;
+}
+
+function get_videoHTML() {
+	var html = "<h1>"+gifts[adtgid].name+"<\/h1><br />"
+             + "<span style='font-weight: bold;'>Format: "+gifts[adtgid].format+"<\/span><br />"
+	         + "<p>"+( (gifts[adtgid].desc) ? gifts[adtgid].desc : "" )+"<\/p>"
+	         + "<h2 style='margin: 10px 0 10px 0;'>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span>" : "")+"&nbsp;&nbsp;Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>";
+	return html;
+}
+
+function get_otherHTML() {
+	var html = "<h1>"+gifts[adtgid].name+"<\/h1><br />"
+	         + "<ul>"
+	         + 		((gifts[adtgid].feat_0) ? "<li>"+gifts[adtgid].feat_0+"<\/li>": "")
+	         + 		((gifts[adtgid].feat_1) ? "<li>"+gifts[adtgid].feat_1+"<\/li>": "")
+	         + 		((gifts[adtgid].feat_2) ? "<li>"+gifts[adtgid].feat_2+"<\/li>": "")
+	         + "<\/ul>"
+	         + "<h2 style='margin: 10px 0 10px 0;'>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span>" : "")+"&nbsp;&nbsp;Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>"
+	         + "<a href='javascript:giftDetailsPop();'>> detailed product info</a>";
+	return html;
+}
+
+function write_giftDescription() {
+	var html = gifts[adtgid].desc;
+	if (html) document.write(html);
+}
+
+function write_giftFeatures() {
+	var html = "<ul>";
+	for (i = 0; i < 6; i++) {
+		if (gifts[adtgid]["feat_" + i]) html+= "<li>"+gifts[adtgid]["feat_" + i]+"<\/li>";
+	}
+	html += "<\/ul>";
+	document.write(html);
+}
+
+function write_giftValue() {
+	var html = "<h2>"+((gifts[adtgid].value) ? "List Price: <span class=strike>"+gifts[adtgid].value+"<\/span><br />" : "") + "Now:&nbsp;<span class=error style=font-weight:bold;>FREE<\/span><\/h2>"
+	         + "<p style='font-weight: bold; margin: 5px 0 5px 0;'>Level " + gifts[adtgid].tier + " Gift</p>";
+	document.write(html);
+}
+
+function write_giftTier() {
+	document.write("Level " + gifts[adtgid].tier + " Gift");
+}
+
+function giftDetailsPop() {
+	window.open("pop_details.html?ADTGID="+adtgid,"","width=600,height=500,scrollbars=yes");
+}
+
+function getQSObj() {
+	var args = new Object();
+	var query = location.search.substring(1);
+	var pairs = query.split('&');
+	for (var i=0; i < pairs.length; i++) {
+		var pos = pairs[i].indexOf('=');
+		if (pos == -1) continue;
+		var argname = pairs[i].substring(0,pos);
+		var value = pairs[i].substring(pos+1);
+		args[argname] = unescape(value);
+	}
+	return args;
+}
+function QSObjToStr(qs) {
+	var s = '';
+	for (key in qs) {
+		s += (key + '=' + qs[key] + '&');	
+	}
+	s = s.slice(0, (s.length - 1));
+	return s;
+}
+
+var toExitPop = true;
+function is_testFormCheck() { //ensures suppression of the IS_TEST key from query strings via form submits unless IS_TEST=1
+	var testValue = String(getQueryValue("IS_TEST"));
+	if (testValue == "1") {
+		for (var z=0; z<document.forms.length; z++) {
+			for (var y=0; y<document.forms[z].length; y++) {
+				if (document.forms[z].elements[y].name == "IS_TEST") document.forms[z].IS_TEST.disabled = false;
+			}
+		}
+	}
+}
+function genericFormCheck(formName) {
+	var thisForm = eval("document."+formName);
+	var submitIt = true;
+	for (var i=0; i<thisForm.elements.length; i++) { //ensures all elements with names have values
+		if (thisForm.elements[i].value.length < 1 && thisForm.elements[i].name != "ADTGID" && thisForm.elements[i].name != "SID") {
+			alert("Please enter information into all required fields.");
+			thisForm.elements[i].focus();
+			submitIt = false;
+		}
+	}
+	for (var j=0; j<thisForm.elements.length; j++) { //ensures all opt_in checkboxes are checked to continue
+		if (thisForm.elements[j].name == "opt_in") {
+			if (thisForm.opt_in.checked == false) {
+				alert("You must agree to the terms and conditions and privacy policy to continue.");
+				thisForm.elements[j].focus();
+				submitIt = false;
+			}
+		}
+	}
+	for (var k=0; k<thisForm.elements.length; k++) { //scrubs out invalid top-level domains from entered email addresses
+		if (thisForm.elements[k].name == "email" && thisForm.elements[k].type == "text") {
+			var emailAddress = String(thisForm.elements[k].value);
+			if (emailAddress.lastIndexOf(".") > -1) emailAddress = emailAddress.substr((emailAddress.lastIndexOf(".") + 1),emailAddress.length);
+			var validDomains = /^(com|net|org|us|biz|info|tv|cc|ws|edu)$/i;
+			var domainMatch = false;
+			if (emailAddress.match(validDomains)) domainMatch = true;
+			if (domainMatch == false) {
+				alert("Only email addresses from the following top-level domains are accepted at FREEgiftworld.com; .com, .net, .org, .us, .biz, .info, .tv, .cc, .edu, and .ws.\r\nPlease enter a different email address.");
+				thisForm.elements[k].focus();
+				submitIt = false;
+			}
+		}
+	}
+	if (submitIt == true) {
+		toExitPop = false;
+		thisForm.submit();
+	}
+}
+function welcome() {
+	var email = new String(getQueryValue("email"));
+	if (isLoggedIn() == false) {
+		document.write("<h4><a href='javascript:hrefQS(\"login.html\");'>Sign In<\/a>");
+		if (document.location.pathname.indexOf("help.html") > -1) document.write("&nbsp;&nbsp;|&nbsp;&nbsp;<a href='retrieve.html"+window.location.search+"'>Forgot Your Password?<\/a>");
+		document.write("<\/h4>");
+	} else if (email != "" && email != "undefined") {
+		document.write("<h4>Welcome "+email+"<\/h4>");
+	}
+}
+function securedPage() {
+	if (isLoggedIn() == false) window.location = "login.html"+window.location.search;
+}
+function hrefQS(page,target) {
+	toExitPop = false;
+	target = String(target);
+	var delim = new String("?");
+	var qs = window.location.search.substring(1);
+	if (page.indexOf("?") > -1) delim = "&";
+	if (target == "" || target == "undefined") {
+		window.location = page+delim+qs;
+	} else {
+		window.open(page+delim+qs, target);
+	}
+}
+function regPop() {
+	var refer = new String(document.referrer);
+	if (refer.indexOf("index.html") > -1 || refer.indexOf("landing.html") > -1) window.open("http://be.freegiftworld.com/trk.jsp?CID=20113","","width=800,height=600,scrollbars=yes");
+}
+function errmsgDisplay() {
+	var err = new String(getQueryValue("errmsg"));
+	if (err != "" && err != "undefined") document.write("<h2 class='error'>"+err+"<\/h2>");
+}
+function showShippingGift(adtgid) {
+	document.write("<div style='margin:15px;'><h1>"+gifts[adtgid].name+"<\/h1><br/><img src="+gifts[adtgid].img_url+" alt='"+gifts[adtgid].name+"' border=0 width='"+gifts[adtgid].img_w+"' height='"+gifts[adtgid].img_h+"'/><\/div>");
+}
+function showLandingGiftName(adtgid) {
+	document.write(gifts[adtgid].name);
+}
+
+function getGiftDataSrc(gid) {
+	var dataSrc = '<script src="global/gift_data/' + gid + '.js" language="JavaScript"><' + '/script>';
+	return dataSrc;
+}
+
+function loadGiftData() {
+	for (var n = 0; n < arguments.length; n++) {
+		var src = getGiftDataSrc(arguments[n]);
+		document.write(src);
+	}
+}
+
+function getADTGID() {
+	var adtgid = parseInt(getQueryValue("ADTGID")); // get ADTGID value, convert to a number
+	if (!adtgid || isNaN(adtgid) ) adtgid = 2;		// if ADTGID is invalid, set to default value 2
+	return adtgid;
+}
+
+function getEmailAddress() {
+	var email = getQueryValue("email");
+	(!email) ? email = "" : null;
+	return email;
+}
+
+function giftDisplayImage() {
+	document.write("<img src='"+gifts[adtgid].img_url+"' width='"+gifts[adtgid].img_w+"' height='"+gifts[adtgid].img_h+"' border=0 style='margin-right:10px;'/>");
+}
+	
+function fgwExitPop(url,width,height) {
+	height = String(height);
+	width = String(width);
+	if (height == "" || height == "undefined") height == "480";
+	if (width == "" || width == "undefined") width == "600";
+	if (String(getQueryValue("nopop")) != "1") eval("window.open(url, 'fgwexitpop', 'width="+width+",height="+height+"')");
+}
+function adtValuesCheck() {
+	var adtgid = String(getQueryValue("ADTGID")).toLowerCase();
+	if (adtgid == "" || adtgid == "undefined") window.location = "choose_gift.html"+window.location.search;
+}
+
+function getFGWLoginCookieValue() {
+	var cookies = document.cookie;
+	var pos = cookies.indexOf("FGW_");
+	
+	if ( pos != -1 ) {
+		var start = pos + 4;
+		var end = cookies.indexOf("_U", start);
+		var value = cookies.substring( start, end );
+		value = unescape(value);
+		
+		return value;
+	}
+}
+
+function getFGWCookieValue() {
+	var cookies = document.cookie;
+	var pos = cookies.indexOf("FGW=");
+
+	if ( pos != -1 ) {
+		var start = pos + 4;
+		var end = cookies.indexOf(";", start);
+		if (end = -1) { end = cookies.length; }
+		var value = cookies.substring(start, end);
+		value = unescape(value);
+		
+		return value;
+	}
+}
+
+function isLoggedIn() {
+	if ( getFGWLoginCookieValue() ) {
+		if ( getFGWLoginCookieValue() == 3589 ) {
+			return true;
+		} else { 
+			return false;
+		}
+	} else {
+		return false;
+	}
+}
+
+function setCookieRequest() {
+	var cr = new Image();
+	cr.src = "http://tx.adprofile.net/tx/sc?sc=" + getFGWCookieValue();
+}
+
+function getExpirationDate() {
+	var d = new Date();
+	d.setDate( d.getDate() + 1 ); // set date to tomorrow's date
+	var d_string = (d.getMonth() + 1) + "/" + d.getDate() + "/" + d.getFullYear(); // have to build this string manually as toLocaleDateString() is implementation specific, damnit.
+	document.write( d_string );
+}

@@ -1,0 +1,73 @@
+Supermarket
+- NO HATCHET
+- 2 Comps, 1 Wood
+- Crowbar, Bandage
+
+Petrol Station (Fading Embers DLC)
+- NO HATCHET
+- Interesting stuff
+
+Orphanage (Fading Embers DLC)
+- NO HATCHET
+- 0 Comps
+- ~12 Wood, ~10 Fuel
+
+Car Workshop (Fading Embers DLC)
+- NO HATCHET
+- 2 Comps
+
+Railway Station (Fading Embers DLC)
+- NOTHING
+
+Construction Site
+- NO HATCHET
+
+==================
+INITIAL STATE
+==================
+
+Airport
+- 1 x Lock (Outpost)
+- 3 x Shovel
+
+Ruined Block of Flats
+- 2 x Saw
+- 3 x Hatchet
+
+Decreipt Squat
+- 1 x Saw
+- 1 x Lock
+- 1 x Food
+- 4 x Hatchet
+- NO FOOD
+
+Supermarket
+- Hatchet for Thug
+- ? x Hatchet
+- 2 x Lock
+- 1 x Shovel
+
+Church Faithful
+- 1 x Saw
+- 5 x Shovel
+- 12 x Hatchet
+
+Semi-Detached House
+- 2 x Saw
+- ...
+
+Hotel Lunatic
+- 6 x Lock
+- 4 x Shovel
+
+Petrol Station (Fading Embers DLC)
+- NO HATCHET (found one there)
+- 1 x Lock
+
+Car Workshop (Fading Embers DLC)
+- 1 x Hatchet (Wardrobe)
+- No Tools
+
+Railway
+- 1 x Saw
+- Last pickup is bugged!

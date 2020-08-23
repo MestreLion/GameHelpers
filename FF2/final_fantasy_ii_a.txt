@@ -1,0 +1,1168 @@
+FF2j Walkthrough Version 2.2
+
+Table of Contents
+I Introduction/Copying Instructions
+II Updates
+III Tips (MOST IMPORTANT PART)
+Chapter 1 Altea and Gatea
+Chapter 2 Phin
+Chapter 3 Palm, Poft, Salmando, and Bofsk
+Chapter 4 The Semite Cave
+Chapter 5 Bofsk Sewers
+Chapter 6 The Snow Cave
+Chapter 7 Kashuon
+Chapter 8 The Warship
+Chapter 9 Dist Castle
+Chapter 10 Dist Cave
+Chapter 11 Arena
+Chapter 12 Phin Castle
+Chapter 13 Phin Town
+Chapter 14 Phin Basement
+Chapter 15 Mysidia
+Chapter 16 B.Mask Cave
+Chapter 17 Mysidia Cave
+Chapter 18 Leviathon
+Chapter 19 Mysidia Tower
+Chapter 20 Whirlwind
+Chapter 21 Paramekia Castle
+Chapter 22 Jade Portal
+Chapter 23 Pandemonium Castle
+
+I
+INTRODUCTION
+This walkthrough has my recommendations on weapons and armor throughout the
+game. Frioniel should train in the use of Swords, Maria should train in the use
+of Canes, Guy should train in the use of Axes, and Lionheart should train in
+the use of Swords. I also tried to balance the armor strength between the three
+main characters, and give the fourth character whatever was left. Also, I took
+into account the agility, strength, and elemental bonuses given by different
+types of armor. If you decide to train your characters in other types of
+weapons or in more than just those, or to do something different with armor, a
+lot of the information in this walkthrough will not apply. This walkthrough may
+have old references to information which can be found at a website which no
+longer exists. Don't go looking for it. I heard there's a newer version of the
+translation out than this walkthrough uses, so some of the proper names may be
+outdated too. This walkthrough uses the Neo Demoforce translation version 1.03.
+Do whatever the hell you want with this thing. I don't care. Chop it up, make
+it a txt file, sell it, claim you wrote it. Whatever you do, just don't bug me
+about it.
+
+II
+UPDATES
+The differences between this version (2.2) and the previous version (2.1) of
+this walkthrough are:
+I deleted all references to the website of which this walkthrough used to be a
+part, which no longer exists, and added in a few things which should be added
+given that the rest of the website can no longer be accessed.
+
+III
+TIPS
+To raise Hit Points and Vitality, get into a fight and get beaten up then win
+the fight.  To raise Magic Points and Magic Power, get into a fight and use up
+all your Magic Points then win the fight.  One way to easily raise both is to
+get into a fight with an enemy with low HP and MP and cast Change on it then
+win the fight.  That spell usually only works when it's on a high level,
+though.
+Using physical attacks many times in a fight raises Power and lowers
+Intelligence and Soul.  Using a physical attack 100 times raises your Weapon
+Skill in the weapon with which you attacked (up to level 16).  Raising your
+Weapon Skill lets you attack better with a weapon or defend better with a
+shield (which work like weapons).  Note that you don't actually have to carry
+out the attack.  You just have to enter the command.  Once it's entered, you
+can cancel the command, then enter it again (and again, and again) to level up
+quickly.
+Casting Black Magic many times in a fight raises Intelligence.  Casting White
+Magic many times in a fight raises Soul and lowers Power.  Using a spell 100
+times raises your Magic Skill with that spell (up to level 16).  Raising your
+Magic Skill makes spells more likely to work or more effective.  Note that you
+don't actually have to carry out the spell.  You just have to enter the
+command.  Once it's entered, you can cancel the command, then enter it again
+(and again, and again) to level up quickly.
+Whenever you enter a screen in which it is possible to encounter enemies, the
+number of steps which you can walk before encountering an enemy is set (steps
+in acid, poison, lava, ice, waterfalls, etc. do not count). However, there is a
+way to reset the counter and go another several steps before you encounter an
+enemy. Save your game and walk until you encounter an enemy. Load your game and
+walk to the point right before the one on which you encountered the enemy. Then
+cast Cure or use a Potion, XPotion or Ether on one of the characters in your
+group. The spell or item must have an effect for this to work. For example,
+casting Cure on someone with full HP will not do anything. Then the number of
+steps taken until you encounter an enemy will be reset and you can walk past
+the step on which you would have encountered an enemy.
+The Change Trick:  Almost all the enemies (and bosses) in the game can be
+beaten very easily using the Change trick. Buy the spell Change from Mysidia
+and raise its level a lot (it will not work at low levels, I would recommend
+you raise it all the way to level 16). Beat up your character who has the spell
+so that he has very low HP, then encounter the enemy. Have that character cast
+Change on the enemy and the enemy will now have the extremely low HP level that
+character just had, and will probably die in a round or two. Sometimes this
+does not work in one try even if it is on level 16, and there are some enemies
+on which this will never work.
+If you walk directly South from Kashuon you will get to a Chocobo forest right
+before you get to the mountain range. Catch it, leave the forest, and get on it
+and you can ride all around the world without getting into fights with enemies.
+Chocobos can not go over rivers, mountains, or oceans.
+I wrote this walkthrough using the order of places which the game requires that
+you take in order to advance the plot. That is, I wrote about Mysidia after I
+wrote about Phin because the game does not require you to go to Mysidia to
+advance the plot until after it requires you to go to Phin. However, that does
+not mean that you can not go to Mysidia first. Most of the time, the game makes
+it impossible to go to places beyond those which are necessary to the plot at
+that time. For example, they might make it impossible to get to a certain city
+until a certain point in the game by placing that city in the middle of the
+ocean and not giving you a boat until they want you to go there. However, their
+method of doing that was not always foolproof. Most notably, it is possible to
+go to Mysidia as soon as you get the Canoe very near the beginning of the game.
+Walk Southwest from Phin Castle then go South, paddle over the river, and walk
+to Mysidia. The enemies around there are very tough, and so most people would
+not go there until much later in the game; however, it is possible. It also
+helps to use the skip-an-encounter trick. Mysidia has some of the best weapons,
+armor, and spells available in the game, and if you want to spend the time
+raising the money, it is possible to go there and buy them very early in the
+game. While you are there, you could also go to the Mysidia Cave and get the
+two treasure chests on the first floor
+
+Chapter 1: Altea and Gatea
+
+At the beginning of the game you have to name the four character with which you
+start the game. There is no default key, but there is a general consensus on
+what the names of the characters are, which is followed in this walkthrough.
+The first character you get to name should be called Frioniel, the second is
+Lionheart, the third is Maria, and the fourth is Guy (this will not be the same
+order in which they appear during battle). You are only allowed six letters in
+each name though, so you will have to abbreviate for Frioniel and Lionheart. In
+any case, once you name your characters you will start out the game running
+from your hometown of Phin which has been taken over by the evil empire of
+Paramekia. You are tracked down by four DkKnights, and the game begins with a
+fight against them. They will kick your ass.
+Frioniel will wake up in a room surrounded by two people named Hilda and Minh.
+They reveal that they have rescued Frioniel and restored his health, then they
+leave and you can explore for yourself. After you leave the room you will
+encounter Maria and Guy, but Lionheart is missing. Together the three of you
+explore the town in which you have awoken, which is named Altea. You will
+discover that the survivors of the attack on Phin Castle have moved here to
+Altea, where they have set up their rebel headquarters. The King of Phin was
+wounded in the attack, so his daughter Hilda is leading the rebellion. Other
+noteworthy characters in Altea include Tobul, the blacksmith; Paul, the thief;
+and Gordon, the Prince of Kashuon, which was also taken over by the empire.
+Speak to Hilda and learn the password Wild Rose from her.
+After you learn Wild Rose it is time for you to travel to Phin in search of
+Lionheart. Phin is north of Altea, and you will have to go West across a bridge
+and around a lake to get there, but before you do you might want to make a
+quick stop at Gatea, which is a town between Altea and Phin. There are no NPCs
+at Gatea, and it is not really a city which is important to the plot, but they
+have some weapons and armor available there which are better than the equipment
+at Altea.
+Now is a good time to buy equipment. Buy Maria and Guy a Buckler Shield and buy
+Maria a Cane (have her sell the Bow which she had equipped) before you worry
+about anything else. That way you can gain skill levels in your chosen weapons
+and shields during the time you would have to spend gaining money for the rest
+of the equipment anyway. When you can afford it buy Maria Leather Armor in
+Gatea and have her sell her Clothes Armor. Then buy all three of your
+characters Leather Helmets and Leather Gauntlets. Also make sure to buy
+everyone in your group Cure, Fire, Ice, and Bolt, which are available in Altea.
+If you do not want to spend any time raising money for equipment, just be sure
+to buy Maria a Cane and buy Maria and Guy Buckler Shields, and have one person
+in your party get Ice and one person get Cure. Those are the things which
+should be done first, you can proceed with the game and get money for the rest
+of them as you go if you want.
+Optimal equipment at this point in the game:
+Frioniel: Broad Sword, Leather Helmet, Leather Gauntlet, Buckler Shield,
+Leather Armor
+Maria: Cane, Leather Helmet, Leather Gauntlet, Buckler Shield, Leather Armor
+Guy: Axe, Leather Helmet, Leather Gauntlet, Buckler Shield, Leather Armor
+
+Chapter 2: Phin
+
+After you have equipped yourself as well as your money or patience will allow,
+head North from Gatea to Phin. You can not enter Phin Castle, so go into the
+town. There are Captains in the empire all over the place since Phin Town is
+currently occupied. Do not talk to any of them, or they will slaughter you.
+Even if you come back at a later point in the game when you are strong enough
+to kill them, after you defeat them there will be another one standing in its
+place, so you will not be able to get anywhere. Instead sneak through the town
+and get to the outside of the wall on the Northern side of town. Follow the
+outside of the wall around to the East then South and you will reach the pub on
+the outskirts of town. Give the password Wild Rose to the barkeep and he will
+reveal a secret passage to a room with three potions where a NPC named Scott,
+who is the brother of Gordon, is lying wounded from the empire’s attack on
+Kashuon. Say the password Wild Rose to Scott and he will give you a Ring and
+tell you that the reason the empire was able to overrun Kashuon so easily was
+because its general, Borgan, was a spy for the empire. Then he dies, leaving
+you little choice other than to go back to Altea, since the enemies to the
+North of Phin or to the South of Altea are extremely hard at this point in the
+game.Show Scott’s Ring to Hilda and learn the next password, Mithril, then say
+Mithril to Hilda, than talk to Minh. Hilda will tell you that the rebel
+movement needs better equipment to beat the empire. She sends you on a mission
+to the Semite Cave to recover Mithril, a metal from which great equipment can
+be made. Minh will join your group temporarily, bringing his Canoe along, which
+will help you get to the Semite Cave. Minh is a White Wizard, so although he is
+not incredible at attacking, he has many defensive spells, all of which are on
+fairly high levels. Minh’s Copper Armor is better than the armor your
+characters have now, so switch it with Frioniel’s Leather Armor. Minh is not
+worthy of you wasting your money on him, so do not bother equipping him any
+better than he already is. Once Minh is in your party, talk to Hilda again to
+learn the password Warship, then say Warship to her to learn the password
+Airship.Optimal equipment at this point in the game:
+Frioniel: Broad Sword, Leather Helmet, Leather Gauntlet, Buckler Shield, Copper
+Armor
+Maria: Cane, Leather Helmet, Leather Gauntlet, Buckler Shield, Leather Armor
+Guy: Axe, Leather Helmet, Leather Gauntlet, Buckler Shield, Leather Armor
+Minh: Cane, Leather Armor
+
+Chapter 3: Palm, Poft, Salmando, and Bofsk
+
+Once you get the canoe you will be able to paddle East over the pond which is
+North of Altea to get to Palm. There are new weapons, armor, and spells at
+Palm, but do not buy anything yet. The only thing of real significance in Palm
+is a pirate who will let you ride his boat Northeast across the ocean to Poft
+for 32 gil. Take him up on his offer and get in his boat outside and you will
+ride to Poft, which is almost the exact double of Palm. Palm and Poft both
+offer the same weapons, armor, and magic. The only NPC in Poft is Cid, the
+owner of the Airship. If you pay his assistant he will let you ride the airship
+to Bofsk, Salmando, the Semite Cave, or Kashuon. Where you want to go right now
+depends on what you want to do. Bofsk and Salmando are both towns with weapon,
+armor, and magic shops, so if you want to buy better equipment, you now have
+several different choices. In Salmando there is a NPC named Josef, but for now
+he will not tell you anything since he thinks you are spies for the empire. The
+people of Bofsk are enslaved to work on the empire’s Warship by the Dark
+Knight, who works for the empire and is the overseer of their efforts. There is
+a rebel spy in the town, but he can not do anything for now. The Semite Cave is
+the cave to which Hilda has sent you to recover the Mithril. Kashuon is
+Gordon’s kingdom, which has been overrun by the empire. You do not have reason
+to go there until later in the game.I recommend buying the spells Safe and
+Shell from Poft, Heal from Bofsk, and Life from Salmando for Frioniel, Maria,
+and Guy (you will also want one character to know Exit, but you will find that
+in the cave to which you are headed after you stock up). Those are really the
+only worthwhile spells you do not already have. If you want to get better
+equipment, in order to get the best equipment you should buy Frioniel, Maria,
+and Guy Bronze Helmets, Bronze Gauntlets, and Bronze Shields from Poft, and
+Silver Armor from Bofsk. Buy Frioniel a Long Sword from Salmando, buy Maria a
+Mace Cane from Poft, and buy Guy a Battle Axe from Salmando. Give Frioniel’s
+old Leather Helmet, Leather Gauntlet, Buckler Shield, and Copper Armor to Minh,
+and give Guy’s old Axe to Minh. Sell everything else. However, after you get
+the Mithril from the Semite Cave you will have a whole new set of armor and
+weapons to buy which is fairly expensive, so you may not want to buy weapons or
+armor now.Optimal equipment at this point in the game:
+Frioniel: Long Sword, Bronze Helmet, Bronze Gauntlet, Bronze Shield, Silver
+Armor
+Maria: Mace Cane, Bronze Helmet, Bronze Gauntlet, Bronze Shield, Silver Armor
+Guy: Battle Axe, Bronze Helmet, Bronze Gauntlet, Bronze Shield, Silver Armor
+Minh: Axe, Leather Helmet, Leather Gauntlet, Buckler Shield, Copper Armor
+
+Chapter 4: The Semite Cave
+
+You can pay Cid’s assistant 300 gil to fly you to the Semite Cave, or you could
+walk/paddle your way there. It is mainly West and just a little North of Poft,
+or Southwest of Salmando. It is a cave in the side of a mountain which is only
+accessible if you take your canoe across a lake. The men of Salmando are being
+forced to mine for Mithril in this cave, and halfway through you will rescue
+them; Nellie, Josef’s daughter; and Paul, the Thief from Altea. The only really
+worthwhile treasure in the Semite Cave is the Exit spell, which is in the
+treasure chest on the North part of the seventh, and final, floor of the cave.
+It is guarded by a LandTrtl, but LandTrtls are weak against Ice, and it will
+die if you cast Ice on it twice. If you are really having trouble with it, you
+could use the Change trick if you have already been to Mysidia. Also on that
+floor is the Mithril, which is guarded by a Sargeant. He is a fairly tough
+enemy at this point in the game, but just keep attacking and cast Cure on your
+guys when they need it and he should not be too much of a problem. You could
+also use the Change trick on him if you have already been to Mysidia. Then cast
+Exit to get out of the cave and head back to Altea via the ferry from Poft.
+Once you get to Altea give the Mithril to Tobul and he will make the Mithril
+Weapons and Armor. Buy Frioniel, Maria, and Guy a Mithril Helmet, Mithril
+Gauntlet, Mithril Shield, and Mithril Armor. Buy Frioniel a Mithril Sword and
+buy Maria a Mithril Cane. You should buy Guy a Mithril Axe, which is available
+in Palm or Poft. Give Guy’s old Battle Axe, Bronze Shield, Bronze Helmet,
+Bronze Gauntlet, and Silver Armor to Minh and sell everything else. Your
+characters decide that they must go to Bofsk and try and stop the empire from
+completing its Warship, so now they head off to Bofsk.Optimal equipment at this
+point in the game:
+Frioniel: Mithril Sword, Mithril Helmet, Mithril Gauntlet, Mithril Shield,
+Mithril Armor
+Maria: Mithril Cane, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Guy: Mithril Axe, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Minh: Battle Axe, Bronze Helmet, Bronze Gauntlet, Bronze Shield, Silver Armor
+
+Chapter 5: Bofsk Sewers
+
+Go back to Bofsk and now the Dark Knight will no longer be overseeing the
+construction of the Warship. It has been said that he was called back to
+Paramekia. In his place the empire has put the traitor Borgan. If you give the
+password Warship to the rebel spy in the Southwest corner of the town he will
+sneak you into the sewers, since Borgan does not keep control as well as the
+Dark Knight did. Follow the path he reveals and go down into the Bofsk sewers.
+This is a really easy dungeon, it has only two levels since it only runs
+between the town and the Warship which is right next to the town. There are not
+any really important treasures on the first floor. There are several false
+walls in this dungeon which can be taken as shortcuts. Go all the way through
+the dungeon until you meet the Dark Knight. He happily informs you that the
+Warship is already complete, and assures you he never would have left before
+the Warship was completed. So he and Gordan get into the Warship and take off
+before you are able to stop them. The Warship attacks several of the previously
+unattacked towns, including Altea, killing many people, but fortunately no
+important ones. Follow the path which the Dark Knight was blocking and you will
+find a room with the Pass in it, you will need this later.
+After you get the Pass, step on the warp just East of it to go outside. Go to
+Poft and say Airship to Cid and you will learn the password SunFlame. Return to
+Altea and report to Hilda. The halls of the rebellion are filled with the
+wounded. Talk to Hilda, and with all these new wounded, plus a sick king to
+take care of, Minh decides to stay here and do what he can for them. Minh does
+however very graciously give you the canoe. Make sure you unequip everything
+from Minh before he leaves, since if he has something equipped on him when he
+leaves, you will lose it. Keep all of his equipment even after he is gone for
+your next fourth character. Now you learn that Gordon fled in the attack, which
+is unfortunate, because the only way to destroy the Warship is to throw some of
+the Sun Flame into its engines. The Sun Flame is located on the first floor of
+Kashuon, but it can only be moved using the EgilTrch, which is locked on the
+highest floor of Kashuon. To unlock the door you need the Goddess Bell, which
+is hidden in the Snow Cave. You also learn that Josef has been seen on the Snow
+Field before. Give the password SunFlame to the King and you will learn the
+password Goddess Bell. So now you are left with little choice other than to
+travel all the way back to Salmando and talk to Josef again.
+Optimal equipment at this point in the game:
+Frioniel: Mithril Sword, Mithril Helmet, Mithril Gauntlet, Mithril Shield,
+Mithril Armor
+Maria: Mithril Cane, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Guy: Mithril Axe, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Also: Battle Axe, Bronze Helmet, Bronze Gauntlet, Bronze Shield, Silver Armor
+
+Chapter 6: The Snow Cave
+
+Give the password Goddess Bell to Josef, who is very pleased with you for
+rescuing his daughter from the Semite Cave. He will tell you that in order to
+reach the Snow Cave you will have to go over the Snow Field. In order to travel
+on the Snow Field, you will need the Ice Sled, which is located in the Semite
+Cave. Since Josef knows where it is at, he joins your group. Josef is a strong
+fighter, trained in the use of his bare hands. Unfortunately, he has no spells.
+You might want to buy him a few cheap spells which will be of immediate use, I
+would recommend Cure and Fire, but do not spend too much money since he will
+not be in your group for long. Give him the Battle Axe, Bronze Helmet, Bronze
+Gauntlet, Bronze Shield, and Silver Armor which Minh used to use. Travel to the
+Semite Cave and approach the strange blue thing on the first floor. As Josef
+told you, there is an opening in the wall Northeast of that blue thing, which
+Josef can open for you. Walk through it to find the Ice Sled. Now leave the
+cave and go across the Snow Field, the entrance is Northwest of Salmando.
+Travel East along the Snow Field and you will find the Ice Cave.
+Make your way through the Ice Cave, but make sure not to use up all of your
+magic. You can not cast Exit to get out of here since there is a magic barrier,
+so you will have to save some of your magic for the trip out (although you will
+not have to save much, since there is a short cut to get out). On level three
+of the Ice Cave you will come to a fork in the path which has stairs at either
+end. Take the Southern path to continue with the dungeon.
+On the fifth floor get the Ancient Sword, which is in the box on the Southwest
+corner of that floor. It is guarded by Shadows and Ghouls. Once you get it,
+give it to Frioniel and give his Mithril Sword to Josef. Also on that floor, in
+the Northwest corner, is a Mithril Shield. Give this to Josef.
+After that continue along into the room filled with beavers. (They are FF2j’s
+moogle equivalent. Personally, I think Square should have kept calling them
+beavers.) Guy will be able to understand the leader beaver, who will tell you
+to go through the fake wall in the East part of the room. So walk through the
+wall and you will be on another floor of the dungeon. Get the Silver Armor in
+the treasure chest in the Southeast corner of the floor and give it to Josef if
+you never bought Silver Armor for you characters before the Semite Cave. Click
+on the thing on the wall which looks like a plaque and you will find the
+Goddess Bell, but it is guarded by an Adamanti. Attacks do not hurt Adamantis
+very much, but they are weak against Ice, so just cast Ice on him. If you have
+already gone to Mysidia and are having trouble with this boss, the Change trick
+does work on him. Make absolutely sure to click on the plaque on the wall again
+after you defeat the Adamanti; only then do you get the Goddess Bell.Go through
+the door and you will be on the first floor of the cave. But right before you
+get all the way out you will encounter Borgan the traitor. If you beat the
+Adamanti and still have enough magic to cure yourself before you fight Borgan,
+he will not be a problem at all. If you do have trouble with Borgan, you can
+use the Change trick. Make sure to unequip Josef immediately after the fight,
+since he is about to leave your party. Keep his Mithril Sword, Bronze Helmet,
+Mithril Shield, and Silver Armor; you will want them for the next fourth
+member. After you beat Borgan a huge boulder will come rolling down the
+stairway threatening to crush your party. Your three main characters manage to
+escape because Josef sacrifices his life in order to save them, but this means
+your party is back down to three again. Now that you have the Goddess Bell head
+to Kashuon and try to get the EgilTrch from there.
+Optimal equipment at this point in the game:
+Frioniel: Ancient Sword, Mithril Helmet, Mithril Gauntlet, Mithril Shield,
+Mithril Armor
+Maria: Mithril Cane, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Guy: Mithril Axe, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Also: Mithril Sword, Bronze Helmet, Mithril Shield, Silver Armor
+
+Chapter 7: Kashuon
+
+There are four ways to get to Kashuon. The first is to walk North of Phin for a
+really long time across territory which is covered with really tough enemies.
+The second is to walk Southwest of Altea then North when it becomes available
+for a really long time across territory which is covered with really tough
+enemies. If you choose either of these options, you are a moron. The third and
+smartest way to get there is to go to Poft and pay Cid’s assistant 400 gil for
+a ride there. If you do not want to pay 400 gil, another not so stupid way is
+to walk Southeast of Bofsk for a relatively short amount of time across
+territory which is covered with relatively easy enemies. Kashuon is inside a
+small mountain range shaped like a circle which is inside a large mountain
+range shaped like a circle. The entrance to the larger mountain range is on the
+Northeast corner (yes, that's right, the corner of a circle).In any case, once
+you get to Kashuon there is nothing you can do with the Sun Flame until you get
+the EgilTrch, so ignore it for now and walk up to the front door on the first
+floor of the dungeon. Use the Goddess Bell on the door and it will open up and
+you can proceed into the Castle. Once inside you will find that Gordon did not
+actually flee Altea because he was a pathetic coward, instead he went to
+Kashuon himself to try to retrieve the Sun Flame. Unfortunately, he sucks, so
+there is no way in hell he will be able to get it alone, and he will not be of
+much use to you. He joins your party, but really does not do much more than
+take up space since he sucks so badly. Give him the Mithril Sword, Bronze
+Helmet, Mithril Shield, and Silver Armor which Josef used to have in addition
+to his own Bronze Gauntlet.
+There are several noteworthy treasures in Kashuon. On the fourth floor get the
+Gold Shield, which is guarded by Wererats. Give the Gold Shield to Frioniel.
+There are two doors in the Northeast part of the fifth floor.  Go into the door
+which is Northwest of the other one and get the Were Cane in the Northern part
+of that room and give it to Maria. Also get the Mithril Axe on the Western side
+of that room and give it to Gordon. Also make sure to get the Gold Armor on the
+sixth floor, but beware of the Balloons and Mines which are guarding it. Give
+the Gold Armor to Maria and give her Mithril Armor to Gordon.
+Finally proceed to the seventh floor, where the EgilTrch awaits you. However it
+is guarded by a R.Soul. R.Souls are cured by most types of magic you have
+learned so far in the game, so do not try casting anything on him, just attack.
+He has fairly powerful magic for this point in the game, so I recommend you
+play defensively. Devote two or three characters each turn to casting Cure on
+your whole party. Eventually R.Soul will run out of magic since his spells are
+all on level eight and he will have no choice but to fight. His attacks suck,
+so once he runs out of magic just kick his ass with physical attacks. The
+Change trick does not work on him, it just heals him. Once you defeat him and
+get the EgilTrch, cast Exit to get out of Kashuon, go back in to get the Sun
+Flame, then leave.
+Hilda had come with Cid in his Airship to greet you when you emerged
+triumphantly from Kashuon. Instead Cid’s Airship is caught by the empire’s
+Warship and Cid and Hilda are taken prisoner. The Warship lands and you sense
+your chance to destroy the Warship and rescue Hilda and Cid.Optimal equipment
+at this point in the game:
+Frioniel: Ancient Sword, Mithril Helmet, Mithril Gauntlet, Gold Shield, Mithril
+Armor
+Maria: Were Cane, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+Gordon: Mithril Axe, Bronze Helmet, Bronze Gauntlet, Mithril Shield, Mithril
+Armor
+
+Chapter 8: The Warship
+
+The Warship has landed in a very isolated place, with all the land surrounding
+it covered with fairly strong monsters. You can get to it by walking North from
+Phin; by walking South from Kashuon; or by walking Southwest from Phin then
+North when you can. If you take any of these options, you are a moron. If you
+go straight South as soon as you leave Kashuon you will encounter the chocobo
+forest in fourteen steps. Catch the Chocobo and leave the forest and you will
+be able to ride your way to the Warship, or wherever else you want to go over
+land, without encountering any enemies. If you want to, go back to a town to
+recover and/or buy more equipment before you leave for the Warship, then walk
+back to the chocobo forest and ride to the Warship.
+As soon as you enter the Warship a guard will ask you for the Pass you found in
+the Bofsk Sewers. Give it to him and you will be permitted inside the Warship.
+Do not talk to any of the enemies posted inside, or you will get in a fight
+with the same Captains who were guarding Phin, and chances are good that they
+will still slaughter you.
+There are three different staircases on the first floor of the Warship. First
+go down the staircase in the middle of the room to get the Sleep Sword. You
+will have to walk through a false wall to get to it, since you can not open the
+bars. The Sleep Sword is guarded by Mages, Sargeants, and Soldiers. Give the
+Sleep Sword to Frioniel and give Frioniel's Ancient Sword to Gordon. Then go
+back up the staircase to the first floor and this time enter the staircase in
+the room in the Northeast corner of the floor. Hilda and Cid are held on the
+Southern part of this floor. Break through the bars on their cell to free them
+then talk to Cid and they will escape. Also make sure to get the Thief
+Gauntlet, which is also on the Southern part of this floor. Give the Thief
+Gauntlet to Guy and give Guy's Mithril Gauntlet to Gordon. Once you have taken
+all the treasures you want to take and rescued Hilda and Cid, go back up the
+staircase you took to get to this floor and this time take the third and final
+staircase on the first floor, which is located on the Southeast part of the
+floor. Go through this floor and up one more flight to the third floor. Get the
+Gouche Knife on the third floor, which is the treasure box second from the left
+and give it to Gordon. Get the Giant Helmet, which is the treasure box farthest
+to the right. Give the Giant Helmet to Frioniel and give his Mithril Helmet to
+Gordon. Also get the Ice Shield, which is the second treasure box from the
+right. It is guarded by a Gigas and Soldiers, and the Gigas is a fairly tough
+enemy. You will be able to buy Ice Shields later in the game, so if you do not
+want to fight the Gigas you can just skip it and buy it later. If you do fight
+the Gigas, give the Ice Shield to Guy. After you have gotten all the treasures
+on the third floor which you want to, go up through the fourth and fifth
+floors. At the end of the fifth floor will be the engine room, where you will
+toss the Sun Flame into the engine, destroying the warship.
+Optimal equipment at this point in the game:
+Frioniel: Sleep Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Mithril
+Armor
+Maria: Were Cane, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Thief Gauntlet, Ice Shield, Mithril Armor
+Gordon: Gouche Knife, Mithril Helmet, Mithril Gauntlet, Mithril Shield, Mithril
+Armor
+
+Chapter 9: Dist Castle
+
+Once you have destroyed the warship, go back to Altea. Unequip Gordon, then
+talk to the King and the King will applaud Gordon's bravery and give him a post
+in Altea and Gordon will leave your party. Keep Gordon's Gouche Knife, Mithril
+Gauntlet, Mithril Shield, and Mithril Armor for the next fourth character. The
+King also sends Minh out to unlock the ultimate magic spell, Ultima. Finally,
+the King sends you to Dist Castle, home of the Dragoons. The Dragoons were
+recently attacked by the empire, and you are meant to go there and discover
+what is left of them. The King then dies. Go talk to Gordon, who now sits in
+the throneroom of Altea, to learn the password Dragoon. Give the password
+Dragoon right back to Gordon to learn the password Hiryuu.
+Head to Palm to get a ride to Dist. There will be a female pirate name Layla
+there who says she is heading to Dist now and offers you a ride. Continuing in
+Squaresoft’s tradition of subtle foreshadowing, Maria remarks on how suspicious
+this seems. So surely enough, as soon as you are part of the way out to sea,
+the rest of Layla’s crew attacks your party. They are simple to kill, and once
+you do so Layla joins your party, giving you her ship. Once you have her ship
+you can sail to Dist Castle, which is located on an island East of Bofsk, far
+South of where you are at when you get the ship. The best thing about Layla
+other than her ship is her helmet. She is wearing the Goldpin Helmet. Give it
+to Maria and give Maria's old Mithril Helmet and Gordon's old Gouche Knife,
+Mithril Gauntlet, Mithril Shield, and Mithril Armor to Layla (note that Layla
+is left handed, so equip the Gouche knife on her left hand and the Mithril
+Shield on her right hand).When you get to Dist Castle you will see a small boy
+who will think that you are from the Empire and will run away from you. Follow
+him and talk to him and his mother. Once you tell them that you are fighting
+against the empire they will become friendly and tell you that all the Dragoons
+are dead. There is only one Dragon (Hiryuu) left, and it is sick and dying. No
+one can understand what it is saying, but if you had a Pendant, which is hidden
+inside Dist Cave, you could understand it. Now go around the castle and collect
+all the treasures. Make sure to get the Winged Sword and give it to Frioniel.
+Once you have collected all the treasures in the castle, head to Dist Cave.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Mithril
+Armor
+Maria: Were Cane, Goldpin Helmet, Mithril Gauntlet, Mithril Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Thief Gauntlet, Ice Shield, Mithril Armor
+Layla: Mithril Shield, Mithril Helmet, Mithril Gauntlet, Gouche Knife, Mithril
+Armor
+
+Chapter 10: Dist Cave
+
+Dist Cave is directly North of Dist Castle, on the same island. The first floor
+of the cave has three different staircases leading to the next floor. First go
+to the staircase in the Northeast corner of the first floor. Search the bones
+on the next floor and you will find the Pendant. Once you have the Pendant
+immediately leave the cave and go back to Dist Castle and talk to the Dragon.
+If you explore the rest of the cave before talking to the Dragon, you will have
+to go through the whole thing all over again. Give the password Hiryuu to the
+Dragon and he will tell you he is dying, and ask you to put his Egg in the
+Spring of Life inside Dist Cave. The Dragon also tells you that one Dragoon,
+who is named Richard, left to look for Ultima before the empire invaded Dist
+Castle, so he may still be alive. Now go back to Dist Cave and head for the
+Spring of Life to plant the Egg there.
+Take the Southwest staircase from the first floor. After several floors of
+nothing, that will eventually lead you to the Knight Armor in the Southeast
+treasure box and Flame Bow in the Northwest treasure box. The Knight Armor is
+guarded by Adamantis, but they should not be a problem this far along in the
+game. Give the Knight Armor to Frioniel and give the Flame Bow to Layla (you
+will have to unequip her shield and you should move her to the back row since
+Bows can attack from the back row). Fairly soon after this dungeon you will
+have a chance to buy the Knight Armor and weapons better than the Flame Bow, so
+if you do not want to go through four levels of this cave without needing to,
+do not take this route and just go directly to the Spring of Life.
+Then take the Southeast staircase from the first floor. In the Southwest corner
+of the next floor is the Magic Cane. Give it to Maria. Then take the Southwest
+staircase from this floor to go further. Proceed up two floors and you will
+eventually get to the Spring of Life. Kill the Chimeras which guard it, plant
+the Egg the Dragon gave you, and leave the cave. The Chimeras should not be a
+problem, but if they are you can use the Change trick on them.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Knight
+Armor
+Maria: Magic Cane, Goldpin Helmet, Mithril Gauntlet, Mithril Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Thief Gauntlet, Ice Shield, Mithril Armor
+Layla: Mithril Helmet, Mithril Gauntlet, Flame Bow, Mithril Armor
+
+Chapter 11: Arena
+
+Once you have planted the Egg in the Spring of Life go back to Altea where you
+will encounter more of Squaresoft’s subtle foreshadowing. The townspeople there
+are all talking about how much Hilda has been acting strangely lately. Go to
+her room and talk to her and sure enough, it will turn out that she is a
+Q.Lamia disguised as Hilda.The Q.Lamia is by far the toughest enemy you have
+fought so far. She casts Wink on your characters, confusing them, and her
+attacks cause your characters to fall asleep. Plus she occasionally casts
+Blink, and after that it will be difficult to hit her. She has no weaknesses,
+of course. Since she can confuse your characters, I recommend that you unequip
+all your weapons and shields before you encounter her, that way you will not
+damage yourself too badly when confused. Put your character with the highest HP
+in the front row, and put everyone else in the back row. That way she will only
+be able to attack the person in the front row, and only one person in your
+party will be asleep at a time, if that. The other three people should have
+high level Cure spells, an attack spell of your choice (Fire, Ice, Bolt, or
+something more powerful if you have it, it does not matter which) on a high
+level, and enough MP to make it through the battle without running out of MP.
+Q.Lamia has 1300 HP. Once you get into battle Q.Lamia can only cause damage to
+the person in the front row, since your guys will not damage each other when
+confused since their weapons and shields are unequipped. So have as many people
+as necessary cast Cure on the person in the front row each round. Have whoever
+is not casting Cure on the person in the front row, is not asleep, and is not
+confused cast your attack spell on Q.Lamia. Eventually it will die or you will
+run out of MP and be completely screwed since she will probably have cast Blink
+on herself by that time and you will not be able to hit her. Or, if you want to
+do things the easy way, just use the Change trick.
+Once you kill it you will learn that the real Hilda is being held prisoner by
+the Emporer, and that she is going to be given away as a prize to the winner of
+a contest in the Arena. So you rush off to the Arena, which is located on the
+West side of the mountain range which runs along the East side of the desert
+South of Kashuon. Gordon decides to go with you since he wants to make sure
+Hilda is safe. Do not worry about not having gotten a chance to unequip Layla’s
+helmet, gauntlet, and armor; you will get her back soon and she will still have
+them equipped then. Give Layla's old Flame Bow and whatever defensive equipment
+you have to spare if you did not unequip Layla before the fight with the
+Q.Lamia (I figured it would be needed more during that fight than it would
+during Gordon's stay on the team), but do not worry about it too much since he
+will not be in your party for long and he is not much more useful alive than he
+is dead anyway.Once you get to the Arena you will have to fight Behemoth, but
+it will be a very simple fight. He has 1700 HP, but is not very tough, and if
+you beat Q.Lamia, he will be simple for you. After that you try to attack the
+Emporer, but fall down a pit and land in a cell underneath the Arena. Paul, the
+thief from Altea, will come and rescue you to repay you for rescuing him from
+the Semite Cave. The Arena Dungeon is not much of a challenge, it has only two
+levels. Go up one level and you will find Hilda there. There is a false wall on
+the Northern part of the East wall through which you can walk to get to Hilda
+quickly instead of having to go all the way around. Before you save Hilda
+unequip Gordon, making sure to save his Flame Bow for Layla when she comes
+back. After you reach her Gordon will leave your party, taking her with him.
+Make your way through the rest of that floor and leave the Arena.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Knight
+Armor
+Maria: Magic Cane, Goldpin Helmet, Mithril Gauntlet, Mithril Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Thief Gauntlet, Ice Shield, Mithril Armor
+Also: Flame Bow
+
+Chapter 12: Phin Castle
+
+Return to Altea and you will find that with Hilda’s return and the help of
+Layla’s pirates the rebellion has risen to retake Phin. Everyone who used to
+reside in Altea from Phin or Kashuon have moved to a camp West of Gatea. The
+only people remaining in Altea are the original weapon, armor, item, and magic
+salesmen (Mithril is no longer being sold anywhere), the innkeeper, Tobul, and
+one member of the rebellion who has stayed behind to tell you where everyone
+else went.Go to the camp and you will find Hilda and Gordon, who ask you to
+help them retake Phin Castle. As soon as you enter Phin Castle you will meet
+Layla, who will rejoin your group. If she had anything equipped last time she
+left your group, she will still have it equipped, if not, she will not have
+anything equipped and you should give her what she used to have again. In any
+case, take the center staircase and rush up all the flights of stairs ignoring
+all the treasure boxes and other staircases. Walk right up to the boss of the
+castle, Gotus, and kick his ass. Gotus should not be a problem, just use
+physical attacks. If he does prove to be a problem, use the Change trick.
+After you beat him, Phin will be free from all enemies forever after (with the
+exception of the enemies guarding treasure boxes) and the residents of Phin
+move back in. Now is a good time to go back and get all the treasures you
+ignored before. Go through a false wall to get the Giant Gauntlet in the
+Southeast corner of the second floor which is accessible by the staircase in
+the middle of the first floor. Give it to Maria.
+Go talk to Hilda and Gordon on the top floor. Talk to Hilda to learn the
+password Mysidia. Give the password Mysidia right back to Hilda to learn the
+password Mask. Give the password Mask right back to Hilda to learn the password
+Ekume. Give the password Mysidia to Gordon to learn the password Ultima. They
+will tell you to go to Mysidia to get the ultimate magic spell Ultima since
+Minh has not returned yet. To do that you will need the W.Mask, which is hidden
+in Phin Castle’s Basement. Unfortunately, they do not know where it is located,
+but they recommend that you go talk to Paul, the thief you met in Altea, who
+now lives in Phin Town. Paul will tell you to check the Northeast corner. Go to
+the throneroom in Phin Castle, check the Northeast corner, and if you give it
+the password Ekume, you will be allowed to walk through the wall and into the
+Phin Basement. Do not go into the basement itself yet, but do follow that
+passage a little way until you reach the first floor of Phin Castle again where
+there is a false wall which leads to a Gold Shield, Gold Armor, and Quartz
+Armor. Give the Gold Shield to Maria, give the Quartz Armor to Guy and give the
+Gold Armor to Layla.Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Knight
+Armor
+Maria: Magic Cane, Goldpin Helmet, Giant Gauntlet, Gold Shield, Gold Armor
+Guy: Mithril Axe, Mithril Helmet, Thief Gauntlet, Ice Shield, Quartz Armor
+Layla: Mithril Helmet, Mithril Gauntlet, Flame Bow, Gold Armor
+
+Chapter 13: Phin Town
+
+Also, now that the empire has been beaten back from Phin its weapon, armor, and
+magic shops are open again. Go there and buy Giant Helmets for Guy and Layla
+and Quartz Armor for Maria. Do not worry about getting Shields or Weapons here,
+since the plot is about to require you to go to Mysidia, which has better
+Shields and Weapons than those you will find in Phin. I do not recommend any of
+the spells here.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Knight
+Armor
+Maria: Magic Cane, Goldpin Helmet, Giant Gauntlet, Gold Shield, Quartz Armor
+Guy: Mithril Axe, Giant Helmet, Thief Gauntlet, Ice Shield, Quartz Armor
+Layla: Giant Helmet, Mithril Gauntlet, Flame Bow, Gold Armor
+
+Chapter 14: Phin Basement
+
+To avoid confusion, I am counting the first floor with enemies on it as the
+first floor of the Phin Basement, as opposed to the first room after going
+through the false wall in the throneroom of Phin Castle. Make your way through
+to the third floor. Get the Flame Shield on the West side of the third floor.
+Give it to Maria and save her Gold Shield for Layla (she can not equip it yet
+since she is using a bow, but she will be able to equip it soon). Get the Flame
+Armor on the Northeast corner of the fourth floor. Give it to Frioniel and give
+Frioniel’s Knight Armor to Layla. Get the Orhacon Knife in the Southeast corner
+of the fifth floor and give it to Layla along with the Gold Shield you were
+saving for her. It is guarded by GChimeras. They will not be a problem if you
+only encounter one or two and they do not cast breath on your group. However,
+if you run into several of them and they all cast breath, you will probably be
+dead in one round (this happened to me the first time I fought them).
+Therefore, save your game before you encounter them and if you die just try
+again until you get an easy fight. If you have a problem with them, you can use
+the Change trick. Also on the fifth floor is the W.Mask. Get that and step onto
+the warp behind it to leave the Basement.Optimal equipment at this point in the
+game:
+Frioniel: Winged Sword, Giant Helmet, Mithril Gauntlet, Gold Shield, Flame
+Armor
+Maria: Magic Cane, Goldpin Helmet, Giant Gauntlet, Flame Shield, Quartz Armor
+Guy: Mithril Axe, Giant Helmet, Thief Gauntlet, Ice Shield, Quartz Armor
+Layla: Gold Shield, Giant Helmet, Mithril Gauntlet, Orhacon Knife, Knight Armor
+
+Chapter 15: Mysidia
+
+Once you have gotten the W.Mask head for Mysidia. Mysidia is very hard to find
+since it is not marked on the map. Get in your boat and sail around the
+Southern tip of the peninsula on which Altea is located, then straight West,
+making sure to avoid the mountain chain shaped like a circle which is an
+island. This should land you on the Eastern shore just North of a chain of
+mountains. Head straight South along the West side of the mountains (you will
+canoe over a lake) from here and you will see Mysidia.
+If you do not have the boat yet and you are going here early, walk Southwest
+from Phin until you get to the lake mentioned above. Take your canoe to the
+Eastern part of the lake then walk straight South.
+Mysidia has excellent weapons, armor, and spells. Buy Guy an Ogre Axe, and buy
+Maria a Power Cane. Give Maria’s Flame Shield to Frioniel and buy an Ice Shield
+for Maria. Buy Thief Gauntlets for Frioniel and Layla. Also buy one Giant
+Gauntlet but do not equip it, it will come in useful shortly. Buy the Change
+spell for one of your main three characters and practice with it now until it
+is raised to level 16. It is an extremely useful spell. Also buy Holy for
+Frioniel, Maria, and Guy.In the Southern part of Mysidia there is a staircase
+leading down. Go down the stairs and use the W.Mask on the Goddess Statue. You
+learn while in Mysidia that to get inside the Mysidia Tower you will need the
+CrystRod, and to get the CrystRod you need the B.Mask. Placing the W.Mask on
+the Goddess Statue will allow you to get the CrystRod once you find the B.Mask
+in the B.Mask Cave, which is your next stop.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Thief Gauntlet, Flame Shield, Flame Armor
+Maria: Power Cane, Goldpin Helmet, Giant Gauntlet, Ice Shield, Quartz Armor
+Guy: Ogre Axe, Giant Helmet, Thief Gauntlet, Ice Shield, Quartz Armor
+Layla: Gold Shield, Giant Helmet, Thief Gauntlet, Orhacon Knife, Knight Armor
+Also: Giant Gauntlet
+
+Chapter 16: B.Mask Cave
+
+The B.Mask Cave is located on a tiny island in the middle of the sea South of
+Altea. You will have to go mostly South and a little West to get to it. It is
+directly North of Salmando. Just use your map and finding it will not be a
+problem. Make sure to get Aero in the Northeast corner and Southern part of the
+second level and give it to two of your three main characters.
+There are two staircases from the second level. If you take the staircase in
+the Northwest corner it will lead you, eventually, to a town inhabited by
+people wearing B.Masks. A creature in this town sells Demon Axes, Demon
+Javelins, Ruby Armor, and EarthDrms. The weapons and armor are weaker than the
+equipment you have, and EarthDrms are not all that good, so I do not recommend
+buying any of this or even visiting this town.
+If you choose not to go to the town inside this cave, or go and then return to
+the second floor, proceed through this cave by taking the stairs in the center
+of the second floor. Level four of this path has four different staircases. The
+Southwest, Southeast, and Northwest staircases all lead to items, and I do not
+recommend wasting your time with any of them. Take the Northeast staircase to
+the final level of the cave, then go inside the room for the B.Mask. The B.Mask
+is guarded by BigHorn. BigHorn is a regular enemy near Mysidia, and is
+absolutely no challenge as a boss. Kill him and then take the warp out of the
+cave once you get the B.Mask. If you are really having a problem with him you
+can use the Change trick, but if you made it through the cave you should not
+have any trouble.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Giant Helmet, Thief Gauntlet, Flame Shield, Flame Armor
+Maria: Power Cane, Goldpin Helmet, Giant Gauntlet, Ice Shield, Quartz Armor
+Guy: Ogre Axe, Giant Helmet, Thief Gauntlet, Ice Shield, Quartz Armor
+Layla: Gold Shield, Giant Helmet, Thief Gauntlet, Orhacon Knife, Knight Armor
+Also: Giant Gauntlet
+
+Chapter 17: Mysidia Cave
+
+The Mysidia Cave is located East of Mysidia, inside the ring of mountains on
+which Mysidia borders. Get the Goldpin Helmet in the Northen part of the first
+floor. Now equip the Goldpin Helmet on Frioniel along with the Giant Gauntlet
+you were saving. Also take the Black Armor on the Southeast part of the first
+floor and give it to Guy. Blocking the entrance to the second floor is a
+doppleganger of Frioniel. Put the B.Mask on him and he will disappear. If you
+have not yet put the W.Mask on the Goddess Statue in Mysidia you will not be
+able to touch the doppleganger. The two treasures on the first floor are the
+only ones worth getting, but if you were wondering how to get to the other ones
+which seem to be unaccessible, you have to walk through a few fake walls. On
+the second floor there is a fake wall through which you must walk to get the
+treasure in the Northeast corner. On the third floor there is another fake wall
+through which you must walk to get the treasure in the Northwest corner. On the
+fifth floor there is yet another fake wall through which you must walk to get
+the five treasures in the center of the floor. Then go to the separate room on
+the fifth floor to get the CrystRod, then leave.
+Optimal equipment at this point in the game:
+Frioniel: Winged Sword, Goldpin Helmet, Giant Gauntlet, Flame Shield, Flame
+Armor
+Maria: Power Cane, Goldpin Helmet, Giant Gauntlet, Ice Shield, Quartz Armor
+Guy: Ogre Axe, Giant Helmet, Thief Gauntlet, Ice Shield, Black Armor
+Layla: Gold Shield, Giant Helmet, Thief Gauntlet, Orhacon Knife, Knight Armor
+
+Chapter 18: Leviathon
+
+Now that you have the CrystRod you can (hypothetically) use it to get into
+Mysidia Tower. So head to the tower, which is on an island inside a ring of
+mountains in the sea Southwest of Altea. Make sure to unequip Layla of all her
+stuff, since she is about to leave your party, save her Thief Gauntlet for the
+next character. Once you get inside the ring of mountains your ship will be
+attacked and you will wake up inside the stomach of Leviathon. Layla will be
+gone, and you will have no choice but to travel on without her. Leviathon’s
+stomach is filled with pools, presumably of stomach acid. If you walk through
+them it will take HP off of each of your characters, but only by one HP per
+step, also no enemy will attack you while inside Leviathon's stomach acid.On
+the second floor of Leviathon is a village set up by many of the other people
+who were swallowed by Leviathon. All of the people there had a CrystRod and
+were attempting to get the magic spell Ultima, but it seems that Leviathon
+defends the spell and attacks anyone who tries to go to Mysidia Tower if he
+senses they have a CrystRod. There is a boat inside Leviathon with which you
+could escape, but no one has been able to get to it because it is guarded by a
+Worm. Use your CrystRod on Richard and he will join you to help you reach the
+boat and escape. Richard is the last Dragoon, the one about whom the dragon
+told you, who was trying to find Ultima. Give him the Thief Gauntlet you were
+saving from Layla in addition to his own equipment. He has no spells, so when
+you get out of Leviathon buy him Cure, Fire, Ice, and Bolt.
+Leviathon is filled with great treasure. In the Southwest corner of the first
+floor you will find the Spiral Helmet, and in the Northeast corner you will
+find the Power Armor. On the second floor you will find the Power Gauntlet. In
+the Northeast corner of the third floor you will find the Earth Sword, and in
+the Southeast corner you will find the Diamond Shield. The Diamond Shield is
+guarded by R.Souls, but they should not be a problem at this point in the game.
+Give the Spiral Helmet to Guy. Give the Power Armor to Maria. Give the Power
+Gauntlet to Maria. Give Frioniel the Earth Sword. Give the Diamond Shield to
+Frioniel, and give his old Flame Shield to Richard.
+On the third floor is the boat, and the Worm which guards it. Attack him as you
+would a normal enemy, curing as you need to. If he is a problem you can use the
+Change trick on him. Once you defeat the Worm get on the boat and you will now
+be free to enter and exit the Mysidia Tower as you see fit.
+Optimal equipment at this point in the game:
+Frioniel: Earth Sword, Goldpin Helmet, Giant Gauntlet, Diamond Shield, Flame
+Armor
+Maria: Power Cane, Goldpin Helmet, Power Gauntlet, Ice Shield, Power Armor
+Guy: Ogre Axe, Spiral Helmet, Thief Gauntlet, Ice Shield, Black Armor
+Richard: Winged Sword, Giant Helmet, Thief Gauntlet, Flame Shield, Knight Armor
+
+Chapter 19: Mysidia Tower
+
+If you found Leviathon, you know where the Mysidia Tower is. Approach it from
+the front and the CrystRod will break the energy barrier and you will be
+allowed inside. In the Northern part of the first floor is the WhtRobe Armor,
+but you will have to walk through a false wall to get to it. Give the WhtRobe
+Armor to Maria, and give her old Power Armor to Richard. The second floor has
+many different paths you could follow. Head down the Southwest passage to get
+to the third floor. When it branches take the North passage to get a Flame
+Shield (do not equip it yet, you will want it later), then head back and take
+the South passage to go to floor three. Floor three is covered in pools of
+lava. Stepping in them makes your characters lose one HP per step, but while
+you are walking in lava you will not encounter any enemies. So walk through
+lava as much as possible to avoid enemies, but take the shortest route possible
+so you do not lose more HP than necessary. Get all the treasures on the third
+floor: the Flame Sword, Flame Armor, and Flame Helmet. Give the Flame Sword to
+Frioniel and give Frioniel's old Earth Sword to Richard. Give the Flame Armor
+to Richard. Give the Flame Helmet to Frioniel, give Frioniel's old Goldpin
+Helmet and Giant Gauntlet to Richard, and give Richard's old Thief Gauntlet to
+Frioniel. Then you will face the F.Gigas. He is not much of a challenge, use
+Ice spells, or just attack if you do not want to waste magic on him. If you do
+have a problem with him use the Change trick.
+Levels four and five have pools of really cold water which work the same way as
+the lava on level three. On the fourth floor get the Ice Gauntlet from the
+Southwest corner and the Ice Armor from the Southeast corner. Go up the
+Northeast staircase to proceed with the tower. On level five make sure to get
+the Ice Sword in the Northeast corner, there is a false wall through which you
+can walk to get there easier. Give the Ice Sword to Frioniel and give
+Frioniel's old Flame Sword to Richard. Give the Ice Gauntlet to Frioniel. Give
+the Ice Armor to Maria and give Maria's old WhtRobe Armor to Frioniel. Finally
+give the Flame Shield you were keeping from another floor to Guy, but keep the
+Ice Shield he was using. Then to get to the sixth floor you will have to defeat
+the I.Gigas. He is not much of a challenge either. Use the same strategy for
+him as you did for the F.Gigas, only with Fire spells instead of Ice. If you
+have trouble with him, the Change trick works on him too.
+Once you kill the I.Gigas give Guy the Ice Shield back. Get the Evil Cane on
+the Southwest corner of the sixth floor, and give it to Maria. On level seven
+is the T.Gigas, the toughest of all of them. This boss is fairly challenging.
+He is weak against Aero, but I suggest using the Change trick since he is so
+hard. Level eight is sort of like a long hallway with a row of doors on each
+side. Go all the way to the end for the spell Flare, which is guarded by
+Gotuses and DvFlowers. Give Flare to one of your three permanent characters, it
+does not matter which. Then take the passage on the same side as Flare, but one
+before it, to get to level nine. Level nine is covered by water, but this time
+it is just normal water, it does not drain your HP or prevent you from being
+attacked by enemies. In the Northeast corner of level nine is the BlkRobe
+Armor, but it is guarded by a Dragon. Use the same strategy on the Dragon as
+you did on the I.Gigas. By this time, after having fought all three Gigases
+without resting, you are probably getting low on magic. So it may be a good
+idea to use the Change trick on the Dragon. Give the BlkRobe Armor to Frioniel,
+and give Frioniel's old WhtRobe Armor to Richard. After that proceed to level
+ten and talk to Minh who will die while unsealing the door to Ultima. Go
+through the door and there will be five crystals. The one in the middle will
+give you Ultima then warp you out of the Tower, so do not talk to it until you
+have talked to the other four. All four crystals raise one character’s stat by
+ten points. Which character’s stat they raise is random though, so save your
+game and keep talking to each crystal, checking if they raised the stat of
+whichever character you prefer, and loading your game and repeating the process
+if they did not. After you have had all four outer crystals raise the stats of
+your choice of character, talk to the middle crystal to leave. Give Ultima to
+Maria.Optimal equipment at this point in the game:
+Frioniel: Ice Sword, Flame Helmet, Ice Gauntlet, Diamond Shield, BlkRobe Armor
+Maria: Evil Cane, Goldpin Helmet, Power Gauntlet, Ice Shield, Ice Armor
+Guy: Ogre Axe, Spiral Helmet, Thief Gauntlet, Ice Shield, Black Armor
+Richard: Flame Sword, Goldpin Helmet, Giant Gauntlet, Flame Shield, WhtRobe
+Armor
+
+Chapter 20: The Whirlwind
+
+After you get out of the Mysidia Tower the world will be changed. The Emporer
+has summoned a whirlwind which destroyed Altea, Gatea, Palm, and Poft and has
+attacked Phin. The enemies on the outside world are much stronger in the areas
+in which they used to be weak. Go to Phin Castle and talk to Hilda. You will
+learn the password Whirlwind, and learn that the Emporer is inside the
+whirlwind, but that you would need to be able to fly to get inside. You will
+also find Layla alive in Phin having gotten back from being attacked by
+Leviathon by herself. Go to Phin Town, give Paul the password Whirlwind, and he
+will open a false wall beside his bed. Follow it to get several treasures. Give
+the Black Armor to Maria, give Maria's old Ice Armor to Frioniel, and give
+Frioniel's old BlkRobe Armor to Richard. Then go to the hall of mirrors inside
+Phin Castle and use the Pendant. The mirror will reveal that the Egg you put
+into the Spring of Life inside Dist Cave has hatched, and a small Dragon will
+come flying through the door with which you will be able to go inside the
+Whirlwind.
+Now walk up to the Whirlwind and the Dragon will fly you inside. On some floors
+of the Whirlwind there are pools of water which decrease your HP by one for
+each step, but in which you can not encounter an enemy, just like in previous
+dungeons. Go up the Northeast staircase from the first floor and follow that
+path to the third floor, where you should get the Poison Axe in the Southwest
+corner. Give the Poison Axe to Guy. Go back down to the first floor from there
+and take the Northwest staircase to proceed with the dungeon. On level three
+you should take the Northern staircase to get the Diamond Helmet and Diamond
+Gauntlet. Give the Diamond Helmet to Maria and give the Diamond Gauntlet to
+Guy. After you have those go back down and this time take the Southwest
+staircase to proceed. From level four take the Southern (as opposed to
+Southeastern) staircase and get the Defense Sword and the Diamond Armor(2),
+which is guarded by a General. There are two different kinds of armor in the
+game which are both called Diamond Armor. To distinguish between them I am
+calling one the Diamond Armor and one the Diamond Armor(2). They are not
+ordered by the order in which you get them, since you get the Diamond Armor(2)
+before the Diamond Armor, but by their worth. The General is not an extremely
+hard enemy, just beat him up as you would anyone else. If you have trouble with
+that, you could use the Change trick. I would not recommend that though, since
+you might want to keep your MP so you can use that same strategy on the
+G.Dragon later and Generals do not have any MP. The G.Dragon guards the
+WindFlut on the floor before the Emporer, and I do not recommend you even
+bother trying to get it. However, if you insist, he is weak against Bolt and
+the Change trick works against him. Give the Defense Sword to Frioniel and give
+his old Ice Sword to Richard. Give the Diamond Armor(2) to Frioniel and give
+Frioniel's old Ice Armor to Richard. After you have gotten those go back down
+to the fourth floor, ignoring the staircase up which leads to nothing, and this
+time take the Southeastern staircase.
+After that go up one more floor to encounter the Emporer. Before you reach him
+he calls his guards to attack you, which consist of two groups of Corps. Then
+when you do encounter him he will be with a Golem and two Corps. Attack the
+Golem then the Corps as you would if they were normal enemies, then kill the
+Emporer. He is much easier than the majority of the enemies you face in the
+Whirlwind, so just attack him and he should die after a round or two. Before he
+dies though he says that he is immortal.
+Optimal equipment at this point in the game:
+Frioniel: Defense Sword, Flame Helmet, Ice Gauntlet, Diamond Shield, Diamond
+Armor(2)
+Maria: Evil Cane, Diamond Helmet, Power Gauntlet, Ice Shield, Black Armor
+Guy: Poison Axe, Spiral Helmet, Diamond Gauntlet, Ice Shield, Black Armor
+Richard: Ice Sword, Goldpin Helmet, Giant Gauntlet, Flame Shield, Ice Armor
+
+Chapter 21: Paramekia Castle
+
+Once you defeat the Emporer you will go back to Phin. With the death of the
+Emporer the people of the world think peace has returned and there is be a
+celebration. However, a messenger will arrive who says that the Dark Knight has
+taken over the throne in the place of the Emporer, so your troubles are not yet
+over. He also says that the Dark Knight is Lionheart. Go to Paul’s house and
+you will find Cid there. Talk to Cid and he dies, but not before giving you his
+airship. So now you can go get the airship, which is still near Poft, and use
+it to descend on top of Paramekia Castle, which would be otherwise inaccessible
+since it is surrounded by mountains.Paramekia Castle is located right next to
+the Arena. When you first descend onto it you will be on floor seven a (it is a
+certain part of floor seven), but you will soon drop down to floor one. You can
+only cast Exit and get out of Paramekia Castle from floor seven a, so you will
+have to go up seven floors before you will be able to leave again. Get the
+Diamond Armor (type one) in the Western part of floor one and give it to Guy,
+then give Guy's old Black Armor to Richard. Proceed to level two through the
+staircase in the Southern part of floor one. The Bolt Javelin is in the
+Southwest corner of the third floor, and is guarded by Shade. Shade is very
+powerful, with 3000 HP, and can cast high level Curse and Death spells on your
+party making it very difficult to defeat him. The Change trick will not work on
+him. I do not recommend you attempt to get the Bolt Javelin since none of your
+characters are trained in the use of Javelins and it is so well guarded.
+However, if you do attempt to defeat him, I would recommend you cast high level
+Cure spells on him, since that is his weakness. If you skip the Bolt Javelin,
+or do manage to survive the encounter with Shade, continue to the fourth floor.
+In the Northern part of a room in the Southwest part of the fourth floor get
+the Greed Cane and give it to Maria. Proceed to the fifth floor, and from there
+you should go up the Northern staircase to floor six a. There you should get
+the Sun Sword, which is guarded by Q.Lamias and Krulls in the Western part of
+the floor. Krulls are not very powerful, they only have 1000 HP, and the Change
+trick will work on them if you want to waste your time doing that
+unnecessarilly. However, since the HP of the enemies which you are facing is so
+low, I recommend you just beat the crap out of them. If you get an encounter
+with only a few enemies you should be able to beat them in one or two rounds.
+If you get an encounter with a lot of enemies, load your game and try it again,
+or try fighting a lot of them. But be warned, even though the Krulls are not
+very tough to kill, they can kill you easily too. Whenever they hit a person,
+that person dies. So this battle is mainly won just by attacking first. Give
+the Sun Sword to Frioniel and give his old Defense Sword to Richard. Note that
+the floor above this one is floor seven a, so if you need to return to a town
+to go to an inn, now is the time since this is the only floor from which you
+can cast Exit. However, your airship will be in Phin, so you will have to walk
+quite a while to get it back and be able to go back to Paramekia once you
+leave.
+Once you have gotten the Sun Sword and if you choose to go on, go back down to
+the fifth floor and this time proceed by going up the staircase in the
+Southwest part of the floor. Go up two more floors and you will be in the
+Throne of Lionheart. Unequip Richard now since you are about to lose him. Keep
+his Flame Shield for the next character and sell the rest. Approach Lionheart
+and he will tell you he is going to carry on after the Emporer and try to rule
+the world. But as he is saying this the Emporer comes back from the dead and
+attempts to kill the four in your group and Lionheart. Your three main
+characters and Lionheart jump onto the Hiryuu as Richard attacks the undead
+Emporer to distract him long enough for you to escape. The Hiryuu flies you
+back to Phin and Richard dies.
+Optimal equipment at this point in the game:
+Frioniel: Sun Sword, Flame Helmet, Ice Gauntlet, Diamond Shield, Diamond
+Armor(2)
+Maria: Greed Cane, Diamond Helmet, Power Gauntlet, Ice Shield, Black Armor
+Guy: Poison Axe, Spiral Helmet, Diamond Gauntlet, Ice Shield, Diamond Armor
+Also: Flame Shield
+
+Chapter 22: Jade Portal
+
+Once in Phin you will find out that the Emporer has risen from the dead and
+changed Paramekia Castle to Pandemonium Castle, which has ties to Hell.
+Lionheart will join your group to kill the Emporer now that Richard is gone.
+You learn that to get to Pandemonium Castle you will have to go through Jade
+Portal, which is located on the peninsula East of Mysidia. Lionheart will not
+leave your party, he is your fourth member from now until the end of the game.
+So buy him whatever spells you want to, since they will not be wasted on him
+when he leaves. I would recommend that you get for him, as well as everyone
+else in your party, Cure, Fire, Ice, Bolt, Safe, Shell, Heal, Life, and Holy.
+Also make sure that one person in your party has Exit, one person has Warp, one
+person has Ultima, and one person has Change. Give Lionheart's Diamond Helmet
+to Guy and give Guy's old Spiral Helmet to Lionheart.  Give Lionheart's Diamond
+Gauntlet to Frioniel and give Frioniel's old Ice Gauntlet to Lionheart.  Give
+Lionheart's Diamond Armor(2) to Maria and give Maria's old Black Armor to
+Lionheart.  Give Frioniel's old Sun Sword to Lionheart and give Lionheart the
+Flame Shield you were saving from Richard (keep in mind that at this point in
+the game Lionheart is left handed, so the sword should be in his left hand).
+Now that Richard is dead you should go to Dist Castle to tell the residents
+there that the last Dragoon now really is dead. Give the mother, Elina, the
+password Dragoon, and she will give you the Dragoon’s secret weapon, the
+Xcalibr Sword, since there are no Dragoons left to use it. Then she will tell
+you that she and her son will move on to another town, and vanish before your
+eyes. Give the Xcalibr Sword to Frioniel.Now go to the Jade Portal. Get the
+Diamond Cane in the Northeast corner of the first floor and give it to Maria.
+On the second floor there is a false wall between the staircase and first
+visible treasure chest on the floor. You do not need to go through the false
+wall to get to anything, but it is a shortcut. If you want, you can get the
+CatClaw Knife in the Southwest corner of the second floor. It is guarded by the
+B.Dragon. To defeat the B.Dragon attack it and cast Aero spells on it, or just
+use the Change trick. I do not recommend you get the CatClaw Knife since none
+of your characters are well trained in the use of Knives and it is guaded. The
+third floor is a waterfall, and when you are walking under the waterfall you
+take one damage with each step, but you can not encounter enemies while
+underneath it. Get the Rune Axe in the Northeast corner of the third floor and
+give it to Guy. It is guarded by the Behemoth(2). In the translation it is just
+called the Behemoth, but since there was already a Behemoth in the Arena and
+this one is different, for this walkthrough I will call it Behemoth(2) (I think
+it was a mistake in the translation). Anyway, the Behemoth(2) has a lot of HP,
+but is not too much of a challenge. Attack it until it dies, or use the Change
+trick on it. Underneath the waterfall is a hidden magic salesman. He sells
+Death, Berserke, Haste, and Flare. Buy Haste for everyone and buy Flare for all
+of your characters who do not already have it. In the northern room of the
+fourth floor is the Aegis Shield and Dragon Armor. Give the Aegis Shield to
+Guy, give the Dragon Armor to Maria, give Maria's old Diamond Armor(2) to Guy,
+and give Guy's old Diamond Armor to Lionheart. In the Northeast corner of the
+fourth floor is the Yoichi Bow, but it is guarded by a very strong R.Dragon. To
+defeat the R.Dragon attack it and cast Ice spells on it, or just use the Change
+trick. I do not recommend you attempt to get it though, since none of your
+characters are well trained in the use of Bows and it is guarded. Continue up
+to the sixth floor, and at the end of that floor you will be transported to
+Pandemonium Castle.
+Optimal equipment at this point in the game:
+Frioniel: Xcalibr Sword, Flame Helmet, Diamond Gauntlet, Diamond Shield,
+Diamond Armor(2)
+Maria: Diamond Cane, Diamond Helmet, Power Gauntlet, Ice Shield, Dragon Armor
+Guy: Rune Axe, Diamond Helmet, Diamond Gauntlet, Aegis Shield, Diamond Armor(2)
+Lionheart: Flame Shield, Spiral Helmet, Ice Gauntlet, Sun Sword, Diamond Armor
+
+Chapter 23: Pandemonium Castle
+
+Proceed regularly through the first three levels. There is a fake wall on the
+third level at the end of a corridor shaped like the letter L, but it is just a
+shortcut, it does not allow access to anything which you could not access
+otherwise. On the fourth floor you will have a choice between four doors. Pick
+the one all the way to the West and go as far as you can through that room
+ignoring the first treasure chest you see. You will go through several fake
+walls, and eventually you will go through one fake wall in the Northeast part
+of the room which will take you to another room where you find the Masmune
+Sword, the most powerful weapon in the game. Give it to Frioniel and give
+Frioniel’s Xcalibr Sword to Lionheart. Then go back out the way you came, and
+on your way out open the treasure box in the Northwest corner of the room. It
+holds the Genji Gauntlet, but it is guaded by Z.Borgan. He is weak against Fire
+and Cure, but he is not too tough and I would not recommend wasting your MP on
+him. Just beat him to death. Unfortunately, the Change trick does not work on
+him, but it should not be necessary. Give the Genji Gauntlet to Maria and give
+Maria’s Power Gauntlet to Lionheart.After that, leave the Western room and go
+in the next room to the East. In it you will find the Genji Helmet in the
+Northeast part of the room, but it is guarded by Tiamat. Bolt, Fire, Ice, and
+Aero heal Tiamat and he has no weaknesses, so use physical attacks or strong
+magic spells like Ultima, Flare, and Holy. However, the easiest way to beat
+Tiamat is to use the Change trick, which works on him. Give the Genji Helmet to
+Guy, give Guy's old Diamond Helmet to Frioniel, and give Frioniel’s old Flame
+Helmet to Lionheart.After that leave that room and enter the room farthest to
+the East. In the Northern part of this room is the Genji Armor, which is
+guarded by Satan. Fire heals him and he has no weaknesses. Attack him with
+physical attacks or strong magic spells, or you could just use the Change
+trick. Give the Genji Armor to Frioniel, and give Frioniel's old Diamond
+Armor(2) to Lionheart.
+Finally leave that room and enter the only one which is left, the room directly
+to the West of that one. In the Northern part of this room is the Ribbon
+Helmet, which is guarded by Asteroth. Asteroth has no weaknesses and is
+probably the toughest enemy in the game with the exception of the final boss.
+You could use physical attacks and strong magic such as Ultima, Flare, and
+Holy, or you could just use the Change trick on him too. The Ribbon Helmet’s
+defense rating is not very high, although it has other strengths such as high
+Magic Defense and invincibility to elemental attacks and status ailments.
+Depending on your type of strategy, you could give it to Lionheart, or not
+equip it at all and just skip that treasure box. Personally, I did not use
+it.Once you have gotten all the treasures on floor four, proceed to the
+Southwest corner of the room with Asteroth and you will find the warp to the
+next floor. Continue through the castle as normal until you get to level nine,
+where you will find the Emperor(2) (same thing with the 2 as Behemoth). He has
+no weaknesses; Stop, Toad, Break, Death, Warp, Cure, Mini, Change, and Exit
+heal him; and Sleep, Stone, Charm, Blind, Curse, Life, Peep, Heal, Mute, Fog,
+Sow, and Fear do not affect him. If Change heals him, then the Change trick
+obviously will not work on him. So you are going to have to fight this guy the
+hard way. Have Frioniel attack with the Masmune Sword with a Sword Weapon Skill
+level of 16. What the rest of your party does depends on their stats. If they
+are powerful in black magic (if they have a lot of intelligence) they should
+cast Flare16 on him. If they are powerful in white magic (if they have a lot of
+soul) they should cast Holy16 on him. Finally, if it is more powerful than
+either Holy of Flare, one character should cast Ultima16. Which one is more
+powerful depends on what you have chosen to level up throughout the game.
+Anyway, give every character two Elixers and use an Elixer whenever you are low
+on HP or MP. You might want to cast Haste on Frioniel at the beginning of the
+battle, it will allow him to have more than 16 hits.
+Optimal equipment at this point in the game:
+Frioniel: Masmune Sword, Diamond Helmet, Diamond Gauntlet, Diamond Shield,
+Genji Armor
+Maria: Diamond Cane, Diamond Helmet, Genji Gauntlet, Ice Shield, Dragon Armor
+Guy: Rune Axe, Genji Helmet, Diamond Gauntlet, Aegis Shield, Diamond Armor(2)
+Lionheart: Flame Shield, Ribbon or Flame Helmet (your choice), Power Gauntlet,
+Xcalibr Sword, Diamond Armor(2)

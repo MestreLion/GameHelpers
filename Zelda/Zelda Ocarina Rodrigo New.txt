@@ -1,0 +1,599 @@
+--------------------------------------------------------------------------------
+ Gold Skultullas - COMPLETED
+--------------------------------------------------------------------------------
+
+Dungeon and Area spider icons in map subscreen are *independent* !
+
+Kokiri Forest
+	Area COMPLETED
+	Deku Tree COMPLETED
+01 + deku tree 3F
+02 + deku tree 1B
+03 + deku tree 1B
+24 + Village, soft soil #01
+40 + Village, behind Twins house (house with 2 towers) [ADULT]
+50 + Village, behind "Item and Training" house (first to right). [NIGHT]
+51 + Deku Tree, B1, secret northwest room: in room with 3 Gohma Larva. Use Bomb on norwest alcove, behind flower, right of entrance. Requires Boomerang
+
+Lost Woods
+	Area COMPLETED
+	Forest Temple COMPLETED
+22 + soft soil #02 (bridge room, before ladder - Left, Left)
+23 + soft soil #03 (Forest Stage room)
+42 + soft soil #03, ride magic bean [NIGHT][ADULT]
+43 + Forest Meadow, right wall above maze near fairy hole [NIGHT][ADULT?]
+44 + Forest Temple, 1F, first room, high up the vines of right wall
+45 + Forest Temple, 1F, main room, right wall near north staircase
+46 + Forest Temple, 1F, right countryard (well room), wall next to high corner. Use hookshot on small chest
+47 + Forest Temple, 1F, left countryard (well room), up the vines
+48 + Forest Temple, B2, rotating room before boss, alcove with spider and small chest
+
+Lon Lon Ranch
+	Area COMPLETED
+04 + Arvore esquerda inicio
+06 + Behind wodden "shelter" in inner fence [NIGHT]
+35 + Outside upper window Marion's house [NIGHT]
+36 + Outer wall right of south tower [NIGHT]
+
+Market
+	Area COMPLETED
+05 + First tree in path from Market to Castle (rocks around it)
+21 + Market, first door after bridge, room with lots of small vases. Inside crate
+52 + Ganon's Castle, behind former stone gate/archway. Requires Hookshot [ADULT]
+77 + Castle, secret hole at tree with 2 grass bushes inside fences at right corner (Stone of Agony #02). Play Song of storms, then use bombs at walls
+
+Kakariko
+	Area COMPLETED
+	Well COMPLETED
+	Shadow Temple COMPLETED
+08 + Wall behind left house near gate to Death Mountain [NIGHT]
+09 + First tree near entrance [NIGHT]
+10 + Brick blocks in building site [NIGHT]
+11 + Wall outside Cursed Family house, near window [NIGHT]
+19 + Graveyard, soft soil #04
+20 + Near top of huge ladder [NIGHT]
+34 + Graveyard, right wall near Royal Family Tomb [NIGHT]
+60 + Well, B1, "inner right" room, locked door of central main area
+61 + Well, B1, "inner left" room, locked door of central main area
+62 + Well, B1, room behind bars with shield eater, left of main room. Enter via locked northeast door
+81 + Impa's House roof. Requires Longshot or Owl [NIGHT]
+82 + Shadow Temple, B3, room with invisible rotating blades and Like-Like. Near the 2 chests (1 is invisible)
+83 + Shadow Temple, B4, southest room with 2 falling spikes. Inside cage
+84 + Shadow Temple, B4, central room, behind big skull vase
+85 + Shadow Temple, B3, boat room, play Scarecrow Song after ladder near boat, then longshot to upper cage.
+86 + Shadow Temple, B4, room with 3 rotating big skulls, at wall behind skulls
+
+Death Mountain
+	Area COMPLETED
+	Dodongo Cavern COMPLETED
+	Fire Temple COMPLETED
+12 + Dodongo Cavern, 1F, room left of main area, bomb flowers at stone stairway, vines above (with another spider)
+37 + Dodongo Cavern, 1F, room left of main area, bomb flowers at stone stairway, above stairway. Use elevator to 2nd floor to enter room from other side, without exploding stairs, use vines at left.
+13 + Dodongo Cavern, 1F, northest room, past the one with 3 grabbable big blocks. Small room with a single statue defending
+38 + Dodongo Cavern, 1F, 1st room right of main area (hallway with exploding fish), ledge. Pull statue and backflip to ledge [ADULT]
+14 + Dodongo Cavern, 1F, southest room (right of hallway with exploding fish). Small room with 3 bats
+15 + Trail, between Kakariko and Dodongo Cavern, hole right wall blocked by stone
+16 + Trail, near Dodongo Cavern entrance, soft soil #05
+17 + Goron, 4F, last room left, maze of big rocks. Inside crate near northeast corner
+18 + Crater, Summit entrance, inside crate
+39 + Goron, 4F, behind rope-suspended platform in center [ADULT]
+53 + Fire Temple, 1F, room with flying floor tiles and shield eater, at stone smiley. Left of main bridge room, enter playing Song of Time
+54 + Fire Temple, 3F, maze room with rolling stones. Breakable outer wall with no visual clue. Spot with spider sound
+55 + Fire Temple, 1F, room with flying floor tiles and shield eater, at stone smiley. After key-locked and hammer-statue foor in first room.
+56 + Fire Temple, 4F, left side of dungeon. Play Scarecrow Song in rolling stone maze room to access ledge and hookshot for lifting platform
+57 + Fire Temple, 4F, left side of dungeon. Play Scarecrow Song in rolling stone maze room to access ledge and hookshot for lifting platform
+58 + Trail, last big rock before high climbable wall near summit. Where sometimes volcanic rocks fall from sky
+59 + Trail, behind red rock near bomb flower at Goron entrance [ADULT][NIGHT]
+78 + Crater, soft soil #09
+
+Zora's Domain
+	Area COMPLETED
+	Jabu-Jabu Belly COMPLETED
+	Ice Cavern COMPLETED
+07 + River, first tree near entrance (before 4 big rocks)
+25 + River, small ladder near Domain's Entrance waterfalls
+28 + Fountain, tree near blowable wall to cavern
+29 + Jabu-Jabu Belly, B1, middle room with trigger to raise water
+30 + Jabu-Jabu Belly, B1, large room beneath holes. Where princess re-spawns. Wall center
+31 + Jabu-Jabu Belly, B1, large room beneath holes. Where princess re-spawns. Wall near green thing
+32 + Jabu-Jabu Belly, 1F, last room before boss, vines
+33 + Fountain, wall near entrance, visible when climbling logs/tree "archway" in lake. Requires boomerang. [NIGHT]
+41 + Domain, right wall outside former "Diving contest" waterfall [ADULT]
+67 + River, about 3/4 to Domain entrance, a bit past a small bridge. Up high in left wall [NIGHT]
+68 + River, near high plateaus with holes, up high in right wall [NIGHT]
+69 + Ice Cavern, 1F, room with rotating double blades
+70 + Ice Cavern, 1F, room southeast of rotating double blades, next to Heart Piece. Use Blue Fire to get in. Also contains a Blue Fire source.
+71 + Ice Cavern, 1F, ice block pushing puzzle room, wall left of entrance. Requires hookshot.
+96 + Fountain, hidden hole under gray rock in front of Fairy Cave. Wall in balcony after tall ladders. Requires Silver Gauntlets.
+
+Lake Hylia
+	Area COMPLETED
+	Water Temple COMPLETED
+26 + Outside laboratory, soft soil #07
+27 + Small island with 2 short poles [NIGHT]
+49 + Outside laboratory, house wall in front of lake. Requires Boomerang [NIGHT]
+72 + Water Temple, B1, river with vortexes, about midway, wall. Use Iron Boots
+73 + Water Temple, 3F, long room with platforms in downward river. Requires Longshot
+74 + Water Temple, 1F, end of south corridor. With water fully drained, use bomb at crack to enter room, and spin attack to activate switch and open gate.
+75 + Water Temple, 3F, inside central tower
+76 + Water Temple, 1F, room before boss key, where rolling boulders appear and roll to other, already visited room
+79 + On top of the big dead tree at the island. Requires Hookshot [NIGHT]
+97 + Laboratory, inside crate in the bottom of swimming pool. Requires Iron Boots
+
+Gerudo Valley
+	Area COMPLETED
+64 + Left of plank bridge with small waterfall near entrance. Requires boomerang [NIGHT]
+65 + Soft soil #08
+66 + Behind stone pillar/archway near carpenter's boss tent. [NIGHT][ADULT]
+80 + Wall behind tent [NIGHT]
+
+Gerudo Fortress
+	Area COMPLETED
+87 + Outer wall at Fortress roof, near Big Chest from Heart Piece #32
+88 + Training Grounds horse track, at north arrow target
+
+Haunted Wasteland
+	Area COMPLETED
+	Spirit Temple COMPLETED
+89 + Desert, inside Guiding Poe's outpost
+90 + Colossus, Tree near Fairy Pond [NIGHT]
+91 + Colossus, soft soil #10
+92 + Spirit Temple, 1F, righmost room of left wing, with climbable grate and many bats [CHILD]
+93 + Spirit Temple, 3F, room after Sunface in movable block [CHILD]
+94 + Spirit Temple, 3F, corridor room before sub-boss, above the north door [CHILD]
+95 + Colossus, one of the sand hills, riding plant from soft soil #10 [NIGHT]
+98 + Spirit Temple, 1F, room with rolling rocks in "half-pipe", middle left alcove. Play Song of Time [ADULT]
+99 + Spirit Temple, 2F, giant deity statue, right wall, use scarecrow
+
+Hyrule Field
+63 + Secret hole near Gerudo entrance. Red rock and circle of small rocks (Stone of Agony #04). Use Dyn's Fire to clear webs. Requires Hammer
+00 + Secret hole at tree near eastern Castle Wall, going left from small bridge leading from Market to Kakariko (Stone of Agony #07). Use bomb
+
+Prizes:
+1 - Adult Wallet ($200)
+2 - Agony Stone (Rumble Pak)
+3 - Giant Wallet ($500)
+4 - 10 Bombchukus
+5 - Piece of Heart
+6 - $200 on every visit
+
+--------------------------------------------------------------------------------
+ Soft Soils - COMPLETED
+--------------------------------------------------------------------------------
+
+- : seen
++ : bugs
+* : magic beans
+= : all done
+
+Kokiri Forest
+01 = Village, right of Shop house
+	Gold Skultulla #24
+	Rupees in alcove
+02 = Lost Woods, Bridge (LL), before big ladder.
+	Gold Skultulla #22
+	Shortcut to bridge
+03 * Lost Woods, room with 2 enemies, tree, hidden hole grass butterflies. Beneath right enemy
+	Gold Skultulla #23
+	Gold Skultulla #47
+
+Kakariko
+04 = Graveyard, near right wall
+	Gold Skultulla #19
+	Heart Piece #13
+
+Goron
+05 = Dodongo Cavern Entrance
+	Gold Skultulla #16
+	Heart Piece #16
+
+Zora
+06 = Path to entrance, near fat guys selling Magic Beans
+	Bugs don't get in
+	Shortcut to almost all of Zora River
+
+Lake Hylian
+07 = Outside laboratory
+	Gold Skultulla #26
+	Heart Piece #17 and shortcut to many areas
+
+Gerudo Valley
+08 = Down the canyon, margin opposite of entrance, with chicken
+	Gold Skultulla #64
+	Lame shortcut to a few places, including Heart Piece #24 alcove
+
+Death Mountain
+09 = Crater, next to "Bolero of Fire" teleport marker
+	Gold Skultulla #78
+	Heart Piece #29
+
+Desert Colossus
+10 = Next to Spirit Temple entrance
+	Gold Skulltula #91
+	Gold Skulltula #92 and Heart Piece #33
+
+--------------------------------------------------------------------------------
+ Heart Pieces - COMPLETED
+--------------------------------------------------------------------------------
+
+01 + Lon Lon Ranch, jogo caixas predio atras rancho
+02 + Market, Lucky Chest game
+03 + Lost Woods, Ocarina game with 2 lost boys (R)
+04 + Lost Woods, play Saria's Song to lost boy (L)
+
+05 + Kakariko, Graveyard, 2nd grave (screaming monster), play Sun's Song
+06 + Market, Night, return puppy to lady in back alley, 2nd door left alley. White puppy behind counter in main area
+07 + Goron City, throw bomb in huge vase. Bomb flower won't work (gives rupees only)
+08 + Kakariko, Impa house, cage with cow. Enter from outside ledge when ride Owl from Death Mountain Summit
+
+09 + Zora River, high pillar about midway river, fly with chicken to ledge on left wall
+10 + Zora River, high ledge left wall near Domain's Entrance waterfalls. Use chicken
+11 + Zora Domain, light up all 5 posts from Throne room down to small room behind mini-waterfall
+12 + Kakariko, Graveyard, Dampé's Digging Game, in front of flowers's grave
+
+13 + Kakariko, Graveyard, ride plant in soft soil #04, inside crate
+14 + Kakariko, Windmill, ledge 1st floor, after beating Dampé's race
+15 + Kakariko, Graveyard, beat Dampé's race in under 1 minute (rolling)
+16 + Death Mountain Trail, above Dodongo's Cave, ride plant in soft soil #05
+
+17 + Zora Fountain, hopping ice platforms in lake
+18 + Lake Hylia, soft soil #7, top of laboraty tower
+19 + Lake Hylia, talk to Scientist after swim to bottom of Laboratory pool with Golden Scale from Fishing Pond
+20 + Lake Hylia, catch a 10 pounds or larger fish [CHILD]
+
+21 + Kakariko, reward for 50 Gold Skultullas
+22 + Death Mountain Crater, alcove in large climbable canyon wall. Enter Crater via Summit
+23 + Gerudo Valley, ledge in canyon, inside crate, with chicken
+24 + Gerudo Valley, alcove behind huge waterfall in canyon. Swim against current or use chicken to fly past waterfall and climb ladder
+
+25 + Ice Cavern, 1F, room southeast of rotating double blades, next to Gold Skultulla, trapped in Red Ice. Use Blue Fire to get in. Room also contains a Blue Fire source.
+26 + Zora Fountain, bottom of lake. Use Iron Boots
+27 + Zora River, play 6 songs to the frogs (each of first 5 is worth $50). Or pehaps just Song of Storms
+28 + Hyrule Market, Bombchu Gallery. Several prizes are available, one being the Heart Piece
+
+29 + Death Mountain Crater, top of smoking kill, ride plant in soft soil #09
+30 + Hyrule Field, secret hole near Lake Hylia entrance (Stone of Agony #05). Use Hammer at center of fenced square area, buy from Bussiness Scrub for $10
+31 + Kakariko, use hookshot for Old Lady Potion Shop blue roof and talk to slacker
+32 + Gerudo Fortress, big chest on roof. From cell go left (2F), sneak 2 guards, left ramp up, hookshot mid-wall, go to balcony, look left, longshot chest
+
+33 + Desert Colossus, on top of stone arch in front of Spirit Temple, riding plant in soft soil #10
+34 + Gerudo Horseback Archery, score 1000 points
+35 + Hyrule Field, secret hole at lone tree not far from the river in the northwest part (Stone of Agony #01). Use bomb to open hole, and Iron Boots to get heart.
+36 + Zora River, play 5 different songs to the Frogs so they all grow, then play their Ocarina game
+
+
+--------------------------------------------------------------------------------
+ Gossip Stones - 31 + 7+ holes
+--------------------------------------------------------------------------------
+
+Kokiri:
+01 * Village, near Lost Woods entrance
+	"They say that the small hole in the grounds that you can find all over Hyrule make perfect breeding ground for bugs."
+	- Use bugs on soft soils to get gold skultullas
+
+02 * Village, near Great Deku Tree roots, left side
+	"They say that the Kokiri are always followed by small fairies."
+	- storyline enhancement / spoiler: foreshadowing Link's background
+
+03 * Village, near Great Deku Tree roots, right side
+	"They say that one Kokiri has left the forest, and he is still alive!"
+	- storyline enhancement: reference to Link and his journey
+
+04 * Forest Meadows, "upper floor" in labyrinth
+	"They say that strange owl, Kaepora Gaebora, may look big and heavy, but its character is rather lighthearted."
+	- storyline enhancement: reference to Rauru being the Sage of Light
+
+05 * Forest Meadows, "upper floor" in labyrinth
+	"They say that the owl named Kaepora Gaebora is the reincarnation of an Ancient Sage."
+	- storyline enhancement: Rauru
+
+06 * Forest Meadows Dungeon entrance
+	"They say that it's possible to find a total of 100 Gold Skulltulas throughout Hyrule."
+	- Game hint
+
+07 * Lost Woods, bridge to Hyrule Field, at the end of room
+	"They say that when non-fairy folk enter the Lost Woods, they become monsters."
+	- storyline enhancement: reference to Skull Kids and foreshadowing of Lonely Boy (Cucco's Lady brother)
+
+Hyrule Market
+08 * Temple of Time entrance
+	"They say that Gerudos sometimes come to Hyrule Castle Town to look for boyfriends."
+	- bogus / storyline enhancement: reference to most Gerudos being women
+
+09 * Temple of Time entrance
+	"They say that it is against the rules to use glasses at the Treasure Chest Shop in Hyrule Castle Town Market."
+	- use lens of truth at treasure chest shop to see chest item before opening
+
+10 * Temple of Time entrance
+	"They say that Malon of Lon Lon Ranch hopes a knight in a shinning armor will come and swipe her off her feet someday."
+	- storyline enhancement: foreshadowing of Adult Link winning Epona
+
+11 * Temple of Time entrance
+	"They say that Malon set the original record in the obstacle course in Lon Lon Ranch."
+	- storyline enhancement: reference to the default 0'50" record
+
+12 * Up vine, near stone gate roof
+	"They say that if you get close to a butterfly while holding a deku stick in your hands, something good will happen."
+	- hold a Deku Stick near a Butterfly, walk away slowly: the Butterfly will follow the stick and will transform into a fairy.
+
+13 * Castle entrance, field left of bridge
+	"They say that, contrary to her elegant image, Princess Zelda of Hyrule Castle is, in fact, a tomboy!"
+	- major spoiler: reference to her disguise when Link is an adult.
+
+14 * Castle entrance, hidden hole at tree with 2 grass bushes inside fence corner
+	"They say that you may find something new in dungeons you have already finished."
+	- Go to Deku Tree with bombs and Dodongo Cavern as an Adult
+
+Hyrule Field
+15 * left of Gerudo Valley entrance. Circle of stones, must use *hammer*
+	"They say that there is a switch you can only activate by using the spin attack."
+	- Game hint, room in Water Temple
+
+Kakariko
+16 * Shadow Temple entrance
+	"They say that there is a secret near a tree in Kakariko Village."
+	- Gold Skulltulla #09
+	- Secret hole about midway between tree and stairway to well (Stone of Agony #06): 2 zombies and chest with $200
+
+Death Mountain
+17 * Goron 3F, Medigoron room, cave with fireplace reachable by bombing multiple walls
+	"They say that Ganondorf is not satisfied with ruling only the Gerudo and aims to conquer all of Hyrule!"
+	- storyline enhancement: foreshadowing Ganondorf's plan
+
+18 * Goron, 4F, last room left, maze of big rocks. Near northeast corner at end of room
+	"They say that there is a secret around the entrance to Gerudo Valley."
+	- Gold Skulltulla #63
+
+19 * Dodongo Cavern, 1F, main room, last entrance right
+	"They say that Gerudos worship Gannondorf almost like a god."
+	- storyline enhancement
+
+20 * Trail, ledge in climbable wall before Summit
+	"They say that Biggoron's Sword is super sharp and will never break."
+	- storyline enhancement: reference to Medigoron's breakable Giant's Knife
+
+21 * Crater, alcove in platform after plank bridge, to the far right of summit entrance
+	"They say that Medigoron didn't really think about his own size, so his store is really cramped."
+	- bogus / storyline enhancement
+
+Zora's Domain
+22 * River, high pillar about midway, near high plateau with hidden hole
+	"They say that there is a man who can always be found running around in Hyrule Field."
+	- reference to bunny chaser (Child) and marathon runner (Adult)
+
+23 * River, bottom left of Domain's entrance waterfall
+	"They say that Princess Zelda's nanny is actually one of the Sheikah, who many thought had died out."
+	- storyline enhancement: reference to Impa
+
+24 * Domain, below throne, in front of "speaking" ledge
+	"They say that players who select the "HOLD" option for "Z TARGETING" are the real "Zelda players""
+	- Game hint
+
+25 * Fountain, near south cave
+	"They say that you can swim faster by continuously pressing B."
+	- Game hint
+
+26 * Fountain, near north cave
+	"They say that there is a secret near the lone tree which is not far from the river in the northwest part of Hyrule Field."
+	- Heart Piece #35
+
+Lake Hylia
+27 * Near wall a bit further from Laboratory and Bridge
+	"They say that there is a secret on the road that leads to Lake Hylia."
+	Heart Piece #30
+
+28 * Southeast corner of lake
+	"They say that the chicken lady goes to the lake side laboratory to study how to make pocket sized cuccos."
+	- storyline enhancement: reference to Cojiro, the blue cucco from Kakariko's Cucco Lady
+
+29 * Southwest corner of lake
+	"They say that Ruto, the Zora Princess who is known for her selfish nature, likes a certain boy..."
+	- storyline enhancement: reference to Ruto's love for Link
+
+Gerudo Valley
+30 * Bottom of canyon
+	"They say that the thief named Nabooru, who haunts this area, is a Gerudo."
+	- bogus / storyline enhancement
+
+Desert Colossus
+31 * Northwest corner, left of Spirit Temple entrance
+	"They say that the treasure you can earn in the Gerudo Training Grounds is not as great as you may expect, given its difficulty!"
+	- Ice Arrows
+
+Holes:
+01 - Lost Woods, big rock near Goron entrance
+02 - Market, big rock left of Castle entrance
+03 - Hyrule Field, big rock south area with lots of trees
+04 - Kakariko, near Old Lady Potion House (near Windmill, past fence need to fly with chicken)
+05 - Goron entrance, circle of stones (Stone of Agony #09). Song of Storms. Chest with $200
+06 - Zora River, high ledge right wall near high plateau
+07 - Death Mountain Crater, circle of stones near Throne entrance
+	"They say that the horse Ganondorf rides is a black Gerudo stallion"
+
+--------------------------------------------------------------------------------
+ Stone of Agony Rumble Locations
+--------------------------------------------------------------------------------
+01 - Hyrule Field, lone tree not far from the river in the northwest part
+02 - Hyrule Castle, tree with 2 grass bushes inside fences at right corner
+03 - Sacred Forest Meadow, center of squared initial "room" entering from Lost Woods
+04 - Hyrule Field, near Gerudo entrance. Red rock and circle of small rocks
+05 - Hyrule Field, center of fenced square area near Lake Hylia entrance
+06 - Kakariko Village, about half way between tree and cooking lady house
+07 - Hyrule Field. From Market to Kakariko, cross the small bridge and go left, at lone tree near Castle wall
+08 - Gerudo Valley, behind tent
+09 - Death Mountain, circle of stones near Goron City entrance
+10 - Gerudo Fortress, by one of the four crates that is near to one of the entrances where the carpenters are held.
+11 - Kokiri Village, near Lost Woods entrance
+12 - Zora River, circle of stones midway from Hyrule entrance to Magic Beans seller
+13 - Zora Domain, platform in the water / Ice near the exit to Zora River
+14 - Sacred Forest Meadow, right corner near Forest Temple entrance
+
+--------------------------------------------------------------------------------
+ Fairy Fountains
+--------------------------------------------------------------------------------
+- GREAT - Death Mountain Summit, door blocked by big rock
+	Magic Bar
+	Spin Attack
+- GREAT - Hyrule Castle Entrance, behind big rock after main gate [CHILD]
+	Dyn's Fire
+- GREAT - Zoras Fountain, blowable wall north (near tree)
+	Farore's Wind
+- GREAT - Death Mountain Crater, right of throne room entrance, blocked by big red rocks
+	Double Magic Bar
+- GREAT - Desert Colossus, bombing cracked wall right of entrance
+	Nairu's Love
+- GREAT - Hyrule Castle Entrance, behind mysterious black tall monolith with Gerudo symbol. Requires Golden Gauntlet
+	Double defense (halves damage taken)
+
+- Hyrule Field, northwest corner, across the river, hole in ground
+- Forest Meadows maze, central area
+- Zora River, high plateau with hidden hole under big rock
+- Kakariko Graveyard, grave hole with rocky wall
+- Desert Colossus, play Song of Storms in rocky platform at dryied pond
+- Gerudo Fortress, outside, 1F, near the 4 boxes at middle (Stone of Agony #10)
+- Zora Domain, hidden hole in platform near exit to Zora River (Stone of Agony #13). Play Song of Storms
+
+--------------------------------------------------------------------------------
+ Big Poes - COMPLETED
+--------------------------------------------------------------------------------
+01 + Around the short fence between Lon Lon Ranch and Kokiri Forest, near gray big rock
+02 + Trees in southest of Field, near central ones
+03 + In front of Castle entrance, near road division to Lon Lon Ranch and Kakariko
+04 + Near norwest corner of Field, around river
+05 + Beneath fenced ledge between Zora River and Kakariko entrance. Approach from Kakariko so it flies towards River
+06 + Tree at Lon Lon Ranch entrance
+07 + Tree near Gerudo entrance. Grassy area before soil turns brown
+08 + Corner/Vertex of short stone wall midway Kokiri and Lon Lon Ranch
+09 + Road from Lake Hylia to Gerudo Valley, near Gerudo, at road bissection
+10 + Grass next to tall tree northwest of the southeast tress
+
+--------------------------------------------------------------------------------
+ Bottles - COMPLETED
+--------------------------------------------------------------------------------
+1 + Lon Lon Ranch, chicken game Marion's Dad left house
+2 + Kakariko, return lady's 7 chickens to pen
+3 + Lake Hylia, near Zora underwater passageway, with letter from Zora Princess. Requires Silver Scales
+4 + Get 1000 points with Poe collector by getting all 10 Big Poes.
+
+--------------------------------------------------------------------------------
+ Upgrades
+--------------------------------------------------------------------------------
+- Deku Sticks (20): Lost Woods, bridge (LL), defeat enemy at end (near gossip stone). $40
+- Deku Seeds (40): Lost Woods, tree with "bumbo" (R), hit bulls eye (100) 3 times
+- Adult Wallet (200): Kakariko, Cursed Family, 10 Gold Skultullas
+- Hilian Shield: Kakariko Graveyard, 1st grave (flowers) chest
+- Deku Seeds (50): Market, Shooting Gallery, 10 crystals. $20
+- Bombs (30): Market, Bomchaku Gallery, 3 holes. $30
+- Bombs (40): Goron City, stop rolling goron in 3F with bomb near cave.
+- Deku Sticks (30): Lost Woods, Forest Stage (hidden hole grass butterflies). Wear Monster mask #2
+- Deku Nuts (30): Lost Woods, hidden hole beneath big rock last room before Forest Meadows. 2 Scrubs, trade for $40
+- Giant Wallet (500): Kakariko, Cursed Family, 30 Gold Skultullas
+- Goron Tunic: Goron City, 3F, stop rolling goron at cave with bomb
+- Zora Tunic: Zora Domain, unfreeze King Zora with Blue Fire
+- Quiver (40): Kakariko, Shooting Gallery, after you get Bow and Arrow
+- Quiver (50): Gerudo, Horseback Shooting, score 1500 points or more
+
+--------------------------------------------------------------------------------
+ Masks - COMPLETED
+--------------------------------------------------------------------------------
+1 Fox   - Kakariko, guard gate to Death Mountain
+2 Skull - Lost Woods, lonent flute lost boy (also upgrade in Forest Stage)
+3 Scary - Kakariko, boy in graveyard [DAY]
+4 Bunny - Hyrule Field, runner, after getting 3 Spiritual Stones
+
+--------------------------------------------------------------------------------
+ Gray Rocks
+--------------------------------------------------------------------------------
++ Hyrule Field, between Kokiri and Lon Lon Ranch
++ Kakariko, Windmill
++ Ganon's Castle Entrance, near Monolith
++ Goron City, room 4F
++ Gerudo Valley, canyon ledge
+	Hole with octopuss and rupees
++ Desert Colossus
+	Hole with business scrubs (red potion, $40)
++ Zora Fountain, in front of Fairy Cave
+	Gold Skultulla #97
+
+--------------------------------------------------------------------------------
+ Secrets / To explore / folk talk
+--------------------------------------------------------------------------------
+
+Kokiri
++ Lost woods, secret hole grass butterflies
+	Forest Stage, Deku Sticks and Nuts upgrades when wearing Skull and Truth masks.
++ Lost Woods, hidden hole last room before Forest Meadows. 2 Scrubs. Weird light shine end of room. Green Navi
+	Play Sun's Song, Fairy shows
++ Green Navy in Forest Meadow, above maze, near 1st pond
+	Scarecrow Song
+
+Lon Lon Ranch
++ Back tower (2 cows), upper window and 2-stone ledge
+	Nothing. Can't use hook/longshot
+
+Market
++ Sell with C
+	Bugs: $ 50
+	Fish: $100
+	Faery: Nothing (releases fairy, no reaction)
+	No secret, he's just a buyer
+
++ Sheika: warriors that guard the Kink, long gone. One rumored to be in one in Castle
+	Impa
++ Guard that likes spirits
+	nothing really
++ Old lady about Lake Hilian: items from river end up there
+	Zora Princess letter
++ Monolith near Ganon's Castle, after ruined stone gate/archway
+	Great Fairy Cave, requires Golden Gauntlet
+
+Kakariko
++ Ugly Boy tree night, "father, mother, you disgusting"
+	Part of Biggoron's item-trading sequence
++ Windmill, inside
+	Adult Link learn Song of Storms, Young Link play it: open Well dungeon
++ Windmill, 2 windows
+	No secret: Longshot blue roof, longshot small log at 1st window, grab cuckoo at 2nd window and... just enjoy the flight view.
++ Well
+	Lens of Truth
++ Graveyard, Royal Family Tomb
+	2 Poets, learn Sun's Song
+
+Fire Temple Hints
+	Must reach ceiling room of tall pillar
+	Bomb-breakable walls sound different when hit by sword
+	Switches meant to be cut can also be bombed
+	Fake doors that fall: bomb or move out
+	When on fire, swing sword or roll
+	Arrows don't work with dancing foe. Use bombs
+	Use hammer at statue in first room
+	Thanks, now go kill the boss! :)
+
+Shadow Temple
++ Green Navy at 2 unreachable hearts, B3, room with invisible rotating blades and Like-Like
+	Song of Time a bit far away from corner
+
+Goron City
++ Medigoron, wait 5 or 6 years
+	Giant's Knife for $200 when adult. Powerful but breakable (thus useless) sword.
++ Red room with gappling hook posts after lava (and some sun inscriptions in stones)
+	Song of Time for blocks, then Longshot. Hole with business scrubs
++ Grabbable statue in throne room
+	Entrance to Crater area
++ Outside Goron City, Bomb Flower
+	Open Dodongo Cavern after receive Bracelet
+
+Lake Hylia
++ Green Navy at right pillar in 2-pillar island
+	Song of Storms for a fairy
+	Scarecrow Song for Piere
+
+Gerudo
++ Training Grounds: Block pushable with silver gauntlet
+	Use Silver Gauntlet, required to get last key to Prize
++ Valley: Marathon challenge in Tent
+	Nothing, can't beat him
+
+Desert
++ Carpet Shop
+	Hover Boots. Sells Bombchus for $200

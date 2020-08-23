@@ -1,0 +1,134 @@
+BASIC ODDS
+==========
+
+A = Some color
+O = Other color different than A
+X = color that is neither A nor O
+
+First 3 cards:
+
+1st	A	1
+	2nd	A	1/3
+		3rd	A	1/3
+		3rd	O	2/3
+
+	2nd	O	2/3
+		3rd	A	1/3
+		3rd	O	1/3
+		3rd	X	1/3
+		
+Trade with 3 cards: [AAA] (1/3 * 1/3) + [AOX] (2/3 * 1/3) = 1/9 + 2/9 = 1/3 = 33%
+
+If no trade, you have:
+AAO
+
+4th	A	1/3
+4th	O	1/3
+4th	X	1/3
+
+Trade on 4th card: [AAOA] 1/3 + [AAOX] 1/3 = 2/3 = 66%
+
+Trade with 4 cards: [3 cards] 1/3 + [4th card] 2/3 * 2/3 = 3/9 + 4/9 = 7/9 = 78%
+
+---------------------------------
+
+FLAT RATE
+=========
+
+
+Rainbow set with 5 cards
+========================
+
+  1 -     (odds of not getting any card of a color)
+= 1 - 3 * (odds of not getting any 1 color - odds not getting any 2 colors)
+
+Last term, the case for all cards same color, is counted twice in the first term,
+because the case of no 2 colors is already included in case of no 1 color for both,
+so we subtract the "overlap"
+
+= 1 - 3 * ((2/3)^5 - 1/3^5)
+= 1 - (2^5 - 1)/3⁴
+= 1 - 31/81
+
+= 50/81 = 61.17284%
+
+
+----------------------------------------
+
+CARDING ODDS
+============
+
+3 vs 1 odds: for each defender dice result n, odds for failure is (n/6)³
+
+Defender's dice:
+1	1 - (1/6)³	99,54%
+2	1 - (2/6)³	96,30%
+3	1 - (3/6)³	87,50%
+4	1 - (4/6)³	70,37%
+5	1 - (5/6)³	42,13%
+6	1 - (6/6)³	00,00%
+Average:		65,97%
+
+Formal resolution: E{n=1->6}[1 - (n/6)³] / 6
+= (1/6) * (6 -  E[(n/6)³])
+= (1/6) * (6 -  E[n³/6³])
+= (1/6) * (6 - (1/6³) * E[n³])
+= 1 - (1/6⁴) * E[n³]
+= 1 - (1/6⁴) * (6*(6+1)/2)², see https://proofwiki.org/wiki/Sum_of_Sequence_of_Cubes
+= 1 - (1/6⁴) * (1/2²) * 6² * 7²
+= 1 - (1/6²) * (1/2²) * 7²
+= 1 - 7² / (6²2²)
+= 1 - 7² / (2⁴3²)
+= 1 - 49 / 144
+= 95/144
+= 0,65972_%, c.q.d.
+
+
+BATTLE ODDS
+===========
+
+3 vs 2 odds
+
+
+
+CARDING LOSS
+============
+
+3 vs 1 odds:
+Success = Q = 95/144 = 65.97%
+Failure = q = 1-Q, also Q = 1-q
+
+2 equivalent approaches:
+
+- Success on 1st attempt = 0 loss, and explicitely add the ocupation troop
+
+Loss = 1 + 0 * Q + 1 * q * Q + 2 * q² * Q + 3 * q³ * Q + ...
+= 1 + Q * (q + 2q² + 3q³ + ... )
+= 1 + Q * E[n=1->inf](n * q^n), E = somatório
+= 1 + Q * E( q * ddx(q^n) ), derivada em q
+= 1 + Q * q * E( ddx(q^n) )
+= 1 + Q * q * ddx( E(q^n) ), somatório da derivada = derivada do somatório
+= 1 + Q * q * ddx( a1 / (1-q) ), soma da PG for |q| < 1, a1 = q
+= 1 + Q * q * ( 1 / (1-q)² )
+= 1 + Q * q / (1-q)²
+= 1 + Q * q / Q², interesting by-product: 1 + q/Q
+= 1 + Q * (1-Q) / Q²
+= 1 + (1-Q) / Q
+= 1 + 1/Q - Q/Q
+= 1 + 1/Q - 1
+= 1/Q
+
+- Success on 1st attempt = 1 loss, already including ocupation troop as loss
+
+Loss = 1 * Q + 2 * q * Q + 3 * q² * Q + 4 * q³ * Q + ...
+= Q + Q * E((n + 1) * q^n)
+= Q + Q * E(n * q^n + q^n)
+= Q + Q *(E(n * q^n) +     E(q^n))
+= Q + Q * E(n * q^n) + Q * E(q^n)
+= Q + 1/Q - 1 + Q * (q / (1-q)), using previous results
+= Q + 1/Q - 1 + Q * ((1-Q) / Q)
+= Q + 1/Q - 1 + (1-Q)
+= Q + 1/Q - Q
+= 1/Q, c.q.d.
+
+144/95 = 1.515789474

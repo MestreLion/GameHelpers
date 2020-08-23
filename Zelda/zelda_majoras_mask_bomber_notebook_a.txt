@@ -1,0 +1,1875 @@
+
+     ________________
+    |   ________    /       - THE LEGEND OF -
+    |  /       /   /_________  ____      ________      ____
+    | /       /   /\   ____  |\    /     \    _  \     \   \ 
+    |/       / / / |  |    \ | |  |       |  | \  \    /    \
+            / / /  |  |     \| |  |       |  |  \  \  /  /\  \
+           / / /   |  |___/|   |  |       |  |  |  | /  /__\  \ 
+          / O /    |   ___ |   |  |       |  |  |  |/    __    \
+         / / /     |  |   \|   |  |       |  |  |  ||   /  \   |   
+        / / /      |  |     /| |  |    /| |  |  /  /|  /    \  |
+       / / /       /| |____/ | |  |___/ | |  |_/  / |  |    |  |
+      /   /       / |________|/_________|/_______/ /____\  /____\
+     /   /_______/  |    
+    /_______________|       - MAJORA'S MASK -
+
+            ============ BOMBERS' NOTEBOOK GUIDE ============
+             
+                   ~An In-Depth FAQ Created by: Croco~
+________________________________________________________________________
+
+This Document is Copyrighted 2000 by Croco. Any reproduction of this document in 
+part or in whole without the author's consent is strictly forbidden. If the 
+reader wishes to use the FAQ for their personal and private use only, then a 
+printed copy may be made.
+
+This In-Depth FAQ to the Nintendo 64 game The Legend of Zelda: Majora's Mask 
+Features:
+     *Guide to Getting all the Happiness Seals from the characters in
+      trouble, including where to go and at what time, and descriptions
+      of what to do.
+     *Special Spoiler-Reduced Setup allows you to find the info you need
+      without ruining the experience.
+     *For those that don't care, descriptions of what goes on.
+     *Maps, Schedules, and More!
+
+Contact Me: croco64@yahoo.com (See Part 4, Section 2 for details)
+
+
+-VERSION HISTORY-
+------------------------------------------------------------------------
+This is the Final Version of the Croco Bombers' Notebook Guide for The Legend of 
+Zelda: Majora's Mask, Created 11/15/2000.
+
+Final Version- Created 11/15/00
+Finished in two versions. Nice. I'm also surprised that I haven't begun any of 
+these commentaries for the updates with the word "well" (those of you that read 
+my other FAQs may know about my constant overuse of this at the beginnings of 
+these comments). Today's update, as the Final Version, includes info for all the 
+characters, as well as a new non-Bombers' Notebook character and some FAQs. 
+
+Version 1.0- Created 11/8/00
+Before I begin blabbing about what's here, I'd like to take a moment to say that 
+this has been a very enjoyable FAQ to write. Much less stressful than a giant 
+Walkthrough and lots of fun. Now, onto what's here. In order to secure a coveted 
+Majora's Mask FAQ spot, I've sent this FAQ in a little early, and incomplete. 
+Don't worry, because by next update, I plan to have this entirely finished. What 
+is complete is Parts 1 and 4. In Part 2, I have the first five characters 
+covered, and in Part 3 I have the Clock Town Map, and the first Other Character 
+Description. That's all for now. Have fun reading. 
+
+------------------------------------------------------------------------
+
+UPDATE NOTICE: Coverage for all characters in the Bombers' Notebook is here. 
+This FAQ is now complete. 
+
+________________________________________________________________________
+
+~TABLE OF CONTENTS~
+
+I. Part 1 - Introduction
+   1. Introduction/Author's Comments
+   2. How to Read the Bombers' Notebook
+II. Part 2 - Bombers' Notebook Guide
+III. Part 3 - Bombers' Notebook Guide Supplement
+   1. Clock Town Map
+   2. Other Characters
+IV. Part 4 - Miscellaneous
+   1. Frequently Asked Questions
+   2. Closing/Contact Info
+
+___________
+
+WHERE TO GO:
+*Part 1: If you don't quite grasp exactly what the Bombers' Notebook is, are 
+having trouble figuring out the layout of what I write, or just want to read 
+what I have to say about this FAQ, go here. I recommend that everyone reads the 
+"How to Read This FAQ's Bombers' Notebook Coverage" area in Section 2, as it may 
+give you a few tips on how to read it.
+*Part 2: This is where to go to find out what to do to help people out and get 
+those Happiness Seals. Thanks to the carefully-planned setup, it can be spoiler-
+free, but I suggest reading the "How to Read This FAQ's Bombers' Notebook 
+Coverage" area in Part 1, Section 2 to see the best way to read it without 
+spoiling. 
+*Part 3: By no means do you need to look at this section, but it is helpful. Not 
+only is there a map of Clock Town (including characters' locations), but also 
+schedules and descriptions of some characters that do not appear in your 
+notebook but may be helpful to know about.
+*Part 4: This section basically wraps everything up, but there's also info on 
+how to contact me and Frequently Asked Questions from readers, which may 
+correspond to your own.
+
+
+
+________________________________________________________________________
+   _  _                                                          _  _
+  / \/ \========================================================/ \/ \
+ / /\/\ \                 PART 1: INTRODUCTION                 / /\/\ \
+/__\  /__\====================================================/__\  /__\
+
+
+     My plan about a month ago was to do a full-fledged, complete Majora's Mask 
+FAQ/Walkthrough. As the fateful day approached when this game came out, I knew I 
+was in some trouble. I had my hands full with all my other FAQs, and another new 
+FAQ was not what I needed to spend serious time on. So, at the last second I 
+chickened out and decided not to make a FAQ for Majora's Mask. But if that were 
+true, why are you reading this? Obviously I changed my mind somewhere, right? 
+Actually, it's more complicated than that. No wait, it's not. 
+     As I played the game, having a great time, I noticed that I particularly 
+enjoyed helping people out that were in the Bombers' Notebook. Eventually, it 
+dawned on me that I didn't have to make a huge walkthrough like I normally do, 
+but I could target my favorite part of the game and do a really good job. So I 
+did.
+     This is the first time I've done an In-Depth FAQ. Long, complete FAQs are 
+my normal fare, but this time I think I'll do something different. So here it 
+is: difference. Feels so strange... yet comforting.
+
+
+
+              ----- HOW TO READ THE BOMBERS' NOTEBOOK -----
+
+     In this section, I'll cover both how to read the Bomber's Notebook in the 
+game, as well as how my coverage of each person will be set up and what's what. 
+Basically, this section is for those of you who either like to read everything 
+or grasp things a little slowly. 
+
+-HOW TO READ THE IN-GAME BOMBERS' NOTEBOOK-
+The Bombers' Notebook is quite simple, but in case you don't understand it, I'll 
+go over it. The sign on top of the Milk Bar will also help you out. The book can 
+be accessed by pressing A while highlighting it on the Pause Screen.
+
+*Each square on the left side of the book is a place for a character. When you 
+talk to a character that can be placed here, whether you help them or not, their 
+picture will be placed here.
+
+*To the left of the character, there will be one or more blue bars. For each 
+blue bar, an event will occur. There are three different things that could 
+happen, marked by the following symbols:
+
+     -Exclamation Circle: This means that you have made an appointment 
+      with or a promise to a person to do something.
+     -Ribbon: This means you have received an item for helping out the
+      character.
+     -Mask Symbol: This means you have received a mask for helping out 
+      the character.
+
+The symbols will not appear until you do something. To find out when the event 
+occurs, look above the blue bar to the time table at the top. Each shaded region 
+represents a six hour period. If there are multiple blue bars over the same time 
+period, multiple events will occur.
+
+*When every event has been completed, a Happiness Seal will appear on the far 
+right. This means you have helped this character out entirely.
+
+
+-HOW TO READ THIS FAQ'S BOMBERS' NOTEBOOK COVERAGE-
+In this FAQ, there will be a consistent setup for each person. The entries will 
+go in the order that they appear in the notebook. Below is a sample setup, with 
+descriptions of each of the parts.
+
+**SAMPLE SETUP***
+________________________________________________________________________
+               
+                         ====== EXAMPLE ======
+________________________________________________________________________
+
+Description: This is the description displayed in the Bombers' Notebook.
+     It's brief, but gives you a quick overview of the person. 
+Profession: This is what the person does for a living. If they don't 
+     work, it's a hobby or interest they spend a lot of time on.
+Home: Where the character lives or usually hangs out.
+Character Relations: Here you'll find who the person knows and/or 
+     interacts with that is also in the Bombers' Notebook. 
+Other Relations: Here you'll find who the person knows and/or 
+     interacts with that is not in the Bombers' Notebook.
+Problems: Look here to find the main troubles of the character.
+Additional Info: Anything else that might be of interest about the 
+     character.
+Comments: I'll place any comments I have about the character and/or the
+     events that take place. There won't be any spoilers, though.
+Schedule: This lists the daily lives of the character, and where they 
+     are during each day. Some characters do the same things no matter
+     what, while others are affected by events. In the latter case,
+     there will be two lists: one for when nothing affects them and one
+     for when all the corresponding events take place. 
+  *Spoiler-Free Note*- If you want the least spoilers possible, look at
+     the schedule. Where the person goes will just give you a basic clue
+     as to what goes on, and may help you. However, this does not always
+     give you enough information. 
+
+*SAMPLE SCHEDULE*
+     Day 1, 8:00 AM -  Location: Stock Pot Inn     
+                       Activity: Sleeping In
+     Day 1, 10:00 AM - Location: East Clock Town  
+                       Activity: Goes for a Walk
+     Day 2, 12:00 PM - Location: Milk Bar     
+                       Activity: Drinking Milk
+                                                    ...etc. 
+
+Events/Prerequisites/Optional Events: 
+This is where you go to find the info you need in detail. Each of these are 
+different. Events are indicated in the In-Game Bombers' by blue bars. If you're 
+in the right place at the right time and do the right thing, something will 
+happen. Prerequisites are things that occur prior to an event that you must 
+fulfill, but are not indicated in your notebook. Sometimes it's a matter of not 
+doing something. Optional Events are also not indicated in the notebook, and it 
+is not necessary to complete what is indicated to succeed. However, often times 
+the story is revealed more and you may get a hint. Below is the format that each 
+of these will be setup into. 
+
+---EVENT 1---
+Location: Milk Bar                  Time: 11:00 PM
+Items Needed: Mask of Scents, Song of Soaring
+--In this space, what you have to do is given in detail. This basically explains 
+what you have to do. This may include some things that go on during the 
+process.--
+   *Spoiler-Free Note*- If you want to find more out on your own, just
+   look at the Location, Time, and Items Needed at the top. If you 
+   don't mind being told exactly what you have to do, read the text
+   below it. However, do not read beyond this point, or there is a 
+   chance of a spoiler.
+DESCRIPTION: After you do what you have to do, this part explains what
+     goes on.
+ITEMS RECEIVED: This is what you get out of the encounter, whether it be
+     a mask, a piece of heart, an item, or nothing.
+
+
+
+________________________________________________________________________
+   _  _                                                          _  _
+  / \/ \========================================================/ \/ \
+ / /\/\ \           PART 2: BOMBERS' NOTEBOOK GUIDE            / /\/\ \
+/__\  /__\====================================================/__\  /__\
+
+     In this guide, not only will you find out how to get the happiness seals 
+for every character, but you'll also find detailed info about each person, 
+including schedules, relationships, and their professions. There's even a 
+special setup to guide you through the events, with detailed directions on how 
+to complete them. For those of you that don't mind spoilers, there's 
+descriptions of the events that take place, and for those that do, I've set it 
+up in a special way to reduce spoilers (check out Part 1, Section 2's "How to 
+Read This FAQ's Bombers' Notebook Guide" to find the optimal way to read it). 
+The secrets of the universe have been revealed...
+
+
+________________________________________________________________________
+               
+                         ====== BOMBERS ======
+________________________________________________________________________
+
+DESCRIPTION: Secret Society of Justice. Helping people out 24 hours a 
+   day.
+PROFESSION: None (these are kids), but spend a lot of time helping 
+   out others.
+HOME: Clock Town
+CHARACTER RELATIONS: Jim, the Leader of the Bombers
+OTHER RELATIONS: Astral Observatory Astronomer
+PROBLEMS: Trouble shooting down Balloon (Jim), Looking for fun
+ADDITIONAL INFO: Friendly, curious children of Clock Town. They wander
+   the town, and, like most children, love to play. Though they don't 
+   take kindly to other races, they are constantly looking for new 
+   members. They also have extensive knowledge about many of the local    
+   masks, and might drop a clue about what they're for.
+COMMENTS: If you have the Bombers' Notebook, you've completed this 
+   already. Therefore, the events that follow will basically just tell 
+   you how to get the Bombers' Notebook. There are two ways to get it.
+
+-SCHEDULE- 
+     Day 1, All Day - Location: North/West/East Clock Town
+                      Activity: Walk Around, Shoot at Balloon (Jim)
+     Day 2, All Day - Location: North/West/East Clock Town
+                      Activity: Walk Around, Shoot at Balloon (Jim)
+     Day 3, All Day - Location: North/West/East Clock Town
+                      Activity: Walk Around, Shoot at Balloon (Jim)
+
+
+---EVENT 1---
+Location: North Clock Town          Time: Any Time
+Items Required: Magic Power
+
+If you've already passed the first set of three days, you'll have finished this 
+Event. If you're stuck, read on. It can be completed while you're still a Deku, 
+but you must have visited the Great Fairy in North Clock Town and have received 
+Magic Power. Wherever you are, head to North Clock Town, where Jim (the Leader 
+of the Bombers) is trying to burst the Majora Balloon. He really needs some 
+practice, because he won't get the thing down even after three days. Take pity 
+on the poor lad and shoot a bubble from your Deku snout at the balloon, causing 
+it to pop. Go over and talk to him, and he'll challenge you to a game of hide-
+and-seek. The Bombers will split up, and you have to catch them. Use your Spin 
+attack to get them. In North Clock Town, Jim hides behind the slide and another 
+Bomber hides behind the tree near the Deku Game. In East Clock Town, one Bomber 
+is near the roof of the Milk Bar. As you approach, he'll jump off holding onto a 
+Cucco. Jump down and chase him. A second Bomber in East Clock Town hangs out 
+near the bell on the veranda of Stock Pot Inn. Use the Deku Flower by the 
+Treasure Chest Shop to reach him. In West Clock Town, a single Bomber hangs out 
+in front of the Post Office. 
+
+DESCRIPTION: Once you find all the Bombers, Jim will reveal the secret code that 
+will allow you to enter the Bombers' Hideout (the shortcut to the Astral 
+Observatory). They won't allow you into the club, however, because you're a 
+Deku.
+ITEMS RECEIVED: None
+
+
+---EVENT 2---
+Location: North Clock Town          Time: Any Time
+Items Required: Deku Mask
+
+For completing this Event, you will receive the Bombers' Notebook. There are two 
+ways you can get it, but both require you to be Link. The first method is to pop 
+the Majora Balloon in North Clock Town again (with arrows or bubbles), then talk 
+to Jim as Link. You'll play another round of hide-and-seek, and if you win, the 
+Bombers' will let you join and you'll receive a Bombers' Notebook. The second 
+method is easier. Tell the code to the Bomber guarding the entrance to the sewer 
+(leading to the Astral Observatory), enter the sewer, then go back out. Go to 
+North Clock Town and talk to Jim, and he'll give you a Bombers' Notebook. 
+Simple, isn't it?
+
+DESCRIPTION: None
+ITEMS RECEIVED: Bombers' Notebook
+
+
+
+________________________________________________________________________
+               
+                           ====== ANJU ======
+________________________________________________________________________
+
+DESCRIPTION: Stock Pot Inn's innkeeper. A courteous woman.
+PROFESSION: Stock Pot Inn Innkeeper
+HOME: East Clock Town
+CHARACTER RELATIONS: Kafei, Anju's Grandmother, Gorman
+OTHER RELATIONS: Link-goro, Tortus (Father, deceased)
+PROBLEMS: Her future husband recently disappeared without a trace
+ADDITIONAL INFO: Anju is a very polite person. She works at the Stock 
+   Pot Inn, which has been owned by her family for generations. With the 
+   Carnival of Time coming up, she doesn't have any room left in the 
+   Inn, and is somewhat stressed. Combined with the fact that her lover
+   disappeared, her grandmother won't eat anything, and the giant moon 
+   is about to crush Termina, she's going through a lot right now.
+COMMENTS: Anju and Kafei's notebook entries are intertwined, and you 
+   cannot complete one without going through at least parts of the 
+   other. That being said, this is my favorite chain of events, and 
+   it's very exciting, fun... and frustrating. 
+
+-SCHEDULE-
+     Day 1, 6:00 AM -  Location: Stock Pot Inn Lobby
+                       Activity: At Check-In Desk
+     Day 1, 10:55 AM - Location: Stock Pot Inn Kitchen
+                       Activity: Goes to Get Food for Grandmother
+     Day 1, 12:00 PM - Location: Anju's Grandmother's Room
+                       Activity: Arrives at Grandmother's Room
+     Day 1, 1:00 PM -  Location: Stock Pot Inn Employee Room
+                       Activity: Takes Food To Employee Room
+     Day 1, 1:50 PM -  Location: Stock Pot Inn Lobby
+                       Activity: At Check-In Desk
+     Day 1, 8:30 PM -  Location: Stock Pot Inn Lobby
+                       Activity: Locks Up
+     Day 1, 9:05 PM -  Location: Stock Pot Inn Employees Room
+                       Activity: Goes to Bed
+     Day 2, 11:30 AM - Location: East Clock Town
+                       Activity: Goes for Walk
+     Day 2, 1:50 PM -  Location: Laundry Pool
+                       Activity: Sits on Bench and Thinks
+     Day 2, 6:00 PM -  Location: Stock Pot Inn
+                       Activity: Goes to Bed
+     Day 2, 9:30 PM -  Location: Employees Only Room
+                       Activity: Talks with Mother
+     Day 3, 6:00 AM -  Location: Stock Pot Inn Bunk Room
+                       Activity: Sweeping
+     Day 3, 12:00 PM - Location: Stock Pot Inn Employees Room
+                       Activity: Takes Break
+
+-EVENT SCHEDULE- 
+     Day 1, 6:00 AM -  Location: Stock Pot Inn Lobby
+                       Activity: At Check-In Desk
+     Day 1, 10:55 AM - Location: Stock Pot Inn Kitchen
+                       Activity: Goes to Get Food for Grandmother
+     Day 1, 12:00 PM - Location: Anju's Grandmother's Room
+                       Activity: Arrives at Grandmother's Room
+     Day 1, 1:00 PM -  Location: Stock Pot Inn Employee Room
+                       Activity: Takes Food To Employee Room
+     Day 1, 1:50 PM -  Location: Stock Pot Inn Lobby
+                       Activity: At Check-In Desk
+     Day 1, 8:30 PM -  Location: Stock Pot Inn Lobby
+                       Activity: Locks Up
+     Day 1, 9:05 PM -  Location: Stock Pot Inn Employees Room
+                       Activity: Goes to Bed
+     Day 1, 11:30 PM - Location: Stock Pot Inn Kitchen
+                       Activity: Meets for Meeting
+     Day 2, All Day -  *SAME AS DAY 1 (with exception below)*
+     Day 2, 9:30 PM -  Location: Employees Only Room
+                       Activity: Talks with Mother
+     Day 3, 6:00 AM -  Location: Stock Pot Inn Bunk Room
+                       Activity: Sweeping
+     Day 3, 12:00 PM - Location: Stock Pot Inn Employees Room
+                       Activity: Takes Break
+     Day 3, 6:00 PM -  Location: Stock Pot Inn Employees Room
+                       Activity: Waiting in Room
+
+---Prerequisite---
+Location: South Clock Town          Time: 6:00 AM (Day 1)
+Items Required: None
+
+At the start of the first day, you'll emerge from the giant Clock. Straight 
+ahead, near the entry to the Laundry Pool, a masked boy will come out and 
+deposit a letter. If you wish to complete Events 2 and beyond, you must watch 
+him deposit the letter. 
+
+
+---EVENT 1---
+Location: Stock Pot Inn Lobby       Time: 1:50 PM to 4:00 PM (Day 1)
+Items Required: None
+
+While you need to complete this event to get the happiness seal, it is not 
+required for the completion of the following chain of events. After Anju returns 
+from bringing her grandmother lunch, talk to her. Before she leaves to bring her 
+grandmother lunch, she'll ask if you're spending the night, but neither answer 
+will get you anywhere. However, from now until 4:00 she'll ask if you have a 
+reservation. Say yes.
+
+DESCRIPTION: If you say yes, Anju will check the book, and surprisingly, your 
+name is there. She'll give you the key to the "Knife Chamber", a room in the 
+middle of the hallway on the second floor. Inside is a chest with 100 rupees. 
+You can also use this key to enter the Inn at night. 
+ITEMS RECEIVED: Room Key
+
+
+---Optional Event---
+Location: Stock Pot Inn Lobby       Time: 2:10 PM to 2:30 PM (Day 1)
+Items Required: None
+
+At this short period of time, the Postman will deliver the letter deposited by 
+the masked youth earlier. Talk to either Anju or the Postman to hear the 
+conversation between them.
+
+
+---EVENT 2---
+Location: Stock Pot Inn Lobby       Time: 2:30 PM to 7:50 PM (Day 1)
+Items Required: Kafei's Mask
+
+Visit Anju at this time. Nothing will happen if you talk to her, but if you put 
+on Kafei's Mask and speak she'll be very surprised.
+
+DESCRIPTION: Anju will find out that you're also searching for Kafei if you wear 
+the mask, and she then wishes to ask a favor of you. She'll set up an 
+appointment with you at 11:30 tonight in the Inn Kitchen.
+ITEMS RECEIVED: None
+
+
+---EVENT 3---
+Location: Stock Pot Inn Kitchen     Time: 11:30 PM to 6:00 AM (Day 1)
+Items Required: None
+
+When it gets late at night, head for the Inn. If you completed Event 1, you can 
+simply waltz right in through the door. If you didn't, it'll be locked. To get 
+in, transform into a Deku and enter the Flower by the Treasure Chest Game. Jump 
+out and float over to the straw roof by the bell, then onto the veranda and into 
+the unlocked door. Go to the kitchen to meet Anju.
+
+DESCRIPTION: In the Kitchen, Anju will explain the tale of Kafei, and how she is 
+looking for him. She wishes to send him a letter, but is too afraid to do it 
+herself. She'll give you the letter and ask you to mail it. She'll tell you to 
+mail it in the morning, but you can do it during the night as well. Take it to a 
+mailbox and put it in. Before heading on to Anju's next event, you will need to 
+complete several of Kafei's events.
+ITEMS RECEIVED: Anju's Letter to Kafei
+
+
+---EVENT 4---
+Location: Stock Pot Inn             
+Time: 4:45 PM to 8:30 PM (Day 2), 6:00 AM to 12:00 PM (Day 3)
+Items Required: Pendant of Memories
+
+After completing the first of Kafei's events, return to the Stock Pot Inn and 
+deliver the Pendant of Memories to Anju. If you miss her on the third day, you 
+can also give this item to her on the first quarter of the third day.
+
+DESCRIPTION: The Pendant of Memories will remind Anju of the happiness she and 
+Kafei had, and she'll trust him. This will make her wait for Kafei's return, 
+because she believes him. After giving her the Pendant, you must go back to 
+helping Kafei, or you will not be able to complete Anju's fifth and final event.
+ITEMS RECEIVED: None
+
+
+---Optional Event---
+Location: Stock Pot Inn Employees Room
+Time: 9:30 PM (Day 2)
+Items Required: Room Key
+
+On the night of the second day, head to your room at the Stock Pot Inn (if you 
+didn't get the Room Key, you can't experience this). Go up to the area of the 
+wall that's dilapidated (Tatl will fly over to it). If you check this spot, 
+you'll overhear the conversation between Anju and her mother in the next room. 
+
+
+---EVENT 5---
+Location: Stock Pot Inn Employees Room 
+Time: 4:30 AM to 5:59 AM (Day 3)
+Items Required: None
+
+This event is also covered in the Kafei section, as Kafei and Anju will finally 
+be brought together. Therefore, I'll use the same description here as in 
+Kafei's. After helping Kafei retrieve the Sun Mask, use your Ocarina to warp 
+back to Clock Town. Head to the Inn, and go up to the Employees Room. It'll be 
+unlocked. Enter, and you'll see Anju wait for Kafei. Stick around for a while.
+
+DESCRIPTION: At 4:30 (a mere hour and a half before the moon hits Termina), 
+Kafei will finally make it to the Inn (he did have to walk all the way from 
+Ikana Canyon, you know). When he enters, he and Anju will be reunited. Not 
+caring about the moon and the fact that they'll be dead in a couple hours, they 
+combine their masks, of the Sun and Moon, as they would at their wedding. Since 
+they're so happy and have no need for the newly-created mask, they'll give it to 
+Link.
+ITEMS RECEIVED: Couple's Mask
+
+
+
+________________________________________________________________________
+               
+                           ====== KAFEI ======
+________________________________________________________________________
+
+DESCRIPTION: Strange youth seen near Laundry Pool 
+PROFESSION: Unknown
+HOME: Curiosity Shop Backroom
+CHARACTER RELATIONS: Anju, Man from Curiosity Shop
+OTHER RELATIONS: Sakon the Thief
+PROBLEMS: Hiding for unknown reasons
+ADDITIONAL INFO: As not to spoil anything, I will refrain from revealing
+   anything about Kafei here. If you wish to know, Kafei is the 
+   character with purple hair and is sporting a Keaton Mask. He lives in
+   the locked door near the Laundry Pool
+COMMENTS: As I said with Anju, it's really fun to figure this thing 
+   out. Tracking the little Kafei to his house and trying to find a way
+   in is a lot of fun. You know what? I think that in the next Majora's
+   Mask (if there is one, of course), Kafei should be the main 
+   character. That'd be cool. 
+
+-EVENT SCHEDULE- 
+     Day 1, 6:00 AM - Location: South Clock Town 
+                      Activity: Deposits Letter
+     Day 1, 7:00 AM - Location: Laundry Pool
+                      Activity: Enters Hiding Area
+     Day 2, 3:25 PM - Location: Laundry Pool
+                      Activity: Meets Postman 
+     Day 2, 4:00 PM - Location: Laundry Pool
+                      Activity: Enters Laundry Pool
+     Day 3, 6:00 AM - Location: Ikana Canyon
+                      Activity: Waiting
+
+---Prerequisite---
+If you wish to start completing Kafei's events, you must have completed Anju's 
+Events 2 and 3. After those, you can start on Kafei.
+
+
+---EVENT 1---
+Location: Laundry Pool              Time: 3:25 PM to 4:00 PM (Day 2)
+Items Required: Deposited Anju's Letter to Kafei
+
+You may want to follow the Postman around before this, or you can just be sure 
+to be at the Laundry Pool at 3:25. Wait for the Postman to arrive, then when 
+Kafei comes out to receive the letter, dash behind him and into the door. Wait 
+inside for Kafei to come in.
+
+DESCRIPTION: When Kafei comes back, talk to him. He'll take off his mask and 
+reveal that he is Kafei (if it wasn't obvious), and he'll give you the Pendant 
+of Memories to take to Anju (see Anju's events). He'll also tell you about the 
+Thief that stole his wedding mask, which he promised to meet Anju with. He's 
+waiting for the thief to sell his goods at the Curiosity Shop, and is waiting 
+for his arrival.
+ITEMS RECEIVED: Pendant of Memories.
+
+
+---Prerequisite---
+If you want to be able to complete the last two events, you must not stop Sakon 
+the Thief from stealing the Bomb Bag from the Old Lady. Make sure the Bomb Bags 
+are stolen.
+
+
+---EVENT 2---
+Location: Ikana Canyon              Time: 6:00 PM (Day 3)
+Items Required: Epona, Hookshot
+
+After delivering the Pendant to Anju, head to Ikana Valley. Do not be late, or 
+you will suffer the consequences. I suggest arriving at least an hour before six 
+(game time, of course. I should hope you don't try waiting there an hour in real 
+time...). So, where in Ikana Canyon should you go? First, you must make it up 
+the steep cliff where the phantom sits by showing it the Garo Mask. Continue 
+down the path, then when you enter the next area, head to the right. Up the 
+trail you'll come across Sakon the Thief's hideout. If you look to the left of 
+his hideout, you'll see a couple rocks. Behind them is a patient Kafei, waiting 
+for Sakon. You'll need to wait, too. Hide behind the tallest part of the rocks 
+so that Sakon doesn't see you. If he spots you, he'll leave. At 6:15, Sakon will 
+start up the path, and at 7:00 he'll open the door to his hideout. Kafei will 
+run in after him, and you should follow. 
+
+DESCRIPTION: Sakon's hideout is very large. When you enter, go through the first 
+door to catch up with Kafei. Kafei will accidentally set off an alarm, causing 
+the Sun Mask that he wants to begin to move on a conveyor belt toward a hole 
+where Sakon is waiting. You'll need to reach the end of the conveyor belt before 
+the mask drops. Follow the directions below.
+
+ -Room 1, Kafei: In the first room, push one of the blocks inward and 
+  onto the switch that opens the door for Link.
+ -Room 1, Link: Defeat the Deku Baba near the exit door.
+ -Room 2, Kafei: Don't step on the red switches, becausethey'll speed up
+  the conveyor belt. The yellow ones will slow it, and the blue one will 
+  open up the door for Link.
+ -Room 2, Link: There's two Deku Baba in here. Kill them.
+ -Room 3, Kafei: This puzzle is a tad trickier, but not by much. Move
+  the block leftmost on the top row to the right, then pull the leftmost 
+  block in the middle row back. Go down and step on the switch.
+ -Room 3, Link: There's a Wolfos in here. Fortunately, it'll only take
+  two hits to kill, and it becomes vulnerable often.
+ -Room 4: Step on both switches with Kafei and Link to get the mask.
+
+ITEMS RECEIVED: None
+
+
+---EVENT 3---
+Location: Stock Pot Inn Employee Room 
+Time: 4:30 AM to 5:59 AM (Day 3)
+Items Required: None
+
+After helping Kafei retrieve the Sun Mask, use your Ocarina to warp back to 
+Clock Town. Head to the Inn, and go up to the Employees Room. It'll be unlocked. 
+Enter, and you'll see Anju waiting for Kafei. Stick around for a while.
+
+DESCRIPTION: At 4:30 (a mere hour and a half before the moon hits Termina), 
+Kafei will finally make it to the Inn (he did have to walk all the way from 
+Ikana Canyon, you know). When he enters, he and Anju will be reunited. Not 
+caring about the moon and the fact that they'll be dead in a couple hours, they 
+combine their masks, of the Sun and Moon, as they would at their wedding. Since 
+they're so happy and have no need of the newly-created mask, they'll give it to 
+Link. 
+ITEMS RECEIVED: Couple's Mask
+
+
+
+________________________________________________________________________
+               
+                  ====== MAN FROM CURIOSITY SHOP ======
+________________________________________________________________________
+
+DESCRIPTION: Buys and sells stolen goods. Open at night only.
+PROFESSION: Curiosity Shop Proprietor
+HOME: Curiosity Shop
+CHARACTER RELATIONS: Kafei
+OTHER RELATIONS: Sakon the Thief
+PROBLEMS: Needs to Buy/Sell Items
+ADDITIONAL INFO: It's hard to tell if this guy is good or bad. While 
+   he's friends with the noble Kafei, his entire business is selling 
+   stolen items. He says that he's just providing the goods to the 
+   public, not stealing them, but he's still a dirty thief. Nonetheless,
+   he's got some good stuff and will help you out.
+COMMENTS: You cannot complete Events 1-2 and Event 3 on the same three
+   day period, so you'll need to go through at least two different times
+   to complete everything.
+
+-SCHEDULE- 
+     Days 1-3, 10:00 PM  - Location: Curiosity Shop 
+                           Activity: Opens Shop
+     Days 1-3, 5:00 AM -   Location: Curiosity Shop
+                           Activity: Closes Shop
+
+---EVENT 1---
+Location: Curiosity Shop Backroom  
+Time: 1:00 PM to 10:00 PM (Day 3)
+Items Required: Pendant of Memories
+
+To be able to enter the Backroom, you must first complete Event 1 with Kafei. On 
+the afternoon of the third day, return to the Curiosity Shop Backroom. Inside 
+will be the Man from the Curiosity Shop. Talk to him.
+
+DESCRIPTION: The Man from the Curiosity Shop will tell you about Kafei and how 
+he took off after Sakon. He'll also give you the Keaton Mask. This mask can be 
+used to summon the ghost foxes, Keatons. You know those bushes that dance around 
+after you cut one? Put on the Keaton Mask beforehand, cut them up, and when 
+they're all gone a Keaton will appear. 
+ITEMS RECEIVED: Keaton Mask 
+
+
+---EVENT 2---
+Location: Curiosity Shop Backroom   
+Time: 1:00 PM to 10:00 PM (Day 3)
+Items Required: Pendant of Memories
+
+Right after you receive the previous item, the Man from the Curiosity Shop will 
+also give you another item.
+
+DESCRIPTION: This item is a Letter to Kafei's Mama, or as she is known, Madame 
+Aroma. There are two ways to get it to her. See either the Postman or Madame 
+Aroma's entries.
+ITEMS RECEIVED: Letter to Kafei's Mama
+
+
+---Prerequisite---
+See the "Old Lady from Bomb Shop" entry. Basically, you must stop Sakon the 
+Thief from making off with the Old Lady's bomb bags. You can either prevent this 
+from happening by knocking the bomb bag from him with your sword, or shooting an 
+arrow at the bag, causing the bomb bags to explode, killing Sakon. Just make 
+sure that the bomb bag never reaches the Curiosity Shop. 
+
+
+---EVENT 3---
+Location: Curiosity Shop            Time: 10:00 PM to 5:00 AM (Day 3)
+Items Required: Giant's Wallet
+
+After making sure Sakon's delivery doesn't make it to the Curiosity Shop 
+(meaning if you've completed Events 1 and 2 this time, you'll need to start over 
+from Day 1), pay it a visit on Day 3. Instead of Bomb Bags, the Man from the 
+Curiosity Shop will have the All-Night Mask. It costs 500 rupees, which means 
+you'll need the Giant's Wallet to purchase it.  
+
+DESCRIPTION: The All-Night Mask gives you the power to stay awake as long as you 
+have it on, no matter how much you want to fall asleep.
+ITEMS RECEIVED: All-Night Mask
+
+
+
+________________________________________________________________________
+               
+                  ====== OLD LADY FROM BOMB SHOP ======
+________________________________________________________________________
+
+DESCRIPTION: Runs town bomb shop. Always open.
+PROFESSION: Sells Bombs, Bombchus, Bomb Bags
+HOME: Bomb Shop
+CHARACTER RELATIONS: None
+OTHER RELATIONS: Man from Bomb Shop, Sakon the Thief
+PROBLEMS: Wishes to Stock Big Bomb Bags
+ADDITIONAL INFO: The Old Lady from the Bomb Shop doesn't really have 
+   that much of a personality. She wants to stock the shop with Big 
+   Bomb Bags, and she'll be making a delivery soon.
+COMMENTS: For generations, the Bomb Shop's owners' dreams have been to 
+   stock Big Bomb Bags. What kind of sorry dream is that? Anyway, 
+   you'll need to help the old lady fulfill the dream, although she 
+   thinks she's got it covered.
+
+-SCHEDULE- 
+     Day 1, 12:00 PM - Location: North Clock Town 
+                       Activity: Enters Clock Town
+     Day 1, 12:30 PM - Location: West Clock Town Bomb Shop
+                       Activity: Arrives at Bomb Shop
+
+
+---EVENT 1---
+Location: North Clock Town          Time: 12:20 PM (Day 1)
+Items Required: Sword
+
+Be sure to be in North Clock Town at midnight, when the Old Lady arrives. She'll 
+walk through the town cautiously, and keep a close eye on her. 
+
+DESCRIPTION: As she walks down the path, the Old Lady's Bomb Bag is swiped by 
+Sakon the Thief. You'll need to hit him with your sword to get him to drop the 
+bag. Do not shoot an arrow, or the bag will explode. You know what? That guard 
+is pretty lazy; he just lets Sakon walk right by. If you get the sack back, the 
+Old Lady will reward you with the Blast Mask. This mask seems kinda dumb. It 
+creates an explosion, but costs some life. While this may sound idiotic, it 
+actually means you have an unlimited supply of bombs, so long as you have some 
+hearts to spare. Actually, I've recently learned that this can be prevented if 
+you put up your shield before detonating it. If you do that, you'll merely be 
+knocked back a little ways and it will not cost you any hearts.
+ITEMS RECEIVED: Blast Mask
+
+
+
+________________________________________________________________________
+               
+                          ====== ROMANI ======
+________________________________________________________________________
+
+DESCRIPTION: Young girl living at ranch with sister.
+PROFESSION: Helps Cremia Run the Romani Ranch
+HOME: Romani Ranch
+CHARACTER RELATIONS: Cremia
+OTHER RELATIONS: None
+PROBLEMS: Cows Are Being Stolen
+ADDITIONAL INFO: Romani, named after the famous ranch down Milk Road, is
+   a skilled archer. Unfortunately, even with her skills, she has a 
+   problem of the ranch's cows being stolen every year two days before
+   the Carnival of Time. To make things even worse, her older sister,
+   Cremia, doesn't believe her. 
+COMMENTS: The events involving Romani are pretty cool, and it's 
+   definitely something to see. It may help if you have the Bunny Hood.
+
+-SCHEDULE- 
+     Day 1, 6:00 AM - Location: Romani Ranch Field
+                      Activity: Running Around
+     Day 1, 6:00 PM - Location: Romani Ranch 
+                      Activity: Goes to Bed
+     Day 1, 2:30 AM - Location: Romani Ranch Field
+                      Activity: Fights Off Intruders
+     Day 1, 5:15 AM - Location: Romani Ranch
+                      Activity: Goes Back to Bed
+     Day 2, 6:00 AM - Location: Romani Ranch Barn
+                      Activity: Talking to Sister
+     Day 2, 6:00 PM - Location: Romani Ranch 
+                      Activity: Goes to Bed
+     Day 3, 6:00 AM - Location: Romani Ranch
+                      Activity: Walking Around
+
+
+---EVENT 1---
+Location: Romani Ranch              Time: 6:00 AM to 6:00 PM (Day 1)
+Items Required: Powder Keg, Bow
+
+During the daylight hours of day one, blast the boulder blocking the Romani 
+Ranch out of the way using a Powder Keg (get this in Goron Village). Once the 
+path is cleared, head to the ranch and in front of the house and barn. Here 
+Romani is running around, getting prepared for what will be happening tonight. 
+She'll ask you to help out, but first you must pass a test. 
+
+DESCRIPTION: The test Romani will give you to make sure you're good enough to 
+help requires you to ride across the ranch on Epona, popping 10 ghost-shaped 
+balloons in under 2 minutes. This shouldn't be very difficult, and beating the 
+record of 1 minute isn't even very hard. If you pass the test, you'll become a 
+ranch hand and you can go to save the ranch from the ghosts at 2:30 AM. As an 
+added bonus, you'll get to keep Epona.
+ITEMS RECEIVED: Epona 
+
+
+---EVENT 2---
+Location: Romani Ranch              Time: 2:30 AM (Day 1)
+Items Required: Bow
+
+When it gets late, head over to Romani Ranch. I suggest not arriving any later 
+than 1:45, preferably sooner. Run over to the barn and get ready for the ghosts 
+to come. They arrive at 2:30.
+
+DESCRIPTION: There are two ways to defeat the ghosts. The first, which I think 
+is more exciting, is to ride around on Epona, shooting the ghosts as you ride. 
+The second way is to put on the Bunny Hood and run around. The second is a bit 
+easier. The ghosts are easy to find by their orange glow, and they also appear 
+as white dots on the map (if you haven't purchased one, it's a good idea to). 
+Don't worry about the ones far away in the field; instead, focus on the ones 
+closer to the barn. Two commonly missed ghosts are one that comes from behind 
+the house and one that comes from the entrance along the side of the ranch. The 
+ghosts regenerate, so you'll have to wait until dawn (5:15 AM) until they're all 
+gone. It arrives faster than you'd think.
+ITEMS RECEIVED: None
+
+
+---EVENT 3---
+Location: Romani Ranch              Time: 5:15 AM (Day 1)
+Items Required: None
+
+This really isn't an event, but your reward for saving the cows from the ghosts.
+
+DESCRIPTION: Romani shows her thanks by offering you another bottle, filled to 
+the top with delicious milk from the grateful cows.
+ITEMS RECEIVED: Bottle with Milk
+
+
+
+________________________________________________________________________
+               
+                          ====== CREMIA ======
+________________________________________________________________________
+
+DESCRIPTION: Manager of Romani Ranch. Milk is her specialty.
+PROFESSION: Manager of Romani Ranch
+HOME: Romani Ranch
+CHARACTER RELATIONS: Romani, Anju, Gorman Bros. 
+OTHER RELATIONS: None
+PROBLEMS: Ranch is having a hard time
+ADDITIONAL INFO: Cremia runs Romani Ranch, and is the older sister of
+   Romani. She cares for her sister as well as the animals, and makes
+   deliveries into town. 
+COMMENTS: Cremia's events are, along with Anju, Kafei and Romani, one of
+   the coolest. You won't want to miss it. 
+
+-SCHEDULE- 
+     Day 1, 6:00 AM - Location: Romani Ranch Barn
+                      Activity: Contemplating
+     Day 1, 6:00 PM - Location: Romani Ranch
+                      Activity: Going to Bed
+     Day 2, 6:00 AM - Location: Romani Ranch Barn
+                      Activity: Milking Cows
+     Day 2, 6:00 PM - Location: Romani Ranch
+                      Activity: Getting Ready to Go to Town
+     Day 3, 6:00 AM - Location: Romani Ranch Barn
+                      Activity: Contemplating
+     Day 3, 6:00 PM - Location: Romani Ranch
+                      Activity: Going to Bed
+
+
+---Prerequisite---
+If you want to complete Cremia's events, you must also complete those of Romani. 
+If you don't, the cows that Cremia will milk will be gone, and she'll be too 
+worried about her sister to go anywhere if she could.
+
+
+---EVENT 1---
+Location: Romani Ranch              Time: 6:00 PM to 9:00 PM (Day 2)
+Items Required: Bow
+
+After completing Romani's events, return to the ranch on Day 2 at 6:00 PM to 
+meet up with Cremia. She'll be in her wagon getting ready to head into Clock 
+Town to make a delivery. Accept her invitation to ride along.
+
+DESCRIPTION: The first half of the ride will be nice and calm as you and Cremia 
+share a nice conversation. However, halfway down Milk Road, a fence has been put 
+up. Cremia will be forced to take a detour through the Gorman track. Two masked 
+bandits (hmm... I wonder who they could be... maybe the Gorman Bros.?) will 
+attack from behind, and you'll have to fend them off as Cremia dashes through 
+their territory. The bandits aren't interested in stealing the milk, but 
+crushing the competition by smashing the bottles. Use your bow and arrows to 
+discourage them from coming closer. If a milk bottle or two gets destroyed, it's 
+OK, but if you save them all you'll get an extra reward. If you want to 
+guarantee you'll save them all, put on the Circus Leader's Mask (which cannot be 
+received until after you complete this event for the first time) and the masked 
+horsemen won't attack.  
+ITEMS RECEIVED: 200 rupees (if you save all bottles)
+
+
+---EVENT 2---
+Location: Milk Road                 Time: 9:00 PM (Day 2)
+Items Required: None
+
+As long as some milk bottles remain, Cremia will be happy to have made a 
+shipment, as well as Mr. Barten for finally getting some more milk.
+
+DESCRIPTION: Protect the bottles of milk well, and Cremia will reward you with 
+Romani's Mask. This mask signifies you as an adult, but more importantly is the 
+proof of membership you need to get in the Milk Bar in East Clock Town at night.
+ITEMS RECEIVED: Romani's Mask
+
+
+
+________________________________________________________________________
+               
+                        ====== MR. DOTOUR ======
+________________________________________________________________________
+
+DESCRIPTION: Mayor of Clock Town. V.I.P.
+PROFESSION: Mayor
+HOME: East Clock Town (Mayor's Residence)
+CHARACTER RELATIONS: Madame Aroma, Kafei
+OTHER RELATIONS: Viscen 
+PROBLEMS: Can't decide whether to evacuate the city or keep the Carnival
+   of Time going.
+ADDITIONAL INFO: Mayor Dotour doesn't seem to be the ideal mayor. He's 
+   quite shy, undecisive, but really, if his feelings are brought out, 
+   he fits his position quite well.
+COMMENTS: An easy entry to complete, but you need the right item.
+
+-SCHEDULE- 
+     Days 1-3, 10:00 AM - Location: Mayor's Residence
+                          Activity: In Meeting
+
+
+---EVENT 1---
+Location: Mayor's Residence         
+Time: 10:00 AM to 8:00 PM (Days 1 & 2), 10:00 AM to 6:00 PM (Day 3)
+Items Required: Couple's Mask
+
+After completing Anju and Kafei's quest, go to the Mayor's residence during its 
+open hours and go into the door on the left and into the meeting. Put on the 
+Couple's Mask and show it to the group. 
+
+DESCRIPTION: The Couple's Mask will remind everyone of their families, and that 
+they need to see how they are instead of fighting. Mayor Dotour stops the 
+meeting once and for all by deciding that the people should decide themselves if 
+they want to stay. As thanks for ending the looong meeting (spelled like that in 
+the game), Mr. Dotour will give you a Piece of Heart.
+ITEMS RECEIVED: Piece of Heart
+
+
+
+________________________________________________________________________
+               
+                       ====== MADAME AROMA ======
+________________________________________________________________________
+
+DESCRIPTION: The Mayor's Wife. In charge of town performances.
+PROFESSION: Clock Town Entertainment Overseer
+HOME: East Clock Town (Mayor's Residence)
+CHARACTER RELATIONS: Mr. Dotour, Kafei, Toto, Gorman
+OTHER RELATIONS: None
+PROBLEMS: Her son has recently disappeared.
+ADDITIONAL INFO: Madame Aroma, is... large. She's also in charge of 
+   finding entertainment for the Carnival of Time. Unfortunately, it 
+   looks like she's going to have to cancel everything, because Toto's
+   Indigo-Go's won't be able to play. 
+COMMENTS: Madame Aroma is... big... and it's pretty easy to start out 
+   her quest... because she's so easy to find. Due to her largeness...
+   funny? No? Shut up.
+
+-SCHEDULE- 
+     Days 1-2, 10:00 AM - Location: Mayor's Residence 
+                          Activity: Discussing Performances with Toto
+     Day 1, 10:55 AM -    Location: Mayor's Residence
+                          Activity: Discussing Performances with Gorman
+     Day 3, 6:00 PM -     Location: Milk Bar
+                          Activity: Drinking (milk, of course)
+
+
+---EVENT 1---
+Location: Mayor's Drawing Room      Time: 10:00 AM to 8:00 PM (Days 1-2)
+Items Required: None
+
+This event is easy enough to complete. Head to the Mayor's Residence and into 
+the room on the right. Madame Aroma is sitting comfortably in her comfy little 
+chair. Go up and talk to her.
+
+DESCRIPTION: Madame Aroma will ask you to help find her missing son, Kafei, who 
+disappeared just a few days ago. To help with the search, she gives you Kafei's 
+Mask, and people will give you hints about Kafei when you show it to them.
+ITEMS RECEIVED: Kafei's Mask
+
+
+---Prerequisite---
+In order to complete the second event, you must first complete the Man from the 
+Curiosity Shop's second event. Only then will you get the necessary items.
+
+
+---EVENT 2---
+Location: Milk Bar                  Time: 6:00 PM to 6:00 AM (Day 3)
+Items Required: Letter to Kafei's Mama
+
+After receiving the Letter to Kafei's Mama from the Man from the Curiosity Shop, 
+wait until night and go to the milk bar (if you aren't a member, come before 
+9:00 PM). Talk to Madame Aroma, who's sitting on a stool thinking about the 
+town's grim fate. If you put on Kafei's Mask, she'll remember that she sent you 
+to find out about Kafei. Give her the letter to show her what you've done.
+
+DESCRIPTION: Happily receiving word from her lost son, Madame Aroma rewards you 
+with a new bottle filled with the delicious Chateau Romani. Chateau Romani is 
+the best-tasting milk in all of Termina. Subsequent completions of this event 
+will get you 50 rupees.
+ITEMS RECEIVED: Bottle (with Chateau Romani)
+
+
+
+________________________________________________________________________
+               
+                           ====== TOTO ======
+________________________________________________________________________
+
+DESCRIPTION: Famed Manager of the Indigo-Go's
+PROFESSION: Manager of the Indigo-Go's
+HOME: Zora Hall
+CHARACTER RELATIONS: Madame Aroma, Gorman
+OTHER RELATIONS: Lulu, Evan, Japas, Mikau
+PROBLEMS: The Indigo-Go's will have to cancel their show.
+ADDITIONAL INFO: Toto, the plump Zora who manages the incredibly-popular
+   Indigo-Go's, will have to cancel his show because Lulu, the singer 
+   for the group, has lost her voice. This really hurts the Carnival of
+   Time, and the Gorman Troupe.
+COMMENTS: He he he! He's cute and fat! Not like that fat Madame 
+   Aroma... Anyway, Toto's events will take place later in the game, 
+   so don't try to finish them right away. Although you can try and
+   fail if you'd like. 
+
+-SCHEDULE- 
+     Days 1-2, 10:00 AM - Location: Mayor's Residence 
+                          Activity: Discussing Performance
+     Days 1-2, 10:00 PM - Location: Milk Bar
+                          Activity: Wondering About Performance
+
+
+---EVENT 1---
+Location: Milk Bar                  Time: 10:00 PM to 6:00 AM (Days 1-2)
+Items Required: Deku Mask, Goron Mask, Zora Mask, Romani's Mask
+
+After completing Cremia's event, and collecting all of the transformation masks, 
+head to the Milk Bar during its hours of operation. Toto will be standing by the 
+stage, wondering what the performance would've been like. Give him a sample by 
+talking to him in each of the transformations, then going where he says on the 
+stage and playing what he says.
+
+DESCRIPTION: After all four characters have played, the song will be put 
+together. It's none other than the famous "Ballad of the Wind Fish". This song 
+will touch Gorman, who's also at the bar. He'll give you the Circus Leader's 
+Mask for bringing back memories of hearing the tune.
+ITEMS RECEIVED: Circus Leader's Mask
+
+
+
+________________________________________________________________________
+               
+                          ====== GORMAN ======
+________________________________________________________________________
+
+DESCRIPTION: Leader of a traveling troupe. Has fine clothes, but a 
+   frightful face.
+PROFESSION: Leader of the Gorman Troupe
+HOME: Unknown 
+CHARACTER RELATIONS: Gorman Bros., Rosa Sisters, Madame Aroma, Guru-Guru
+OTHER RELATIONS: Twin Jugglers, Mr. Barten 
+PROBLEMS: Troupe's Performance has been Cancelled
+ADDITIONAL INFO: Gorman has left the family business of raising horses
+   and entered show business. Since his face would frighten children, 
+   he's not in the act, but instead manages the troupe. Madame Aroma 
+   had called upon the Gorman Troupe to do the Opening Act for the 
+   Indigo-Go's, but now that they've cancelled, the Troupe's 
+   performance is off.
+COMMENTS: Gorman isn't a very kind fellow, much like his Bros. It's 
+   probably due to the stress in his life and the recent cancellation 
+   of the Troupe's Performance... poor Gorman. Anyway, Gorman's events 
+   are linked directly to Toto's, so if you finish Toto's you'll finish
+   Gorman's. Comprendez-vous?
+
+-SCHEDULE- 
+     Day 1, 6:00 AM -     Location: Stock Pot Inn
+                          Activity: Waiting In Inn Lobby
+     Day 1, 10:00 AM -    Location: Mayor's Residence
+                          Activity: Enters Mayor's Residence
+     Day 1, 10:55 AM -    Location: Mayor's Drawing Room
+                          Activity: Meets with Madame Aroma
+     Day 1, 11:45 AM -    Location: Mayor's Residence
+                          Activity: Leaves
+     Day 1, 1:00 PM -     Location: Milk Bar
+                          Activity: Enters and Thinks
+     Days 1-2, 10:00 PM - Location: Milk Bar
+                          Activity: Thinking & Drinking
+     Day 2, 6:00 AM -     Location: Stock Pot Inn
+                          Activity: Sleeping
+     Day 2, 9:10 PM -     Location: East Clock Town
+                          Activity: Leaves Inn for Milk Bar
+
+
+---EVENT 1---
+Location: Milk Bar                  Time: 10:00 PM to 6:00 AM (Days 1-2)
+Items Required: Deku Mask, Goron Mask, Zora Mask, Romani's Mask
+
+Gorman goes to the Milk Bar at night to drink away his sorrows. To complete his 
+event, you must help Toto out. Here's what to do. Toto will be standing by the 
+stage, wondering what the performance would've been like. Give him a sample by 
+talking to him in each of the transformations, then going where he says on the 
+stage and playing what he says.
+
+DESCRIPTION: After all four characters have played, the song will be put 
+together. It's none other than the famous "Ballad of the Wind Fish". This song 
+will touch Gorman (even though he hates it before it's done). He'll give you the 
+Circus Leader's Mask for bringing back memories of hearing the tune.
+ITEMS RECEIVED: Circus Leader's Mask
+
+
+
+________________________________________________________________________
+               
+                          ====== POSTMAN ======
+________________________________________________________________________
+
+DESCRIPTION: Town's postal carrier. A very serious public servant.
+PROFESSION: Postman of Clock Town
+HOME: West Clock Town
+CHARACTER RELATIONS: Anju, Kafei 
+OTHER RELATIONS: None
+PROBLEMS: His Job is Very Demanding
+ADDITIONAL INFO: The Postman is incredibly serious about his job, and 
+   when he's not doing it, he's practicing to do a better job. As much 
+   as he loves his job, he longs to get away from the trouble.
+COMMENTS: It's kinda comforting seeing this guy running around 
+   collecting letters, and it really portrays the fact that people do
+   things only at certain times of the day in this game. 
+
+-SCHEDULE- 
+     Days 1-3, 9:00 AM -  Location: Clock Town 
+                          Activity: Begins to Pick Up Mail
+     Days 1-3, 12:00 PM - Location: West Clock Town
+                          Activity: Arrives Back from Picking Up Mail
+     Days 1-3, 1:00 PM -  Location: Clock Town
+                          Activity: Begins to Deliver Mail
+     Days 1-3, 3:00 PM -  Location: West Clock Town
+                          Activity: Arrives Back from Delivering Mail
+     Days 1-2, 3:00 PM -  Location: Post Office
+                          Activity: Practicing
+
+
+---EVENT 1---
+Location: Post Office               Time: 3:00 PM to 12:00 AM (Days 1-2)
+Items Required: None
+
+At this time, the Postman will be training. His strange game is to guess the 
+exact time when 10 seconds (real time) have passed, with only looking at clock 
+for the first couple seconds. He'll let you try it out (if you fail the first 
+time, it'll cost you two rupees every additional time you try). Since the timer 
+goes to the hundredths place, this is somewhat difficult. Actually, I got it on 
+my second try so I wouldn't know :). Pay attention to the clock at the 
+beginning, because it ticks with a rhythm. Keep it in your head and count the 
+seconds. I like to think "1 tick tick tick 2 tick tick tick 3 tick tick tick", 
+etc. until it reaches ten. Also, I've recently learned that if you put on the 
+Bunny Hood during this game, not only will the timer reduce to the tenths place, 
+but it'll stay on the screen the entire time. This will make completing this 
+event much easier.
+
+DESCRIPTION: If you stop the timer on exactly 10'00", the Postman will reward 
+you with a Piece of Heart.
+ITEMS RECEIVED: Piece of Heart
+
+
+---EVENT 2---
+Location: Postbox                  
+Time: 12:00 AM (Day 1) to 12:00 PM (Day 2)
+Items Required: Anju's Letter to Kafei
+
+This event is part of the Anju and Kafei events. Deposit the letter that you 
+receive in Anju's Event 3 before the Postman comes. When he picks it up, you'll 
+complete this event.
+
+DESCRIPTION: None
+ITEMS RECEIVED: None
+
+
+---EVENT 3---
+Location: East Clock Town           Time: 6:00 PM to 6:00 AM (Day 3)
+Items Required: Letter to Kafei's Mama
+
+Although you can deliver the letter you receive from the Man from the Curiosity 
+Shop directly to Madame Aroma, the only way to complete the Postman's last event 
+is to have him do it. Go to the post office, and you'll find the Postman wishing 
+he could flee. Give him the letter and he'll recognize the priority seal and 
+deliver it right away.
+
+DESCRIPTION: Follow the Postman to the Milk Bar, where he'll give the letter to 
+Madame Aroma. After receiving word from her son, Madame Aroma will tell the 
+Postman to flee town, regardless of his job. After he exits the Milk Bar, go 
+outside. By the East Clock Town exit gate, you'll find the Postman. Talk to him, 
+and he'll thank you for helping relieve him of his life-threatening duty by 
+giving you the Postman's Hat. With this you can check Mailboxes like the 
+Postman. While you can't pick up letters, every time you check you'll get one 
+rupee. Also, the first time you check a mailbox you'll get a Piece of Heart. 
+ITEMS RECEIVED: Postman's Hat
+
+
+
+________________________________________________________________________
+               
+                       ====== ROSA SISTERS ======
+________________________________________________________________________
+
+DESCRIPTION: Twin dancers. Members of the Gorman Troupe.
+PROFESSION: Dancers in the Gorman Troupe
+HOME: Unknown (though it is some village, perhaps Ikana)
+CHARACTER RELATIONS: Gorman, Guru-Guru, Kamaro
+OTHER RELATIONS: Twin Jugglers
+PROBLEMS: Need to learn a new, exciting dance for Carnival
+ADDITIONAL INFO: The twin sisters in the Gorman Troupe, Judo (in red)
+   and Marilla (in blue), are feverishly practicing and thinking of a 
+   new, exciting dance they might be able to do. So far, they've been 
+   unsuccessful.
+COMMENTS: None really. Once you get all the stuff you need for this, 
+   it's quite simple.
+
+-SCHEDULE- 
+     Days 1-2, 6:00 AM - Location: Stock Pot Inn
+                         Activity: Pacing, Thinking
+     Days 1-2, 6:00 PM - Location: West Clock Town
+                         Activity: Practicing Dances
+
+
+---EVENT 1---
+Location: West Clock Town           Time: 6:00 PM to 6:00 AM (Days 1-2)
+Items Required: Kamaro's Mask
+
+If you want to be able to complete the Rosa Sisters' one and only event, you 
+must first complete Kamaro's event. After you do so, head to West Clock Town at 
+night. The Rosa Sisters will be practicing a pathetic dance. Show 'em how to do 
+some real dancing by slapping on Kamaro's Mask and doing the Kamaro Dance. 
+
+DESCRIPTION: The girls will love the dance so much, not only will they call you 
+their "master", but they'll give you a Piece of Heart.
+ITEMS RECEIVED: Piece of Heart
+
+
+
+________________________________________________________________________
+               
+                            ====== ??? ======
+________________________________________________________________________
+
+DESCRIPTION: (Person living in the Inn's restroom) Details are unknown.
+PROFESSION: Unknown (maybe cleaning toilets)
+HOME: Inn Restroom
+CHARACTER RELATIONS: None
+OTHER RELATIONS: None
+PROBLEMS: Umm... had an "accident"
+ADDITIONAL INFO: Not much is known about this guy other than what his
+   hand looks like and that he lives in the toilet at the Stock Pot Inn.
+COMMENTS: This is one of the most bizarre events. See for yourself.
+
+-SCHEDULE- 
+     Days 1-3, 12:00 AM - Location: Stock Pot Inn Restroom 
+                          Activity: Unknown 
+
+
+---EVENT 1---
+Location: Stock Pot Inn Restroom    
+Time: 12:00 AM to 6:00 AM (Days 1-3)
+Items Required: Land Title Deed, Letter
+
+Head to the Inn late at night to witness this strange occurrence. If you don't 
+have a key, go in through the unlocked door on the veranda (use the Deku Flower 
+by the Treasure Chest Shop). If you don't know where the Restroom is, it's 
+across the hall from Anju's Grandmother's Room (the study). When you enter, 
+???'s hand will rise from the toilet, and he'll scream for some paper (it's up 
+to your imagination to figure out why). Give him either a Land Title Deed or a 
+Letter, any kind of each will do.
+
+DESCRIPTION: ??? will be very happy that you got him out of his mess (at least 
+one of the messes), and he'll give you a Piece of Heart as thanks.
+ITEMS RECEIVED: Piece of Heart
+
+
+
+________________________________________________________________________
+               
+                    ====== ANJU'S GRANDMOTHER ======
+________________________________________________________________________
+
+DESCRIPTION: Storyteller and grandmother at Inn.
+PROFESSION: None
+HOME: Clock Town (Stock Pot Inn)
+CHARACTER RELATIONS: Anju
+OTHER RELATIONS: Tortus
+PROBLEMS: Living in the past
+ADDITIONAL INFO: A hideous person, Anju's old grandmother has sort of 
+   lost her mind and thinks she is in the past. Through talking, you 
+   can learn that she was a teacher, one of her students being Mayor
+   Dotour himself. She's also mother of Tortus, who died recently. She
+   dislikes her granddaughter's food, so she tries to trick Anju out
+   of giving it to her. She enjoys telling stories.
+COMMENTS: This is one of those events that you won't be able to 
+   complete until later.  
+
+-SCHEDULE- 
+     Days 1-3, 8:00 AM - Location: Stock Pot Inn 
+                         Activity: Reading Stories 
+     Day 3, 6:00 PM -    Location: Romani Ranch
+                         Activity: Flees Clock Town
+
+
+---EVENT 1---
+Location: Stock Pot Inn Study       Time: 8:00 AM to 12:00 PM (Days 1-2)
+Items Required: All-Night Mask
+
+Since you normally fall asleep during the Old Lady's stories, put on the All-
+Night Mask (see Man from the Curiosity Shop entry) and ask her to read the 
+"Carnival of Time Story". After the story is over, answer her question with the 
+first choice.
+
+DESCRIPTION: Since you paid attention to her story, she'll reward you with a 
+Piece of Heart.
+ITEMS RECEIVED: Piece of Heart
+
+
+---EVENT 2---
+Location: Stock Pot Inn Study       Time: 8:00 AM to 12:00 PM (Days 1-2)
+Items Required: All-Night Mask
+
+Do the same things as Event 1, but this time choose to read the "Four Giants" 
+story. When the story is over, choose the second choice ("I dunno") for your 
+answer. 
+
+DESCRIPTION: Anju's Grandmother will be happy that you at least listened, and 
+will give you another Piece of Heart.
+ITEMS RECEIVED: Piece of Heart
+
+
+
+________________________________________________________________________
+               
+                          ====== KAMARO ======
+________________________________________________________________________
+
+DESCRIPTION: Ghost of a charismatic dancer. Enjoys Moonlight.
+PROFESSION: Dancer (in life)
+HOME: Unknown
+CHARACTER RELATIONS: Rosa Sisters
+OTHER RELATIONS: None
+PROBLEMS: Troubled Spirit
+ADDITIONAL INFO: You don't meet up with many ghosts in your notebook.
+   This guy dances to a ghostly (or at least high-pitched) tune every
+   night. 
+COMMENTS: Finding this guy is the hard part. Very hard. If you want to 
+   find him yourself, don't read any further.
+
+-SCHEDULE- 
+     Days 1-3, 12:00 AM - Location: Termina Field
+                          Activity: Dancing
+
+
+---EVENT 1---
+Location: North Termina Field       Time: 12:00 AM to 6:00 AM (Days 1-3)
+Items Required: Song of Healing
+
+This guy dances every night in Northern Termina Field, near the entrance to 
+Snowhead. He's on top of one of the mushroom-shaped rocks near the cliff. You'll 
+know you're close when you hear the music. Go up to the top of the cliff (closer 
+to the Clock Town wall) and jump to the top of the rock formation. Talk to this 
+crazy guy. 
+
+DESCRIPTION: Kamaro will tell you about how troubled he is, and that he is also 
+a spirit of a famous dancer. If you paid attention when you got the Song of 
+Healing, the Happy Mask guy told you it would heal troubled spirits. Hmm... what 
+to do? Whip out your Ocarina and play the Song of Healing, and he'll give you 
+Kamaro's Mask, which allows you to dance. 
+ITEMS RECEIVED: Kamaro's Mask
+
+
+
+________________________________________________________________________
+               
+                           ====== GROG ======
+________________________________________________________________________
+
+DESCRIPTION: Cucco Shack's breeder. His crest is frightful.
+PROFESSION: Breeds Cuccos
+HOME: Romani Ranch
+CHARACTER RELATIONS: None
+OTHER RELATIONS: None
+PROBLEMS: His last request is to see his Cuccos grow up. 
+ADDITIONAL INFO: This guy is rather depressed, but it seems he's rather
+   content with his life. The only thing that would make him happier 
+   before the moon strikes is to see his Cuccos "in their prime". 
+COMMENTS: This one's pretty obvious if you've completed the necessary
+   events and paid attention to what everyone's said along the way.
+
+-SCHEDULE- 
+     Days 1-3, 6:00 AM - Location: Cucco Shack (Romani Ranch) 
+                         Activity: Watching Cuccos 
+
+
+---EVENT 1---
+Location: Romani Ranch Cucco Shack 
+Time: 6:00 AM to 8:00 PM (Days 1-3)
+Items Required: Bremen Mask
+
+The Cucco Shack, located opposite the entrance to Romani Ranch, is where Grog 
+spends his time. If you've received the Bremen Mask from Guru-Guru, perhaps you 
+also heard him say that the mask helped animals mature quickly. Put it on, and 
+march around the area. When you get near a Cucco, it'll follow you. Once they're 
+all following you, they'll change into adults. 
+
+DESCRIPTION: Grog, delighted to see his Cuccos as adults, will give you the 
+Bunny Hood. One of the more helpful masks, this increases your speed.
+ITEMS RECEIVED: Bunny Hood
+
+
+
+________________________________________________________________________
+               
+                       ====== GORMAN BROS. ======
+________________________________________________________________________
+
+DESCRIPTION: Horse Trainers. Suspicious.
+PROFESSION: Horse Trainers
+HOME: Milk Road
+CHARACTER RELATIONS: Gorman
+OTHER RELATIONS: None
+PROBLEMS: Romani Ranch's quality products are hurting their business.
+ADDITIONAL INFO: The older and younger brothers of the Gorman Troupe 
+   leader, Gorman. They will do anything to get ahead of Romani Ranch,
+   which is stealing their business. They also have a huge horse track
+   fit for races.
+COMMENTS: You'll probably finish this without thinking if you go
+   through Romani's events, but if you don't, here's how.
+
+-SCHEDULE- 
+     Days 1-3, 6:00 AM - Location: Gorman Track 
+                         Activity: Selling Milk, Taking on Challengers 
+
+
+---EVENT 1---
+Location: Gorman Track              Time: 6:00 AM to 6:00 PM (Days 1-3)
+Items Required: Epona
+
+Once you get Epona back, go down Milk Road and to the Gorman Track. Speak to the 
+older Gorman Brother (near the track) while on Epona, and he'll challenge you to 
+a horse race. In the race, there is one main rule to follow: always stay on the 
+inside of the track. It is imperative to jump over the fences on the inside 
+instead of going around them. Don't be afraid to consume energy, and remember 
+that it is quicker to regain all your energy if you use it all. If you time your 
+speed boosts just right, you should be able to win fairly easily. 
+
+DESCRIPTION: The Gorman Bros., surprised that you won, will reluctantly hand 
+over the Garo Mask. This is an important mask late in the game, as it can summon 
+the legendary Garo warriors.
+ITEMS RECEIVED: Garo Mask
+
+
+
+________________________________________________________________________
+               
+                           ====== SHIRO ======
+________________________________________________________________________
+
+DESCRIPTION: The inconspicuous soldier. He really doesn't stand out.
+PROFESSION: Soldier
+HOME: Unknown (probably Clock Town)
+CHARACTER RELATIONS: None 
+OTHER RELATIONS: None
+PROBLEMS: No one notices him.
+ADDITIONAL INFO: This poor guy is passed by everyone that walks past
+   him. But there must be a reason...
+COMMENTS: This guy is the only person in the Bombers' Notebook that can
+   be helped at any time of any day. As for me, I feel kinda sorry for 
+   this guy. I don't know why. Maybe because he's named Shiro. Aww...
+
+-SCHEDULE- 
+     Days 1-3, 6:00 AM - Location: Ikana Canyon 
+                         Activity: Waiting 
+
+
+---EVENT 1---
+Location: Road to Ikana             Time: Any Time
+Items Required: Epona, Lens of Truth, Red Potion
+
+Once you can get into the Ikana Canyon (you need Epona), you can visit Shiro. 
+However, this guy's invisible. Put on the Lens of Truth to be able to spot him. 
+He sits in a circle of stones near the straight-up cliff that you hookshot up. 
+Talk to Shiro to hear his dilemma. 
+
+DESCRIPTION: Shiro has been waiting here, hurt, for a long time, but no one 
+notices him. Bring him some Red Potion to cure his wounds. After he feels 
+better, the reason he's invisible will become clear: he's been unintentionally 
+wearing the Stone Mask, which makes its wearer invisible. He'll give it to you a 
+present for helping him out.
+ITEMS RECEIVED: Stone Mask
+
+
+
+________________________________________________________________________
+               
+                         ====== GURU-GURU ======
+________________________________________________________________________
+
+DESCRIPTION: Musician in the Gorman Troupe
+PROFESSION: Musician 
+HOME: Unknown
+CHARACTER RELATIONS: Gorman, Rosa Sisters
+OTHER RELATIONS: Twin Jugglers
+PROBLEMS: Has secret guilt.
+ADDITIONAL INFO: Guru-Guru provides music for the Gorman Troupe's 
+   performances. He seems like a nice guy, but he has another side.
+COMMENTS: Man, this guy's song sticks in your mind. Do-do dooo, 
+   do-do dooo, doo doo dooo-do-do-do... man, I'm good at singing. In
+   case you're wondering, yes it is the Song of Storms (this is the 
+   windmill guy from Ocarina of Time). And that la-la leee also sticks
+   in your head. Guru-Guru, where would we be without you?
+
+-SCHEDULE- 
+     Days 1-2, 6:00 AM - Location: Stock Pot Inn
+                         Activity: Practicing Song
+     Days 1-2, 6:00 PM - Location: Laundry Pool
+                         Activity: Practicing Song
+
+
+---EVENT 1---
+Location: Laundry Pool              Time: 6:00 PM to 6:00 AM (Days 1-2)
+Items Required: None
+
+Guru-Guru's music was too loud at the Inn, so at night he goes down to the 
+Laundry Pool to play his catchy tune. Talk to him while he plays at night.
+
+DESCRIPTION: Since he's away from everyone else, Guru-Guru will be open to you 
+and confess some things of his past. His mood swings are strange, but after you 
+hear him out, he'll give you the Bremen Mask for listening. This mask allows you 
+to march.
+ITEMS RECEIVED: Bremen Mask
+
+
+
+
+________________________________________________________________________
+   _  _                                                          _  _
+  / \/ \========================================================/ \/ \
+ / /\/\ \      PART 3: BOMBERS' NOTEBOOK GUIDE SUPPLEMENT      / /\/\ \
+/__\  /__\====================================================/__\  /__\
+
+     In this part of the Bombers' Notebook FAQ, I'll basically give you 
+additional information that relates to the Bombers' Notebook. This includes a 
+map so artistically drawn (in ASCII art, of course) by myself, as well as 
+descriptions and schedules of some major characters that don't appear in the 
+Bombers' Notebook, such as the greedy Sakon the Thief.
+
+
+                       ----- CLOCK TOWN MAP -----
+                                                   ____________________
+---NORTH CLOCK TOWN---                            |~~~~~~~~KEY~~~~~~~~~|
+                                                  || | = Exit          |
+              To Termina Field (Snowhead)         |O = Hole            |
+                          ^                       |o = Bush            |
+                          |                       |X = Mailbox         |
+                  ______|   |______________       |= = Path            |
+                 |     | ===    o o  _  _  |      |RS = Rosa Sisters   |
+                _|  |  | ===   o o o|_||_| |      |   (Nighttime Only) |
+   To Great <--     |  | ===T   o o   _| | |      |J = Jim (Bomber)    |
+Fairy's Fountain_   |  | ====        |___| |      |T = Tingle (Balloon)|
+                _|__|=========   X         |_     |S = Owl Statue      |
+               |    | =====J===============       |TC = Treasure Chest |
+To Deku Game<--|O   |    ================== _--   |B = Bell            |
+               |____|_____=====____________|   |  |+ = Deku Flower     |
+                          |   |                V  |~ = Water           |
+                            |        To East Clock|/ = Covered Area    |
+                            V             Town    |T = Treasure Chest  |
+                   To South Clock Town            |- = Stairs          |
+                                                  |L = Link-Goro's Spot|
+---SOUTH & EAST CLOCK TOWN---                     |____________________|
+                                        -EAST CLOCK TOWN-
+        -SOUTH CLOCK TOWN-                    To Mayor's Office
+                                                 ____| |______ 
+               To North Clock Town <---        _|             |    To
+                        ^              |______                |_ Astral
+                        |             ________ _               _ Observ-
+                ______|   |______    |Stock Pot |             |   atory
+              _|                 |   |Inn ______|      _X_____|
+To West  <---       ________     |   |   |      |-----|Milk|--|
+Clock Town    _   S| CLOCK  |    |   |   |      |-----|Bar |--|
+               |   |_      _|   X|_  |___|______|-----|____|--|      
+               |__  |______|       <->                     |__|_To East
+               |~~|               _   _                    -->  Termina 
+               |~~|         _____|     |L                   ____ Field 
+               |__|        |~~~|    ___|                   |__  (Ikana
+               |           |___|   |   |                      |  Canyon)
+              _|   _       _   |   | + |                      |_        
+To West  <---     |/|     |/|  |   |___|______             _X___Honey &
+Clock Town    _   |_|     |_|  |       TC Game|           |_   Darling's
+               |       __      |_    _________|             |
+               |__    |  |       <-->                      _|
+               |--|   |__|      _    _                   _|    
+               |--|X        ___|__    |_________________| Shooting       
+To Laundry    _|--|        |///| T|                       Gallery
+   Pool  <--- ____|___     |___|__|
+                      |   |
+                        |
+                        V
+            To Termina Field (Woodfall)
+                                                     To South Clock Town
+---WEST CLOCK TOWN & LAUNDRY POOL---                             ^
+            -WEST CLOCK TOWN-                -LAUNDRY POOL-      |
+       To Sword School   To Post Office   To Curiosity Shop Backroom  
+               ___| |____| |__               | |________________| | 
+             _|               |             |  |~~~~|       ______|
+To West  <---                 |_            |  |~~~~|      |        
+Termina Field_                 -->To South  |  |~~~~|      |   
+(Great Bay)   |         RS     _Clock Town  |  |~~~~|___   | 
+              |               |             |  |~~~~~|     |
+              |_        ______|             |  |_____|B_   |
+                \       \                   |__|_____|_____|
+  To Bomb Shop<--\       \
+                  \       \Clock Town   
+ To Trading Post<--\       \ Bank
+                    \       \
+ To Curiosity Shop<--\       \__
+                      \          ---> To South Clock Town
+                       \________
+
+
+                      ----- OTHER CHARACTERS -----
+
+     There are a bunch of other characters in Majora's Mask that aren't in the 
+Bombers' Notebook, yet still have interesting schedules and are related to the 
+other characters. While I won't list every character in the game here, I will 
+list some that have actual schedules and descriptions.
+
+
+======SAKON THE THIEF======
+PROFESSION: Thief 
+HOME: Ikana Canyon
+CHARACTER RELATIONS: Man from Curiosity Shop, Kafei, 
+   Old Lady from Bomb Shop
+OTHER RELATIONS: None
+ADDITIONAL INFO: Sakon, while appearing as a nice, happy person, is 
+   really a ruthless thief. He'll steal just about anything from just 
+   about anybody, and usually sells his stolen goods to the Curiosity 
+   Shop. He's a key character in several events, although he is the bad 
+   guy.
+
+-SCHEDULE-
+     Days 1-2, Day -   Location: Ikana Canyon
+                       Activity: Prancing
+     Day 1, Night -    Location: North Clock Town
+                       Activity: Stealing Bomb Bag
+     Day 2, 12:00 AM - Location: Curiosity Shop
+                       Activity: Selling Bomb Bag to Curiosity Shop
+     Day 3, 6:10 PM -  Location: Ikana Canyon
+                       Activity: Returns to Hideout
+
+
+======MR. BARTEN======
+PROFESSION: Bartender at Milk Bar 
+HOME: East Clock Town
+CHARACTER RELATIONS: Gorman, Madame Aroma, Toto, Kafei
+OTHER RELATIONS: None
+ADDITIONAL INFO: Mr. Barten (who is quite fittingly named) runs the
+   Milk Bar in East Clock Town. He doesn't really have a whole lot of
+   personality, but only lets those in the bar that have membership and
+   makes them display it the entire time they're in the bar. He lets
+   anyone in during the day while he's cleaning up. At night, he serves
+   milk and the delicious Chateau Romani, but he's short on shipments
+   now.
+
+-SCHEDULE-
+     Days 1-3, Day -      Location: Milk Bar
+                          Activity: Preparing for Night
+     Days 1-3, 9:00 PM -  Location: Milk Bar
+                          Activity: Locks Bar to Get Ready
+     Days 1-3, 10:00 PM - Location: Milk Bar
+                          Activity: Opens Bar
+     Days 1-3, 6:00 AM -  Location: Milk Bar
+                          Activity: Closes Bar
+
+
+======LINK-GORO======
+PROFESSION: Unknown
+HOME: Snowhead
+CHARACTER RELATIONS: Anju 
+OTHER RELATIONS: None
+ADDITIONAL INFO: Link-goro is a Goron who visits Clock Town in anticipation for 
+the Carnival of Time. He has a reservation at the Inn.
+ *NOTE: Link-goro may very likely have a different name in your game. 
+   His name is the exact same as your character. So why the "goro"? 
+   To distinguish him from Link, I'm putting his name this way because
+   this is the way he says it (he adds "goro" onto everything). 
+
+-SCHEDULE-
+     Day 1, 4:00 -  Location: Stock Pot Inn 
+                    Activity: Checking In
+     Day 1, Night - Location: East Clock Town
+                    Activity: Sleeping (outside if room is taken)
+
+
+======TWIN JUGGLERS======
+PROFESSION: Jugglers for the Gorman Troupe
+HOME: Unknown
+CHARACTER RELATIONS: Gorman, Rosa Sisters, Guru-Guru 
+OTHER RELATIONS: None
+ADDITIONAL INFO: Twins and entertainers of the Gorman Troupe. They 
+   practice juggling all day, and love to tell jokes... as stupid as 
+   they may be (the jokes, not them... no wait, maybe them too). 
+   Surprisingly, they're the  second pair of twins in the Gorman
+   Troupe, the Rosa Sisters being the other pair. They are quite happy
+   despite the moon overhead.
+
+-SCHEDULE-
+     Days 1-2, Day -   Location: East Clock Town
+                       Activity: Juggling Outside
+     Days 1-2, Night - Location: East Clock Town
+                       Activity: Playing Cards in Stock Pot Inn Room
+     Day 3, All Day -  Location: Unknown
+                       Activity: Left After Show Was Cancelled
+
+
+
+________________________________________________________________________
+   _  _                                                          _  _
+  / \/ \========================================================/ \/ \
+ / /\/\ \                PART 4: MISCELLANEOUS                 / /\/\ \
+/__\  /__\====================================================/__\  /__\
+
+     I've packed all the other stuff in here, such as how to contact me, some 
+Frequently Asked questions from readers (hey, a question you have could be 
+there), credits and a hint of what's to come, and finally a closing statement to 
+finish up the FAQ.
+
+
+                 ----- FREQUENTLY ASKED QUESTIONS ----- 
+
+     Here's a list of questions I'm asked frequently (hence the title). There's 
+a good chance that if you have a question, it might be here. Take a look, you 
+might not be as stupid and different from others as you think.
+
+Q: What does completing the Bombers' Notebook do?
+A: At the end of the game, you will see certain segments added on to the normal 
+fare based on how many people you help out. The more people you help out, the 
+more you will see happily celebrating during the ending sequence.
+
+
+
+                     ----- CLOSING/CONTACT INFO ----- 
+     
+CONTACT INFO:                 
+Have some questions about the game? Comments about my FAQ? Something I left out? 
+Info that I got wrong? If there's something you need to know or say about my 
+FAQ, be sure to: 
+
+E-mail me Questions or Comments- croco64@yahoo.com
+
+Before you send me stuff, however, make sure you read this first:
+
+1. Please look at the walkthrough before you send me questions! I made the 
+walkthrough for a reason. It was so you could look at it, not so you could find 
+my e-mail address and ask me what you want to know before you glance at it. Be 
+sure to check the walkthrough to see if it can answer your question(s) before 
+asking me.
+
+2. When e-mailing me, put the words "Majora's Mask: Bombers", "MM: Bombers' 
+Notebook", "MM: Bombers", or similar phrasing into the title. That would help me 
+a lot.
+
+3. If you wish to ask me a question, do not send in questions regarding things 
+other than the Bombers' Notebook. There are plenty of good FAQs out there with 
+talented authors who can answer your questions. However, questions related to 
+the Bombers' Notebook are welcome. 
+Examples: Good- "An item I need to complete an event costs more than the maximum 
+capacity in my wallet. Where can I find a bigger wallet?" 
+Bad- "How do you beat the boss of the first dungeon?"
+
+4. If you wish to contribute, please send any information regarding an alternate 
+way to complete an event (whether easier or harder) that I missed. Also, I would 
+be very happy if you sent corrections to any information I post. For example, if 
+I say a character appears somewhere at 6:00 but they really come at 7:00, I'd be 
+very happy if you corrected me.
+
+Help Wanted: If you find any errors, either typos or incorrect information 
+(especially in the schedules), e-mail me and I'd be ever so happy!
+
+   
+                               *   *   *
+
+Special Thanks to:
+*Nintendo: For this excellent game.  
+*The Game: For some of the info I've gotten (Descriptions, mainly) and the 
+incredibly-fun Bombers' Notebook.
+*Nintendo Power: The Clock Town Map assisted me somewhat in creating mine.
+*Majora's Mask Message Board: Some of the kind users there helped me with a 
+couple basic questions (no, I completed the entire notebook myself, if you were 
+wondering). 
+*Frodo86: For the Bunny Hood trick with the Postman.
+*Shigmiya64: For telling me how to prevent losing life while detonating the 
+Blast Mask
+
+   
+                               *   *   *
+
+These Sites have been given permission to use my FAQ:
+   
+     *GameFAQs (www.gamefaqs.com)
+     *RPGamer (www.rpgamer.com)
+     *Tim's Vault (www.timsvault.com)
+     *Hylian Hero (www.hylianhero.cjb.com)
+
+No other sites have been given permission to use this FAQ. Please contact me if 
+you see this anywhere else.
+
+Check www.gamefaqs.com for the most recent version of this FAQ. 
+
+
+                               *   *   *
+
+
+
+                          - CLOSING STATEMENT -
+ 
+     Thanks for reading. Hmm... that was pretty quick. Guess I'd better extend 
+it more. OK. This was a very fun project for me, and I hope that you had a fun 
+and informative time reading it. OK, that's good enough. Bye, readers.
+
+
+                      This FAQ Has Been                      _______
+        __________    Brought To You By:       /.\____/.\   /  ___  \        
+       /         /_____  _____   ______ _____  \________/   \  \  \  \
+      /   ______/  __  \/  _  \ / ____//  _  \  \/    \/\    \_/   \  \  
+     /   /     /  /  \__\ //  // /    /  //  /   \      \\/-\_______\  \
+    /   /     /  /    /  //  // /____/  //  /     \      \ \\\\\\\\\\  / 
+   /   /     /__/     \_____//______/\_____/      /      /           _/
+  /   /_____________________________________     /      / __/  /___\ \
+ /                                          \   /\____/\ //___/   /___\
+/____________________________________________\ \________/
+

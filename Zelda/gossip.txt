@@ -1,0 +1,471 @@
+http://www.desertcolossus.com/guide.php?page=zelda5/truthmask&menu=v
+
+Gossip Stone Reading
+
+	Missing: Desert Colossus
+	Extra: Kokiri, Castle (hole?), Lake
+
+    Kokiri Forest and Lost Woods
+    01 "They say that Kokiri are always followed by small fairies."
+    02 "They say that one Kokiri has left the forest, but he is still alive!"
+    03 "They say that it's possible to find a total of 100 Gold Skulltulas throughout Hyrule."
+    04 "They say that strange owl, Kapora Gaebora, may look big and heavy, but its character is rather lighthearted."
+    05 "They say that the owl named Kaepora Gaebora is the reincarnation of an ancient Sage."
+    06 "They say that the small holes in the ground that you can find all over Hyrule make perfect breeding ground for bugs."
+    07 "They say that when non-fairy folk enter the Lost Woods, they become monsters."
+
+    Death Mountain Area
+    08 "They say that there is a secret around the entrance to Gerudo Valley."
+    09 "They say that Biggoron's Sword is super sharp and will never break."
+    10 "They say that Medigoron didn't really think about his own size, so his store is really cramped."
+    11 "They say that Ganondorf is not really satisfied with ruling only the Gerudo and aims to conquer all of Hyrule!"
+    12 "They say that Gerudos worship Ganondorf almost like a god."
+
+    Graveyard
+    13 "They say that there is a secret near a tree in Kakariko Village."
+
+    Castle
+    14 "They say that Malon set the original record in the obstacle course of Lon Lon Ranch."
+    15 "They say that Malon of Lon Lon Ranch hopes a knight in shiny armor will come and sweep her off her feet some day."
+    16 "They say that if you get close to a butterfly while holding a Deku Stick in your hands, something good will happen."
+    17 "They say that, contrary to her elegant image, Princess Zelda of Hyrule Castle is, in fact, a tomboy!"
+    18 "They say that you may find something new in dungeons that you have already finished."
+    19 "They say that Gerudos sometimes come to Hyrule Castle Town to look for boyfriends."
+    20 "They say that it is against the rules to use glasses at the Treasure Chest Shop in Hyrule Castle Market Town."
+
+    Zora's Domain, River, and Fountain.
+    21 "They say that there is a man that can always be found running in Hyrule Field."
+    22 "They say that Princess Zelda's nanny is actually one of the Sheikah, who many thought had died out."
+    23 "They say that players who select the "HOLD" option for "Z TARGETING" are the real "Zelda players."
+    24 "They say that there is a secret near the lone tree which is not far from the river in the Northwest part of Hyrule Field."
+    25 "They say that you can swim faster by continuously pressing B."
+
+    Lake Hylia
+    26 "They say that there is a secret on the road to Lask Hylia."
+    27 "They say that Ruto, the Zora Princess who is known for her selfish nature, likes a certain boy..."
+    28 "They say that the Chicken Lady goes to the Lakeside Laboratory to study how to breed pocket-sized Cuccos."
+
+    Gerudo Valley
+    29 "They say that a thief named Nabooru, who haunts this area, is a Gerudo. 
+
+    Underground Caves
+    "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+
+
+http://www.zeldadungeon.net/Zelda05-ocarina-of-time-gossip-stones.php
+
+Let's Hear Their Wisdom!
+The Gossip Stones will share their knowledge with anyone who has the mystical Mask of Truth. Simply put it on and talk to them to hear the latest! If you don't have the mask yet, be sure to visit our Masks section.
+
+EXTRA: Deku Tree 10
+MISSING: Lake
+
+Outside The Temple of Time
+01 "They say that Malon set the original record in the obstacle course of Lon Lon Ranch."
+02 "They say that Malon of Lon Lon Ranch hopes that a knight in shining armor will come and sweep her off her feet someday."
+03 "They say that it is against the rules to use glasses at the Treasure Chest Game in Hyrule Castle Town Market."
+04 "They say that Gerudos sometimes come to Hyrule Castle Town Market to look for boyfriends."
+
+Outside Hyrule Castle
+05 "They say that if you get close to a butterfly while holding a Deku Stick in your hands, something good will happen."
+06 "They say that, contrary to her elegant image, Princess Zelda of Hyrule Castle is actually a tomboy!"
+
+Hyrule Field
+07 "They say that there is a switch you can only activate by using the spin attack."
+
+Kokiri Forest
+08 "They say that the small holes in the ground that you can find all over Hyrule make perfect breeding ground for bugs."
+
+Outside the Deku Tree
+09 "They say that the Kokiri are always followed by small fairies."
+10 "They say that one Kokiri has left the forest, and he is still alive!"
+
+Lost Woods
+11 "They say that when non-fairy folk enter the Lost Woods they become monsters."
+
+Sacred Forest Meadow
+12 "They say that it's possible to find a total of 100 Gold Skulltulas throughout Hyrule."
+13 "They say that the strange owl, Kaepora Gaebora, may look big and heavy, but its character is rather lighthearted."
+14 "They say that the owl named Kaepora Gaebora is the reincarnation of an Ancient Sage."
+	
+Death Mountain Trail, on a ledge off the wall
+15 "They say that Biggoron's Sword is super-sharp and will never break."
+
+Dodongo's Cavern
+16 "They say that Gerudos worship Ganondorf like a god."
+
+Goron City
+17 "They say that there is a secret around the entrance to Gerudo Valley."
+18 "They say that Ganondorf is not satisfied with ruling only the Gerudo and aims to conquer all of Hyrule!"
+
+Death Mountain Crater
+19 "They say that Medigoron didn't really think about his own size so his store is really cramped."
+
+Zora's River
+20 "They say that Princess Zelda's nanny is actually one of the Shekiah, who many thought had died out."
+21 "They say that there is a man who can always be found running around Hyrule Field."
+
+Zora's Domain
+22 "They say that players who select HOLD option for Z-Targeting are the real Zelda players!"
+
+Zora's Fountain
+23 "They say that there is a secret near the lone tree which is not far from the river in the North-West part of Hyrule field."
+24 "They say that you can swim faster by continually pressing B."
+
+Lake Hylia
+25 "They say that that there's a secret on the road to Lake Hylia."
+
+In the Graveyard, next to the Shadow Temple entrance
+26 "They say that there is a secret near a tree in Kakariko Village."
+
+Gerudo Valley
+27 "They say that the thief named Nabooru, who haunts this area, is a Gerudo."
+
+Outside Desert Colosuss
+28 "They say that the treasure you can earn in the Gerudos Training Ground is not as great as you'd expect, given its diffulculty!"
+
+Holes in: Hyrule Field, Lost Woods, Kakariko Village, Death Mountain, Death Mountain Crater and Zora's River
+"They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+
+
+
+http://www.zeldaelements.net/games/c/ocarina_of_time/gossip_stones
+
+Outside the Temple of Time, in the Market:
+01 1: “They say that Malon set the original record in the obstacle course of Lon Lon Ranch.”
+02 2: “They say that Malon of Lon Lon Ranch hopes that a knight in shining armor will come and sweep her off her feet someday.”
+03 3: “They say that it is against the rules to use glasses at the Treasure Chest Game in Hyrule Castle Town Market.”
+04 4: “They say that Gerudos sometimes come to Hyrule Castle Town Market to look for boyfriends.”
+
+Outside Hyrule Castle:
+05 1: “They say that if you get close to a butterfly while holding a Deku Stick in your hands, something good will happen.”
+06 2: “They say that, contrary to her elegant image, Princess Zelda of Hyrule Castle is actually a tomboy!
+
+Outside Desert Colosuss:
+07 1: “They say that the treasure you can earn in the Gerudos Training Ground is not as great as you’d expect, given its diffulculty!”
+
+Outside Shadow Temple, in the Graveyard:
+08 1: “They say that there is a secret near a tree in Kakariko Village.”
+
+Death Mountain Trail, on a ledge off the wall:
+09 1: “They say that Biggoron’s Sword is super-sharp and will never break.”
+
+Death Mountain Crater:
+10 1: “They say that Medigoron didn’t really think about his own size so his store is really cramped.”
+
+Goron City:
+11 1: “They say that there is a secret around the entrance to Gerudo Valley.”
+
+Medigoron’s Blacksmith’s:
+12 1: “They say that Ganondorf is not satisfied with ruling only the Gerudo and aims to conquer all of Hyrule!”
+
+Lost Woods:
+13 1: “They say that when non-fairy folk enter the Lost Woods they become monsters.”
+
+Sacred Forest Meadow:
+14 1: “They say that it’s possible to find a total of 100 Gold Skulltulas throughout Hyrule.”
+15 2: “They say that the strange owl, Kaepora Gaebora, may look big and heavy, but its character is rather lighthearted.”
+16 3: “They say that the owl named Kaepora Gaebora is the reincarnation of an Ancient Sage.”
+
+Kokiri Forest:
+17 1: “They say that the small holes in the ground that you can find all over Hyrule make perfect breathing ground for bugs.”
+
+Outside the Deku Tree:
+18 1: “They say that the Kokiri are always followed by small fairies.”
+19 2: “They say that one Kokiri has left the forest, and he is still alive!”
+
+Zora’s River:
+20 1: “They say that Princess Zelda’s nanny is actually one of the Shekiah, who many thought had died out.”
+21 2: “They say that there is a man who can always be found running around Hyrule Field.”
+
+Zora’s Domain:
+22 1: “They say that players who select HOLD option for Z-Targeting are the real Zelda players!”
+
+Zora’s River:
+23 1: “They say that there is a secret near the lone tree which is not far from the river in the North-West part of Hyrule field.”
+24 2: “They say that you can swim faster by continually pressing B.”
+
+Gerudo Valley:
+25 1: “They say that the thief named Nabooru, who haunts this area, is a Gerudo.”
+
+Lake Hylia:
+26 1: “They say that that there’s a secret on the road to Lake Hylia.”
+
+Dodongo’s Cavern:
+27 1: “They say that Gerudos worship Ganondorf like a god.”
+
+Hyrule Field:
+28 1: “They say that there is a switch you can only activate by using the spin attack.”
+
+Down a hole in the following places;
+Lost Forest, Death Mountain Crater, Hyrule Field, Death Mountain, Kakariko Village and Zora’s River:
+“They say that the horse Ganondorf rides is a solid black Gerudo stallion.”
+
+
+
+
+
+http://www.gamefaqs.com/n64/197771-the-legend-of-zelda-ocarina-of-time/faqs/41208
+
+
+========================================
+Outside the Temple of Time
+========================================
+1
+From left to right:
+"They say that Malon set the original record in the obstacle course of Lon 
+Lon Ranch."
+
+2
+"They say that Malon of Lon Lon Ranch hopes that a knight in shining armor 
+will come and sweep her off her feet someday."
+
+3
+"They say that it is against the rules to use glasses at the Treasure Chest 
+Game in Hyrule Castle Town Market."
+[Use the lens of truth and you can see through the treasure chests.]
+
+4
+"They say that Gerudos sometimes come to Hyrule Castle Town Market to look 
+for boyfriends."
+[Not a clue never seen Gerudos anywhere outside of their fortress and the 
+Spirit Temple.]
+
+
+========================================
+Outside Hyrule Castle
+========================================
+5
+On the platform just past the climbable vine wall:
+"They say that if you get close to a butterfly while holding a Deku Stick 
+in your hands, something good will happen."
+[If you let a butterfly land on a deku stick it will turn into a fairy.]
+
+6
+In the corner past the climbable stone wall:
+"They say that, contrary to her elegant image, Princess Zelda of Hyrule 
+Castle is actually a tomboy!"
+
+7
+In the hole next to the tree inside the castle fence (requires song of 
+storms):
+"They say that you may find something new in dungeons you have already 
+finished."
+[Go back into the deku tree with bombs and dodongo's cavern as an adult 
+with the scarecrow song to get the gold skulitas.]
+
+
+========================================
+Desert Colossus
+========================================
+8
+To the left of the entrance to the spirit temple:
+"They say that the treasure you can earn in the Gerudos Training Ground is 
+not as great as you'd expect, given its difficulty!"
+[Hey the arrows kill likelikes in one hit and the only thing like shooting 
+a Wolfos in the back with a frozen arrow is using a flaming one.]
+
+
+========================================
+Kakoriko Village
+========================================
+9
+Outside Shadow Temple warp point, in the Graveyard:
+"They say that there is a secret near a tree in Kakariko Village."
+[Bomb near the tree to expose a hole with 2 redeads inside after defeating 
+them you get 200 rupees.]
+
+
+========================================
+Death Mountain Path
+========================================
+10
+On a ledge on the cliff wall leading up Death Mountain:
+"They say that Biggoron's Sword is super-sharp and will never break."
+
+
+========================================
+Death Mountain Crater
+========================================
+11
+From the death mountain entrance run to the right where you'll see a board 
+leading up to another platform, in the corner is a bombable wall with the 
+stone behind it:
+"They say that Medigoron didn't really think about his own size so his 
+store is really cramped."
+[It is cramped...he's a huge (m/g)oron and it's small.]
+
+
+========================================
+Goron City
+========================================
+12
+Inside the stone maze on the top floor:
+"They say that there is a secret around the entrance to Gerudo Valley."
+[Referring to a hole exposable by bombing in the middle of a circle of 
+rocks mentioned a little further down.]
+
+13
+Next to Medigoron in side his Blacksmith shop:
+"They say that Ganondorf is not satisfied with ruling only the Gerudo and 
+aims to conquer all of Hyrule!"
+[Imagine that.]
+
+
+========================================
+Lost Woods
+========================================
+14
+Next to the deku scrub who sells the stick upgrade below the bridge you 
+cross leading to kokori village:
+"They say that when non-fairy folk enter the Lost Woods they become 
+monsters."
+[Note that every group of skull kids has a piece of heart you can get from 
+them...so maybe foreigners in the forest isn't a bad thing...]
+
+
+========================================
+Sacred Forest Meadow
+========================================
+5
+In the corner near the Minuete of Forest warp point:
+"They say that it's possible to find a total of 100 Gold Skulltulas 
+throughout Hyrule."
+
+6
+On top of the maze walls, stone nearest the middle:
+"They say that the strange owl, Kaepora Gaebora, may look big and heavy, 
+but its character is rather lighthearted."
+
+7
+On top of the maze walls, stone nearest the entrance
+"They say that the owl named Kaepora Gaebora is the reincarnation of an 
+Ancient Sage."
+
+
+========================================
+Kokiri Forest
+========================================
+8
+Next to the entrance to the Lost Woods
+"They say that the small holes in the ground that you can find all over 
+Hyrule make perfect breathing ground for bugs."
+[All the stones in these holes always say the same thing.]
+
+9
+To the left of the Great Deku Tree
+"They say that the Kokiri are always followed by small fairies."
+
+0
+Behind and to the right of the Great Deku Tree (note: the gameshark is NOT 
+required to talk to this stone):
+"They say that one Kokiri has left the forest, and he is still alive!"
+[This is talking about Link for the same reason Ruto called Shiek a 'he' so 
+they didn't spoil the rest of the game.]
+
+
+========================================
+Zora's River
+========================================
+1
+In the shallow water by the waterfall which hides Zora's domain entrance
+"They say that Princess Zelda's nanny is actually one of the Shekiah, who 
+many thought had died out."
+
+2
+Out on the lone platform used to access the near by piece of heart:
+"They say that there is a man who can always be found running around Hyrule 
+Field."
+[I wouldn't really call that running, if he doesn't have the bunny hood 
+since you can walk backwards faster.]
+
+
+========================================
+Zora's Domain
+========================================
+3
+In the shallow water between King Zora and the platform you stand on to 
+talk to it:
+"They say that players who select HOLD option for Z-Targeting are the real 
+Zelda players!"
+[I always found this easier than the default setting.]
+
+
+========================================
+Lord Jabu Jabu's Shrine
+========================================
+4
+In the shallows to the left of Lord Jabujabu against the wall:
+"They say that there is a secret near the lone tree which is not far from 
+the river in the North-West part of Hyrule field."
+[Bomb the tree between the river and Lon Lon ranch and there's a piece of 
+heart under water the requires either the iron boots or gold scale to get 
+to.]
+
+5
+Next to the entrance to great Fairy Fountain
+"They say that you can swim faster by continually pressing B."
+[At least it makes the trip back easier.]
+
+
+========================================
+Gerudo Valley
+========================================
+6
+To the left of the waterfall
+"They say that the thief named Nabooru, who haunts this area, is a Gerudo."
+
+
+========================================
+Lake Hylia
+========================================
+7
+To the left of the entrance from Hyrule Field across the thin land bridge
+"They say that that there's a secret on the road to Lake Hylia."
+[Bomb in the middle of the square fenced in area to find a hole with a 
+business scrub who sells a piece of heart for 10 rupees.]
+
+8
+In the shallows of the lake at the top right corner of the map, diagonal 
+from the island with the grave with the owl on it:
+"They say that Ruto, the Zora Princess who is known for her selfish nature, 
+likes a certain boy..."
+
+9
+In the shallows of the lake at the top left corner of the map, diagonal 
+from the island where the fire arrows land:
+"They say that the chicken lady goes to the lake side laboratory to study 
+how to make pocket sized cuccos."
+
+
+========================================
+Dodongo's Cavern
+========================================
+0
+On the left side wall in the main room
+"They say that Gerudos worship Ganondorf like a god."
+
+
+========================================
+Hyrule Field
+========================================
+1
+Inside a hole by Gerudo Valley accessible by bombing in the middle of the 
+circle of rocks:
+"They say that there is a switch you can only activate by using the spin 
+attack."
+[I was thinking this was the switch in the spirit barrier that you use
+bombchus on but the spin won't reach it.  In the water temple there's a 
+switch on the other side of a gate but it can be hit with a jump 
+attack...any clues?]
+
+In every small hole with a gossip stone, treasure chest, fish, plants with 
+bugs under them, and bee hives in the corners the gossip stones all say the 
+same thing:
+"They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+[He's got a black horse...so what.  Maybe they ran out of mysterious things 
+to say?]
+
+
+---------------------------------------------------------------------------
+

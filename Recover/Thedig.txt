@@ -1,0 +1,2074 @@
+                                  [Image]
+
+                                  The Dig
+
+                                  [Image]
+
+About Sean Clark :
+
+Sean Clark succeded to Brian Moriarty for leading The Dig project.He worked
+on some recent LucasArts games, specially Sam & Max Hit The Road as a
+programer and game designer.
+
+The Walkthrough :
+
+by Morgana
+
+NOTE: This file contains a complete solution to LucasArts' graphic
+adventure, THE DIG, and may spoil your enjoyment of the game. Read at your
+own risk.
+
+METHODOLOGY
+
+This is the story of how I got through THE DIG. I've described, as nearly
+as I can recreate it, the game that I, personally, played. I've also
+included another possible alternative toward the endgame that I learned of
+after I finished my game, from messages posted here in the GAMERS forum,
+and then replayed to check it out and to discuss it with fellow players. My
+goal is not only to help you get through the game, but to give you a sense
+of how I thought about the puzzles, what I got out of the game's story, and
+why certain things I tried worked (and others didn't). I've attempted to
+highlight things that you learn as you play that should serve as clues to
+what might otherwise seem obscure puzzles, and have noted the places where
+I needed a hint myself and/or felt that a puzzle could have been more
+"fair." Instead of just telling you a quick and dirty solution, such as
+"take x and use it on y" without an explanation of why, I've tried to give
+you a sense of how I came to that point through my own game experience --
+and how (I thought) some of the things that weren't necessary to finish the
+game added to its atmosphere and exposed aspects of its richness. My hope
+is that if you're new to graphic adventures and having some trouble, this
+walkthru will not only help you through THE DIG, but will give you some
+ideas about what to try with your next game to make it more fun and less
+frustrating. If you've been playing adventures since Shep was a pup and
+have pretty much breezed through THE DIG so far, I hope that this will help
+you with wherever you happen to be stuck -- but will also be at least
+somewhat entertaining to read through after you finish, as you'll get a
+taste of where I was led astray. Maybe you can even relate to some of my
+wayward follies because you waywardly followed them yourself. Heh.
+
+INTRODUCTION
+
+You learn through the introductory movie that an asteroid called Attila,
+first sighted at an observatory in Borneo, is on a three-week collision
+course with Earth. Attila is large enough to cause catastrophic damage if
+it hits; indeed, it could wipe out all life on the planet. The Borneo
+observatory's computer predicts that the likelihood of collision is 1 in 1,
+but NASA says it's 99% (how typical). The space shuttle, although not
+designed for such a mission, has been commissioned to take Commander Boston
+Low (your player character) and his crew, Ludger Brink (noted geologist and
+archaeologist), Maggie Robbins, (renowned journalist and linguistic
+expert), Ken Borden (ace shuttle pilot), and Cora Miles (Congressional
+candidate and payload specialist (huh? am I missing a connection here?)) to
+Attila prior to impact. The plan is for the landing party (Boston, Brink
+and Maggie) to place nuclear explosive devices that will blast Attila into
+a different course, thereby saving Earth without destroying the asteroid.
+If successful, preserving the asteroid will not only prevent large portions
+of it from entering Earth's atmosphere and causing damage, but -- as you
+soon find out -- will also allow Boston & Co. to do some exploring on
+Attila once Earth is out of danger. As Brink lets you know later, this is
+the first time any Earthlings will have had such an amazing chance to get
+up close and personal with an asteroid. As you enter your mission, you're
+under pressure. You have an extremely important job to do. The people of
+Earth are counting on you. You have to do it right. My adrenaline was
+pumping. Is yours ?
+
+AT THE SHUTTLE
+
+When the introduction is over, Boston, Maggie and Brink have exited the
+space shuttle and are poised just outside it in space exploration garb. The
+first thing I did was look in my inventory, mostly to get an idea of how
+the interface worked. You start out with an EXAMINE (a magnifying glass
+that allows you to get a closer look at other inventory items and on-screen
+hotspots), a PENULTIMATE (a communications device with a built in video
+game), an ARMING KEY, and a FLASHLIGHT. To test out the interface, further,
+I EXAMINED each of the other inventory items. I didn't learn much of
+anything new except that the ARMING KEY was for the "explosives" --
+presumably those I'd need to place on Attila.
+
+NOTE: When I use EXAMINE in this walkthru, I am referring to using the
+magnifying glass from your inventory. When I use any other verb (such as
+LOOK, USE, PUSH, etc.) all you need to do is click on the item.
+
+Next I scanned for hotspots on the screen and found the following: TOOL
+CHEST, ASTEROID, ROBBINS and BRINK. Since I figured I'd need some tools to
+help me with Attila, I decided to focus on the TOOL CHEST first. I tried to
+OPEN it, and Boston told me that it was called "the pig," and that payload
+specialist Miles needed to use the remote arm to release it. Since she was
+still in the shuttle and I saw no need for a face-to-face meeting with her
+given that I was so technologically well-equipped, I decided to give her a
+CALL on the PENULTIMATE. I called it up out of inventory and selected the
+COMM option (the only one I used throughout the game although LUNAR LANDER
+fans may choose to use the other as well from time to time), then MILES.
+(Now that you know how the PENULTIMATE works, I'm not going to repeat these
+steps every time to save you some download time. Hahahaha.) Since I was
+determined to get that pig, I ASKED MILES about the FLYING PIG out of the
+"talk" options, and she deployed it for me. I then LOOKED at the FLYING PIG
+again, and Boston took it down to the surface of the ASTEROID.
+
+PLACING THE EXPLOSIVES
+
+Once at the surface, I OPENED the FLYING PIG. I REACHED inside the FLYING
+PIG and found: a ZERO-G DIGGER, EXPLOSIVE UNIT ALPHA, EXPLOSIVE UNIT BETA,
+and a modest, but serviceable-looking SHOVEL. I TOOK all of them and placed
+them in inventory (by clicking each one on the "I" icon at the bottom left
+of the screen), then EXITED that screen. (Now that you know how to place
+items in inventory, I'm not going to remind you how to do it every time to
+save you some download time. Hahahahaha again.) Now I had the explosives as
+well as the arming key, but I didn't yet know where I needed to put them,
+and I knew I had to be accurate about it since Brink had basically had a
+cow about accuracy during the intro. So I decided to have a chat with him
+in the hopes that he'd give me an idea of what to do. I TALKED to BRINK,
+going through all the conversation options beginning with the QUESTION
+MARK. I soon learned that as with other games I'd played, he'd keep talking
+about each option until he had nothing new to say (at which point, in this
+game, the option greys out). I talked him to exhaustion on each subject,
+but he didn't give me any information on the placement of the explosives.
+So I turned to ROBBINS and went through the same exercise. Not that I
+expected her to know where to put them since it wasn't her field of
+expertise, but it seemed the most efficient course in my quest for some
+degree of thoroughness. I wasn't disappointed, for indeed she knew nothing
+about how to place the explosives -- she just wanted to get into a zinger
+war with me. But she wasn't nearly as fun to tease as _some_ people I could
+name. My next thought was that one of the crew remaining on the shuttle
+must have the information I needed, so I CALLED up BORDEN on the
+PENULTIMATE. I also TALKED him to exhaustion starting with the QUESTION
+MARK and working my way through all of the conversation options. He had
+something puzzling to say about Attila not giving as much gravity as
+expected and perhaps being nothing but a bubble, which set me to wondering
+although I wasn't sure of the comments' significance. When I TALKED to him
+about the NUCLEAR EXPLOSIVE, I got the first part of my answer: I was to
+plant alpha charge in quadrant 2 on a flat surface. I made a note of this
+and then decided to complete the circle and TALK MILES to death on the
+PENULTIMATE. This turned out to be a challenge since she didn't want to
+stop zinging me about my comment that she had my vote. She didn't have any
+additional important information for me, though. Having exhausted all of
+these options, I moved on to plant the first charge. I headed out to SPACE
+and over to QUADRANT 2. Here, I found a TARGET SURFACE, but I was unable to
+plant EXPLOSIVE UNIT ALPHA there because the ground was too rough.
+Obviously, I needed to smooth it somehow first and it looked like it just
+needed a pat or two with the back side of my SHOVEL. I picked up the trusty
+SHOVEL to give it a try, but Boston told me I couldn't use it because of
+low gravity and that we had the exact tool for the job. Ok, ok. It's the
+ZERO-G DIGGER. Thanks for making me feel so competent, boss. I USED the
+ZERO-G DIGGER with the TARGET SITE, which did the trick, and left nothing
+but DIRT. I USED EXPLOSIVE UNIT ALPHA with the DIRT, after EXAMINING it
+just for good measure. I still had another charge to place, so I CALLED up
+BORDEN on the PENULTIMATE again since he'd been my answer man for the first
+charge. He didn't have anything new to say about any conversation options
+except NUCLEAR EXPLOSIVE -- he told me to plant beta charge in quadrant 3,
+again on a level surface. After making sure I had nothing else to explore
+in QUADRANT 2, I went back out to SPACE and then to QUADRANT 3. Here I
+discovered a BOULDER which certainly didn't look like a level surface, so
+it was no surprise that the charge wouldn't stick. A-hah! I thought. I'll
+be smart this time and use my specially designed tool, the ZERO-G DIGGER.
+But it didn't work! At the risk of being told what a dolt I was, I tried
+USING the SHOVEL with the BOULDER -- it worked! And after patting herself
+on the back for including a shovel in the tool chest, Miles gave me some
+words to live by during the cut-scene: "if you can pick it up, take it with
+you, 'cause you never know when you might need it." I USED EXPLOSIVE UNIT
+BETA with the SURFACE (which was revealed once the BOULDER was gone) and
+planted the second charge.
+
+BLASTING ATTILA
+
+At this point, I knew I'd need to arm the charges I'd just placed (why else
+would I have an ARMING KEY?) but I thought it wise to confirm with BORDEN,
+so I CALLED him again on the PENULTIMATE and again went through all the
+conversation options. Again, he had nothing new to say except when I chose
+NUCLEAR EXPLOSIVE, and he gave me the go-ahead to arm them. I had a few
+thoughts going through my head now. Good thing there was more than one or
+it might have died of loneliness. My first thought was that I'd learned in
+exploring the hotspots on the space map screen that there was still a
+QUADRANT 4 I hadn't been to yet, and although it wasn't relevant for the
+charges, it might reveal something of interest. The second was whether it
+mattered if I armed alpha charge before beta charge or not. And finally,
+what was I supposed to do next after arming the charges? I decided to deal
+with these in order. After making sure I hadn't missed anything to explore
+in QUADRANT 3, I went out to SPACE and then to QUADRANT 4. This turned out
+to be useless, since there were no hotspots in QUADRANT 4. But I would
+never have known if I hadn't tried, now would I? So there. I then decided
+to get on with it and arm the charges, and to take them in the order I'd
+placed them (seemed reasonable, although in replaying, I found that the
+order doesn't matter). I went out to SPACE and back to QUADRANT 2. There, I
+USED the ARMING KEY with EXPLOSIVE UNIT ALPHA. I CALLED in to BORDEN to let
+him know I was done, but this time I just SPOKE to him about the NUCLEAR
+EXPLOSIVE. Beeping him turned out to be helpful, because he let me know
+that I had nothing left to do but arm the explosives and return to the
+shuttle. I went out to SPACE and back to QUADRANT 3, where I USED the
+ARMING KEY with EXPLOSIVE UNIT BETA. I REPORTED back to BORDEN again on the
+PENULTIMATE about the NUCLEAR EXPLOSIVE, and he told me to come back to the
+shuttle. I went out to SPACE and then to the SHUTTLE. Back at the SHUTTLE,
+nothing was happening so this wasn't going to be an automated sequence --
+yet. I decided to CALL BORDEN on the PENULTIMATE again in case he was
+waiting for me to check in when I got back. After TALKING to him about the
+NUCLEAR EXPLOSIVE, we were all spirited back into the shuttle, retreated
+from Attila, and nuked the living daylights out of it.
+
+EXPLORING ATTILA
+
+As you learn in the following cut-scene, your mission is a success so far.
+Attila is in one piece, albeit somewhat fractured. Mission Control gives
+the landing team the go-ahead to explore Attila, and after Miles sends the
+pig down a tunnel to provide light, the landing team also descends into the
+tunnel. Your geologist, Brink, lets you know that the tunnel wasn't created
+by the blasting: it's ancient, but not as old as the asteroid itself and
+feels unnatural. He also remarks that there are some odd projections
+sticking from the inside of the tunnel. When he stops talking, the team is
+hanging out inside the tunnel waiting for you to guide them. The screen
+where you find yourself shows a METALLIC PLATE and three ODD PROJECTIONS.
+It also scrolls downward to show the FLYING PIG and upward to show EARTH.
+You can even exit the tunnel completely if you move far enough upscreen
+(but why would you want to when there's a tunnel just crying out for
+exploration and nowhere to go back at the surface)? I did LOOK at EARTH and
+heard Boston remark that it was "comforting to know we can return home in
+safety." <TWILIGHT Zone music> I then LOOKED at the METALLIC PLATE. Boston
+and Brink agreed that it couldn't be natural and that someone put it there.
+There's speculation that it might be some sort of message. At this point,
+Boston comes clean with the group and tells them that he has had secret
+orders all along to look for alien presence on Attila. He clamps down on
+security, extracts promises from the landing team that they won't breach
+the security he imposed, and sends a code to Earth through Borden to notify
+Mission Control of what he's found. Then he gives the METALLIC PLATE a push
+and it falls away. All that is left is a SMALL SHAFT, which I could only
+OBSERVE. I decided to talk to my crew before doing anything else. None of
+them had anything crucial to say, but it's worth doing to help fill out the
+story. I next began exploring the hotspots on the screen. LOOKING at the
+FLYING PIG just told me what it was. LOOKING at the ODD PROJECTIONS evoked
+a few comments, but nothing more. I knew I had to do something with the ODD
+PROJECTIONS (because they were _there_ and also because I needed some more
+area to explore) so I contemplated my inventory. Since I was dealing with a
+rock face, I first decided to try USING the ZERO-G DIGGER on the ODD
+PROJECTION closest to where the SMALL SHAFT now was. Interestingly, it
+worked, and revealed another METALLIC PLATE. I put away the ZERO-G DIGGER
+and PUSHED this new METALLIC PLATE. It fell away, just like the last one,
+into another SMALL SHAFT. I could only LOOK at this SMALL SHAFT also. It
+was now clear to me that I should at least try to repeat this process on
+the other two ODD PROJECTIONS. So I USED the ZERO-G DIGGER with each of the
+remaining ODD PROJECTIONS and uncovered two more METALLIC PLATES. I PUSHED
+the smaller METALLIC PLATE first. Down it went, leaving a SHAFT behind.
+Again, I could only LOOK at the SHAFT. I had a pretty good feeling about
+the last METALLIC PLATE, though. It was large and looked like it might be a
+way into another area. Sure enough, it left behind a DARK TUNNEL when I
+PUSHED it. The landing team passed through the DARK TUNNEL when I LOOKED at
+it. At the end of the DARK TUNNEL, we entered a large cubic area (the CORE)
+with only one new hotspot besides the entrance to the DARK TUNNEL -- the
+PEDESTAL. The asteroid, as Brink then remarked, was hollow after all. (Now
+I understood Borden's earlier comments about gravity and bubbles.) Boston
+tried to contact the shuttle on the penultimate, but communications were
+blocked. <MORE Twilight Zone music> I LOOKED at the PEDESTAL and was taken
+to what appeared to be a puzzle screen consisting of four PLATES and some
+SQUARE INDENTATIONS. It seemed painfully obvious that the PLATES were
+supposed to go in the SQUARE INDENTATIONS. So I picked up the bottom PLATE
+and USED it on the SQUARE INDENTATIONS. I was taken to a close-up screen of
+the SQUARE INDENTATIONS, which showed the directions TOP, BOTTOM, RIGHT and
+LEFT. I USED the PLATE on a couple of the directions until it settled in
+the BOTTOM. I then EXITED and TOOK the remaining three PLATES. I placed
+them all in inventory and decided to talk to my crew before going further.
+BRINK identified the PLATES I'd picked up as the ones I'd pushed through
+the shafts in the tunnel. And ROBBINS gave me a spoiler I didn't need --
+that the plates could be arranged to fit the indentations. Aside from that,
+their comments were fairly innocuous. So I decided to move on. I RETURNED
+to the SQUARE INDENTATIONS and, once back at the close-up screen, I reached
+into my inventory and took out the PLATES one by one and PLACED them in the
+TOP, RIGHT, and LEFT spots. This time I tried to be a little less arbitrary
+in how I placed them -- I tried to match them to the spaces that they
+looked like they'd fit -- but since there aren't that many choices, it
+doesn't really matter whether you bother with this exercise or not because
+trial and error is pretty painless. When the last of the PLATES was placed,
+a totally amazing thing happened! Attila began to move and hyperspaced
+across the galaxy taking the crew with it! It settles in an island-looking
+thing surrounded by five spires and the next thing I know, the crew are all
+standing in an unfamiliar place, with planetoid gravity and a breathable
+atmosphere. After taking off their spacesuits, the crew contemplates their
+predicament: Attila was actually a starship created by alien life forms,
+and they are far, far away from home indeed.
+
+ON COCYTUS
+
+Here again, I decided to get my crew's first impressions of the situation
+before exploring myself. Call me a cautious commander. BRINK didn't have
+much to offer except a cryptic remark that sometimes the best way down was
+up and the best way up was down. ROBBINS had even less of import to tell
+me. I couldn't reach my shuttle crew because of distance. (Every time I
+tried to contact them later on, I had the same problem, so I've omitted the
+times I tried that from the walkthru.) I started poking around where I was.
+Our SPACESUITS lay on the ground next to me, but I couldn't take them. Same
+result with our JETPACKS. There was a PLANT that I also couldn't pick up.
+And the PLATFORM that we landed on, with which BRINK saw similarities to
+ancient Peruvian masonry when I LOOKED at it. My other options were the SKY
+and a CLEARING. I decided to take a LOOK at the SKY first. Above us, a
+LARGE MOON and a DISTANT MOON, smaller than the LARGE MOON, orbited the
+planet. I chose CANYON to exit this screen and moved on to the CLEARING. At
+this point, Brink gave his first indication of challenging my authority,
+but Maggie jumped to my defense and he backed down. From the CLEARING
+screen, I could see three hotspots with ?s on them. I went to the rightmost
+one at the base of what looked like a tall mound first. Maybe there would
+be a way to climb up the mound and get to another area. After discussion,
+however, it was clear we couldn't climb the slope. And there were no
+hotspots in this area except my own crew; hence, nothing to do here at the
+moment. So I went back to the CLEARING to try another of the ?s. I made a
+mental note that at some point later on it might be worth revisiting the
+spot I'd just left, which was now identified on the CLEARING screen as DIRT
+RAMP. I went to the next closest ? toward the top of the screen. There were
+some small rodents running around and a GRAVE here with some TUSKS sticking
+out of it. Brink noted that the animal remains seemed to have been placed
+as markers of some sort. I decided to take a closer LOOK at both the GRAVE
+and the TUSKS, so I LOOKED at the GRAVE first. Boston remarked that it
+looked like something was buried there, so I decided to try digging up
+whatever it was. I USED the SHOVEL on the GRAVE, and after Brink yelled at
+me for being destructive, I dug until I'd opened up the GRAVE. The TUSKS on
+top of the GRAVE had fallen to the ground, so I TOOK one (note that you can
+also TAKE the TUSK directly from the mound before digging the GRAVE if you
+wish). Boston remarked that it felt as strong as steel. I SHOWED it to both
+of my crew members by clicking it on them. (Now that you know how to show
+things to people, I won't tell you how to do this every time to save you
+still more download time. Hahahahaha again again.) Maggie noted that the
+tip was sharp. Brink just smarted off. I briefly considered that the TUSK
+might be used later in connection with something that required its strength
+and sharpness. Then I noticed a JAWBONE, so I TOOK it. When Boston picked
+it up, he said that the teeth still looked strong. When I SHOWED it to
+Maggie, she said that the teeth still looked sharp. Brink didn't have
+anything valuable to say. I briefly considered that the JAWBONE might be
+used later in connection with something that required its strength and
+sharpness. (Cool, huh? I just had to copy that last part of the sentence
+and paste it in <GRIN>.) Now the only thing left to LOOK at were BONES, but
+I couldn't take any more of them. So I went back to the CLEARING to check
+out the last ?. I noticed that the place I'd just visited was now called
+the GRAVE on the CLEARING screen. The last ? had the remains of some sort
+of spacecraft in it toward the left, as the game showed me automatically.
+On my starting screen, I could see part of an ENGINE, so I LOOKED at it.
+Boston told me that it was hopelessly ruined. Since we'd moved closer to
+the craft while looking at the ENGINE, I could now see two more hotspots --
+another ENGINE and the WRECK itself. I checked out the other ENGINE first,
+and learned that the ENGINES were enormous but that there was no evidence
+of combustion. Brink thought that the ship wasn't of the same technology as
+the other evidence we'd seen so far. LOOKING at this ENGINE had also
+scrolled us farther to the left, so I checked for a way out by walking the
+party to the left as far as I could. There wasn't one. The only thing left
+to do now was INVESTIGATE the WRECK, so I did and we went inside. Brink
+insisted on looking around, but apparently, the sight rendered him
+speechless. There was a CHEST here, and it OPENED to reveal a DEVICE which
+I took. I SHOWED the DEVICE to my crew, but they didn't have much to say
+about it. I put it in my inventory and from there EXAMINED it, but this
+didn't tell me anything new either. I did notice, though, that when I tried
+to pick it up again, I USED it automatically. It gave an indication to the
+right. Some sort of compass? Hmmm. Maybe. To early to tell. There was also
+a HANGING WIRE here, and I knew from playing other games that this could be
+a useful item if I could take it -- or maybe Boston would climb it or
+something. If I could take it, it might be used as a rope to climb
+somewhere or to tie something to something else, or otherwise to connect
+two things together. I didn't know yet, but it seemed a great find. I
+PULLED the WIRE -- and something really strange happened. A swirling light
+came down seemingly from nowhere, and as Brink noted, it formed different
+shapes of polyhedrons. Then it disappeared as quickly as it came. I PICKED
+UP the WIRE, which had fallen to the ground, and everyone agreed with my
+initial instinct that it might be useful when I SHOWED it to the crew. But
+where the swirling light had crossed, there was now something else -- an
+ENGRAVED ROD. I TOOK the ENGRAVED ROD. Everyone was baffled by it when I
+SHOWED it to them. How could we have missed it when we first walked in?
+Unless the light... but no, Brink thought that was too ridiculous to even
+contemplate. Since I'd skimmed the game booklet before playing (I generally
+do before jumping in -- no telling what good info you might find in there)
+and it had suggested examining rods, I EXAMINED the ENGRAVED ROD and found
+that the rod was engraved (duh) and had five geometric shapes. Funny. Brink
+had said that the swirling lights formed polyhedrons and now I had some
+geometric shapes here in solid matter. Had the lights been trying to tell
+us something? There was nothing left to do here now (unless I wanted to
+keep opening and closing the chest until the next millennium), so I decided
+to go back to where I'd started and assess my options. But first, I decided
+to check with my crew to see whether they had anything new to say. I
+noticed when I SPOKE to BRINK that I had a new option for the STRANGE
+LIGHTS. I went through all of the options again. He wasn't much help except
+to encourage me to keep trying to pick up everything I saw. (He must have
+played a lot of adventure games.) ROBBINS didn't have much to offer, except
+to speculate that the lights could have been alive, to which Boston said,
+if so it wasn't organic life. Inorganic life? What a concept! We went
+OUTSIDE and after RECHECKING the ENGINES and learning little new, headed
+back to the CLEARING. Here, we learned that the place we'd just been was no
+longer a ? but a WRECK, and that we had started from a DAIS. Upon returning
+to the DAIS, the swirling lights appeared again and seemed to be pointing
+to a patch of ground to the right of the screen. Maggie thought that they
+were trying to tell or show us something. The group wondered aloud whether
+the lights were alive, or maybe an automatic guidance system. This made a
+connection in my mind. The blue, orb-like DEVICE I'd picked up in the WRECK
+also seemed to be some sort of guidance system, since it had pointed a
+particular direction when I last USED it. Before doing anything else, I
+decided to USE the DEVICE again. It was pointing behind me. I got the idea
+that perhaps it was pointing to one of the other locations in the CLEARING
+that I'd been to, and since it had pointed elsewhere at the WRECK and the
+DAIS, and also since I hadn't been able to do anything at the DIRT RAMP
+before, I decided to try there first. From the CLEARING, we returned to the
+DIRT RAMP and I USED the DEVICE here. It pointed directly at a SMALL MOUND
+that hadn't been there on my first trip through. I USED the SHOVEL with the
+SMALL MOUND in the hopes that something might be buried there, too. I DUG a
+HOLE inside of which there was a BRACELET that I TOOK. My crew didn't have
+much to say about the BRACELET when I SHOWED it to them except for one quip
+of Brink's, that it might be useful as well as ornamental. Since Boston now
+had the BRACELET, I decided to see what would happen if I now USED the
+DEVICE. It pointed at Boston. So Brink was right, it _was_ useful! Now I
+knew that the DEVICE tracked the BRACELET, and since I'd encountered
+tracking devices before in adventure games, I suspected that at some point
+down the road I'd need to put the BRACELET somewhere and use the DEVICE to
+find it again. Finding nothing more to do at the DIRT RAMP, I determined to
+carry on with my original idea -- to return to the DAIS, consider all of
+what I'd learned so far, and formulate a plan. As it happened, the plan
+wasn't long in coming. I TALKED through all conversation options with my
+crew, and both BRINK and ROBBINS were in favor of taking a closer look at
+the area where the strange lights had hovered when we had returned to the
+DAIS previously. I didn't have any better idea, so I obliged them. The spot
+where the strange lights had seemed to point was now a new hotspot, a SMALL
+HOLE, which Boston said was too small and dark to see if it led anywhere.
+Oh, goodie! If I could enlarge the hole, and/or illuminate it, maybe we'd
+find a passage. I used the SHOVEL with the SMALL HOLE and Boston began to
+dig yet again (by now the game's name made a lot of sense). He observed
+that the ground was soft, and that perhaps there was an opening that had
+been covered up by drifting soil. Brink insisted on taking over the
+digging, and, most unfortunately, the opening gave way and he fell through
+the hole!
+
+IN THE NEXUS: Morgie's Day 1
+
+After this happens, you see Maggie and Boston climb down a ramp of dirt and
+rock that had formed when the SMALL HOLE collapsed. They finally reach
+Brink. Alas, he's dead, and Boston feels terribly guilty about that. Maggie
+decides that it's best to split up and separately try to find clues about
+how to get home. There wasn't anything I could do to stop her, and I was
+sorry to see her go. Oh well, I could still talk to her on the PENULTIMATE.
+With one dead crew member and one absent one, I had no choice but to
+explore on my own for awhile. Good thing there was plenty to see. First, I
+put away my trusty SHOVEL, then paid my respects to BRINK'S BODY. I
+considered that it was unusually early in the game for him to pop off, and
+this planted the seed in my mind that perhaps some place, thing or person
+in the game would be able to bring him back to life. After all, he was an
+archaeologist, and it was likely that I'd need his skills to understand
+this unusual place, even though he had turned out to be a haughty kind of
+guy. Not to mention that there was a picture of an area I hadn't been to
+yet on the game box in which Brink appeared as well as Boston. To the left,
+I saw a PLATE lying on the ground. It looked just like one of the plates
+we'd found on Attila. I TOOK it. There were also some GLOWING PLANTS, which
+took energy from Boston when he TOUCHED them. He remarked that they must
+share a common root system. I moved on to the left, and saw a PANEL and a
+SEALED DOOR. The PANEL took me to a screen with four strange BUTTONS on it
+when I LOOKED at it. They looked like a control for the SEALED DOOR, but
+since I wasn't sure what to do with them for now, I EXITED. Nothing
+happened with the SEALED DOOR when I gave it a PUSH. Moving on to the left,
+I saw a RAMP and a DARK TUNNEL. I decided to finish checking out the rest
+of the room before exploring these. Going left again, I found another PANEL
+and another SEALED DOOR. This PANEL, too, had strange BUTTONS, and this
+SEALED DOOR was also shut tight. Continuing my leftward trek, I found a
+PURPLE ENGRAVED ROD. After TAKING it, I EXAMINED it and found some colored
+geometric symbols on it. NOTE: I discovered in replaying the game that the
+symbols appear to be set randomly from game to game. In my first game, I
+had a red "circle," a green "hexagon", a blue "triangle", and a red
+"hexagon" on the PURPLE ENGRAVED ROD. In the second game, progressing from
+a prior save, I had a red "triangle", a green "hexagon," a green "cube",
+and another red "triangle" on this same rod. So you'll have to look
+carefully at your own PURPLE ENGRAVED ROD (as well as the others mentioned
+below) to distinguish the shapes and colors, as I don't think anything I
+could offer would help here. The shapes seemed to resemble the BUTTONS on
+the PANELS I'd found, and therefore I speculated that they held a
+combination to the SEALED DOORS' locks. After noting this, I moved on.
+Behind Boston, another PANEL and SEALED DOOR awaited. I found the
+characteristics of these identical to the first two I'd seen. To the left,
+I saw a COLUMN. I LOOKED at it and learned that it had smooth grooves on
+its surface, but not much more. Continuing left, I encountered a fourth
+SEALED DOOR and PANEL, that were just like the first three. Finally, just
+before I completed the circle and found myself back at BRINK'S BODY, I
+found another SEALED DOOR. This one did not have a PANEL next to it, but it
+did have an ALCOVE. When I LOOKED at the ALCOVE, I found myself at a puzzle
+screen very similar to the one I had seen on Attila, with TOP, BOTTOM, LEFT
+and RIGHT slots. Plates had worked before on a similar puzzle, and luckily
+I was carrying one. The PLATE that I had was shaped just like the BOTTOM
+space, so I PUT it on the BOTTOM and it attached there. I EXITED, thinking
+that somehow, somewhere, I'd need to find three more plates. Since there
+was no PANEL next to this fifth door, I made the working assumption that
+the ALCOVE was this door's control and the PLATES were what triggered it.
+Having completed my circle, I decided to explore the other areas available
+to me before attempting to figure out just how the PURPLE ENGRAVED ROD
+might work with the PANELS. I chose the RAMP first. Upon descending the
+RAMP, I found myself in an eerie, hot space with a glowing area below.
+Boston figured it was the power source for the place I was in and commented
+to the effect that he'd need to figure out how to turn the power on. (This
+was my first clue that I'd need to turn on the power.) A LOOSE PLATE behind
+Boston came off when I OPENED it, and inside I found a BLUE CRYSTAL. I was
+able to TAKE the BLUE CRYSTAL, but when I did everything became dark. So I
+decided to PUT it back for the time being so that I could see better.
+Obviously, it was some form of light source, because all became bright
+again when I RETURNED it to the EMPTY SLOT. I next LOOKED down over the
+EDGE and saw an UNATTACHED LENS. I had the sense that I was supposed to get
+it somehow, but how was beyond me. I tried a few things, like USING the
+WIRE with the EDGE in the hopes that I could climb down there, but nothing
+worked. Probably because it was white hot down there and I would have
+fried, but this didn't occur to me at the time. Nor did I notice the other
+hotspots here since the UNATTACHED LENS was so obvious, it distracted me.
+Next to the EDGE I saw a CONTROL PANEL with a number of BUTTONS that I
+found in a close-up screen when I LOOKED at it. Each BUTTON caused a
+colored circle to appear on a screen to the right when I PUSHED it. This
+control reminded me of the game Mastermind, and I tried for awhile to see
+if I could win. I didn't make any progress, but I did notice that the
+center BUTTON could only be PRESSED once in a row, while the others that
+produced colors could be PRESSED multiple times in a row. Two of the
+BUTTONS removed the colored circles. One removed them one at a time and the
+other removed all of them. I USED the "remove all" BUTTON to clear my messy
+screen and EXITED. Further to the left was a TRIANGULAR BUTTON. Nothing
+happened when I PUSHED it. Baffled, I decided to try the DARK TUNNEL. I
+went up to the NEXUS and into the DARK TUNNEL. I ended up in a lovely
+crystalline space on a sort of stone bridge. Toward the left, after
+scrolling as far as I could go, the bridge ended at a glass house-looking
+thing with two hotspots for BUTTONS. I PUSHED the nearest BUTTON and a door
+opened. I walked inside and now could see an AIRLOCK DOOR. I figured I'd
+need to close the door behind me before I could get through to lock out
+unwanted air, so I PUSHED the second BUTTON and the first door shut.
+Another PUSH on this BUTTON opened the AIRLOCK DOOR and I went through it.
+(Now that you know how to operate the AIRLOCK DOOR, which works the same in
+reverse, I'm not going to repeat this every time to save you... yeah, you
+guessed it.) I wound up in a circular room with six large WINDOWS around
+the periphery. I LOOKED through each of the six WINDOWS and learned a bit
+about where I was from Boston's remarks. A system of tunnels passed
+underwater, connecting the large, central island (the NEXUS) with other,
+smaller islands. I imagined I'd have to get into those tunnels somehow.
+Through the left-hand side WINDOWS I could see a crystalline tube, which
+appeared to be one of the tunnels. Hmm. I wasn't sure at this point, but
+maybe the SEALED DOORS I'd seen led to the tunnels. They seemed to be the
+only openings available to me in the NEXUS, so that would make sense. The
+center of the room showed a GLOWING PANEL, which I decided to EXPLORE. This
+took me to a screen that showed four energized CRYSTALS, three empty HOLES,
+a CRYSTAL CLUSTER where all the crystals met, and one dark, lifeless
+CRYSTAL. I figured I'd have to replace that dark CRYSTAL or something at
+some point, but I wasn't sure how to do it. (I later went back and tried
+every crystal I picked up in the game on it hoping to replace it, including
+the BLUE CRYSTAL from the RAMP area and the GLOWING CRYSTALS discussed
+below, to no avail.) I tried PUTTING the PURPLE ENGRAVED ROD and the
+ENGRAVED ROD in the HOLES, but neither fit. Not sure what to do here
+either, I EXITED and returned out through the AIRLOCK and back through the
+DARK TUNNEL to the NEXUS. I had a couple more ideas up my sleeve before I
+could call myself stuck. The first was to try the PURPLE ENGRAVED ROD with
+all the PANELS. The second was to try a bit harder to figure out how to get
+that UNATTACHED LENS. But before I tried either one of these, I decided to
+BUZZ ROBBINS on the PENULTIMATE to see if she had any ideas. I went through
+all the conversation options with her. In addition to some chit-chat, she
+told me she was busy deciphering symbols that were all over the place where
+she was, and that I might want to figure out how to turn on the lights.
+(This was my second clue that I had to turn the power on.) She also
+continued trying to convince me that the strange lights, or ghosts as we
+were now calling them, had been trying to lead us down here. Boston
+suggested that she continue learning the language while he found more
+PLATES for the ALCOVE so that she could read any directions as to how to
+use them. I didn't realize it at the time, but this was a rather hefty clue
+as to what I'd need to do at a later point in the game.
+
+IN THE NEXUS: Morgie Loses It On Day 1
+
+After talking to Maggie, I knew that I'd have to turn the power on since
+there had been two mentions of that, but I didn't make the right connection
+just then. I didn't see these clues as an indication that the game had gone
+from somewhat nonlinear while we were exploring the surface, to linear down
+in the NEXUS. If I had, I would have focused on turning on the power to the
+exclusion of all else. But it was after midnight, I'd been playing for a
+number of hours, and I was tired. So I made a wrong choice here and started
+focusing on the PURPLE ENGRAVED ROD. I plugged the combination into each
+PANEL by HITTING the BUTTONS until the shapes and colors matched. I tried
+going from left to right and from right to left in the order they appeared
+on the rod. Then I thought: well, there are four shapes and four doors, so
+maybe each door is coded to a shape? So I plugged in a straight row of each
+shape/color to each of the panels. I also tried to match the order of
+colors with each single shape (e.g., red triangle, green triangle, blue
+triangle, red triangle since this was the color order in my game). Then I
+tried to see a connection between the shapes of the doors, the shapes of
+the panels, and the shapes on the rod. Nothing worked and I was close to
+exasperation. I even tried USING the PURPLE ENGRAVED ROD on the PANELS, and
+Boston confirmed my suspicions that it was a key of some sort. But, he
+mused, is it the key to this lock? This was something of a hint to me that
+instead of being a key to _all_ doors, it was only a key to one of them.
+But for the life of me, I couldn't get _any_ of them to work. I resorted to
+EXAMINING all the SEALED DOORS and PANELS and tried to narrow down my
+options by focusing on the one door that had "four bright crystals" instead
+of dark ones. Still no luck. I finally got really bored with PUSHING
+BUTTONS and moving shapes around with no success, so I went back down the
+RAMP to see if anything made more sense this time around. This time, I did
+notice more hotspots when I looked over the EDGE. In addition to the
+UNATTACHED LENS, there were three LENSES and a LENS SLOT with the lens
+missing. Now I saw the logic here. I somehow had to get the UNATTACHED LENS
+into the LENS SLOT. I was dealing with a broken alien machine. Who would
+have thunk it. But I still wasn't sure how to get from point A to point B.
+I TOOK the BLUE CRYSTAL again (at least it was something I _could_ do) and
+decided to have another go at the CONTROL PANEL. This time, also, when I
+PUSHED the TRIANGULAR BUTTON, nothing happened. I PUT the BLUE CRYSTAL back
+in case it was necessary to run the power, and HIT the TRIANGULAR BUTTON
+again. Now I was cooking with something less than Crisco -- some
+bizarre-shaped thing came down out of a chute, went over the EDGE and moved
+around down near the power source. What the heck was it doing? Gathering
+power and taking it to the surface? I fiddled with the CONTROL PANEL and
+the TRIANGULAR BUTTON a few more times, usually clearing my screen when I
+was done and once (apparently) leaving the colored circles there. I was
+able to get that thing to come down another time, but the next time I
+mucked around with the CONTROL PANEL nothing happened when I PUSHED the
+TRIANGULAR BUTTON. I just didn't get it. Tired, annoyed, and feeling quite
+the inadequate adventurer, I decided to post a message to my fellow player,
+hercules, who was at the time at least a day ahead of me in playing time.
+We had made a pact that we wouldn't read any hint messages to help
+ourselves and only start reading them after we finished (I started reading
+messages about puzzles I was certain I'd completed before I was totally
+finished with the game), but that I could whine to him if I felt like it.
+"Don't tell me the answer," I said after explaining all I'd done. I just
+wanted to whine, I didn't want to concede defeat yet. He posted back that I
+should pick one puzzle to work on because the game became linear at this
+point. But which one? I wondered. What if I barked up the wrong engraved
+rod for days? I decided to call it a night. Maybe the answer would come to
+me in a dream.
+
+IN THE NEXUS: Morgie's Day 2
+
+It wasn't a dream, but it was close. As I fell asleep, I thought about all
+that had happened and all that I'd learned. And when I woke up, the thing
+that finally stood out to me was: GET THE POWER ON. Both Boston and Maggie
+had mentioned it, so it must be important. And since the power source was
+down the RAMP, the CONTROL PANEL and TRIANGULAR BUTTON had to be the things
+to use. I'd wondered the night before how it was I'd managed to get that
+thing to come down the chute twice, and thought at first that it had
+something to do with the BLUE CRYSTAL either being in place or not. (It
+turned out that the BLUE CRYSTAL affected only whether the TRIANGULAR
+BUTTON would work, not whether the thing would come down the chute.)
+Thinking about it in the stark light of day, I had an epiphany. What if the
+CONTROL PANEL and the TRIANGULAR BUTTON were somehow connected? They were
+both controls, so that would make sense. When I tried again, I noticed that
+I could make the thing come down from the chute _every time_ without fail,
+so long as the BLUE CRYSTAL was in place and there were colors appearing on
+the CONTROL PANEL before I PUSHED the TRIANGULAR BUTTON. Even one colored
+dot was enough to get a reaction out of the chute, but the more dots on the
+CONTROL PANEL, the longer the thing stayed down there and the more it moved
+around before zipping back up the chute. I can't explain exactly how it
+came to me what I had to do here. Having stopped playing DUNGEON MASTER II
+to pick up THE DIG (I'd been waiting for THE DIG eagerly since adventure
+guru Leo Drago and I first saw a demo of it at the winter 1994 CES), I'd
+recently had occasion to deal with "porter minions" that would pick up
+items for my characters, move them to a desired location and drop them
+there. Perhaps it was this, or the way the dots seemed to make a difference
+in the way the thing moved down by the LENSES, or both, that made me
+realize that the thing from the chute was a remote control device with
+which I could MOVE the UNATTACHED LENS into the LENS SLOT, that the CONTROL
+PANEL directed its movement, and that the TRIANGULAR BUTTON initiated the
+sequence. Now I just had to figure out which colors made the thing do what.
+I was pretty sure just through intuition that the center BUTTON (which
+could only be pressed once in a row) was the grab/release mechanism and the
+others would make the thing move specific directions. The simplest way to
+figure out what the BUTTONS did seemed to be to plug in a line of one color
+on the CONTROL PANEL, PUSH the TRIANGULAR BUTTON, watch what happened, and
+then repeat with the next color. This way I'd be able to devise a program
+that would get the thing to the UNATTACHED LENS, grab it, take it to the
+LENS SLOT, and drop it there. I found through this system that the BUTTONS
+did the following: purple, move left; blue, move up; green, move right;
+yellow, move down. Knowing this, I devised the following program (I had to
+PUSH the TRIANGULAR BUTTON a few times as I was putting the program
+together to make sure it was working right): yellow, yellow, purple,
+purple, purple, purple, orange (take lens), blue, blue, blue, blue, blue,
+blue, orange (drop lens). When I had it all plugged in, I PUSHED the
+TRIANGULAR BUTTON one last time, and sat back to admire my creation as it
+worked just as expected. The next time I LOOKED over the EDGE, the power
+was operating normally. Yaaaa-hooooo! I saw no reason to keep the lights on
+down here, so I TOOK the BLUE CRYSTAL and went back up to the NEXUS. Now
+maybe one of the doors would finally open. I just had to figure out which
+one. I thought it might be interesting at this point to just take a look
+around and see if anything had changed now that the power was on, so I
+started moving in my favorite direction (left) around the room again. I saw
+that the COLUMN now had some cool purple and white lights moving up it, so
+I LOOKED closer. A huge amount of energy now flowed along the COLUMN. I
+wondered where it was going, and I told myself that I'd go back outside
+soon to see if I could find out the answer. To the right of the COLUMN,
+some SPARKS came up through an energy conduit in the floor. The SEALED DOOR
+here was still shut tight, and when I EXAMINED its PANEL, I found it
+corroded, and its crystal buttons dark. Seemed as though I'd have to fix
+this problem and light up those crystals before I could hope to get this
+door open. I recalled the WIRE I had, and USED it with the SPARKS. Boston
+reminded me that I'd have to attach the jumper cables to the dead battery
+first, but I couldn't find anything to attach the WIRE to on the PANEL.
+Maybe, then, this wasn't where I should use the WIRE? But I couldn't USE it
+with the next PANEL to the left or with the COLUMN, and it didn't look long
+enough to string across the entire NEXUS. So, taking Boston's car metaphor
+a bit further, perhaps I'd have to pop the hood on the nearest PANEL. I
+happened to have an item noted for its strength and sharpness, and that as
+an added benefit was shaped like a prying tool -- the TUSK. I USED the TUSK
+with the PANEL and the cover came off. When I EXAMINED the inside of the
+PANEL, I found a corroded mess that wasn't getting any power. So I USED the
+WIRE with the PANEL, and then with the SPARKS. Et voila! Now the crystals
+were bright! Unfortunately, I made a wrong assumption here that was the
+beginning of a snowball effect into Morgie losing it on day 2. I latched on
+to the concept that the PANEL I'd just fixed had to be the one that the
+PURPLE ENGRAVED ROD corresponded to. I tried backwards, forwards, and all
+of my convoluted combinations again without success. So I moved on to the
+next door to the left, and went straight for its PANEL. Again, I had no
+luck. I skipped the next door, which had the ALCOVE next to it and went on
+to a third PANEL. Again, no luck.
+
+IN THE NEXUS: Morgie Loses It On Day 2
+
+Somehow, I now became hopelessly confused. I think what happened was: I
+left the game to get lunch and run errands, then returned to the game and
+mistakenly believed that I was trying to open the one door I hadn't tried
+yet, when in actuality, I was working on the third one again. In any event,
+I tried and I tried, and I was absolutely convinced that I had tried all
+four doors and my rod wouldn't work on any of them! I went to GAMERS hoping
+to bump into hercules to ask him what was going on. But he was nowhere to
+be found, and I was so convinced that something was wrong, and so sick of
+PUSHING BUTTONS and moving shapes with no result again, that I grit my
+teeth, broke my promise to my fellow player, and looked on the message
+board for a likely thread, fully prepared to avert my eyes and hit <ENTER>
+to get to the next message at the slightest sign of anything that I hadn't
+yet experienced in the game. I only found one message that could have
+applied, and it suggested that the BLUE CRYSTAL had to be in place in the
+power room for the doors to work. So I schlepped the BLUE CRYSTAL back to
+the EMPTY SLOT again (and _left_ it there until I had no choice but to
+retrieve it later in the game since it seemed to control so many things)
+and tried the first door I came to when I got back to the NEXUS. Here I
+noticed, before I started banging on the PANEL, that the SEALED DOOR was
+now emitting a low hum, and I (wrongly, as it turned out) believed that
+that meant it was ripe for opening. (I discovered in replaying that three
+of the four doors with PANELS were humming, so this wasn't the clue I
+thought it was). I plugged in the combination on the PURPLE ENGRAVED ROD as
+it appeared there from left to right and the SEALED DOOR opened! I took
+time out from this minor triumph to make a mental note that left to right
+appeared to be the right order in which to read the combination, in case I
+should come upon another similar one later. Looking back now, I see that
+this happened to be the fourth door -- the one I'd skipped the first time
+when I started wandering around the NEXUS to see what had changed, and had
+in fact never tried before. <SHEEPISH grin> For days thereafter, I swore up
+and down to hercules that the BLUE CRYSTAL controlled the doors somehow. He
+was too polite to laugh at me (a first for him) but kept suggesting that if
+that were so, it would be a nonsensical puzzle since the BLUE CRYSTAL
+seemed only to be a light source. Having just replayed this part several
+times, I am here to tell you: the BLUE CRYSTAL has _no effect_ whatsoever
+on whether the doors will open. The only things you have to do to open the
+first door are turn on the power in the NEXUS and find the one door that
+will open with the PURPLE ENGRAVED ROD's combination. You don't even have
+to use the WIRE on the other PANEL first. Tip: Resist the urge to leave the
+game, eat lunch, and run errands, or otherwise do anything that might deter
+you from completing a systematic testing of each of the SEALED DOORS with
+PANELS until you get that damned door open.
+
+ON THE MUSEUM SPIRE, PART 1
+
+I now had another place to go after what seemed like an eternity of
+bumbling around in the NEXUS, but first I wanted to check in with Maggie --
+and also to go outside again and see if I could learn more about where the
+energy flowing on the COLUMN might be going. I RANG up ROBBINS on the
+PENULTIMATE and told her about my discovery of the lock combinations. Since
+she had no discoveries of her own to share with me, I went on up into the
+CANYON. Here I saw that energy was now rising from the PLATFORM and forming
+a GLOWING SPHERE in the SKY. That was enough for me. I left the CANYON
+through the SMALL HOLE and decided to see what was behind door #1 (and
+whether I'd want to trade it for what was behind the curtain). Through the
+OPEN DOOR, I came onto a platform of sorts, and now Maggie called _me_ to
+tell me she'd found a room full of alien technology with working machines.
+But she didn't know exactly where she was and couldn't tell me how to get
+there. I got the irrepressibly clever idea to CALL her right back on the
+PENULTIMATE, and when I asked her for a progress report on deciphering the
+language, she gave me the thorough razzing that I so greatly deserved. The
+new area I'd come to had only one hotspot -- a ? on a pyramid shaped stone
+structure. Boston PUSHED it and a circular thing arrived in response. I
+learned that instead of a ?, I now had a TRAM CALL, with the circular thing
+being a TRAM. I BOARDED the TRAM, and it rolled away through one of those
+crystalline tubes I'd seen through the WINDOWS in the AIRLOCK. Interesting.
+So the SEALED DOORS _did_ lead to those tunnels I'd seen. Boston got out of
+the TRAM in a place that had a WEAKENED DOOR, a RUINED DOOR, and a passage
+to the OUTSIDE. I couldn't OPEN the WEAKENED DOOR without help, so I made a
+note to try again when I met up with Maggie or found someone else who might
+be able to help me. Since I was told nothing could OPEN the RUINED DOOR, I
+took this as a challenge and tried USING the TUSK and the SHOVEL on it.
+Neither worked, and I gave thanks that the game wasn't lying to me so early
+in our relationship. Then I went OUTSIDE. I discovered a FOSSIL on the
+ground that I LOOKED at and EXAMINED. Bones of some creature had hardened
+into the rock, but I couldn't do anything with them so I EXITED and took a
+walk down to the WATER. When I arrived, a strange animal crawled up onto a
+rock next to me. Then, as I watched, a horrible sea monster grabbed it and
+ate it. Luckily the monster didn't come after me. When I LOOKED at the
+WATER, I convinced myself that swimming in the same water as that monster
+was a bad idea. (This was my first clue that I had to get rid of the
+monster). I took the PATH back up to the shore and then went UP the spire
+further. In this area, I found a STRANGE DEVICE, and when I LOOKED at it,
+another of those strange light ghosts appeared and swirled around it.
+Boston remarked that the last one had pointed the way to the NEXUS. (This
+was my first clue that I had to do something with the STRANGE DEVICE.) The
+STRANGE DEVICE had a PANEL on one side that I couldn't OPEN. Below, a LENS
+was attached to the rock, and I found that I could MOVE the LENS into three
+different positions. When I LOOKED again at the STRANGE DEVICE, I could see
+what appeared to be its controls -- a SWITCH that made a glowing shape
+appear when I PRESSED it, and a colored piece that made no sense to me.
+Neither did the pictures on the left side. I didn't have any idea what to
+do here for now, so I EXITED and went through a DOOR. The place I now
+entered seemed to be a museum. I TOOK some GLOWING CRYSTALS that were lying
+on the ground and EXAMINED them (there were two). I also TOOK a TABLET that
+looked like it had an alphabet on it and EXAMINED that, too. The TABLET had
+a complex picture on it that I couldn't figure out. Above where I'd seen
+the TABLET, I found a DISPLAY of changing pictures. Some of the symbols
+reminded me of ones I'd seen on the STRANGE DEVICE outside, but I wasn't
+sure exactly what the exhibit was telling me. I LOOKED at the DISPLAY (and
+the ones described below) several times, but I still couldn't interpret
+this one fully. Later on, I concluded that it had something to do with how
+to use the STRANGE DEVICE. Still later, I learned that this conclusion was
+probably wrong, even though it had helped me to figure out how to use the
+STRANGE DEVICE. Funny how that works, isn't it? To the left, another
+DISPLAY showed a dragon-like beast going (or being put) into a triangular
+shape and some other pictures in which moons figured prominently. Boston
+wondered if this DISPLAY depicted some sort of burial chamber. When I
+WATCHED the DISPLAY a second time, Boston noted that the larger moon was
+being eclipsed by the smaller one. This made me think of the two moons I'd
+seen in the SKY at the DAIS, and I suspected that this exhibit had
+something to do with an eclipse that had happened here on this planet at
+one time. The DISPLAY next to the eclipse exhibit showed something breaking
+over what looked to be a skeleton, and the skeleton transforming into a
+beast. "Hmmm," was all Boston could say. I agreed with him. At this point,
+I noticed something red on a platform toward the left of the screen -- a
+RED ENGRAVED ROD. Yay! The key to another door! Now I knew I wouldn't be
+stuck wandering around in the museum until Christmas. I EXAMINED it, and
+saw four more nifty colored shapes, which made me feel confident that it
+would work just as the PURPLE ENGRAVED ROD had. On the same platform, a
+last DISPLAY showed some beasts putting something into something else, and
+Boston quipped, "that canister sure packs a punch." Each time I watched
+thereafter, he made a little-boy-like noise that imitated an explosion. I
+still had a DOOR to explore here, but before going off into the unknown, I
+decided to see if anything I'd just done gave me anything new to talk to
+Maggie about. I found when I CALLED ROBBINS on the PENULTIMATE that, in
+fact, it had. Of the TABLET, she would only tell me that it wasn't the same
+set of symbols she was working with, that it seemed designed so that
+strangers couldn't read it, and that she'd try again to read it when she'd
+learned more. (This was my first clue that Maggie might be able to
+interpret the inscriptions on the TABLET.) About the GLOWING CRYSTALS,
+Boston asked whether Maggie believed that the dead could be raised. Gotcha.
+That was what the DISPLAY with the skeleton and the beast was all about. I
+knew now that I'd go back to BRINK'S BODY at the first opportunity and USE
+the GLOWING CRYSTALS on him. But the DOOR beckoned and it was kind of a
+hike back to the NEXUS, so I went through the DOOR -- and met up with
+Maggie! She was in a sort of library and told me she felt close to making
+some breakthroughs on the language so she didn't want to hook back up with
+me. (Ok, fine. I'd just try to get Brink to help me with that WEAKENED DOOR
+if the GLOWING CRYSTALS worked. So there.) I TALKED to ROBBINS again while
+I was there, and she told me she was retrieving a lot of data in the
+LIBRARY, but wasn't sure what it all meant yet. I LOOKED at the three
+CONSOLES that appeared along the LIBRARY's walls. They seemed to be part of
+a single computerized data retrieval system, that contained data in many
+languages. I couldn't think of anything else to do here for now, so I
+figured I'd go back and try my luck at resurrecting Brink. I went back
+through the MUSEUM, to the OUTSIDE and DOWN the spire. On a whim, I went
+back down to the WATER, and another of my animal friends (the last of which
+had become a meal for the sea monster before my horrified eyes), a SEA
+CREATURE, appeared and started to feed on some plants. I LOOKED at the SEA
+CREATURE and discovered it was kind of six-legged turtle. I couldn't TAKE
+it, and it didn't seem to want to follow me. It just chowed down for
+awhile, then jumped back in the water. I noticed that it would return from
+time to time in different spots as long as I stood there, but anything I
+tried to USE with it risked frightening it, so I thought perhaps something
+might be missing that I'd need to use with it. For now, I'd take the TRAM
+back to the NEXUS. I felt a sense of power knowing I could open up another
+door if I wanted to, but I thought I'd save that as something to do if I
+got stuck again (hopefully that wouldn't happen, but you never know). I
+marched straight over to BRINK'S BODY and USED the GLOWING CRYSTALS on him.
+Sure enough, they were in fact life crystals. Brink came back to life --
+but, as he explained, it wasn't just any old life. He now felt more
+powerful and alive than ever before. During this cut-scene, we let Maggie
+know that Brink was back. Everyone marvelled at how miraculous the life
+crystals were. It was now more important than ever that we find our way
+back to Earth. This discovery could change... everything.
+
+ON THE MUSEUM SPIRE, PART 2
+
+Having just been dead, Brink probably had a thing or two to say that the
+average person doesn't, so I CHATTED with him. He seemed inordinately
+interested in those life crystals, claiming that Maggie could learn the
+planet's language faster if she used one, and that we must find more and
+more and more. I tried showing Brink the new things I'd found since his
+death and resurrection -- but Boston balked at showing him the remaining
+GLOWING CRYSTAL, saying that it could be a "really bad idea." I guessed
+that Brink would have taken it, tried to use it to achieve fame and glory
+when he got back home, and take all the credit for discovering it. Boy, was
+I wrong. But at least now I had someone who might be able to help me get
+that WEAKENED DOOR open. Time to go back to the MUSEUM SPIRE. Brink
+followed me back through the MUSEUM TRAM door and into the TRAM. When we
+arrived, he did help me OPEN the WEAKENED DOOR. Inside we found a huge
+basin of LIFE CRYSTALS. A ghost appeared and gave us a signal that Boston
+believed showed the crystals were dangerous. I TOOK as many of the LIFE
+CRYSTALS as I could carry despite the warning, just in case. Unfortunately,
+so did Brink. I also found a CANISTER here, so I TOOK it. I EXAMINED it and
+learned that it looked remarkably like the one that had "packed a punch" in
+the MUSEUM DISPLAY I'd seen. We went out through the DOOR, and even Brink
+couldn't help me with the RUINED DOOR. I was starting to trust this game. I
+wondered if it was married? I started to think about friends I could set it
+up with ("I know this really nice game... you'll like, you'll like"). We
+went OUTSIDE, but my archaeologist didn't have anything to tell me about
+the FOSSIL. Maybe he'd have an idea about what to do with the SEA CREATURE.
+Fat chance. When we went down by the WATER, sure enough, the SEA CREATURE
+surfaced again. This one must not have been as tasty as the last, because
+instead of swallowing it, the sea monster spat it out. Brink promptly
+disappeared after this encounter, and I told Maggie he'd run away. I now
+had a serious suspicion that the LIFE CRYSTALS were addictive and Brink had
+become an addict. Where the SEA CREATURE had been while alive, before
+tempting the monster, I found some LOOSE BONES. When I LOOKED at them, they
+became a jigsaw-type puzzle I'd have to put together. After playing around
+with it unsuccessfully a few times, it occurred to me that the FOSSIL might
+be helpful. When I LOOKED at the FOSSIL again, I realized it was a map to
+the placement of the LOOSE BONES -- but since the FOSSIL was dark and hard
+to see, it was more of a suggestion of where they could go than an outright
+solution. I discovered the way to assemble the LOOSE BONES by referring to
+the FOSSIL. When you've got the turtle back together correctly, you'll see
+it as a DEAD CREATURE instead of LOOSE BONES. I thought I could probably
+use my LIFE CRYSTALS here, and in fact, I could. I USED the GLOWING
+CRYSTALS with the DEAD CREATURE, but the monster just picked up the poor
+creature and spat it out again. Since Boston remarked that the monster
+still seemed hungry, I figured I could get it to eat the turtle again --
+but I also knew I'd have to do something else to the DEAD CREATURE first or
+I'd just get the same result again. The next time I put the LOOSE BONES
+together into a DEAD CREATURE, I got lucky because I USED the CANISTER with
+the DEAD CREATURE. This turned out to be the solution -- I was supposed to
+get rid of the sea monster by using an "alien explosive device." I then
+used the GLOWING CRYSTALS on the DEAD CREATURE and the next time the
+monster grabbed it, everything went "boom" just like Boston had said at the
+end of the museum DISPLAY about the CANISTER. I then LOOKED at the WATER
+and Boston went for a little swim. NOTE: If I had only EXAMINED the WATER,
+as I did much later when I got stuck again and was looking for things to
+do, I would have learned that there was a cave down there -- and this would
+have been my second clue that I needed to get rid of the monster to make
+the water safe for swimming. Then I might have known that I should have
+USED the CANISTER with the DEAD CREATURE instead of merely guessing. <SIGH>
+In any event, Boston swam to the cave, and inside a CHAMBER there I found
+another PLATE and an ORANGE ENGRAVED ROD. I EXAMINED both. Now I knew that
+I was halfway to finishing with the ALCOVE and could open another of the
+SEALED DOORS with PANELS in the NEXUS! I found nothing else to look at in
+the cave, so I decided to CALL ROBBINS on the PENULTIMATE. The only new
+thing she had to say was to agree with me that the life crystals might be
+having adverse effects on Brink -- that they might be addictive and have
+side effects. I still had one obvious thing to figure out on the MUSEUM
+SPIRE -- the STRANGE DEVICE. My plan: to try out the STRANGE DEVICE again,
+then show Maggie the new objects I'd found (which I'd neglected to do
+before when I ran into her in the LIBRARY), then head back to the NEXUS,
+place the PLATE, and finally, open up two more doors with the RED ENGRAVED
+ROD and the ORANGE ENGRAVED ROD. I went back to the CAVERN and through the
+WATER the way I had come, then to the PATH and UP to the STRANGE DEVICE. I
+EXAMINED it and learned that it was the control panel for a light bridge. I
+still couldn't figure out how to make it work, so I went back to the MUSEUM
+and watched the DISPLAY above the DOOR a few more times (this is where I
+decided that the DISPLAY must be a clue to operating the STRANGE DEVICE). I
+thought that I could tell from the DISPLAY that the crystal that lit up
+when I pushed the SWITCH was supposed to be glowing somehow, and that this
+might have something to do with the pentagonal shape to the right. I went
+back to the STRANGE DEVICE, fiddled with it for awhile, and found that I
+would hear tones when I changed the position of the LENS then used the
+SWITCH. Two of the tones were the same and one was different. So I adjusted
+the LENS for the different tone and PUSHED the SWITCH. I held the SWITCH
+down until the crystal above it glowed as in the MUSEUM DISPLAY. As I was
+doing this, I noticed a line forming on the pentagonal shape to the right.
+So I held the SWITCH down until the line completed forming. When EXITED
+that screen and next LOOKED at my surroundings, I found a BRIGHT LIGHT that
+I could walk on. It took me to a map screen of the island surrounded by
+spires. I could walk to a CRYSTAL FORM, so I did. I EXAMINED the CRYSTAL
+FORM and learned that it was so transparent as to be almost invisible.
+Since I couldn't find anything else to do here, I went OUT and back to the
+MUSEUM SPIRE. NOTE on light bridges: You'll find that you encounter a
+number of STRANGE DEVICES with LENSES and PANELS, one on each spire that
+you travel to through a door with a PANEL from the NEXUS. (The spire you
+reach through the ALCOVE door also has a STRANGE DEVICE with a LENS but no
+PANEL.) The last STRANGE DEVICE that I reached from one of the SEALED DOORS
+with PANELS in the NEXUS and attempted to operate (on the TOMB SPIRE as
+discussed below) wouldn't work until I solved another puzzle first. For
+other people, this puzzle occurred on the MAP SPIRE, and in replaying, I
+decided to test the hypothesis that the last STRANGE DEVICE you try to
+operate (apart from the one you reach through the SEALED DOOR with the
+ALCOVE) generates this puzzle. I had a saved game with no light bridges
+operational, and since I knew I'd encountered this puzzle on the TOMB SPIRE
+and others had on the MAP SPIRE (as I learned from messages on the board in
+GAMERS), I activated these two light bridges first, then saved. Then I
+tried the MUSEUM SPIRE's light bridge. No puzzle showed up. But one did
+when I then went to the UNNAMED (PLANETARIUM) SPIRE. Starting from the same
+save, I went to the PLANETARIUM SPIRE first the next time. The puzzle
+appeared in the PANEL in the STRANGE DEVICE here, even though I hadn't yet
+been to the MUSEUM SPIRE. From this experiment, I conclude that the
+appearance of the puzzle is indeed random (although it might be limited to
+one of the last two light bridges you activate) -- but in my game it
+appeared on the TOMB SPIRE so that's the section of this walkthru where
+I'll address it. I went through the DOOR and into the LIBRARY where I
+SHOWED ROBBINS all the items I'd found since I'd gone below the planet's
+surface. She agreed that the RED ENGRAVED ROD probably also worked on a
+lock. When I TALKED to her, I could now discuss the STRANGE DEVICE with
+her. After an initial discussion about the light bridges, this option just
+led to Boston and Maggie making "light" jokes at each other. It seemed an
+endless and unproductive exchange, so I didn't bother trying to exhaust
+this conversation option. Since I felt like I'd pretty much exhausted what
+I could do on the MUSEUM SPIRE for now, I decided to go back to the NEXUS
+and do what I could there with my PLATE and two new ENGRAVED RODS. I
+BOARDED the TRAM and spun off. (I figure that by now you can find your own
+way back to the TRAM, no?) BACK AT THE NEXUS First, I decided to unload the
+PLATE I was carrying, so I went up to the ALCOVE and PLACED the PLATE in
+the TOP. It fit perfectly (surprise... NOT)! Then I walked left and tried
+using the combination on the ORANGE ENGRAVED ROD on the first PANEL next to
+a SEALED DOOR that I came to. This turned out to be a good choice, and
+after plugging in its sequence (again from left to right) on the BUTTONS,
+the SEALED DOOR opened. Just since I _could_, I decided to open a third
+door before moving on. I continued left past the MUSEUM TRAM door to the
+next SEALED DOOR with a PANEL. No success here -- but as expected, the RED
+ENGRAVED ROD _did_ open the next SEALED DOOR to the left when I plugged its
+combination into the BUTTONS on the PANEL. Now I had two options.
+Comforting. But I had a couple of things I wanted to try before continuing
+my explorations. As it turned out, none of them were necessary, but I found
+them somewhat entertaining. I went back out into the CANYON and LOOKED at
+the SKY. As I'd suspected, I could now see the LIGHT BRIDGE I'd just
+activated on the MUSEUM SPIRE connecting to the GLOWING SPHERE. I expected
+that something similar would have to happen in each of the places I had yet
+to visit. The potential symmetry here pretty much hit me over the head.
+Through the CLEARING, I went to the GRAVE. I just had to see what would
+happen if I USED a GLOWING CRYSTAL on the BONES there. At first it looked
+like it might actually work, but my excitement was short lived -- too many
+bones were missing to bring the animal back to life. I also tried a GLOWING
+CRYSTAL on the TUSK and the JAWBONE I was carrying. It made the TUSK
+slightly warm and the JAWBONE twitch, but nothing else happened. I couldn't
+put the TUSK or the JAWBONE back to complete the BONES, or use them with
+each other, so I figured this was a dead end. I went back to the NEXUS to
+explore behind the doors I'd just opened. (I figure you can find you own
+way back to the NEXUS by now, no?)
+
+ON THE AS YET UNNAMED (AKA PLANETARIUM) SPIRE
+
+WITH A SHORT DETOUR I ENTERED the first now-opened door to the left when I
+got back to the NEXUS, where I found a similar platform and TRAM CALL to
+the ones I'd found past the door to the MUSEUM TRAM. I BOARDED a waiting
+TRAM and took a ride through another crystalline tube. When I disembarked,
+I was in an area with a TRAM CALL and an opening to the OUTSIDE. I went
+through the OPENING and arrived at a pathway along some cliffs with a
+raging ocean to the right of the screen. I went UP the pathway to a gorge,
+with a BOULDER on the FAR SIDE. The BOULDER looked like the perfect bridge
+over the gorge if only I could move it. But I couldn't reach it, and none
+of my items worked with it. So I held my breath and prepared to try to JUMP
+to the FAR SIDE. The first time I tried this, I hit the timing wrong.
+Boston ended up in the water, swam back to the beginning of the pathway
+right at the outside of the TRAM platform, then climbed up the cliff to
+where he'd been before completing his trek up to the gorge. Thinking that
+this had to be the wrong approach, I went back to the NEXUS on the TRAM to
+try the third door I had opened. I didn't have much more luck with this
+bright idea, because the TRAM CALL on the platform I reached through the
+third door was broken. No TRAM came when I PUSHED the TRAM CALL and Boston
+observed that there ought to be a control somewhere. I knew from this
+statement that I'd have to fix the TRAM CALL somehow. I couldn't find a
+control on the platform, so I thought about where it might possibly be. It
+came to me that the CRYSTALS I'd seen through the AIRLOCK bore a striking
+resemblance to the overhead map of the five spires and central island I'd
+seen when I hiked across the light bridge. Since one of the CRYSTALS was
+dark and lifeless, and I'd thought from the first time I saw it that I'd
+need to replace it or something of that nature, I made the working
+hypothesis that the CRYSTALS were the control and that when I was able to
+fix the dark CRYSTAL, the TRAM would come. I went back down the DARK TUNNEL
+and through the AIRLOCK, but again, none of my items would work with the
+CRYSTALS, the CRYSTAL CLUSTER or the HOLES in the GLOWING PANEL. Before
+leaving through the AIRLOCK again, I decided to EXAMINE the GLOWING PANEL
+just for laughs. Boston confirmed my suspicions that it was indeed a
+control panel, albeit inoperative. I wandered around a bit aimlessly here,
+not sure what to do. I revisited all of the places I'd been, looking for
+something else to solve. Since I had no luck at all, and since I knew there
+had to be something waiting for me on the FAR SIDE as well as a way to get
+there, I eventually wandered back through the second door I'd opened, took
+the TRAM again, and journeyed back UP the coastline I'd visited before. I
+stood on the edge of the gorge and noticed that the water came up at fairly
+regular intervals -- so I decided to try to time my jump when the water was
+high enough that I might be able to float across somehow. This second time
+I tried JUMPING to the FAR SIDE, Boston cruised across on a wave like he
+did that sort of thing every day of his life. (Too bad he hadn't done it
+before or I'd have saved myself an hour of wandering around looking for
+something else to do <GRIN>). On this side, I could reach the BOULDER
+unhindered. I LOOKED at it and found that it was loose, so I gave it a
+SHOVE with my SHOVEL (nothing like a double meaning) and it fell over into
+the handy bridge across the gorge I knew it was meant to be. At least now I
+could get back down to the TRAM when I wanted to. Continuing UP, I came to
+an area with another LENS and STRANGE DEVICE with a PANEL in it, as well as
+a PLATEAU, and, past a waterfall, a CREVICE. Since I'd scrolled across the
+screen to LOOK at the CREVICE, I went in there first. Here I found a BLUE
+ROD that I TOOK and also EXAMINED. I knew at once from its shape and color
+that this was just the thing for those HOLES back at the GLOWING PANEL in
+the AIRLOCK. I'd been looking for something shaped like this ever since I'd
+first seen those HOLES (ok, you sickos out there, get your minds out of the
+gutter... so mine can float by). The CREVICE wasn't much help though,
+because Boston wouldn't reach into it. I tried a few of my items, including
+the SHOVEL on it, without success. Since I couldn't find anything else to
+do in the CREVICE at the moment, I went OUTSIDE to inspect the PLATEAU. A
+door shut as I approached, and Boston said that the little rat-like beast
+that scurried away when the door slammed had stolen something he was sure
+to want later. I took a few steps to the right and saw two large wheels
+with a HOLE in the center of the closest one, and a POLE lying on the
+ground next to it. I TOOK a ROD that was propped against a rock, then
+noticed a CAVE in the rock face behind the wheels. Boston complained about
+how small the opening to the CAVE was, so I decided to try ENLARGING it
+with the SHOVEL. After all, this had worked with what had turned out to be
+the opening to the NEXUS. When I used the SHOVEL with the CAVE, Boston dug
+until the opening was big enough to squeeze through. Inside the CAVE I
+found nothing but three CRITTER HOLES, none of which held anything of
+interest for me, at least for now. So I went back through the OPENING and
+farther to the right of my screen. I TOOK a RIB CAGE that was lying on the
+ground and a COVER that appeared to belong over the PANEL next to the DOOR
+here. The PANEL was missing a part, presumably the one the critter had
+taken just when I approached, so Boston told me he thought it wouldn't make
+any sense to put the COVER on the PANEL when I tried to do that. I also
+TOOK a short, metal DOWEL that was lying in front of the DOOR. The DOOR
+itself seemed shut tight when I LOOKED at it. A number of HOLES lined the
+wall next to the PANEL. I LOOKED at each one and saw a lot of useless junk
+the critter had been collecting. I also noticed that LOOKING in one of
+these HOLES prompted the critter to come out, have a look around, and
+scurry away. I LOOKED at the POLE again. I couldn't TAKE it, but when I
+LOOKED at it, Boston moved it. This suggested that it should go somewhere
+on this screen, but maybe I'd have to do something else first. I opened up
+my inventory and looked at all the things I'd just picked up. The DOWEL
+seemed the right shape for the HOLE in the wheel, so I USED it there. A-ha!
+Now I had PIN in the center of the wheel. I LOOKED at the POLE again and
+tried USING it with the PIN. Cool. Now I had a HOOK. At this point it was
+fairly clear to me that I had to build something here, but I wasn't sure
+just what yet. In my bizarre mind, I saw a connection between the RIB CAGE
+and the HOOK (meat hook? who knows?) so I USED them together and ended up
+with a CAGE. Now I got the gist. I was setting a trap for the critter so I
+could get the missing door part from it. Since I'd played MONKEY ISLAND II:
+LECHUCK'S REVENGE many moons ago, I was somewhat familiar with the
+LucasArts theory of trap building; I'd done something similar in that game.
+(hercules told me later that he made an association here too, with INDIANA
+JONES AND THE FATE OF ATLANTIS where a rib cage had been used as a trap
+also.) I knew I'd need to set the trap somehow, so that it would spring
+shut. Something to prop up the CAGE with would work nicely. The ROD looked
+like a good bet, so I USED it with the CAGE. Lo and behold, I now had a
+TRAP! Of course, I didn't have any bait for the trap, but since Boston
+volunteered to play sheepdog, that didn't seem necessary. I'd just have to
+find the critter and herd it into the trap somehow. Finding the critter, as
+it turned out, was the easy part. When I LOOKED at the HOLE closest to the
+TRAP, the critter came out. But I couldn't seem to chase it into the TRAP.
+It seemed to run upscreen each time I got it to come out of the HOLE, so
+I'd try to get between it and the upscreen HOLES to block its way.
+Sometimes it would just go right past me, other times it would run
+downscreen and if I tried to get behind the TRAP (between the wheels) it
+would run right past me again into the CAVE. I tried over and over again,
+and I just couldn't get the thing into the TRAP. I felt a whine attack
+coming on. It's one thing when I have no idea what to do. It's quite
+another when I have an idea of what to do -- or even, as in this case --
+know _exactly_ what to do but can't execute. That's when I really want to
+tear my hair out, and when I'm most ready to ask for help. I'm always sure
+it's a positional thing and it's the game's fault. It certainly couldn't be
+mine. ;) I took a break to clear my head and went to GAMERS where, by some
+stroke of fortune, I ran into herc just as I was ready to whine. He told me
+a trick to getting the critter into the TRAP, which I pass along to you
+now. I just replayed this part again and trapped him the very first time I
+tried. It's a piece of cake if you follow what herc said: (1) click on the
+HOLE to get the critter to come out, (2) ignore it and walk Boston directly
+downscreen, (3) continue walking Boston to the left, toward the CLEARING,
+but have him walk _in front of_ both the wheels instead of between them,
+(4) walk Boston back toward the right _between_ the wheels. The little
+critter will walk right into your TRAP. Poor thing. When the TRAP had
+sprung, Boston wondered how he'd find the critter again when he let him
+out. This told me that I'd need to track the critter. Remember the
+BRACELET? I'd thought I'd need to use it to be able to find something
+again, and this seemed just the right place. I USED the BRACELET with the
+CRITTER, and it slipped around the critter's neck. Then I OPENED up the
+TRAP and let the critter out. I kept the RIB CAGE and the ROD since I could
+TAKE them again, but I couldn't TAKE the HOOK or the PIN, so I left them
+alone and went off looking for the critter. I'd seen him head for the CAVE,
+so I decided to start there. Once in the CAVE, I USED the DEVICE, and it
+helped me to locate a TRACKER SPOT, under which Boston reasoned the critter
+must be located. I USED the SHOVEL with the TRACKER SPOT. When I'd DUG up
+the TRACKER SPOT, I found a MACHINE PART -- just the thing (hopefully) to
+get that DOOR open. I went back to the DOOR and USED the MACHINE PART with
+the PANEL, then the COVER with the PANEL. Now I could PUSH the PANEL, and
+OPEN the DOOR. Through the DOOR I came to a peaceful blue room. Here I
+found another PLATE (nice! only one more to go now) and a GREEN ENGRAVED
+ROD (double nice! now I could open the last SEALED DOOR with a PANEL back
+at the NEXUS). The rest of what I saw in this room completely baffled me.
+First, the TWIN SCEPTERS. They sure looked like they belonged here somehow,
+yet I could TAKE them. Was I supposed to? Usually, I figure if I can pick
+it up, I should take it, but here I really wasn't sure. I bit the bullet
+and TOOK them anyway. Boston said they seemed to have an electric charge.
+Second, nothing happened when I PUSHED the BUTTON that I saw here. Nor
+could I USE or do anything with the CRACK through which Boston could see
+outside. Finally, the ceiling had a FAINT LIGHT on it. I couldn't learn
+anything about the FAINT LIGHT by EXAMINING it, and it didn't occur to me
+right then to try to USE anything with it. I felt out of ideas for now, and
+I had a lot to try elsewhere. Aside from the STRANGE DEVICE outside, I now
+had a PLATE to use in the ALCOVE, another ENGRAVED ROD to open another
+SEALED DOOR, and a BLUE ROD that I had a good feeling would help me out
+with the TRAM controls and let me explore the other area I hadn't been able
+to get to yet. So, as usual, I decided to give my crew a BUZZ on the
+PENULTIMATE before setting off on these new adventures. But Maggie had
+nothing new to say, and Brink wasn't answering. I went back out to the
+CLEARING and tried different positions for the LENS as I had with the one
+on the MUSEUM SPIRE. When I found the different tone (by PUSHING the SWITCH
+on the STRANGE DEVICE after setting the LENS to each possible position), I
+PRESSED the SWITCH until the line formed on the screen just as before and
+the STRANGE DEVICE had created a BRIGHT LIGHT. I decided to travel down
+this light bridge, too, just to see what would happen. This time, when I
+EXAMINED the CRYSTAL FORM, Boston told me it was hard to see anything, but
+he thought he could make out some kind of shape. After learning this, I
+went OUT, found my way back to the TRAM on the spire I'd just been to, and
+returned to the NEXUS. ON THE MAP SPIRE Care to guess the first thing I did
+when I got back to the NEXUS? Right. I DUMPED the PLATE in the LEFT slot in
+the ALCOVE. After taking a walk out to the CANYON to INSPECT the SKY and
+see my newest LIGHT BRIDGE from a different angle, I decided to try my BLUE
+ROD on the GLOWING PANEL through the DARK TUNNEL and the AIRLOCK. As I'd
+guessed, the BLUE ROD fit perfectly in the HOLE I USED it with (could have
+been any of them -- it will go in any of the three HOLES). Much to my
+surprise, this activated two other SLIDING CRYSTALS. I saved my game and
+experimented for a bit with the SLIDING CRYSTALS, but I worried that I
+didn't have the secret to them down yet and I didn't want to get stuck with
+yet another deactivated TRAM. So I decided to move on to the other SEALED
+DOOR with PANEL that I hadn't yet opened first. But I did notice in messing
+around with the GLOWING PANEL that clicking on the bright CRYSTALS would
+make them go dark, and that if I moved the SLIDING CRYSTALS around, I could
+get the last dark CRYSTAL I'd clicked on to brighten back up eventually.
+Once back through the DARK TUNNEL, I headed for the SEALED DOOR I hadn't
+yet OPENED. I SET the BUTTONS on its PANEL to those shown on the GREEN
+ENGRAVED ROD from left to right, and the door OPENED. Through this door, I
+came upon another platform with a TRAM CALL. The TRAM came when I PUSHED
+the TRAM CALL and I rode it through yet another crystalline tube. I arrived
+at an unusual place with another TRAM CALL and a LEDGE. I couldn't even see
+Boston behind the TRAM here -- I had to find the LEDGE by feel. Out on the
+LEDGE, I saw an OPENING upscreen that I went through. The only thing to see
+here was a STRANGE FIELD of light that was "just on the edge of existence."
+I couldn't do anything with it, so I moved on. I left the OPENING and went
+next to a CAVERN. Inside I had the options to explore a PIT or a NEST. I
+went for the PIT first. I passed through into a cave with no new hotspots
+except an OPENING on the other side, so I headed for that. Now I was in a
+vine-covered atrium with a stream running through it and a PANEL. When I
+LOOKED at the PANEL, I saw a set of BUTTONS just like the ones on the
+PANELS of the SEALED DOORS in the NEXUS. Did I need another ENGRAVED ROD
+here? Hmm. Confusion. Yeah, that was a good word for it. I EXITED the
+screen without doing anything for now. I located another OPENING in this
+area and went through it. There, on the side of a cliff, I found another
+STRANGE DEVICE, with a corresponding LENS and PANEL on its side. By now I
+was a pro at these, so I ADJUSTED the LENS until I heard a different tone
+when I PRESSED the SWITCH on the STRANGE DEVICE, then held down the SWITCH
+until the line drew across the screen to the right. When that was done, I
+had a BRIGHT LIGHT coming from this STRANGE DEVICE. I ventured out onto the
+light bridge and headed again for the CRYSTAL FORM. This time it looked a
+lot different, but when I EXAMINED it I still had a hard time seeing inside
+it although I could make out some sort of shape. I went OUT and back to the
+MAP SPIRE. MAP SPIRE? What was _that_ all about? Obviously, I didn't know
+all there was to know about this place yet. But it started to make sense
+when I got off of the light bridge and decided to go back to EXPLORE the
+other place I hadn't been to, the NEST. When I LOOKED for the way out of
+the STRANGE DEVICE area, my only option was called "MAP ROOM." This took me
+back to the room with the PANEL that I'd wondered if I needed another
+ENGRAVED ROD for. Maybe not. I saw no doors anywhere that appeared to need
+opening. So maybe, just maybe, I was supposed to plug in all the
+combinations from the ENGRAVED RODS that I already had. I decided to give
+it a try. When I did, I found that the PANEL generated pictures off to the
+side, of a site in each of the spires I had visited (or in the case of the
+RED ENGRAVED ROD, a spire I hadn't yet visited -- must have been the one
+with the broken TRAM CALL). Now I understood why this room was called the
+MAP ROOM. Interestingly, when I plugged in the code for the RED ENGRAVED
+ROD, Boston saw a crypt somewhere -- with a way below it. NOTE: It appears
+that viewing the crypt in the MAP ROOM as just described can save you a lot
+of trouble later. The game apparently will not let you down into the crypt
+after you've found it and set it up (described below) unless you have
+reason to believe there is something down there -- which you learn from the
+map. I believe that looking at the map once is sufficient to avoid getting
+stuck later at the crypt, but as noted below, I looked at it twice. So if
+you aren't able to get into the crypt after doing everything set forth
+below to set it up, try looking at this map again. After plugging in all
+the combinations, I decided to go see what was in the NEST. I went back to
+the PIT through a CHAMBER and into the NEST, where I saw a spidery-looking
+creature crawling away to the top left of my screen. In the NEST, I found a
+GRATE sealing something off, but I wasn't sure what to do with it (and
+couldn't seem to do anything with it -- yet). Here I fell down on my
+exploring technique. I didn't realize until later that there was another
+way out of the NEST to the right of the screen. I'll relate the somewhat
+embarrassing story of how I found this out shortly. For now, I couldn't
+find anything else to do here, so I decided to give ROBBINS another RING on
+the PENULTIMATE. I now had the option to talk to her about the OPENING to
+the crypt I'd seen on the map. She reasoned that if the map showed secret
+rooms under the crypt, they weren't meant to be secret. Boston agreed --
+there must be a way to access them. Brink was still out of commission.
+Since I thought (incorrectly) I'd seen all there was to see on this spire
+now, I decided to go back to the NEXUS and venture through the door with
+the broken TRAM. So I left the NEST, went out over the LEDGE to the TRAM,
+and back to the NEXUS.
+
+ON THE TOMB SPIRE, PART 1
+
+I'd have to go back through the AIRLOCK to give the GLOWING PANEL another
+try and light up the last CRYSTAL if my theory that this was the way to fix
+the TRAM was right. Since I now had all the light bridges up on the other
+spires I'd been to, I wasn't all that concerned for the immediate future
+about accidentally rendering the other TRAMS inoperative. I figured that
+there had to be another light bridge on the spire I was about to go to, and
+if worse came to worst, I could just use this TRAM to get between the NEXUS
+and that spire, then take the light bridges from there to wherever else I
+might want to go. Of course, that wouldn't help me if and when I got the
+ALCOVE door open, but I'd worry about that later. I SELECTED the dark
+CRYSTAL and moved the SLIDING CRYSTALS until it lit up. I noticed that the
+end of the dark CRYSTAL got lighter or darker grey depending on how I moved
+the SLIDING CRYSTALS, but it wasn't until I talked to herc later about
+these controls that I realized that these were the meters by which you can
+tell if you're getting closer or farther away from the correct SLIDING
+CRYSTAL settings. The end of the CRYSTAL you select to work on will become
+lighter grey the closer you get to the correct settings, and darker grey
+the farther away you get. As the end of the CRYSTAL grows brighter and
+brighter, it will eventually light up completely once you get the settings
+exactly right. Now that all the CRYSTALS were bright, I EXITED that screen,
+then watched through the WINDOW as the previously inoperative TRAM rolled
+through a tube and into the station. I went back through the AIRLOCK and
+the DARK TUNNEL to the NEXUS and went through the fourth open door. Not
+surprisingly, when I USED the TRAM CALL here, the TRAM now arrived to my
+left. I GOT ON the TRAM and rolled away to my newest destination. I arrived
+at a SPIRE with an outdoor platform at which there was another TRAM CALL. I
+walked toward the SPIRE and continued up to a PLATEAU. Along the PATH, I
+found a STONE PLATE that was half buried. Boston couldn't move it using his
+bare hands, which signalled to me that I should try USING the SHOVEL with
+the STONE PLATE. Doing so revealed a HOLE. The HOLE led to something that
+could have been a burial chamber, according to Boston (this was the same
+thing he'd said on looking at one of the DISPLAYS in the MUSEUM). Inside,
+on the wall, I saw a roughly carved HOLE. Boston wondered at its purpose.
+The ceiling had a SHUTTER on it, and when I EXAMINED the SHUTTER, Boston
+noticed that there was light seeping through it from outside. He expressed
+his wish to be able to see better. I walked around in here for a bit and
+discovered that when I walked across a stone in the foreground with two
+crescent shapes on it, the SHUTTER OPENED. As long as I stood on the LOOSE
+STONE, the SHUTTER stayed open. When I stepped off of it, the SHUTTER
+closed. I knew I had found a puzzle that would end up opening the TOMB, but
+I decided to explore the rest of the TOMB SPIRE before focusing on this
+puzzle. Further along the PATH, I came to another STRANGE DEVICE with a
+PANEL and a LENS. I assumed it would work just as the others had. But no.
+As I found out through trying and trying to get the line to go across the
+screen to the right of the STRANGE DEVICE controls as it had on all the
+others, the controls on this one were broken and had to be fixed first by
+doing something inside the PANEL. I opened the PANEL and found the
+(apparently randomly appearing) puzzle I mentioned earlier. It consisted of
+a number of PRISMS and GREEN, RED and BLUE gems, with a light emanating
+from the SOURCE in the center. I played around with the puzzle for awhile
+and figured out that the goal was to MOVE the SOURCE and the PRISMS until
+the light bounced off of all the prisms and gems in a continual line, so
+that all were touched by the light and no stray beams went off into
+nothingness. But it seemed that this might take some concentration to
+finish, so I decided to continue exploring the spire and come back to this
+puzzle. I saw an ENGRAVING on the stone face across from the STRANGE
+DEVICE. LOOKING at the ENGRAVING showed the same crescent shapes I'd seen
+on the LOOSE STONE in the TOMB, as well as a sort of dial that reminded me
+of clock hands. I was beginning to firm up in my mind what I thought the
+trick to opening up the TOMB might be. I was pretty sure that an eclipse of
+the sort shown at the museum DISPLAY, with a larger moon being eclipsed by
+a smaller one, had to happen. It seemed to me that the light from this
+eclipse would then somehow shine down through the SHUTTER into the tomb and
+activate a mechanism there. At least, that's sort of how it had worked for
+Indiana Jones in one of his movies, except that in his case it was sunlight
+and he had to use a staff with an amulet on the end of it to focus the
+light. Still, the connection was strong enough in my mind to convince me
+this was the basic idea behind that particular puzzle. I moved on to the
+right to a CAVE INTERIOR. I saw some BAT CREATURES here, but they were up
+on the ceiling and -- silly me -- I didn't think I had anything that would
+"reach clear up there." At least it wasn't the SHOVEL, the TUSK, any of my
+ENGRAVED RODS or the regular ROD. I found Brink on a PLATFORM, and he told
+me he was busy and didn't have time for me. He was working on a RELIC,
+which I LOOKED at and found to be badly deteriorated machinery. To the
+left, it was a long way DOWN the cliff. I tried talking to BRINK, but when
+he _would_ talk to me about anything he spoke in a very nasty manner to me.
+So I decided to focus on the puzzle at the STRANGE DEVICE for now. I
+fiddled with the puzzle at the STRANGE DEVICE a little longer. But then,
+since it was about 10:00 p.m. and I'd been playing for most of the day, I
+thought I'd take a little rest. I logged on to GAMERS and hung out there
+for awhile. MORGIE LEARNS TOO MUCH <SIGH> After a bit, hercules showed up
+and asked me how I was doing with THE DIG. I learned that he was still
+ahead of me in the game even though I'd been playing all day long. But not
+by much -- I was closing in on him. I mentioned that I was now working on
+the puzzle at the STRANGE DEVICE, which he told me he had finished. I
+related where I'd been and what I'd done. Here's where it gets dangerous to
+talk to someone else who is ahead of you in a game. herc told me that he
+was also on the TOMB SPIRE and that he'd just discovered that if he USED
+his FLASHLIGHT with the BAT CREATURES, they'd fly around. Neither of us
+knew it at the time, but this turned out to be the answer to a puzzle that
+we'd encounter later. We thought it was just another interactive feature
+like the GLOWING PLANTS in the NEXUS. No one's fault, but Morgie now knew
+exactly what to do when she encountered that puzzle later on. I mentioned
+what I'd done on the MAP SPIRE and herc, I'm sure unintentionally, said,
+"Wait... what about the falls?" "What falls?" I asked. This was how I found
+out that I'd skipped a part on the MAP SPIRE; that there was another way
+out of the NEST to the right of the screen. Oh well, I'd better go back
+there and check it out. (Grrrr... wish I hadn't known.) At least I didn't
+feel like a total disaster because earlier he'd missed the BRACELET and I'd
+told him how to find it. <GRIN> I told herc that his suggestions for
+getting the critter into the TRAP had worked like a charm. "Did you take
+the ROD and the RIB CAGE again?" I asked. "Yes," he said, then went on to
+tell me that if I'd taken the ROD I'd be "ok." Great. Now, although I
+didn't want to, I knew the ROD would be important in a part of the game
+herc had already played. I decided I'd better log off before I learned any
+more than I had already. So I made some excuse about having to polish my
+silverware and went back to the game, hoping that I'd have a brain blip and
+forget all I'd just learned. It didn't happen.
+
+ON THE TOMB SPIRE, PART 2 -- AND TYING UP SOME LOOSE ENDS
+
+I started again at my save on the TOMB SPIRE to work on fixing the controls
+inside the PANEL on the STRANGE DEVICE. As soon as I had arranged the
+SOURCE and the PRISMS so that I had a continuous beam of light touching all
+of them, as well as the RED, GREEN, and BLUE gems, with the red tinted beam
+directed to the RED gem, the green tinted beam directed to the GREEN gem,
+and the blue tinted beam directed to the BLUE gem, and no stray beams going
+off the edge of the puzzle, I left that screen automatically and the
+controls were fixed. Now I could SET the LENS and USE the SWITCH on the
+STRANGE DEVICE just as I had done with the other three, discussed above.
+
+NOTE: Initially, I didn't see the connection between the colored beams of
+light and the colored gems. I just got it to work without paying attention
+to the colors. I happened to read a message on the board from Dave Timoney
+that suggested that the colors had to be matched as well. But I felt sure
+that the colored beams only took on their color from the gems they hit
+since I hadn't noticed this before.
+
+When I went back and tried this puzzle again, I found that Dave was
+absolutely right. If you connect up all the prisms, gems and the source but
+don't match up the colors, the game won't exit the screen automatically and
+your device isn't fixed properly. Thanks Dave! This time when I crossed the
+BRIGHT LIGHT to the CRYSTAL FORM, it looked very different. When I EXAMINED
+it, I could see a door, but couldn't touch it. Since I now knew I'd missed
+something on the MAP SPIRE (ugh!) I decided to go back there and clean up
+my mess. I CROSSED over the LIGHT BRIDGE system to the MAP SPIRE and found
+my way back to the NEST. This time, I clicked the cursor on the right of
+the screen past the GRATE and Boston walked farther to the right. Sure
+enough, to the far right I saw another DOOR. It led to an open area with
+pathways to a FALLS SOURCE and a BEACH. I went to the FALLS SOURCE first.
+Up here, I found another GRATE. When I LOOKED at it, Boston walked across a
+rock that redirected the water through the GRATE. It seemed reasonable to
+assume that this GRATE was connected to the one in the NEST somehow. But I
+couldn't do anything else here for now, so I left to go DOWN to the BEACH.
+When Boston moved off the rock, the water returned to its normal course. I
+found nothing to see or do on the BEACH for now. So I returned back the way
+I had come, through the NEST, the PIT, and into the MAP ROOM. Here I
+decided to take another look at the map of the TOMB SPIRE before returning
+there. I plugged the combination on the RED ENGRAVED ROD into the PANEL
+again. Boston exclaimed that there was more to the crypt than he'd thought.
+I then went back across the LIGHT BRIDGE to the TOMB SPIRE to start to work
+on solving the crypt puzzle. Once back in the TOMB, I thought some more
+about my previous theory, as well as what I'd seen on the map of the TOMB.
+The map had showed bright light shining all through the TOMB, so I figured
+I should try to get some light in there. Maybe if I could find a way to
+keep the SHUTTER open, that would help. I decided to try to prop the LOOSE
+STONE with something so that it would stay open. I stood on the LOOSE STONE
+and USED the ROD with it. This held down the stone, and the SHUTTER
+remained open when I stepped off of the LOOSE STONE. (Now I had more of an
+idea of where herc was in the game after I'd last talked to him.) But this
+didn't solve my light problem. What if I could FORCE the FLASHLIGHT into
+the HOLE? It didn't work, but I did learn that there was some "energy
+substance" inside the HOLE. I needed something to put in there, something
+that perhaps gave off light. The GOLD SCEPTER and SILVER SCEPTER I had,
+although they gave off energy, didn't work. Then, in a flash (no pun
+intended), I realized that I'd need to use that BLUE CRYSTAL that provided
+light to the power room in the NEXUS. So I went back to the TRAM and
+returned to the NEXUS to TAKE it again, then rode the TRAM back to the TOMB
+SPIRE and went back into the TOMB. Here, I USED the BLUE CRYSTAL with the
+HOLE, and now I had all the light in there that I could possibly want. But
+something was still missing. I decided to go OUTSIDE to see whether I could
+come up with any ideas about the eclipse I thought should happen, but so
+far hadn't. Outside the TOMB, I noticed some DIRT I hadn't seen before. I
+LOOKED at the DIRT and Boston cleared it away. Underneath, he found a LENS.
+When I next went back into the TOMB, I could now see a beam of light coming
+down through the SHUTTER. I felt I was close to the answer, but something
+was still eluding me. Thus began one of those frustrating forays into
+stuckness. I USED the FLASHLIGHT with the BAT CREATURES and watched them
+fly around like herc told me they would, just to have something to do. I
+went back to all the places I'd been, tried whatever I could think of. I
+stared at the SKY from the DAIS for awhile, waiting for an eclipse. Maybe
+what I was missing was some information on when it would happen? But where
+would I find something like _that_? The LIBRARY and the MUSEUM, the obvious
+places, didn't shed any light on this. And my crew was no help. By process
+of elimination, I finally decided to focus on the areas where I hadn't yet
+been able to do much of anything. The MAP SPIRE had a few of these -- so
+did the UNNAMED SPIRE. Since I had no clue what to do, I was going to have
+to use trial and error here. I'd have to use every item I had on every
+hotspot I could find in these places. If that didn't work, I was really in
+trouble. Eventually, however, this method paid off. In the blue room on the
+nameless spire where I'd found the scepters that looked so much like they
+belonged there that I had debated whether to take them, I finally USED the
+GOLD SCEPTER with the FAINT LIGHT. How I was supposed to know to do this, I
+still have no clue, but amazingly, this activated a MOON MAP that showed a
+planet (maybe this one) and its moons. The close-up screen showed a PLANET,
+a LARGE MOON, and a SMALL MOON, as well as the CEILING of the "dome." (If
+it had actually been shaped like a dome, or maybe had some seats for
+spectators, then I could understand why I'd be expected to figure out that
+it was a planetarium. Being able to recognize an alien planetarium, much
+less one that is has to be "turned on" first, is, it seems to me, a bit
+much to expect from the player.) I learned through experimentation that the
+GOLD SCEPTER moved both moons around the planet, while the SILVER SCEPTER
+moved the SMALL MOON around the LARGE MOON. So maybe I had to recreate the
+eclipse Boston had seen in the museum DISPLAY? If so, I would need to
+position the moons so that someone looking up from the planet would see the
+SMALL MOON eclipsing the LARGE MOON. The PLANET seemed to have light
+falling on it to its right side. So I decided to MOVE the moons into the
+center of this light with the GOLD SCEPTER. That way, the reflection of
+light from the planet would hit the moons and enable someone standing on
+the planet to see them (I hoped). Then I USED the SILVER SCEPTER to line up
+the SMALL MOON between the PLANET and the LARGE MOON. After finessing the
+positioning slightly, I automatically exited the screen and saw that I'd
+caused an eclipse, which in turn had sent light through the LENS I'd
+uncovered and into the TOMB. A STATUE had risen out of the crypt.
+Unfortunately, right after that happened and I was psyched to run back over
+to the TOMB, the critter stole the door part again and locked Boston in the
+PLANETARIUM. IN THE CRYPT First, I tried calling for help. But I could get
+nothing but static on the PENULTIMATE. So I PUSHED the BUTTON next to the
+DOOR. How simple. The controls still worked from the inside, and Boston was
+free again. Now the obvious thing to do was to see if I could get into the
+crypt. I went out to the CLEARING and crossed the LIGHT BRIDGE to the TOMB
+SPIRE, noting on my way that the previously unnamed spire was now called
+the PLANETARIUM SPIRE. How fitting. I walked to the EDGE and over to the
+TOMB. Boston wondered what caused the ECLIPSING MOONS to move out of their
+synchronous orbit. Heh. Inside the TOMB I got a close-up view of the STATUE
+I'd seen rising up during the cut-scene. When I LOOKED at it, Boston
+TOUCHED it and it crumbled to dust. Now I could see a hotspot for CRYPT, so
+I LOOKED at it. Boston got up on top of what turned out to be an elevator
+of sorts, which took him down below the TOMB. After descending, it seemed
+the only direction to go was left. When I'd gone left for a ways, Boston
+ended up in front of a DOOR with a SLOT next to it, and two sets of BROKEN
+BONES in front of it. When I LOOKED at the DOOR, a LIFE CRYSTAL fell out of
+the SLOT and onto the right-hand side set of BROKEN BONES. This revived a
+nasty-looking CREATURE that blocked the way to the DOOR. After thinking
+about what I saw here, and what I had in my inventory, and (ok, I admit it)
+trying a few items on the CREATURE without success, I decided that what we
+might have here was a "make them fight each other" puzzle. I'd seen this
+sort of puzzle in several adventure games I'd played before. If I could
+revive the other BROKEN BONES, then maybe they'd fight, or at least
+distract each other enough so that I could get to the DOOR. I USED the
+GLOWING CRYSTALS with the BROKEN BONES, and as I watched, another CREATURE
+rose up and then the two lunged at each other. They fell together, crushed
+by a rock, until they were nothing but DEAD GUARDS. Just for fun, I tried
+reviving the DEAD GUARDS with the GLOWING CRYSTALS. It didn't work. I
+wondered also if they'd work with the RIB CAGE, but there wasn't enough
+flesh left. Now I was free to get close to the DOOR and SLOT, so I EXAMINED
+the DOOR and learned that there had to be a key for it. My ENGRAVED ROD
+might work since I hadn't USED it yet. I USED the ENGRAVED ROD with the
+SLOT and the DOOR evaporated. Boston remarked that this must have been
+where the ghost at the WRECK wanted us to go all along. Through the DOOR,
+at the end of a long WALKWAY, a PYRAMID rested. I went over to the PYRAMID
+and LOOKED at it. Boston called Maggie at this point and told her of what
+he found there -- a dead alien sealed inside the crystal pyramid. She was
+close to translating the language of the planet, but didn't seem too keen
+on my attempting to get into the pyramid and to the alien somehow. When we
+finished talking, I LOOKED at the ALIEN CORPSE, the remains of a huge
+creature. Perhaps I could bring it alive with the GLOWING CRYSTALS if I
+could OPEN the PYRAMID. I decided to try the ENGRAVED ROD with the PANEL on
+the PYRAMID, in case it was the key to both crypt locks. When I USED the
+ENGRAVED ROD with the PANEL, the PYRAMID dissolved. So I USED the GLOWING
+CRYSTALS with the ALIEN CORPSE and woke up the dead alien. It spoke to me,
+but I couldn't understand a word it said. I had a lot of conversation
+options to use here, but everything I asked, not surprisingly, prompted the
+creature to respond in its own language. We just weren't understanding each
+other. This was like living in a Led Zeppelin song: one huge communication
+breakdown. Wouldn't it be fortuitous if Maggie had made her major
+breakthrough in the language translation right about now? Finding nothing I
+could connect with the creature on, I decided to give it a shot and give
+her a call. When I stopped talking to the alien, the PYRAMID reconstructed
+and the alien fell dead again. Boston was thinking along the same lines I
+was, apparently, because as soon as the alien fell dead, he called Maggie.
+She had, as it turned out, just discovered how to interpret the language --
+but as she was trying to explain to Boston what she'd learned, a vile
+creature attacked her and Boston lost communication with her. Brink
+wouldn't answer Boston's desperate plea on the PENULTIMATE.
+
+SAVING MAGGIE -- Morgie's Day 2
+
+I knew my first priority now had to be to find and save Maggie, since she
+was my only hope to be able to understand the alien. The creature that had
+attacked Maggie appeared to be some form of spider. Since I'd seen a
+spider-like creature in the NEST on the MAP SPIRE the first time I went
+there, I figured it was a good bet that if Maggie wasn't still in the
+LIBRARY, she'd been dragged off to the NEST. NOTE: From now on, I'm going
+to assume that you're familiar enough with your surroundings to find your
+way from place to place. So my directions throughout the rest of this
+walkthru will be minimal. I went out of the CRYPT and across the LIGHT
+BRIDGES to the MUSEUM SPIRE to check the LIBRARY first. Maggie was gone. So
+I ran across the LIGHT BRIDGES again to the MAP SPIRE and went directly to
+the NEST. Here I found Maggie, trapped in a web of sorts, with the hideous
+creature preparing to make a meal out of her. A lightbulb went on over my
+head. If I could get up to the FALLS SOURCE and run the water through the
+GRATE there, then perhaps I could get it to come through the GRATE in the
+NEST and wash away this giant bug. But when I tried that, the MONSTER
+blocked my path. Maybe a little snack would appease it so that it would let
+me pass. I tried FEEDING it items from my inventory, but I learned quickly
+that this wasn't the right approach. I decided to TALK to ROBBINS to see
+whether she had any ideas. She suggested I go find Brink because it might
+take both of us to free her. But, understandably under the circumstances,
+she didn't want to talk about anything else except finding a way out of her
+predicament. Nothing else I tried here worked, so I decided to take her
+advice. But first, it was time to sleep. It was almost 4:00 a.m. on a
+Saturday night and although I hated to leave Maggie in the lurch like that,
+I just couldn't keep my eyes open one second longer. So I went to sleep,
+knowing I had something definite to try when I attacked the game again the
+following day.
+
+SAVING MAGGIE -- Morgie's Day 3
+
+When I left to go get Brink, Maggie called after me to bring help. Geez.
+Ok, ok -- have a little patience, will ya? I went back across the LIGHT
+BRIDGES to the TOMB SPIRE where I'd last seen Brink. He was still on the
+PLATFORM, but this time I could see him from the CAVE INTERIOR. I went out
+to the PLATFORM to ask him for help, but he wasn't willing to help me and
+kept telling me to go away. By now, the RELIC had turned into a contraption
+of some sort. I tried talking to Brink through all the conversation
+options. He was still unwilling to help me, but not at all unwilling to go
+on and on about how great the life crystals were and how important his work
+on that confounded RELIC was. I then noticed that Brink had started
+collecting a CRYSTAL STASH. When I LOOKED at it, he got very testy with me.
+I got the idea that if I could only get a hold of that CRYSTAL STASH, he'd
+be putty in my hands. There was no question in my mind that I'd be able to
+bribe him into helping me if I had his CRYSTAL STASH. I tried to TAKE the
+CRYSTAL STASH again, but it was obvious that Brink wasn't going to let me
+take it out from under his nose. I went back to the CAVERN, where I could
+still see Brink out on the PLATFORM. I now knew immediately what to do,
+thanks to herc's little slip before. I USED the FLASHLIGHT with the BAT
+CREATURES and they flew down and chased Brink away from the PLATFORM. I ran
+out to the PLATFORM and GRABBED the CRYSTAL STASH. As expected, Brink would
+now follow me anywhere. Maybe he'd talk to me too? Nah. He didn't have
+anything important to add to what he'd already told me. We went back across
+the LIGHT BRIDGES to the NEST on the MAP SPIRE. I talked to Brink first
+here to see if he had a plan. When I talked to him about the MONSTER, he
+suggested that he'd distract the MONSTER while I figured out how to get
+Maggie out. Boston then walked automatically out of the NEST through the
+OPENING to the right. (Why? Was the game afraid I wouldn't make the
+connection between the two GRATES or that I wouldn't find the other way out
+of the NEST? If the latter, then I felt a little less like an idiot for
+missing it the first time, but if so, then there ought to have been more of
+a clue to the other exit's existence.) I went up to the FALLS SOURCE to try
+to carry out my initial plan. Besides the GRATE, I now had a hotspot on a
+ROCK here. I LOOKED at the ROCK and Boston PUSHED it over onto the stone
+that controlled the water flow. Water now poured through the open GRATE
+again, and I could see it starting to seep out of the corresponding GRATE
+near Maggie. I went DOWN back into the NEST and after explaining what I'd
+done, I TALKED to Brink again. I now had an option to TALK about the GRATE.
+I told him to lure the MONSTER over by the GRATE, so that when Maggie
+opened it, the water would blast the MONSTER. Then, automatically, Maggie
+opened the GRATE and the MONSTER was no more. After that bit of drama,
+Brink demanded his life crystals back. When I tried to talk sense to him he
+knocked me down, took all my GLOWING CRYSTALS (as I found by looking in my
+inventory) and ran off. Maggie now told me she believed the ghosts we'd
+been seeing wanted our help. She thought they might have left for another
+world and wanted us to help them get back to this one. I knew the next
+thing to do was to go back and see if Maggie could talk to the alien in the
+PYRAMID, but first I thought I'd see if she had anything more to tell me
+now that she wasn't so preoccupied and had finished her automated speech.
+She did tell me she now understood the language, although she wasn't
+fluent, and agreed with me that we had to find a way to speak to the alien
+inventor. She also said that the TABLET now made some sense to her. The
+TABLET spoke of an important thing hidden on the other side of the "hole"
+so that none may enter, and gave some instructions for "pulling back this
+part of entrance." That was all that she got out of it, and it wasn't much
+to go on. She said of the METALLIC PLATES that their shapes were
+significant in the written language of the planet and were rife with
+symbolism in its culture. She didn't know what they had to do with
+navigation, though. I SHOWED ROBBINS the items I'd picked up since I'd seen
+her last, but what she had to say wasn't at all helpful. Since Brink had
+taken all my life crystals and we'd need some to be able to resurrect the
+alien again (and who knew for what else, also), I led Maggie back across
+the LIGHT BRIDGES to the MUSEUM SPIRE to see whether we could pick up more
+from the basin behind the previously WEAKENED and now BROKEN DOOR. We
+could; I TOOK as many as I could carry. We then set off again across the
+LIGHT BRIDGES to the TOMB SPIRE. VISITING THE ALIEN CREATOR WITH MAGGIE We
+went down into the TOMB and took the "elevator" down into the CRYPT. At the
+PYRAMID, I USED the ENGRAVED ROD with the PANEL as before, and then the
+GLOWING CRYSTALS with the ALIEN CORPSE. The inventor came alive again.
+Maggie clearly had to do the talking here, so when the inventor invited us
+to SPEAK, she conducted the interview. Through the amazing exchange that
+followed, many of the mysteries of the planet we found ourselves on and its
+society became somewhat demystified. We also got a broad-brush sense of
+what we should do next.
+
+NOTE: I'm not sure whether the inventor is male, female, or some other
+gender, but because it has a deep voice, I'll call it a "he." Sounds less
+awkward somehow than it.
+
+We learned that the alien's tomb had been hidden so that only the most
+clever and persistent would find him. (Yeah, that's us.) The alien had
+chosen to be preserved here in the pyramid as a personal penance for
+bringing evil inventions into being; he now served as a guardian, to warn
+those who came in response to the probes his society had sent out. The
+probes turned out to be a mistake because although the alien's people
+believed they had found the secrets to the universe, they did not know of
+their dangers. The probes, of which Attila was one, could not be recalled
+once sent. The alien would remain until the last of his mistakes had been
+rectified, or the life crystals lost their power. The alien himself had
+once been hailed as the greatest mind his people had ever produced. His
+inventions were thought to be good, and he believed so himself. For this
+reason, the museum honored him. He had given his people the power to enter
+another world as pure mind, but had been unable to give them the power to
+return. The other world, Spacetime Six, contained great beauty and
+everlasting life, but without the ability to change, to build, or otherwise
+to affect that world or any other. Even so, the beauty of this world was
+irresistible. Only through great strength of will could one return, and the
+alien's people hadn't been that strong. So now he called himself a bringer
+of misfortune, a doer who undoes, a creator who uncreates, although he
+would gladly be a destroyer who undestroys. He no longer had a name, nor
+wanted a name or memory to live after him when he finally died forever. The
+inventor and his people had created the light bridges not only as a
+convenience but as a way to open "The Eye" -- when all the light bridges
+were complete, "The Eye" would see the three dimensions of time and the
+three dimensions of space, and show beauty beyond belief. The metal plates,
+each of which had meaning, and when fitted together had a new meaning,
+opened the door to beauty without boundary and trouble without end -- but
+from which the mind had not the strength to return. The TABLET spoke of
+something hidden that had led to the alien's first achievement and greatest
+error, the one that had condemned his people. He didn't write the TABLET
+and would not have done so. The inventor had also invented the life
+crystals, which he called his second biggest mistake -- for they created
+not a life, but a slave. They restored the cells and organs, but took away
+all that made life worth living. Some of the alien's people believed that
+we could help them to get back from Spacetime Six, so they had led us to
+him. They were the "ghosts" we'd seen; only the slightest physical
+connection to this world remained in them. If his people could return, they
+could build a starship to take us home, but this would never happen. He
+believed that were we to attempt to help his people, we too would only
+become lost in Spacetime Six and never return. He didn't seem to care
+whether we got home or not, because the warning Earth would receive were we
+never to return was just as effective, if not more so, than if we returned
+and recounted all we'd learned here. Our wish to return home was a vain
+one, and he discouraged us from attempting it. Thus spake the alien. He
+said some other things too, and I encourage you to listen to them to get
+some interesting tidbits and fill out the story, but the above seemed to me
+to be the crucial points. I listened to all of this in nothing short of
+wonder. The alien is most definitely my favorite character in this game.
+After I'd absorbed what he said, I tried to figure out how, if at all, it
+helped me. The following stood out: If we could bring back the alien's
+people from Spacetime Six, they could build a ship that would take us home.
+This seemed our only hope of returning to Earth. But first, we'd have to
+get to Spacetime Six ourselves. "The Eye" seemed to be the point of entry.
+To get "The Eye" to "see," we would need to complete all of the light
+bridges. This meant going to the one spire we hadn't found a way to and
+setting up a light bridge there. I thought we could reach this last spire
+through the ALCOVE's door; the alien's statement that all the PLATES
+together would lead to beauty and trouble seemed to confirm this. So we'd
+definitely need to find another PLATE and open that door. For now, the only
+real clue I had to go on came from the TABLET'S inscription. Maggie hadn't
+been able to tell me exactly what it meant, and the alien's statements
+about the TABLET puzzled me. Since he thought the TABLET amounted to a
+grave error, I felt sure he wouldn't help me with it. The TABLET seemed
+crucial to finding the last PLATE, but what it meant or how it worked was
+completely beyond me.
+
+THE CLUE ON THE TABLET: Morgie Loses It on Day 3
+
+Something important was hidden on the other side of the hole so that none
+may enter... and instructions for "pull[ing] back a part of entrance."
+Precious little to go on. I became dreadfully stuck here. For about four
+hours, I went from location to location and back again, trying to find an
+appropriate "hole" that "none could enter." I thought perhaps the hole
+might be the power source in the NEXUS and I'd have to use the remote
+again, but attempts to operate it failed. I went back to all the locations
+on the surface. I EXAMINED the CREVICE and tried all my items on it (from
+which I learned only that it had a glow emanating from it), and the same
+with the CRACK in the wall of the PLANETARIUM. I returned to the BEACH on
+the MAP SPIRE and found nothing. I revived the alien again and spoke to
+him. I tried talking to Brink again. I tried to check out the cave under
+the WATER on the MUSEUM SPIRE again, but Maggie refused to go swimming with
+me. I kept wondering if this was one of those puzzles that I could really
+call myself stuck on in Leo's definition of stuck: "you aren't really stuck
+unless you've been thinking about the same puzzle for four months." I took
+a break after awhile and logged on to GAMERS where I learned that herc was
+still waiting for an eclipse to happen. Hehe. In fairness, he suspected all
+along that he might have to make it happen, which displayed far greater
+intuition about this puzzle than I had had. He asked whether he'd have to
+make it happen and I told him. He also asked whether the place he'd have to
+make it happen was on the same spire as the tomb or a different one, so I
+told him that too. I tried to make sure not to give anything away that he
+didn't ask about. At least I wasn't in any danger of learning what I had to
+do next, now that I'd vaulted into the lead. I went back to the game to
+give it another try. At the end of all my travels, I'd only discovered one
+new thing. When I returned to the STRANGE FIELD on the MAP SPIRE and LOOKED
+at it, Boston said something different than he had the first time I'd
+LOOKED at it. He noted that the STRANGE FIELD was shimmering, which
+prompted Maggie to say that it reminded her of something she'd seen or
+read. I took this as an invitation to ask her about the TABLET again, but
+somehow, she just said what she'd said before about the hole. I tried
+several times with the same result. I left and came back and tried again. I
+tried all of what I've mentioned countless times. Wasn't Maggie supposed to
+be able to read directions on how to use the things I'd found? I'd been
+told this as a clue very early on, and now she, herself, was saying that
+the STRANGE FIELD reminded her of something she might have read. Everything
+pointed to her doing something with this TABLET. Finally, I SHOWED her the
+TABLET and she responded to me. Oddly, the second time I played I found
+that all I had to do was TALK to her about the TABLET while in the STRANGE
+FIELD screen. I didn't even have to LOOK at the STRANGE FIELD first. This
+was true regardless of whether I started from a new game, or a prior save.
+I have attempted several times to recreate the problem I had the first time
+through, and have been unable to do it. Maybe it was sunspots. Who knows.
+All I can say is that it seems to be one of those things for which there is
+simply no rational explanation. I did install a new video card between the
+time I played initially and the second go round, and I'd had some graphical
+glitches and lock ups with the game using my old card that disappeared with
+the new one. Maybe that had something to do with it. But I doubt it. In any
+event, when I got a response out of Maggie, she had a revelation: the
+TABLET exactly described the STRANGE FIELD. It all made sense to her now.
+She tinkered with the STRANGE FIELD and raised an ISLAND, seemingly out of
+the river. When I LOOKED at the ISLAND, however, I learned that it had
+returned from another dimension. Through an OPENING, we entered the bowels
+of the ISLAND. The fourth metal PLATE had been hidden here. Actually, it
+was in plain view once you got into the ISLAND. (I was still trying to
+figure out what the hole was. I sure didn't see anything that looked like a
+hole around here.) When we'd taken the PLATE, Boston insisted that we go
+get Brink in case using the PLATE in the ALCOVE really did take us
+somewhere. Back we went, toward the MAP SPIRE'S LIGHT BRIDGE, intending to
+look for Brink where we'd last seen him. But just as we entered the CAVERN,
+we felt an earthquake. Immediately after that, Brink sent an SOS over the
+PENULTIMATE. He'd been trapped near one of the LIGHT BRIDGES in a CREVICE
+near a waterfall and needed our help. I was intimately familiar with the
+CREVICE on the PLANETARIUM SPIRE, having tried to do all manner of
+unspeakable things to it when I was stuck for four hours for no good
+reason. So I figured that's where he meant. We crossed the LIGHT BRIDGES to
+the PLANETARIUM SPIRE and entered the CREVICE.
+
+BRINK'S LITTLE MISHAP
+
+Brink had his hand stuck in the same CREVICE Boston had refused to stick
+his hand in before (a moment of totally correct instinct, apparently).
+Brink had been reaching for some life crystals when the earthquake shifted
+the rock and got him stuck there. I wanted to suggest that he just let go
+of the crystals then maybe he could get his hand out. You know -- that old
+saw about the monkey who won't let go of the banana and can't figure out
+why it can't get its hand out of the jar? The situation turned out to be
+more serious, though. His circulation was cut off and he couldn't get free.
+He begged us to cut off his hand. Maggie seemed horrified at this
+suggestion, but Boston thought that the alternative might be gangrene or
+starvation. From the discussion, amputation appeared to be the only
+solution. We needed something sharp enough to cut through bone. I happened
+to have an item noted for its strength and sharpness, and as an added
+benefit, shaped like a saw -- the JAWBONE. I USED the JAWBONE with Brink,
+and the dirty deed was done. We invited the one-handed Brink to come with
+us to the ALCOVE to try the metal PLATE. He resisted, but ultimately agreed
+to accompany us in exchange for a promise that we'd leave him alone if our
+plan didn't work. The game took us back to the ALCOVE automatically, and I
+USED the PLATE with the SLOT to the RIGHT. The PLATES changed shape, and
+the ALCOVE door split open. ON THE CATHEDRAL SPIRE Since the PLATES hadn't
+taken us home right then and there, Brink stormed off, yelling at us that
+he expected us to keep our end of the bargain and leave him alone forever.
+What's a Morgie to do? I wasn't going to let this attitude stand in the way
+of progress, so Maggie and I went through the OPEN DOOR onto yet another
+TRAM platform. I USED the TRAM CALL. A TRAM arrived and we BOARDED it and
+took off for parts unknown. NOTE: If you don't have all of the CRYSTALS in
+the GLOWING PANEL in the AIRLOCK illuminated, you'll probably have to go
+light up the appropriate one first, or you might have some trouble here.
+It's a good idea to light them all up, although I encountered some
+irregularities in my first game even with them all lit. I finally opted for
+lighting all the original ones, and leaving the TOMB SPIRE control dark.
+Now that I had a LIGHT BRIDGE, I didn't need to use the TOMB SPIRE tram
+anyway. I could always leave that spire for another with a working TRAM if
+I needed to go back to the NEXUS. Through a fifth crystalline tube we
+rolled, to stop at an outdoor platform with a TRAM CALL and a DOOR. We went
+through the DOOR and came into a strange room. Boston observed that he'd
+seen a machine like the one now before us in one of the MUSEUM DISPLAYS. I
+thought back to the DISPLAYS I had seen and concluded that I had absolutely
+no idea what he was talking about. (Later, I realized: the MUSEUM DISPLAY I
+thought related to the LIGHT BRIDGES must have actually related to
+operating THE EYE. Oh well, whatever works. <GRIN>) Boston seemed convinced
+that this machine embodied the inventor's greatest invention. Of course, at
+the moment, it didn't seem to be operating. In this screen, I saw two
+CONSOLES and two STRANGE OBJECTS. The STRANGE OBJECTS just moved when I
+TOUCHED them. I LOOKED at the upper CONSOLE and discovered that a row of
+crystalline devices composed it. When I LOOKED at the lower CONSOLE, I saw
+that it had two EMPTY SLOTS and a GAP IN MACHINERY. LOOKING at the GAP IN
+MACHINERY clarified that a part was missing. It LOOKED like LIFE CRYSTALS
+would fit perfectly in the EMPTY SLOTS. This offer, I couldn't refuse. I
+USED the GLOWING CRYSTALS with each of the two EMPTY SLOTS to place them
+there. Then I wandered around this area for a bit. I discovered that the
+screen scrolled vertically. Undoubtedly, I'd find more to explore if I
+continued upward. But as usual, I decided to talk to Maggie first to see
+whether anything we'd just been through set her to thinking. I noticed
+right away that I had a couple of new conversation options: one for the
+ALIEN DEVICE and another for the ISLAND. What the heck. I went through all
+of the options with her again. When I got to the ALIEN DEVICE, Maggie
+suggested that someone sealed in a crystal pyramid might know where the
+missing machine part was and what it did. The rest of what she had to say
+was either old news or nothing to write home about. I didn't yet know what
+waited above us, but now seemed as good a time as any to go back and talk
+to our alien again. We got on the TRAM and went back to the NEXUS.
+
+THE BOSTON LOW COURIER SERVICE or ASSORTED TRAVELS AND ERRANDS
+
+We GOT ON the TOMB TRAM and went back to the CRYPT, then on to the PYRAMID.
+When I'd USED the ENGRAVED ROD with the PANEL and the GLOWING CRYSTALS with
+the ALIEN CORPSE, my translator took over again. This time, the alien told
+us that the ALIEN DEVICE opened "The Eye." "The Eye" saw across all space
+and time, and where it saw, the mind could fly. "The Eye" was a door to
+where the alien's people went, but the alien insisted that it was a one-way
+door and even the strongest of will could not return. Maggie argued that we
+had to try to get to the alien's people and bring them back since that was
+our only chance of getting back to Earth. The alien scoffed at us for
+believing ourselves stronger than all his people, but agreed to help us
+find the piece he'd hidden if we "knew how to ask." At this point, a
+conversation option for the EYE PART appeared, so I TALKED to the ALIEN
+about the EYE PART. The alien warned us again against activating "The Eye."
+Then he told us to go to the map with a message he was giving us and see
+what it showed us. With that, he dropped something on the ground before us.
+The rest of what he had to say was interesting, but not crucial. When we
+stopped talking, the alien gave us a final warning against "The Eye," then
+dropped dead again and the PYRAMID closed around it. I TOOK the CREATOR'S
+ENGRAVING from where he'd dropped it and left across the LIGHT BRIDGES for
+the MAP SPIRE.
+
+In the MAP ROOM, I EXAMINED the CREATOR'S ENGRAVING, then entered the
+combination it showed on the PANEL. The MAP showed us a picture of the
+BEACH on the MAP SPIRE where we hadn't been able to do anything yet. We
+hiked through the NEST and over to the BEACH. I found the EYE PART
+underneath a rock and TOOK it. Since we couldn't get back to the CATHEDRAL
+SPIRE by LIGHT BRIDGE, we went to the MAP SPIRE TRAM stop, used the TRAM
+CALL, and TOOK the TRAM back to the NEXUS. From there, we transferred for
+the CATHEDRAL TRAM and rolled back to that spire. We entered the LAB, and
+just as Boston was about to place the EYE PART in the CONSOLE, Brink showed
+up demanding life crystals for his "machine." Boston took the crystals I'd
+placed in the CONSOLE earlier back out of it and handed them over. Brink
+departed after slinging assorted nastiness our way, leaving us crystalless.
+Maggie asked if he'd damaged the machine part. I checked, and I still had
+it. So I did the obvious -- I USED the EYE PART with the CONSOLE and then
+with the GAP IN THE MACHINERY. It clicked into place. Now I needed two more
+LIFE CRYSTALS to get the thing up and running. So again, I did the obvious
+-- took the TRAM to the NEXUS, transferred for the MUSEUM TRAM, and went
+back to look behind the BROKEN DOOR for more LIFE CRYSTALS. Brink had beat
+me to it. Every last one of them was gone, leaving only an EMPTY CRYSTAL
+REPOSITORY. It seemed I couldn't avoid confronting Brink since he was now
+the only known source of LIFE CRYSTALS on the planet. Man. I'd have to go
+running off across the LIGHT BRIDGES to the TOMB SPIRE again and hope that
+he'd still be on that PLATFORM hovering over his precious RELIC. He was
+there, all right. He yelled at us to get away. He'd built a LIFE CRYSTAL
+machine, but it wasn't working yet. Something was missing, and he was in no
+mood to joke. I tried to LOOK at the RELIC, but Brink chased me away from
+it. Why I thought he'd talk to me after this initial reception, I'll never
+know. But I tried it. The obvious thing to do in an illogical sort of way.
+When I TALKED to BRINK about the ALIEN DEVICE and our need for LIFE
+CRYSTALS to make it work, he refused to give me any. My last card was to
+TALK to him about the EYE PART. Boston took over from here -- and I really
+wanted to give him a good BigBad MaMa smack for what he suggested. Boston
+told Brink that he thought the missing part for Brink's machine was that
+same EYE PART I'd put in the CONSOLE. Boston and Brink finally cut a deal
+-- Boston would let Brink use the EYE PART to get his LIFE CRYSTAL machine
+working in exchange for half of the LIFE CRYSTALS it produced. <SIGH> Back
+to the CATHEDRAL SPIRE. Time to RETRIEVE the EYE PART and bring it back to
+BRINK. TWO MACHINES, ONE EYE PART Maggie and I went back to the SPIRE BASE
+and got on the TOMB TRAM, then transferred at the NEXUS for the CATHEDRAL
+TRAM. I was starting to get really, really homesick for New York City right
+about now. I TOOK the EYE PART from the CONSOLE, then decided there had to
+be an easier way than all this back and forth on the TRAMS. Maybe if I
+continued up the LAB I'd find a STRANGE DEVICE that might cut down on
+travel time. On the way, I stopped to LOOK at some CONTROLS that Boston
+said he didn't know how to work, and to TOUCH two more STRANGE OBJECTS that
+moved around, but didn't seem to do anything else. I also LOOKED at an
+ALIEN DEVICE that Boston was clueless about. OUTSIDE I found what I'd been
+looking for. Across a stone bridge to my left, I found another STRANGE
+DEVICE on a ledge. This one had a NEST in front of it that seemed to be
+positioned just where its LENS ought to be. I LOOKED at the NEST. Boston
+kicked it off of the LENS with apologies to the birds. This LENS appeared
+to need no adjustment since it wouldn't move when I PUSHED it. All I had to
+do was USE the SWITCH on the STRANGE DEVICE as I had done so many times in
+the past, and I had my LIGHT BRIDGE. THE EYE had taken the place of the
+GLOWING SPHERE in the center of all the LIGHT BRIDGES. I stopped to EXAMINE
+it. Boston could almost feel the surface. We moved on across the LIGHT
+BRIDGES to the TOMB SPIRE and returned to the PLATFORM to see BRINK and his
+RELIC. The RELIC, as it happened, now had a SLOT. When I USED the EYE PART
+with the SLOT, the machine started to vibrate. Eventually, it produced a
+whopping two LIFE CRYSTALS. Boston took them, arguing that Brink's theft of
+all the other LIFE CRYSTALS made these two Boston's under their deal. Then
+Boston said he was taking back the EYE PART. Brink could either come with
+us through THE EYE once it was working, or stay and take the EYE PART back
+later for his machine. I TOOK the EYE PART from the COMPLETED MACHINE. At
+this, Brink flew into a rage and jumped Boston. Just as he was about to do
+Boston in, he tripped and fell over the edge of the cliff and DOWN to his
+second death.
+
+NOTE: After this happens, you can put the EYE PART back in the SLOT again
+and get more LIFE CRYSTALS. I didn't do this in my first game, but in the
+second I did so that I could try for the alternative ending I'd heard
+about. Just be sure that if you do USE the EYE PART again, you remember to
+take it with you when you're finished getting more crystals. If you don't,
+you'll have to come all the way back here again to get it.
+
+After losing Brink again, we had nothing left to do but return to the
+CATHEDRAL SPIRE. We CROSSED the LIGHT BRIDGES back and went down to the
+LAB. The moment of truth had come. We'd now see what would happen if we
+tried to run the ALIEN DEVICE. I went down to the lower CONSOLE and
+INSERTED the EYE PART into the GAP IN MACHINERY. I placed a GLOWING CRYSTAL
+in each EMPTY SLOT. The machinery started to rumble. Since Boston still had
+no clue when he LOOKED at the upper CONSOLE, I figured that Maggie might
+know what to do. After all, early on, Boston had said that her studies
+might help us to read any directions we'd need to know. When I asked her
+about the ALIEN DEVICE, she told me that working the device might be
+dangerous. It could kill us, but there were no guarantees that this would
+happen. She extracted a promise from Boston that he wouldn't try to revive
+her with a LIFE CRYSTAL if anything happened to her. She assured him that
+she had no knowledge of any harm that would happen to the person at the
+controls, then proceeded to turn on the machine. A part of the ALIEN DEVICE
+was stuck, and when Maggie pried it open, she was struck down and died.
+She'd known all along that this would probably happen. Thanks, Mag. But THE
+EYE was now restored, so it was time to move on.
+
+ENDING 1 (HAPPY MAGGIE) -- Morgie's Day 3
+
+Since in my game, I hadn't used Brink's machine twice, I had no LIFE
+CRYSTALS at this point. So unless I could find more, it wouldn't be hard to
+keep my promise to Maggie. I wasn't really planning to break it anyway. I
+headed for THE EYE, but when I tried to walk across the LIGHT BRIDGE, I
+found my way blocked by a beast that chased me back to the spire, then
+retreated. By now, it was again very late at night. I was exhausted. I
+tried a few half-hearted attempts at getting rid of the beast. I tried to
+FEED it the RIB CAGE, TUSK and JAWBONE. I tried to get back to see the
+alien and ask it about this beast, but obviously I wasn't going to be able
+to get across the LIGHT BRIDGE, and the TRAM controls had shorted out when
+we turned on THE EYE. I was trapped on the spire, and too bushed to think
+anymore. So I went to sleep. I didn't feel stuck, but I did have the sense
+that a fresh eye would be able to evaluate this situation more clearly.
+ENDING 1 (HAPPY MAGGIE) -- Morgie's Day 4 I noticed as soon as I came back
+to the game that the creature blocking my way seemed to start chasing me
+from _on_ the LIGHT BRIDGE instead of from within THE EYE. If I was right
+about this, then all I'd need to do would be to retract the LIGHT BRIDGE,
+and the creature should fall off of it. I wasn't really sure how to go
+about this, but after trying a few things I found that if I LOOKED at the
+STRANGE DEVICE and PRESSED its SWITCH, I could make the line to the right
+of the screen disappear, just as I'd made it appear. The next thing I knew,
+the creature plummeted to the ground below. Boston seemed to think this was
+his last obstacle to getting to THE EYE. He turned out to be right, and I
+laughed at myself for going to sleep the night before, just as I'd found
+the last puzzle in the game. I USED the STRANGE DEVICE'S SWITCH to reset
+the LIGHT BRIDGE, and bravely set off to THE EYE. When I EXAMINED it, I saw
+that it was another island floating above ground. I WALKED into THE EYE,
+wondering if I'd have the strength to return from Spacetime Six. Through
+THE EYE, I encountered a PORTAL. I ENTERED the PORTAL and saw beauty beyond
+belief. This was my final act in the game. The ending sequence started
+after I entered the PORTAL. Boston wisely chooses to stay close to the
+entrance to Spacetime Six. An alien speaks to him. Here in Spacetime Six,
+communication occurs mind to mind, so Boston can understand what it says.
+The alien says that Boston was as strong as they'd hoped, and that he can
+lead all of the lost aliens back to life. One by one, aliens return to
+Spacetime Four and pop up all over the planet. They return to life with
+death, yes -- but with true life as well. When Boston and the alien emerge
+through the portal, the alien speaks of its great debt to Boston. Boston
+says he just wants to go home and relate the story of how his friends had
+died. Risky as it seems, the alien goes back into the portal and through
+the pathways of time, where it finds Maggie and Brink and returns them to
+Boston. Brink has aged greatly, but is free of the effect of the life
+crystals. Maggie, all smiles and hugs, expresses her gratitude that Boston
+had kept his promise and not tried to revive her when she died. Our
+travellers board their crystal ship and head for home, knowing that they
+have an open invitation for themselves and all humankind to return and
+visit their new friends.
+
+ENDING 2 (ANGRY MAGGIE)
+
+After finding myself trapped on the CATHEDRAL SPIRE as before, I USED a
+GLOWING CRYSTAL on MAGGIE. She came back to life furious with me and threw
+herself off of the cliff at the upper entrance to the LAB. I dealt with the
+beast on the LIGHT BRIDGE as outlined above, restored the LIGHT BRIDGE and
+ENTERED THE EYE and the PORTAL. The ending sequence progresses exactly the
+same as the first, with one exception: when the alien brings Maggie back,
+she snarls at Boston, slaps him and says she's not sure she's happy to see
+him since he broke his promise to her. But she backs down pretty quickly,
+and the remainder of the ending is the same happy one as before.
+
+AFTERWARD
+
+On the remote chance that anyone cares, I did end up finishing THE DIG
+before herc did -- but only because I went into my usual obsessive mode and
+did nothing else but play until I finished. He finished shortly after I did
+without getting stuck at all. But then, talk about someone who has played
+adventures since Shep was a pup. (Was that Shep I? Or Shep XIV?) I also
+liked THE DIG more than herc did, but then I'd been so looking forward to
+this game, I doubt much about it could have seriously disappointed me. It
+has been quite awhile since I've played such a balanced game: strong story,
+good puzzles, and interesting characters, not to mention an excellent sound
+track. Although I became frustrated at points, overcoming frustration is,
+for me, part of the enjoyment of playing adventure games. Few things in
+life offer such a harmless means of venting one's spleen, and such an easy-
+to-come-by feeling of elation when a problem has been solved. If you're
+still playing, have fun and good luck! If you've finished, congratulations
+and well done! Either way, I'm hopeful that my little tome served you in
+some fashion, by way of solutions, ways of thinking about this game and/or
+others -- or even just to stir up a chuckle or two.
+
+Copyright © 1995 by Morgana. All rights reserved.
+
+                         < Back to the Main Page >

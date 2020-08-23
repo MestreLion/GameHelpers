@@ -1,0 +1,1117 @@
+                   --------------------------------------
+                        Final Fantasy VII Goodies Guide
+                          for Sony Playstation
+                          12/1/97 version .666
+                      by CaesarDyke (PfishyDyke@aol.com)
+                   --------------------------------------
+
+Table of Contents:
+------------------
+	1. Materia
+	2. Limit Breaks
+	3. Ruby and Emerald Weapons
+	4. Ultimates and Accesories
+	5. Chocobo Breeding Guide
+	
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                             Introduction
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Well, here's a little FAQ on just the goodies in the game. What I mean by
+goodies is the materia, limit breaks, ultimates, & much more.........
+I know there are already HUGE FAQs on this, some that have to be.......
+zipped!!!! But this should be used if you specifically want the extra goodies
+because it is probably easier to find what you want without scrolling forever
+and maybe more in-depth, possibly..... This is my first RPG FAQ, hope it
+turns out well!!!!!! Also, this was made from the AMERICAN version. Most
+of the ones out there are based on the japanese version, which aren't that
+different at all, but just wanted to state that.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                               1. Materia
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+--------------
+Green Materia:
+--------------
+
+1. Barrier
+
+Spells: Barrier, MBarrier, Reflect, and Wall.
+
+- Barrier is a spell that reduces physical damage by around 50% I believe.
+
+- MBarrier reduces damage done by magic by 50%, it depends on characters
+  magic resistance rating too.
+
+- Reflect does what it name implies; it reflects spells cast. Remember,
+  if both opponent and ally have reflect cast, the spell will bounce
+  until one wears out.
+
+- Wall combines the effects of Barrier and MBarrier.
+
+Found: In Rocket Village
+
+
+2. Contain
+
+Spells: Freeze, Break, Tornado, and Flare.
+
+- Freeze does massize damage and sometimes freezes opponents motionless.
+
+- Break is an earth spell and sometimes turns them into stone.
+
+- Tornado is a powerful wind attack that sometimes confuses opponents.
+
+- Flare is the most powerful fire-based magic attack.
+
+Found: In Mideel Village, feed boy's chocobo some greens from the Chocobo
+       Sage.
+
+
+3. Destruct
+
+Spells: Debarrier, Dispel, and Death.
+
+- Debarrier gets rid of any barrier.
+
+- Dispel gets rid of any status aiding spell.
+
+- Death kills with one cast, but doesn't work on really strong enemies.
+
+Found: In the Condor Fort, buy in Mideel.
+
+
+4. Earth
+
+Spells: Quake 1, Quake 2, and Quake 3.
+
+- All of these spells are earth-elemental attacks.
+
+Found: Buy in Kalm Town and Costa del Sol.
+
+
+5. Exit
+
+Spells: Escape and Remove.
+
+- Escape warps away from battle.
+
+- Remove is like X-Zone from FFIII, expels all enemies from the screen.
+
+Found: Rocket Village.
+
+
+6. Fire
+
+Spells: Fire 1, 2, and 3.
+
+- All are fire-elemental magic attacks.
+
+Found: Buyable at many towns, easy to find.
+
+
+7. Full Cure
+
+Spell: Full Cure.
+
+- It recovers all the HP lost in battle, basically completely recovers one
+  person's Hit Points.
+
+Found: In back of Item Shop in Cosmo Canyon.
+
+
+8. Gravity
+
+Spells: Demi 1, 2, & 3.
+
+- Gravity based attacks that take from one/half to three/quarters of enemy's
+  hit points.
+
+Found: Buyable in many stores throughout game.
+
+
+9. Heal
+
+Spells: Poisona, Esuna, and Resist.
+
+- Poisona heals poison status.
+
+- Esuna heals other status ailments.
+
+- Resist protects from getting other status ailments.
+
+Found: Buyable, Kalm Town.
+
+10. Ice
+
+Spells: Ice 1, 2, & 3.
+
+- All are ice-elemental attacks.
+
+Found: Buyable at many locations.
+
+
+11. Lightning
+
+Spells: Bolt 1, 2, & 3.
+
+- All are lightning-elemental attacks.
+
+Found: Sold at many locations.
+
+
+12. Meteo
+
+Spells: Comet 1 & 2.
+
+- Comet 1 hits once with a meteorite.
+
+- Comet 2 hits all with many meteorites.
+
+Found: Lost City of the Ancients.
+
+
+13. Mystify
+
+Spells: Confu and Berserk.
+
+- Confu confuses enemies.
+
+- Berserk makes enemies or allies uncontrollable.
+
+Found: Cosmo Canyon.
+
+
+14. Poison
+
+Spells: Bio 1, 2, & 3.
+
+- All are poison-elemental attacks.
+
+Found: Sold at many locations.
+
+
+15. Restore
+
+Spells: Cure 1, Cure 2, Regen, & Cure 3.
+
+- Cure spells give back Hit Points.
+
+- Regen gives back hit points over time. Regenerates HP.
+
+Found: Everywhere, many locations.
+
+
+16. Revive
+
+Spells: Life 1 & 2.
+
+- Life 1 restores life and partial HP.
+
+- Life 2 restores life and all HP.
+
+Found: I forget... One of the towns sells it.
+
+
+17. Seal
+
+Spells: Sleep & Silence.
+
+- Sleep puts enemies to sleep.
+
+- Silence mutes enemies.
+
+Found: Junon.
+
+
+18. Shield
+
+Spell: Shield.
+
+- Casts a shield provided extra defense.
+
+Found: Sephiroth's Lair near end.
+
+19. Time
+
+Spells: Haste, Slow, & Stop.
+
+- Haste reduces time the bar fills up, attack quicker.
+
+- Slow reduces enemies speed.
+
+- Stop reduces enemies speed to zero for limited time.
+
+Found: Gongaga.
+
+
+20. Transform
+
+Spells: Mini & Toad.
+
+- Mini turns enemies into miniature version and cures mini status.
+
+- Toad turns enemies into toads and cures toad status.
+
+Found: Many locations.
+
+
+21. Ultima
+
+Spell: Ultima.
+
+- Giant green blast of energy heavily damages enemies.
+
+Found: Corel, save town from train.
+
+
+------------
+Red Materia:
+------------
+
+1. Alexander
+
+Holy Judgment, found in Ice Gate.
+
+
+2. Bahamut
+
+Mega Flare, found after defeating dragon in ancient pyramid.
+
+
+3. Neo Bahamut
+
+Giga Flare, found in Whirlwind Maze.
+
+
+4. Bahamut Zero
+
+Tera Flare, found in Bugenhagen's Planetarium after getting other 2 Bahamuts.
+
+
+5. Choco/Mog
+
+Deathblow, 1/16 chance Fat Chocobo. Found in Chocobo Ranch.
+
+
+6. Hades
+
+Black Cauldron, found in Underwater Shinra Plane.
+
+
+7. Ifrit
+
+Hellfire, found after Jenova-Birth defeat.
+
+
+8. Knights of the Round
+
+Ultimate End, found in Round Island in NE part of world.
+
+
+9. Kjata
+
+Tri-Disaster, found in Sleeping Forest.
+
+
+10. Leviathan
+
+Tidal Wave, found after beating Yuffie's father in her sub-quest in Wutai.
+
+
+11. Odin
+
+Atom Edge, found in safe in Shinra Mansion in Nibelheim.
+
+
+12. Phoenix
+
+Resurrect, found after Condor Fort mini-game.
+
+
+13. Ramuh
+
+Judgment Bolt, found at Chocobo Races.
+
+
+14. Shiva
+
+Diamond Dust, found in Junon.
+
+
+15. Titan
+
+Anger of the Earth, found at Gongaga reactor.
+
+
+16. Typhoon
+
+Disintegration, found in forest on mountain near Cosmo Canyon.
+
+
+---------------
+Yellow Materia:
+---------------
+
+1. Deathblow
+
+- Always a critical hit, misses many times though.
+
+Found in Rocket Village, and bought in Condor Fort.
+
+
+2. Double Cut
+
+- Hits twice, four times if enough AP is built up.
+
+Found in underwater Shinra Plane.
+
+
+3. Manipulate
+
+- Lets you control the enemies.
+
+Found in Condor Fort and Cait Sith starts out with it.
+
+
+4. Master Command
+
+- Allows use of other materia
+
+Found in Sephiroth's Lair, Northern Crater.
+
+
+5. Mimic
+
+- Mimics previous attack.
+
+Found in a cave on a mountain on Wutai continent.
+
+
+6. Morph
+
+- Does weak attack, if kill with it, turns enemy into item.
+
+Found in the Temple of the Ancients.
+
+
+7. Sense
+
+- Lets use see enemy's HP and MP and weaknesses.
+
+Found in many stores and Red XIII starts with it.
+
+
+8. Slash All
+
+- Slashes every enemy.
+
+Found in Ancient Forest.
+
+
+9. Steal
+
+- Steals an item, Mug hits and steals an item.
+
+Found after fight in Wall Market Sewer.
+
+
+10. Throw
+
+- Throws a weapon, Coin tosses out money.
+
+Found in Condor Fort and Rocket Village.
+
+
+11. W-Item
+
+- Use two items in one turn.
+
+Found in Midgar Sector 8 Subway.
+
+
+12. W-Magic
+
+- Cast two spells in one turn.
+
+Found in Northern Crater.
+
+
+13. W-Summon
+
+- Summon twice.
+
+Found in Battle Square for 64,000 Battle Points!!!!
+
+
+14. Enemy Skill
+
+- Lets you use enemy attacks.
+
+Found in Shinra Building, Chocobo Sage's, and a couple other places.
+
+Enemy Skills:
+
+Frog Song			Big Guard
+Level 4 Self-Destruct		Dragon Force
+White Wind			Death Force
+Pandora's Box			Flame Thrower
+Magic Hammer			Matra
+????				Bad Breath
+Aqualung			Goblin Punch
+Tryne				Chocobockle
+Magic Breath			Level 5 Death
+Beta				Death Sentence
+Angel's Whisper			Death Roulette
+Laser				Shadow Flare
+
+
+
+-------------
+Blue Materia:
+-------------
+
+1. Added Cut
+
+- When paired with other materia, will add hit after using that attack.
+
+Found in Underwater Shinra Plane.
+
+
+2. Added Effect
+
+- Gives weapon or armor the attribute of paired materia.
+
+Found in Cave of the Gi in Cosmo Canyon.
+
+
+3. Added Steal
+
+- Steals when attacking with paired materia.
+
+Found in Flaming Caves in Wutai.
+
+
+4. Command Counter
+
+- Attacks with paired materia automatically at beginning of battle.
+
+Found in Northern Crater.
+
+
+5. Elemental
+
+- Gives elemental attribute of paired materia to weapon/armor.
+
+Found in Nibelheim and Shinra Main Building.
+
+
+6. All
+
+- Lets you use magic on all enemies.
+
+Found in many locations.
+
+
+7. Final Attack
+
+- Casts spell upon death.
+
+Found after Gold Battle Secret Duel with Cloud.
+
+
+8. HP Absorb
+
+- Absorbs amount of HP damage to enemy.
+
+Found in Wutai.
+
+
+9. Magic Counter
+
+- Counter with paired magic materia.
+
+Found in Chocobo Races.
+
+
+10. MP Absorb
+
+- Absorbs 1/100 of damage inflicted as MP.
+
+Found in Wutai.
+
+
+11. MP Turbo
+
+- Magic inflicts more damage and also takes more MP.
+
+Found in the Whirlwind Maze.
+
+
+12. Quadra Magic
+
+- Cast a spell 4 times with only cost of one in a row.
+
+Found in Cave on Island near Mideel.
+
+
+13. Sneak Attack
+
+- Makes a pre-emptive attack sometimes.
+
+Found in Chocobo Races.
+
+
+---------------
+Purple Materia:
+---------------
+
+1. Chocobo Lure
+
+- Attracts Chocobos more in areas with tracks.
+
+Found at the Chocobo Ranch.
+
+
+2. Counter Attack
+
+- Attack when hit.
+
+Found after beating the Materia Keeper.
+
+
+3. Cover
+
+- Cover an ally from attack.
+
+Found in Aeris' House.
+
+
+4. Enemy Away
+
+- Decreases enemy encounter rate.
+
+Found at the Chocobo Races.
+
+
+5. Enemy Lure
+
+- Increases enemy encounters.
+
+Found at the Gold Saucer.
+
+
+6. Gil Up
+
+- Increases amount of Gil received in battle.
+
+Found in Wonder Square.
+
+
+7. HP Plus
+
+- Increases max HP.
+
+Found in Mideel in stores.
+
+
+8. HP/MP Switch
+
+- Switches HP with MP.
+
+Found in Materia Cave near North Corel.
+
+
+9. Luck Plus
+
+- Increases Luck
+
+Found in Temple of the Ancients.
+
+
+10. Long Range
+
+- Normal damage in the back row.
+
+Found in Mythril Mine.
+
+
+11. Magic Plus
+
+- Increases magic power.
+
+Found in Cosmo Canyon area.
+
+
+12. MP Plus
+
+- Increase MP.
+
+Found in stores in Mideel.
+
+
+13. Preemptive
+
+- Increase preemptive attack rate.
+
+Found in Wonder Square.
+
+
+14. Speed Plus
+
+- Increases speed.
+
+Found in Battle Square for 4,000 battle points.
+
+
+15. Super Enemy-All
+
+- Makes attack affect all enemies.
+
+Found in Northern Crater.
+
+
+16. XP Up
+
+- Increases amount of experience received in battle.
+
+Found in Wonder Square.
+
+
+17. Underwater Materia
+
+- Allows you to fight Emerald Weapon with no time limit.
+
+Found by morphing Ghost Ship in Underwater Reactor in Junon. Give item
+to man in Kalm Town for the Materia.
+
+############################################################################
+                           2. Limit Breaks
+############################################################################
+
+-------------
+Cloud Strife:
+-------------
+
+Lv. 1:
+
+Braver- Powerful jumping slash against single opponent.
+
+Cross Slash- Paralyzing and damaging slashes.
+
+Lv. 2:
+
+Blade Beam- Beam hits one enemy for good damage and splits and hits
+surrounding enemies for less damage.
+
+Climhazard- Sticks his sword in foe and flies upward for huge damage.
+
+Lv. 3:
+
+Meteorain- Creates a meteor shower that hits enemies multiple times.
+
+Finishing Touch- Tornado lifts enemies off screen and destroys them.
+
+Lv. 4:
+
+Omnislash- Hits enemies with 15 powerful slashes.
+
+To get go to the Battle Square and earn 32,000 battle points.
+
+
+---------------
+Barret Wallace:
+---------------
+
+Lv. 1:
+
+Heavy Shot- Produces one big shot of energy.
+
+Mind Break- Blue gun shot that depletes enemy's MP.
+
+Lv. 2:
+
+Grenade Bomb- Grenade that hits all enemies.
+
+Hammerblow- Kill an enemy with one strike.
+
+Lv. 3:
+
+Satellite Beam- Lasers hits enemies for multiple hits.
+
+Anger Max- Fires multiple shots at enemies.
+
+Lv.4:
+
+Catastrophe- Multiple beams hit enemies randomly for big damage.
+
+Get it by talking to one of the villagers after saving North Corel
+from the train.
+
+
+--------------
+Tifa Lockhart:
+--------------
+
+Lv. 1:
+
+Beat Rush- Kicking and punching combo.
+
+Somersault- A flip kick.
+
+Lv. 2:
+
+Water Kick- A slashing kick.
+
+Meteodrive- Pick up enemy and smash into ground.
+
+Lv. 3:
+
+Dolphin Blow- Powerful punch with help from dolphin.
+
+Meteor Strike- Grab enemy and jump and smash into ground.
+
+Lv. 4:
+
+Final Heaven- Big blast of energy to finish off combo.
+
+Found by playing song in Tifa's room in Nibelheim. I forget the song,
+it's something like this, but it might be wrong.
+
+X, Square, Triangle, R1 + Triangle, R1 + Square, X, Square, Triangle,
+R1 + X, Circle, X, X, Square, Triangle.
+
+
+-------------------
+Aeris Gainsborough:
+-------------------
+
+Lv. 1:
+
+Healing Wind- Recovers hit points of party.
+
+Seal Evil- Mutes all enemies.
+
+Lv. 2:
+
+Breath of the Earth- Abnormal status is dispelled.
+
+Fury Brand- Fills other allies' limit gauge.
+
+Lv. 3:
+
+Planet Protector- Invincibility for a while.
+
+Pulse of Life- Revives allies and fills everyone's HP and MP to max.
+
+Lv. 4:
+
+Great Gospel- Refills all HP and MP and limited invincibility.
+
+Go to the cave with the sleeping man near Midgar. He will give you Mythril
+if last 2 digits of the battles you have fought match. Take it to weapon
+shop near Gold Saucer and pick the smaller metal box.
+
+
+------------------
+Red XIII (Nanaki):
+------------------
+
+Lv. 1:
+
+Sled Fang- Charging attack at one enemy.
+
+Lunatic High- Haste is cast on party.
+
+Lv. 2:
+
+Blood Fang- Drains HP and MP from enemy.
+
+Stardust Ray- Shooting stars hit enemies multiple times.
+
+Lv. 3:
+
+Howling Moon- Casts Haste and Berserk on Red XIII.
+
+Earth Rave- 5 attacks on all enemies.
+
+Lv. 4:
+
+Cosmo Memory- Giant blast strikes all enemies.
+
+Get this by opening the safe and defeating the boss in the Shinra Mansion
+in Nibelheim. Combination to the safe is Right 39, Left 10, Right 59, and
+Right 97.
+
+
+----------
+Cait Sith:
+----------
+
+Lv. 1:
+
+Dice- Cait throws out dice, higher the total, more damage.
+
+Lv. 2:
+
+Slots- Slot machine with random results. There is even an instant death
+attack that could even kill Sephiroth!!!! Don't know about the Ruby and
+Emerald weapons, haven't been that lucky yet. :)
+
+
+-------------
+Cid Highwind:
+-------------
+
+Lv. 1:
+
+Boost Jump- A jumping spear gouge.
+
+Dynamite- Stick of TNT explodes and damages all enemies.
+
+Lv. 2:
+
+Hyper Jump- Multiple jumping spear gouges.
+
+Dragon- Single attack with powerful dragon.
+
+Lv. 3:
+
+Dragon Dive- Multiple explosive jumping attacks.
+
+Big Brawl- Multi-hit attack against all enemies.
+
+Lv. 4:
+
+Highwind- The Highwind airship comes and fires missiles.
+
+Find this Limit Break in the Underwater Shinra Plane.
+
+
+----------------
+Yuffie Kisagiri:
+----------------
+
+Lv. 1:
+
+Greased Lightning- Powerful cut to one enemy.
+
+Clear Tranquil- Heals party's HP.
+
+Lv. 2:
+
+Landscaper- Energy rolls across ground hitting all enemies.
+
+Bloodfest- A 10-strike slash fest.
+
+Lv. 3:
+
+Gauntlet- Massive Explosion that hits all enemies.
+
+Doom of the Living- Multi-hit combo that hits all enemies.
+
+Lv. 4:
+
+All Creation- Massive beam of light hits all enemies.
+
+Get by defeating the 5 bosses in the Wutai Pagoda.
+
+
+------------------
+Vincent Valentine:
+------------------
+
+Lv. 1:
+
+Galian Beast- Heals himself and gives him extra HP. Attacks with Berserk
+Dance and Beast Flare.
+
+Lv. 2:
+
+Death Gigas- Transforms into giant. Gigadunk hits enemy for huge dame, and
+Livewire electifies all.
+
+Lv. 3:
+
+Hellmasker- Hits with 5-strike combos and puts curses on enemies.
+
+Lv. 4:
+
+Chaos- Strikes with 2 very powerful attacks, Chaos Saber and Satan Impact.
+
+To get this, go to the waterfall area by Cosmo Canyon in Disk 3. Make sure
+to bring Vincent when doing this. 1st time you visit you'll talk to
+Sephiroth's mother Lucrecia. 2nd time you can get the limit break.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                        3. Ruby and Emerald Weapons
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Both of the weapons have around 1,000,000 hit points and in my opinion are
+MUCH harder than Sephiroth. Included will be just some basic strategies.
+
+Emerald Weapon- Make sure to get the Underwater Materia before going against
+him. Look in the materia section to see how to find it. Anyway, the best way
+to beat him is probably to connect the X-Summon materia with the Knights
+of the Round and other party members with Mimic materia. Makes sure to have
+someone equipped with the all materia and Restore materia connected with it.
+Also, connect the Final Attack Materia with the Phoenix so that you can come
+back to life if he kills you. If you win, you will get an item. (I forget
+its name.) Take it to the man in Kalm Town where you got the Underwater
+Materia and trade it for the Master Green, Yellow, and Red Materia!!!!
+Oh yeah, I never told where to find him!!! Just go around in the sub
+in the area around Costa del Sol and Junon, be submerged in the water.
+Just watch for a big green monster floating around and bump into him.
+
+Ruby Weapon- Okay, now this time I'll put the location first. Go in the
+Highwind and go to the desert area by the Gold Saucer. Fly into the red
+thing pointing out and you will fight him. I say just do the same thing
+as shown above. You will get an item, trade it to the guy in Kalm and
+you will get a Gold Chocobo! (Personally, breeding one might be a bit
+easier and he might be a little too hard without the Knights of the Round
+Materia, which needs the Golden Chocobo to retrieve it.)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                    4. Ultimates and Accessories
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+----------
+Ultimates:
+----------
+
+Cloud- Ultimate Weapon. Get it by killing the Ultimate Weapon during Disc 3.
+The more HP you have at the moment, the more it takes away, just like the
+Atma Weapon in FF3 US.
+
+
+Aeris- Princess Guard. Get it in one of those rooms in the Temple of the
+Ancients during the clock game part. This weapon is more powerful when
+Aeris is healing the party.
+
+
+Tifa- Premium Heart. Go back to Wall Market in Midgar after finding the
+Sector 5 key in Bone Village. Go to the room with the gun that shoots at
+you, inspect the area and you will find it. This weapon is more powerful
+when the limit gauge has more powerful in it. Really weak when empty.
+
+
+Barret- Missing Score. Check the railing near the Sister Ray during the raid
+of Midgar at the end of Disc 2. If you're in Disc 3 and haven't gotten it,
+you can't get it anymore. The more AP equipped to this gun, the more
+powerful it is.
+
+
+Red XIII- Limited Moon. Talk to Bugenhagen during Disc 3 when he is about
+to die. He will give you the weapon. The more MP remaining, the more powerful
+it is.
+
+
+Cid- Venus Gospel. In Disc 3 talk to the old man by the Launch Site 3 times
+to get it. The more MP remaining, the more powerful it is.
+
+
+Cait Sith- HP Shout. Go to the Shinra building in Disc 2 and search the
+lockers on the 64th floor. You can now take the megaphone there which
+is the HP Shout. The more HP remaining, the stronger it is.
+
+
+Yuffie- Conformer. Find this in the Underwater Shinra Plane. This weapon's
+strength is determined by the level of the enemies.
+
+
+Vincent- Death Penalty. Found in the Waterfall where you get his Level 4
+Limit Break. The more enemies Vincent has killed, the more powerful this
+weapon will become.
+
+
+------------
+Accessories:
+------------
+
+Angry Ring- Casts Berserk. Buy it in Gongaga.
+Cold Ring- Gives defense to cold. Buy in Mideel.
+Cursed Ring- Condemns you. Find it in closed door in Mideel.
+Fairy Ring- Resistance to Poison and Darkness. Buy in Mideel.
+Flame Ring- Immunity to fire attacks. Buy in Mideel.
+Jewel Ring- Immune to petrify and slow. Buy in Mideel.
+Peace Ring- Resistance to sadness and hyper. Buy in Rocket Village.
+Poison Ring- Absorb poison. Found in Whirlwind Maze.
+Water Ring- Immunity to water attacks. Found in Zango Valley.
+Toughness Ring- Strength and Mentality up 50 points. Steal it from Reno.
+Amulet- Luck +10. Buy in Mideel
+Cat's Bell- Gain HP with each step. Won in Chocobo Races.
+Champion Belt- Power +30. Get at Battle Square.
+Chocobo Feather- Speed +10. Buy in Wutai.
+Earring- Magic +10. Buy in Rocket Village.
+Headband- Resistance to Sleep. Buy in Junon and Gongaga.
+Power Wrist- Power +10. Steal from Palmer.
+Safety Bit- Immune to Death attacks. Buy in Rocket Village.
+Silver Edge Glasses- Immune to Dark. Get in Junon mini-game.
+Star Pendant- Immune to Poison. Buy in Gongaga.
+Ribbon- Immunities to all status ailment. Find in Temple of the Ancients.
+Sprint Shoes- Casts Haste. Win in the Chocobo Races.
+Talisman- Mental Power +10. Buy in Gongaga.
+Tetra-Elemental- Absorb fire, ice, lightning, and earth. Find in North Crater.
+White Cap- Immune to mini and toad. Buy in Gongaga and in Mideel.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        5. Chocobo Breeding Guide
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1st, make sure you have a lot of money, around 200,000 gil before doing this.
+Once you have the money, rent out all the stalls in the Chocobo Farm. They
+cost 10,000 gil each and there are 6, so 60,000 gil total.
+
+2nd, make sure you have the chocobo lure materia equipped. You want a running
+female and walking male. Get the running female in the tracks west of Mideel
+and the walking male in the tracks east of the Gold Saucer. Get them rated,
+have a great female and good male. Save it now.
+
+3rd, breed them with a Carob Nut which can be stolen from the dinosaur guys
+by the Chocobo Sage's place. Have the chocobos breed and get either a green
+or blue chocobo of either gender. You can breed both a green and a blue, but
+I think that takes long. Just breed your newly born chocobo with another
+yellow chocobo of opposite gender and you should get the chocobo of the other
+color. Green + Yellow = Blue, Blue + Yellow = Green. Make sure your blue and
+green chocobos are of opposite genders and save again.
+
+4th, buy 40 Silkis greens. Feed 10 to both the Green and Blue chocobo.
+
+5th, take them to the chocobo races and race until they are at the A-class.
+Winning 3 races will raise them a class, 6 total wins in a row in the long
+course to get them to the A-class.
+
+6th, mate the green and blue with a carob nut to get a black chocobo!!
+Feed it 10 silkis greens and race it to A-class.
+
+7th, find a chocobo in the tracks in the snow in the Northern continent.
+Make sure it has good health and opposite gender of the black one. Feed
+it 10 Silkis Greens and race it to A-class.
+
+8th, go to Goblin Island, which is just northeast of the chocobo farm and
+steal a Zeio Nut from them.
+
+9th, breed the black and chocobo from snow area with the Zeio Nut and you
+will get the Golden Chocobo!!!! You can now get some of the best Materia
+in the game, like the Knights of the Round!!!!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Thank ya to Square for finally making a 32-bit RPG. Also, to the other FAQs
+with help on some of the names like the HUGE one by KMegura. Anyway, I
+don't care if you use this information, just e-mail me and let me know,
+okay??? :). E-mail comments and suggestions to me, or even if you just
+wanna say you like it or it is helpful to PfishyDyke@aol.com
+
+Also, for some fun on non-video game related stuff, go to my web page at
+
+http://members.aol.com/pfishydyke/index.html
+
+Thanks again for reading my FAQ and for GameFAQs.com for posting them up.
+Check out my other ones, like on Pullum from Street Fighter EX Plus Alpha.
+Bye..!:)

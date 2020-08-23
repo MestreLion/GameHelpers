@@ -1,0 +1,537 @@
+==================================================
+TODO
+==================================================
+OK - Email OAK: Tournament INDIGO PLATEAU
+OK - Cut trees VIRIDIAN
+OK	Special Pokemon move
+OK	ROUTE 2: DIGLETT's CAVE entrance
+OK - Lady VIRIDIAN: Shopping in PEWTER CITY, via winding trail in VIRIDIAN FOREST
+OK - Route to INDIGO PLATEAU, front gate: BOULDERBADGE
+OK	Defeat BROCK at PEWTER CITY
+OK - Pokeballs in VIRIDIAN FOREST
+OK - Wireless Center in PC
+OK - TEAM ROCKET is at MT.MOON
+OK - Weird fish Pokemon for 500 at PEWTER Mart
+OK	- MAGIKARP sold at ROUTE 4 PC
+OK - Trade PICACHU for CLEFAIRY at PEWTER Mart (fake)
+OK - CLEFAIRY comes from the moon, appeared after MOON STONES feel on MT.MOON
+OK - MUSEUM: Rare and promitive fossils: KABUTOPS, AERODACTYL
+OK - MUSEUM: MOON STONE
+OK - BROCK suggestion: GYM CERULEAN
+OK - BICYCLE at CERULKEAN CITY: $1M
+OK	Ticket in VERMILION, elder at POKECLUB 
+OK - RARE CANDY makes pokemon evolve
+OK - BILL steals/collects rare Pokemon
+OK - CERULEAN CITY: badge descriptions, NW corner house
+OK - BERRY POWDER to manufacture berries
+OK - S.S. ANNE at VERMILION CITY
+OK	Ticket with BILL
+OK - ROUTE 11, hut 2nd floor: ITEMFINDER from OAK AIDE if > 30 Pokemon
+OK - ROUTE 2, house south of DIGLETT's CAVE: ABRA -> MR. MIME
+OK - SS ANNE, BERRY hidden trash, hinted by cook
+OK - VIRIDIAN, lady teaches move that "eat dreams" - DREAM EATER move tutor
+OK - Underground Passage ROUTE 5: NidoranM - NidoranF
+OK - ROUTE 11, hut 2nd floor: NIDORINO -> NIDORINA
+OK - CERULEAN -> LAVENDER via ROCK TUNNEL
+OK - Need COIN CASE for GAME CENTER in CELADON CITY. Man in 2nd SE house
+OK - COUNTER move tutor CELADON STORE 3F (don't bother)
+OK - Fossils stolen at MT.MOON
+OK - CUBONE's mother killed trying to escape TEAM ROCKET
+OK - MR. FUJI gone from LAVEDER TOWN. Application form for Grand Prize missing
+OK - GHOSTS in POKEMON TOWER, require SILPH SCOPE
+OK - TEA beats thisty. Guards?
+OK - SEA Pokemon live in deep water, need a ROD to catch
+OK - ROUTE 12 blocked by huge pokemon
+OK - POKE FLUTE awakens sleeping Pokemon. Snorlaxes?
+OK - 40 Pokemon, AMULET COIN from Prof Oak aide
+OK - BYKE: go to CYCLING ROAD
+OK - MEGA PUNCH / MEGA KICK tutor on ROUTE 4
+OK - DIG suggestions: MANKEY, SANDSHREW, DIGLETT
+OK - Big boulder FUCHIA CITY, Safari Zone house, pokeball (Strength?)
+OK - CERULEAN CITY, left of PC: POLIWHIRL -> JYNX
+OK - CELADON CITY, house and old man behind pond. Surf, SOFTBOILED tutor
+OK - ROCK TUNNEL, move tutor ROCK SLIDE
+OK - PEWTER CITY: sidedoor MUSEUM
+OK	SEISMIC TOSS, move tutor (don't bother)
+OK	OLD AMBER, deliver to POKEMON LAB
+OK - CINNABAR ISLAND: POKEMON LAB to regenerate fossils
+OK - GRIMLER multiplies in toxic sludge
+OK - VIRIDIAN, gym locked doors
+OK - Find LOSTELLE on THREE ISLAND, red roof, return to TWO ISLAND
+- Smashable rocks inside ROCK TUNNEL
+- Pokedex: after fill, talk CELADON CITY MANSION 4G game designer
+- BIG MAGIKARP, using SUPER ROD, show hut ROUTE 12
+- ROUTE 4, cave via surf after champion league
+
+======================================
+GOOD Combos
+======================================
+- Meowth (F) with ATRACT and THIEF. Do NOT erase BITE (Lavender Tower)
+- Dowzee DREAM EATER + something to sleep 
+
+=======================================
+TEAM
+=======================================
+- Charizard	Flamethrower, Fly
+- Lapras/Gyarados/Golduck	Surf, Waterfall, Ice Beam
+- Oddish/Jolteon	[52] Thunder (120, 10/16,  70%)
+- Meowth/Snorlax	Body Slam, Strength, Rest, Sleep Talk
+- Hypno/Alakazam	Psychic, Restore
+- Dugtrio/NidoKing
+
+- PrimeApe
+- NidoQueen/King
+- Dragonite
+- Dugtrio
+
+3 attackers, 1 HM Whore, 1 Utility (Thief), 1 Catcher (False Swipe)
+
+
+Charizard	Fly/Flamethrower/Dragon Claw/ Filler
+Jolteon		Thunderbolt/Shockwave/Double Kick/ Quick Attack
+Lapras		Ice Beam/Depends on which one
+Snorlax		Focus Punch/ Substitute/ Rest/ Strength
+
+Nidoking	Surf/ Strength/ Earthquake/ Brick Break
+Vileplume	Petal Dance/ Moonlight/ Toxic/ Filler (Acid?)
+
+
+Charizard: flamethrower, fly, metal claw/brick break, filler
+Jolteon: thunderbolt, bite, double kick, thunder wave
+Lapras: surf, ice beam, psychic, filler (sing, toxic, shock wave)
+Snorlax: body slam, shadow ball, brick break, filler (rest, strength, amnesia, hyper beam?)
+Nidoking: sludge bomb, dig/earthquake, rock slide, megahorn
+Vileplume: petal dance, sleep powder, moonlight, filler (poison powder/see what hidden power you get?)
+
+
+Snorlax
+    Body Slam (STAB)
+    Shadow Ball (Coverage)
+    Yawn (Status) / Snore, Sleep Talk (not useless during Rest)
+    Rest (Filler)
+
+Lapras	Surf/Ice Beam/Thunderbolt/Confuse Ray
+
+Charizard:
+Flamethrower/heat wave
+Aerial ace/fly
+Dragon claw/sword dance
+Earhtquake/iron tail/brick breal/rock slide
+
+
+Here is what a leveling up team could look like while trying to complete your playthrough.
+Charizard, Lapras, Jolteon, Marowak, Kadabra, Snorlax.
+Unless you can get 2 evee's through a trade, Pick either Vaporeon or Jolteon and get Lapras/Megaton as a substitute.
+
+Best possible team you could try to get and what you should strive for in my humble opinion is.
+Arcanine, Vaporeon, Jolteon, Marowak, Alakazam, and Snorlax.
+
+Team Coverage
+-------------
+You don't need to cover every type. Some types, like steel and Dragon, are useless for attacking.
+Steel hits Rock and Ice. Fighting hits Rock and Ice as well, along with Dark, Steel and Normal. Fighting > Steel.
+Dragon hits Dragon. Ice hits Dragon, Flying, Grass, and Ground. Ice > Dragon
+
+Best of each type
+-----------------
+Normal: Snorlax. Incredible stats and even better movepool. It'd be hard for him to faint even if you wanted him to.
+Psychic: Alakazam if you can trade Kadabra for him, otherwise it's close between Kadabra and Mr. Mime. Both are very powerful special attackers, though.
+Fighting: Hitmonlee for sure. Great speed, incredible attack, surprisingly good special defense.
+Ghost: Not much choice here. Gengar. Gastly is very difficult to raise but the Shadow Ball TM makes everything worth it.
+Dragon: Again, no choices here; Dragonite. I wouldn't recommend raising one though, because Dratini and Dragonair are pretty mediocre and take FOREVER to level. Not worth the time investment.
+Flying: Not counting the legendary birds, Dodrio, hands down. Basically a way stronger version of Fearow. Drill peck is a win.
+Poison: Muk has great offensive stats and a pretty good movepool. Pretty crappy type altogether, though. Just ask Team Rocket, lol.
+Grass: Venusaur. Good overall stats and a very solid movepool including all three status powders.
+Water: Close between Lapras and Blastoise. Blastoise has better defenses but Lapras has better typing and more HP and attacking powers. Lapras in my opinion, others would probably argue Blastoise's case.
+Fire: Arcanine by FAR. He was originally meant to be a legendary, so his stats are way higher than any normally obtainable pokemon's stats should be, and he has access to some great moves, including Flamethrower and the superpowered version of Quick Attack, Extremespeed.
+Ground: Dugtrio and Marowak are both good for different reasons. Dugtrio will pretty much always go first in battles, but doesn't hit that hard. Marowak is slower, but much stronger, and has a more diverse movepool. Your call.
+Rock: Golem if you can trade for him, but otherwise, Rhydon is a very solid backup plan.
+Ice: Lapras and Jynx are both vying for this position. I already chose Lapras, so we'll go with Jynx; great offensive stats and a wonderful movepool.
+Electric: Jolteon by FAR. Outspeeds everything and does a lot of OHKOing even with Shock Wave, which is a TM you get after beating the first gym. Jolteon is easy to over-level, I know from experience; and it's a good problem to have.
+
+Normal: Snorlax for sure, it's stats are insane. Hp: 160, Atk: 110 and Special defense: 110.
+Psychic: Alakazam if you can trade, Kadabra if you can't.
+Fighting: Hitmonlee is the strongest there with his 120 Atk and better rounded stats than Hitmonchan and Primape.
+Ghost: Gengar or Haunter if you can't trade.
+Dragon: Dragonite, incredibly rounded stats with a massive 134 in Atk. Very powerful if a bit grindy to level up.
+Flying: Pure normal/flying, Dodrio. Aerodactyl is an interesting choice, but with 5 whopping weaknesses he isn't very viable.
+Poison: Muk hands down. Has over 100 in Hp, Atk and special defense stats. Poison moves like Sludge and Sludge Bomb are physical attacks. So he is the perfect poison type to take advantage of those. Nidoking is a good second choice though.
+Grass: Venusaur has a good rounded set of stats, with 100 in Special Attack which most grass moves utilize.
+Water: Vaporeon hands down. With 130 in HP and 110 in special attack, there is no other water pokemon that has better stats than this guy. Blastoise and Lapras are subpar compared to Vaporeon.
+Fire: Arcanine has the best stats by far, but he is very difficult to get in good shape. You have to raise a growlithe from an egg with the moves you want. Use fire stone from lvl 5 so you raise him up with maximum stat increases. Then TM whatever other you moves you want. Do all that and he is the king. Charizard however has a higher special attack rating and is still a very good 2nd choice.
+Ground: Marowak by far, there is no competition. His speed stat is very bad, however he becomes a monster IF and only IF you have a -Thick Bone- equipped. Marowak has 80 in his Attack stat, which is nothing special. However with Thick Bone it doubles it. A whopping 160 freaking attack power. Insane.
+Rock: Aerodactyl is the best Rock Pokemon oddly enough. Rhydon has great stats but a whopping 6 weaknesses with 2 of them being x4. Aerodactyl has better overall stats but less attack power. But with 5 weaknesses Rock type isn't recommended.
+Ice: Lapras. There is literally only 3 ice type Pokemon that's not legendary. I would just recommend picking Vaporeon instead.
+Electric: Jolteon is by far the strongest non legendary eletric type. Magneton has 10 more in special attack but has weaker stats in everything else. Along with 2 more weaknesses and a x4.
+
+=======================================
+Catcher
+=======================================
+Moves
+-----
+
+- False Swipe (Normal, 40, 40 PP, 100%)
+	16 Scyther
+	16 Scizor
+	33 Cubone
+	39 Marowak
+	46 Farfetch'd
+
+- Spore (100% Sleep, 15 PP)
+	25 Paras
+	27 Parasect
+
+- Sleep Powder + Compound Eyes ( 97% Sleep, 15 PP)
+	Butterfree	Bug		15
+
+- Sleep Powder ( 75% Sleep, 15 PP)
+	Bulbasaur	Monster/Grass	15
+	Ivysaur 	Monster/Grass 	15
+	Venusaur	Monster/Grass 	15
+	Oddish  	Grass		18
+	Gloom   	Grass		18
+	Venonat 	36
+	Venomoth 	36
+	Bellsprout 	15
+	Weepinbell 	15
+	Victreebel	1
+	Exeggcute	37
+	Tangela 	4
+
+- Super Fang (Normal, -50% current HP, 10 PP, 90%)
+	34 Rattata
+	40 Raticate
+
+Soak (Changing target to pure Water, removes Ghost immunity from False Swipe and Grass immunity to Spore; also, Net Ball boost)
+
+
+Pokemon
+--------
+- Parasect
+- Scyther
+- Cubone
+
+
+Kanto Pokemon who learn False Swipe:
+Spearow(egg move)
+Paras(egg move)
+Farfetch'd(Lv.46)
+Cubone(Lv.33)
+Marowak(Lv.39)
+Scyther(Lv.16)
+Pinsir(egg move)
+
+
+=======================================
+HM Slaves
+=======================================
+
+NidoKing/NidoQueen
+-Strength
+-Cut
+-Rocksmash
+-Dig/Surf---whichever one you need, but considering surf is actually a good move, one of your water Pokemon will probably have it.
+
+Most Water and Grass types are good choices, namely Gyarados and Tropius. If you can get one, Smeargle can Sketch any move, and you can teach any HM to Mew.
+
+Krabby
+Gyarados
+
+Psyduck can learn Surf, Strength, Flash, Rock Smash and Waterfall
+Cut+Flash+Rock Smash: Paras
+DRAGONITE can learn all except Flash.
+
+
+=======================================
+TMs
+=======================================
+
+water pulse - squirtle or poliwhirl. but only till you get surf.
+dig - crap, don't bother. only useful in third gym.
+rock tomb - decent, but the types that could use it usually learn it anyway
+bullet seed - too weak
+roar - the 'run' button has unlimited uses.
+secret power - up to you
+attract - don't bother
+thief - use the snatch TM instead. use it on meowth and fish for mushrooms from paras at mt moon
+PSYCHIC
+
+
+=======================================
+TUTORS
+=======================================
+MOVE DELETER	FUSCHIA CITY
+
+DREAM EATER(@)	Drowzee (NOT Abra! Family can't learn ANY Sleep-inducing moves!)
+SEISMIC TOSS(H)	DMG=LVL, give to weak pokemon (Chansey?)
+MEGA PUNCH(N)	ROUTE 4
+MEGA KICK(N)	ROUTE 4
+ROCK SLIDE(R)	ROCK TUNNEL
+COUNTER(N)	don't bother
+SUBSTITUTE	FUSCHIA CITY
+SOFTBOILED(N)	CELADON, pond	Clefairy
+METRONOME	CINABAR ISLAND, POKEMON LAB
+EXPLOSION	ISLAND ONE, MT. EMBER
+
+=======================================
+GAME CORNER
+=======================================
+Exclusives
+----------
+ 800	Smoke Ball
+1000	Miracle Seed
+1000	Charcoal
+1000	Mystic Water
+1600	Yellow Flute
+
+4000	TM13 Ice Beam   	ICE	 95	10/16	100%
+	[41] Seel / [51] Dewdong
+	[50] Shelder (but not Cloyster)
+	[31] Lapras
+	
+3500	TM23 Iron Tail  	STEEL	100	15/24	 75%
+	[45] Onyx / Steelix
+
+4000	TM24 Thunderbolt	ELE	 95	15/24	100%
+	[26] Pikachu (but not Raichu)
+	[47] Electabuzz
+
+4500	TM30 Shadow Ball	GHOST	 80	15/24	100%
+	[36] Gastly / [45] Haunter / Gengar
+
+4000	TM35 Flamethrower
+	Charmander/Chameleon/Charizard
+	Vulpix (but not Ninetales)
+	Growlithe (but not Arcanine)
+	Magmar
+	Flareon
+	Moltres
+
+
+======================================
+UNIQUES
+======================================
+- TM25 Thunder  	ELECTRIC	120, 10/16,  70%	Power Plant
+	[41] Pikachu
+	[58] Electabuzz
+	[52] Jolteon
+	[85] Zapdos
+
+- TM25 Shock Wave	ELECTRIC	 60, 20/32, ---%	Gym Prize
+	No Pokemon learns it
+
+- TM27 Return	Route 12
+
+
+=======================================
+STEALING (Thief / Pickup)
+=======================================
+Pokemon
+----------
+Snorlax	Thief [45]
+Meowth	Pickup (but NOT Persian!)
+
+Note that all berry holders and items that are only good for selling
+have been removed from the list.  Also rememeber that Safari Zone pokemon 
+cannot be stolen from and need to be captured in order to take their item.
+
+   Pokemon     Item Name        Odds   Game  Location
+ ____________________________________________________________________________
+|  Abra	     |  TwistedSpoon   |   5% |Both| Route 24 / Route 25              |
+|  Arbok     |  Poison Barb    |   5% | FR | Route 23 / Victory Road          |
+|  Chansey   |  Lucky Egg      |   5% |Both| Safari Zone                      |
+|  Cubone    |  Thick Club     |   5% |Both| Pokemon Tower / Sevault Canyon   |
+|  Dewgong   |  Nevermeltice   |   5% |Both| Icefall Cave                     |
+|  Ditto     |  Metal Powder   |   5% |Both| Route 14 / Cerulean Cave Basement|
+|  Dragonair |  Dragon Fang    |   5% |Both| Safari Zone                      |
+|  Fearow    |  Sharp Beak     |   5% |Both| Route 23 / Mt. Ember Base        |
+|  Graveler  |  Hard Stone     |   5% |Both| Cerulean Cave (Rock Smash)       |
+|  Haunter   |  Spell Tag      |   5% |Both| Lost Cave / Pokemon Tower        |
+|  Kadabra   |  TwistedSpoon   |   5% |Both| Cerulean Cave Basement           |
+|  Machoke   |  Focus Band     |   5% |Both| Cerulean Cave                    |
+|  Magneton  |  Magnet         |   5% |Both| Cerulean Cave                    |
+|  Marowak   |  Thick Club     |   5% |Both| Sevault Canyon                   |
+|  Misdreavus|  Spell Tag      |   5% | LG | Lost Cave                        |
+|  Onix      |  Hard Stone     |   5% |Both| Victory Road                     |
+|  Sandslash |  Soft Sand      |   5% | LG | Route 23 / Victory Road          |
+|  Skarmory  |  Sharp Beak     |   5% | FR | Sevault Canyon                   |
+ -----------------------------------------------------------------------------
+
+Raticate	Sitrus Berry	Oran Berry
+Fearow  	Sharp Beak
+Arbok   	Poison Barb
+Clefairy	Moon Stone
+Jigglypuff			Oran Berry
+Paras   	Big Mushroom 	TinyMushroom
+Parasect	Big Mushroom 	TinyMushroom
+Venomoth	SilverPowder
+Meowth  	Nugget
+Growlithe	        	Rawst Berry
+Abra    	TwistedSpoon
+Kadabra 	TwistedSpoon
+Machoke 	Focus Band
+Graveler	Hard Stone
+Magneton	Magnet
+Seel    	        	Aspear Berry
+Dewgong 	NeverMeltIce	Aspear Berry
+Shellder	Big Pearl	Pearl
+Cloyster	Big Pearl	Pearl
+Haunter 	Spell Tag
+Cubone  	Thick Club
+Marowak 	Thick Club
+Chansey 	Lucky Egg
+Ditto   	Metal Powder
+Snorlax 	        	        	Chesto Berry
+Dragonair	Dragon Fang
+
+
+Sandslash	Soft Sand
+Vulpix  	        	Rawst Berry
+Staryu  	Star Piece	Stardust
+Starmie 	Star Piece	Stardust
+
+
+======================================
+MISC
+======================================
+PP Ups boost the move's PP by 20% of the original value per PP Up, and can be used up to three times on the same move. PP Maxes boost a move's PP by 60% of the original value and can only be used once, counting as 3 PP Ups
+
+
+=======================================
+Missing
+=======================================
+F  9 ABRA
+M 11 CLEFAIRY
+M 23 SHELLDER
+F 22 HORSEA
+F 28 GRIMER
+
+=======================================
+TRADES
+=======================================
+ABRA      -> MR. MIME	ROUTE 2, house south of DIGLETT's CAVE
+NIDORAN M -> NIDORAN F	ROUTE 5, underground passage
+NIDORINO  -> NIDORINA	ROUTE 11, hut 2nd floor 
+SPEAROW   -> FARFETCH'D	VERMILION CITY
+POLIWHIRL -> JYNX	CERULEAN CITY, left of PC
+GOLDUCK   -> LICKTUNG	ROUTE 18
+RAICHU    -> ELECTABUZZ	CINABAR ISLAND, lab, 1st door
+VENONAT   -> TANGELA	CINABAR ISLAND, lab, 1st door
+
+PONYTA    -> SEEL	CINABAR ISLAND, lab, 3rd door
+
+
+=========================================
+NON-CATCHABLE (No Wild or NPC trade/gift)
+=========================================
+
+Level Up
+--------
+16 Bulbasaur	Ivysaur
+32 Ivysaur	Venusaur
+16 Squirtle	Wartortle
+36 Wartortle	Blastoise
+16 Charmander	Charmeleon
+36 Charmeleon	Charizard
+
+40 Kabuto	Kabutops
+40 Omanyte	Omastar
+
+10 Metapod	Butterfree
+10 Kakuna	Beedrill
+36 Pidgeotto	Pidgeot
+
+42 Rhyhorn	Rhydon
+31 Doduo	Dodrio
+55 Dragonair	Dragonite
+
+Ariados Evolves from Spinarak at level 22
+Ledian Evolves from Ledyba at 18
+Xatu Evolves from Natu at level 25
+
+
+Stones
+------
+Fire Stone:
+Growlithe	Arcanine
+Vulpix  	Ninetales
+Eevee   	Flareon
+
+Leaf Stone:
+Exeggcute	Exeggutor
+Weepingbell	Victreebel
+Gloom   	Vileplume
+
+Moon Stone:
+Clefairy	Clefable
+Nidorino	Nidoking
+Nidorina	Nidoqueen
+Jigglypuff	Wigglytuff
+
+Thunder Stone:
+Pikachu 	Raichu
+Eevee   	Jolteon
+
+Water Stone:
+Shellder	Cloyster
+Poliwhirl	Poliwrath
+Eevee   	Vaporeon
+
+
+Trade
+-----
+Kadabra 	Alakazam
+Haunter 	Gengar
+Graveler	Golem
+Machoke 	Machamp
+
+
+Unobtainable
+------------
+151 Mew 	D/P through Pokémon Ranch
+196 Espeon	XD/Col
+197 Umbreon 	XD/Col
+249 Lugia	XD
+250 Ho-Oh	Col
+251 Celebi
+385 Jirachi
+386 Deoxys	OR/AS
+
+
+=======================================
+Codes
+=======================================
+GameShark
+---------
+Aurora Ticket en PC: 483511F5 E6C8E537
+Mystic Ticket en PC: BE39B3A8 280987E1
+
+Code Breaker Advance
+--------------------
+Navel Rock:   82031DBC 0002
+Birth Island: 82031DBC 3A02
+
+First enter the codes into the Code Breaker. Activate them and go into a 
+building. You should be inside the dock for the Sevii Islands. Ignore the 
+sailor and turn the code off and walk out. You should be at the Island.
+
+These are for teleporting to any Island. Just put the code in and enter any 
+building/house/cave etc. Turn the code off after that.
+
+(These are Codebreaker Advance codes) *Thanks to Labmaster for these*
+
+82031DBC xxxx (in place of xxxx put the codes in)
+
+0C03 Island 1
+0D03 Island 2
+0E03 Island 3
+0F03 Island 4
+1003 Island 5
+1203 Island 6
+1103 Island 7
+0002 Island 8
+3A02 Island 9
+
+First, add "Master Code" of CodeBreaker for FireRed:
+000014D1 000A
+1003dae6 0007

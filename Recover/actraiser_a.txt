@@ -1,0 +1,794 @@
+                                ACTRAISER
+
+                   Tips, Hints, Secrets, and Items FAQ
+
+
+                               Brian Sebby
+                              data@imsa.edu
+
+                       Last updated: July 29, 1999
+
+
+
+******************************************************************************
+CONTENTS
+******************************************************************************
+
+I.    WHAT THIS FAQ IS
+II.   TIPS AND SECRETS
+III.  ITEMS AND OFFERINGS
+IV.   MAGIC
+V.    BOSSES
+VI.   WHERE TO FIND THE LATEST VERSION, THE FUTURE OF THIS FAQ,
+      AND COPYRIGHT INFORMATION
+
+
+
+******************************************************************************
+I.    WHAT THIS FAQ IS
+******************************************************************************
+
+This FAQ was designed to give hints, tips, and secrets for parts of the
+game Actraiser.  It is not a complete walkthrough.  If you are looking for a
+walkthrough, there is a pretty good one in the original instruction manual.
+Transcribed copies of this manual can be found in various places around
+the Internet; try looking in the Actraiser vault at the Gaming Intelligence
+Agency, <http://www.thegia.com>.  This FAQ should be found there as well.
+
+
+
+******************************************************************************
+II.   TIPS AND SECRETS
+******************************************************************************
+
+How can I reach the maximum possible level?
+
+
+If you build up all of your lands completely, you may find that you are still
+short some people to make it to the maximum level.  This is because as your
+towns are growing, the civilization level that they are at determines how
+many people each structure built can hold.  To reach the maximum population,
+and thus, the maximum level, there are several things that you need to do.
+
+1.  Destroy all of the first and second level homes.  You can use lightning
+    to do this, but the easiest way is to cause an earthquake.  Realize,
+    however, that this will kill many people.  If you want to reach the
+    highest level, however, it must be done.
+
+2.  Change all corn fields to wheat fields.  Wheat fields will feed more
+    people, and thus allow your population to reach its maximum.  When you
+    get to a new land that grows crops, bring the "Wheat" offering from
+    Bloodpool and use it to change the first corn field produced to wheat.
+    You can get an infinite supply of wheat from Bloodpool, so if you ever
+    find a corn field later in the game, just change it into wheat.
+
+3.  Build everywhere you possibly can.  If a square of land can be built
+    onto, build roads there.  If there's only one lane reaching across
+    the square, tell the people to build from the other side to build a
+    crossroad on the square.  Every bit of land helps.
+
+4.  Allow the people to build until the land has reached its maximum size.
+    After you have done the above three steps, you must sit and wait for
+    the people to build.  You can check the "Status of Cities" menu to
+    see how the population is growing, but it is not entirely accurate.
+    Oftentimes when it reports "Maximum", people will still be able to build.
+    Let the people build until a full turn goes by and no one comes out of
+    the temple.  If you look at the status screen when no one is coming out
+    of the temple and it says "Slow" instead of "Maximum", this means that
+    the people are upset and will not build more until you have defeated
+    the boss of that land.  Once you have defeated the guardian, the people
+    will resume building.  Please note, however, that even if the people
+    beg you to defeat the guardian after the final monster lair is sealed,
+    they will continue to build for quite some time.  It is important to
+    maximize your population before going to Act II so that you will be at
+    the maximum level when you fight him.  This is especially important
+    for lands like Kasandora, where the people will stop building after
+    you have defeated the guardian due to a plague appearing.
+
+
+
+Where are the hidden Sources of Life?
+
+
+Throughout the game, your people will offer you various items as offerings.
+While many of these will be given to you automatically, there are several
+Sources of Life (which gives you an extra life in the Acts) that are hidden.
+The following is the locations of these items, and what you must do to
+find them.
+
+Fillmore:  Use the 'Compass' offering from Bloodpool, and the people of
+           Fillmore will find a Source of Life in their fishing nets when
+           they move out into the deeper water.
+
+Bloodpool: After using the 'Skull' to destroy the Red Demon lair, use Rain
+           on the Bloodpool Lake.  The rising waters will cause a Source
+           of Life to be found by a fisherman.
+
+Kasandora: Once you have uncovered the Pyramid, use the Earthquake magic to
+           make one of the walls collapse.  The people will find a Source
+           of Life in the rubble.
+
+Northwall: Use Lightning on your temple to make one of the people give the
+           Source of Life jewel.  He will tell you that he found it,
+           but didn't offer it because he was fond of it.
+
+
+
+How do I unlock the Professional Mode?
+
+
+Once you've beaten the game once, go to the start screen and press down
+or select twice.  You will go down past "NEW GAME" and will be able to
+select 'PROFESSIONAL!'.  In Professional mode, you play only the Acts.
+However, it is much harder as you do not regenerate any lost lives, you
+are not allowed to use magic, and any of the enemies that formerly took
+one hit now take two hits to destroy.  If you are successfully able to
+beat Professional mode, you are truly a great Actraiser player.
+
+
+
+******************************************************************************
+III.  ITEMS AND OFFERINGS
+******************************************************************************
+
+Throughout the Simulation Mode, your people will discover many items and
+give them to you as offerings.  Some of these are items you can use in the
+Simulation mode, some of them improve your capability for fighting in the
+Acts, and some of them are used to solve problems in other areas of the game.
+
+First, here is a list of the usable items that will be found in all of
+the lands, and what those items do.
+
+
+Bomb: Probably the most common item found in the game, it will destroy every
+      creature on screen.  Useful if you are out of energy and need to
+      destroy some of the monsters.
+
+Strength of Angel: A bow and arrow, this increases the Angel's strength and
+                   allows him to defeat monsters with fewer hits.
+
+Source of Magic: This will give you an additional use of your magic during
+                 the Acts.
+
+Source of Life: This will give you an additional life to use during the Acts.
+
+
+Now, here is a list of all of the items available in each of the lands.
+
+
+
+FILLMORE
+
+Bomb: Found after sealing the first Monster Lair.
+
+Strength of Angel: Found after sealing the third Monster Lair.
+
+Bridge: After sealing the third Monster Lair, your people discover how to
+        build bridges.  They give you this knowledge as an offering.
+
+Magical Fire: Your people will find this magic spell if you destroy the
+              rocks on the cliff in the bottom right part of the map.
+
+Source of Magic: Found in the woods after you defeat Minotaurus.
+
+Source of Magic: Found while fishing at sea after you defeat Minotaurus.
+
+Source of Life: Use the 'Compass' item from Bloodpool, and it will be found
+                at sea.
+
+
+
+BLOODPOOL
+
+Bomb: Found after sealing the third Monster Lair.
+
+Wheat: After the people learn to grow Wheat, you can get an infinite amount
+       of it from them as an offering.  You can use the wheat on cornfields
+       in other lands, changing them into wheat fields that can feed
+       more people.  After you have changed one field, each field created
+       afterwards will also be a wheat field.
+
+Loaf of Bread: The chief priests will give you the Loaf of Bread to give to
+               Teddy, their son, who has wandered away from home.
+               Giving him the bread will cause him to return.
+
+Skull: Teddy will find this item in the cave he was exploring.  It will allow
+       you to destroy the Red Demon Lair on the far side of Bloodpool Lake
+       that your people cannot reach.
+
+Magical Stardust: After you have destroyed the Red Demon Lair, the lake will
+                  turn blue, and the people will find this magic while
+                  fishing.
+
+Source of Life: After the lake has cleared, use the Rain miracle on it to
+                cause the water to raise and a fisherman to find the jewel
+                in his net.
+
+Source of Magic: After you have defeated the Zeppelin Wolf, Teddy will bring
+                 this back from the temple.
+
+Compass: After curing the people's discontent with the 'Music' from
+         Kasandora, they will invent the Compass, allowing them to sail out
+         to sea farther than they could originally.
+
+
+
+KASANDORA
+
+Strength of Angel: Found after sealing the first Monster Lair.
+
+Bomb: Found after sealing the third Monster Lair.
+
+Source of Magic: Found after leading the people to the man lost in the
+desert.
+
+Music: The people of Kasandora invent Music in memory of the man who died
+       while lost in the desert.  This item is used to calm the hearts of
+       people and is used to cure the discontent in Bloodpool.
+
+Source of Life: After the PyBMº      v   (   '            D                        ¿  ¿   ¿¿ ¿   ¿ ¿ ¿¿  ÀÀÀ €€€   ÿ  ÿ   ÿÿ ÿ   ÿ ÿ ÿÿ  ÿÿÿ xˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ€÷ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ€ÿDDDDDDDDDDDDDDDDI˜€ÿDDDDDDDDDDDDDDD™™˜€ÿDDDDDDDDDDDDDI™™™˜€ÿDDDDDDDDDDDDI™™™Ÿø€ÿDDDDDDDDDDD™™™™ÿÿø€ÿDDDDDDDDDI™™™Ÿÿ¿ÿø€ÿDDDDDDDD™™™Ÿÿø·ÿø€ÿDDDDDDI™™™ÿÿû¿ø±ÿø€ÿDDDDD™™™Ÿÿÿÿÿ{ø€ÿDDDD™™™ÿÿÿÿÿ{ÿğø€ÿDDI™™Ÿÿÿÿÿÿÿÿğÿø€ÿD™™Ÿÿÿÿÿÿÿÿÿÿø€ÿ™™ÿÿÿÿÿÿÿÿÿÿˆø€ÿD™™Ÿÿÿÿÿÿÿÿÿÿ€ø€ÿDDI™™ÿÿÿÿÿÿÿÿñø€ÿDDDD™™™ÿÿÿÿÿÿğÿø€ÿDDDDD™™™Ÿÿÿÿÿÿø€ÿDDDDDDI™™™ÿÿÿÿóø€ÿDDDDDDDD™™™Ÿÿÿÿñø€ÿDDDDDDDDDI™™™ÿÿÿÿø€ÿDDDDDDDDDDD™™™™ÿÿø€ÿDDDDDDDDDDDDI™™™Ÿø€ÿDDDDDDDDDDDDDI™™™˜€ÿDDDDDDDDDDDDDDD™™˜€ÿDDDDDDDDDDDDDDDDI˜€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿp                                                                                                                                                                                                                                                                                                                                       are a lot of diseases in Marahna, they have discovered
+      herbs to cure their illnesses.  They give you some to help fight
+      disease elsewhere, allowing you to cure the plague in Kasandora.
+
+Magical Aura: After you have cured the Kasandora plague and have received the
+              'Ancient Tablet' from them, use it in Marahna, and the
+              people will explore the bird-shaped island off of the coast.
+              Before they do so, you must use your lightning to destroy
+              a tree on the island; there is a hint as to which one you
+              should destroy in Kasandora.  When the people return, they
+              will give you this magic spell which they have discovered.
+
+
+
+NORTHWALL
+
+Strength of Angel: Found after sealing the first Monster Lair.
+
+Bomb: Found after sealing the second Monster Lair.
+
+Source of Magic: This will be found at the base of the old tree that the
+                 people discover.
+
+Source of Life: Use your lightning on the temple to scare the priest into
+                giving you the jewel that he had discovered.
+
+Magical Light: Use the Sun miracle to uncover the lake at the top right of
+               the screen, and eventually your people will open a fishery.
+               They will discover this magic spell in their nets.
+
+
+
+******************************************************************************
+IV.   MAGIC
+******************************************************************************
+
+There are four magic spells you can acquire in Actraiser: Magical Fire,
+Magical Stardust, Magical Aura, and Magical Light.  Below you will find
+what I rank that spell in order of usefulness (1 is the most useful,
+4 is the least useful), where to find them, and what they do.
+
+
+Spell name: Magical Fire
+
+Ranking: 3
+
+
+How to find it:
+
+In Fillmore, use lightning on the cliff in the lower right hand corner of
+the map.  The villagers will then find the spell and give it to you.
+
+
+What it does:
+
+Twin fireballs will shoot to your right and left.  It is useful for clearing
+out a line of enemies, but not much else.
+
+
+
+Spell name: Magical Stardust
+
+Ranking: 1
+
+
+How to find it:
+
+In Bloodpool, the villagers will discover it while fishing after you defeat
+the area's guardian.
+
+
+What it does:
+
+A large number of stars will rain down from the top of the screen at
+random, doing damage to whatever they hit.  This is by far the best spell
+in the game, for it covers the whole screen, and lasts longer than most
+of the other spells.  Its use, however, can be hit or miss because of the
+randomness involved.  If timed properly, however, it can do significant
+amounts of damage.
+
+
+
+Spell name: Magical Aura
+
+Ranking: 2
+
+
+How to find it:
+
+After you cure the Kasandora plague, the villagers will discover a tablet
+with the same shape as the island off Marahna.  Take the tablet and use it
+in Marahna, and the people will sail to the island.  Use your lightning
+to destroy a tree in the middle of the island, and the people will find
+the Magical Aura scroll.
+
+
+What it does:
+
+A series of round globes will arc out from the Master going back and forth
+doing damage.  They slow down when they hit something, so if you can use
+it on something close to you, it can do a lot of damage before exiting
+the screen.
+
+
+
+Spell name: Magical Light
+
+Ranking: 4
+
+
+How to find it: In Northwall, use the sunlight to melt the ice on the lake
+in the northeast corner of the map.  The villagers will eventually develop
+fishing and find the Magical Light icon in their nets.
+
+
+What it does:
+
+Two beams of light that stretch from the top to the bottom of the screen
+will go out from you to the left and to the right.  It's useful for
+clearing out a room of weaker creatures, but it goes by so fast it does
+little damage to stronger monsters.  Although you get it last, this is,
+IMHO, the most useless spell in the game.
+
+
+
+******************************************************************************
+V.    BOSSES
+******************************************************************************
+
+Each Act has a boss you must defeat to move on to the next level.  Below I
+have listed some strategies for defeating each of the bosses and the
+attacks they will use.
+
+
+FILLMORE, ACT I
+
+Boss: Centaur
+
+Attacks:
+
+The Centaur has two attacks.  When he holds his lance horizontally and
+charges at you, he will stop and extend his lance to try and damage you.
+You can duck to avoid this attack.  When he holds his lance vertically and
+stops, he's about to fire lightning bolts at you.  Simply run to the left
+to avoid the bolts.
+
+
+How to defeat it:
+
+The only time you can damage the Centaur is when he is holding his lance
+vertically.  Approach him, get in a few shots, and get back out of the way.
+Avoid his attacks as mentioned above, and do some damage to him when you have
+an opportunity.  If you act cautiously, he should be pretty easy to kill.
+
+
+
+FILLMORE, ACT II
+
+Boss: Minotaurus
+
+Attacks:
+
+The Minotaurus has two attacks.  His first attack is to jump into the air
+and then try to come back down on you, doing damage.  As soon as he lands,
+he will do his second attack, which is to throw an axe in your direction.
+
+
+How to defeat it:
+
+The best way to survive this battle is to realize that no matter what you
+do, you're probably going to take damage.  When the Minotaurus jumps in
+the air, he will come back down and land where you are currently standing.
+Quickly move to the right or left so he misses you when he lands.  As soon
+as he lands, start swinging your sword at him.  You can try to avoid his
+axe, but it's easier to just stand there and keep swinging.  You'll end
+up doing far more damage to him per jump than he will do to you.  As long
+as you keep the damage you take to a minimum, you should have no problem
+beating this boss.
+
+
+
+BLOODPOOL, ACT I
+
+Boss: Manticore
+
+Attacks:
+
+The Manticore really only has one attack, which is to shoot a fireball
+across the screen.  However, you will also take damage if you run into him.
+
+
+How to defeat it:
+
+The Manticore follows a very simple pattern.  He will start on the left
+hand side of the screen, jumping up each level of the platforms and then
+shooting a fireball.  He will then jump to the right top platform, wait,
+and jump back to the left.  You should be positioned on the far left of
+the middle right platform to attack him.  This platform is key because
+you can jump straight up to avoid his fireballs without landing on the
+upper platform.  The safest way to beat him is to stand there, jumping over
+the fireball that he shoots, and then getting in two hits when he jumps to
+the left.  You can also shoot Magical Fire at him when he is on the left
+side of the screen to do more damage.  Although you can be more aggressive
+in your attack, you will run the risk of having him hit you into the lava.
+If you take your time and are cautious, you can leave this battle without
+taking any damage at all, even though it will take some time.
+
+
+
+BLOODPOOL, ACT II
+
+Boss: Zeppelin Wolf (Magician)
+
+Attacks:
+
+The Zeppelin has two forms, and with it, two types of attacks.  In his
+initial magician form, he will teleport around the room and land on
+one of the platforms or the floor.  When he appears, he will fire three
+fireballs at you, one straight ahead and the other two up and down at
+forty-five degree angles.  In addition, when he is on one of the platforms,
+he will also fire three lightning bolts at you.  The range of the bolts
+depends on his height; if he is on a higher platform, the bolts will have
+a longer range.  If he lands on the floor, he will not fire lightning
+bolts at you.  After you have taken away half of his hit points, he will
+transform into his wolf form and jump around the room attempting to damage
+you with physical attacks.  In addition, the wolf can summon flying wolf
+heads from the wolf head statues at the base of the platforms.
+
+
+How to defeat it:
+
+While he is in his magician form, the easiest way to hit him is to move
+to where he is and attack him with your sword.  You can try a spell,
+like Magical Stardust, but he disappears and reappears so often it will
+probably not do much damage to him.  The best way to defeat him is to
+attack him until he is at exactly one-half health, and then wait for him to
+appear on one of the lower platforms.  At this point, you can repeatedly
+attack him from the floor and take away most, if not all, of his health.
+Although you will take damage from his lightning, it is better than having
+to face his wolf form when he still has a lot of health left.  When he
+turns into the wolf, his attacks become random and you have to be very,
+very good to avoid taking damage.  By doing most of your damage before he
+has transformed, you will minimize the amount you will have to hurt the wolf.
+
+
+
+KASANDORA, ACT I
+
+Boss: Dagoba
+
+Attacks:
+
+Dagoba stays in one place at the bottom of the cone-shaped hollow surrounding
+him, but still has two attacks.  The first of these is a set of claws that
+pop out of the ground near the tops of both sides of the hollow when he
+raises himself from the ground.  The claws then sweep down towards the
+main body, attempting to damage you in the process.  You can jump over
+these claws to avoid them.  The other attack Dagoba has is to hurl several
+rocks into the air when he pops out of the ground. Although they don't do
+much damage, they are hard to avoid.  In addition, although it is not a
+direct attack, the shifting sand will draw you down towards Dagoba's body.
+If you touch him, you will also get hurt.
+
+
+How to defeat it:
+
+Between the shifting sands and multitude of rocks trying to hit you,
+it is very hard to avoid taking damage while fighting Dagoba.  He is only
+vulnerable on his main body when not submerged in the sand, so your best bet
+is to go down to the center, attack him, and then jump back up the sides of
+the hollow, while trying to avoid his claws.  He will then submerge himself.
+When he reappears, repeat this process until you have defeated him.  It may
+help to use one of your magic spells; as usual, Magical Stardust is your
+best choice.  If you can find an attack pattern that minimizes the amount
+of damage you take, you shouldn't have too much trouble defeating this boss.
+
+
+
+KASANDORA, ACT II
+
+Boss: Pharao
+
+Attacks:
+
+Pharao is another boss with two attacks.  One of these is a physical attack,
+in which he will float around the room and attempt to land on you to do
+a lot of damage.  Once he lands on the floor, he will shoot a fireball
+in your direction.  When the fireball hits the wall, it will turn into a
+small Pharao head and shoot an arrow at you.
+
+
+How to defeat it:
+
+This battle will be over in a flash if you use Magical Stardust.  Of all
+the bosses, Pharao's size and pattern makes him a perfect target for
+the spell.  You can usually kill him in two uses of the spell and a few
+extra sword swings.  If you are feeling masochistic, however, you can
+attempt to attack him normally.  Hitting him anywhere will do damage,
+but you will take about as much damage due to his very hard to avoid
+crushing attack.  His fireball and arrow will be easier to avoid; you can
+simply jump over them.  In this case, the battle will be a hard won one,
+but if you use magic, it is one of the easiest in the game.
+
+
+
+AITOS, ACT I
+
+Boss: Aquatic Dragon
+
+Attacks:
+
+Unlike every other boss in the game, the Aquatic Dragon has no attacks
+other than a physical one.  While fighting him, you will be standing on
+some narrow ledges in front of a waterfall.  The dragon will fly around
+the area in a pattern and attempt to damage you by direct contact.  Often,
+this contact will lead to a fall off of the screen and a loss of a life.
+
+
+How to defeat it:
+
+To survive this fight, it is essential that you have the projectile sword
+item.  This item can be found by making your way to the very top of the
+screen before the fight with the Aquatic Dragon.  With the projectile
+weapon, you can shoot a bolt across the screen, and your shots will do
+double the damage of your sword alone.  All you then have to do is stand
+on one of the platforms in the middle of the screen and shoot bolts at
+the dragon's head when it comes into range.  The Aquatic Dragon's head is
+the only part of its body that is vulnerable to your attacks, but the rest
+of its body can still hurt you.  If you can avoid being hurt too badly or
+being knocked off of the platform, this should be a relatively short battle.
+
+
+
+AITOS, ACT II
+
+Boss: Flame Wheel
+
+Attacks:
+
+The Flame Wheel has two attacks.  One of them is to stop in the middle
+of the room and throw fireballs in several directions around itself.
+The other is, as its name would imply, to use its wheel form to bounce
+around the room attempting to do physical damage to you.
+
+
+How to defeat it:
+
+The Flame Wheel follows a relatively simple pattern.  He will usually
+stop in the middle, bounce around the side of the board attempting to hit
+you, roll across the length of the floor, and come back to the middle.
+You simply have to avoid his attacks by jumping over his rolling form and
+jumping away from the fireballs.  As you do this, get in hits when you
+are able to, possibly using a spell to do additional damage.  It's hard to
+avoid taking some damage in this fight, but if you are careful, it should
+not be a very difficult battle.
+
+
+
+MARAHNA, ACT I
+
+Boss: Rafflasher
+
+Attacks:
+
+The main body of Rafflasher sits still, but it still has two attacks.
+One of these is a spore that it shoots out of a blue protrusion in the
+middle of its body.  If you hit this spore right away, you can destroy it,
+but if you wait too long, the spore will stop in mid-air and extend vines
+to the right and left of itself in an attempt to hit you.  The other attack
+Rafflasher has is a tentacle that will follow you along the floor.  As long
+as you keep moving, it will simply follow you, but if you stop it will,
+too, and will extend into the air three times in an attempt to damage you.
+If you try jumping over the tentacle while in the swamp, you will not be
+able to clear it and will take damage.  The only way to jump over it is
+by standing on one of the two platforms in the swamp and jumping over it
+when it draws near.
+
+
+How to defeat it:
+
+The only place on its body that Rafflasher is vulnerable is the blue
+protrusion in the middle of his body that he fires the spores from.
+The easiest way to defeat him is to draw the tentacle to the left side
+of the screen, and while it has stopped and is trying to hit you, use the
+opportunity to move to the far right and damage the main body of the plant.
+If a spore is fired, hit it with your sword before the vines sprout from
+it to eliminate that threat.  Once the tentacle has come back to the right
+side of the screen, draw it away to the left again and repeat.  It may take
+several cycles of this pattern, but if you can avoid its attacks, this is
+another relatively easy boss.  You can try to use a magic spell, but due
+to the small area that you can damage it will probably not have much BMº      v   (   '            D                        ¿  ¿   ¿¿ ¿   ¿ ¿ ¿¿  ÀÀÀ €€€   ÿ  ÿ   ÿÿ ÿ   ÿ ÿ ÿÿ  ÿÿÿ xˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ€÷ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿfffffffffffffffffh€ÿffffffff†hfffffffh€ÿffffffff33fffffffh€ÿfffffffc¸ˆ6ffffffh€ÿfffffff;¶ˆ³ffffffh€ÿfffffff3gg3ffffffh€ÿÿÿÿÿÿÿÿÆÆ±ÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿ1llÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿóˆˆ?ÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿ33ÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿˆˆÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿøó?ÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿøˆˆÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿøÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿø€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ÷€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿp                                                                                                                                                                                                                                                                                                                                      atform and attack him as it rises back up to the ceiling.
+Jump off before it hits the spikes above.  You can generally do two points
+of damage at a time this way.  It will take a while, and you must be careful,
+but using this method, you can escape the fight without a scratch.
+
+Another method of defeating it, suggested by Graeystone,
+<Chadharger@hotmail.com>, is to use the Magical Aura.  If you stand next
+to Kalia, he will hit the ground in an attempt to hit you.  If you use
+the Aura when he is next to you, you will do a lot of damage before he
+ascends.
+
+
+
+NORTHWALL, ACT I
+
+Boss: Merman Fly
+
+Attacks:
+
+The Merman Fly has two attacks.  In the first one, he flies along the
+top of the screen from right to left, dropping fireballs straight down.
+When these fireballs hit the water, they make a splash.  Both the fireballs
+themselves and the splash that follows will do damage to you.  In the other
+attack, the Merman Fly will swoop down from the left to attempt to physically
+damage you, and then swoop back up to the right to repeat the pattern.
+
+
+How to defeat it:
+
+When he is flying across the top of the screen, he is too high up for your
+sword to reach him.  The only way to hit him is to use magic or wait for him
+to swoop down to your level.  To defeat him easily, equip the Magical Aura
+that you should have just gotten in Marahna, and use it as he is sweeping
+down from the left to hit you.  Due to his pattern, the Aura will hit him
+several times when he is near you, and will probably hit him once more
+as he flies out of range.  A few well-timed uses of this spell should
+allow you to defeat him.  If you wish to defeat him using your sword,
+you will need to not only avoid his fireball attack, but you must also
+avoid his swooping attack.  The advantage to using magic is that you are
+invulnerable while using it, so his swoop attack will not damage you.
+
+
+
+NORTHWALL, ACT II
+
+Boss: Arctic Wyvern
+
+Attacks:
+
+Like just about every other boss, Arctic Wyvern also has two main attacks.
+His first is to hover in midair and fire ice bolts at you.  When they hit
+the ground, they will break into several pieces and the pieces will fly
+into the air.  Both the bolts themselves and the ice pieces they fling
+up are deadly.  The Wyvern's other attack is to swoop down in a circular
+pattern from either the right or the left in an attempt to do damage to you.
+
+
+How to defeat it:
+
+This can be a pretty tricky battle.  After climbing up the tree, the hardest
+single Act in the game, you will probably not be near full health, and
+the randomness involved in the Wyvern's attacks can be hard to counteract.
+There are two basic strategies you can use.  One is to attack him whenever
+he's on screen, and hope you do more damage to him than he does to you
+per attack.  The other strategy is to have enough magic points left that
+you can basically keep using magic over and over until he's been defeated.
+As usual, the best magic for this task is Magical Stardust.  As long
+as you minimize the damage you take, and have some patience and good
+luck, you should be able to defeat him.  Once you have, congratulations!
+You have not only just finished the hardest Act in the game, but also the
+hardest of the bosses.
+
+Graeystone also suggested that using the Magical Aura against the Wyvern
+when he comes close to you will do a good amount of damage if it is timed
+correctly.
+
+
+
+Once you have beaten all of the bosses, Death Heim will appear in the
+Ominous Ring of Land (tm) in the north-eastern part of the world.  When you
+go to Death Heim, you will fight all of the major bosses again before
+fighting Tanzra.  The bosses you have already fought do not have any new
+attacks or moves.  You can defeat them exactly the same way you did before.
+The only difference in your strategy that you must account for is that
+you have a limited number of spell uses for fighting ALL of the bosses.
+I would recommend that you bring Magical Stardust and if there is an easy
+way to physically defeat the boss to use that method to conserve your magic.
+That way you can save it for Pharao, Flame Wheel, and the Arctic Wyvern,
+bosses that are hard to defeat without magic.  When you finally get to
+Tanzra, you will find that you have the projectile sword.  This makes the
+final fight a lot easier.
+
+
+
+TANZRA, FIRST FORM
+
+Attacks:
+
+In his first form, Tanzra takes the form of a giant mask.  It has two
+attacks.  One of these is to shoot a series of stars down from the top of
+the screen, very similarly to your own Magical Stardust spell.  While doing
+this, the mask will float at the top of the screen and is invincible.
+After a while, he will become solid, float to the bottom of the screen,
+and fire two curving projectiles off to each side.
+
+
+How to defeat it:
+
+The only time you can hit the mask is when it is solid and on the floor.
+As soon as it floats down, start firing, jumping to avoid its projectiles
+if possible.  After it floats back up, avoid as many of the shooting
+stars as you can until it floats back down again.  After he has done this
+two times, you should have done enough damage to destroy his first form.
+He will then float to the other side of the room, and the rest of his body
+will fly in to form:
+
+
+
+TANZRA, SECOND FORM
+
+NOTE: At the beginning of the battle, you will notice that Tanzra's life
+will fill up, and then keep extending until he has twice the health of
+any other boss.  Don't panic!  You are wielding the projectile sword,
+which does twice the amount of damage that your regular sword does.
+So really, Tanzra only has the same amount of health as a regular boss.
+Both forms combined have only effectively 1.5 times as much health as any
+other boss in the game.
+
+Attacks:
+
+Tanzra has three attacks, none of which are really all that dangerous.
+At first, he will fire 3 pairs of firebolts which will arc around you
+in a circle.  Once you've figured out their pattern, you can stand in
+one place and not get hurt.  After that, there is a brief window where
+you can damage him.  This window closes when he uses his second attack,
+a blue fireball shot straight ahead.  You simply have to duck to avoid it.
+Finally, Tanzra's third attack involves him swooping towards you in an
+attempt to do damage, while firing 4 homing fireballs.  These can be
+defeated simply by hitting them with your sword.
+
+
+How to defeat it:
+
+Although Tanzra looks menacing, he's not that hard of a boss.  He is only
+vulnerable for a brief period of time between his first and second attacks.
+During this time, hit him in the blue globe that is in the middle of
+his body.  After he fires his blue fireball, go on the defensive and
+avoid his attacks as much as possible.  His pattern will then repeat.
+Since you have the projectile sword, you can stay on the left side of the
+screen to avoid physical damage.  After a few rounds, you should have done
+enough damage to destroy him.  Once you've defeated Tanzra's second form,
+you've won the game!  Congratulations, sit back and watch the ending.
+
+
+
+
+******************************************************************************
+VI.   WHERE TO FIND THE LATEST VERSION, THE FUTURE OF THIS FAQ,
+      AND COPYRIGHT INFORMATION
+******************************************************************************
+
+This FAQ should be available in a number of places, but the latest version
+should be at the Actraiser Vault at the Gaming Intelligence Agency,
+<http://www.thegia.com> or at GameFAQs, <http://www.gamefaqs.com>.
+
+This FAQ contains just about everything I felt needed to be covered.
+Unless additional hints or secrets need to be added, this will probably
+be the final version.  If you have any additional information, or have
+a question that you think this FAQ should answer, please email me at
+data@imsa.edu.
+
+This FAQ is copyright 1999 by Brian Sebby, data@imsa.edu.  Please do not
+distribute it to other sites without notifying me first.
+
+
+

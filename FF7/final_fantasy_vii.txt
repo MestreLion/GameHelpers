@@ -1,0 +1,1409 @@
+				THE FINAL FANTASY 7 FAQ FOR WINDOWS 95/98
+                           ------------FINAL UPDATE VERISON------------
+
+Version 2 - Updated on 1:11 AM 31-DEC-98
+Version 3 - Updated on 1:53 PM 21-MAR-99
+VERSION F - Updated on 9:54 PM 16-APR-2000 (What the heck !?)
+
+Written by Kelvin Leen
+PLEASE FROM NOW ON, EMAIL ME AT THE FOLLOWING ADDRESS !
+
+				billykane@edsamail.com.sg
+
+****************************************************************************************
+
+VERSION "F" UPDATE:-
+I figured that after so long, it's time for another update for my most
+popular faq of all time. It's the year 2000, and god ... 2 years ever since it was
+first published, I've wondered how many people the FAQ has helped.
+
+In case you are wondering, the "F" stands for FINAL. I figured that this should be
+the FINAL time I'm updating the FAQ. A lot of people still enjoy this game, and
+I thank you all for supporting this game and this FAQ.
+
+For me, I've been busy .... too busy since the year 2000 started. I have only just
+recently completed my whole school project and now awaiting to graduate. So therefore
+in the past 3 to 4 months, I've had LOTS of problems answering E-mail requests.
+
+This is indeed terrible. I've really ruined my reputation of fast replies, and here
+I would like to sincerely apologize to all delays. There will be more delays to come,
+especially when I'm going into the Army soon. I really would love to have someone
+stand in for me and don't mind receiving heaps of mail day in day out.
+
+I added a tips section. They are sent in by gamers who want to make this FAQ a better
+one ... thanks for the hard work !
+
+Anyhow, this is going to be final update. Please enjoy yourselves and remember to
+have fun !
+
+****************************************************************************************
+
+Intro notes :
+
+This is the first FAQ I wrote for a Final Fantasy game. I have only written 2 so far,
+one being this and the other a Real Bout Fatal Fury Game Boy guide. As far as I'm concern
+getting updates on infomation from other gamers is important in any aspects of gaming,
+which I hope to receive for this FAQ.
+
+Most importantly, I would respect people to give me some credit for writing and not claiming
+themselves unless they have contributed to an update of info, which I have to know too.
+Otherwise, please leave the FAQ unchanged.
+
+UPDATED VERSION (Ver.2) CHANGES:-
+
+Due to some big response to things I've left out in version 1, this update will contain the
+most requested things from the e-mails that I got. Worry not, keep those mails coming, I
+don't mind addressing your questions one by one, if time is what you've got.
+
+On this version, I will address on the Character's abilities, advantages & so on. I felt
+that players should share their ideas, especially for an FAQ like this one.
+
+VERSION 3 UPDATE :-
+
+Okay, after getting more than a hundred E-mail for the past months since the FAQ
+was released, many questions have been posted and answered, but still many are
+still lost in the game. Frankly I must admit that I'm a little behind time with this
+update, but hey, we all have a life outside the gaming universe, right ?
+
+Honest to god, Squaresoft and Edios haven't really done a good job in releasing patches
+to prevent crashes, AI and fixing some gameplay problems .... I must say that I have got
+many E-mails of people trying to find a spot to climb ladders and other objects, and really
+got angry about it. This problem is annoying even for me, but please be patient ! You'll
+make it !
+
+This update will help as I'm updating it many tips and info that many gamers have sent me.
+Many thanks for the kind comments of the FAQ, I promise that if FF8 is ever released
+for PC, I will write another groundbreaking guide like this one ! Keep on gaming and
+thanks a lot !
+
+There will be some changes in the hint guide, so read it. As for new additional info,
+they are found at the ending part of the FAQ.  
+
+Oh yeah, I also wrote 2 mini-faq for Simcity 3000 and SNK's Last Blade 2. If you need
+help, E-mail me okay ?
+
+****************************************************************************************
+
+Differences in the PS & PC versions :
+
+There isn't much differences in the 2 versions, except the gameplay which is tougher for
+the PC. I understand that the PC version isn't as popular to gamers in my homeland (S'pore),
+because many have gotten the chance to beat the PS version. However, this version is the
+Japanese's International version, the version with all the extra cinemas, less bugs, new
+monsters and bosses - for those who don't know.
+
+Also, if your PC is a low-grade pentium, worry not, you can play a slower but real stable
+version of FF7, if run on Windows 95 or 95 Plus version. It's VERY common to see that your
+game will hang on Windows 98, as the Windows OS itself has a lot of bugs that will hang &
+might corrupt your gamesaves.
+
+This FAQ is written because I feel that people need to know a thing or to ease their trip to
+finish the game. Tips and other clues are given, so this is a little bit of a spoiler.
+
+Oh yeah, one reason I would think led to the unpopularity in the game is the tendency to
+CHEAT. I did, but not without making life diffcult for myself, however, I did not find ways
+(like PS players) to bring the beautiful Aerith back to life ! No way .. she's gone I'll
+keep it that way ! ALWAYS !
+
+So to those people trying to ask or cheats of her resurrection, forget it, I won't help in
+this. She's gone, just let Tifa have Cloud okay ? :)
+
+There are parts that require you reset if you did something wrong. Heck if you can, hit
+ALT-F4 or ALT-Q if you saved beforehand and want to quit and reset. 
+
+****************************************************************************************
+
+URGENT MATTER TO ADDRESS : HOW TO GET YUFFIE AND VINCIENT VALENTINE
+
+This is the most important update for this Version F of my FAQ. Please, read this
+through and follow it closely, you won't go wrong for sure !
+
+YUFFIE
+
+This little bitch is a random encounter that you will face in the game. She only appears
+in forests and very easy to defeat.
+
+After you win, you will enter a small field with a downed Yuffie. She will start 
+questioning you. Sounds real easy eh ? 
+
+However getting her is NOT easy if you do not know what to do. Here is what you should
+do :
+
+1. Answer her first question with the BOTTOM OPTION.
+
+2. Answer her second question with the TOP OPTION.
+
+3. Answer her third question with the BOTTOM OPTION.
+
+4. Answer her fourth question with the TOP OPTION.
+
+5. Answer her fifth question with the BOTTOM OPTION.
+
+6. Once you pass the 5th step, you will name her.
+
+You CANNOT MAKE ANY MISTAKES ! She will run off and steal your cash and you will have to
+find her again from start !
+
+Don't go to the save point in the field or she will escape with your cash.
+
+
+VINCIENT VALENTINE
+
+This guy is really easy to get as well. However, you might want to spend sometime to find
+a passcode to the safe in the SHINRA MANSION. Inside the safe is the key to his crypt and a
+boss, REDXIII's limit break and a materia.
+
+The safe's passcode is : Right 36, Left 10, Right 59, Right 97
+
+Defeat the boss and grab the key, go down to basement 1 and you will bypass a door on the
+way to the mansion's libary at the basement. You might miss it though.
+
+Enter the room and meet up with a coffin. Opening it, you'll meet Vincient.
+Answer him the following and get him :
+"Talk about Sephiroth"
+"Who are you ?" (Leave the room and return again to get this topic option)
+
+After the last topic, just when you are about to leave the basement, he will suddenly
+appear to stop you and claims to join you. Enjoy you new buddy.
+
+****************************************************************************************
+
+				THE GAME HINTS SECTION:
+
+Without any delay, here are the hints of the game ...
+
+-To buy flowers from Aerith, choose the 2nd option when you first meet her at Midgar. It's
+cheap to buy one, later giving it to Tifa or Barret's daughter is your choice. (No, Tifa
+will not be angry or jealous.)
+
+-When cornered by the soldiers at the bridge, fight them all unless you are short of HPs. It
+adds count to your number of kills for your 2nd level limit break.
+
+-At the train ride to the next reactor to wreck, remember that talking to some of the
+commuters inside will grant your party items (Potions ... etc)
+
+-Timing is very important here ! If you can't get out of a section, it means that you cannot
+move on to the next section and collect items there !
+
+-After escaping the train, keep going to the foreground will land you in the hands of a lot
+of Shinra baddies, which can help increase your EXP points. Do it at your own risk.
+
+-When you meet Aerith at the church, do treat her nicely.
+
+-Near Aerith's house at the Garden is a COVER materia. It's free so take it !
+
+-Sneaking out ? Walk, don't run or else Aerith will know.
+
+-Don't forget that one of the homes near Aerith's house is a house with a TURTLE'S
+PARADISE FLYER. It's on the 2nd floor on the wall near the stairs. (The 1st floor has a
+boy watching TV.)
+
+-When you get to the Area 6 (Red light district), you need to get a lot of items before
+getting to Tifa. Below are the things you'll need to do - they may or may not work.
+
+1. Enquire about Tifa at the brothel at the Southeastern part of town.
+2. Go to the top of the town to Don Corneo's mansion to learn that Cloud has to dress as
+   a woman.
+3. Go to the dress shop and go get the kid's father back from a bar near the mansion.
+4. Answer carefully about your preferences for the dress. He will then make it.
+5. After trying out the dress, go to the gym and win at the squats minigame.
+6. Go to a sushi bar lookalike bar and order the today's special. Say it taste great
+   and get a coupon.
+7. Trade the coupon for some laxatives at one of the buildings. (Man behind counter)
+8. Go to the bar where you found the dress-maker. Go to the top room and give your
+   medicine - after a while, you'll get a perfume.
+9. Go to the brothel and talk to the guard at the entrance.
+10.Exit the screen and talk everyone you see. you should get a membership card from a
+   man.
+11.Go to the shop near the save point. You ought to help the shop owner in getting an
+   item from the inn. Stay at the inn and get the most expensive item from the machine.
+   (I think it's a condom.)
+12.Trade and get another key-item. (Forgot what it was...)
+13.There is also another item found at the brothel. Enter and find it, return to the dress
+   shop to change up. After that, head straight for the mansion. If you found everything,
+   BE PREPARED TO BE DISGUSTED !!!!
+
+-While inside the sewers, after fighting APS boss, remember to get the STEAL materia lying
+nearby.
+
+-At the train graveyard, when you encounter an ememy (Ghost rider is it's name I think.)
+steal from it ! The item is a staff which is only available after you leave Midgar !
+Aerith will need this upgrade if you intend to conserve your magic !
+
+-If you got the time & guts, try training for anybody's limit breaks at the train graveyard.
+Cloud had better have that Blade Beam Limit break if possible !
+
+-When fighting Reno, any allies pyramided in his attacks should be attacked by anyone else,
+to free them. If all 3 are hit by the condition, the party's dead. Cloud's Blade beam
+Limit break is able to break away the pyramid condition on your party member.
+
+-When you are climbing up the mess to the Shinra HQ, you can pick up items if you explore
+with care.
+
+-At Shinra HQ, do save the game whenever you can. My advice is to go fight up to the 60th
+floor, it helps make your party stronger.
+
+-At the back of the 1st floor, you can find the 2nd TURTLE's PARADISE FLYER at the board.
+
+-On the 2nd floor, there is a shop that has 2 chest that can be opened. You can only do so,
+at Disc 2 .... Don't forget to watch the Shinra product video after the couple leaves
+the shop.
+
+-Just keep fighting the guards at 60th storey if you aren't fed up of getting scolded by
+Barret. There is a fixed amount ... beyond that then there will be none.
+
+-Before heading off to the 62th storey, return to level 1 to save. At the 62th floor, the
+man will ask you to guess the answer. Get it in one try, if you can you'll get an ELEMENTAL
+materia will is useful at this point. If you fail but save your game, try again until you
+can get it right. (ANSWER IS RANDOM FOR EVERY NEW GAME.) 
+
+-63th Storey slove - From where you encounter the computer, go to the top right side of the
+room. You will open one door, walk through and open the door nearest the center room, you
+will then get into the left-most room already. Take the bag, and climb the Airduct to the
+the right-most room to collect another bag. Exit the room and open the door to the center
+room to get the last bag. Use the airduct in the right-most room to get back to the computer
+and get everything. Easy ?
+
+-Make a very early mental note that if you return during DISC2 on this floor hides Cait Sith's
+ultimate weapon, at the locker area. (Cloud should say "It's not mine." at this point.)
+
+-At the exercise room, don't dunk 200 gil for a drink, you'll be cheated. Come back at Disc 2
+and get source items.
+
+-On 65th storey and later levels, you might meet 2 ememies that are important to you.
+One is a machine with a lot of blades at the bottom - steal Carbon Bangles from it ! The other
+enemy you ought to steal from is the enemy solder with a blade (Those who can cast level 2
+(eg.ICE2) spells), you'll get HARDEDGE swords from them. Cloud's weapon upgrade at Shinra HQ
+is VERY useful indeed.
+
+-When fighting the boss at different platforms, REDXIII's limit break will still hit the boss.
+Have Barret in your party for a much easier fight.
+
+-At the motorcycle minigame, keep going after those closer to the pickup. Different color bikes
+inflict different amount of damage ! The best is to beat as many of them down as possible.
+Remember to minimize the damage done.
+
+-Outside Midgar, pick your 1st enemy skill - MATRA MAGIC from the Custom sweepers enemies. Wait
+for them to cast it and you to learn it (Equip anyone with the ENEMY SKILL MATERIA first!)
+Anyhow, steal from the Custom Sweepers. They will grant access to ATOMIC SCISSORS, a weapon
+for Barret.
+
+-At Kalm's inn, at the 2nd floor is a MEGAEIXLIR that can be found near the stairs. Reach for
+it 5 times and you'll get it.
+
+-During the flash back, you ought to touch Tifa's cupboard and table for strange things.
+However, Tifa won't be pleased about you doing that !
+
+-Playing with the piano will reap results, but not the Elemental or Final Heaven manual as yet.
+
+-Explore cupboards, doors under stairs carefully for many items in Kalm. Enjoy !
+
+-At the Chocobo farm, remember to talk to the Chocobo nearest to the fence for a MOG materia !
+
+-There is a 2nd Chocobo Lure at the ranch, as you walk into the area by the fence. (Not for
+PLAYSTATION version ... I think.)
+
+-Even with a Chocobo, you still will encounter the Midgar Zolom if you stand around. (IDIOT.)
+
+-At the Mithril mines, at the room to the right, there is a LONG RANGE materia. Be prepare to be
+fed up in trying to reach it. You can only climb the vines up to reach it a certain odd angle.
+
+-At the mines, steal from the enemy swing a ball and chain for GRAND GLOVE, a weapon for
+Tifa.
+
+-To increase the kill rate, use Matra Magic to blast your foes dead. Use it when large groups
+attack your party.
+
+-At the forested areas near the exit/entrance of the mine, beware of the blue colored birds.
+Their attacks reap heavy damage but they give a BOOMERANG when you steal, a weapon for
+Secret Character Yuffie.
+
+-At this point there are 3 things to do. Get Yuffie, go either Junon or Fort Condor. Save
+Junon for the last one and get Yuffie first.
+
+-At Junon, save the little girl's life by letting your lungs fill up with air completely for
+about 4-6 times.
+
+-To jump up to the next level, swim near the pole and blow the whistle for the girl's pet to
+jump you up there. Keep trying, it ain't tough.
+
+-When you are learning the marching steps, it's easy at first but when you march with the
+group later, it's really tough. Don't worry though, the ratings rarely go up fast unless,
+you are really good at it. (I love it when you flop like hell.)
+
+-Later at the send off part, keep your results to an average and you'll get a HP-PLUS materia
+from Rufus. Do any better, you'll get a FORCE STEALER for Cloud. (Getting the HP-PLUS is better
+then the weapon.)
+
+-When you're inside the ship, talk to EVERY person you see ! If not you won't find Barret.
+
+-At Costa Del Sol, go and head for the beach at once. See Hojo there and chat with him. Do
+not sleep at the inn first or else he's gine the next day.
+
+-Can you afford a house ? You can buy the house at the bridge area for 300,000 gil. I like
+this idea.
+
+-Going on the mountain path to Corel, at the Mako reactor area, you'll fight turtle-like
+creatures. Steal from them DIAMOND PIN which is for REDXIII.
+
+-At the track area, Save the game and switch back to Windows. There, change your keyboard
+Repeat speed to the maximium and then switch back to the game. Later when you allow yourself
+to fall through the tracks, tapping either left or right and the OK button is much easier
+with the repeat rate increased. You will mostly likely fall on the area with the treasure
+hanging around. (Trust me, this worked for me.)
+
+-Gold Saucer is an interesting place, but you have only some minigame available to play.
+The motorcycle one is great for earning GPs, you'll get 10GP for 10,000 points and above.
+The first try you make in getting 10,000 and above score earns you 10GPs and a spd source.
+
+-Gold Saucer has a secret. When you meet an extra person moping around the tram's parking
+zone, talk to him. He's sell you GPs for Gil, but only a certain amount. It's like 1 out
+of 50 times you'll bump into him. Good Luck.
+
+-Always remember, buy the ticket that allows unlimited entering.
+
+-At the bottom of the prison, when you face an enemy with a lot of spikes, use Cait Sith's
+MANIPULATE materia to control and use the skill "LASER" on your party member with the 
+enemy skill materia. (If you explored hard, you should have two. One is from Shinra HQ and
+the other is at Junon.) This step is important.
+
+-If you have managed to earn Barret's 3 level 2nd choice Limit break before fighting Dyne,
+then use it here. Once it's all it takes to kill Dyne.
+
+-Don't take chances with the thieves you fight in the prison. They might escape with your
+items, which may include your weapons !
+
+-When racing Chocobos, don't forget that there's a Materia lying around the room before
+you race. Switching to Auto is useful, after your Chocobo overtakes the others by much
+distance, switch to manual and race all the way ! (Collect the materia, it's only one chance
+to do so.)
+
+-You lose the race too often ? The computer will then let you win after much trying.
+
+-The area around Corel and the desert of Gold Saucer has a type of dragon foe who has
+an attack named "Flying Sickle" that rises one's limit gauge quite fast & causes
+quite bad damage to weaker character. Have one character hold the MANIPULATE materia
+to control these beast and use the Sickle attack on your own party members. This is to
+allow your party to train in their limit breaks. Just note that even at stronger levels
+the attack still does a sum of damage ... so if you wish to, you can come back and train
+later. 
+
+-The buggie you get can be transported to and fro from Jumon & Costa Del Sol! Just
+drive into the city and pay the fee to go across, and then exit. The buggie is for your
+useage later !
+
+-Using the above method, drive beyond the forested area between Mithril mines and Junon
+through a river and get to a cave on the other end. If you have fought (in terms of normal
+combat) enough times to make your last 2 digits same - (E.g. 12011) you will get Mythril.
+This will grant you the Great Gospel, the Limit break for Aerith later at a house near
+the Gongaga area. (After the Rocket town part)
+
+-Don't forget to bring Tifa along to Gongaga area. She's the key person to one family's
+question. Also down forget to visit the ruin reactor to get Titan Materia.
+
+-Go to Cosmo Canyon, or rather you can only stop at Cosmo Canyon. The buggie cannot go
+beyond there, as it breaks down.
+
+-You'll see 2 TURTLE PARADISE FLYERS here, one's at the inn counter and the weapon's
+store counter. Look hard, you'll miss them !
+
+-Ready your MANIPULATE AND ENEMY SKILL MATERIAS here. The cave of GI scene will have
+tough foes, with a useful ENEMY SKILL to learn. Also don't forget, that you have to walk
+on the slimy ground in one part of the cave. Running will send you to the wall spikes.
+
+-If anyone is dead, ramming into the spikes will bring them back to life, with one HP.
+
+-The spider sub-bosses are all tough. Ready your limit breaks if you must.
+
+-I wonder if this is true but I heard from a gamer that using an X-potion or Pheonix
+Down will kill the boss in the Cave of Gi at once ! Lazy to try this but you might
+wanna try it out !
+
+-Getting to Nibelheim, you will meet all sorts of black robed figures. You can get items
+from them.
+
+-Don't worry about the way people react. Your recollections at Kalm are right. Just go
+to Tifa's house and read a report on her dressing table for further evil details.
+
+-The "Piano tunes" is a pain in the ass. I sloved it any it might not get the Final Heaven
+limit break manual, so try again. For the PC version (Using the default keys) the tune is:
+
+Cancel  Switch  Menu  Pageup+Menu  Pageup+Switch  Cancel  Switch  Menu  Pageup+cancel
+OK  Cancel  Switch  Cancel  Start
+
+There are 4 effects : Get 1 gil, Get Elemental Materia, Get nothing, Get Manual
+
+-Inside the Shinra mansion, slove the Safe part by turning to :-
+1) Turn to your right until it says 36, press OK
+2) Turn left till it says 10, press OK
+3) Turn to your right to 59, press OK
+4) Turn to your right to 97, and press hit OK
+
+Just do the following to get the door unlocked. Plain and simple, just follow !
+
+-There are enemies that are Scales inside the Mansion. You can learn the ???? enemy skill
+from them, so arm the Enemy Skill materias. (Cannot be manupilated)
+
+-Vincient can be found at the corridor to the libary. Just move up and you find a small
+room with coffins inside.
+
+-To get Vincient, just answer his questions like this :-
+*Talk to him and choose the bottom answer
+*Open the coffin and talk to him again, answer with the second answer.
+*Leave the room, and continue exploring. He will come to you before you go upstairs.
+
+-Get to the caverns and the first thing is to activate the ladder, not go into any pipes
+first. Once you can keep going up and down the room, then slide through the pipes to get
+items.
+
+-Leave the place by the only unblocked exit at the cave, explore the area until you get
+to the reactor. There is a small door at the background. Hit ASSIST button to see it.
+Exploring will get you a CR SNIPER & ELEMENTAL MATERIA. CR SNIPER is for Vincient.
+
+-CR Sniper is useful for a trick I've learned. It's attack percentage is 255%, which means
+it's virtually impossible to miss any shot, Link the DEATHBLOW materia and cause HEAVY
+damage. However, CR Sniper is only useful for several stages ... weak later on.
+
+-Do not bring Vincient along to fight the boss blocking your way, especially with his
+limit breaks. His Gillian Beast's flare will cure the boss.
+
+-You have to learn TRINE from the boss, as this spell is only available on 3 enemies,
+one of it is this one. Equip Lighthing materia with elemental materia on your armour
+to recover lost HP during TRINE. (Better have 2 enemy skil materia ready here !)
+
+-Getting to Rocket town, talk to the old man staring at the rocket for a blade for Cloud.
+(Keep talking to him.)
+
+-Rocket town's boss is Palmer, the fat Shinra Space division officer. If you use ODIN
+summon on him, you can die laughing at the attacks made on him ! (I love it when he loses.)
+
+-It's been known that for lower performance machines, that the escape scene from Rocket
+town is know to hang the game application very easily. Please save before entering the
+town. Your best bet to spot the error is to see a Shinra soldier firing on the plane itself.
+After that, it just hangs.
+
+-If you brought Yuffie along, when the plane crashed into the sea, she tells you to simply
+go west. Following her instructions will lead you to her hometown of Wutai, and also to the
+reveling of her true identity. Remember this, once you get here, you must complete the
+subquest or else you can't leave the island.
+
+-At western island, there are several bridges for the player to cross. There is a path that
+leads you to nowhere. The other leads you to Wutai.
+
+-Wutai enemies provide good items. Hang around here to get a lot of stuff !
+
+-The Razor Weeds around Wutai have a very important and useful Enemy Skill, Magic Hammer.
+The beach area has a Turtle that has the Death force Enemy Skill. Steal from it an item
+as well - Adaman Bangle. This item may have few materia slots, but it can be sold for a
+fair amount of cash.
+
+-The first thing you should do when in Wutai is head to the western most building at the
+city area, to a place where you'll meet up with the Turks, who are taking a break. Make sure
+you get this done first, before meeting up with Yuffie.
+
+-Upon getting to Wutai, look around and talk to everyone. You will get to meet Yuffie if
+you manage to open the box at the Item shop. She will appear and snatch your materia away.
+After that, go the house nearest the entrance. She's hiding behind a board, so search there
+and then she will hide in a huge container outside the Turtle's Paradise Tavern. The
+container will shake as a clue. Hit it twice and she'll be caught.
+
+-Once at her house, pulling either of the controls will still result in trapping your
+party. Outside that room on the wall is another (Final) Turtle Paradise Flyer.
+
+-After this part, go to the Turtle Paradise and read their signboard. After that enter
+the tavern and meet up with the Turks. After all this, go to the counter and talk to the
+man. If you got to find all the flyers, you'll be rewarded.
+
+-At the western area, there are 3 places to visit. Go to the bell and hit it once. A door
+opens below it, go in and meet a friend who's taken Yuffie & Elena (Turk) as hostages.
+Once you can access to the Mansion do search around the whole house for secret passageways
+that will grant you the Magic Shuriken & Hairpin.
+
+-Go up the Da-Chao Statues now, Reno & Rude will guide you on the right path to take.
+If you manage to find a cave hole, enter to get Cid's Dragoon Lance. After that, you'll
+meet up with your "friend" again. Fight a sub-boss here and after all this, Yuffie will
+return your party's Materia again. She screws up during the distribution of the materia,
+and that's quite funny. Before leaving, under her house is room with a lot of cats. Walk
+straight and talk to the cat. It leaves and you'll climb up to get a HP ABSORB materia.
+
+-If you trained well, you can visit the Pagoda at the very western end of Wutai. Fight your
+way up and at the final level you'll face off with Yuffie's papa, Godo. He also uses TRINE
+eneemy skill, so you can learn from him. During this whole time, you should equip strong
+defensive equipment and use a Hyper on yourself to be able to increase the limit gauge
+faster. If you win, you'll get Yuffie's limit break, as well as another summoning materia.
+
+-To get a keystone for the Ancient Ruins, go to the house near the Gongaga area to get
+infomation on the Keystone. The house is situated at the far east of Gongaga area near the
+coast area. 
+
+-Return to Golden Saucer to fight in the BATTLE ARENA for Dio's amusument any amount (up
+to 8 matches.) to get the Keystone for the TEMPLE OF ANCIENTS. Be careful !
+
+-Remember, if you win a complete 8 matches, when you leave the Arena, talk to the lady
+outside and you should get a pair of Running Shoes (Cast Haste spell !)
+
+-Oh yeah, if you've got Mythril at this point, you can trade for the Great Gospel, the
+4th level limit break for Aerith.
+
+-When Aerith dates you, screwing up on the stage act will result in Aerith slapping you,
+perform well and get a good laugh, but screwing up provides a better one.
+
+-There is a possiblity of either Yuffie, Tifa, Aerith and Barret (It's true !) dating
+Cloud. It all depends on your treatment to the characters listed here !
+
+-When you're inside the Ghost Inn room, check for an item in the cupboard.
+
+-At the ground floor of the Ghost Inn, check at/near the shop for another Turtle Paradise
+Flyer.
+
+-Going to the Ancient Ruins ? Better have a good party as the enemies are quite a challenge
+for some or weaker parties. If you used Vincient's CR Sniper trick, it should ease the way
+for many.
+
+-Remember that everything here can be collected. Just keep walking and you'll find a path
+somewhere. Only 2 spots can be acessed at the clock room.
+
+-At the second part of the maze, where strange pillars roll down onto you, just keep
+pressing on. You'll make it at the end.
+
+-At the clock room, treasure chest with monsters inside do not offer any items for you.
+One of the enemies in one of the room is known as the Magic Eye, they are able to absorb
+1500 and above HP from your members during the fight ! Just cast Bio to kill them off.
+
+-At the clock room, you can fall into the bottom of the room, to get Nail Bat, a strong
+weapon with no material slots for Cloud.
+
+-At the 4th hour of the clock, you can get Princess Guard, the only Ultimate weapon for
+Aerith.
+
+-When you get to room of holes, if the impish fella go into the hole at the right bottom
+most hole, the only way to counter it is to what for it at the hole next to the sealed door.
+
+-When fighthing the Red Dragon boss, just wear or equip fire protective equipment. No DEMI
+materias or Spell to be casted against this beast !!!
+
+-When your party reaches the clock room, DISEQUIP Aerith at once. Strap her with any lousy
+armour or staff, don't give her any accessories as well. This is ... after this part, she
+is out of the them forever. You can always use her Limit breaks during the boss fight
+later, since she takes more damage and increases her gauge faster.
+
+-When you visit the bone village, remeber that you'll never make it to the end of the
+forest without the Lunar Harp. Just dig around the lower left hand side of the skull
+head tent.
+
+-At the forest, wait either at the left or right hand side to collect a materia floating
+in the air. The red orb floating around is what you want.
+
+-At the shell village, you'll get another enemy skill materia at one of the rooms,
+the one where you can rest. It's around the bed furthest from the ladder.
+
+-Look carefully, for there are some items to be taken.
+
+-Equip your party with water protection equipment. After Aerith dies, the Jenova boss
+uses Aqualung and many water spells to attack. Good time for those with ENEMY SKILL materia
+to equip and learn the attack.
+
+-Save game here, you're changing disc here !
+
+-Follow your way out of the place, and get to Glacier Lodge village, the original hometown
+of Aerith.
+
+-At one of the houses, you can get the Glacier map, some items and info. Visit every
+house in the village for infomation and many other things.
+
+-When Elena wants to slap Cloud .... just keep tapping Left as she readies to hit you.
+She'll then tumble down the snow. Get the snowboard from the injured kid's house and ride
+your way into the snow.
+
+-At the snowy place, remember that being in the snow for too long if harmful to you.
+Explore around until you faint. Remember that you can only get what you missed only at the
+ending part of Disc 2 and the whole of Disc 3. Also, if you managed to make it to the southern
+most part of map with a sign board, you can walk back to the village from here.
+
+-When climbing up the mountain, remember to keep your body at 38 degrees before
+climbing again.
+
+-There are 2 puzzles to slove while inside the cave, one is getting a blouder to clear a path
+and the other is breaking 4 stalacities to go on. Also, in the caves is a red colored spider
+(Stilva) that has 2 Enemy skills to learn from. (Trine & Magic Breath)
+
+-When facing the 2 headed sub-boss, steal a protect ring from it. The left head is easily
+subjected to physical attacks while the other is subjected to magical attacks.
+
+-At the crater you have to fight your way up. There are barriers to crossed. Just notice the
+pattern, and cross with care. If you fail, dragons will attack you.
+
+-Later at Junon, make your way to the Airport with Cait Sith and meet Yuffie there. On the
+way you can fight some enemies, without proper care, you might lose. When Tifa tries to free
+herself, you can press two buttons to combine a series of movement to escape. Press your button
+to slap the Shinra Bitch. Please don't lose, it won't look nice for Tifa !!!
+
+-When flying, flying pass the Gold Saucer desert is extermely dangerous. you might bumb into
+a red color thing in the sand. It will release the Giant Ruby weapon to fight you !!
+
+-Get to Mideel, at the small island towards the south-eastern corner of the world map. There
+you'll find Cloud but he is in no condition to fight. Before entering the town, disequip
+Tifa's materia if you need them, and have at least one of every Chocobo green. (I forgot which)
+Find a white chocobo and scratch the the chocobo's ear. You will get a power magic materia,
+Contain.
+
+-There is a key up at the balcony and walking around the side of the house (The one that sell
+accessories) and searching the ground. You'll find a key and use it on the door at the weapon
+shop, and then be honest to the shopkeeper to get a Cursed Ring !
+
+-Get the elixir from one house and be honest to the owner. (Honesty is the best policy here)
+
+-After Tifa leaves the party to care for poor Cloud, Cid takes over the party. You cannot
+do several things at places when Cid is the leader of the party (If you bought the villa at
+Costa Del Sol, you cannot rest there.)
+
+-Return to North Corel first (your choice) and do the train scene. You have to climb from
+the mountain path to get to the Reactor, and then ride another train to chase it. You have
+to quickly catch up with the train. Pull the controls quickly ! Only 10 mins to spare !!!
+
+-Hope you brought Barret along, so that he can clear up his name at Corel, only if you
+make it for this mission.
+
+-Fight your way to the control car, on the way, try to steal from the Bird like machine,
+Eagle Gun, as it grants you the Warrior Bangle. During any fight you should not cast any
+summon magic as it takes to long for most of them to do damage.
+
+-To stop the train, one clue which I think should work is to pull the controls upwards. If
+you make it, then the cinema of a train stopping will be shown. After that, you should get
+the ultima magic materia and also Barret's Final limit break from one black woman inside the
+town. Remember, pull the levels upwards and that's it !
+
+-Oh yeah, you can access a hidden cinema at this point on about Cloud's past at Nibelheim.
+Just go to the lab downstairs and you'll see the flashback !
+
+-Go to the Condor Fort for yet another fight. My advice is to let the enemy get to your
+fort and fight the commander. Steal from the commander and get the Imperial Guard
+armour here ! It is very useful for Cloud for the rest of the game !
+
+-After all this, return to Mideel to look for Cloud. Before entering Mideel, I advice your
+party to change your materia on your armour so that an Earth Magic Materia is linked with
+an ELEMENTAL MATERIA. Everyone should do this, and then enter the town. There will be an
+earthquake and the party will see the Ultima Weapon flying around. Wait on it to fight your
+party, the first attack it often (99% sure of it) is a Quake 2 spell !! Hope you took my
+advice earlier. Steal a Curse Ring from it before it flies off.
+
+-Inside the life stream part, just keep talking to all the different Clouds. You never know
+which you have to speak to.
+
+-The party with Cloud on the team will have to return to the Junon Port to go below to the
+underwater reactor. You should talk to the guard guarding a big door at Junon and pay him
+to access the upper levels of the base.
+
+-When you make it to the underpass area, you have to fight your way down into the base below.
+The guards here are still push-overs. When you get to the underwater tunnels, morph an enemy
+known as the Ghost ship for an item that you can trade later at Kalm.
+
+-When you meet up with Reno at the Submarine base, you will fight a horrible machine that
+has two powerful arms to catch your party ! Once in it's grasp, your team-mates are in
+danger. Your best bet is to equip yourself with powerful weapons with materia slots enough
+to hold plenty of summons or magic materias. It's as easy as that, the boss is also weak
+to Lighting spells, so you have a save bet to destroy it fast with your magics. Once you
+win, you'll get the God's Hand, a 255% hit percentage weapon for Tifa. Equip this with
+a DEATHBLOW materia for 100% deathblows !!! (A very important upgrade for the team from
+here onwards)
+
+-Don't forget the Leviathian scales in the box next to the submarine. Take your time to
+search around, as this doesn't affect the headstart of the enemy submarine.
+
+-I leave it to you whether to kill the Shinra guards, they will never put up a tough
+fight, but leaving them alive shows you that those guys are acutally wimps.
+
+-When you control the Submarine, your best bet is to get close to the enemy sub and blast
+away ! Just pummel your torpedos away, and the sub will then sink. Get it in the first try,
+as failure would meaning running through the bloody complex again, though I heard about a
+shortcut that you can take to get to another submarine.
+
+-Beware of the ocean's biggest object swimming around. You don't wanna die in it's hands,
+although you can run from it.
+
+-Use the submarine and locate the following things :-
+
+*Sunken Plane near the coast of the Gold Saucer Desert (Near the only place at the Gold
+ Saucer where your Submarine can park)
+
+*An Ancient Key, located under the northern island. Just keep searching until you find a
+ path that leads you into a cavern with a spiky object erected in the cave's center.
+
+*The Sunken submarine, a red object nearby the Junon Sea reactor. (Beware of the emerald
+ weapon, it swims around that area !!!)
+
+*The cavern that leads you to the Waterfall. This is where you can get Vincient's ultimate
+ weapon and 4 level limit break manual.
+
+*Killing the Emerald Weapon that swims around the whole ocean.
+
+Other than this, there is nothing in the ocean for you to explore.
+
+-It is possible that the Emerald Weapon just appear beside your Submarine when you exit out of
+the Sunken plane ! Just quickly float the Submarine up and he'll go away !
+
+THE SUNKEN PLANE SLOVE :-
+
+Okay, for those people who are really in need of an adventure or training, then come
+here. You'll collect some of the most important items for your party to enhance
+themselves here, as well as the best training ground you'll have. (Until you get to the
+ending of the game that is.)
+
+The Hallway of this plane has a save point and a chest. Have Yuffie here (Useful character)
+Save game before heading into any of the rooms.
+
+The first room near the save point has got several items. Use the following
+instructions to get them ALL !
+
+Once you enter, Go straight to the chest on your TOP right hand corner.
+Next walk back to the other VISIBLE CHEST near the stairs.
+Go down, and walk all the way to the left, then go straight up. Search and get
+the CONFORMER - the Ultimate weapon for Yuffie (You'll need it, trust me !)
+From the spot you stand, go all the way to the right and move up all the way.
+Search here and get the added cut materia !
+
+Okay, go back and save. If you have survived, then how do you feel about the
+baddies here ? Using the Conformer, you'll beat them all in seconds. Strap the
+MORPH MATERIA WITH A HP ABSORB MATERIA and you'll beat them real flat !
+Steal from them different armour and morph them into different enhancements
+for your statisics !!!
+
+You'll face off with Reno and Rude here, at the room on the Hallway's left.
+They are both tough here, my advice is to rob them both of their items,
+as they really are enhancements ! Reno carries Sephiroth's TOUGH RING, and
+Rude carries a ZIEDRICH, a materia-less armour of SUPER defence !
+In the next room, you guys will get Cid's 4th level manual as well as another
+summon materia (Hades) here.
+
+CHART FOR REFERENCE : THE ENEMY AND BONUSES
+NAME		GIL (With Gil Plus Materia equipped)      MORPH         STOLEN
+Unknown 1 -       10000                            POWER SOURCE    FIRE ARMLET
+Unknown 2 -       20000                            GUARD SOURCE    AUROA ARMLET
+Unknown 3 -       15000             		       MAGIC SOURCE    BOLT ARMLET
+Serpent   -       5000          		            MIND SOURCE     WATER RING
+Poodler   -       5000	        		           SPEED SOURCE    TURBO ETHER
+Bad Rap   -       5000                              LUCK SOURCE        INK
+
+Train here, trust me the experience you'll get is plenty, with Yuffie's morph + conformer
+trick used here, you'll reap rewards in no time !
+
+-Okay, the last Huge materia to rescue is at Rocket Town, so go there and have Cid in the
+team, (He'll makes things more lively here.) and rush into town.
+
+-You'll need to square of with Rude here. Steal another Ziedrich from him before he loses.
+Rude despite the fact that he's badly beaten, is not dead as yet !
+
+-The passcode for the release of the materia inside the rocket is :-
+ OK BUTTON, SWITCH BUTTON, CANCEL BUTTON TWICE
+
+-Upon returning to earth, return to COSMO CANYON to safekeep the huge materias as well
+as moving on to another mission. Before you go, find the ancient key to save time for
+next scene.
+
+-Okay now that your party has gotten the 4 huge materias, it's time to trade them for easy to
+use Master Materias ! At this point, you might only be able to get the BAHAMUT ZERO materia,
+if you had gotten the Bahamut & Neo-Bahamut to MASTERED level.
+
+-To get the Master Command Materias of Yellow, Red & Green, you'll have to get at least one
+of every materia of the 3 colors to master level. Red & green need everything, while Yellow
+only needs some of the materias. This means that you'll need to go get the Knights of the
+Round materia for the Red Master Materia.
+
+-Oh yeah, fly your airship back to Midgar and talk to the man at the front of the city gate
+about a missing key.
+
+-Anyway, moving back to the story, you'll need to get to the ancient forest again, if you
+followed the tip from above, then go talk to the man and start digging once again. Just go
+all the way to the crshed aircraft's nose tip and search. You'll get the Midgar city key
+after trying. Your team should be facing north, the back of the characters's icon is facing
+the enterance and the front of the icons should face the nose tip.
+
+-Getting the Midgar city Key, return to explore the old stomping grounds, and get few items
+that should help you on the way. (Eg. Tifa's Ultimate weapon, Sneak Glove .. etc)
+
+-Once getting into the ancient city, a sequence should follow, after that return to Midgar
+once the Diamond Weapon resurfaces. Wait at the coast near Midgar and the thing will fight
+you once it comes into contact. Believe me, you'll better have Exp plus, Gil Plus materias
+as well as any weapon that doubles or triples the materia growth rate, as this Weapon helps
+you earn a hell lot of points ! Anyhow, do steal Yuffie's Rising Sun from it, but the
+Conformer is more powerful, but the Rising Sun can gain 2x Materia Growth Points. Your
+best bet to destroy the Diamond Weapon is to keep using Trine or Lightning spells.
+
+-This next part is one part that needs a lot of time. Your next objective is to drop into
+the Midgar City and ruin Hojo's plans. Before this, you can do the following suggested
+objective first.
+
+-Fly near Fort Condor. You see a familiar Black Dragon there ? It's the Ultimate Weapon
+(A bastard Dragon ... you'll find out.) Strap your team with the right equipment and
+materias. Do have enemy skill materias and heavy assualt materias (HP absorb, MP absorb
+and many others) equipped. This bastard carries different items each time you meet it,
+so don't forget to steal from it. It will escape so just fly around and chase it.
+You might get bumped off but it's finally burial ground is nearby the mountians of
+COSMO CANYON, which later allows access into the Ancient Mysterious Forest, for yet
+another puzzle awaits. (OPTIONAL) You can learn the enemy skill, Shadow Flare from it
+before it dies ... Dangerous, as you might be killed.
+
+-Okay if you're ready, the dangerous Midgar city adventure awaits ... you will battle a
+whole lotta bosses here, so keep your power up always. Also, this is one place that you
+can only return to once, so figure out how to get everything you see !
+
+-If you had faced off with Reno and Rude at Wutai, then you'll have the chance to pass
+off a duel with the Turks ... advice is, that you shouldn't ! You'll get the following
+if you steal from the Turks :-
+Elena will be carrying a Minerva Band (An armor for ladies)
+Reno still carries a Tough Ring (A ring orginally owned by Sephiroth)
+Rude still carries a Ziedrich (A powerful armor for those materia-less lovers)
+This fight can be tough ... good luck defeating them all !
+
+-Using elemental protection is handy for those who lost to the Turks. A lot of HP and cure
+spells are pretty useful for this fight if you plan to attack them every round.
+
+-Search all Tunnels. Going Northwards will sent you to Shinra's HQ where you can go
+get somethings that you couldn't carry out the first time you visited. (Refer to the
+early chapters for details) and going Southwards, will grant you the W-item materia.
+Useful for an infamous duplication trick that really helps you along the way !
+
+-When you fight the massive armor machine, it's best to keep everyone's status up,
+I almost died fighting this bastard ... he's tough.
+
+-When climbing up to get to Hojo, bring Barret and a treasure chest containing his
+Ultimate weapon, the Missing Score will be available. Without him, the item is not there
+at all.
+
+-When you face off with Hojo, bring Vincient and RedXIII will not say great and wonderful
+things for those who are really curious. I expected Vinicent to say something about the
+past and RedXIII to say something great but no they are quite lame here.
+
+-Hojo is really easy to beat. At least have one character with Ultima materia equipped and
+his 2 & 3 forms are TOAST. If you've got Yuffie, use her Conformer + Morph trick here and
+it'll be even easier !
+
+-After this part, the only thing you'll need to do, is to go into the final CD and load
+the final stage of this game. I won't spoil anyone's surprise here, but here are tips to aid
+your journey into the center of the planet to destroy the great Sephiroth.
+
++ There is no save point but rather, you'll get a Save Crystal. Do not activate this item
+until you get to the level where the party/everyone's deciding which path to take.
+
++ There are items to be collected, and they should be. It's worth to take another trip to
+scoop all the items back as you train your party here.
+
++ It doesn't matter if you cheat here, the enemies are tough so morph them with the Yuffie
+Conformer Trick / Tifa's God Hand Deathblow Trick !
+
++ Remember that there is a way to return to the airship, only if you never made it to the
+core of the planet ! Your last chance to turn back is where everyone is waiting to be
+split up into 2 groups. (At the place where I advice you to place the save crystal.)
+
++ Your party should take the left path if you intend to win the game fast. (Wimps)
+
++ Your party ought to take the right path, with Enemy Skill Materias equipped. (Heroes !)
+
++ Sephiroth can be destroyed if you just keep using 4x cut ! Keep it up and he should
+rot away !
+
++ Safer Sephiroth's SUPER NOVA attack is worth hanging around for ... Cool spell.
+
++ For those who wonder if Cloud will die in the final duel, try NOT pressing anything at
+once the time gauge fills up.
+
+****************************************************************************************
+TIPS AND TRICKS OFFERED BY OTHER GAMERS AND MY PERSONAL COMMENTS :
+
+TIP'S OWNER : mike reilman <zellow@juno.com>
+
+IN THE BATTLE ARENA
+
+-if you have found the Acc. "Ribbon", equip it on who ever is going in to
+battle. This allows some of the handicapped events not take any effect.
+Good way to cheat the system!
+
+(Okay, commonly used technique to survive the Arena.)
+
+-cast REGEN on yourself in here, which disables most abnormal statuses,
+but it only lasts for 3-5 battles.
+
+(Hmm .... I find this step is waste of time.)
+
+-if you have the Ultima Weapon for Cloud, just keep doing normal attacks
+on the creatures. The creatures were so far back in the game, you could
+do about (what i've experienced) 9500HP damage! The time when your royaly
+skrewed is when you have "all matiria broken" and "weapon broken".
+
+(Hahahha ... I enjoy doing this one ...)
+
+NORMAL SITUATIONS 
+
+-if you get the "double-cut" matiria, equip it on Cloud's weapon,
+have the Ultima Weapon equiped on him too, and you'll get maybe about
+9000-14,000HP damage on enemies. Just wait till the 4xcut attack!!! Lots
+of HP lost there!!!
+
+(Try Yuffie's Conformer with a MORPH materia strapped. I had more fun using
+her.)
+
+-The Emerald Weapon (under water) gets stronger as you get stronger. At
+level 72 I can't beat him still. Because his stupid Emerald Shoot attack
+that does around 7500HP damage on me!
+
+(Not entirely true. I don't know how to correct this one, but there are
+some players that made an easy killing here.)
+
+-Set Goals for yourself, for example, your going up against Safer
+Sephiroth you might say you won't battle him until level 80. I'm going
+for level 99 !
+
+(Sephiroth will be MUCH more diffcult when you are at level 99. I think winning
+him with a lower level sounds much cooler.) 
+(Can you imagine a kid saying this ? "I beat Sephiroth at level 20 ...")
+
+-at the begining of boss battles, plan out what your going to do, so
+once your time gauge fills up, you can quickly get to the attack you were
+planning. This makes all of your players attack one after another, which
+really racks up the HPs lost from the boss!
+
+An example : I have Cloud summon a Neo Bahamut, Vincent with Bahamut,
+and RedXIII with Odin or Hades, which totals up to
+14,500HP-16,000HP of damage in one round!!!!
+
+(A gentle reminder for those reckless people out there.)
+
+-equipped an "all" matiria with a "restore" matiria. Make
+sure that you have the spell REGEN in the ability list so you can cast it on all of
+your characters. REGEN prevents most abnormal statuses, and continually
+heals the castee. Through tests, it heals between 25-40 HP a second.
+Think about one minute! that would  be 1500HP-2400HP healed of time gauge
+filling! Really useful in tough battles!
+
+(Regen in many cases is a waste of time for me.)
+
+-When fighting Godo in Wutai, use BOLT3 and ICE3 about 5 times, and you
+should be easily beat him. Also cast REGEN on yourself and cast CONFU on
+the healing head of Gogo so he heals you for about 1000HP.
+
+(Godo's easy, depends on your level and skill.)
+
+-Stay in the Waiti area for a long time and stock up in X-potions and
+Phoenix Downs. I have 99 of each and in one battle I used 13 of them.
+Always have 99 of each when battling bosses and going into new areas.
+Believe me, you'll be coming back here to stock up on them agian near the
+end of the game!! This also helps you get lots of money and exp.!
+
+(I wouldn't do that ... there are OTHER MORE important things to train for
+elsewhere ....)
+
+-Give the "HP plus"  matirias to Vincient so his hit points get really
+high and when he uses his limit breaks, up to 9999HP! I have the death
+gigas limit break and he gets to 9999HP and he is unstoppable!
+
+(No big deal. Vincient must be properly used in a correct situation to be
+really unstoppable !)
+
+-When you're impressing the new president (Rufus), if you do terrible, I
+mean like nothing at all, you'll get silver glasses! (Dang!)
+
+(Don't bother.)
+
+-If you can get Aeris's second level 2 limit break (Fury Brand) this is a
+good one to use on your foes. It increases your ally's limit breaks to
+maximum (except for her's). Best time to use that is in the Gold Saucer,
+where the dragon things increase your limit break like no tommarrow! Good
+way to train your limit breaks!
+
+(A little secret I kept from you readers, this helps in getting your limit breaks to
+a higher level.)
+
+-There is a boss-like creature in the Gold Saucer area. Use your
+manipulate skill to control him. Once it is his turn to attack you,
+you'll see he has the aqualung enemy skill!!! Use it on your party (It
+does LOTS of damage so be prepared) and have a good skill throughout the
+game!
+
+(Okay, you might want to do it with slightly stronger characters rather than the
+first time you get to this location.)
+
+-in the core of the planet (near the end of the game,) there is a
+creature (not sure how it looks like but I think it has spikey arms or
+somthing like that) it has a VERY useful Enemy skill called "pandramo's
+box". Weird looking but alot of damage done.
+
+(Pandora's Box has always been a deadly attack, so get it !)
+
+- here's a chart of the first three bosses...
+SPIDER BOSS-820-880 HP-????MP
+AIRBUSTER-    1030-1100HP-0MP(it's mechanical)
+SWAMP BOSS-1090-1140HP-????MP
+
+(Why would you care ?)
+
+- In sector 6, much damage is done to you here, train your limit breaks
+and you'll have your second limit breaks in no time!
+
+(Follow my tip in the walkthrough.)
+
+-Steal Hi-potions from the motorcycle spiders
+
+(No comments)
+
+-when your at the house where you trade Mythril for Great Gospel, choose
+the small box upstairs.
+
+(Follow my tip in the walkthrough.)
+
+-If you want to, you can get a bolt armlet from the guy (that gives you
+Mythril). All u have to do is get your last two digits of battling the
+same BEFORE the rocket town part.
+
+(Not sure about this one.)
+
+-In the cAve of Gi, the enemy skill is death sentance.
+
+(Yup)
+
+-Use "Choco/Mog" matiria to stop the spider sub-bosses. (80%
+chance)
+
+(Quite a tough bunch, those spiders can be a nightmare for
+beginners.)
+                                                        
+-Useing an Phoenix Down on the boss of Gi does kill him.
+
+(Not much of a challenge though)
+
+-In the Mansion(Neibliem) when you open the safe, you will have to fight
+a boss. Use "choco/Mog" on him and he will stop 95% of the time.
+When he is about to die, he morphs into a red thingy. Spells are basically
+futile, so just use Deathblow and normal attacks.
+
+(No comments)
+
+-Before going to Wutai, Go back through the Mythril Mines and face the
+Midgar Zolom. DO THIS ONLY IF YOU HAVE AT LEAST 1700hp average of your
+party. Learn Beta enemy skill from him. It knocks about 1000hp out of you
+so have lots of HPpluses.
+
+(Try my tip in the walkthrough for more effect.)
+
+TIP'S OWNER: ShadowMage7@webtv.net
+
+The best place to gain levels is not the ship underwater, it is the
+magic pots in the crater. give them an elixer then kill them. 1 wil give
+u 8000exp 1000ap. yes 1000. this is VERY usefull. they are found on the
+left path in the swapey area.
+
+(Depends on where you want to train. I still say the Underwater plane is cool.)
+
+*************************************************************************************
+
+FAQ FOR CHARACTER ANALYSIS:-
+
+CLOUD STRIFE-
+Being the main hero of the story, he cannot leave the party unless the story states he's
+not in. Cloud is basically an attacker and no way should he be placed as a BACKUP healer or
+BACKUP fighter ! His weapons are able to deal heavy damage, with the proper levels and
+materias.
+
+Useful Weapons :-
+Hard Edge, Butterfly Edge, Organics, Crystal Sword, Apocalypse, Ultima Weapon
+
+Useful Limit Breaks :-
+SHOULD UPDATE HIM AS QUICK AS POSSIBLE. For players lazy to get his level 4 break,
+stick to Level 3 then. He really packs a wallop.
+
+Useful Materia chain for him :-
+Enemy skill, HP absorb + mastered Steal, Counter + Mastered Knights of the Round with
+Mime + Counter, and as much HP plus as possible for his Ultimate Weapon.
+
+Best Weapon info :- ULTIMATE WEAPON ~ Keep HP as high as possible, as the more you have is
+the more damage dealt.
+
+BARRET WALLACE-
+Barret is the founding father of Avalanche and acts as Cloud's backup attacker in fights.
+What he lacks is MP but his attack power kind of made up for that. He should not be a
+front line fighter unless he has close combat weapons, other than that, he inflicts pain
+from back rows at the same time, taking less damage from the back position he's at. Unless,
+your fave character is him, he should rot waiting for some action. Bring him for Corel's
+Huge Materia mission and the Midgar Assualt at Disc 2, that's where he shines !
+
+Useful Weapons :-
+Atomic Scissors, W Machine Gun, Enemy Launcher, AM Cannon, Maximum Ray, Missing Score
+
+Useful Limit Break :-
+Forget his level 4, go for his level 3 breaks and you'll win big time !
+
+Useful Materia Chains :-
+HP Absorb + Steal, Counterattack, Mime
+
+Best Weapon info :- MISSING SCORE ~ The better your Materias are, the stronger the weapon.
+So place MASTERED MATERIAS and you'll hit big time !
+
+AERITH GAINSBOROUGH-
+She's the main reason why FF7 had so much problems with people hacking to get her. She's
+the party's main Magic healer and attacker. Other than that forget about her, she dies at
+the end of Disc one and really not so worth it to try training her up. I acutally hoped 
+that she and Cloud can make it as lovers but she died ... what a cursed fate.
+
+Useful Weapons :-
+Striking Staff, Wizard Staff, Prism Staff, Aurora Rod, Princess Guard
+
+Useful Limit Break :-
+Everything she's got. She has no doubt the game's most useful limit breaks, but the level
+4 one is the best. Try to get and use it once before she dies and you'll know what I'm
+talking about !
+
+Useful Materia Chains :-
+Anything, as she a real magic attacker, strap her with anything magical in nature.
+
+Best Weapon info :- PRINCESS GUARD ~ It's the only Ultimate Weapon that acutally earns AP
+unlike all the rest. It enhances as she defends her team-mates.
+
+TIFA LOCKHART-
+The babe of the game, Tifa is the next strongest attacker after Cloud. However, her place
+is more often taken over by Cid and Yuffie, only after they have earn their best weapons or
+have extremely powerful levels. She possesses the strength to really drain enemy HP, so
+try her. She's got a powerful cheat in one of the weapon, known as the GOD-HAND cheat which
+I mention earlier.
+
+Useful Weapons :-
+Grand Glove, Tiger Fang, Diamond Knuckle, Dragon Claw, Crystal Grab, God's hand
+
+Useful Limit Break :-
+Just upgrade to level 4, her attacks keep getting more deadly as you upgrade.
+
+Useful Materia Chain :-
+Death Blow + HP Absorb (Only on the weapon God's Hand), HP-absorb + Steal, Contain +
+added effect
+
+Best weapon info :- Premium Heart may be the acutally ultimate weapon for her, but it 
+really sucks in battle. It's weak and not really worth getting. Instead, abuse the 255%
+hit rate of God's Hand and do deadly damage on every one you see ! Therefore GOD'S HAND is
+the best wepon for Tifa, despite the low materia space it has !
+
+RED XIII-
+You can forget about using this guy for most part of the game, as he isn't as valuable as
+other members ! RED XIII is able to support much battles in Disc 1 but ends up useless for
+many missions. He shines as a backup but Barret's a better choice than him. Use him as a 
+healer or a backup fighter.
+
+Useful Weapons :-
+Diamond Hairpin, Silver Barrette, Gold Barrette, Adamantium Clip, Crstal Comb, Seprah Comb,
+Behemoth Horn, Limited Moon
+
+Useful Limit Break :-
+Stick to level 3 or 2. His level 4 isn't worth anything either.
+
+Useful materia chain :-
+I advise players to invent a proper chain for him. Remember that he isn't really worth it
+but throw in Double Cut, Mime, Steal with HP/MP absorb and he's great as a fighter too !
+Also, he can act as a bonus character, by carrying those materias like Gil up, Enemy Lure
+and other independent materias !
+
+Best Weapon info :- Limited Moon ~ With more MP he's left, the damage increases ... Worth
+it ? I don't think so !!!
+
+CID HIGHWIND-
+One character that really whacks Cloud's attacking power out is Cid. His power is greater
+than Cloud anytime, so he's also worth keeping in your main party. He shines at any point
+of the game, but don't forget to train his limit breaks when you get him !
+
+Useful Weapons :-
+Trident, Mast Axe, Partisan, Dragoon Lance, Spirit Lance, Flayer, Venus Gospel
+
+Useful Limit break :-
+For damage, anything from level 3 to 4 is good enough.
+
+Useful Materia Chain :-
+Counterattack, and anything listed at Cloud's section.
+
+Best Weapon info :- Venus Gospel is supposed to be the best, but it needs more MP to become
+stronger ! Anyhow, FLAYER is better as more damage is dealt with it and it gains AP !
+
+CAIT SITH-
+For those who enjoy the sight of big things, Cait here is one character that's cute and
+deadly as well. You might not see the person of this guy, but he is the Shinra employee
+named Reeve. (The finance minster of Shinra !) Cait's attacks aren't strong and MP too is
+weak. But strap him with any Summon type of materia with HP and MP plus, he's useful. One
+thing about him too, you can find his items almost everywhere you go.
+
+Useful Weapons :-
+Green M-phone, Blue M-phone, Gold M-phone, Crystal M-phone, Battle Trumpet, Starlight Phone
+HP Shout
+
+Useful Limit Break :-
+Using level 1, you can deal out damage from dice roll. A full set of six is as good as
+getting hit with Super-Nova or worst ... his level 2 is jackpot which has a risk of killing
+everyone (Allies) with the wrong a set of pictures formed ! Choose well as each has it's
+own set of benefit and disadavantage ! It is also possible to kill Safer Sephiroth with his
+level 2 break. (Get 777 and it's ALL OVER for your foes !)
+
+Useful Materia Chain :-
+Anything that is magical and two or more spaces for HP and MP plus materias.
+
+Best Weapon info :- HP SHOUT ~ The more MP you have, the greater damage. Worry not, even
+at low MP rates, as long as level is high, this rule might be overwritten.
+
+YUFFIE-
+Trust me, this thief is gonna be your member during the final clash with Safer Sephiroth.
+She's a ninja thief, out for stealing your party's materia as well as grow stronger. She
+never really cares about others, but her attacks are the 3rd strongest in the game !
+She should be trained as soon as she joins your party ! Don't put her in front, just strap
+her behind the party !
+
+Useful Weapons :-
+Pinwheel, Hawk Eye, Twin Viper, Magic Shuriken, Rising Sun, Oritsuru, Conformer
+
+Useful Limit Break :-
+Stay at level 3 ! Her Level 4 doesn't really do damage for stronger foes !
+
+Useful Materia Chain :-
+HP Abosrb + Morph (Conformer only), HP Absorb + Steal, Double Cut (Mastered)
+
+Best weapon info :- CONFORMER ~ The stronger your foes are, the more damage dealt to your
+foe. Using Morph on your enemies will do tons of damage, and will morph them upon death.
+
+Vincient Valentine-
+An ex-Turk who was recreated into a monster by Hojo, this guy is deadly. His limit breaks
+are really dangerous, but at times, not useful ! Your team should carry this guy often if
+you plan to equip him with his best weapon. Keep him as a backup fighter as he works best
+behind the attackers.
+
+Useful Weapons :- Shotgun, Shortbarrel, Winchester, Peacemaker, Long-range rifle, Sniper CR
+Supershot ST, Outsider, Death Penalty
+
+Useful Limit break :-
+Upgrade to level 4 as quickly as possible.
+
+Useful materia chain :-
+Death Blow + HP Absorb (Long Range Rifle & Sniper CR only), Manipulate + Steal, HP Absorb +
+Steal or any attack materia
+
+Best Weapon info :- DEATH PENATLY ~ This weapons accounts for those foes dead in Vincient's
+hands. If the kill rate of his is low, I advise you to switch to OUTSIDER, which provides
+AP gain as well as a fair sum of damage !
+
+********************************************************************************************
+FORT CONDOR - THE MYSTERY
+
+Okay, I got this mail from someone (Vertgo4731@aol.com) who wrote to me about the
+items he got from the Fort Condor Battles. It's an interesting list of items so
+try to find all items. Some of them I heard have no effect, they are just useless
+that's all !
+
+Here's the list :-
+Magic Comb
+Seraph Bomb (Contact the person to find out more about this item.)
+Peace Ring
+Tinctures (I have heard about these items being useless.)
+Pheonix Materia (Quest item)
+Huge Materia (Quest item)
+
+Pretty cool listing eh ?
+
+********************************************************************************************
+The case of that G-spot : 
+
+First it was found at the Myrthil Mines, pulling the levels at Yuffie's house
+and then later during the hunt of Lunar Harp.
+
+Shit, it's the case of that G-spot, the one which allows players to climb up a
+ladder or rope to get somewhere else !
+
+As diffcult as finding a real G-spot (Sorry if this phrase is offending to some !),
+you'll need to do 2 things, One: return to Windows and change your keyboard 
+typing speed to the max. Second: move near the area which you cannot climb up
+and keep moving along the object and hit your interaction button (Default as
+Enter Button) and if you do find the spot, you'll automatically climb up !
+
+It's not simple at all, but I really wish that the Square or Edios acutally came up
+with patch to correct this matter. It looks stupid that a ladder is so wide and I can
+only climb it from an angle ! Bloody irritating !
+
+********************************************************************************************
+Protection or Destruction :- Use of the added effect materia
+
+Take a materia that has a certain effect and equiped it linked to an Added Effect
+materia. Check your status screen and look at your protection chart. If you strap
+your added effect and materia on the weapon, you'll hit your foes with an extra
+effect. If you equiped it on your armour, then you're protected from that effect's harm.
+
+Many people don't know how this used, but I'll tell you, it's important. Try to earn as
+many added effect if you're intending to have an easier time in the game.
+
+Some well known match ups and effects :- (AE = Added Effect)
+Note : Due to the long period of time that I have not played the FF7 game, there
+will be some info being omitted. I will update if I have the chance !
+
+Contain + AE = Attack - Stop foe, stone foe (Death), Protection from being stone to death
+or frozen in time.
+
+Destruct + AE = Attack - Kills foe outright, Protection from Death spells.
+
+Elemental spell materia + AE - Attack - Attack enhanced with elemental spell element,
+Protection from the element
+
+Mystify + AE = Attack - confusion, Protection from confusion
+
+Seal + AE = Attack - sleep, silence, Protection from sleep and being silenced
+
+Time + AE = Attack - Slow or Stop time of foe, Protection from any Slowing or stopping
+of time on player.
+
+Transfrom + AE = Attack - Turns foe into Frog or Mini person, Protection from Frog or Mini
+Status.
+
+Alexander + AE = Attack - Attacks enhanced with Holy, Protection from Holy attacks
+
+Hades + AE = Attack - Mixed and random effects on foe, Protection from a list of effects
+
+Ifreet, Shiva, Phoenix, Titan, Choco/Mog Kujata, Leviathan & Ramu + AE =
+Attack - Respective element damage enhancement, Protection from respective element.
+
+If anyone knows extra effects or mistakes, please E-mail me at once !
+
+********************************************************************************************
+Some matters to clear up -
+
+There is no possible way to revive Aerith. (I'll kill the next idiot who insist this is
+possible !)
+
+There is no unlimited gil trick. It's a bloody rumour ! (Max, if you're reading this,
+then we can start laughing about this matter !)
+
+There is no way Sephiroth will ever join the party. If he did, then who's left to
+fight in the end !
+
+You cannot change your name after you set it the first time ! You can however
+download a Trainer (Cheating program) which allows you to edit your player
+stats.
+
+You can view the game's full motion videos from the CD, just use Windows explorer to
+locate the movie files in the disc. Each disc has it's own movies, several are repeats.
+
+********************************************************************************************
+
+All the thanks to these following people ....
+
+Squaresoft and Edios - Thanks fro bring FF to the PC but no thanks for the
+problems you caused us gamers !!!! :(
+
+GAMEFAQ - For posting up my FAQs ! 
+
+The ever great F**king "O" Ong Kok Hwee - My mentor who guided me through the tough parts !
+
+My loving Rei Ayanami - Love ya ALWAYS !!! :)
+
+Anthony G Willis - Thanks to this guy, I beat this game with some tips from him !
+
+All those E-mails - For reminding me of mistakes, extra tips & info and also list out
+problems to help others !! Also the comments send !
+
+********************************************************************************************
+ALL RIGHT, IF YOU'LL MADE IT THIS FAR, THIS IS THE END OF THE FAQ ! HOPE THIS HAS HELPED
+YOU IN WAYS ... EVEN IT DIDN'T YOU CAN SEND ME AN E-MAIL TO TELL ME ABOUT YOUR PROBLEM !
+
+			   E-MAIL TO : billykane@edsamail.com.sg
+
+Anyhow, hope you beat the game with this help. Other infomation like Chocobo mating is
+simply follow the tips given by the Chocobo sage or other FAQ on the net. Don't fret
+about defeating the Ruby and Ememard Weapons either, I followed other's instructions
+on tactics to beat them both. Good luck, may all the luck be with you.

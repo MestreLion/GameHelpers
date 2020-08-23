@@ -1,0 +1,336 @@
+Final Fantasy II/IVj State Hacking v.1.0
+by Griffin Knodle, a.k.a. Jair, 7/8/98
+E-mail: gknodle@trinity.edu
+http://www.resnet.trinity.edu/users/gknodle/
+
+
+------------------------
+Contents
+------------------------
+
+Introduction
+Gold
+Character stats
+Changing party members
+Editing the item list
+Editing the spell lists
+Terms of use
+Disclaimer
+
+
+------------------------
+Introduction
+------------------------
+
+This document explains several things you can do to change your ZSNES state files (ZST's) for Final Fantasy II/IVj.  (I took a look at SNES9x's state files, but I couldn't figure them out.)  This document is intended to do two things: let you make an invincible party if you so desire, or (preferably) let you make other changes to simply make the game new and interesting.  By the way, if you don't know what ZSNES and SNES9x are, go to http://www.zophar.net and discover emulation.
+
+To make changes in your ZST, you'll need some way of hex-editing the file.  Hex editors display the hex values for each character in a file, unlike ordinary text editors which only display text characters.  Anyhow, I use Hex Workshop, demo copies of which are available from BreakPoint Software at http://www.bpsoft.com.
+
+Remember: all values in this document will be in hexadecimal (base 16).
+
+
+------------------------
+Gold
+------------------------
+
+Hacking your gold is nice and easy.  Go to address 22b3 in your ZST.  Those 3 bytes contain your gold total.  NOTE: the bytes are actually arranged in reverse order.
+
+
+------------------------
+Character stats
+------------------------
+
+The data for your characters runs from 1c13-1d52.  Each character in your party has 0x40 bytes, so your first party member is 1c13-1c52, your second is 1c53-1c92, and so on.  Interestingly, there's another 0x140 bytes after the fifth member that seems to hold information from FORMER party members... don't know what use it could be....  Anyhow, here's all the values I know, using addresses for your first party member.
+
+Address    What it is
+1c13-1c14  The ID bytes for the character.  (See next section.)
+1c15       Level.
+1c16       Status byte (tracks Piggy, Poison, etc.).
+1c17-1c19  ??? (may be more status bytes)
+1c1a-1c1b  HP.  (Remember that the bytes are reversed.)
+1c1c-1c1d  Max HP.
+1c1e-1c1f  MP.
+1c20-1c21  Max MP.
+1c22-1c26  Attributes (Strength, etc.).
+1c27-1c2b  Attributes plus equipment bonuses?
+1c2e-1c30  Attack (hits, hit %, damage). *
+1c35-1c37  Magic defense. *
+1c3b-1c3d  Defense. *
+1c43-1c49  Equipment (head, body, arms, RHand, quantity, LHand, quantity).
+1c4a-1c4c  Experience. **
+1c50-1c52  For level up. **
+
+* Many of these are based on your attributes and equipment, so changing these values might not work.
+
+** Be careful changing these.  There's a weird calculation that seems to involve these two and your level, and if you change these, you're liable to wind up needing a few million points for level up.
+
+
+------------------------
+Changing party members
+------------------------
+
+You can change your party and put whoever you want in it.  (I'm playing through the whole game with Palom and Porom.  Palom learned Quake all the way back in Cave Magnes, hee hee....)  It's kind of tricky, because there's two ID bytes per party member (see above).  The first byte controls name, battle commands, and handedness.
+
+00 No character
+01 Cecil [Dark Knight]
+02 Kain
+03 Rydia [child]
+04 Tellah
+05 Edward/Gilbert
+06 Rosa
+07 Yang
+08 Palom
+09 Porom
+0a Tellah *
+0b Cecil [Paladin]
+0e Cid
+11 Rydia [adult]
+12 Edge
+13 FuSoYa
+15 Golbez **
+16 Anna **
+
+* There's a different value for each time a character joins your party -- it doesn't seem to matter which one you use.
+
+** Golbez and Anna can't do anything but Fight and Item.  Sorry.
+
+If you use values between 16 and 3f, you'll get garbled names and strange battle commands, many of which will crash the game.
+
+WAIT!  That's not all.  If you use values from 00-3f, it'll say that you're "D" instead of "LHand", "RHand", or "R/L Both" -- and you won't be able to equip weapons.  This whole set repeats three more times:
+
+00-3f D
+40-7f Left-handed
+80-bf Right-handed
+c0-ff Both-handed
+
+Don't worry, there's an example later.  Now for the second byte.  It controls class, appearance, and spell lists.
+
+00 Dark Knight
+01 Dragoon
+02 Child Caller
+03 Sage
+04 Bard
+05 White Wizard [Rosa]
+06 Karate/Monk
+07 Black Wizard
+08 White Wizard [Porom]
+09 Paladin
+0a Chief/Engineer
+0b Adult Caller
+0c Ninja
+0d Lunarian
+0e (pig silhouette)
+0f (midget silhouette, looks like Golbez in battle, has random magic that I don't think you can use in battle)
+10-1f Same as 00-0f, but appearances are scrambled -- don't know if there are other differences.
+
+This whole 0x20 byte sequence repeats from 20-3f, 40-5f, and so on.  In the run of play, your characters' second bytes will come from all over -- Dark Cecil is 00, Paladin Cecil is 29, Rosa is a5 ... I don't know why, and it doesn't seem to matter.
+
+EXAMPLE:  Say you've started a new game and you want to get rid of Kain and change Cecil into Edge.  Getting rid of Kain is easy.  Just change byte 1c53 from 42 (left-handed Kain) to 00 (no character).
+
+Now look at 1c13 and 1c14 (Cecil's ID bytes).  If you change the first byte from 81 (RHand, Cecil) to d2 (R/L Both, Edge), you'll have a both-handed Dark Knight named Edge who can use Steal, Throw, and Ninja -- but he won't have any spells.  If you change the second byte from 00 (Dark Knight) to 0c (Ninja), you'll have a Ninja named Cecil who knows Flame, but can't do anything except Fight and Item (and Dark Wave, in FFIVj).  Make both changes and you've got Edge!
+
+SEVERAL IMPORTANT WARNINGS:
+
+-- When you change the first byte, you also change the experience calculation.  If you do the above example, Edge will need a LOT of experience to reach Level 11.  I don't understand the calculation yet.  It may help to put Edge up to Level 25 (his ordinary starting level) and fiddle with the values for Experience and For-Level-Up.
+
+-- The changed character will still have all of their previous stats, including HP, MP, and equipment.  You'll have to change these separately.
+
+-- If you have two characters from the same class, they will share any spell lists they have -- which means you'll learn spells twice.
+
+-- IMPORTANT!  There are several points in the game where one character fights solo as part of the story.  (Tellah fights Edward, Edward fights the WaterHag, Cecil fights Kain, Paladin Cecil fights Dark Knight Cecil, etc.)  If you took that one character out of your party, the game will crash.  Put him/her back in before the battle.
+
+-- EVEN MORE IMPORTANT!  I hit a serious snag in the Dwarf Castle.  When you're fighting Golbez and Rydia's supposed to appear, she didn't appear and the game crashed.  I think it's because I'd removed Cid a while earlier, but I tried putting him back in and it didn't help.  I finally got around it by giving Cecil "Chain Reaction" and killing Golbez instantly (see below).
+
+
+------------------------
+Editing the item list
+------------------------
+
+The item list runs from 2053 through 20b2.  There are two bytes for each item.  The first byte is the item's ID byte; the second byte is the quantity you have.  Here's a chart of the item ID values.  (Note that the same values are used for the equipment bytes in your character data.)
+
+01-06 Claws
+07-0e Rods
+0f-15 Staffs
+16-22 Swords
+23-2a Spears
+2b-32 Katanas and daggers
+33-37 Whips
+38-3d Misc.
+3e    Spoon/Cleaver
+3f    Crystal/Ragnarok Sword
+40-41 Shuriken, Ninja/Hellwind
+42-43 Boomerang, FullMoon
+44-45 Harps
+46    Dummy/Spare
+47-48 More axes
+49-4b Hammers
+4c    Avenger Sword
+4d-53 Bows
+54-5f Arrows
+60    (blank)
+61-6c Shields
+6d-76 Helms
+77-7c Caps
+7d-7f Ninja, Karate stuff
+80    Glass Helm
+81-8c Armor
+8d-95 Robes
+96-99 Misc.
+9a    Adamant Armor
+9b    Ninja
+9c-a6 Gauntlets
+a7-af Rings
+b0-c7 Battle items
+c8    Crystal
+c9-cd Battle items
+ce-dd Recovery items
+de    Alarm
+df-e1 Apples, SomaDrop
+e2-e3 Tent, Cottage
+e4    PornoMag
+e5-ed Misc.
+ee-fa Quest items
+fb    Dark Matter
+fc-fd Scn.0015, Scn.0016
+fe-ff Sort and TrashCan
+
+You should play around with your item list for a bit, just because there's a bunch of items you probably never got, like the Artemis Bow and Lilith Sword.  Also try doing screwy things like changing your armor byte to a weapon or a Potion and seeing what happens.
+
+
+------------------------
+Editing the spell lists
+------------------------
+
+Here's where you can have some real fun.  Each spell list is 0x18 bytes long.  Some characters have more than one spell list (Child Rydia has three).  You can put any spells on any list -- even though Cecil's list is called "White", you can give him any spell you want.  Here are the addresses of the spell lists.
+
+2173 Cecil
+218b ???
+21a3 Rydia (White)
+21bb Rydia (Black)
+21d3 Rydia (Call)
+21eb Tellah (White)
+2203 Tellah (Black)
+221b Rosa
+2233 Palom
+224b Porom
+2263 FuSoYa (White)
+227b FuSoYa (Black)
+2293 Edge
+
+And here are the spell ID values to plug into the lists.
+
+01-18 White
+19-30 Black
+31-3f Call
+40 Flare
+41 Comet
+42-47 Ninja
+
+Now the fun starts, because you can also give yourself monsters' special attacks.  Even better, you can cast any of them instantly, for 0 MP!  I've put *'s by the most powerful or interesting ones.  Be warned that the names won't display properly in the menus, because they're longer than ordinary spell names.
+
+48 Magic Arrow
+49 Heal (weak Cure3, all ally)
+4a Basuna
+4b Poisona
+4c Dagger
+4d-5d Call effects (Chocobo Kick, etc.)
+5e*W.Meteo
+5f Monst015
+60 Monst016
+61 Gaze
+62*Bluster
+63 Slap
+64 Cold Snap
+65 Pupil
+66 Charm/Lure
+67 Tongue
+68 Curse
+69 Fingertip
+6a*Count
+6b Beak
+6c Stone Gaze
+6d Mind Blast
+6e Hug
+6f*Breath
+70 Whisper
+71 Entangle
+72 Weak
+73 Disrupt (no effect?)
+74 Cold Mist
+75 Explode (Mom Bomb version)
+76 Curse Song
+77*Hold Gas
+78 Sleep Gas
+79 Poison
+7a Maser
+7b*Vanish (enemy disappears!)
+7c*Demolish
+7d Black Hole
+7e Death Song
+7f*Disrupt
+80*Maelstrom
+81 Magnet
+82*Chain Reaction
+83 Hatch (no effect)
+84 Remedy (recover some HP)
+85 Absorb (recover HP?)
+86*Heal (all ally)
+87*Big Bang
+88 Vampire
+89 Digest
+8a Pollen
+8b*Crush
+8c Alert (crashes game)
+8d Call (crashes game)
+8e Dummy
+8f Vanish/Dark Revolution (fill HP?)
+90 Search
+91*Fission
+92*Retreat (enemy runs away!)
+93 Heal (all enemy!)
+94 Beam
+95*Globe199
+96 Fire
+97 Blaze
+98 Blitz/LitFlash
+99 Thunder
+9a Dark Breath
+9b Big Wave
+9c Blizzard
+9d Wave
+9e Tornado
+9f Laser
+a0 Explode
+a1 Quake
+a2 Emission
+a3 Heat Ray
+a4*Glare/FlameDgn
+a5 Odin
+a6*MegaNuke/MegaFlare
+a7 Needle
+a8 Counter (Antlion's needles)
+a9 Monst000
+aa Monst000
+ab*Recover (fills caster's HP)
+ac*Remedy (fills caster's HP)
+
+Values from ad-ff will do strange things.  Try them if you're bold.  (I found one that made you exit the battle, and another that added an enemy and killed the caster!!#$@)
+
+That's all, folks.  If you have any questions, suggestions, or additions, feel free to mail me.  Have fun!
+
+
+TERMS OF USE
+
+You may use, distribute, and modify this document freely.  Only one 
+restriction: These terms of use must stay the same.  Oh, and I'd appreciate 
+it if you credit me as the original author.
+
+
+DISCLAIMER
+
+All games and systems mentioned are copyright their respective companies. 
+I am not responsible for any damage you may cause to your computer or 
+software by using this document. Owning a ROM is illegal unless 
+you already own the cartridge. If there are runners on first and second and 
+fewer than two outs, a fly ball hit to an infielder shall be ruled "caught" 
+even if the infielder drops it. I think that about covers everything.

@@ -1,0 +1,130 @@
+Updates:
+10/01/2000 Added current slot pointers, egg data, Paladin slot, pending status
+anomalies, updated info on monster count arrays, a/v command notification,
+Twin/Spirit Wave/Cover stuff, palettes, party visibility, SRAM info, names,
+gold, battle speed, random data, menu data, autobattle script, invincibility
+byte, and probably some other things I forgot to mention.
+09/03/2000 Added header, shadow party data, inventory data structure, monster
+character records in battle, God knows what else.
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+The save RAM is 8kbytes long, broken into 4 2kbyte long slots. The save data
+for each slot is simply the WRAM data from 1000-17FF; however, some form of
+checksum is apparently generated and checked as well.
+
+Known RAM locations outside of battle
+=====================================
+1000-113F Party data. Data for each member is 40 bytes long.
+1140-127F Shadow party data. Data for each member is 40 bytes long.
+1440-149F Inventory. For each of fourty-eight items, there are two bytes: the
+    first specifies which item is in that inventory slot, the second how many.
+1500-1553 Character names.
+1560-1697 Spell screens. Each is twenty-four bytes long.
+16A0-16A2 Party's gold total.
+16AC      Battle speed minus one (ie, 00 = fastest, 05 = slowest).
+16AD      Battle message speed minus one (as above).
+3540-3544 Not completely known. For each of the five party slots, zero if a
+    member is in that slot, non-zero otherwise.
+
+Known RAM locations in battle
+=============================
+00A6-00A7 Pointer into the 2000-267F area for the current or most recently
+    referenced character or monster. Equal to the slot number times 80.
+00A8      Determines if the battle continues and if not, how it ends.
+1800-1801 Encounter number of the current encounter.
+1900-19FF Data used by the pseudorandom number generator.
+2000-227F 80 byte long records for the party.
+2280-267F 80 byte long records for the monsters.
+29A5-29AC Horizontal position for each monster.
+29AD-29AF Monster type (00-DF) for each of the three types of monster in the
+    current encounter. Monsters of like type that appear more than once ARE
+    combined. Killed monster types are removed.
+29B1-29B3 Monster type (00-DF) for each of the three types of monster in the
+    current encounter. Monsters of like type that appear more than once are
+    NOT combined.
+29B5-29BC Which of the three types of monster, after combination, each of the
+    eight monsters in the encounter are.
+29BD-29C4 Same as 29B5-29BC, except that monster types don't get overwritten
+    when the monster dies.
+29CA-29CC Monster quantity (00-03) for each of the three types of monster in
+    the current encounter. Monsters of like type that appear more than once
+    ARE combined. Killed monsters are removed from the count. Raised monsters
+    are added to the count.
+29CD Total number of monsters remaining. When it reaches zero, the battle is
+    over.
+29CF-29DE A table entry based on the unknown byte in the encounter data.
+29EB-2A03 Bitmask of status events that are to expire (?) for each slot.
+2A04-2A2A Status duration data for each slot.
+2A2B-???? Poison data.
+2C7A-3219 The spell menu data for each character.
+321A-32D9 The item menu data.
+32DA-3301 The hand menu data for each character.
+3302-338D The command menu data for each character.
+338E-33C1 Pending status anomalies to inflict on everyone. Four bytes
+    (corresponding to bytes 03-06 of each record) for each character/monster.
+33C2-33FD Tells the aduiovisual code what spells/commands were just used.
+34CA-???? Battle message area.
+34D4-34ED Damage for each slot.
+352F      Number of the slot (00-0C) for the current or most recently
+    referenced character or monster.
+3530-3531 Pointer into the 2A04-2A2A area for the current or most recently
+    referenced character or monster. Equal to the slot number times 15.
+3532-3533 Pointer into an unknown area(s) for the current or most recently
+    referenced character or monster. Equal to the slot number times 37.
+3534-3535 Pointer into the 3302-338D area for the current or most recently
+    referenced character. Equal to the slot number times 1C.
+3536-3537 Pointer into the 2C7A-3219 area for the current or most recently
+    referenced character. Equal to the slot number times 120.
+3539-353A Slot numbers of the characters casting Twin.
+3545-354C An extension of 3540-3544 for monsters.
+355E      Slot number of the Paladin, if present.
+357A      Slot number of character last Covered.
+357C      00: Spirit Wave in progress FF: Spirit Wave not in progress
+3581      00: normal attack 08: back attack
+3585-3587 For each of the three types of monster, how many times each has been
+    killed.
+3588-358A Like 29CA-29CC, except that raised monsters don't get added to the
+    count. Killed monsters are ???
+358B-358D Like 29CA-29CC, except that raised monsters don't get added to the
+    count. Killed monsters are ???
+358E-3590 Item byte for each type of monster.
+3604-360B For each of the eight monster slots, which attack sequence is the
+    current one (?) or default (?). Data is offset into 397F divided by 2.
+360C-361B As 3604-360B, except entries are two bytes not one, and (after
+    division by two) multiplied by 3C and the contents of 2896 are added.
+3659-3838 (One 3C byte long entry for each monster)
+3839-3874
+3881      Non-zero if monsters are invincible.
+388B      00: manual control 20: autobattle
+388C-3899 Autobattle script for first/only character
+389A-???? Autobattle script for second character
+38BF-38CE Some status anomalies removed from the party?
+38D0-38D2 For each of the three types of monsters (after combination), 01 if
+    they are eggs, 00 if they are not.
+38E5      Second set of encounter flags.
+38F0-38F2 Like 29CA-29CC, except ???
+397F-3A1E For each of the eight monster slots, the attack sequence group data
+    for the main attack sequences. Each monster's entry is 14 bytes long.
+3A1F-3B5E For each of the eight monster slots, the condition bytecodes for the
+    main attack sequence data, consisting of 0A entries of 04 bytes each.
+3B5F-405E For each of the eight monster slots, the condition bytecode table
+    entries for the main attack sequence data, consisting of 0A entries of 04
+    entries of 04 bytes each.
+405F-531E For each of the eight monster slots with ten attack slots each, the
+    the attack sequence data. Each monster slot is 258 bytes long, and is made
+    up of 0A 3C byte long entries.
+531F-53BE For each of the eight monster slots, the attack sequence group data
+    for reflexes. Each monster's entry is 14 bytes long.
+53BF-54FE For each of the eight monster slots, the condition bytecodes for the
+    reflex attack sequence data, consisting of 0A entries of 04 bytes each.
+54FF-59FE For each of the eight monster slots, the condition bytecode table
+    entries for the reflex attack sequence data, consisting of 0A entries of
+    04 entries of 04 bytes each.
+
+59FF-6CBE For each of the eight monster slots with ten reflex data slots each,
+    the attack sequence data for reflexes. Each monster slot is 258 bytes long
+    and is made up of 0A 3C byte long entries.
+ED50-???? Some kind of palette data.
+F320      Determines visibility of party, FF:party hidden

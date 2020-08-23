@@ -1,0 +1,210 @@
+How to extract roms' Graphics from Visual Basic 
+
+Written by: The_Fake_God
+Last update: May 2002
+
+Contents
+
+#Introduction#
+#The Basics#
+#Writing the Program#
+#Credits#
+
+
+#Introduction#
+
+Yes, I´m The_Fake_God yet with another tutorial (boredom to unknown limits). Well, lately I´ve been diggin through my memories and something popped off my head (hopefully it wasn´t my brain). I remembered the time I mailed SnowBro beggin him to teach me how to read graphics form roms :p Now I know why he didn´t reply lol... I got a few mails asking the same so I decided to make this doc. If you find this doc interesting or useful, let me know. I´d love to update it.
+
+
+#The Basics#
+
+I suggest you to read Klarth's Consolegfx.txt doc first (romhacking.org). Here are 2 basic concepts that you MUST know before going on:
+
+BPP: Bits Per Pixel
+Bitplane: "layer" where you´re going to paint pixels, in certain order, depends on the format.
+
+For example:
+
+1BPP = 1 bit per pixel.
+With one bit you can only represent 2 colors 0 or 1.
+
+so an 8x8 1BPP tile would be somehting like this
+
+
+
+
+
+
+00000000
+01111110
+01000110
+01001010
+01010010
+01100010
+01111110
+00000000
+
+See? One bitplane, 2 colors. Read Klarth's doc for more details.
+
+#Writing the Program#
+
+There are some basic steps you must follow in order to read/display graphics:
+
+1) Read the byte
+2) Convert the byte to binary
+3) Mix the Planes to get the colors (if it´s more than 1BPP)
+4) Paint
+
+Now more detailed:
+
+//1BPP Format//
+
+This is the monochrome format, the easiest to implement one. In the included example, there's a file named example.gfx, that is a 2BPP "A" letter (from Lolo, in case you´re wondering).
+
+Fisrt Step: Read the byte
+
+Since it´s too complicated to read individual bytes each time you´re going to plaint a pixel, I used a static array of bytes.
+
+//CODE//
+
+' An array of 16 bytes
+Global Tile(0 To 15) As Byte
+
+//CODE//
+
+Ok, those are 16 bytes. Why? Cauz it´s the size of a 8x8 2BPP tile, you can change the array's limits depending on the format your dealing with.
+
+//CODE//
+
+Public Sub GetTile()
+ Open App.Path & "\example.gfx" For Binary As #1
+  Get #1, , Tile()
+ Close #1
+End Sub
+
+//CODE//
+
+That's quite simple. Open the file, get the data and close. Now the information is redady to use.
+
+//CODE//
+
+' Monochrome Pallette
+Public Type MPallette_
+ Color1 As Long
+ Color2 As Long
+End Type
+
+Global MPallette As MPallette_
+
+Public Type Pallette2BPP_
+ Color1 As Long
+ Color2 As Long
+ Color3 As Long
+ Color4 As Long
+End Type
+
+Global Pallette2BPP As Pallette2BPP_
+
+//CODE//
+
+Since you need to add color to the graphics (could be the pallete of the rom you´re hacking) I made those simple structures to hold the colors. 
+
+1BPP Mode: 2 Colors 
+           0 = Color 1
+           1 = Color 2
+
+2BPP Mode: 4 Colors
+           00 = Color 1
+           10 = Color 2
+           01 = Color 3
+           11 = Color 4
+
+Why did I put those 1's and 0's together? Well, I´ll get into that in the next piece of code.
+
+//CODE//
+
+Public Sub PaintTile(Buffer As PictureBox, mode As Byte)
+ ' Local Variables
+ Dim curBit As String * 1
+ Dim curBit2 As String * 1
+ 
+ ' Position Index
+ Dim x As Integer, y As Integer
+ 
+ Select Case mode
+  ' MONOCHROME
+  Case 0:
+   For y = 0 To 7
+    For x = 0 To 7
+     curBit = Mid(Bin(Tile(y)), x + 1, 1)
+     Select Case curBit
+      Case "0": Buffer.Line (x * 16, y * 16)-Step(16, 16), MPallette.Color1, BF
+      Case "1": Buffer.Line (x * 16, y * 16)-Step(16, 16), MPallette.Color2, BF
+     End Select
+    Next x
+   Next y
+   
+   ' 2BPP
+   Case 1:
+    For y = 0 To 7
+     For x = 0 To 7
+      curBit = Mid(Bin(Tile(y)), x + 1, 1)
+      curBit2 = Mid(Bin(Tile(y + 8)), x + 1, 1)
+      Select Case (curBit + curBit2)
+       Case "00": Buffer.Line (x * 16, y * 16)-Step(16, 16), Pallette2BPP.Color1, BF
+       Case "10": Buffer.Line (x * 16, y * 16)-Step(16, 16), Pallette2BPP.Color2, BF
+       Case "01": Buffer.Line (x * 16, y * 16)-Step(16, 16), Pallette2BPP.Color3, BF
+       Case "11": Buffer.Line (x * 16, y * 16)-Step(16, 16), Pallette2BPP.Color4, BF
+      End Select
+     Next x
+    Next y
+ End Select
+End Sub
+
+//CODE//
+
+First of all, I make an 8x8 loop (8 in y, 8 in X). Check this diagram out:
+
+1BPP
+
+BYTE#1: 00000000
+BYTE#2: 01111110
+BYTE#3: 01000110
+BYTE#4: 01001010
+BYTE#5: 01010010
+BYTE#6: 01100010
+BYTE#7: 01111110
+BYTE#8: 00000000
+
+Read one byte, convert to binary, paint. I used "Line" to create boxes instead of little pixels, like scaling the image.
+
+2BPP
+
+00000000
+011111111
+011222211
+011222211
+011222211
+011222211
+011222211
+011222211
+ 11111111
+
+BYTE#1: 00000000   BYTE#9:  11111111
+BYTE#2: 01111110   BYTE#10: 11222211
+BYTE#3: 01000110   BYTE#11: 11222211
+BYTE#4: 01001010   BYTE#12: 11222211
+BYTE#5: 01010010   BYTE#13: 11222211
+BYTE#6: 01100010   BYTE#14: 11222211
+BYTE#7: 01111110   BYTE#15: 11222211
+BYTE#8: 00000000   BYTE#16: 11111111
+
+Plane 1 - Byte 1 to 8
+Plane 2 - Byte 9 to 16
+
+The combination of bits #1 of Bytes 1 and 9 would make the first pixel, and so on.
+
+
+#Credits#
+
+Written by: The_Fake_God (The_Fake_God@hotmail.com) If you want to post this doc on your site, please mail me (just to know, I won´t say no :P). Thanks to Gil-Galad, UgeTab, Mogster and Metallica.

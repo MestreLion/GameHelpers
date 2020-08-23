@@ -1,0 +1,1953 @@
+                  A DETAILED PLOT ANALYSIS OF THE
+              ---------------------------------------
+              ----         RESIDENT EVIL         ----
+              ---------------------------------------
+              VIDEOGAME SERIES BY CAPCOM ENTERTAINMENT
+
+Begun by Dan Birlew, 1998
+Updated by Thomas Wilde with permission, 2000-2003
+
+*****************************CONTAINS SPOILERS**************************
+This thesis contains spoilers. If you have not already played the games,
+the authors strongly suggest that you do so before reading the document.
+The best introduction to the games is to play them.
+************************************************************************
+
+TABLE OF CONTENTS
+
+ 1.  Introduction, Legal Stuff, Disclaimers, and Update History
+ 2.  Dead Men Telling Tales: RESIDENT EVIL
+      i. A Summary of the Basic Plot of RESIDENT EVIL
+     ii. Story Differences Between Chris and Jill's Games
+    iii. Differences Between RESIDENT EVIL and RESIDENT EVIL "2.0"
+     iv. Random Musings
+ 3.  Things To Do In Raccoon When You're Dead: RESIDENT EVIL 2
+      i. The Plot Thickens
+     ii. Events Between RE and RE2/RE3
+    iii. A Summary of the Basic Plot of RESIDENT EVIL 2
+     iv. A Summary of the Conclusion of RESIDENT EVIL 2
+      v. Differences Between Claire A/Leon B and Leon A/Claire B
+     vi. The 4th Survivor Minigame
+    vii. Conclusions About The Conclusion
+   viii. Random Musings
+ 4. Nobody Here Gets Out Alive: RESIDENT EVIL 3: NEMESIS
+      i. The Death of Raccoon City
+     ii. A Summary of the Basic Plot of RESIDENT EVIL 3: NEMESIS
+    iii. A Summary of the Conclusion of RESIDENT EVIL 3: NEMESIS
+     iv. Different Paths
+      v. Different Endings
+     vi. The Epilogue Files
+    vii. Conclusions About The Conclusion
+   viii. Random Musings
+ 5. Ten Thousand Bullets: RESIDENT EVIL: SURVIVOR
+      i. A Summary of the Basic Plot of RESIDENT EVIL: SURVIVOR
+     ii. A Summary of the Conclusion of RESIDENT EVIL: SURVIVOR
+    iii. Different Routes
+     iv. Conclusions about the Conclusion
+      v. Random Musings
+ 6. Sibling Rivalries: RESIDENT EVIL: CODE VERONICA
+      i. A Lovely Island Hideaway: CODE VERONICA, Part One
+     ii. The Return of Chris Redfield: CODE VERONICA, Part Two
+    iii. A Summary of the Conclusion of RESIDENT EVIL: CODE
+         VERONICA
+     iv. Conclusions About The Conclusion
+      v. The Ashford Family Diaries
+     vi. Random Musings
+ 7. Becky's Big Adventure: RESIDENT EVIL ZERO
+      i. A Summary of the Basic Plot of RESIDENT EVIL ZERO
+     ii. A Summary of the Conclusion of RESIDENT EVIL ZERO
+    iii. Conclusions About the Conclusion
+     iv. Random Musings
+ 8. Ghost Ships: RESIDENT EVIL GAIDEN
+      i. Coming So--Aw, To Hell With It
+ 9. Ten Thousand *More* Bullets: RESIDENT EVIL: GUN SURVIVOR 2
+10. We Cover the Waterfront: RESIDENT EVIL: DEAD AIM
+      i. Introduction
+     ii. A Summary of the Basic Plot of RESIDENT EVIL: DEAD AIM
+     ii. A Summary of the Conclusion of RESIDENT EVIL: DEAD AIM
+    iii. Conclusions About the Conclusion
+     iv. Random Musings
+11. A Long Time Dying: RESIDENT EVIL: OUTBREAK
+      i. Introduction
+12. Unanswered Questions
+      i. RESIDENT EVIL v2.0
+     ii. RESIDENT EVIL 2
+    iii. RESIDENT EVIL 3: NEMESIS
+     iv. RESIDENT EVIL: SURVIVOR
+      v. RESIDENT EVIL: CODE VERONICA
+     vi. RESIDENT EVIL ZERO
+    vii. RESIDENT EVIL: DEAD AIM
+   viii. RESIDENT EVIL: OUTBREAK
+     vi. A Look At Wesker's Report
+    vii. Wesker's Report 2
+13. Frequently Asked Questions
+      i. Document and Series Questions
+     ii. RESIDENT EVIL
+    iii. RESIDENT EVIL 2
+     iv. RESIDENT EVIL 3: NEMESIS
+      v. RESIDENT EVIL: SURVIVOR
+     vi. RESIDENT EVIL: CODE VERONICA
+    vii. RESIDENT EVIL: THE MOVIE
+   viii. RESIDENT EVIL ZERO
+     ix. RESIDENT EVIL GAIDEN
+      x. RESIDENT EVIL: DEAD AIM
+     xi. RESIDENT EVIL: OUTBREAK
+    xii. RESIDENT EVIL 4
+14. Say What?!
+      i. The Weirdest of the Lot
+15. Mistakes
+16. Easter Eggs
+17. About the Authors
+18. Conclusion
+
+=============================================================
+1. Introduction, Legal Stuff, Disclaimers, and Update History
+=============================================================
+
+And just like the movies
+We play out our last scene
+I won't cry, you won't scream
+    -- Alien Ant Farm, "Movies"
+
+Dan Birlew began this thesis in 1998. I lucked across it in
+1999, just when I was starting to get good and obsessed with
+Resident Evil, and found it to be a useful resource.
+
+After the release of Resident Evil 2 for the N64, I wrote a
+transcription of the EX Files from that game, combined with
+some notes on the RE storyline for the sake of the N64 crowd.
+That transcription is currently hosted by gameFAQs.com (among
+others), and after I wrote it, I got a lot of e-mail from N64
+owners asking about the finer points of the storyline.
+
+After about the twelfth e-mail I got, I went back to look
+at Birlew's analysis for help, and wound up deciding that it
+needed an update; rather than answering a flood tide of
+e-mail, I could just point at this document and say, "Lo!
+I have come down from the mount with answers!"
+
+Birlew had already told me earlier that he wasn't planning on
+updating this document and, in fact, was legally prohibited
+from doing so. I asked him if I could do it. Please note the
+following, which was not extracted under duress of any sort:
+
+> Thomas Wilde has my full permission to continue the
+> Resident Evil Thesis in my place. He has full permission
+> from me to use any materials from my former versions that
+> he sees fit. I relinquish these materials to him, since I
+> am unable to continue or update the Thesis due to certain
+> agreements I have made with certain companies.
+>
+> Sincerely,
+> Dan Birlew
+> formerly known as "President Evil"
+
+Every time I say "me" or "I" in this document, it's Thomas
+talking; every time I say "we," I refer to the audience of RE
+as a whole. This document is copyright 2000-2003, Thomas Wilde,
+except for those clearly labeled parts that are copyright 1998,
+Dan Birlew. All recognizable concepts from the Resident Evil
+series are copyright Capcom, and their usage in this document
+does not constitute a challenge to that copyright. And so on.
+And so forth. All rights reserved; violators will be fed to
+the Neptune.
+
++------------ READING THIS DISCLAIMER *COULD* SAVE YOUR LIFE -----------+
+|                                                                       |
+|  Before we begin, I'd like to issue a general disclaimer. I don't     |
+|  mind people e-mailing me to ask questions that aren't covered in     |
+|  this FAQ, but:                                                       |
+|                                                                       |
+|               I'M NOT INTERESTED IN YOUR "THEORIES."                  |
+|              I'M NOT INTERESTED IN "ANONYMOUS SOURCES."               |
+|        I'M NOT INTERESTED IN INFORMATION "FROM THE RE STAFF."         |
+|                                                                       |
+|     This document deals in actual, documented, in-game plotline       |
+|  information. Don't send me your dissertation on why Rebecca is a     |
+|  spy, don't tell me anything that you got out of one of S.D. Perry's  |
+|  novels, don't tell me anything that a friend of a friend was told by |
+|  a friend who had a friend who delivered pizza to the RE staff, and   |
+|   don't e-mail me naked pictures of your sister because "she looks    |
+|     just like Jill" (wait... actually, go ahead and send those).      |
+|    I don't mind questions, but I do mind having my time wasted.       |
+|      If you *do* send me a theory, don't expect me to reply.          |
+|          If I don't reply, don't get upset. I warned you.             |
+|      Read this entire document before you send me any questions.      |
+|         If you send me some kind of outlandish claim, have an         |
+|               official source ready to back it up.                    |
+|                                                                       |
+|    Please note that for my purposes, an "official source" does not    |
+|     mean that you make something up about there being someone who     |
+|     works for Capcom who is willing to risk his job by answering      |
+|     spoilery questions about one of their flagship series at the      |
+|    behest of some dork with no noticeable English skills and an       |
+|    AOL account. I am comfortably certain that anyone who writes me    |
+|     to claim that they have such an acquaintance is lying to me,      |
+|      in an attempt to get my attention. I would like to point         |
+|     out that not only am I wise to this scam, but there is an         |
+|     an entire wing built onto Bellevue to house the surviving         |
+|      morons who tried, and succeeded, to get my attention by          |
+|        acting stupid. Trust me; you and I both have better            |
+|                    things to do. Seriously.                           |
+|                                                                       |
+|         All power to the people, and ban the $%#&ing bomb.            |
++-----------------------------------------------------------------------+
+
++-------- NOT READING THIS DISCLAIMER CAUSES CANCER IN LAB RATS --------+
+|                                                                       |
+|    This is a *storyline* FAQ. It deals strictly with plot             |
+|    elements of the Resident Evil series. It is not a gameplay         |
+|    FAQ. If you're having trouble getting through the game, I          |
+|    encourage you to seek out the various online FAQs written          |
+|    for the Resident Evil games (particularly those by Dan             |
+|    "President Evil" Birlew, Brett "Nemesis" Franklin, Vincent         |
+|    Merken, Henry LaPierre, Vesther Fauransy [although I recommend     |
+|    him with slight reservations; his FAQs are a little weird],        |
+|    and "Stinger 3:16"). They are all available on www.gameFAQs.com,   |
+|    among other places, and can probably be found at the same place    |
+|    where you found this document.                                     |
+|                                                                       |
+|    In short, send the gameplay questions to one of those              |
+|    talented gentlemen, and/or check out their FAQs. They're           |
+|    very well-written, and have helped me with my own                  |
+|    gameplay problems in the past.                                     |
+|                                                                       |
+|  I *WILL NOT* reply to e-mail asking for gameplay information, Game   |
+|         Shark codes, cheats, secrets, or file transcriptions.         |
++-----------------------------------------------------------------------+
+
++-- IF YOU DON'T READ THIS DISCLAIMER, I GET TO HIT YOU WITH A PICKAX --+
+|                                                                       |
+|     No, you are *not* Shinji Mikami. I'm comfortably certain that     |
+|   you don't work for Capcom of Japan, either, especially if you're    |
+|  e-mailing me from an America Online account. Please do not assume,   |
+|   dear readers, that I am an idiot. If you wish to converse with      |
+|          idiots, get an AOL subscription and go buck wild.            |
++-----------------------------------------------------------------------+
+
+=======
+Updates
+=======
+
+[Old updates deleted.]
+
+February 12th, 2003:
+   -- I got back from the holidays to find forty new messages
+      about the plot analysis, a refreshingly small percentage
+      of which were from people who haven't actually read the
+      plot analysis. It has, however, forced me to give the
+      movie its own section in the FAQs. I also fixed a musing
+      in the RE2 section, after Michael Soo pointed out it was
+      now out of date.
+
+February 16th, 2003:
+   -- the mailbag's been struck by a fresh wave of PS2 fanboys,
+      who're trying to find loopholes in the exclusivity contract
+      or something. I attempt to pour a bucket of cold water onto
+      their collective heads, via the utilization of a handy FAQ.
+
+April 7th, 2003:
+   -- a new FAQ in RE0, and some tweaks to the rest.
+
+June 5th, 2003:
+   -- hi! Did you see me at E3? I was the guy wandering around
+      with a laptop bag on his back, looking vaguely like he'd
+      been hit in the face with a brick. I have updated with
+      my impressions of the playable Resident Evil: Outbreak,
+      formerly simply known as Resident Evil Online.
+
+June 25th, 2003:
+   -- Resident Evil: Dead Aim is both easy and now in the analysis.
+      It's Resident Evil... in the *future*.
+
+========================================
+2. Dead Men Telling Tales: RESIDENT EVIL
+========================================
+
+In 1996, Capcom released Resident Evil for the PlayStation. RE
+was, and is, a strangely difficult adventure game which put the
+player up against an ancient mansion, filled with secrets, puzzles,
+and, incidentally, ravenous flesh-eating zombies. While the game
+gained a degree of deserved notoriety for some of the worst dialogue
+and voice acting in console history, it also gained a fanatical
+following.
+
+In 2001, Capcom announced that they were remaking the original
+Resident Evil for the Nintendo GameCube. The remake, released
+in North America on May 1st, 2002, represents a new beginning
+for the series; it boasts ridiculously realistic graphics, a
+much-improved script, a better cast of voice actors (albeit
+that isn't saying much, as fourth-grade nativity plays have
+better voice acting than the original RE), and the same
+difficult gameplay that characterized the original, as well
+as a number of story elements that were left out of the
+original game (such as the infamous Trevor's Letters).
+
+This synopsis covers the storyline of the 2002 remake of RE.
+If you're looking for the original game's synopsis and FAQs,
+you can check them out as a separate file (eventually) at:
+http://www.dimfuture.net/elsewhere/writing/birlew-re.txt
+
+===============================================
+i. A Summary of the Basic Plot of RESIDENT EVIL
+===============================================
+
+Following the strange deaths of a number of citizens of Raccoon
+City, the local police department has put the Special Tactics
+and Rescue Squad, a special force dedicated to stopping local
+terrorist activity, on the case. The STARS immediately sent
+its Bravo team, led by Enrico Marini, into the Raccoon Forest,
+where several of the murders occurred.
+
+The Bravo team promptly disappears. On the night of July 24th,
+the STARS Alpha team follows the Bravos into the forest by
+helicopter, looking for clues as to their disappearance.
+
+They soon find the Bravo team's helicopter... and the helicopter's
+pilot, dead and mangled beyond recognition. The architects of this
+massacre, a pack of wild dogs, soon spring an ambush, which kills
+Joseph Frost, a member of the Alpha team. The rest of the team
+attempts to fight the dogs off, but the dogs don't seem to mind
+gunshot wounds.
+
+The whole situation proves too much for Brad Vickers, also known
+as "Chickenheart," the helicopter pilot for the Alpha team. He
+panics, and takes off, leaving the rest of the Alpha team stranded
+on the ground. After a headlong flight through the woods, the Alpha
+team takes shelter inside the nearby Spencer mansion, an old estate
+which was supposedly abandoned.
+
+The player's role in the game begins at this point. As either Chris
+Redfield or Jill Valentine, two of the five survivors of the Alpha
+team, the player must find out just what's happening here, while
+defending himself against the mansion's current inhabitants. Chris
+will run into Rebecca Chambers, the field medic and lone survivor
+of the STARS Bravo team, while Jill will be assisted by Barry Burton,
+a police veteran and fellow Alpha team member. The game unfolds
+differently depending on which character is chosen.
+
+The character's investigation of the mansion begins with Albert Wesker,
+the captain of the STARS Alpha team, instructing the character to
+check out the source of a nearby gunshot. Upon investigating, the
+character finds Kenneth Sullivan, a member of the Bravo team, dead
+on the floor... and crouching over him is the zombie that killed him.
+When the character tries to report back to Wesker, he's vanished.
+
+Wesker's disappearance is the beginning of a long stretch of bad luck.
+The mansion is inhabited by hordes of flesh-eating zombies, killer
+crows, more dogs, and a giant snake. Even worse, the zombies must
+be decapitated or incinerated, or a second "death" will simply cause
+a zombie's mutation into the berserk clawed monster that the mansion's
+former inhabitants have nicknamed a "Crimson Head." Fortunately,
+there are more powerful weapons and ammunition hidden within the
+mansion, as well as stores of kerosene to use against the zombies.
+
+As the character advances through the mansion and the outlying
+buildings, discarded papers and uncovered journals begin to hint
+at what's really happened here. Apparently, the people who once
+lived here were working on some kind of experiment, and that
+experiment has gone awry. Notes from the mansion's original
+architect, George Trevor, reveal how the mansion's new owners
+left him to die in the mansion's hidden labyrinths, and how
+they may have tortured his wife and daughter in a similar fashion.
+
+Eventually, the character manages to unlock a door at the back
+of the mansion, opening the way to the graveyard and dormitories.
+Here, in an isolated cabin, the character is ambushed by a twisted
+parody of a woman. Clad in a tattered dress and shuffling towards
+the character on legs that have been chained together, the creature
+screams as it attacks. Conventional weapons do no good, and the
+character is forced to retreat.
+
+In the scientists' lodgings, the mystery only deepens. Other
+experiments have produced a massive, bloodthirsty plant, codenamed
+Plant-42, as well as a trio of mutated sharks. The character manages
+to dispatch the plant with the help of the scientists' notes, and
+the sharks die easily enough when the flooded observatory is drained.
+It's in the dormitories that new clues to the nature of this mansion
+are discovered; the powerful Umbrella corporation would appear to
+have something to do with these scientists, and for whatever reason,
+the scientists are very interested in the STARS.
+
+After Plant-42 is dispatched, Wesker reappears, claiming to have
+been separated from the rest of the team following a monster
+attack. He tells the character to return to the mansion and finish
+the investigation there.
+
+Upon the character's return to the mansion, a new monster joins
+him. These "Hunters" are powerful and relentless, and rarely show
+up alone. Evading this new threat, the character is able to visit
+areas in the mansion that were previously locked, using a key
+found in the dormitories, and is thus able to find the materials
+to reactivate an elevator in the courtyard behind the mansion.
+
+The elevator lets the character through a secret door, which leads
+to an old series of mining tunnels, the purpose of which is unknown.
+At one end of the tunnels, hiding in a darkened dead end, the
+character finds Enrico Marini, the captain of the Bravo team. He's
+wounded, and tells the character to stay away. STARS, he says, has
+been betrayed. Just as he's about to reveal the identity of the
+traitor, a single gunshot rings out from behind the character.
+The bullet hits Enrico in the heart, killing him instantly. The
+character gives chase, but the sudden arrival of a pack of Hunters
+lets Enrico's assassin escape.
+
+At the tunnels' end, yet another elevator takes the character to
+an underground river and a loading dock. After another encounter
+with the twisted creature from the cabin, the character unlocks
+yet another door, this one leading to a candle-lit hideaway.
+
+In this hideaway, which looks like nothing so much as a young
+girl's room, the character finds the last thing he needs to
+open the last door back in the mansion. A ladder in the hideaway
+leads back up to the cabin in the graveyard, where the twisted
+creature was first encountered. When combined with the information
+in Trevor's letters, and recently discovered research notes, a
+sick suspicion may begin to grow in the player's mind.
+
+The last door in the mansion leads down a long flight of stairs,
+to the crypt of Jessica Trevor. It is guarded by the twisted
+creature from the cabin, which has somehow reached this area
+by unknown means. The character, assisted by either Barry or
+Wesker, manages to open Jessica Trevor's sarcophagus, and the
+creature jumps into a nearby pit after taking Jessica's skull.
+A letter in the coffin removes all doubt; the twisted creature
+is, in fact, Lisa Trevor, who was experimented on by Umbrella's
+scientists. She has spent the last thirty years in agonizing
+pain, and has been driven quite insane.
+
+The character proceeds on alone. Trevor's crypt leads directly
+to an ornate fountain, which conceals the entrance to the real
+laboratories, deep underneath the Spencer estate. The character
+descends, into the dank corridors of the laboratory, where more
+surprises await.
+
+Not only has Wesker betrayed the STARS, but he has been complicit
+in this mansion's experiments all along. A slideshow in the lab's
+audiovisual room identifies Wesker, wearing his characteristic
+sunglasses, as one of the leaders of this group. He has been
+instructed by his supervisors at the megacorporation Umbrella
+to sacrifice the STARS, in the name of covering up the accident
+and generating combat data on Umbrella's monsters. As if that
+wasn't enough, the team member that Wesker claimed to be
+"separated" from was instead taken prisoner. He or she is
+inside a dark cell in the laboratory, awaiting release.
+
+Wesker himself is preparing for his last and greatest betrayal,
+deep in the laboratory's storage room. He explains himself to
+the character, almost as if he needs someone to tell his
+secrets to. He plans to doublecross Umbrella by blowing up
+the mansion and all its secrets; the betrayal of STARS was
+simply to cover his tracks as well as the company's. To this
+end, he's blackmailed Barry Burton to help him destroy evidence.
+
+As the horrified character watches, Wesker unleashes the
+most powerful bioweapon in Umbrella's arsenal: the Tyrant,
+a humanoid creature built to kill. Unfortunately for Wesker,
+it isn't very good at taking orders, and its first act is
+to turn on the man who thought he was its master. Its second
+is to come after the player's character, who will discover
+that for all the Tyrant's power, it has a glass jaw.
+
+The character must now run for his life. The laboratory's
+self-destruct sequence has been activated (either by Wesker
+or by a well-meaning Rebecca), and very little time remains
+before the entire mansion is blown sky-high. Rescuing the
+captive STARS member in the back room, the character runs
+out to the mansion's helipad and signals Brad "Chickenheart"
+Vickers. Brad has been circling above the forest all this
+time, awaiting word from one of his teammates, and upon seeing
+the character's signal flare, he begins to descend to the
+helipad.
+
+Of course, nothing is ever that easy. With two minutes to
+go until the mansion's destruction, the Tyrant bursts from
+the rooftop. It has shaken off the sluggishness from its
+months of storage, and now moves with the controlled strength
+and speed of a freight train. Even with help from Barry or
+Rebecca, the character is barely able to stay alive against
+the Tyrant, let alone kill it.
+
+With seconds to go before detonation, Brad Vickers drops a
+rocket launcher onto the helipad. The Tyrant is seemingly
+immune to bullets, but an anti-tank rocket is quite another
+matter.
+
+With the Tyrant a smoking heap on the helipad, the surviving
+STARS climb onto Brad's helicopter, which quickly lifts off.
+As it does, the Spencer estate explodes into a pillar of
+flame. The STARS are left battered and bloodied, but alive...
+with a story to tell that no one will believe.
+
+====================================================
+ii. Story Differences Between Chris and Jill's Games
+====================================================
+
+1. At various points in Jill's game, you may run into Barry,
+who's acting very suspicious. You'll find him in the aquarium
+room on the second floor at one point, where he's destroying
+evidence (he'll already have torn the first couple of pages
+off of the Researcher's Will file). You can also overhear a
+conversation between him and Wesker outside Dormitory 002.
+To trigger the encounters with Barry, return to the dining
+room without fighting the zombie that's eating Kenneth's body.
+Barry will take care of it for you.
+
+2. If Chris is poisoned by the giant snake, you'll take control
+of Rebecca, who'll have to go get Chris some serum from the
+infirmary. If Jill's poisoned, she'll pass out in the hall
+outside the attic, and wakes up in the infirmary at full health.
+
+3. Jill can manufacture V-Jolt by herself, then use it in the
+boardroom in the Aqua Ring to weaken Plant-42. When she enters
+that room, Plant-42 will grab her, and Barry will come in with
+a flamethrower to rescue Jill. Chris has to fight the plant on
+his own, unless Richard died in the mansion attic; if that's
+the case, Rebecca will have to save Chris by making V-Jolt.
+
+4. In the final encounter with Lisa Trevor, Jill will find
+Barry standing over Jessica's coffin. When Barry tries to
+point his gun at her, Jill takes it away from him and points
+it at him. Then, when Lisa arrives, the player can choose
+whether or not to give Barry his gun back. If you do, Barry
+will help out in the ensuing fight with Lisa; if you don't,
+Lisa will kill Barry. In Chris's scenario, you'll run into
+Wesker in Jessica's tomb, who'll aid you against Lisa. If
+Wesker gets knocked off of the platform, he'll reappear in
+the lab at the end of the game, offering no explanations.
+
+5. If your supporting character is still alive, it will change
+the final encounter with Wesker:
+    -- Chris, with Rebecca: inside the lab, Wesker will
+       explain his motivations and shoot Rebecca in the
+       chest. While Wesker's standing in front of the
+       Tyrant's tank, it will wake up and gut him like a trout,
+       stabbing right through the side of its containment
+       tank. After Chris defeats the Tyrant, he'll find
+       that Rebecca's still alive, thanks to her bulletproof
+       vest, and that Wesker's definitely dead. Upon leaving
+       the laboratory, Rebecca will set the charges in the
+       power room, which will trigger an emergency evacuation
+       procedure and unlock all the doors in the lab. You
+       may then rescue Jill and get to the helipad.
+   -- Chris, alone: Wesker will be slain by the Tyrant, and
+      will drop the Master Key. You can use that key to open
+      Jill's cell door and to get to the helipad.
+   -- Jill, with Barry: Barry will hold Jill at gunpoint
+      when she enters the lab. Wesker will gloat to Jill
+      about his plan, but in so doing, will let slip that
+      the threat he's been holding against Barry was a
+      bluff; his family isn't in any danger. Barry will
+      unexpectedly overhear that and knock Wesker
+      unconscious. He doesn't do that in time to prevent
+      Wesker from draining the fluid from the Tyrant's
+      tank, however, and the Tyrant will escape shortly
+      thereafter. It knocks Barry unconscious before it
+      turns on Jill. After the fight, you'll find that
+      Barry's okay, but that Wesker's slipped away in
+      the confusion. You soon find out that he's set the
+      charges in the power room, as with Rebecca, above.
+   -- Jill, alone: almost identical to Chris's scenario
+      without Rebecca, as above.
+
+==============================================================
+iii. Differences Between RESIDENT EVIL and RESIDENT EVIL "2.0"
+==============================================================
+
+1. If you're a veteran player of the first game, the remake is
+expressly designed to mess with your head. In the event that
+a puzzle or ambush has carried over to the remake from the
+first game, there's usually a different solution, another
+wrinkle to the puzzle, or monsters come from completely
+unexpected directions. (Zombies and Hunters can open doors.)
+
+2. Richard Aiken would die no matter what you did in the
+first game, regardless of how quickly you brought him the
+serum. In the remake, saving Richard will let him survive
+until you fight the giant snake (Jill's game) or enter the
+Aqua Ring (Chris's game), whereupon something large will
+eat him. If you save him, he'll give you his radio, and
+you'll be able to take his combat shotgun after his death.
+Richard's death also affects what options you have when
+you deal with Plant-42.
+
+3. The Chimera that haunt the power room now look a great
+deal like RE3's drain deimos.
+
+4. As mentioned above, zombies that are "killed" without
+being decapitated must be incinerated. Otherwise, they'll
+eventually rise again as steam-breathing, clawed Crimson
+Heads.
+
+5. It is *much* easier to get your support character killed
+in the remake.
+
+6. Naturally, the biggest addition to the remake is that of
+the unfortunate Lisa Trevor, as mentioned above. More about
+Lisa can be found by reading Wesker's Report 2, as detailed
+below.
+
+7. If Wesker "dies" in the encounter with the Tyrant, you
+can search his body to find a file written by William
+Birkin. In it, he writes about how the G-Virus is almost
+finished, and how he wishes he could rub his success in
+Alexia Ashford's face.
+
+8. If your support character manages to make it to the end
+of the game, he'll help you in the final battle with the
+Tyrant, on the helipad. During this time, if the Tyrant
+manages to knock your character down, it'll leave you
+alone in favor of grabbing your support character and
+lifting him into the air by his neck (I use the male pronoun
+so I don't have to type "he or she" a lot). Unless you
+shoot the Tyrant at this point, it'll kill your support
+character, which will cue the fifth possible ending.
+
+9. In the original game's best ending for Jill, you could
+return to the power room after the self-destruct sequence,
+and you'd find a Chimera standing over Wesker's dead body.
+Such is no longer the case with the remake; the power room
+is empty.
+
+10. The mansion wardrobe is now hidden in the darkened
+closet in the east statue room. Check the large painting
+against the back wall. It's actually a door.
+
+11. Chris meets Rebecca for the first time when he enters
+the mansion attic with the Shield Key; she is no longer
+lurking evilly in the infirmary with a can of bug spray.
+In REv.2, this is the first time Chris and Rebecca meet,
+period, since as we learn in RE0, the Raccoon Forest
+investigation is Rebecca's first case as a member of STARS.
+
+12. In the helipad encounter, the Tyrant can, and will,
+bat an incoming rocket out of the way with its claw.
+
+===================
+2iv. Random Musings
+===================
+
+1. I have to admit, I'm disappointed with the remake. They
+kept some of the stupid things, like Chris's low item
+capacity, and didn't address the confusion about Rebecca's
+survival.
+
+2. The Lisa Trevor subplot appears, at first glance, to be
+almost completely meaningless; it's just there to add another
+Tyrant-esque monster. To understand her true significance, it
+helps to hunt down a translation of Wesker's Report 2, which
+is discussed further below.
+
+3. The existence of Crimson Heads in RE lends additional
+credence to the statement, in Survivor, that Lickers are
+mutated zombies. If a zombie can mutate into a faster
+form that's sporting vicious claws, it's entirely feasible
+for it to mutate further, into the still-vaguely-humanoid
+Licker.
+
+4. Cinematic references in RE:
+    -- the deer head in the study is from the 1990 remake of
+       _Night of the Living Dead_. It might've been in the
+       original, but if it was, I didn't see it.
+    -- I may be on crack, but the end sequence of the game,
+       with the Tyrant bursting from the rooftop, seems to
+       be taken almost frame-for-frame from a 1990 Japanese
+       sf film called _Zeram_.
+    -- alert reader Jay Yencich writes to say that the
+       opening title-screen sequence of RE is much akin to
+       the death and zombification of Roger in _Dawn of
+       the Dead_.
+    -- according to Dan's official RE strategy guide, Chris
+       and Jill's alternate costumes are from _The Mexican_
+       and _Terminator 2: Judgement Day_, respectively. Chris
+       is dressing like the Brad Pitt character in the former
+       film, while Jill is dressing like Linda Hamilton in
+       the latter.
+
+============================================================
+3. Things To Do In Raccoon When You're Dead: RESIDENT EVIL 2
+============================================================
+
+=====================
+3i. The Plot Thickens
+=====================
+
+The original Resident Evil is a relatively straightforward
+horror game. Its sequels have been entirely different,
+mixing horror with equal parts of action, mystery, and
+conspiracy. Each RE game since the second has had an
+intricate series of subplots, as well as at least a few
+independent mysteries to solve. Furthermore, each game
+has left a lot of questions unanswered at the end. In other
+words, things get a lot more complicated from here on out.
+
+One of the stranger wrinkles in the RE storyline is the
+weird way that RE2 and RE3 relate to each other. I have the
+two games listed separately here for the sake of maintaining
+some kind of order, but in actuality, half of RE3 takes
+place before RE2, and the other half takes place well
+afterwards. This is noted in RE3's plot summary, below.
+
+==================================
+3ii. Events Between RE and RE2/RE3
+==================================
+
+After the "mansion incident" in July of 1998, Chris Redfield
+attempts to start an official police investigation of
+Umbrella, but Chief Brian Irons sabotages it. Suspecting that
+Irons might be on the take, Chris requests an investigation
+of Irons's background and a federal probe into Umbrella.
+With typical government efficiency, the FBI doesn't respond
+to Chris's requests until the night of September 29th, when
+Claire gets their fax in Chris's old office.
+
+Chris begins investigating Umbrella alone. He manages to
+uncover a great deal about Umbrella's operations inside
+Raccoon City, including the work on the G-Virus and the
+location of the labs underneath the city. He's apparently so
+intent upon his work that, to his sister Claire, it looks
+as though he's dropped off of the face of the Earth.
+
+In August of 1998, Chris finally tells Jill Valentine about
+what he's been doing. In mid-September, without telling Claire,
+he and Barry Burton leave for Europe to further investigate
+Umbrella. Jill elects to stay in Raccoon City for a while,
+intending to investigate Umbrella's underground labs.
+
+At some point, Jill resigns from the S.T.A.R.S. and the Raccoon
+City police department for unknown reasons. (We can make all
+sorts of guesses, though, most of which involve Brian Irons.)
+
+====================================================
+3iii. A Summary of the Basic Plot of RESIDENT EVIL 2
+by Dan Birlew
+====================================================
+
+On the night of September 29th, 1998, Claire Redfield
+motorbikes into Raccoon City. She is a college student, and
+is searching for clues in the disappearance of her older
+brother Chris. On the other side of town, Raccoon Police
+Department recruit Leon Kennedy is making his way to the
+Precinct for his first day of duty. Stopping to investigate
+a mysterious corpse in the middle of the street, he fails to
+notice the figures closing in behind him. Claire pulls up to
+a diner for a late meal, but finds that she is intended to
+be the next course.
+
+Both characters are surrounded by zombies. They collide in
+the alley behind the diner, where Leon saves Claire. Finding
+an abandoned police cruiser, they make a run for it.
+
+In the car they get acquainted, while Claire finds a gun in
+the glove compartment. But they are not alone. In an amazing
+sequence, a zombie leaps out of the backseat and struggles with
+Leon. The rookie loses control of the vehicle and they crash into
+a wall. The zombie flies through the windshield. Before they can
+catch a breath, a dying trucker bears down on them in a massive
+gas tanker. The two leap out of the wreck as the tanker collides
+and flips over, exploding in a huge ball of flame. The characters
+are separated by the blaze, and each must make their individual
+way through the game.
+
+This is the point at which the player begins, choosing which
+character to assume based on which of the 2 game disks are
+loaded. When the player finishes with one character's adventure,
+the save file enables the player to approach the same game from
+the other character's perspective, in a reverse game. Thus, the
+scenarios progress as either Claire A & Leon B, or Leon A &
+Claire B. There are differences in each game, and there are
+differences in each combination. In addition, whatever the
+first character does in their scenario affects the second
+character's game.
+
+For the purpose of brevity, this synopsis will follow the
+plot as it occurs in the Claire A & Leon B combination, by
+far the more structurally sound of the two scenario
+combinations.
+
+Claire begins on the Raccoon City streets, now overrun by the
+zombies who have come out due to the crash. By baiting them
+in a certain direction, she figures out that she can create
+openings in their ranks and slip past them. She ducks into a
+gun shop, hoping to find ammo for her weapon.
+
+Inside, the clerk points a crossbow at her. After she
+convinces him that she's not a zombie, he locks his door.
+With a slightly sexist attitude, he admits he doesn't know
+what is happening in Raccoon City or where the zombies have
+come from. Claire finds some ammunition for her gun and
+starts to move on just as the undead lay siege to the store.
+Crashing through the display window, they tackle the shop's
+employee and chew him to pieces on the floor. Unable to save
+the man, Claire's only hope is to run through the back door.
+(In the N64 RE2 'port, we find out this man's name is Robert
+Kendo, and he's the owner of the gun shop.)
+
+Weaving her way through the slow moving ghouls, she makes
+her way to the police station. S.T.A.R.S. helicopter pilot Brad
+Vickers is encountered near the precinct, recently deceased
+and come back by diabolic means. Executing this former hero,
+Claire enters the Raccoon Police Department. She finds that
+the place has been electronically locked and barricaded
+against an apparent siege by the undead.
+
+Leon finds himself directly behind the Police Department. He
+has a shorter run than Claire, but must find the key to get
+into the maintenance shed at the back of the Precinct. All
+the while, flesh eaters converge on him. He gets lucky and
+finds a back stairway to the roof of the station, but he
+witnesses a rescue attempt fail.
+
+A helicopter appears overhead. There is a lone precinct
+survivor on the roof, signaling to it. Zombies attack the
+unfortunate wretch. He sprays random machine gun fire
+everywhere, accidentally killing the helicopter's pilot.
+The helicopter crashes into the station and explodes into
+flames. There's a water tank near the wreckage that can be
+used to put out the fire, but Leon will need a valve handle.
+
+Claire finds a cop lying on the floor of an office, seriously
+wounded and dying. (In RE3, we learn that the cop's name is
+Marvin Branagh.) In a brief speech, he tells Claire that her
+brother Chris, and the other S.T.A.R.S., tried to get them to
+believe that they'd encountered zombies in the woods outside
+Raccoon, but no one would listen to them. He gives her the
+card key that will open the electronic locks in the Precinct.
+He tells her to rescue the other survivors in the police
+station and get out. When she starts to protest, the
+half-disemboweled officer sticks a gun in her face and
+rudely orders her out. He locks the door behind her. Claire
+accesses the computer in the main hall, unlocks the doors,
+and continues on.
+
+In the zombie-infested office on the first floor, Leon finds
+the necessary tool to put out the fire. When he opens the
+water tank and douses the blaze, another helicopter appears
+overhead. This one is towing a rack of huge cylinders. One
+of them detaches and drops. The bomb-like container blows
+apart, revealing a huge humanoid creature. The giant crashes
+through the roof of the precinct. The trenchcoated menace
+heads right for Leon, who empties his weapon into the
+stalking monstrosity before it falls. When Leon leaves the
+room, the sinister intruder rises... and follows. Little
+does Leon know, but anyone who had survived the mansion
+incident might recognize this creature as a new and improved
+version of the Tyrant.
+
+At the same time on different sides of the station, Claire
+and Leon both encounter a new and deadly lifeform.
+Amphibious and spider-like, these creatures look like
+crawling people turned inside out. They lash out with claws
+and an incredibly long and sharp tongue. Police documents
+refer to these creatures as "lickers," and no one knows
+where they came from.
+
+On the second floor of the west wing of the precinct house,
+Claire finds the S.T.A.R.S. office and the log kept by her big
+brother Chris. This document explains that he and the other
+S.T.A.R.S. members had no luck investigating the involvement
+of the Umbrella Corporation in the mansion lab incident. They
+departed for Europe to search for Umbrella's main
+headquarters. Suddenly a fax comes in, addressed to Chris. A
+federal investigation on Umbrella has yielded naught for
+clues, but an inquiry posted to the internal affairs
+division by Chris regarding Raccoon Police Chief Brian Irons
+has been answered. By his record, the Chief would appear to
+be a deranged genius and former rapist.
+
+Back outside the office, Claire catches sight of a young
+girl being pursued by a zombie. While Claire dispatches this
+thing, the fleeing little girl bumps into Leon. Frightened
+out of her mind, she ducks into a small opening in a broken
+door before he can stop her. Leon and Claire reunite. Leon
+admits that this place is dangerous, and Claire suggests
+that they split up and look for the girl and a safe exit. The
+rookie cop gives her a radio so they can keep in contact.
+
+Leon finds the two parts of a police operation report,
+detailing the events of the past few days. The courageous
+citizens of Raccoon made a grim standoff in the precinct
+house against the flesh-eating undead. But some escaped the
+precinct through the exit to the basement in the east wing.
+He also finds a note addressed to him from the RPD, and the
+party favors for a surprise welcome party they were planning
+to throw for him. It seems his party has been cancelled.
+
+He heads for the basement while Claire is startled by a
+woman's screaming on the second floor. In order to save
+whoever's in trouble, she needs a bomb to clear the helicopter
+wreckage. Nearby, she finds the key to unlock the door
+downstairs and save the wounded cop. When she returns to
+him, he has been fighting off zombies unsuccessfully. Claire
+now learns why he rudely forced her to leave him. He
+rises, transforms into a zombie, and attacks her. Sadly,
+Claire incinerates him. She finds a detonator and a chunk
+of plastique, and heads back upstairs.
+
+In the basement, Leon is fired upon by a beautiful woman
+named Ada Wong. She's looking for a reporter named Ben
+Bertolucci in one of the basement jail cells. After Leon
+graciously helps her clear some wreckage out of the way, she
+ditches him. He tries to catch up to her, but instead finds
+the incarcerated reporter in one of the jail cells. Ada
+catches up to them now, but where she went first is a
+mystery. Questioning Ben, Ada reveals that she's looking for
+her boyfriend John, who works out of an Umbrella branch
+office in Chicago. He disappeared in this area some months
+ago. Ben refuses to tell her what he knows about what's
+happening in Raccoon City. Just then, a monstrous roar fills
+the air. Ben has locked himself in his cell for protection
+and refuses to leave, but directs the others how to get out
+of the Precinct. Ada takes off, and Leon runs after her.
+
+Claire detonates the plastique near the helicopter wreckage
+upstairs. She finds an office full of stuffed trophy
+animals... and a more gruesome trophy on the desk. The
+Mayor's daughter lies sprawled out, a medium-sized wound at
+her abdomen. Behind the desk sits Police Chief Brian Irons.
+He has completely lost his mind. Although the girl's wound
+looks like a bullet hole, he claims that she was attacked by
+a zombie, and that she will resurrect within an hour. The
+only way to stop the zombification is to decapitate the
+victim or put a bullet through the brain. He admits that
+taxidermy used to be his hobby (which links him to the
+Umbrella mansion, because of all the stuffed trophies found
+by the S.T.A.R.S. team there). He asks to be left alone,
+and Claire is only too willing to get away from him.
+
+In the room next to the Chief's office, Claire hears the quick
+footsteps of someone fleeing from her. She finds the little
+girl crouched in the dark. She radios Leon to let him know
+that she cleared the helicopter wreckage and found the
+little girl. The little girl says her name is Sherry Birkin,
+and her parents work at the Umbrella plant. Her mother
+called her during the T-virus outbreak and instructed her to
+go to the police station for safety. She has heard her
+father's voice in the station, but can't find him. Also, a
+creature is stalking her. A mighty roar emanates from
+nearby. Sherry runs off, and Claire tries to pursue her. In
+the office, the Chief and the dead woman's body have
+disappeared. However, he has left behind his diary detailing
+the extents of his depravity. Thanks to Irons, there are
+no survivors of the RPD's siege besides himself.
+
+Leon has found the sewer system that runs under the city. In
+the processing plant, he comes across what appears to be the
+exit door but doesn't have all the necessary keys to get
+through. Going back, he finds Ada also investigating the
+sewage plant. She has found an open vent shaft that she can
+get through with a boost. She hits the ground on the other
+side, startling the same little girl Leon and Claire
+encountered previously. As she runs off, Ada notices that
+the little girl dropped her pendant. Amused, she decides to
+keep it in case they meet again. After a quick search, she
+finds a precinct key and returns to where Leon waits. She
+throws the key back through the vent, but she can't get back
+herself because the vent is too high. Once again, Ada runs
+off on her own against Leon's orders.
+
+Leon returns to the precinct house, searching for the last
+few keys he needs to get out. While looking for clues on the
+first floor, the horrible Tyrant bursts through the wall, and
+only falls after Leon empties his shotgun into it. Leon races
+upstairs and finds more items he needs. The Tyrant follows.
+Again, Leon is forced to shoot it out with this brute. The
+thing is finally subdued, even if only for the moment.
+
+After gathering several keys of her own, Claire finally
+catches up to Sherry in the Chief's office. Behind the desk
+is a secret elevator, and Claire makes Sherry stay behind
+while she goes to investigate. The elevator lowers her into some
+kind of custom dungeon beneath the precinct, lit by flickering
+torches. As Claire cautiously creeps down the hall, she hears
+the Chief scream.
+
+In his private chamber, Chief Irons is backed into a corner
+by a hideous mutating creature. Something shoots out of this
+thing's hand and down Irons's throat.
+
+In a hideous torture room, Claire finds the Chief, ranting,
+raving, and armed. He explains to Claire that his town has
+been torn apart by the experimental monsters of the Umbrella
+corporation. He tells her that a man named William Birkin is
+to blame. Claire recognizes the name. Irons states that
+Sherry is Birkin's daughter. Completely paranoid, the Chief
+is ready to kill Claire. Before he can execute her, something
+bursts through his upper torso from within. A small creature
+leaps out of Irons and falls down an open chute nearby. Claire
+follows this thing, only to see it quickly grow into some kind
+of horrible infant. The thing attacks her, but she destroys it
+fairly easily. She runs back to the second floor to get Sherry;
+their escape route is now clear.
+
+Leon makes his way to the precinct's clock tower where he
+finds the final piece in the Chief's bizarre architectural
+puzzle. Now able to exit the police station, he finds an
+open dust chute and slides back down to the basement. Upon
+landing, he hears Ben screaming in the jail cell nearby.
+Leon runs to the reporter's aid, but is too late. The same
+thing that impregnated Irons has gutted Ben. The dying
+reporter gives Leon a document which entangles Raccoon
+City's chief of police in a government conspiracy. In terrible
+pain, Ben dies. Ada finally catches up to Leon, and they
+read this document together. It is a series of letters from
+William Birkin to the police chief, describing in detail how
+Umbrella was bribing the chief to keep secret their actions
+in the town. Birkin had learned that Umbrella sent spies to
+steal his research. Ada then rushes off, explaining only
+that she has to find John. She thinks he's in the chemical
+plant. Leon is prevented from following by another call from
+Claire. She has found a different exit from the precinct and
+will join him in the sewers.
+
+Leon runs after Ada, but in the sewage plant, he is
+confronted by the mutating Dr. Birkin. The scientist wrenches
+a steel pipe off of the wall and attacks Leon with it. Leon
+empties a full clip of Magnum bullets into the scientist,
+who doesn't fall. Instead, Birkin dives into the muck of
+the sewers.
+
+In the sewer beneath the station, Sherry is separated from
+Claire when a drainage chute opens and sucks her into a
+lower level. Sherry runs for safety, finding herself in a
+garbage room. Just when she finds a nice shiny trinket, the
+floor springs open and dumps her into the garbage hold.
+Knocked unconscious, she fails to see a monster slouch out
+of the darkness. Birkin has found his daughter at last.
+
+Ada abruptly rejoins Leon, and he admonishes her for
+running off. She agrees to stick with him, for now.
+
+Searching everywhere to find Sherry, Claire runs into her
+mother, Annette. The suspicious woman worked with her
+husband William on a bioweapon called the G-Virus, a
+mutagenic substance that turns whatever it infects into
+a giant monster. Birkin injected himself with the virus when
+armed Umbrella agents seized the virus from him. When Birkin
+was accidentally shot, he used the virus to keep himself
+alive. The G-Virus rejuvenates dead cells, but it also
+mutates them. He became a monster, a "G-Type," and hunted
+his killers down. The T-Virus leaked from his laboratory
+after the attack, and was carried into Raccoon City by the
+rats in the sewers.
+
+The G-Virus seeks to spread by finding other host bodies.
+When Annette learns that Sherry is in the chemical plant,
+she becomes upset. The virus can only be spread through a
+complimentary genetic host. Birkin will try to find and
+impregnate Sherry with a virus embryo. From somewhere close,
+they hear the little girl scream. Claire sends Annette
+searching in the opposite direction and continues on.
+
+Leon and Ada search the chemical plant for weapons and
+ammunition. They bump into the frantic Annette. Ada chases
+the armed scientist. Annette turns and fires on her pursuer,
+but Leon jumps in front of Ada and takes the bullet. While
+Leon lies unconscious and seriously wounded, Ada chooses to
+run after Annette.
+
+Claire finds the garbage dump and spots Sherry, lying
+unconscious on a heap of rubble. She calls out to the little
+girl, but a gigantic alligator hears her and attacks. Claire
+runs back down the corridor and finds a switch to release a
+gas canister. When the alligator grabs the canister in its
+huge maw, Claire shoots the cylinder. The resulting
+explosion flings chunks of the sewer beast's head
+everywhere. Moving to Sherry, Claire spots some sort of red
+worm slithering away; it is one of William's embryos. Stirring,
+Sherry complains of stomach pains. Claire assures her that
+everything will be all right. She leads Sherry out of the
+spider-infested sewers, past the bodies of several soldiers
+wearing gas masks...
+
+Ada hounds the scientist through the sewers to the central
+control area. Annette blasts Ada's gun out of her hand, an
+adept shot for a scientist. She advances on Ada,
+interrogating her. Learning that Ada is looking for her
+boyfriend John, Annette realizes that she's talking about
+one of the researchers at the mansion lab. She knows that
+John turned into a zombie, and then died when the lab was
+destroyed. She makes it seem that William was working at the
+mansion as well, and that he developed the G-Virus there.
+Annette starts to explain the new G-Virus to Ada when she
+spots her daughter's pendant around the woman's neck. In a
+suddenly aggressive manner, she demands to have it. A cat
+fight ensues, ending with Ada punching Annette and sending
+her flying over the rail. Inside Sherry's pendant, Ada finds
+a secret compartment containing a sample of the G-Virus.
+
+Claire and Sherry discover an underground tramcar. After
+powering it up, they ride for some distance to an unknown dock.
+Apparently they aren't out of danger yet, as the grunts of
+the undead are heard nearby. Claire blasts through corridors
+full of zombies. They arrive at a train turntable platform.
+Inside the engine car, Claire finds the key to the control
+panel outside. An alarm sounds upon activation, and the
+girls run back inside the car. The entire platform
+disengages and drops. It seems they have found some sort of
+large secret elevator. Sherry is overcome by her stomach
+pains and passes out. Her monstrous father shows up,
+threatening to smash the traincar to pieces. Claire runs
+outside and ducks a steel rod flung at her by William. The
+screaming madman mutates, growing a new head and a
+vicious-looking claw. Claire quickly pelts the thing with
+enough flame grenades to burn down a forest. When the G-Type
+is finally face down in a pool of its own blood, Claire runs
+back into the train car. The elevator finishes its descent,
+and she carries the unconscious girl into an Umbrella
+loading dock. It would seem she has discovered a large
+underground laboratory.
+
+A slightly delirious Leon awakens and hunts for Ada. He
+finds her in the subterranean garbage dump. After bandaging
+his bullet wound, she lets him know that John is dead. She
+doesn't seem terribly upset though, and insists they get out
+of the sewage plant. At the tram platform, Leon recalls the
+car. They board and head for the train elevator. On route,
+they are attacked by the G-Type, which isn't dead yet. It
+stabs one gigantic claw through the ceiling over and over,
+seeking the passengers. Ada fires at the hand, blowing off
+one of the fingers. The monster retreats. The two slip out
+of the tram and make for the train platform.
+
+Claire sets Sherry on a cot in the security office. She
+gives Sherry her vest to keep her warm. The girl stirs, and
+lets Claire know that she trusts her and depends on her.
+Claire assures her that she will find something to cure her.
+
+Leon has to recall the train elevator platform. Leaving Ada
+in the control room, he descends to a secret security room
+and there finds the necessary key. When he flips on the
+surveillance camera aimed at the door he just entered, he
+sees Umbrella's ugliest and most fearsome agent hot on his
+trail. After one more battle with this 'Mr. X', Leon returns
+to the upper control room to find Ada unharmed. He recalls
+the elevator from there and they descend to the lab. But
+their moment alone is not to be enjoyed. William is back,
+and he exacts a terrible revenge against Ada. His claw
+shoots through the wall, stabbing her in the back. She
+passes out, and Leon goes out to fight William. The
+G-Virulent has grown two new arms and doubled in size. Leon
+pumps the thing full of shotgun blasts before it does any
+good. Bleeding heavily, William leaps onto the elevator
+shaft wall and leaves Leon alone.
+
+In the lab, Claire figures out that the main power conduit
+has been shut down. She finds a fuse for power connection,
+and then she is free to explore the lab. Umbrella has
+conducted further experiments with plant vegetation, as a
+titanic vine grows up from the bottom of one shaft. Its
+offspring slide along the ground, spitting acid at her. Worse,
+there is an even stronger variety of the "lickers" here than
+those encountered before.
+
+The elevator platform's engine overheats, and it stops on an
+upper floor of the lab. Leon leaves the wounded Ada in the
+train car while he goes searching for something to patch her
+wound. He crawls through a vent duct and drops into a
+corridor. The elevator platform restarts and continues to
+descend. Leon has lost Ada again. He finds an emergency
+elevator that will take him down to where Ada has gone, but
+it needs power. He finds a door to a "Power Room," but it is
+locked. In a room with a huge smelting pit, he fights his
+way through the tougher new breed of "lickers." He connects
+the emergency elevator's power and goes up to the lab. In
+what is obviously William Birkin's former experiment room,
+he finds the power room key and goes back to the first level.
+
+Leon runs off the elevator, but not very far. Annette Birkin
+somehow sneaks up on him, brandishing a pistol and a vial
+of blue liquid. She accuses him of being a spy, just like
+the girl he's with. Leon denies that Ada is a spy, and Annette
+laughs. She's done a background check on Ada, and has discovered
+that Ada works for "the Agency." She's an undercover agent,
+using her relationship with John, the researcher, to gather
+information on Umbrella. Annette declares that no one will
+take her husband's virus from her, and prepares to shoot
+Leon. Mr. X suddenly crashes through the ceiling behind Leon.
+Annette flees. Evading the powerful giant, Leon gets to the
+power room and unlocks it. The monster has followed him, and
+now the rookie cop is cornered. Shots ring out. Ada is back,
+blasting away at the unholy behemoth. Unfortunately, she runs
+out of bullets. As she reloads, the Tyrant seizes her and
+lifts her into the air. Ada fires several rounds point blank
+into his face. Temporarily blinded, the giant swings Ada into
+a control panel, denting the panel and probably breaking every
+bone in her body. Blood gushing from his face, Mr. X falls off
+the platform into the smelting pit. Leon runs to Ada's side.
+In her last moments, she tells him that she's fallen in love
+with him. Leon kisses her passionately. Ada goes limp and dies.
+Leon screams in grief. Near Ada's body, Leon finds a master key
+that fell out of Ada's pocket when Mr. X dropped her.
+
+After Claire finds a keycard in the research room, Annette
+pops up again. She's still armed and dangerous, and somehow
+knows that Claire tried to kill William. After Claire tells
+Annette that Sherry has been infected by the G-Type, the
+monster growls nearby. Excited, Annette runs after him.
+William crashes out of the ceiling, still alive. More
+monster than human now, he cuts his own wife down with one
+terrible claw swipe. When Claire rounds the corner he leaps
+back up into the ceiling. A dying Annette begs Claire to
+save her daughter, giving her detailed instructions on how
+to create an antidote to the G-Virus, using materials that
+can be found somewhere in the lab.
+
+The damaged central unit in the power room is wracked by
+explosions. Lightning bolts course up and down the huge
+column. A computer voice comes online to announce that the
+self-destruct sequence has been activated, and all personnel
+should evacuate to the cargo train platform at the lowest
+floor of the lab.
+
+At the edge of the iron smelting pit, a gigantic clawed hand
+emerges from the red hot pool. Mr. X isn't down for good
+yet, and he may be more dangerous than ever.
+
+Claire runs out to the monitor room. A motion detector
+alerts her that someone else is in the lab. Leon is
+onscreen, emerging from the power room. Claire tells him to
+go back to the security office to rescue Sherry while she
+creates the G-virus antidote.
+
+Leon rides the elevator back down into the lab, and retrieves
+the barely conscious girl. He uses the master key in the
+elevator to take the emergency access tube and reach the
+lab's escape route, a high-speed train.
+
+Following the instructions for the G-Virus vaccine, Claire
+rushes to the VAM room on the Lab's fourth floor. Killing
+several last zombies, she finds a vaccine cartridge. Reading
+the instructions for the "Devil" vaccine, she inserts the
+cartridge into the machine and starts it up, allowing the
+base vaccine to be synthesized. She takes the cartridge and
+heads back down to Birkin's lab.
+
+Leon finds the train without power. Laying Sherry on the cot
+inside, he finds a platform key at the back of the train and
+hurries to power up their escape transport.
+
+Claire inserts the base vaccine into the virus antidote
+synthesizer in Birkin's lab, and the machine creates the
+"Devil" automatically. On her way back out, she accesses a
+corridor to the experimental containment room, where she
+finds a huge cargo elevator that will take her down to the
+train platform.
+
+An explosion rocks the entire lab. The computer announces
+that the self-destruct sequence has begun. There are only
+five minutes remaining until total detonation.
+
+Leon races across a bridge over the train to the opposite
+platform. There he unlocks the containment chamber for the
+power plugs for the train's generator. He takes the plugs
+into the next room and inserts them into the power grid. The
+computer warns him that the power will be completely shut
+down momentarily in order to power up the train. In the
+blackout, a huge creature lands behind him. A transformed
+Mr. X is ablaze from his dip in the molten vat. With two
+huge claws, he charges at Leon, knocking the poor guy from
+one end of the room to the other. Suddenly another familiar
+shape appears, at the top of the gantry over them. Still
+wearing Sherry's pendant, Ada drops Leon a rocket launcher.
+The cop recognizes her, but doesn't have a moment to spare.
+He dives for the launcher, scoops it up, and fires at his
+vicious adversary. The creature explodes into a dozen body
+parts. The power comes back on and so do the lights. With
+two minutes until detonation, Leon runs back to the train.
+
+Waiting patiently for the elevator to reach her floor,
+Claire's thoughts are suddenly interrupted as something
+smashes through the ceiling right above her. She backs up
+just in time to avoid being squashed as the G-Type drops
+into the room. She fires several grenades into the genetic
+monstrosity, but all she does is trigger yet another mutation.
+The creature's newest form is doglike, pursuing Claire on
+four legs and slashing at her with a mouthful of jagged
+fangs. Claire runs around the room, playing matador as it
+charges at her. Finally, her weapons have an impact on the
+thing, and it dissolves into a puddle of genetic jelly.
+Claire's elevator arrives, right on cue, and she descends
+to the train loading platform.
+
+Leon finds the train platform crawling with naked zombies.
+Blowing their heads off left and right, he fights his way
+to the switch that opens the gate blocking the train's path,
+and throws it. As the gates open, he returns to the train
+and starts it up. Slowly, the train comes to life.
+
+Claire gets to the platform just as the train is taking off.
+She sees Leon, leaning out an open door, yelling for her to
+get on. She misses that opportunity, but luckily there is
+another open door.
+
+Once she's inside, the Umbrella lab completes its detonation
+sequence in a huge explosion. The train rocks, throwing a
+still-unconscious Sherry to the floor. Claire quickly
+administers the vaccine to her and they wait. Finally, Sherry
+comes to and thanks Claire for saving her. Leon thinks that
+the danger is over, but Claire disagrees. She still has to
+find her brother. Leon moves up into the cockpit. Still upset,
+he says goodbye to Ada.
+
+The train suddenly lurches. Leon moves back into the cabin
+with the girls. No one can figure out what the disturbance
+was. Leon runs toward the back of the train. The train is
+equipped with the same computer system as the lab. The
+computer warns them that a bio-hazardous material has been
+detected on board. The train will detonate in just two
+minutes. The cabin is locked, and Leon is unable to get back
+to Sherry and Claire. He runs to the back of the train to
+search the cargo compartments.
+
+At the rear, giant tentacles smash through the ceiling. Leon
+races back to the front as the G-Type makes an encore
+appearance. Birkin is now nothing more than a gigantic black
+blob, pulling itself forward with four huge tentacles. Leon
+blasts the thing until it loses solidity once more. Then he
+heads back toward the cabin.
+
+===================================================
+3iv. A Summary of the Conclusion of RESIDENT EVIL 2
+===================================================
+
+Leon, standing on the gap between the train's two cars,
+tries to get back inside and discovers the door has locked.
+Claire can't open it from the other side. The biohazard
+is still present, apparently... and still after Sherry.
+
+The G-Type has reformed, and attempts to smash into the
+cabin. Claire, not knowing where Leon is, tells Sherry to
+hide. Sherry opens a vent to the cockpit and crawls through.
+She promises Claire that she can stop the train.
+
+Leon is on top of the engine car, climbing up to the
+cockpit. He looks behind him to see the G-Type's tentacles
+searching for him.
+
+The main body of the G-Type smashes into the cabin. In order
+to hide, Claire climbs down through a hatch and hangs onto
+the bottom of the train while it's still moving.
+
+Leon rips open an escape hatch on the roof of the cockpit.
+Sherry hasn't had so much luck figuring out which button to
+push. Leon spots the emergency stop switch immediately and
+points it out to her. Sherry slams her fist on the button.
+
+The train brakes. Sparks shoot out from behind the wheels as
+the transport slows, dousing Claire in a shower of yellow
+fire. She fights to hold on.
+
+The train stops. The computer warns that the train will
+detonate in thirty seconds. Claire crawls out of her hiding
+spot and with a sigh of relief, spots daylight at the exit
+of the train tunnel. Leon and Sherry are out, looking for
+Claire at the front of the train. She joins them just as the
+G-Type smashes into the cockpit. The heroes dash for the
+mouth of the tunnel, through which they can see the rising
+sun. They've lived to see the morning of September 30th.
+
+The monster's tentacles smash through the cockpit
+windshield, searching for its enemies. The computer counts
+down, 5, 4, 3, 2...
+
+At the last second, the G-Type realizes what's about to happen.
+
+The heroes leap clear of the tunnel.
+
+The transport train detonates quickly car by car, from the
+rear to the front. A vicious geyser of fire blasts out of
+the tunnel.
+
+Claire and Sherry get up, commenting that they both look
+pretty awful. Leon rises, but is already moving off, saying
+they don't have time to waste. Claire wonders why. Leon
+turns and tells them, "Hey, it's up to us to take out Umbrella."
+
+Blackout. Heavy metal theme music and the credits roll.
+
+===========================================================
+3v. Differences Between Claire A/Leon B and Leon A/Claire B
+===========================================================
+
+If you play the game in the opposite order, starting with
+Leon first, the plot is different in several respects:
+
+1. Sherry keeps her pendant throughout the game. This means
+that Ada never obtains the pendant or the G-Virus sample it
+contains. Also, Mr. X wants the G-Virus, so he goes after
+Sherry and Claire and not Leon and Ada.
+
+2. Annette explains William's mutation and the cause of the
+outbreak to Ada, rather than to Claire. Claire finds Annette
+after Ada knocks her over the rail, and Annette falls
+unconscious soon afterwards.
+
+3. Sherry is never impregnated with a G-Type embryo, so
+Claire doesn't have to create a G-Virus antidote. Thus, no
+mention of an antidote is heard.
+
+4. Ben Bertolucci is impregnated by Birkin with a G-Type
+embryo that later bursts out of him. Why Birkin would
+implant him with this is never discussed or explained.
+
+5. Chief Irons is ripped in half by Birkin instead of
+implanted.
+
+6. Annette is fatally wounded when the G-Type pounds on the
+ceiling in the lab and drops a pipe on her head. Leon takes
+the G-Virus sample that she is holding.
+
+7. Leon confronts Ada about being a spy. Annette, barely
+alive, shoots Ada. Leon's love falls over the rail into a
+deep chasm. Enraged, Leon tosses the G-Virus after her.
+
+8. In the game's finales, Leon confronts the G-Type while
+Claire battles Mr. X. Likewise, while escaping from the RPD,
+Claire fights the G-Type embryo and Leon is attacked by
+Dr. Birkin.
+
+9. In Claire's final confrontations with Mr. X, she lures
+him into the smelting pool by tossing Sherry's pendant with
+the G-Virus over the side. On the trainpower platform, Claire
+is aided in her battle against the mutated Mr. X by Ada. This
+provides a larger mystery than the previously explored
+scenario. How did Ada survive such a fall?
+
+10. At the end of the closing movie, it is Claire instead of
+Leon who leads them off, saying, "Chris... I have to find you."
+
+Perhaps the reasons why the previous plot summary focused on
+Claire A/ Leon B are now clear. The focus scenario is much
+richer in plot and explanations. There is not as great a
+leap of faith required to believe that Ada still lives.
+
+Resident Evil 2 is a game much richer in story than its
+predecessor, as is evidenced by the number of pages needed
+to summarize the plot versus that of the original Resident
+Evil. In this chapter of the story, questions are raised.
+Some are answered, while others may never be solved.
+
+==============================
+3vi. The 4th Survivor Minigame
+==============================
+
+A couple of secret games are available to the most capable
+of Resident Evil survivors. With the right timing, skill,
+and stamina, players will receive an A ranking in Resident
+Evil 2. While the secret weapons gained make for a fun
+replay, the most interesting aspect of this ranking is a new
+playable character named "Hunk." The players are asked to
+create a new save file for a minigame called The 4th
+Survivor, the special mission suitable only for this
+seasoned Umbrella agent. The 4th Survivor is a "battle
+game." The player is given a limited amount of ammunition, a
+simple goal, and an enormous army of evil monsters to outwit
+in order to survive. This side-adventure is a true test of a
+player's survival skills.
+
+Whether it is his real name or a codename is uncertain, but
+Hunk is certainly a buff character. Dressed in militaristic
+biohazard containment gear, Hunk's eyes glow with the power
+of his infrared goggles. He runs much faster than the usual
+Resident Evil playable character, even when seriously wounded.
+
+Playing as Hunk requires a good amount of quick thinking and
+strategy on the part of the player. While some strategies
+can be useful every time, the game's enemies sometimes react
+differently to Hunk. This means that The 4th Survivor is
+always a challenge, even to seasoned Resident Evil veterans.
+
+==========================================
+3vii. A Brief Summary of The 4th Survivor
+==========================================
+
+The game begins in a total blackout. Someone is thinking,
+"G-...G-Virus... I have to deliver it to Umbrella..." The
+scene opens at the end of the sewer station, sometime after
+Ada and Leon have made their way to the Lab, but before the
+end of the regular game. A body floats face down in the
+muck, one of the Umbrella infiltrators sent to steal the
+G-Virus from renegade scientist William Birkin. The body
+stirs, shifts, and shows signs of life. Slowly, Hunk regains
+consciousness and rises.
+
+After a quick look around, Hunk pulls out his radio. "Alpha
+team here," he says through his gas mask, "Mission
+accomplished." "Roger," confirms another agent on the radio.
+"We'll meet at the rendezvous point."
+
+A map cuts in. A blinking beacon light shows Hunk that he
+has to get to the second floor roof of the RPD precinct house
+in order to be airlifted out. Hunk takes off up the stairs.
+
+Between this stealthy agent and his goal is a small army of
+the evil dead.  Zombies plague his flight, along with giant
+spiders, killer dogs, and slithering botanical experiments.
+He has only a limited amount of ammunition, and must balance
+his present needs against what he may encounter in the future.
+Luckily he has some herbs to heal himself and treat poisons,
+but it's not a lot. Leon and Claire have already taken all of
+the ammunition from the RPD, so Hunk is stuck with what he has.
+
+The zombies have retaken the Precinct in greater numbers
+than ever before, and have laid several traps for the
+unfortunate Umbrella agent. With some skill, he just barely
+avoids these. But as he nears his goal, the insanity grows.
+Each room bears an ever-greater horde of ghouls, quickly
+converging on the lone survivalist. Shaking off his
+attackers, he clears a pathway out with the barrel of his
+gore-splattered gun.
+
+After several close calls, Hunk tops a staircase to the
+second floor of the RPD. He's halfway home, but the
+nightmare is not yet over. Stomping toward him is a
+monstrosity he has only heard rumors about at his agency. At
+long last, Umbrella has perfected the Tyrant, and they've
+sent it after the G-Virus. Somehow able to sense that Hunk
+possesses a sample, the monster attacks him. Reasoning with
+the beast would be no use, so Hunk evades the slowly
+advancing thing and moves on.
+
+In the final hallway, Hunk meets the Tyrant once again. How
+it got over here so quickly is a real mystery, one Hunk
+doesn't have time to solve. Evading the hulk yet again, the
+agent reaches the roof and lights his last flare to signal
+for a rescue.
+
+The pick-up chopper swoops overhead immediately, as if it
+has only been a block away this entire time. It hovers over
+the precinct for an unbearably long mospotlight is trained on Hunk. Impatiently, he waves for them
+to come down and get him. The helicopter quickly lands and
+airlifts the tired and wounded operative. As the Umbrella
+chopper soars off into the ominous skies, a brief epilogue
+appears on the screen. The agent has delivered the virus to
+Umbrella, promising that this is the end of one nightmare,
+but only the beginning of another.
+
+=======================================
+3viii. Conclusions About the Conclusion
+=======================================
+
+Resident Evil 2 leaves us with the following resolutions:
+
+1. William Birkin's laboratory and research have been
+destroyed.
+
+2. Somehow Umbrella has almost perfected a Tyrant, and has
+more at their disposal. Their research continues elsewhere.
+
+3. Leon, Claire, and Sherry have all survived.
+
+4. Ada may have also survived.
+
+5. Raccoon City is in ruins.
+
+6. Leon has a new mission in life, while Claire continues hers.
+
+7. The rest of the S.T.A.R.S. team may be somewhere in Europe.
+
+===================
+3ix. Random Musings
+===================
+
+1. As pointed out by Dan Birlew in the original version of
+this document, Tofu, another hidden character, is also
+accessible in RE2. However, his scenario is so incredibly
+silly that it doesn't really apply to the storyline. He is,
+after all, a block of bean curd with a knife.
+
+2. Mr. X isn't really very committed to his mission. He seems
+to deliberately put it on hold a couple of times to go after
+the player. This is most obvious in either B scenario, where
+Mr. X leaves the character carrying the G-sample alone in
+order to go down the elevator shaft after the player.
+
+3. So why, exactly, didn't anyone clean out Wesker's desk?
+They thought he was dead.
+
+4. Annette's claim, to Ada, that William Birkin created the
+T-Virus was contested by files in Survivor and CV, which in
+turn has been further complicated by RE0. An attempt to
+unravel the issue of who created the T-Virus is contained
+within the FAQs, below.
+
+5. Note that "The 4th Survivor," as of right now, is the
+only RE minigame to actually figure into the plot.
+
+6. Cinematic references in RE2:
+   -- the Umbrella lab is sort of a mixed bag of film
+      influences; I recognized bits taken from _Day of
+      the Dead_, _Return of the Living Dead Part 2_, and
+      _Return of the Living Dead Part 3_.
+   -- Leon is dressed more like Peter and Roger in _Dawn
+      of the Dead_ than like any other officer in the RPD.
+   -- the giant alligator may be a reference to the undead
+      alligators at the beginning of _Day of the Dead_.
+   -- okay, so I mentioned _Zeram_, right? The big pink
+      quasi-embryo that crawls out of Irons/Ben, as well
+      as the little pink embryos that crawl out of *that*,
+      look a lot like a similar creature, which is spawned
+      by an alien, in _Zeram_.
+
+=======================================================
+4. Nobody Here Gets Out Alive: RESIDENT EVIL 3: NEMESIS
+=======================================================
+
+RE3 has more replay value than any other RE game to date,
+with three endings and plenty of secrets to unlock, as well
+as the incredibly fun (read: addictive and frustrating)
+Mercenaries minigame. It also introduced the Dodge feature,
+which let players duck or roll out of the way of incoming
+attacks with the push of a button, and featured the return
+of RE's Hunters.
+
+=============================
+4i. The Death of Raccoon City
+=============================
+
+Even though the Spencer mansion was destroyed, the threat isn't
+over. There are still monsters loose in the Raccoon Forest, some
+of which actually wander inside the Raccoon City limits. Umbrella's
+experiments continue, despite the loss of their mansion laboratory.
+
+Everything changes in late September of 1998. After Umbrella's
+attack on William Birkin, as shown in RE2, sewer rats carry
+the T-Virus into Raccoon City. While the epidemic is somewhat
+slow to start, it spreads very, very quickly. Soon, zombies
+are roaming the streets. Hundreds, if not thousands, of people
+are killed by both the zombies and the mutants the T-Virus
+creates. Raccoon City is placed under martial law.
+
+The Raccoon police force tries to fight back the zombie invasion,
+but their efforts are sabotaged from within by their police chief,
+Brian Irons. Not only does the steadily-getting-crazier Irons
+somehow prevent the RPD from calling in backup from outside Raccoon,
+but he deliberately spreads confusion among the policemen. As a
+result, the police's first major battle against the zombies, on
+September 27th, is a near-total disaster. The few surviving police
+withdraw to the RPD building and reinforce it to withstand a siege
+by the undead. Over the next three days, the policemen and surviving
+civilians die one by one, cut down by either mutants, zombies, or
+Irons himself. By the time Claire and Leon arrive at the RPD on
+September 30th, the only living cops are Irons and Marvin Branagh.
+
+As the police battle the zombies, two helicopters marked with
+Umbrella logos land in the city and drop off a small number of
+armed men. These men have better equipment than the police,
+but they're a relative handful of men against an army, and soon
+they, too, are running for their lives.
+
+By September 28th, Raccoon City is a ghost town, swarming with
+zombies and monsters. A military blockade surrounds Raccoon City,
+enforcing a quarantine. No help is coming. Thousands are dead.
+
+Somehow, Jill Valentine has managed to survive all of this.
+On the morning of September 28th, alone, she makes her last
+bid for survival: her last escape.
+
+=======================================================
+4iii. A Summary of the Plot of RESIDENT EVIL 3: NEMESIS
+=======================================================
+
+Jill's escape attempt begins with an explosion, as she literally
+blasts her way out of an apartment building. Jill takes shelter
+inside a nearby warehouse and meets another survivor. She tries to
+get him to come with her, but he refuses to leave the warehouse.
+Jill tells him that their only hope is to get out of town, but
+he shuts himself inside a nearby trailer rather than listen.
+
+Jill, alone, leaves the warehouse. The streets are disturbingly
+quiet, with only the occasional zombie wandering around. On
+her way through a back alley, Jill is surprised when a man
+suddenly bursts out of a nearby alleyway, pursued by a mob
+of zombies. She's doubly surprised when she recognizes him
+as Brad Vickers, and runs after him.
+
+After chasing him through the streets and back alleys of
+Raccoon, Jill finds Brad inside a local bar. They briefly
+talk about what's happened to the city. Brad, although he's
+wounded, gets up, telling Jill that "he's comin' for us.
+We're all gonna die! He's after S.T.A.R.S. members. There's
+no escape!" With that enigmatic comment, he leaves the bar.
+
+Outside, Brad's nowhere to be found, so Jill sets out on her
+own. She emerges onto the street in front of the RPD building.
+Both ends of the street are blocked by car crashes, but a nearby
+alleyway leads further uptown. The door to it is locked, but Jill
+left a set of lockpicks in her desk at the RPD, so she heads there.
+
+In front of the RPD building, Brad Vickers finds Jill again.
+He looks like someone dropped a truck on him. He starts to
+say something, but is cut off by the arrival of a new monster,
+a humanoid creature dressed in black. Its face is permanently
+stuck in a lipless grimace. (Roughly two days from now, Leon
+will meet Mr. X, who looks a lot like this thing.) Jill is
+frozen in horror as the creature grabs Brad by the face and
+lifts him into the air. It kills Brad by shoving a tentacle
+through his head, throws away his body, and advances on Jill,
+muttering a single word: ."..S.T.A.R.S...."
+
+Jill's weapons seem to have no effect on the creature. She
+ducks inside the RPD building and slams the doors behind
+her. Although the doors buckle under the creature's attack,
+they don't give. Safe for the moment, Jill searches the
+building for equipment and ammunition. More than half of the
+building has been sealed off by the surviving police, but
+fortunately, she can still get to her old office.
+
+The S.T.A.R.S. office is wrecked. Someone has deliberately
+broken the radio, and the desks have been ransacked. As Jill
+leaves with her lockpicks, the radio plays an incoming
+transmission from a man named Carlos. His unit has been cut
+off and no survivors have been found. He asks for anyone who
+can hear him to respond, but the broken radio can only receive
+transmissions. All Jill can do is wish him luck as she leaves.
+
+The only warning Jill gets before the creature returns is the
+sound of shattering glass. It jumps through a window on the
+first floor of the RPD, toting an oversized cannon in one hand.
+Dodging a barrage of missiles, Jill barely manages to get out
+of the RPD building alive. She picks the lock on the alleyway
+door and keeps running. She seems to have lost the creature.
+
+As Jill makes her way uptown, she finds a dead man wearing
+the Umbrella logo. According to his diary, the dead man was a
+member of the Umbrella Biohazard Countermeasures Service, an
+in-house paramilitary unit maintained by Umbrella. For some
+reason, Umbrella's hired and sent mercenaries into the city.
+
+More dead UBCS soldiers turn up elsewhere. One is lying in
+front of a nearby parking garage, killed by a pack of zombie
+dogs, and another has fallen victim to a new creature, some
+kind of giant, mutated insect. These "drain deimos" attack
+Jill as she passes through a construction site, and they
+don't live long enough to regret it.
+
+Jill steps back onto the street outside the construction
+site, and sees a man run into a restaurant. Jill follows him
+inside, and the man introduces himself as Carlos Oliviera, a
+corporal in the UBCS. His squad was told to rescue Raccoon's
+civilians, but the mission went wrong the moment they landed.
+Before he can continue, the creature stalking Jill appears
+again, entering through the restaurant's back door.
+
+As the creature charges, Jill notices a gas leak in the
+restaurant's kitchen. She and Carlos hide behind the
+restaurant counter. As the creature stops next to the
+leaking pipes, Jill throws a lit oil lamp at it. The ensuing
+explosion nearly kills both Jill and Carlos, but also knocks
+the creature unconscious.
+
+As they leave the restaurant, Jill asks Carlos why his squad
+was sent to Raccoon. Carlos's answer--that they're rescuing
+civilians--isn't good enough for Jill, since the destruction
+of Raccoon is largely Umbrella's fault. Carlos replies that
+he and his fellow mercenaries are just hired hands, and if
+Umbrella had some kind of ulterior motive for sending them
+in, he doesn't know what it is. If Jill wants answers, she's
+asking the wrong guy. The sound of shattering glass inside
+the restaurant cuts him off. Carlos invites Jill to join his
+squad, and runs off. Jill follows him, but the creature makes
+its return appearance, seemingly unhurt.
+
+After losing the creature in Raccoon's shopping district,
+Jill hides inside the offices of the Raccoon Press. Inside,
+she finds another gemstone that matches one she found in
+the RPD building. They turn out to be missing parts to a
+time lock on the gates to Raccoon's city hall. Jill repairs
+the lock and opens the gates.
+
+The city hall is boarded up, and looks as though it's been
+undergoing the same kind of siege as the RPD. Past it is a
+trainyard, where one of Raccoon City's cable cars is parked.
+Inside the cable car, Jill meets a gray-haired man wearing
+the same logos as Carlos. Jill greets him, assuming he's one
+of Carlos's teammates. The man asks her insultingly how she
+managed to survive. Jill replies that she's a S.T.A.R.S.
+member, which seems to satisfy him. He walks into the next
+car, leaving Jill alone with a badly wounded and delirious
+UBCS officer. Jill tends the man's wounds as best she can,
+then follows the grey-haired man.
+
+Carlos is in the next cable car, and renews his invitation
+from earlier. The gray-haired man, who is apparently Carlos's
+commander, says that they can't trust Jill. Before Jill can
+respond, Carlos says that they need her help, as their unit
+has been reduced to Carlos, the gray-haired man, and Lieutenant
+Mikhail, the injured man in the last cable car. His commander,
+Nicholai, grudgingly agrees, and tells them about his plan.
+
+An extraction helicopter is waiting for a signal from their
+team. The designated landing zone is by the St. Michael Clock
+Tower, a Raccoon City landmark. Nicholai intends to use the
+cable car as a mobile shield to get them through Raccoon City,
+although the car will require repairs first. Carlos and Jill
+agree to this plan, and the three of them split up to look for
+parts for the cable car.
+
+Jill heads to a nearby gas station first, to get motor oil.
+Carlos enters the station behind her, but a mob of zombies
+sniffs them out. As Carlos keeps watch, Jill finds a locked
+cabinet with oil in it. Carlos steps outside to fight off the
+zombies. Jill hurriedly opens the lock and grabs the oil.
+Before she can get outside, a live wire falls into a pool of
+motor oil in the gas station's garage, starting a fire. Jill
+sprints out the front door as the place burns down around her.
+
+Outside, Jill finds Carlos slumped against the wall, next to
+a pile of dead zombies. Jill briefly thinks he's dead, but
+Carlos shakily gets to his feet. The fire suddenly spreads
+outside, to the pools of gasoline leaking from wrecked cars,
+and then to the gas station's pumps. Jill and Carlos barely
+escape an explosion that completely destroys both the gas
+station and most of the block that it's on. As they pull
+themselves to their feet, Carlos tells Jill that he's going
+to look for extra equipment, and leaves.
+
+Jill manages to find some engine parts and returns to the
+cable car to see if she can fix it. Outside the cable car,
+Mikhail, despite his wounds, massacres a horde of zombies
+and collapses. Jill runs up to him and demands to know if he
+has a death wish. Mikhail insists that he cannot stop
+fighting just because he's wounded. Even though the zombies
+are innocent victims as well, as Jill says, there's no
+reason for him to take responsibility for anything that's
+happened to Raccoon. After all, none of the UBCS soldiers
+are really involved with the company. Jill agrees, and says
+that that's the only reason she's trusting the UBCS at all.
+
+Jill helps Mikhail back into the cable car and tells him to
+rest. She also tries to repair the cable car's engine.
+While the power cable and fuse she's found will work, she
+needs a special additive for the motor oil. She heads back
+into Raccoon, towards an Umbrella-owned sales office and
+chemical warehouse.
+
+Before going to the office, Jill stops by the warehouse in
+downtown Raccoon where she left the survivor earlier.
+Inside, she finds a group of zombies greedily devouring his
+dead body. In the trailer that the man was hiding in, Jill
+finds a book where the man has written his final words. His
+name was Dario Rosso, and he had always meant to be a novelist.
+
+When Jill reaches the office, Nicholai is already there. He
+has just killed another UBCS trooper who was infected with
+the T-Virus. Jill demands that Nicholai explain why he shot the
+man, who was still conscious. Nicholai explains to Jill, as
+if it's obvious, that it took fewer bullets to kill the man
+before he became a zombie. His callousness horrifies Jill.
+
+Jill lets herself into the office's storage locker, where she
+finds the additive she needs. At the same time, though, another
+horde of zombies finds the sales office. Jill hears Nicholai
+scream in agony, and when she fights her way back into the
+office, both Nicholai and the UBCS mercenary's body are gone.
+
+On her way back to the cable car, Jill has another encounter
+with her stalker outside City Hall. Once again, Jill runs
+for her life. The creature doesn't follow her to the next
+street, and before Jill can wonder why, the ground crumbles
+under her feet. She's dumped into part of the Raccoon sewer
+system, which a large, mutated worm has claimed as its own.
+Jill fights it off and escapes from the sewers via a
+conveniently located emergency ladder.
+
+Jill finishes her repair work on the cable car. Carlos walks
+in, and Jill tells him that Nicholai won't be joining them.
+Carlos grimly accepts the news, and offers to drive the
+cable car. The car begins to glide smoothly away from the
+station, but suddenly, it shakes with a tremendous impact.
+Jill cautiously investigates, to find that the creature
+stalking her has somehow broken in. With nowhere to run,
+Jill knocks it to the ground with a barrage of grenades.
+The creature gets right back up again, seemingly unhurt
+by an attack that would have killed anything else.
+
+Suddenly, Mikhail opens fire on the creature with his
+assault rifle, commanding Jill to get out of the cable car.
+The creature advances on Mikhail, whose rifle jams at
+exactly the wrong moment. The creature backhands him against
+the wall, then throws him across the cable car. A tentacle
+emerges from the creature's hand, coiling around its wrist
+like a striking snake, and it walks towards Mikhail to
+finish him off. Just before it reaches him, Mikhail rolls
+over, pulls a grenade from his vest, and pulls the pin. The
+resulting explosion knocks the creature out of the back of
+the cable car, kills Mikhail, and destroys the cable car's
+brakes. Jill pulls the emergency brake, but the car doesn't
+come to a full stop until it hits a wall. Jill blacks out.
+
+Jill regains consciousness alone in the courtyard of the St.
+Michael Clock Tower, next to the twisted ruin of the cable
+car. Night has fallen. She finds Carlos inside the tower.
+For some reason, Carlos is now convinced that Umbrella has
+no intentions of letting them out of town alive. Before he
+can get hysterical, Jill slaps him, asking him if he's just
+going to give up. Carlos retorts that he just can't handle
+what's happening, and runs off.
+
+The clock tower is nearly deserted, except, as usual, by the
+occasional zombie or giant spider. Jill finds several more
+dead mercenaries within it, one of whom is carrying a copy of
+the UBCS's mission plan; sure enough, they were here to rescue
+civilians, but were specifically after Umbrella's employees.
+The UBCS's extraction chopper is in the suburbs of Raccoon,
+waiting for someone to signal it by ringing the clock tower's
+bell. Jill runs up to the bell tower, to find the bell's
+mechanical ringer has been dismantled. Solving another of the
+puzzles that seem to be everywhere in Raccoon City, she finds
+a key to unlock a storeroom downstairs.
+
+On the balcony of the clock tower, the creature returns,
+seemingly unhurt. Jill rips the wiring out of one of the
+clock tower's searchlights and electrocutes the creature. As
+it lies twitching, Jill makes her escape, but once again, it
+gets up and gives chase. For some reason, though, it doesn't
+follow her downstairs.
+
+In the storeroom, Jill finds an ornate gear that'll fit in
+the bell's ringer. She runs back upstairs and installs it.
+The bell starts to ring, and as Jill rushes outside, the
+extraction chopper comes flying in. Jill waves it down, and
+for a moment, thinks that she's finally safe.
+
+She is, of course, wrong.
+
+Someone fires a missile at the helicopter. As it explodes,
+the helicopter plows into the clock tower. Burning wreckage
+showers the courtyard. Jill looks up to see the creature
+standing on top of the clock tower, its missile launcher
+in its hand. It jumps down in front of her, intent upon
+finishing her off once and for all. Before Jill can react,
+the creature stabs her with one of its tentacles, and Jill
+immediately begins to feel shaky and ill. She's been
+infected with the T-Virus.
+
+Suddenly, Carlos arrives and attacks the creature. The
+creature, more annoyed than hurt, returns fire. Carlos is
+knocked silly by a near-hit, but manages to blow up the
+missile launcher. As he passes out, Jill opens fire on the
+creature, hitting it with everything she has. The creature,
+after taking enough damage to kill an army, finally staggers,
+then falls face-down into the flames from the burning helicopter.
+Jill limps over to Carlos and passes out. Carlos wakes up
+and cradles Jill in his arms, desperately trying to wake her.
+
+Jill is unconscious for two days, during which Leon Kennedy
+and Claire Redfield make their own escape from Raccoon City.
+She wakes up in the chapel of the clock tower on the night of
+October 1st. Carlos has been watching over her. She doesn't
+feel any pain from her infection, but that in itself worries
+her. Jill makes Carlos promise that if she turns into a zombie,
+he'll kill her. Carlos says that he'll find something to help
+her, and that she'll be safe in the chapel until he returns.
+
+Carlos leaves the clock tower through a door in the storeroom,
+and finds that he's down the street from a hospital. He
+investigates, hoping to find something to cure Jill.
+
+The hospital lobby is strewn with dead men and partially
+locked down with a steel shutter. As Carlos enters, a zombie
+slowly shuffles towards him from the back of the room.
+Before Carlos can shoot it, something decapita

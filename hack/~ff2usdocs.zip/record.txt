@@ -1,0 +1,101 @@
+Updates:
+10/01/2000 Added a bit of information about the speed data.
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+This document details the structure of the records used for characters and
+monsters both in and out of battle (as the latter is a simple subset of the
+former). A record for a character or monster in battle is 80 bytes long; the
+first 40 bytes of this is copied directly from the out-of-battle record when
+the battle starts. When the battle ends the first 40 bytes of the battle
+record for each character is copied back to the out of battle character
+record.
+
+An asterisk (*) before a description for the data indicates that only records
+for characters have or use that type of data (equipment is a good example of
+this). Two asterisks (**) before a description for the data indicate that only
+monsters have or use that type of data (creature type data, for example).
+Three asterisks (***) after a description of the data indicates that the
+reader is requested to refer to the monster data document for a more complete
+description (again, the creature type data is a good example).
+
+Offset Meaning
+------ -------
+00     *character id/handedness
+           bits 0-4: character id
+           bit 5: unknown
+           bit 6: left hand equippable
+           bit 7: right hand equippable
+01     *sprite/class
+           bits 0-3: sprite/class id
+           bits 4-6: unknown
+           bit 7: in back row
+02     level
+03-06  current status anomalies
+07-08  current hp
+09-0A  maximum hp
+0B-0C  current mp
+0D-0E  maximum mp
+0F     *base strength
+10     *base agility
+11     *base vitality
+12     *base wisdom
+13     *base willpower
+14     *modified strength
+15     modified agility
+16     *modified vitality
+17     black magic power/modified wisdom
+18     white magic power/modified willpower
+19     attack elemental
+1A     *attack strong vs. creature types***
+1B     physical attack multiplier
+1C     physical attack percent
+1D     physical attack base
+1E     attack status 1***
+1F     attack status 2***
+20     elements weak vs***
+21     elements very weak vs***
+22     magical defense multiplier
+23     magical defense percent
+24     magical defense base
+25     elemental defense (if immunity bit wasn't set)***
+26     elemental defense (if immunity bit was set)***
+27     *defense strong vs. creature types***
+28     physical defense multiplier
+29     physical defense percent
+2A     physical defense base
+2B     status immunity 1***
+2C     status immunity 2***
+2D-2F  unknown
+30     *helmet
+31     *armor
+32     *gauntlet
+33     *right hand-item
+34     *right hand-quantity
+35     *left hand-item
+36     *left hand-quantity
+37-39  *experience
+3A     unknown
+3B     speed modifier. lower = faster. for autobattles, starts at 01;
+       otherwise starts at 10. slow adds +08, (upper bound 20) haste adds -3
+       (lower bound 0C)
+3C     unknown
+3D-3F  *experience to level up
+40     **creature types***
+41-50  unknown
+51     next command # (from 00 to 1D)
+52     next sub-action (item or spell number)
+53     next action monster target(s)
+54     next action party target(s)
+55-5F  unknown
+60-61  relative speed. equal to (Cecil's agi * 32) / (our agi * 0A). if Cecil
+       isn't in the batle, an arbitrary character is picked instead. lower
+       number = faster speed.
+62-6F  unknown
+70     **level and boss bit***
+71-72  unknown
+73     **item byte***
+74-7F  unknown

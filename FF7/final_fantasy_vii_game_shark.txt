@@ -1,0 +1,340 @@
+==========================================
+FINAL FANTASY VII GAMESHARK/PAR CODES V1.2
+==========================================
+
+--------------
+Revision Notes
+--------------
+V1.2 -	Dated 14-09-97
+	Added all character's limit breaks codes.
+
+V1.1 -  Dated 12-09-97
+        Wow... Lotsa commitment... hehee... added some codes,
+	Change the "Materia Modifier" Code. Check it out!!!
+
+V1.01 - Dated 12-09-97
+	Cleared typo errors here and there, added special
+	notes to materia modifier.
+
+V1.0 -  Dated 08-09-97
+        None ;) Just starting out...
+
+-------------
+List Of Codes
+-------------
+Finally, the somehow complete codes for Final Fantasy VII.
+It include some of the most useful codes to be use in Final
+Fantast VII, also included is the most complete "ITEM" and
+"MATERIA" modifier codes. Please DO backup your game prior
+to using any of these codes and do not blame me if there is
+anything wrong with the codes.
+
+Master Code                         		(Not Needed)
+Save Anywhere                    		8009D2A6 0000
+Have 5000000 Gils				8009D260 4B4C
+						8009D262 004C
+Get 50000 EXPs After Battles			8009D7D8 C350
+Get 20000 APs After Battles			8009D7DC 4E20
+Item Modifier (See Appendix 1)			8009CXXX C***
+Materia Modifier (See Appendix 2)		8009XXXX FF**
+No Random Battle				8007173C 0000
+No Random Battle on Map				8011627C 0000
+
+Limit Attacks Codes
+
+1st Limit Bar Always Full			800F5E6A 00FF
+2nd Limit Bar Always Full			800F5E9C 00FF
+3rd Limit Bar Always Full			800F5ED2 00FF
+
+Cloud Strife's Limit Attack Full		8009C75A 0FFF 
+Barret Wallace's Limit Attack Full		8009C7DE 0FFF
+Tifa Lockheart's Limit Attack Full		8009C862 0FFF
+Aeris Gainsborough's Limit Attack Full		8009C8E6 0FFF
+Red XIII's Limit Attack Full			8009C96A 0FFF
+Yuffie Kisaragi's Limit Attack Full		8009C9EE 0FFF
+Cait Sith's Limit Attack Full			8009CA72 0FFF
+Cid Highwind's Limit Attack Full		8009CB7A 0FFF
+Vincent Valentine's Limit Attack Full		8009CAF6 0FFF
+
+--------------------------
+Appendix 1 (Item Modifier)
+--------------------------
+
+Item Modifier  					8009CXXX C***
+
+XXX - Defines the position of the item on the item list.
+Where BE0 is the 1st position and E5E is the last location,
+which is position 320. With every increment of one position,
+add HEX 2 to the last one, example:
+	1st position == BE0
+	2nd position == BE2
+	3rd position == BE4
+	4th position == BE6
+	5th position == BE8
+	6th position == BEA
+	7th position == BEC
+	8th position == BEE
+	9th position == BF0
+       10th position == BF2
+and so on until E5E. If you don't understand this, use a
+scientific calculator and change it to HEX mode, then punch
+in BE0 and press "+" then "2", everytime you add 2, the
+position is increase by one.
+
+*** - Defines the item that you want, refer to the bottom
+table for all usable items:
+
+600 = Potion                   6A0 = Gatling Gun
+601 = Hi-Potion                6A1 = Assault Gun
+602 = X-Potion                 6A2 = Cannon Ball
+603 = Ether                    6A3 = Atomic Scissorss
+604 = Turbo Ether              6A4 = Heavy Vulcan
+605 = Elixir                   6A5 = Chainsaw
+606 = Megalixir                6A6 = Microlaser
+607 = Phoenix Down             6A7 = A.M Cannon
+608 = Antidote                 6A8 = W Machine Gun
+609 = Soft                     6A9 = Drill Arm
+60A = Maiden's Kiss            6AA = Solid Bazooka
+60B = Cornucopia               6AB = Rocket Punch
+60C = Echo Screen              6AC = Enemy Launcher
+60D = Hyper                    6AD = Pile Bunker
+60E = Tranquilizer             6AE = Maximum Ray
+60F = Remedy                   6AF = Missing Score
+610 = Smoke Bomb               6B0 = Mythril Clip
+611 = Speed Drink              6B1 = Diamant Pin
+612 = Hero Drink               6B2 = Silver Barrette
+613 = Vaccine                  6B3 = Gold Barrette
+614 = Grenade                  6B4 = Adaman Clip
+615 = Shrapnel                 6B5 = Crystal Comb
+616 = Bomb's Right Arm         6B6 = Magic Comb
+617 = Hourglass                6B7 = Platinum Barrette
+618 = Kiss of Death            6B8 = Centclip
+619 = Spider Web               6B9 = Hairpin
+61A = Dream Powder             6BA = Seraph Comb
+61B = Mute Mask                6BB = Behemoth Horn
+61C = War Gong                 6BC = Spriggan Clip
+61D = Leco weed                6BD = Limited Moon
+61E = Fire Fang                6BE = Guard Stick
+61F = Fire Veil                6BF = Mythril Rod
+620 = Antarctic Wind           6C0 = Full Metal Staff
+621 = Ice Crystal              6C1 = Striking Staff
+622 = Bolt Plume               6C2 = Prism Staff
+623 = Swift Bolt               6C3 = Aurora Rod
+624 = Earth Drum               6C4 = Wizard Staff
+625 = Earth Mallet             6C5 = Wiser Staff
+626 = Deadly Waste             6C6 = Fairy Tale
+627 = Molbor's Tentacles       6C7 = Umbrella
+628 = Stardust                 6C8 = Princess Guard
+629 = Vampire Fang             6C9 = Spear
+62A = Ghost Hand               6CA = Slash Lance
+62B = Basilisk Claw            6CB = Trident
+62C = Light Curtain            6CC = Mast Ax
+62D = Lunar Curtain            6CD = Partisan
+62E = Mirror                   6CE = Viper Halberd
+62F = Holy Torch               6CF = Javelin
+630 = Bird Wing                6D0 = Grow Lance
+631 = Dragon Scales            6D1 = Mop
+632 = Impaler                  6D2 = Dragoon Lance
+633 = Shrivel                  6D3 = Scimitar
+634 = Eye drop                 6D4 = Flayer
+635 = Molotov                  6D5 = Spirit Lance
+636 = S-mine                   6D6 = Venus Gospel
+637 = 8 Inch Cannon            6D7 = 4-point Shuriken
+638 = Graviball                6D8 = Boomerang
+639 = T/S Bomb                 6D9 = Pinwheel
+63A = Ink                      6DA = Razor Ring
+63B = Dazers                   6DB = Hawkeye
+63C = Dragon Fang              6DC = Crystal Cross
+63D = Cauldron                 6DD = Wind Slash
+63E = Sylkis Greens            6DE = Twin Viper
+63F = Reagan Greens            6DF = Spiral Shuriken
+640 = Mimett Greens            6E0 = Supperball
+641 = Curiel Greens            6E1 = Magic Shuriken
+642 = Pahsana Greens           6E2 = Rising Sun
+643 = Tantal Greens            6E3 = Oritsuru
+644 = Krakka Greens            6E4 = Conformer
+645 = Gysahl Greens            6E5 = Yellow Megaphone
+646 = Tent                     6E6 = Green Megaphone
+647 = Power Source             6E7 = Blue Megaphone
+648 = Guard Source             6E8 = Red Megaphone
+649 = Magic Source             6E9 = Crystal Megaphone
+64A = Mind Source              6EA = White Megaphone
+64B = Speed Source             6EB = Black Megaphone
+64C = Luck Source              6EC = Silver Megaphone
+64D = Zeio Nut                 6ED = Trumpet Shell
+64E = Carob Nut                6EE = Gold Megaphone
+64F = Porov Nut                6EF = Battle Trumpet
+650 = Pram Nut                 6F0 = Starlight Phone
+651 = Lasan Nut                6F1 = HP Shout
+652 = Saraha Nut               6F2 = Quicksilver
+653 = Luchile Nut              6F3 = Shotgun
+654 = Pepio Nut                6F4 = Shortbarrel
+655 = Battery                  6F5 = Lariat
+656 = Tissue                   6F6 = Winchester
+657 = Omnislash                6F7 = Peacemaker
+658 = Catastrophe              6F8 = Buntline
+659 = Final Heaven             6F9 = Long Barrel R
+65A = Great Gospel             6FA = Silver Rifle
+65B = Cosmo Memory             6FB = Sniper CR
+65C = All Creation             6FC = Supershot ST
+65D = Chaos                    6FD = Outsider
+65E = Highwind                 6FE = Death Penalty
+65F = 1/35 Soldier             6FF = Masamune
+660 = Super Sweeper            700 = Bronze Bangle
+661 = Masamune Blade           701 = Iron Bangle
+662 = Save Crystal             702 = Titan Bangle
+663 = Combat Diary             703 = Mythril Armlet
+664 = Autograph                704 = Carbon Bangle
+665 = Gambler                  705 = Silver Armlet
+666 = Desert Rose              706 = Gold Armlet
+667 = Earth Harp               707 = Diamond Bangle
+668 = Guide Book               708 = Crystal Bangle
+669 = <blank>                  709 = Platinum Bangle
+66A = <blank>                  70A = Rune Armlet
+66B = <blank>                  70B = Edincoat
+66C = <blank>                  70C = Wizard Bracelet
+66D = <blank>                  70D = Adaman Bangle
+66E = <blank>                  70E = Gigas Armlet
+66F = <blank>                  70F = Imperial Guard
+670 = <blank>                  710 = Aegis Armlet
+671 = <blank>                  711 = Fourth Bracelet
+672 = <blank>                  712 = Warrior Bangle
+673 = <blank>                  713 = Shinra Beta
+674 = <blank>                  714 = Shinra Alpha
+675 = <blank>                  715 = Four Slot
+676 = <blank>                  716 = Fire Armlet
+677 = <blank>                  717 = Aurora Armlet
+678 = <blank>                  718 = Bolt Armlet
+679 = <blank>                  719 = Dragon Armlet
+07A = <blank>                  71A = Minerva Band
+07B = <blank>                  71B = Escort Guard
+07C = <blank>                  71C = Mystile
+07D = <blank>                  71D = Ziedrich
+07E = <blank>                  71E = Precious Watch
+07F = <blank>                  71F = Chocobracelet
+680 = Buster Sword             720 = Power Wrist
+681 = Mythril Saber            721 = Protect Vest
+682 = Hardedge                 722 = Earring
+683 = Butterfly Edge           723 = Talisman
+684 = Enhance Sword            724 = Choco Feather
+685 = Organics                 725 = Amulet
+686 = Crystal Sword            726 = Champion Belt
+687 = Force Stealer            727 = Poison Ring
+688 = Rune Blade               728 = Toughness Ring
+689 = Murasame                 729 = Circlet
+68A = Nail Bat                 72A = Star Pendant
+68B = Yoshiyuki                72B = Silver Glasses
+68C = Apocalypse               72C = Headband
+68D = Heaven's Cloud           72D = Fairy Ring
+68E = Ragnarok                 72E = Jewel Ring
+68F = Ultima Weapon            72F = White Cape
+690 = Leather Glove            730 = Sprint Shoes
+691 = Metal Knuckle            731 = Peace Ring
+692 = Mythril Claw             732 = Ribbon
+693 = Grand Glove              733 = Fire Ring
+694 = Tiger Fang               734 = Ice Ring
+695 = Diamond Knuckle          735 = Bolt Ring
+696 = Dragon Claw              736 = Tetra Elemental
+697 = Crystal Grab             737 = Safety Bit
+698 = Motor Drive              738 = Fury Ring
+699 = Platinum Fist            739 = Curse Ring
+69A = Kaiser Knuckle           73A = Protect Vest
+69B = Work Glove               77B = Cat's Bell
+69C = Powersoul                73C = Reflect Ring
+69D = Master Fist              73D = Water Ring
+69E = God's Hand               73E = Sneak Glove
+69F = Premium Heart            73F = HypnoCrown
+
+-----------------------------
+Appendix 2 (Materia Modifier)
+-----------------------------
+
+Materia Modifier  	    			8009XXXX FF**
+
+XXXX - Defines the position of the materia on the materia
+list. Where CE60 is the 1st position and D17C is the last
+location, which is position 200. With every increment of one
+position, add HEX 4 to the last one, example:
+	1st position == CE60
+	2nd position == CE64
+	3rd position == CE68
+	4th position == CE6C
+	5th position == CE60
+and so on until D17C. If you don't understand this, use a
+scientific calculator and change it to HEX mode, then punch
+in CE60 and press "+" then "4", everytime you add 4, the
+position is increase by one.
+
+** - Defines the item that you want, refer to the bottom
+table for all usable materia:
+
+00 = MP Plus                   2E = (glitch)
+01 = HP Plus                   2F = (glitch)
+02 = Speed Plus                30 = Master Command
+03 = Magic Plus                31 = Fire
+04 = Luck Plus                 32 = Ice
+05 = XP Up                     33 = Earth
+06 = Gil Plus                  34 = Lightning
+07 = Enemy Away                35 = Restore
+08 = Enemy Lure                36 = Heal
+09 = Chocobo Lure              37 = Revive
+0A = Pre-Emptive               38 = Seal
+0B = Long Range                39 = Mystify
+0C = Super Enemy-All           3A = Transform
+0D = Counter Attack            3B = Exit
+0E = Slash All                 3C = Poison
+0F = Double Cut                3D = Gravity
+10 = Cover                     3E = Barrier
+11 = Underwater                3F = <no name>
+12 = HP/MP Switch              40 = Comet
+13 = W-Magic                   41 = Time
+14 = W-Summon                  42 = <no name>
+15 = W-Item                    43 = <no name>
+16 = <no name>                 44 = Destruct
+17 = Enemy-All                 45 = Contain
+18 = Command Counter           46 = Full Cure
+19 = Magic Counter             47 = Shield
+1A = MP Turbo                  48 = Ultima
+1B = MP Absorb                 49 = Master Magic
+1C = HP Absorb                 4A = Choco/Mog
+1D = Elemental                 4B = Shiva
+1E = Added Effect              4C = Ifreet
+1F = Sneak Attack              4D = Titan
+20 = Final Attack              4E = Ramu
+21 = Added Cut                 4F = Odin
+22 = Added Steal               50 = Leviathan
+23 = Quadra Magic              51 = Bahamut
+24 = Steal                     52 = Kujata
+25 = Sense                     53 = Alexander
+26 = <no name>                 54 = Phoenix
+27 = Throw                     55 = Neo Bahamut
+28 = Morph                     56 = Hades
+29 = Deathblow                 57 = Tupon
+2A = Manipulate                58 = Bahamut ZERO
+2B = Mimic                     59 = Knights Of The Round
+2C = Enemy Skill               5A = Master Summon
+2D = (glitch)                  89 = (glitch)
+
+Special notes:
+1) This code should enable you to have a master level materia
+   for every materia created. It even allow the Enemy Skills
+   materia to have full 24 stars. Email me if this is wrong.
+
+Compiled and done by: Raymond Heng    raymondh@cyberway.com.sg
+
+-------------
+Author's Note
+-------------
+All lists and names of items and materias are cross referenced
+from The completely unauthorised Final Fantasy VII Ulimate
+Guide. I am willing to accept all comments and add-ons and will
+credit whoever suggested it. Please do not use this as your own
+as I have spent hours of hard work typing and looking for it,
+if you must give it to someone, please credit me with it. My
+Email is raymondh@cyberway.com.sg , just remember to add the h
+in front of the "raymond".
+
+Thanks to "Desolated Dream". I have found a webpage to put my
+codes file, It's at http://www.dreamon.com/ff7/ff7codes
+
+FINAL FANTASY VII GAMESHARK/PAR CODES (C) RAYMOND HENG 1997

@@ -1,0 +1,379 @@
+
+Final Fantasy VII Chocobo Guide
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Made by:
+                  RidgeRacer 
+                  RidgeRacer@goplay.com
+
+Written on:       October 8-11, 1997
+
+Special Thanks:   Crono600AD  (Crono600AD@aol.com)
+                        Nate Dogg
+                        Bradey Games  (www.bradygames.com)
+                        Squaresoft  (www.sqla.com)
+                        JC
+                        www.gamefaqs.com
+                 
+                
+		  
+Other Notes:      This version was meant to be viewed in Notepad
+                  (maximized) with Word Wrap on (under edit)
+
+                  You can use/distribute this.. do NOT change it,
+                  and give proper credit (espically if you use some
+                  of the info)
+
+                  Make sure you visit the BEST PSX and N64 site on
+                  the net - Impulse Gamer!
+                  www.angelfire.com/hi/ImpulseGamer/index.html
+
+                  Interested in getting updated versions of this
+                  GREAT Faq? Just drop me a line at:
+                  RidgeRacer@goplay.com 
+                  
+                  I would also like to thank everybody (listed above)
+                  who took their time to help me with Chocobo breeding
+                  and help with FFVII. 
+ 
+                  Most of this comes from Choco Billy himself, and I
+                  have made it clearer by subsituting some things. So,
+                  for instance, if you hear breeding Black Chocobos
+                  takes years, it actually doesn't. I have added A LOT
+                  on my own, so this isn't a rip off or anything.
+                  So, in other words, lots of this is basically a
+                  story line, with a lot of info. Well, you know what
+                  I mean..I hope.
+             
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+Table of Contents:
+~~~~~~~~~~~~~~~~~~
+(1.) What Are Chocobos?
+(2.) How Can I Get A Chocobo?
+(3.) What Do I Do Once I Get A Chocobo?
+(4.) What Should I Do First?
+(5.) Where Should I Hunt For A Chocobo?
+(6.) How Do I Know A Good Chocobo From A Bad One?
+(7.) I Have A Chocobo, Now What Do I Do?
+(8.) Why Should I Race My Chocobos?
+(9.) How Do I Win?
+(10.) I've Got A Champion, So What's Next?
+(11.) Chocobo Sage
+(12.) Greens Guide
+(13.) Rasing A Blue Chocobo
+(14.) Rasing A Green Chocobo
+(15.) Rasing A Black Chocobo
+(16.) Rasing A Gold Chocobo
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(1.) WHAT ARE CHOCOBOS?
+~~~~~~~~~~~~~~~~~~~~~~~
+Chocobos are fun-loving creatures with gentle demeanors. When properly trained, 
+they can become pets, help with industrial projects, or act as transportation. 
+You can often find them in the wild, normally around grassy plains. Just look 
+for their tracks.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(2.) HOW CAN I GET A CHOCOBO?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Because of their friendly demeanor, you can easily capture them in the wild. 
+However, you'll need some special bait to help lure them out of hiding. Choco 
+Bill's Chocobo Ranch is pleased to announce that they've purchased a limited 
+quantity of Chocobo Lure Materia that we'll be selling at a special price. With 
+this Materia in hand, you should have no trouble locating a Chocobo. Just 
+remember to be nice to you bird or it may run off or turn violent. You can also 
+coax Chocobos into sticking around longer by feeding them Greens.
+
+Note: When you first visit the ranch, early in the game, "talk" to one of the 
+Chocobos, and if you give the right response, it will do a little dance and 
+you'll recieve the Chocobo Lure Materia FREE!
+
+Note: You NEED the Chocobo Lure Materia to even see a Chocobo while wandering 
+their tracks.. MAKE SURE to get this.
+
+Note: I've found that Tantal Greens work the best for keeping a Chocobo busy 
+during battle (and not running), they're also only 400 gil.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(3.) WHAT DO I DO ONCE I GET A CHOCOBO?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+You can ridge your Chocobo anywhere you see fit. Chocobos can travel across land 
+but can't cross water or mountains without the aid of a man-made path (unless 
+you have a green, blue, black, or gold one..). While traveling on your Chocobo, 
+you can avoid encounters with any sort of nasty creatures that might be lurking 
+nearby. Just remember this: Once you dismount, you Chocobo will hightail it back 
+to its homelands (unless you own a stable).
+
+Looking for something a little more permanent? Choco Bill's Chocobo Ranch can 
+rent you up to six Chocobo stalls for the low, low price of 10,000 Gil each. All 
+you need to do is capture the Chocobos and feeding them as you see fit.
+
+Note: I had this problem knowing how to "dismount" at first. If you DO NOT own a 
+stall, then your Chocobo will just run away. If you OWN a stall, you'll have the 
+option of sending it back to the ranch, or letting it free. If you riding one of 
+YOUR CHOCOBOS that you got from the ranch, you just dismount, and it'll stay 
+there.
+If you choose to ride one of YOUR Chocobos, you can get it to other lands by 
+press Circle on the Airship (Highwind) while on your Chocobo.
+
+The ranchers children and farmhands, Choco Billy and Chole, handle the day-to-
+day chores involved in raising these fun-loving birds. Billy handles the sales 
+of the nuts and greens, which are essential items when breeding a top-class 
+Chocobo. He also helps manage the feeding and tracking of your Chocobo. Chole 
+helps you keep track of any additional information you might pick up regarding 
+Chocobo breeding. She also has quite a knack for judging and comparing the 
+abilites of all the Chocobos in the stable area.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(4.) WHAT SHOULD I DO FIRST?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After renting a stable or two, it's time to go Chocobo hunting. Equip the 
+Chocobo Lure Materia and find some Chocobo tracks. After capturing a Chocobo, 
+you're given the option to send it back to the stables (as you dismount). If you 
+choose to do so, Chocobo Billy will keep your new bird in the pen outside the 
+stables until you have a chance to better inspect it. Each pen can hold up to 
+four Chocobos at a time, so make sure you capture your limit before returning to 
+the ranch.
+
+Note: Make sure to have AT LEAST three rented stable (30,000 gil) if you are 
+planning on mating them.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(5.) WHERE SHOULD I HUNT FOR A CHOCOBO?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Well if you'd like there are plenty of wild Chocobo's that roam the prairies 
+around the Chocobo ranch. They're easy to capture but not always of the highest 
+quality. To get really good birds, you'll have to travel to pretty exotic lands 
+and withstand some harsh climates. Beginners may find it a bit of a bother at 
+first, but it's worth it. Chocobos are like any other kind of animal. Where life 
+is easy, like the plains surrounding the Chocobo Ranch, the Chocobos grow up to 
+be a little lazy and weak. In a dangerous climate like the polar cap, Chocobos 
+typically either don't make it or they grow up to be extremely tough. That's why 
+it's worth the trek to those far off lands. Over the years the ranch has 
+collected a lot of information on the various places Chocobos can be found.
+
+You may find the world's best Chocobos inside Choco Bill's Chocobo Ranch, but 
+the plains surrounding the ranch are a poor hunting ground. There are lots of 
+Chocobos to be had, but most are lazy and slow. The weather is too perfect, 
+Greens are abundant, and the Chocobos really don't have any natural enemies in 
+the area. Heck... someday you may even see a wild Chocobo running happily along 
+side a pack of Levrikon.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(6.) HOW DO I KNOW A GOOD CHOCOBO FROM A BAD ONE?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After moving your Chocobos from the pen to the stables, Bill will give you an 
+assessment of the birds. There are several types of Chocobos, some which you'll 
+want to avoid. These are the types:
+
+Chocobo Types                 Choco Billy's Assessments
+^^^^^^^^^^^^^                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+**Wonderful                   "This...is a wonderful Chocobo!"
+Great                         "This is a great Chocobo."
+*                             "Mmm, this seems like a good Chocobo."
+Good                          "Mmm, this one's not bad."
+Average                       "This is a pretty average Chocobo."
+##Poor                        "This one doesn't seem to be very good."
+##Weak                        "I can't recommend this one."
+
+A Chocobo's initial "type" determines its future speed, intelligence, and 
+stamina limitations. Because breeding Chocobos isn't cheap, you'll never want to 
+start with anything LESS than a Great Chocobo.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(7.) I HAVE A CHOCOBO, NOW WHAT DO I DO?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Now you'll want to feed and train your Chocobo to make it the best that it can 
+be. Feeding Greens to your Chocobo will raise its statistics, plus it increases 
+the Chocobo's fondness for you. You can also train your Chocobo by racing it at 
+the Gold Saucer, which helps ensure that your Chocobo's offspring turn out to be 
+champions.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(8.) WHY SHOULD I RACE MY CHOCOBOS?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Racing Chocobos helps them pass along their statistics to their offspring. Two 
+untrained Chocobos will give birth to a much weaker baby than two champions 
+will. This makes it essential that you train your Chocobos hard before breeding 
+them.
+
+How do I race, you ask? When you arrive at the Gold Saucer, speak with Ester at 
+the Chocobo Racing forum. You can register the Chocobo of your choice for the 
+next race in the chosen Chocobo's class. There are four Chocobo classes. Class C 
+is the slowest class. Class B is a little faster than Class C, but is still easy 
+to beat. Class A is the toughest of the normal classes, but a "Great" Chocobo 
+can easily trounce the competition. The final class is the S Class. Only world-
+class Chocobos make it this far.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(9.) HOW DO I WIN?
+~~~~~~~~~~~~~~~~~~
+Experienced Chocobo jockeys know that speed isn't everything. A Chocobo with a 
+high amount of stamina can easily outrun one with better top speed. The Chocobo 
+with stamina can be pushed harder for a longer period of time, which easily 
+makes up for the difference in speed. Also, it's not a good idea to let your 
+Chocobos race for themselves. Sure, you can get away with it in the lower 
+classes, but not in an S Class race. Look for special Chocobos, ones that can 
+breeze through the course without panicking at the sight of water or twisting 
+hills.
+
+One of the top riders goes by the name of Teioh. His rare Black Chocobo is 
+extremely fast and has an incredible amount of stamina. Don't be surprised if he 
+grinds you to a pulp the first few times you race him. He deserves mentioning 
+because of his ride. Black Chocobos are a product of years of breeding. 
+Unfortunately, the secret of breeding a Black Chocobo was lost years ago, but 
+I'm sure there's someone out there that still might know.
+
+Note: Most of this "storyline" was taking from the rancher. Don't be discouraged 
+about the Black Chocobo. It doesn't really take years, it's a game everyone. You 
+could do it in five seconds.. if you had the right stuff. 
+And, I have the "secret" to breeding a Black Chocobo right here, in this FAQ.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(10.) I'VE GOT A CHAMPION, SO WHAT'S NEXT?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Now that you have several championship quality Chocobos, it's time to start 
+breeding them to acquire an even better Chocobo. When you're interested in doing 
+so, I can guide you through the steps. First, make sure you have an empty stall 
+in the stable because the little one needs a place to sleep, you know. Also, 
+make sure you have two eligible Chocobos, which means a male and a female that 
+have both had time to mature and haven't mated recently. Choco Billy will check 
+to make sure everything is in order, and then he'll ask you to choose a nut. If 
+you don't own any nuts, Choco Billy has a selection that can be purchased for 
+breeding purposes. This selection includes:
+Pepio Nut    - 100 Gil
+Luchile Nut  - 200 Gil
+Saraha Nut   - 400 Gil
+Lasan Nut    - 600 Gil
+
+Note: Nuts can also be stolen from enemies and bought from other places..
+
+Nuts help determine what kind the baby will resemble. Obviously, the better the 
+nut, the more likely the baby will be stronger than its parents. Some nuts can 
+produce a completely unique type of Chocobo. This may be how Teioh acuired his 
+Black Chocobo. Anyway, keep your eyes open for any unique nuts you may find 
+while traveling around the world. They just might prove to come in handy.
+
+What else should you know? At one time, there were two now extinct types of 
+Chocobo roaming the planet: The Mountain-Chocobo and the River-Chocobo. The 
+Mountain-Chocobo was a green tinted bird with the ability to cross mountains. 
+The River-Chocobo was a blue bird that could cross any shallow body of water. 
+Remember that there are some parts of this planet that just can't be reached by 
+conventional means. On the other hand, the right kind of Chocobo can cross 
+anything.
+
+Long ago, there was a guy named Chocobo Sage. If you can find him, I'm sure he 
+could tell you all about breeding Mountain- or River-Chocobos. He may even be 
+able to tell you about the Black Chocobo. If you do find him, let Choco Billy's 
+daughter, Chole, know and she'll keep track of any information he may give you.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(11.) CHOCOBO SAGE
+~~~~~~~~~~~~~~~~~~
+In the mountains deep within the arctic continent, you'll find a small house 
+with a strange man named Chocobo Sage. He has advice on how to raise the Green, 
+Blue, Black, and Gold Chocobos. You can also pick up an "Enemy Skill" Materia 
+just for stoppind by and speaking with his pet Chocbo.
+
+There's also stuff to buy at the Chocobo Sage's house. Here you'll find the 
+conveted Sylkis Greens as wll as several other Chocobo related items:
+Porov Nut      -  2000 Gil
+Pram Nut       -  1500 Gil
+Sylkis Greens  -  5000 Gil
+Reagan Greens  -  3000 Gil
+
+Note: If anyone knows how to get the sage to "spill his guts", let me know. 
+What's the secret to getting him to talk? Every once and a while he will, and 
+every once and a while "he can't remember".
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(12.) GREENS GUIDE
+~~~~~~~~~~~~~~~~~~
+
+Green           Price (Gil)     +Speed       +Intellect      +Stamina
+^^^^^           ^^^^^^^^^^^      ^^^^^^       ^^^^^^^^^^      ^^^^^^^^
+Gysahl          100              No           No              Yes
+Krakka          250              No           Yes             No
+Tantal          400              Yes          Yes             Yes
+Pahsana         800              No           Yes             No
+Curiel          1000             Yes          No              Yes
+Mimett          1500             Yes          No              Yes
+Reagan          3000             ???          ???             ???
+Sylkis          5000             ???          ???             ???
+
+Note: I know either the Reagan or Sylkis give you a "Yes" in all three 
+catagories, I just can't remember. I will have both of them done in the next 
+version.
+
+Note: I usually use the TANTAL green, it has a "Yes" in all three catagories. 
+Sure, it may not boost the speed as much as say, the CURIEL green would, but I 
+get three "Yes"'s. Plus, it's fairly cheap too!
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(13.) RAISING A BLUE CHOCOBO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This type of Chocobo cannot be caught. It must be breed at the Chocobo Ranch. In 
+order to breed this Chocobo, you need a Yellow GREAT Chocobo male or female, and 
+a Yellow OKAY Chocobo of the other sex. You must also have the Carob Nut, which 
+is stollen from a monster that you encounter just south of bone village (on the 
+same continent, just directly south of the village, in the grassy plains). The 
+monster is called "Vlakorados", which has a fairly decent amount of HP. By 
+breeding the Male GREAT Chocobo with the OK Female Chocobo (with the Carob Nut), 
+you get either the blue or green Chocobo, and by doing the opposite, a Male OK 
+Chocobo with a Female GREAT chocobo, you get the other.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(14.) RAISING A GREEN CHOCOBO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is EXACTLY the same as breeding a BLUE Chocobo. See above!
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(15.) RAISING A BLACK CHOCOBO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In order to get the Black Chocobo, you need to breed a Green Chocobo with a Blue 
+Chocobo (male and a female) by using a Carob Nut (the same Nut used to breed a 
+Green and Blue Chocobo).
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+(16.) RAISING A GOLD CHOCOBO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In order to get the Gold Chocobo, you need to breed a Black Chocobo with an S-
+Class Chocobo using the Zeio Nut which is found on the island with the forest in 
+the Top Right part of the world map. To get the Zeio Nut, you need to find a 
+Goblin (in the Top Right part of the map, in the forest area) and steal one from 
+them. Goblins are EASY to beat.. trust me.
+
+Note: You can also get a Gold Chocobo by defeating the RUBY WEAPON (in the 
+desert area near the Gold Saucer on DISC 3), and trading the item you get from 
+it (Desert Rose) for a Gold Chocobo from the Kalm Traveler.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Well, that's the end of the FFVII CHOCOBO BREEDING FAQ. I hope you enjoyed it, 
+and it helped you.
+
+Your probably asking yourself, "What's the big deal with a GOLD CHOCOBO, why 
+would I want one?"
+Well, once you get one, you can go ANYWHERE on the world map, including secret 
+materia caves. In one, you'll find the AWESOME Summon Materia, "Knights Of The 
+Round" which can cause 70,000+ damage on a/an enemy(s) with one cast!
+
+Once again, you can visit my website at:
+
+http://www.angelfire.com/hi/ImpulseGamer/index.html
+
+And you can E-mail me at:
+
+RidgeRacer@goplay.com
+
+Thank you, and enjoy,
+
+-RidgeRacer
+
+
+
+
+
+------------------------------------------------------
+| How long do you want to wait for your Email?
+| http://www.goplay.com/email/1000003 - it's FREE!

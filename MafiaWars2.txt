@@ -1,0 +1,141 @@
+http://apps.facebook.com/mafiawars-two/?rivalId=20153075972
+http://apps.facebook.com/mafiawars-two/?rivalId=20053911518
+http://apps.facebook.com/mafiawars-two/?rivalId=20253550348
+
+AIR*2
+WATER
+
+Current
+* Weapon
+	--	Fishersman Fork	47	00	00,11,06
+	--	Konrad Hawk Rif	43	14	08,13,02
+* Armor
+	--	Life Preserver	00	47	00,00,23
+	--	Knee Pads   	17	26	17,00,03
+* Vehicle
+	--	Supercharged	41	34	10,11,05
+	--	Water R Gamma	28	39	05,05,10
+	--	T11 Thunder 	30	27	04,08,04
+
+	
+Craft
+* Weapon
+	--	Silenced B32	20	02
+	--	Assisted Knife	31	03	08,01,05	$    0	+
+* Armor
+	--	Anti-Stab Vest	02	18
+	--	Bulletproof Ve	03	24	02,02,05	$    0
+
+Marketplace
+* Weapon Light
+	--	Ice Queen		19	06	04,04,01	$ 8200
+	21	Polymer Gun		28	07	00,11,02	$10200
+	31	SMG Micro .35	42	07
+* Weapon Heavy
+	--	5.56 Holo Sight	33	08	03,17,00	$19500
+	31	G40 AR      	39	08	        	$21000
+	34	Konrad Hawk Rif	43	14	08,13,02	$24100	+
+* Armor Upper
+	--	Arctic Shell	03	23
+	--	Layered Polym	00	31	01,00,10	$ 8600
+	31	Full Shield 	07	42	05,07,06	$17650
+	>>	Metal Plate Vst	15	82	
+* Armor Lower
+	--	Catcher Guards	03	18	03,01,08	$ 8000
+	23	Padded Shorts	04	34	        	$10550
+	27	Knee Pads   	17	26	17,00,03	$14200	+
+	>33	Army Boots
+* Vehicle Ground
+	--	Boulder Truck	12	11				$ 9850
+	--	Townee G5		17	21				$12450
+	20	Ariz 25000		24	26	00,06,07	$14500	+
+	21	Patriot Turbo	18	34				$17850
+	24	Skate Blade 	20	38				$21150
+	28	Maestra XT   	32	35				$27800
+	32	All Terrain		35	43	        	$31400
+	36	Transponder F3	23	69
+	>>	Ricol XXL
+* Vehicle Water
+	--	Cardinal GP 	26	35				$21000
+	--	Water R Gamma	28	39	05,05,10	$23500	+
+	30	Convict      	32	39
+	36	Wave Rdr Delta	39	53	        	$32000
+	39	Wave Crg Delta	41	62
+* Vehicle Air
+	--	T11 Thunder 	30	27	04,08,04	$18000	+
+	--	Drifter     	28	34	        	$22500	
+	31	T12 Thunder 	39	36				$26250
+	35	Dener Lite S3	41	48	04,09,13	$39000	***
+	38	T3 Breeze   	51	49	        	      	******
+	>>	C69 Atomix
+	
+Bone Yard
+* Weapon
+	20	Bone Bow		30	04	09,04,00	SK300, $ 6400
+	--	Bone Launcher	41	02				SK380, $ 9400
+	--	Venom Srp Stiv	37	09				SK450, $12650
+	36	Ferocious Sklgn	45	19
+	44	Marksman Gun	
+	50	Epic Skull Bull
+	xx	
+* Armor
+	--	Bone Shield		04	22	03,01,07	SK$200, G$5
+	26	Bone Vest		04	39	05,05,10	SK$300, $5850
+	--	Tusk Vest   	03	48
+	36	Skull Face  	11	53	16,00,11	SK$440, $16900
+	xx
+* Vehicles Ground
+	--	 500 Bone Chopr	11	12
+	--	2300 Bone Chopr	44	49	15,09,03	SK$720, $22400	
+* Vehicles Water
+	--	Toxc Stlth Boat	24	32
+* Vehicles Air
+	--	Toxic Jet Pack	45	24	10,11,00	SK$640, $18150
+	38	Venom Jet Pack	67	36	15,16,00	?				*************
+	
+	
+	+ varios interessantes gold
+	
+Badlands
+* Weapon
+	??	Tomahawk		29	13	02,03,06	?
+	--	Stempunk HndGun	43	14
+	>>	Electrfd Lasso	65	11
+* Armor
+	--	Buffalo Poncho	09	35	02,03,08	?
+	--	Cowboy Hat   	10	57	        	SK$675, $16500
+	42	DeadEnd Belt	18	61
+	49	Leathal Boots	24	72
+	xx
+* Vehicle
+	??	Modern Wagon	32	35	02,05,09	?
+
+Granite Square
+* Armor
+	--	Fridge Shield	08	23	03,02,08	$16500
+	32	Two-Way Radio	14	41				$27500	****
+	xx
+
+Neon Strip
+* Vehicle
+	--	Pandora 600		09	35	03,05,07	$13700
+	30	Supercharged	41	34	10,11,05	$24500	+
+	42	Valros 1000 	51	63
+	45	Rambler     	67	61
+	53	Chopper 124 Zed	86	71
+	xx
+
+Bluebird Meadows
+* Weapon Heavy
+	46	Sawed Off Shgun	56	34
+
+Westside Warf
+* Vehicle Water
+	38	Swap Boat   	49	54						**********
+
+Cassino Row
+* Clothing
+
+Downtown
+* Clothing
+

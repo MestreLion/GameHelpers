@@ -1,0 +1,3818 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+FAQ POLICY: 
+-----------
+With 2003 in as of this writing, I have created a new policy for my 
+FAQs. Please follow this policy.
+
+E-MAIL POLICY: I no longer answer e-mails about anything found in these 
+guides. My FAQs comprehensively answer the questions, and any e-mail 
+about content found IN the guides is not tolerated. Please read this and 
+make sure what you're e-mailing is within bounds of answering. If I 
+haven't answered a question of yours, then you overstepped the 
+boundaries. 
+
+HOSTING POLICY: These following websites can host all of my guides in 
+one form of another. NO MORE WEBSITES MAY HOST MY GUIDES UNLESS THEY 
+HAVE ANY FORM OF COMPENSATION. It's not very fair to have one website 
+offer me something, and another one not offer me anything. It's not a 
+greed factor, or anything personal, it's just that some websites do much 
+better than others to refavor me for my own hard work, and rewarded they 
+shall be. 
+
+www.gamefaqs.com
+faqs.ign.com
+www.neoseeker.com
+www.new-blood.com
+cubed.biohazardextreme.com
+www.a2zcheats.com
+www.cheats.de
+www.psxcodez.com
+www.meristation.net
+
+(I might have missed one or two, but they likely have less visitors). 
+
+COPYRIGHT POLICY: All my FAQs have copyrights starting 2002. Any 
+copyrights before that are ineffective as of January 1, 2003. You 
+probably don't care, so don't violate the copyright and you'll be fine.
+
+Sorry to waste your time reading this, but it has to be said in the form 
+of the new year.
+
+---CVXFREAK
+   FireEmblemPride@hotmail.com 
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+ _____    _____   ____  ____   ___    ____   _    _   _______
+|  _  \  |  ___| / __/ |_  _| |   \  |  __| | \  | | |__   __| 
+| |_| /  | |___  \__ \   ||   | |\ | | |__  |  \ | |    | |
+|  __ \  |  ___|    \ \  ||   | || | |  __| | |\\| |    | |
+| |  \ \ | |___   __/ / _||_  | |/ | | |__  | | \  |    | |
+|_|   \_\|_____| |___/ |____| |___/  |____| |_|  \_|    |_|
+
+ _____  ___    ___  _____   _
+|  ___| \  \  /  / |_   _| | |      
+| |___   \  \/  /    | |   | |         - DIRECTOR'S CUT -          
+|  ___|   \    /     | |   | |              
+| |___     \  /     _| |_  | |____    -STANDARD MODE WALKTHROUGH-
+|_____|     \/     |_____| |______|
+
+RESIDENT EVIL: DIRECTOR'S CUT: FAQ/WALKTHROUGH
+SONY PLAYSTATION
+CREATED BY: CVXFREAK
+COPYRIGHT 2001/2002 BY: CVXFREAK
+VERSION 2.1
+
+This FAQ may appear at:
+
+www.gamefaqs.com
+www.neoseeker.com
+
+========================================================================
+
+I N T R O D U C T I O N
+
+========================================================================
+
+Resident Evil: Director's Cut is the first Resident Evil for PlayStation 
+(Psone), with added features. The Director's Cut features 2 additional 
+game modes in addition to the original. Basically, that is all the extra 
+features of the Director's Cut.
+
+Resident Evil (BioHazard in Japan) is known by most Sony, Nintendo and 
+Sega fans as a survival horror game. In 2002, 6 years after the 
+original, the series has shifted from Sony to Sega and now is exclusive 
+to Nintendo GameCube. The remake of the first Resident Evil is 
+unparalleled in terms of graphics and survival horror gameplay.
+
+Resident Evil for the PlayStation, Sega Saturn and PC started the saga. 
+The Director's Cut, which this FAQ is for, extends, in a very little 
+way, what the original RE did.
+
+Since I've beaten Resident Evil for Nintendo GameCube countless times 
+between the US and Japanese versions, I decided to go play the 
+PlayStation version using my older FAQ for it. 
+
+After seeing the difference in quality between the FAQ for the original 
+Resident Evil and the remake, I decided to "remake" my FAQ for the 
+PlayStation versions. The old walkthrough will basically be non-
+existent, and a new format will be used for this game. That format is 
+basically the same as my GameCube Resident Evil FAQ.
+
+So enjoy the game that pioneered it all. Resident Evil.
+
+========================================================================
+
+C O N T E N T S
+
+========================================================================
+
+ 
+1.  VERSION INFORMATION
+2.  GAME BASICS
+    A. CONTROLS
+    B. FIGHTING TACTICS    
+    C. DIFFICULTY LEVEL
+    D. HEALTH
+    E. MOVEMENT
+    F. DIFFERENCES BETWEEN CHRIS AND JILL
+3.  CHARACTERS
+4.  WALKTHROUGH: JILL VALENTINE
+    A. MANSION 
+    B. GUARDHOUSE
+    C. RETURN TO MANSION
+    D. TUNNELS
+    E. LABOARATORY
+5.  WALKTHROUGH: CHRIS REDFIELD
+    A. MANSION 
+    B. GUARDHOUSE
+    C. RETURN TO MANSION
+    D. TUNNELS
+    E. LABOARATORY
+6.  WESKER'S REPORT
+7.  PUZZLES
+8.  MONSTERS AND BOSSES
+9.  FILE TRANSCRIPTS
+10. STORYLINE SYNOPSIS
+11. CONCLUSION
+
+========================================================================
+
+1. V E R S I O N   I N F O R M A T I O N
+
+========================================================================
+
+===============
+August 18, 2002
+===============
+UPDATE: Change of e-mail. 
+
+=============
+June 23, 2002
+=============
+UPDATE: Worked a little on Jill's walkthrough, will finish up the 
+remodel of Chris' soon.
+
+============
+May 25, 2002
+============
+UPDATE: Finished the remodeling of Jill's walkthrough, begun Chris'.
+
+============
+May 24, 2002
+============
+UPDATE: Overhauled the entire FAQ to be much, much better. Deleted all 
+the unneeded content, as well. 
+
+===============
+August 30, 2001
+===============
+UPDATE: Began and finished guide.
+
+
+========================================================================
+
+2. G A M E   B A S I C S
+
+========================================================================
+
+A. CONTROLS
+-----------
+
+START BUTTON
+************
+Starts game, pauses game, and selects status screen.
+
+SELECT BUTTON
+*************
+Not used
+
+DIRECTIONAL BUTTON
+******************
+Selects mode (title screen), moves character
+
+X BUTTON
+********
+Action button, opens doors and attack
+ _
+|_| BUTTON
+**********
+Run
+
+R1 BUTTON
+*********
+Draws weapon (during game play)
+
+O BUTTON
+********
+Not used
+ 
+ /\
+/__\ BUTTON
+***********
+Cancels previous action (on status and option screen)
+
+L1, L2, R1, R2
+**************
+Used on status screen
+
+B. FIGHTING TACTICS
+-------------------
+
+EVADE ZOMBIES!
+Yes, the zombies are somewhat hard. The Handgun takes 3-4 shots to kill
+them. And no, the Knife isn't as powerful as it was in CODE: Veronica X.
+
+CONSERVE AMMO!
+Resident Evil is fairly hard. It is easy to use up a lot of ammo. The 
+Tyrant, and Hunters require a lot of ammo. To conserve ammo throughout 
+the game, strictly use your Handgun.
+
+FIRE FROM A DISTANCE!
+Hunters and Chimeras are extremely versatile when close up to Chris and
+Jill. You will want to get to a distance and fire guns like the Shotgun, 
+BAZOOKA and Handgun. When it comes to zombies, try to shoot them at 
+close range.
+
+TRY TO DECAPITATE ZOMBIES!
+When playing, the SHOTGUN and sometimes the HANDGUN can blow a zombie's 
+head off. As Chris, he'll blow a zombie head off with the HANDGUN more 
+often than Jill can. For a SHOTGUN SHELL to decapitate a zombie, get 
+close and aim it up, and then fire. 
+
+KEEP 1 GREEN HERB AND 1 FIRST AID SPRAY WITH YOU!
+Sometimes you can drop health because some monsters are stronger than 
+others. Avoid this by carrying a Green herb and First Aid Spray. The 
+Green Herb can cover small damage, while the First Aid Spray can cover 
+sudden health drops from Hunters or Chimeras.
+
+MAKE MULTIPLE SAVES!
+Make at least 3 saves. Make one for the mansion, and progress on the 
+game, but save onto another spot (preferably the post-Plant 42 fight). 
+Those are definite save areas. If you keep multiple saves, you can then 
+start from and older save if you mess up (EX: Use up too much ammo).
+
+C. DIFFICULTY LEVEL
+-------------------
+
+STANDARD
+This is the original Resident Evil. This can be considered "NORMAL 
+MODE." Ammo is somewhat scare, and enemies are somewhat difficult to 
+kill. The characters have a fair amount of health. This is what the 
+walkthrough is based on.
+
+TRAINING
+This is the original Resident Evil, but much easier. The characters can 
+withstand more damage, and the ammo is double. Enemies are easier to 
+kill. This walkthrough can also be used for this mode. It is the same 
+thing with double ammo.
+
+ADVANCED
+This is an insanely difficult mode. Monsters are so hard to kill, and 
+the characters die only after 2 or 3 zombie bites. Ammo is scare and all 
+items have been rearranged and put in different locations. This is for 
+the seasoned Resident Evil player only. This FAQ won't cover this mode 
+for obvious reasons.
+
+D. HEALTH
+---------
+
+Throughout the game are healing items that will help you recover from 
+injuries induced by the monsters and object in the game. They are 
+limited, and the different medicines have different effects. Use them 
+wisely. Along with weapons, these are your best friends. 
+
+****************
+HEALTH STANDARDS
+****************
+
+FINE (GREEN) = 100% HEALTH
+Little to no damage suffered.
+
+CAUTION (YELLOW) = 75% HEALTH
+Some damage suffered.
+
+CAUTION (ORANGE) = 50% HEALTH
+A lot of damage suffered.
+
+DANGER (RED) = 25% HEALTH
+Extreme amount of damage suffered. Near death.
+ 
+POISON (PURPLE) = 100%-25% HEALTH
+Poisoned by a monster, gradually loses health. 
+
+------------------------------
+|1. RED + GREEN = FULL HEALTH|
++--------------------------------------------------------------------+
+| This herb looks like a small red and green dot on a piece of paper.|
++--------------------------------------------------------------------+
+
+----------------------------------------
+|2. GREEN + GREEN + GREEN = FULL HEALTH|
++-----------------------------------------------------------+
+|This herb looks like one big green dot on a piece of paper.|
++-----------------------------------------------------------+
+
+-------------------------------
+|3. GREEN + GREEN = 50% HEALTH|
++------------------------------------------------------------+
+|This herb looks like 2 small green dots on a piece of paper.|
++------------------------------------------------------------+
+
+----------------------------------------------
+|4. GREEN + BLUE = 25% HEALTH AND POISON HEAL|
++--------------------------------------------------------------------+
+|This herb looks like a small blue and green dot on a piece of paper.|
++--------------------------------------------------------------------+
+
+-----------------------
+|5. BLUE = POISON HEAL|
++------------------------------+
+|This is a blue leaf-like herb.|
++------------------------------+
+
+-----------------------
+|6. GREEN = 25% HEALTH|
++-------------------------------+
+|This is a green leaf-like herb.|
++-------------------------------+
+
+------------------------------------------------------
+|7. GREEN + GREEN + BLUE = 50% HEALTH AND POISON HEAL|
++----------------------------------------------------------------------+
+|This looks like 2 small green dots and a blue dot on a piece of paper.| 
++----------------------------------------------------------------------+
+
+-----------------------------------------------------
+|8. GREEN + RED + BLUE = FULL HEALTH AND POISON HEAL|
++-----------------------------------------------------------+
+|This herb looks like one big brown dot on a piece of paper.|
++-----------------------------------------------------------+
+
+-----------------------------------
+|10. FIRST AID SPRAY = FULL HEALTH|
++-----------------------------------------------+
+|This is a silver can with a spray nozzle on it.|
++-----------------------------------------------+
+
+E. MOVEMENT
+-----------
+
+Jill and Chris both run and walk extremely quickly and straightforward. 
+It takes only a little bit of work to move them, but you should 
+definitely manage. Move them in a straight path, or else a zombie can 
+kill them (and do it rather easily).
+
+F. DIFFERENCES BETWEEN CHRIS AND JILL
+-------------------------------------
+
+Their adventures both change in certain areas, and Chris has no 
+lockpick. He only has 6 slots, as opposed to Jill's 8. Jill hangs out 
+with Barry Burton, while Chris hangs out with Rebecca Chambers. Chris 
+Redfield also has the Lighter from the start, and the Flame Thrower, 
+while Jill has the Lockpick, and BAZOOKA. Chris must use Small Keys.
+
+========================================================================
+
+3. C H A R A C T E R S
+
+========================================================================
+
+CHRIS REDFIELD
+AGE: 25
+Chris Redfield is a tough guy. He has a sister named Claire, whom 
+you see in Resident Evil 2: Dual Shock/Value Plus/Platinum (in Extreme 
+Battle Mode), and Resident Evil CODE: Veronica X. He is very protective, 
+and is willing to go out of his way to save others he cares about. He 
+also used to be in the Air Force, and can pilot any sort of air craft.
+
+STARTING ITEMS: COMBAT KNIFE
+                LIGHTER
+
+EXCLUSIVE ITEMS: SMALL KEY
+                 FLAME THROWER
+
+PARTNER: Rebecca Chambers, Albert Wesker
+
+JILL VALENTINE
+AGE: 23
+Jill is the smart type in the STARS Alpha Team. She is very good 
+with the piano and knows how to mix chemicals. She's not as 
+tough as Chris, in terms of stamina, but a lot smarter. She works 
+pretty well with guns and knives, but not as good as Chris though. 
+She also runs a lot slower. Jill can be arrogant at times, as 
+evidence by her attitude in Resident Evil 3: Nemesis.
+
+STARTING ITEMS: BERETTA
+                COMBAT KNIFE
+
+EXCLUSIVE ITEMS: BAZOOKA
+                 ACID ROUNDS
+                 FLAME ROUNDS
+                 EXPLOSIVE ROUNDS
+                 LOCKPICK
+
+PARTNER: Barry Burton
+
+BARRY BURTON
+AGE: 38
+Barry loves his family so much. He'll do ANYTHING to keep his 
+family safe. During the game, he becomes very helpful to Jill. But he 
+seems to be hiding a secret and Jill eventually finds out. Will he make 
+it? You control that...
+
+REBECCA CHAMBERS
+AGE: 18
+Rebecca is the young medic of STARS Bravo Team. She is well trained 
+and pretty smart for her age. She is a rookie at her work, but she 
+can be well trusted. Her gun ability is amazingly good for her 
+age. But she can get hurt a lot easier than Chris and Jill. 
+Besides Chris and Jill, she's the only other character you control. 
+Apparently, Rebecca Chambers went through hell before this game 
+even started, in BioHazard Zero. Apparently, she doesn't like to 
+show it.
+
+STARTING ITEMS: HANDGUN
+                FIRST AID SPRAY
+
+EXCLUSIVE ITEMS: None
+
+PARTNER: Chris Redfield
+
+ALBERT WESKER
+AGE: 38
+Wesker is the cool type guy. He wears shades and never seems to take 
+them off. When he gets to the mansion, he gets a little... shady. He 
+vanishes every now and then and refuses to talk in detail to Chris and 
+Jill. Is there something up his sleeve?
+
+RICHARD AIKEN
+AGE: 23
+Richard Aiken is found near a corridor where a giant snake has bitten 
+him. After you cure him with serum, he dies. His role in the game is to 
+provide your character with the RADIO. 
+
+BRAD VICKERS
+AGE: 35
+Brad Vickers is the pilot of the S.T.A.R.S. Alpha Team. As evidenced by
+the introduction FMV, he is a wimp, and runs away after the other team
+members are attacked by zombie dogs. A decent shooter at best, Brad
+Vickers faces an unhappy death 3 months later, by an evil Tyrant, called
+"Nemesis." After that, he was murdered again by Leon Kennedy, only Leon
+shot him as a zombie. After the Raccoon City nuke, he is no more.
+
+ENRICO MARINI
+Age: 41
+Enrico Marini is the leader of Bravo Team. He is a great leader, and
+is unfortunately murdered after discovering a secret about the entire
+affair of the game. He lead Bravo Team greatly.
+
+========================================================================
+
+4. W A L K T H R O U G H : J I L L   V A L E N T I N E
+
+========================================================================
+
+A. MANSION
+----------
+
+************************************************************************
+STARTING
+************************************************************************
+ITEMS: LOCKPICK
+       CLIP
+       MUSIC NOTES
+       INK RIBBONS
+       GREEN HERB
+       SHOTGUN
+       STAR CREST
+ 
+Watch the starting cut-scene of the game (or skip it). Then witness the 
+scene in the MAIN HALL of the mansion. The game will start in the dining 
+room.
+
+Please note that when I say "left of Jill," I mean to the left in HER 
+perspective. Her left is your right. And vice versa.
+
+DINING ROOM
+After you are able to control Jill, run down, passed the tables to the 
+fire where Barry is (you should have the BERETTA armed). After another 
+cut-scene, take the door to the right of where you are.
+
+KENNETH HALL
+From the door, turn a cautious left until you see a bigger area of the 
+hall. Turn right, and you'll see a cut-scene featuring a zombie. After 
+this, simply return to the door you just came from, back into the DINING 
+ROOM.
+
+DINING ROOM
+Watch the cut-scene with Barry, and then return through the doubles 
+doors across the hall.
+
+MAIN HALL
+After the cut-scene, run behind the grand staircase all the way to the 
+other side, until you emerge back onto the main area. After yet another 
+cut-scene with Barry, you'll finally get the crucial LOCKPICK. After 
+Barry leaves, take the double doors back into the DINING ROOM.
+
+DINING ROOM
+Run down the room, and then through the single door at the end.
+
+KENNETH HALL
+Run down to Kenneth's corpse (the zombie's gone). Examine him several 
+times to get 2 CLIPS for the BERETTA. Afterwards, head to the other end 
+of the hallway and to the final door on Jill's left. Use the LOCKPICK to 
+unlock it, and head through.
+
+PIANO ROOM
+Run to the piano and run to a small area passed it. There is a movable 
+bookshelf in that small area. Move the shelf to the right and there will 
+be MUSIC NOTES for you to grab. Take them, and then run to the piano. 
+Use the MUSIC NOTES on the piano. After playing "Moonlight Sonata," a 
+wall will rise. Once the wall rises, take your exit (for now).
+
+KENNETH HALL
+Run back to the DINING ROOM.
+
+DINING ROOM
+Run back to the MAIN HALL
+
+MAIN HALL
+If you want, grab the INK RIBBONS at the typewriter and save your game. 
+Then take the blue double doors to the right of the room.
+
+STATUE ROOM
+In here is a statue. You can use the step ladder in the room to reach 
+the map inside the pot of the statue, but it is a waste of time. If you 
+push the cabinet away from the opening, you'll be in a long, red 
+hallway. At the end are INK RIBBONS, but beware of the zombie. When 
+you're ready, take to the only single door in this room and use the 
+LOCKPICK to unlock it. Then go through.
+
+DOG HALL
+Run down the hallway, passed the windows. Zombie dogs will pop through 
+the windows, so run down the hallway to the single door at the end.
+
+DOOR HALLWAY
+There is a GREEN HERB to Jill's left. After grabbing it, run passed the 
+locked door. You'll see another door, but don't go through it; you don't 
+need to. Once you see a single door to Jill's left, take that door.
+
+CEILING ROOM
+This is a big, square, empty room. There is another door across from 
+where Jill's at. So head through it. 
+
+SHOTGUN ROOM
+Run passed the coffee table and grab the SHOTGUN from the rack. You'll 
+notice the little hinges rise. Ignore this and return to the CEILING 
+ROOM.
+
+CEILING ROOM
+Now, you'll notice that the ceiling is slowly falling to the ground. Try 
+opening all doors in this room, and keep doing it until you see another 
+cut-scene with Barry Burton. After the cut-scene, you will be in the 
+DOOR HALLWAY.
+
+DOOR HALLWAY
+After Barry leaves, go through the double doors across from Jill.
+
+DOOR HALLWAY 2
+There are 2 zombies in here, so kill them with the BERETTA. Then take 
+the unlocked door to the left of Jill. 
+
+CROW HALL
+Run down the room, and you'll see several paintings. Here are crows on a 
+rest line above, but they will not hurt you at all (unless you do 
+something wrong in the next puzzle). There is the first puzzle of the 
+game to solve here.
+
+[PAINTING PUZZLE]
+Here are the named of each painting:
+
+Newborn Child 
+Infant 
+Lively Boy 
+Young Man
+Tired Middle Aged Man,
+Bold-Looking Old Man
+The End of Life 
+
+Now press them in that exact order and the final painting you press will 
+reveal the STAR CREST. 
+[PAINTING PUZZLE]
+
+With the STAR CREST on hand, exit the CROW HALL.
+
+DOOR HALLWAY 2
+From the door Jill's at, run straight across to a small branch of the 
+hallway. At the very end is a door. Run through.
+
+EXIT HALL
+We are outside, so run down the hall. Near the end, you'll see a zombie 
+dog, so kill it before it hurts you. Once the dog is dead, run down to 
+the door at the end of this hall. It is locked. To the left of the door 
+are 4 indentations that need to be filled to unlock the door. Insert the 
+STAR CREST. Now return to the DOOR HALLWAY 2.
+
+************************************************************************
+CREST HUNTING
+************************************************************************
+ITEMS: GREEN HERB
+       CHEMICAL
+       BAZOOKA
+       BLUE JEWEL
+       ARMOR KEY
+       GREEN HERB
+       RED HERB
+       CLIP
+       SHOTGUN SHELLS
+       WOODEN EMBLEM
+       GOLD EMBLEM
+       SHEILD KEY
+       WIND CREST
+       SERUM
+       MOON CREST 
+       RADIO 
+
+DOOR HALLWAY 2
+Run back to the bigger portion of the room, and to the door to the right 
+of the locked one. 
+
+RIGHT STAIRS
+Run forward, and at the foot of the stairs is a zombie. Run back to the 
+door, and shoot it from there, so you don't get hurt by it. After it's 
+gone, turn right at the foot of the stairs. There should be a GREEN HERB 
+right there. Grab it. Then take the door to the right of Jill.
+
+RIGHT STAIRS SAVE ROOM
+This is a save room. The item box in the corner (which should have INK 
+RIBBONS and CLIPS) stores items you don't need. Store the COMBAT KNIFE 
+in there. Withdraw all the CLIPS inside and combine them with your 
+current amount of CLIPS. See the supplies to the right of the item box? 
+Examine them for a CHEMICAL. Then go to the typewriter and save the game 
+if you like. Deposit the INK RIBBONS and you should then be ready to go. 
+Exit the room.
+
+RIGHT STAIRS
+Run to the stairs and climb them.
+
+UPPER RIGHT STAIRS
+There is a zombie to Jill's left which should be really easy to kill. At 
+the turn to Jill's right, is a another zombie. Kill it. There is a door 
+you cannot go through, but to the left is an unlocked door. Go through.
+
+U HALL
+All the doors in here are locked for now. So turn to Jill's left and 
+follow the corridor until you reach a door at the end. Unlock it and go 
+through. 
+
+UPPER MAIN HALL
+We are on the second floor of the main hall. Barry will be here, and 
+give you ACID ROUNDS. After he leaves, turn to Jill's left and there 
+should be a single door there. Go through.
+
+BLOODY HALLWAY
+Run down this narrow hallway. At the end is a door. Go through it.
+
+FOREST BALCONY
+Run away from the door and you'll see the corpse of Bravo Team member 
+Forest Speyer. On him is a BAZOOKA. Grab it, and then crows will attack 
+you. Run away from them before they hit. 
+
+BLOODY HALLWAY
+Return to the UPPER MAIN HALL.
+
+UPPER MAIN HALL
+Run across the hall to the only door on the left side.
+
+UPPER DINING ROOM
+From Jill's vantage point, dispatch all the zombies in the room. Once 
+that's done, head over to the statue on the left side of the room. Push 
+it forward, and then push it off the balcony onto the floor below. After 
+that's done, take the door at the other end of the room. 
+
+UPPER LEFT STAIRS
+Run to the stairs area, and kill all the zombies you see (if you still 
+have BERETTA ammo left). Once that's done, head downstairs.
+
+LOWER LEFT STAIRS
+There are more zombies here to take out. Scan the entire hall and kill 
+all the zombies. Then head to the door at the foot of the stairs. 
+
+LEFT STAIRS SAVE ROOM
+Save and unload anything you want (keep as much ammo as you can, 
+though). Then exit.
+
+LOWER LEFT STAIRS 
+Run all the way down the hallway, passed the locked door. At the end, go 
+through the door.
+
+J HALL
+Check the map- the room looks like a J. Run down from Jill's position 
+and turn right at the end. Kill any zombies in here with the BAZOOKA. At 
+the end is a doorway. Go through.
+
+VINE ROOM
+Turn to the area to the left of Jill. In the water pump, place the 
+CHEMICAL in there, and the vines nearby will die. Go to the shield 
+behind the dead vines and grab the ARMOR KEY (MANSION KEY at first, but 
+check the key entirely to change the names. Do this to all keys). Once 
+you have all that, feel free to grab all the HERBS in this room. You can 
+leave them here and pick them up later if you want. Exit.
+
+J HALL
+Head back to the first door you entered this room from, and turn to 
+Jill's left from there. There should be a door to her right, which you 
+can unlock with the LOCKPICK. Go through.
+
+BEDROOM
+Grab the CLIP on the bed. Examine the desk and a zombie will attack you. 
+Kill it by any means and then head to the closet where it was hiding. 
+Grab the SHOTGUN SHELLS. After getting them, grab the file on the desk, 
+and then exit. 
+
+J HALL
+Straight across from the door Jill's at is another branch of the 
+hallway. There is a door there, but don't go through it yet. To the 
+right of the door leading to the bedroom should be unlocked. Then go 
+through.
+
+KENNETH HALL
+We are back in the KENENTH HALL. Take the door to the DINING ROOM.
+
+DINING ROOM
+Run to where the statue fell and grab the BLUE JEWEL. Once you have it, 
+run to the fireplace and grab the WOODEN EMBLEM right above it. Then 
+return to the KENNETH HALL.
+
+KENNETH HALL
+Return to the PIANO ROOM across the hallway.
+
+PIANO ROOM 
+Run to that new area that was unlocked when Jill played the piano. 
+Inside the room is GOLD EMBLEM. Grab it. Once the wall lowers again, use 
+the WOODEN EMBLEM and place it where the GOLD EMBLEM was. Once the wall 
+rises again, exit the room.
+
+KENNETH HALL
+Return to the J HALL.
+
+J HALL
+Run to that door I told you not to go through earlier (across from the 
+bedroom door).
+
+TIGER STATUE ROOM
+Insert the BLUE JEWEL into the tiger statue. You'll get another crest- 
+the WIND CREST! Exit the room.
+
+J HALL
+Return to the KENNETH HALL.
+
+KENNETH HALL
+Run to the DINING ROOM.
+
+DINING ROOM
+Run to the fireplace and use the GOLD EMBLEM there. The grandfather 
+clock in the room will stop ticking, revealing a new key. Grab the 
+SHIELD KEY. Then head over to the MAIN HALL.
+
+MAIN HALL
+Head to the UPPER MAIN HALL. Save at the typewriter if you want.
+
+UPPER MAIN HALL
+Run through the double doors on the right side of the room to the U 
+HALL.
+
+U HALL
+Run down the hall and to the first single door you see. Unlock it with 
+the ARMOR KEY. Enter.
+
+RICHARD ROOM
+Run forward to trigger an annoying cut-scene with Richard Aiken. Then 
+exit.
+
+U HALL
+You need to get Richard SERUM. But first, travel further down the hall 
+to a double door. Unlock it with the ARMOR KEY. Then enter.
+
+KNIGHT ROOM
+See the vents on the floor? Cover them with the 2 red statues you can 
+push. Then push the button in the middle of the room. The glass case 
+should open, revealing the third crest- SUN CREST! Exit the room.
+
+U HALL
+Head to the UPPER RIGHT STAIRS.
+
+UPPER RIGHT STAIRS
+Run down to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Run over to DOOR HALLWAY 2.
+
+DOOR HALLWAY 2
+Run through the door that leads to the EXIT HALL.
+
+EXIT HALL
+Run to the door at the end and insert the WIND and SUN CRESTS into the 
+indentations. You only need one more crest. Return to the DOOR HALLWAY 
+2.
+
+DOOR HALLWAY 2
+Run to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Run up to the UPPER RIGHT STAIRS.
+
+UPPER RIGHT STAIRS
+Run to the U HALL.
+
+U HALL
+Run to the UPPER MAIN HALL.
+
+UPPER MAIN HALL
+Run to the UPPER DINING ROOM.
+
+UPPER DINING ROOM
+Run over to the UPPER LEFT STAIRS.
+
+UPPER LEFT STAIRS
+Head down the stairs to the LOWER LEFT STAIRS.
+
+LEFT STAIRS
+Run to the LEFT STAIRS SAVE ROOM.
+
+LEFT STAIRS SAVE ROOM
+Go to the shelf over by the item box and grab the SERUM. Go ahead and 
+grab the ACID ROUNDS and the BAZOOKA and a HERB or 2. Then exit the 
+room.  
+
+LOWER LEFT STAIRS
+Run up the stairs.
+
+UPPER LEFT STAIRS
+Run to the UPPER DINING HALL.
+
+UPPER DINING HALL
+Run to the UPPER MAIN HALL. 
+
+UPPER MAIN HALL 
+Run to the U HALL.
+
+U HALL
+Run to the RICHARD ROOM.
+
+RICHARD ROOM
+Give Richard the SERUM. He'll then give you a RADIO. Once that's done, 
+grab the 2 GREEN HERBS nearby and run to the door at the end of this 
+room.
+
+T HALL
+Kill the zombie nearby and then run up the stairs. At the end is a door. 
+Use the SHIELD KEY and discard it. Go through.
+
+ATTIC
+Your first boss battle awaits.
+
+**********************************BOSS 1********************************
+YAWN SNAKE
+DIFFICULTY: Easy
+This boss isn't too hard. Just pump 5 or 6 ACID ROUNDS into it before it 
+dies. If the Yawn poisons you, heal with normal HERBS and then keep 
+fighting. After Yawn Snake dies, look near the hole it climbed through. 
+Grab the MOON CREST, the final crest!
+**********************************BOSS 1********************************
+
+Exit the room.
+
+************************************************************************
+ESCAPING THE MANSION
+************************************************************************
+ITEMS: None
+
+T HALL
+Jill might be poisoned, in which case she'll be brought to the LEFT 
+STAIRS SAVE ROOM. If not, aim for the EXIT HALL. By now you should know 
+where to go. 
+
+EXIT HALL
+Slip the MOON CREST into the final indentation to unlock the door. Go 
+through!
+
+-------------------------------------
+Whew! That mansion was evil, and we're out of it- for now! We'll be 
+returning to the mansion after the GUARDHOUSE AREA to explore some of 
+the still-locked doors in the mansion, but it'll be a small detour. For 
+now, we explore the GARDEN and GUARDHOUSE in hopes of finding a way off 
+this estate safely.
+
+B. GUARDHOUSE
+-------------
+
+************************************************************************
+GARDEN AREA
+************************************************************************
+ITEMS: SQUARE CRANK
+       GREEN HERB
+       BLUE HERB
+       RED HERB
+SHED
+You're in a SHED. See the ladder? Push it toward the shelf on the wall 
+and climb the steps. Grab the SQUARE CRANK. Then head through the door 
+at the other end of this room.
+
+GARDEN
+There are 2 RED HERBS and a couple of GREEN HERBS here. Turn the corner 
+for some BLUE HERBS. If you have the RADIO, Brad Vickers will radio you. 
+You can answer it (or ignore it). Answer it by selecting the RADIO 
+option in your item screen. After that, dispatch all the zombie dogs in 
+this room with the SHOTGUN or HANDGUN. Once they're dead, turn to the 
+arm of the room to the right of the BLUE HERBS. At the end is a lift. 
+Remember this lift for later. Returning to the main part of the area, 
+turn to Jill's left and up a set of steps through a gate.
+
+POND ROOM
+Run over to the pond, and turn to Jill's left. Turn to her right at a 
+turn and at the end should be a mechanism. Use the SQUARE CRANK to drain 
+the water in the pond. After it drains, move to the pond and jump down. 
+Run across and up the ladder at the other end. Once back up, follow the 
+pathway to a lift. Watch out for the snakes in this area. Take the lift 
+down.
+
+WATERFALL ROOM
+There are zombie dogs in here for you to kill. Once they're dead, look 
+for another lift in this room. It is the same lift as the one in the 
+GARDEN. It doesn't work, and you'll need a BATTERY for it to work. That 
+is the goal for the next mission: to grab that BATTERY. Look at the 
+waterfall in the room. There is a tunnel passed it. We need to stop the 
+waterfall. But when you drained the pond, the water ended up flowing in 
+front of the tunnel. How can we get passed it without draining the pond? 
+Simple; we need to use the other lift to get here, which means finding 
+the battery for it. After all the cross examining, take the gate in this 
+room. 
+
+************************************************************************
+GUARDHOUSE
+************************************************************************
+ITEMS: GREEN HERB
+       BLUE HERB
+       002 KEY
+      C. ROOM KEY
+      003 KEY
+      HELMET KEY
+      CLIP
+      RED BOOK
+      SHOTGUN SHELLS
+
+GUARDHOUSE ENTRANCE HALL
+There are GREEN HERBS and zombie dogs here, so kill them. Once they're 
+dead, follow the long hallway down to a door.
+
+GUARDHOUSE DOOR ROOM
+This is called a DOOR ROOM because of all the doors in this room. Grab 
+the BLUE HERBS in front of Jill, and then turn the corner to her left. 
+To her left is the 001 door. Enter it.
+
+001 ROOM
+There is a door to the immediate left. Go through it. 
+
+001 BATHROOM
+Drain the bathtub by examining it. Then grab the C. ROOM KEY. Return to 
+the 001 ROOM.
+
+001 ROOM
+Head to the bed inside (kill the zombies) and grab the RED BOOK. Use the 
+LOCKPICK on the desk for more SHOTGUN SHELLS. Exit the room to the 
+GUARDHOUSE DOOR ROOM.
+
+GUARDHOUSE DOOR ROOM
+Go back to the first door of the room. See the statue? Push it to this 
+area of the room
+ 
+     / \DOOR
+    |   |___
+    |    Y__/DOOR
+DOOR|   |
+    |   |_
+    | X  _/DOOR
+    |___|
+
+See where the X is? There is a hole there, so you should put the statue 
+over it. Once that's done, head to the door across from the 001 DOOR.
+
+GUARDHOUSE SAVE ROOM
+A fresh haven! Save and bring some weapons and medicals with you. Then 
+exit.
+
+GUARDHOUSE DOOR ROOM
+Head to the door to the right of the statue. 
+
+GUARDHOUSE HALLWAY
+Run down this hallway, and take the first door to the right.
+
+WASP ROOM
+Run down to the bigger portion of the room, and run passed the locked 
+003 DOOR. It is a wasp nest. Grab the 002 KEY near it. Then exit the 
+room the way you came.
+
+GUARDHOUSE HALLWAY
+Proceed down the hall to the 002 DOOR. Use the 002 KEY. Enter the room.
+
+002 ROOM
+Run to the bed, grab the file and use the LOCKPICK on the desk for some 
+SHOTGUN SHELLS. Then head to the 2 shelves. Push the left one forward, 
+and the right shelf to the right. A new ladder is revealed. Jump down.
+
+SECRET TUNNEL
+In this tunnel is a small pool blocking you from getting further. Run 
+down until you see 2 crates near each other. Push them both into the 
+pool you see at the end. The first crate you saw while entering the room 
+is a little trickier. Here is a map and instructions.
+
+      ____LADDER
+     | <-^ |
+     | | | |
+     | | X_|
+     | | |
+     | | |
+     | | |
+ ____| | |
+|POOL <- |
+----------
+
+The X is the crater. Once all the crates are in the pool, cross the 
+newly formed bridge and soak Jill's feet into the water (grab the GREEN 
+HERBS if you like). Then head through the double doors.
+
+SHARK TANK
+You're in a water filled room. So run to Jill's right. When you see a 
+turn, turn to Jill's left. You'll then see a cut-scene with a shark. Run 
+to a wall with 2 doors on it (keep running forward) and use the C. ROOM 
+KEY on the left door. Then enter.
+
+CONTROL ROOM
+See the button to the right of the door? Press it to drain the SHARK 
+TANK. Then grab press another button in this room to unlock the door 
+next door. On the shelf is a 003 KEY. Exit the room.
+
+SHARK TANK
+With the water drained, the sharks can't do a thing to you anymore. Head 
+to the door to the right of the CONTROL ROOM. 
+
+AMMO ROOM
+In here, grab 2 CLIPS and 2 SHOTGUN SHELLS. Then exit the room.
+
+SHARK TANK
+Return to the SECRET TUNNEL.
+
+SECRET TUNNEL
+Run all the way to the ladder and climb it back to the 002 ROOM.
+
+002 ROOM
+Run to the GUARDHOUSE HALLWAY.
+
+GUARDHOUSE HALLWAY
+Run to the WASP ROOM.
+
+WASP ROOM
+Run to the 003 DOOR and use the 003 KEY. Then enter the room.
+
+003 ROOM
+Run to the bed area and examine the bookshelf. There's a file. Grab it. 
+Then use the RED BOOK on the shelf. The other shelf nearby will move, 
+revealing a door. Head through.
+
+PLANT 42 ROOM
+Another boss awaits...
+
+**********************************BOSS 2********************************
+PLANT 42
+DIFFICULTY: FAIRLY EASY
+Keep firing the Shotgun or Beretta. Eventually, the Plant will look like 
+it's dying. But then it comes back and constricts Jill with a vine. 
+Suddenly, Barry comes in with a FLAMETHROWER and destroys Plant 42! 
+Saved by Barry!
+
+                      ***ALTERNATE PATH***
+If you don't want help from Barry, go to the room with a pad next to it 
+in the WASP ROOM. Type the password "315" in the pad to unlock the door.  
+Go through to the V-JOLT Room. Grab the 4 Empty Bottles. You may need to 
+return to the GUARDHOUSE SAVE ROOM.
+
+Ok, first out water into one bottle. Then look on a shelf and put UMB. 2 
+into another bottle. Combine the water and and UMB. 2 to create 
+something called NP-003. Then Go to another shelf and collect UMB. 4 in 
+another empty bottle. Combine UMB. 4 and NP-003 to make UMB. 7. Now use 
+another bottle and collect some more UMB. 2. Now go use another bottle 
+and collect some UMB. 4. Combine UMB. 2 and UMB. 4 to create Yellow 6.
+
+Then combine Yellow 6 and UMB. 7 to create UMB. 13. Now put some water 
+into another empty bottle. Put some UMB. 2 into another bottle. Combine 
+the water and UMB. 2 to make NP-003 again. Combine NP-003 with UMB. 13 
+to make V-JOLT!!! YAY!
+
+Now go back to the SHARK TANK and through the door you didn't go 
+through. There, look for the plant root and apply the V-JOLT. The roots 
+shrivel up. Now go into the 003 ROOM and grab the Flame Rounds in the 
+003 Bathroom. Now go into the PLANT 42 ROOM. Kill Plant 42 easily with 
+the FLAME ROUNDS and BAZOOKA.
+
+GREAT! You killed Plant 42 without Barry's help!!!
+                      ***END ALTERNATE PATH***
+
+
+**********************************BOSS 2********************************
+
+With Plant 42 dead, head over to the fireplace of this room and grab the 
+HELMET KEY. With the HELMET KEY, we can explore the rest of the mansion. 
+Exit the room through the double doors.
+
+WASP ROOM
+Run to the GUARDHOUSE HALLWAY.
+
+GUARDHOUSE HALLWAY
+Run towards the GUARDHOUSE DOOR ROOM. You'll see a cut-scene with 
+Wesker. After he leaves, continue for the GUARDHOUSE DOOR ROOM.
+
+GUARDHOUSE DOOR ROOM
+Run to the GUARDHOUSE SAVE ROOM.
+
+GUARDHOUSE SAVE ROOM
+Save and make sure you have the BAZOOKA and ACID ROUNDS left over. Then 
+exit.
+
+GUARDHOUSE DOOR ROOM
+Go to the GUARDHOUSE ENTRANCE HALL.
+
+GUARDHOUSE ENTRANCE HALL
+Run down the tunnel to the WATERFALL ROOM.
+
+************************************************************************
+RETURNING TO THE MANSION
+************************************************************************
+ITEMS: None
+
+WATERFALL ROOM
+Run to the working lift and ride it up.
+
+POND ROOM
+From here, run and jump into the pond. Cross it to the other side. Head 
+through the gate.
+
+GARDEN
+Run back to the SHED.
+
+SHED
+Head through the other door in this room.
+
+-------------------------------------
+That was a quick mission, now wasn't it? Well, we're back in the MANSION 
+for only a few minutes so we can find that BATTERY we need to get 
+through the waterfall. With the HELMET KEY on hand, we'll be able to 
+explore those locked doors in the mansion. Well, onto the next mission.
+
+C. RETURN TO MANSION
+--------------------
+
+************************************************************************
+THE BASEMENT
+************************************************************************
+ITEMS: DOOM BOOK 1
+       EXPLOSIVE ROUNDS
+       BATTERY
+
+EXIT HALL
+Run all the way back to the door at the end.
+
+DOOR HALLWAY 2
+A monster will run into the room. It's called the HUNTER. Use ACID 
+ROUNDS against the creature to kill it. Once it's dead, use the HELMET 
+KEY to unlock the door nearby.
+
+STUDY
+Light the lamp on the desk and grab the book nearby, called DOOM BOOK 1. 
+Then exit the room.
+
+DOOR HALLWAY 2
+Run to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Kill the Hunter at the foot of the stairs. Then go to the RIGHT STAIRS 
+SAVE ROOM.
+
+RIGHT STAIRS SAVE ROOM
+Deposit the DOOM BOOK 1. Barry will also have left supplies here. Then 
+save and exit.
+
+RIGHT STAIRS
+Climb the stairs.
+
+UPPER RIGHT STAIRS
+Run to the left and kill Hunter. Then go to the door at the very end. 
+
+FIREPLACE ROOM
+Turn to the right and then use the HELMET KEY on the door. Go through.
+
+PIANO ROOM 2
+Run to the piano (no, you can't play it this time). This will trigger 
+another boss battle...
+
+**********************************BOSS 3********************************
+YAWN 2
+DIFFICULTY: FAIRLY EASY
+Yawn is now scarred from your last battle. After fighting Plant 42, Yawn 
+is a wimp. Load the Acid Rounds and begin firing. If you run out, the 
+Shotgun will finish Yawn off. During the battle, Yawn makes a hole in 
+the floor.
+**********************************BOSS 3********************************
+
+Barry will come into the room after examining the hole.
+
+GRAVESTONE ROOM
+After Barry idiotically drops the rope, wait a few seconds. The Barry 
+will come back with the rope.
+
+PIANO ROOM 2
+Barry should give you a passcode. After he leaves, go back down the 
+hole.
+
+GRAVESTONE ROOM
+Examine the gravestone and then go down the ladder it reveals. 
+
+BASEMENT TUNNEL
+Run all the way down, dispatch the zombie and then run to the door at 
+the end.
+
+BASEMENT TUNNEL 2
+Turn the first corner and another corner and you'll see 2 eating 
+zombies. Turn to Jill's right. At the end is a door. 
+
+KITCHEN
+We're in the kitchen. Run to the very right to see a lying zombie. Kill 
+it. Passed it is an elevator. Ride it down.
+
+ELEVATOR ROOM
+To the right is a zombie. Dispatch it. Turn right and you'll see a door. 
+Go through it.
+
+STOREROOM
+In here are EXPLOSIVE ROUNDS, and a BATTERY. Exit.
+
+[NOTE: With the BATTERY on hand, you can go to the WATERFALL ROOM and 
+use the BATTERY and proceed to the next section. But if you don't follow 
+this next section, you will not be able to save Chris. It's your choice. 
+Make sure you have the SQUARE CRANK.]
+
+************************************************************************
+MO DISK HUNT
+************************************************************************
+ITEMS: MO DISK
+       MAGNUM ROUNDS
+
+ELEVATOR ROOM
+Take the double doors on the other side of this room, passed the 
+elevator. A zombie you can kill is near the door.
+
+LIBRARY
+Kill the 2 zombies in this room. Then head to the right desk and pick it 
+for some MAGNUM ROUNDS. Then head to the left, passed the bookshelves to 
+another door.
+
+SMALL LIBRARY
+In this area, run passed a shelf to a red button. Push it to reveal a 
+light shining on a tile. Passed the button is a statue. Push it to where 
+the light is shining to reveal a hidden annex. On it is an MO DISK. 
+Exit.
+
+LIBRARY
+Head to the ELEVATOR ROOM.
+
+ELEVATOR ROOM
+Take the elevator to the KITCHEN.
+
+[NOTE: This next section is definitely optional. It is for the MAGNUM. 
+You can head to the WATERFALL ROOM now and use the BATTERY if you want. 
+Make sure you have the SQUARE CRANK.]
+
+************************************************************************
+MAGNUM HUNT
+************************************************************************
+ITEMS: RED JEWEL
+       MAGNUM ROUNDS
+       SHOTGUN SHELLS
+       COLT PYTHON
+
+KITCHEN
+Head to the only door in this room you haven't been through yet. A 
+zombie will pop through the door. Kill it and then head through the 
+door.
+
+STAIRCASE
+Climb the stairs and turn the corner passed the elevator. Unlock the 
+door at the end.
+
+KENNETH HALL
+There are 2 Hunters here, so kill them. Then head to the J HALL.
+
+J HALL
+There is a Hunter here, as well, so kill it immediately. Run to the 
+LOWER LEFT STAIRS.
+
+LOWER LEFT STAIRS
+Run forward and kill the Hunter. Head for the foot of the stairs and 
+kill the Hunter there, too. Then head into the LEFT STAIRS SAVE ROOM.
+
+LEFT STAIRS SAVE ROOM
+Put the MO DISK inside the item box and save. Withdraw the SQUARE CRANK, 
+too. Then exit.
+
+LOWER LEFT STAIRS
+Climb the stairs.
+
+UPPER LEFT STAIRS
+To the left of the is a Hunter. Kill it. Then unlock the closest door 
+with the HELMET KEY. Discard the HELMET KEY. There is another door to 
+the far left. Unlock it with Barry's passcode. 
+
+[NOTE: The passcode door leads back to the area of the LIBRARY. Unless 
+you missed anything there, you don't need to go through it.]
+
+Take the door you unlocked with the HELMET KEY.
+
+RED JEWEL ROOM
+Grab the MAGNUM ROUNDS and SHOTGUN SHELLS on the table. See the ladder? 
+Push it to the left and toward that deer head. Then go to the light 
+switch near the door and flip it off. Go up the stepladder and grab the 
+RED JEWEL. Exit the room.
+
+UPPER LEFT STAIRS
+Head down the stairs.
+
+LOWER LEFT STAIRS
+Head for the J HALL.
+
+J HALL
+Head for the TIGER STATUE ROOM.
+
+TIGER STATUE ROOM
+Use the RED JEWEL on the tiger. Then grab the COLT PYTHON. Exit.
+
+[NOTE: Now head for the SHED.]
+
+************************************************************************
+STOPPING THE WATERFALL
+************************************************************************
+ITEMS: None
+
+[NOTE: We should all be at the SHED now.]
+
+SHED
+Take the door to the GARDEN.
+
+GARDEN
+Head for the POND ROOM.
+
+POND ROOM
+Run across the pond to the lift at the end. Ride it down.
+
+WATERFALL ROOM
+Run to the non-working elevator. Use the BATTERY there (on the box 
+surrounded by yellow/black stripes). Then ride the lift up.
+
+GARDEN
+Back here, run over to the POND ROOM.
+
+POND ROOM
+Use the SQUARE CRANK on the mechanism again. Then return to the GARDEN.
+
+GARDEN
+Head down the lift to the WATERFALL ROOM.
+
+WATERFALL ROOM
+Head to where the waterfall was flowing. The ladder is now revealed. 
+Head down...
+
+-------------------------------------
+Well, now that the mansion's history, we now explore the tunnels beneath 
+the guardhouse. Hopefully we'll find a way to get off this estate.
+
+D. TUNNELS
+----------
+
+************************************************************************
+SNIPERS, BOULDERS AND MEDALS
+************************************************************************
+ITEMS: HEX CRANK
+       COMBAT KNIFE
+       EAGLE MEDAL
+       DOOM BOOK 2
+       WOLF MEDAL
+       MO DISK 2
+
+TUNNEL 1
+Down the ladder, turn to the first door to the right.
+
+TUNNEL 2
+Watch the cut-scene and you are presented with several options. Press 
+whatever you want for both. Whatever you press influences your ending. 
+Run down to the right to the door at the end.
+
+TUNNEL 3
+Run through this empty tunnel. If Barry's with you, a Hunter will pop in 
+after you try to open the other door. Go through the door after Barry 
+kills it.
+
+ENRICO TUNNEL
+Run all the way down until you see Enrico. After the cut-scene, run back 
+to TUNNEL 3. On your way out of the room, you'll see a HEX CRANK.
+
+TUNNEL 3
+Run all the way back to TUNNEL 2. Kill the Hunters here.
+
+TUNNEL 2
+There are Hunters here for you to kill. Then head back to TUNNEL 1.
+
+TUNNEL 1
+Turn right from the door until you see a typewriter. Use the HEX CRANK 
+at the mechanism on the left wall, after you turn to corner at the 
+typewriter. Then run to the door at the end.
+
+BOULDER ROOM
+From the door, turn right. You'll see a boulder. Run up to it, and then 
+turn around. When a cut-scene hits, run from the boulder back to the 
+door before it crushes you. The boulder breaks a wall, so you can now go 
+through. Run to where the boulder went and turn the corner to a double 
+door.
+
+GIANT SPIDER ROOM
+Yet another boss is here to fight you...
+
+**********************************BOSS 4********************************
+BLACK TIGER SPIDER
+DIFFICULTY: VERY EASY
+CODE: Veronica and CODE: Veronica X veterans will recognize this monster 
+as the Giant Spider. But like in CODE: Veronica and CODE: Veronica X, 
+this boss is pathetic, especially when you just fought Plant 42 and 
+Yawn! Use the COLT PYTHON and cap the monster until it dies. EXPLOSIVE 
+ROUNDS are also effective. 
+**********************************BOSS 4********************************
+
+See the shining item in the corner? It's a COMBAT KNIFE exactly like the 
+one you started with. See that door blocked by webbing? Use the COMBAT 
+KNIFE to hack away at it. Then go through the door (reequipping your 
+weapon).
+
+TUNNEL 4
+Head to the left of Jill and through the door.
+
+TUNNEL SAVE ROOM
+In this room in the corner is a BLUE HERB in case you were poisoned by 
+the Giant Spider. Save the game and deposit the SQUARE CRANK and the 
+COMBAT KNIFE. Withdraw DOOM BOOK 1. Grab the FIRST AID SPRAY and then 
+save the game. Exit.
+
+TUNNEL 4
+There are snakes here now, so run to the door at the other end.
+
+BOULDER ROOM 2
+Turn to Jill's left and make another turn. There should be a lift at the 
+end. Ride it up.
+
+POND ROOM 2
+Another POND ROOM? Luckily, no waterfalls are involved! Anyway, head 
+over to the pond. Look at the part where an eagle is at. CHECK the pages 
+of DOOM BOOK 1. You'll get an EAGLE MEDAL. Use it at the eagle section 
+of the pond. Then go back down the lift.
+
+BOULDER ROOM 2
+Head back passed the door to another area of this room. Run to the left 
+of the main area and look for another mechanism. Use the HEX CRANK 
+there. Use it _THREE_ times. Then take the small passage to the left and 
+through the door.
+
+BUTTON ROOM
+Look for the hole with the HEX CRANK shape and use it for a block of 
+wall to move away. Turn the HEX Crank again for the wall to retreat. 
+Then use the statue and push it to where the wall would move. Use the 
+HEX CRANK again and the statue can now be pushed over the button on the 
+floor. Push it and a little compartment in the room opens. Inside is 
+DOOM BOOM 2. Check the innards for a WOLF MEDAL. Exit. 
+
+BOULDER ROOM 2
+Now turn left from the small niche and go until the camera angle 
+changes. Now head back and the boulder will begin to move. Run into the 
+little niche to avoid it. Then run to the area it was blocking. In a 
+small compartment is a MO DISK. Run back to the lift to the POND ROOM 2.
+
+POND ROOM 2
+Run to the pond and slip the WOLF MEDAL into its appropriate engraving. 
+The pond will drain. Enter.
+
+POND STAIRS
+Head a few steps into the elevator, down into the LABORATORY...
+
+-------------------------------------
+Well, we made it into the lab. The puzzles in the mansion, the traps in 
+the tunnel and the existence of that stupid waterfall in the GARDEN were 
+meant to hide this place, so it must be important. What's down here? 
+Well, let's go find out!
+
+E. LABORATORY
+------------- 
+
+************************************************************************
+SEARCHING AROUND
+************************************************************************
+ITEMS: MO DISK 3
+       POWER ROOM KEY
+       FLAME ROUNDS
+
+ENTRANCE ROOM
+Run down and you'll see locked double doors. Take the ladder down 
+instead.
+
+LABORATORY ITEM BOX ROOM
+There is a lone item box here. Deposit the HEX CRANK and withdraw the 
+other MO DISK. Then head to the other door.
+
+UPPER STAIR HALL
+Kill all the zombies in here, and turn left at the top of the stairs. 
+There is an MO DISK there. Grab it if you want to save Chris. Then head 
+down the stairs. 
+
+O ROOM
+Kill the zombie in front of Jill and turn to her left. There are double 
+doors that are unlocked. Go through them.
+
+COMPUTER ROOM
+Run to the computer in front of Jill. Activate it. Log on as the user 
+"JOHN." Then enter the password "ADA" (Same Ada as in RE2). Then select 
+the B2 FLOOR. Then enter the password "MOLE." Then unlock the B3 FLOOR. 
+Once they're all unlocked, exit the room.
+
+O ROOM
+Head to the double doors left of the staircase.
+
+LAB HALL 1
+Take the first door to Jill's right.
+
+ZOMBIE ROOM
+Kill all the zombies in here before they get you. Then run to the desk 
+in this room after grabbing the fax from the niche in the wall. Use a MO 
+DISK. Then exit the room.
+
+LAB HALL 1
+Turn to Jill's right from the door. Then examine the blinking panel. 
+Jill will register the passcode. Then return to the O ROOM.
+
+O ROOM
+Head up the stairs.
+
+UPPER STAIR HALL
+Take the double doors above the staircase, near where you found the MO 
+DISK. 
+
+OFFICE
+Look on the wall left of the projector to find a movable pannel. Move it 
+and press the button so a wall beam will move. A key is there, so grab 
+it. It is a LAB KEY, which turns into a POWER ROOM KEY. Exit.
+
+UPPER STAIR HALL
+Head down to the O ROOM.
+
+O ROOM
+Run to a double door with a red symbol in front of it. Head through it.
+
+LAB HALL 2
+Take the double doors to the immediate left of Jill.
+
+OPERATING ROOM
+Push the crates over the vents on the floor (should be fairly simple, 
+use your logic). Then push the ladder between them over the button. Go 
+up the ladder and through the vent. 
+
+OPERATING ROOM 2
+On the shelf are MAGNUM ROUNDS. Look for an MO DISK reader and use an MO 
+DISK. Then exit through the double doors.
+
+O ROOM
+Head back to the LAB HALL 2.
+
+LAB HALL 2
+Proceed passed the double doors to a single door. 
+
+LABORATORY SAVE ROOM 
+Save and grab the FLAME ROUNDS if you want. Then exit. 
+
+LAB HALL 2
+Make sure you have the COLT PYTHON equipped. Then travel to Jill's left 
+to a double door. Then enter the POWER ROOM 1.
+
+POWER ROOM 1
+Turn to Jill's right and walk down a corridor. Kill the Chimera at the 
+end with the COLT PYTHON. Then activate the panel at the end. Double 
+back to the door, kill the Chimera above and turn to Jill's right. Turn 
+another left (From Jill's view) and through a door.
+
+POWER ROOM 2
+Kill the Chimera directly above you and proceed down the room. You'll 
+see another MO DISK reader, so use the final MO DISK. Double back 
+towards the door and turn left, killing the Chimera nearby. At the end 
+is a door, Go through.
+
+POWER ROOM 3
+Run to the computer console on that big... thing in the middle of the 
+room. There are 2 of them. One of them restores power. Use that one. 
+Then exit.
+
+POWER ROOM 2
+Make your way to POWER ROOM 1.
+
+POWER ROOM 1
+Make your way to LAB HALL 2.
+
+LAB HALL 2
+Run all the way to the other end of the room to an elevator. Barry might 
+come after you activate the elevator via a panel to the right of it. 
+Ride the elevator up.
+
+LAB HALL 3
+After the cut-scene, you'll end up in the TYRANT ROOM.
+
+TYRANT ROOM
+Watch the cut-scene. Then you're in a boss battle.
+
+**********************************BOSS 5********************************
+TYRANT 002
+DIFFICULTY: MEDIUM
+Compared to Yawn and Plant 42, this boss is harder, but that's not 
+saying much. Load the COLT PYTHON and then starting running. Cap Tyrant 
+with 4 Magnum Bullets and Tyrant falls to the ground. The ultimate bio-
+weapon, as many say, is the ultimate failure.
+**********************************BOSS 5********************************
+
+If he lived, wake Barry up. If you were with Wesker, grab the MASTER KEY 
+from him. 
+
+[NOTE: If you have the MASTER KEY, you can exit the labs now at the very 
+first room.] Exit the room.
+
+************************************************************************
+ESCAPING
+************************************************************************
+
+LAB HALL 3
+If Barry lived, the triggering system is now active. Ride the elevator 
+down.
+
+LAB HALL 2
+Run to the O ROOM.
+
+O ROOM
+Run to the LAB HALL 1.
+
+LAB HALL 1
+Head for the blinking panel. Use the passcodes. Then go through.
+
+LAB HALL 4
+Run down to the door at the end and free Chris. Then return to the ;LAB 
+HALL 1.
+
+LAB HALL 1
+Run to the O ROOM.
+
+O ROOM
+Run up the staircase.
+
+UPPER STAIR HALL
+There are a lot of zombies here, so kill them. 
+
+LABORATORY ITEM BOX ROOM
+Run through this room and grab any items you need.
+
+ENTRANCE ROOM
+Head through the double doors.
+
+EXIT HALLWAY
+Run all the way down. You'll get a radio from Brad. Keep running and 
+grab the BATTERY at the end of the room. Use it on the elevator (to the 
+right of it). Ride the elevator up.
+
+SPENCER ESTATE ROOF
+Grab the FLARE to the right of Jill and use it. If Barry lived, you'll 
+witness the final boss battle.
+
+
+**********************************BOSS 6********************************
+TYRANT 002
+DIFFICULTY: HARD
+This boss is hard. Yawn and Plant 42 are wimps compared to him. Start by 
+firing the COLT PYTHON and dodging and healing against Tyrant. Tyrant 
+has a mean claw, so watch out. Eventually, Brad Vickers will drop the 
+ROCKET LAUNCHER down. Pick it up and aim at Tyrant. Jill kills Tyrant!
+**********************************BOSS 6********************************
+
+Game over...
+
+========================================================================
+
+5. W A L K T H R O U G H : C H R I S   R E D F I E L D
+
+========================================================================
+
+A. MANSION
+----------
+
+DINING ROOM
+As Chris, run down the hall to the door on the other side. 
+
+KENNETH HALL
+From the door, turn a cautious left until you see a bigger area of the 
+hall. Turn right, and you'll see a cut-scene featuring a zombie. After 
+this, simply return to the door you just came from, back into the DINING 
+ROOM.
+
+DINING ROOM
+Return through the double doors across the hall.
+
+MAIN HALL
+After the cut-scene, grab the BERETTA. Then return to the DINING ROOM.
+
+DINING ROOM
+Run down the room, and then through the single door at the end.
+
+KENNETH HALL
+Run down to Kenneth's corpse (the zombie's still there). Examine him 
+several times to get 2 CLIPS for the BERETTA. Run back to the DINING 
+ROOM.
+
+DINING ROOM
+Run back to the MAIN HALL.
+
+MAIN HALL
+Climb the stairs to the UPPER MAIN HALL. 
+
+UPPER MAIN HALL
+Run across the hall to the only door on the left side.
+
+UPPER DINING ROOM
+From Chris' vantage point, dispatch all the zombies in the room. Once 
+that's done, head over to the statue on the left side of the room. Push 
+it forward, and then push it off the balcony onto the floor below. After 
+that's done, take the door at the other end of the room. 
+
+UPPER LEFT STAIRS
+Run to the stairs area, and kill all the zombies you see. Once that's 
+done, head downstairs.
+
+LEFT STAIRS SAVE ROOM
+You'll see a cut-scene with Rebecca Chambers. Save and unload anything 
+you want (keep as much ammo as you can, though). Grab the SWORD KEY. 
+Then attempt to exit. Make your choice. 
+
+LOWER LEFT STAIRS 
+Run all the way down the hallway, passed the locked door. At the end, go 
+through the door.
+
+J HALL
+Check the map- the room looks like a J. Run right from Chris' position 
+and turn right at the door. Kill any zombies in here with the BERETTA. 
+Then unlock the door with the SWORD KEY. Enter. 
+
+BEDROOM
+Grab the CLIP on the bed. Examine the desk and a zombie will attack you. 
+Kill it by any means and then head to the closet where it was hiding. 
+Grab the SHOTGUN SHELLS. After getting them, grab the file on the desk, 
+and then exit. 
+
+J HALL
+Straight across from the door Chris' at is another branch of the 
+hallway. There is a door there, but don't go through it yet. To the 
+right of the door leading to the bedroom should be unlocked. Then go 
+through.
+
+KENNETH HALL
+We are back in the KENENTH HALL. Take the door left of Chris at the end 
+of the hall. Unlock it with the SWORD KEY.
+
+PIANO ROOM
+Run to the piano and run to a small area passed it. There is a movable 
+bookshelf in that small area. Move the shelf to the right and there will 
+be MUSIC NOTES for you to grab. Take them, and then run to the piano. 
+Use the MUSIC NOTES on the piano. Rebecca will then come in: let her 
+practice. Leave.
+
+KENNETH HALL
+Run back to the DINING ROOM.
+
+DINING ROOM
+Run back to the MAIN HALL.
+
+MAIN HALL
+If you want, grab the INK RIBBONS at the typewriter and save your game. 
+Then take the blue double doors to the right of the room.
+
+STATUE ROOM
+In here is a statue. You can use the step ladder in the room to reach 
+the map inside the pot of the statue, but it is a waste of time. If you 
+push the cabinet away from the opening, you'll be in a long, red 
+hallway. At the end are INK RIBBONS, but beware of the zombie. When 
+you're ready, take to the only single door in this room and use the 
+SWORD KEY to unlock it. Discard the SWORD KEY. Then go through.
+
+DOG HALL
+Run down the hallway, passed the windows. Zombie dogs will pop through 
+the windows, so run down the hallway to the single door at the end.
+
+DOOR HALLWAY
+There is a GREEN HERB to Chris' left. After grabbing it, run passed the 
+locked door. You'll see another door, go through it.
+
+BATHROOM
+Drain the tub and grab the SMALL KEY in it once it's drained. Then exit.
+
+DOOR HALLWAY
+Continue down the hallway to a set of double doors. Enter them.
+
+DOOR HALLWAY 2
+There are 2 zombies in here, so kill them with the BERETTA. Then take 
+the unlocked door to the left of Chris. 
+
+CROW HALL
+Run down the room, and you'll see several paintings. Here are crows on a 
+rest line above, but they will not hurt you at all (unless you do 
+something wrong in the next puzzle). There is the first puzzle of the 
+game to solve here.
+
+[PAINTING PUZZLE]
+Here are the named of each painting:
+
+Newborn Child 
+Infant 
+Lively Boy 
+Young Man
+Tired Middle Aged Man,
+Bold-Looking Old Man
+The End of Life 
+
+Now press them in that exact order and the final painting you press will 
+reveal the STAR CREST. 
+[PAINTING PUZZLE]
+
+With the STAR CREST on hand, exit the CROW HALL.
+
+DOOR HALLWAY 2
+From the door Chris' at, run straight across to a small branch of the 
+hallway. At the very end is a door. Run through.
+
+EXIT HALL
+We are outside, so run down the hall. Near the end, you'll see a zombie 
+dog, so kill it before it hurts you. Once the dog is dead, run down to 
+the door at the end of this hall. It is locked. To the left of the door 
+are 4 indentations that need to be filled to unlock the door. Insert the 
+STAR CREST. Now return to the DOOR HALLWAY 2.
+
+************************************************************************
+CREST HUNTING
+************************************************************************
+ITEMS: GREEN HERB
+       CHEMICAL
+       BLUE JEWEL
+       ARMOR KEY
+       BROKEN SHOTGUN
+       GREEN HERB
+       RED HERB
+       CLIP
+       SHOTGUN SHELLS
+       WOODEN EMBLEM
+       GOLD EMBLEM
+       SHEILD KEY
+       WIND CREST
+       SERUM
+       MOON CREST 
+       RADIO 
+
+DOOR HALLWAY 2
+Run back to the bigger portion of the room, and to the door to the right 
+of the locked one. 
+
+RIGHT STAIRS
+Run forward, and at the foot of the stairs is a zombie. Run back to the 
+door, and shoot it from there, so you don't get hurt by it. After it's 
+gone, turn right at the foot of the stairs. There should be a GREEN HERB 
+right there. Grab it. Then take the door to the right of Chris.
+
+RIGHT STAIRS SAVE ROOM
+This is a save room. The item box in the corner (which should have INK 
+RIBBONS and CLIPS) stores items you don't need. Store the COMBAT KNIFE 
+in there. Withdraw all the CLIPS inside and combine them with your 
+current amount of CLIPS. See the supplies to the right of the item box? 
+Examine them for a CHEMICAL. Then go to the typewriter and save the game 
+if you like. Deposit the INK RIBBONS and you should then be ready to go. 
+Exit the room.
+
+RIGHT STAIRS
+Run to the stairs and climb them.
+
+UPPER RIGHT STAIRS
+There is a zombie to Chris' left which should be really easy to kill. At 
+the turn to Chris' right, is a another zombie. Kill it. There is a door 
+you cannot go through, but to the left is an unlocked door. Go through.
+
+U HALL
+All the doors in here are locked for now. So turn to Chris' left and 
+follow the corridor until you reach a door at the end. Unlock it and go 
+through. 
+
+UPPER MAIN HALL
+We are on the second floor of the main hall. Turn to Chris' left and 
+there should be a single door there. Go through.
+
+BLOODY HALLWAY
+Run down this narrow hallway. At the end is a door. Go through it.
+
+FOREST BALCONY
+Run away from the door and you'll see the corpse of Bravo Team member 
+Forest Speyer. On him is a CLIP. Grab it, and then crows will attack 
+you. Run away from them before they hit. 
+
+BLOODY HALLWAY
+Return to the UPPER MAIN HALL.
+
+UPPER MAIN HALL
+Run down to the MAIN HALL.
+
+MAIN HALL
+Run to the DINING ROOM.
+
+DINING ROOM
+Run to the KENNETH HALL.
+
+KENNETH HALL
+Run to the J HALL.
+
+J HALL
+Check the map- the room looks like a J. Run down from Chris' position 
+and turn right at the end. Kill any zombies in here with the BERETTA. At 
+the end is a doorway. Go through.
+
+VINE ROOM
+Turn to the area to the left of Chris. In the water pump, place the 
+CHEMICAL in there, and the vines nearby will die. Go to the shield 
+behind the dead vines and grab the ARMOR KEY (MANSION KEY at first, but 
+check the key entirely to change the names. Do this to all keys). Once 
+you have all that, feel free to grab all the HERBS in this room. You can 
+leave them here and pick them up later if you want. Exit.
+
+J HALL
+Run to the LOWER LEFT STAIRS.
+
+LOWER LEFT STAIRS
+Take the door immediately to Chris' left.
+
+STOREROOM
+Grab the CLIP, BROKEN SHOTGUN and use the SMALL KEY on the desk in the 
+corner for some SHOTGUN SHELLS. Then exit.
+
+LOWER LEFT STAIRS
+Run to the LEFT STAIRS SAVE ROOM.
+
+LEFT STAIRS SAVE ROOM
+Deposit the SHOTGUN SHELLS and BROKEN SHOTGUN. Then exit.
+
+LOWER LEFT STAIRS
+Head to the J HALL.
+
+J HALL
+Run back to the KENNETH HALL.
+
+KENNETH HALL
+Return to the DINING ROOM.
+
+DINING ROOM
+Look above the fireplace for a WOODEN EMBLEM. Then return to the KENNETH 
+HALL.
+
+KENNETH HALL
+Run down to the PIANO ROOM.
+
+PIANO ROOM
+By now, Rebecca should be able to play the piano. When the wall rises, 
+go in and grab the GOLD EMBLEM from the wall, and replace it with the 
+WOODEN EMBLEM so the wall doesn't fall down. Then return to the KENNETH 
+HALL. 
+
+KENNETH HALL
+Return to the DINING ROOM.
+
+DINING ROOM
+Run to where the statue fell and grab the BLUE JEWEL. Once you have it, 
+run to the fireplace and use the GOLD EMBLEM right above it. You'll get 
+a SHIELD KEY. Return to the KENNETH HALL.
+
+KENNETH HALL
+Return to the J HALL.
+
+J HALL
+Run to that door I told you not to go through earlier (across from the 
+bedroom door).
+
+TIGER STATUE ROOM
+Insert the BLUE JEWEL into the tiger statue. You'll get another crest- 
+the WIND CREST! Exit the room.
+
+J HALL
+Return to the KENNETH HALL.
+
+KENNETH HALL
+Run to the DINING ROOM.
+
+DINING ROOM
+Return to the MAIN HALL. 
+
+MAIN HALL
+Climb the stairs to the UPPER MAIN HALL.
+
+UPPER MAIN HALL
+Head for the U HALL.
+
+U HALL
+Unlock all the doors in this room that require an ARMOR KEY. Then return 
+to the UPPER RIGHT STAIRS. 
+
+UPPER RIGHT STAIRS
+Head down to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Head down to the RIGHT STAIRS SAVE ROOM.
+
+RIGHT STAIRS SAVE ROOM
+Withdraw the BROKEN SHOTGUN and SHOTGUN SHELLS. Deposit the ARMOR KEY. 
+It isn't needed anymore. Exit. 
+
+RIGHT STAIRS
+Head to the DOOR HALLWAY 2.
+
+DOOR HALLWAY 2
+Run to the EXIT HALL.
+
+EXIT HALL
+Place the WIND CREST on the indentations to the left of the door. Then 
+exit the way you came. 
+
+DOOR HALLWAY 2
+Run to the DOOR HALLWAY 1.
+
+DOOR HALLWAY 1
+Head to the double doors across from Chris. 
+
+CEILING ROOM
+This is a big, square, empty room. There is another door across from 
+where Jill's at. So head through it. 
+
+SHOTGUN ROOM
+Run passed the coffee table and grab the SHOTGUN from the rack. You'll 
+notice the little hinges rise. Put the BROKEN SHOTGUN in its place and 
+return to the CEILING ROOM.
+
+CEILING ROOM
+Run through here back to the DOOR HALLWAY 1.
+
+DOOR HALLWAY 1
+Head to the DOOR HALLWAY 2.
+
+DOOR HALLWAY 2
+Run to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Run to the UPPER RIGHT STAIRS.
+
+UPPER RIGHT STAIRS
+Run to the U HALL.
+
+U HALL
+Run to the double doors you unlocked.
+
+KNIGHT ROOM
+See the vents on the floor? Cover them with the 2 red statues you can 
+push. Then push the button in the middle of the room. The glass case 
+should open, revealing the third crest- SUN CREST! Exit the room.
+
+U HALL
+Head to the UPPER RIGHT STAIRS.
+
+UPPER RIGHT STAIRS
+Run down to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Run over to DOOR HALLWAY 2.
+
+DOOR HALLWAY 2
+Run through the door that leads to the EXIT HALL.
+
+EXIT HALL
+Run to the door at the end and insert the SUN CREST into the 
+indentations. You only need one more crest. Return to the DOOR HALLWAY 
+2.
+
+DOOR HALLWAY 2
+Run to the RIGHT STAIRS.
+
+RIGHT STAIRS
+Run to the U HALL.
+
+U HALL
+Run to the single door you unlocked. Then enter it.
+
+RICHARD ROOM
+Run forward to see the body of Richard Aiken. Then head to the door 
+beyond him. 
+
+T HALL
+Run up the steps, use the SHIELD KEY on the door and go through.
+
+ATTIC
+Chris' first boss awaits...
+
+**********************************BOSS 1********************************
+YAWN I
+DIIFICULTY: MEDIUM
+Since Chris doesn't have the ACID ROUNDS like Jill, his is harder. When 
+Yawn attacks, fire the Shotgun from a safe distance. If it gets near 
+you, go to the other side and continue shooting. After about 5 bullets, 
+Yawn should die. If you run short of SHOTGUN SHELLS, the BERETTA will be 
+able to do the rest if you fired at least 5 SHELLS. Yawn will eventually 
+run. Grab the MOON CREST from the area Yawn was hiding in.
+**********************************BOSS 1********************************
+
+CHRIS IS POISONED!--------------------------
+If he is, you'll control Rebecca. Take her to the LEFT STAIRS SAVE ROOM 
+and grab SERUM from the shelf. Then take it back to Chris. If you take 
+too long, Chris will die and the game will end.
+CHRIS IS POISONED!--------------------------
+
+B. GUARDHOUSE
+-------------
+
+
+
+C. RETURN TO MANSION
+--------------------
+
+D. TUNNELS
+----------
+
+E. LABORATORY
+------------- 
+
+========================================================================
+
+6. W E S K E R ' S   R E P O R T
+
+========================================================================
+
+If you pre-ordered the American Version of Resident Evil CODE: Veronica 
+X, bought the Japanese PS2 or DC version of CODE: Veronica Complete, or 
+bought the BioHazard 5th Anniversary Briefcase, you got the Wesker's 
+Report DVD. 
+
+If you didn't, it's here for you to read, because it bursts with seams 
+of the original PSX RE, RE2 and RE3 information. Others may hate the 
+Report because they can't think what Capcom is aiming with that, but I 
+love it!
+
+Sure, the information for the "Mansion Incident" may seem a little 
+outdated when the GameCube remake is accounted for, since it covers the 
+original PlayStation version, but it still contains the basic 
+information about the storyline of Resident Evil. 
+
+This can also help those folks out who have just started the series on 
+GameCube, and want to find out more about Resident Evil 2 and Resident 
+Evil 3: Nemesis, until the GameCube ports of those games come out. In 
+any case, here is Wesker's Report I in its entirety.
+ 
+------------------------------------------------------------------------
+
+============
+INTRODUCTION
+============
+"My name is Albert Wesker. I aspired to become a leading researcher at
+Umbrella Inc. A pharmaceutical enterprise who covertly conduction Bio
+Organic Weapons, better known as B.O.W., for development. But at the
+leader development training ground situated in Raccoon City, I met a
+brilliant and talented researcher who decided to take a different path;
+William Birkin.
+
+In time I shifted my position to S.T.A.R.S., a special force unit of
+the Raccoon Police Department. Umbrella, for crisis management reasons
+of their illegal Bio Organic Weapons development had many of its people
+working in the police department.
+
+I became the leader of S.T.A.R.S. and conducted all sorts of
+intelligence activities for Umbrella. As I continued to serve I devised
+my own plans and waited for the right time moment to execute them. Then
+at last, opportunity knocked.
+
+==============
+1998 July 24th
+==============
+The freak murder incidents that had occurred in the forest near the
+mansion started it all. The mansion was Umbrella's secret BOW
+laboratory and it was clear that the indevelopment T-Virus was the
+cause of the murder. Initially, Umbrella instructed me secretively to
+keep S.T.A.R.S. to the mansion, dispose of them, then report the
+situation to headquarters so that their combat with the B.O.W. could be
+used for data analysis allowing Umbrella a comprehensive portrait of
+the B.O.W.'s combat abilities.
+
+From the two S.T.A.R.S. teams I first pitched in the Bravo Team. As
+expected, the top elite of S.T.A.R.S. gave all they had and became
+useful sample data. Then following, I geared up the Alpha Team to
+"search and rescue" the lost Bravo Team. The members of Alpha Team also
+proved their worth and as expected many died.
+
+There were five survivors from the initial eleven S.T.A.R.S. members.
+From the Alpha team were Chris Redfield, Jill Valentine and Barry
+Burton. And from the Bravo Team were Rebecca Chambers and Enrico
+Marini. It was time to begin executing my plans.
+
+In the midst of the whole affair I could take Umbrella's ultimate Bio-
+Organic Weapon, the Tyrant, and join forces with an opposing
+corporation of Umbrella. To buy into that opposing corporation I would
+need the actual combat data of the Tyrant. The surviving privileged
+members of S.T.A.R.S. were just the perfect bait.
+
+I decided to have one of them play the Judas and draw them to the
+Tyrant. That Judas was Barry. Barry was the strong truth and justice
+kind and cherished his family more than anything. His type is easy to
+manipulate. I just took that most important thing away from him.
+
+My only miscalculation was the high potential of Chris and Jill. But
+with the family man Barry playing Judas the scheme went as planned.
+Then the winds turn unexpectedly. I had to eliminate Enrico who found
+out what was behind it all. I used Barry to get to him.
+
+After I successfully got rid of that nuisance I awaited the sample
+specimen that Barry would bring to me in the Tyrant room. I injected
+the virus I obtained from Birkin in advance. If I made Umbrella believe
+I was dead, it made it far more convenient to sell myself to the
+opposing corporation.
+
+According to Birkin the virus had profound effects. It would put my
+body in a state of temporary "death". It would then bring me back to
+life with super human powers. Therefore I unleashed an awesome Tyrant
+from its slumber and let it attack me. As my consciousness faded away I
+was certain that the whole scheme would end in success.
+
+Never did I imagine that S.T.A.R.S. could slay the evil creation. I
+lost the Tyrant and the plan I devised which cost me my humanity ended
+in failure. Now anything and anyone who stood in my way would be
+terminated. It's been that way for a long time and it always will be.
+At all costs I had to make S.T.A.R.S. pay.
+
+=========
+September
+=========
+Two months had passed since the mansion incident.
+
+To regain everything I had lost in my new organization I joined hands
+with Ada Wong, a female agent who was also sent to spy on Umbrella. I
+knew in my bones that the key developer was William Birkin, but what he
+didn't know was that Umbrella did not play games...with anyone.
+
+Eventually, Birkin would be assassinated, and the G-virus would be in
+the hands of Umbrella. But the salvage team led by Hunk was ahead of
+us. By the time they got to Birkin, he'd already injected himself with
+the G-virus...he became his own creation, and decimated them. Soon
+after, the T-virus carried by rats spread throughout Raccoon City, and
+Umbrella faced its worst scenario.
+
+==============
+September 28th
+==============
+The good citizens became zombies, and the city had headed for its
+devastating fate. Humans were no match against zombies. In the chaos,
+Umbrella Europe applied a new type B.O.W., called "Nemesis". The
+Nemesis would hunt down and destroy the surviving member of S.T.A.R.S.,
+Jill. It became imperative that our organization would also obtain the
+Nemesis data.
+
+==============
+September 29th
+==============
+To cover up the whole affair, Umbrella jettisoned a Tyrant to take care
+of Leon and Claire, who were trying to unveil their secrets. Then,
+there was a new revelation. Birkin used to hide the findings of his
+studies in his daughter Sherry's pendant.
+
+It was very possible that the G-virus was there. While Umbrella was
+busy with their cover up, we had to capture Sherry before they did. I
+sent Ada undercover to seek the location of Sherry. I, the "dead man"
+on the other hand, had to work in the shadows.
+
+A spy's obligation and priority is in mission, to carry out the mission
+like a machine without any emotional interference. But through her
+interaction and involvement with Leon Scott Kennedy, there had been an
+affection growing inside her. My instincts sensed danger. Something had
+to be done, quickly. My instincts did not disappoint me.
+
+Even though Ada almost had her hands on the G-virus, which Leon had
+acquired from Sherry, that affection of her drove her to her death. But
+she was still of some use. I had to save her life. My people hurried to
+retrieve the G-virus that Leon threw away.
+
+But Hunk, the only survivor of Umbrella's salvage team, was there
+before us.
+
+==============
+September 30th
+==============
+Our only option left was to bring back Birkin, the monster, as the
+sample specimen and have him finish Leon and Claire in order to obtain
+his combat data.
+
+Although Birkin lost the battle to Leon and Claire, we succeeded in
+gathering samples of the G-virus from his dead body.
+
+===========
+October 1st
+===========
+In the morning the government bombed Raccoon city in an attempt to stop
+for the viral outbreak. This was, of course, their feigned reason...
+Later, Claire left to Europe to find her lost brother Chris, and Leon
+joined forces with an underground anti-Umbrella organization.
+
+Sherry is safe in our hands. I would never underestimate Birkin.
+There's something about this little girl..."
+
+========================================================================
+
+7. P U Z Z L E S
+
+========================================================================
+
+**************
+JILL VALENTINE
+**************
+
+[PAINTING PUZZLE]
+Here are the named of each painting:
+
+Newborn Child 
+Infant 
+Lively Boy 
+Young Man
+Tired Middle Aged Man,
+Bold-Looking Old Man
+The End of Life 
+
+Now press them in that exact order and the final painting you press will 
+reveal the STAR CREST. 
+[PAINTING PUZZLE]
+
+========================================================================
+
+8. M O N S T E R S   A N D   B O S S E S
+
+========================================================================
+
+========================================================================
+
+9. F I L E   T R A N S C R I P T S
+
+========================================================================
+
+FILE: BONTANY BOOK
+~ About Medical Herbs ~
+As you may know, there are many plants that have medical effects. Since 
+ancient times, humans have been healing wounds and diseases using 
+various plants.
+
+In this book, we're going to sample three herbs that grow around the 
+Raccoon mountains and give their outlines as examples of those plants 
+with medical properties.
+
+Each herb has different colors and different effects as medical plants: 
+the green one recovers physical strength, the blue one neutralizes 
+natural toxins, while the red herb does not have any effect by itelf.
+
+The red herb is only effective with other herbs. For example, if you mix 
+this herb with the herb that recovers physical strength, the recovery 
+effect will be tripled.
+
+By adjusting the amount and experimenting with these three herbs, you 
+can create various kinds of medicines but I'll leave the details in your 
+hands because that's the best way to acquire true knowledge.
+
+NOTES: This is about the healing herbs of red, blue and green.
+
+FILE: KEEPER'S DIARY
+
+May 9th 1998
+
+At night, we played Poker with Scott the guard, Alias and Steve the 
+Researcher. Steve was really lucky, but I think he was cheating. What a 
+scumbag!
+
+May 10th 1998
+Today, a high ranking researcher asked me to take care of a new monster. 
+It looks like a gorilla without any skin. They told me to feed them live 
+food. When I threw in a pig, they were playing with it... tearing off 
+the pig's legs and pulling out the guts before they actually ate it.
+
+May 11th 1998
+Around 5 o'clock this morning, Scott came in and woke me up suddenly. He 
+was wearing a protection suit that looks like a space suit. He told me 
+to put one on as well. I heard there was an accident in the basement 
+lab. It's no wonder, those researchers never rest, even at night.
+
+May 12th 1998
+I've been wearing this annoying space suit since yesterday. My skin 
+grows musty and feels very itchy. By way or revenge, I didn't feel those 
+dogs today. Now I feel better.
+
+May 13th 1998
+I went to the medical room because my back is all swollen and feels 
+itchy. They put a big bandage on my back and the doctor told me I did 
+not need to wear the space suit any more. I guess I can sleep well 
+tonight.
+
+May 14th 1998
+When I woke up this morning, I found another blister on my foot. It was
+annoying and I ended up dragging my foot as I went to the dog's pen. 
+They have been quiet since morning, which is unusual. I found that some 
+of them escaped. I'll be in real trouble if some of the higher-ups find 
+out.
+
+May 15th 1998
+Even though I didn't feel well, I decided to go see Nancy. It's my first 
+day off in a long time but I was stopped by the guard on the way out. 
+They say the company has ordered that no one leave the grounds. I can't 
+even make a phone call. What kind of joke is this?!
+
+May 16th 1998
+I heard a researcher who tried to escape from this mansion was shot last 
+night. My entire body feels burning and itchy at night. When I was 
+scratching the swelling on my arms, a lump of rotten flesh dropped off. 
+What the hell is happening to me?
+
+May 19th 1998
+Fever gone but itchy. Hungry and eat doggy food.
+Itchy.
+Tasty.
+
+FILE: RESEARCHER'S WILL
+
+My dear Alma,
+
+The fact that you have received this letter is both a joy and sadness 
+for me. I could not even talk to you because of that guy in the 
+sunglasses. Alma, be calm and read this. I think I've told you that I 
+moved to pharmaceutical company's lab. They headhunted me.
+
+Last month, there was an accident in the lab and the virus we were 
+studying escaped. All my colleagues who were infected by the virus are 
+dead. To be accurate, they've become living dead. They still wander 
+around. Some of them are knocking on my room door desperately right now.
+
+But there's no sign of intelligence in their eyes. That cursed virus 
+takes away all humanity from the human brain. Love, Joy, sorrow, fear, 
+humor,... eternally. And Alma, even the memories of the days I spent 
+with you... Yes, I'm infected. I did everything I could, but I could 
+only delay the progress by a few days.
+
+The most frightening thing is, that I forget more about you by the day. 
+So I chose a peaceful death, rather than become the living dead. Within 
+an hour, I will have entered my eternal sleep. I do hope you'll 
+understand my decision...
+
+Goodbye and Forever Yours,
+
+Martin Crackhorn
+
+FILE: PLANT 42 REPORT
+
+4 days have passed since the accident and the plant at point 42 is 
+growing amazingly fast. It has been effected by the T-virus differently 
+than other plants have been and shows unique shape in addition to its 
+size. Looking at the way it behaves, it is now difficult to determine 
+what kind of plant it was originally. There are two ways in which Plant 
+42 gathers nutrition.
+
+The first is through its root that reaches into the basement. 
+Immediately after the accident, a scientist went mad and broke the water 
+tank in the basement. Now the basement is filled with water. It is 
+easily imaginable that some chemical elements were blended in the water 
+and promotes the incredibly fast growth of Plant 42.
+
+Another part of Plant 42 from the basement grows through the duct and 
+hangs down like so many bulbs from the ceiling of the first floor. Many 
+vines come out of those bulbs and they are the second resource for its 
+nutrition. Once sensing movement, Plant 42 shoots its vines around the 
+prey and holds it. Then it starts sucking up blood, using the suckers 
+located at the back of its vine. It also has some intelligence.
+
+It blocks the door by twinning its vines around it especially when it 
+captures prey or is sleeping. Several staff members have already fallen 
+victim to this.
+
+May 21st 1998
+Henry Sarton
+
+FILE: "V-JOLT" REPORT
+
+As I started in the last report, there are some common features found in 
+the cells of the plant infected by the Tyrant virus. We also have found 
+another interesting fact through some experiments.
+
+We found an element that destroys these rapidly in "UMB No.16", one of 
+the series of UMB chemicals that we used for that experiment. We named 
+this "UMB No.16" as "V-Jolt". In our calculation it will take less than 
+5 seconds to destroy Plant 42 if we put the "V-jolt" directly on the 
+root. You need to mix some of the UMB series chemicals in a specific 
+order to create a "V-Jolt".
+
+But the UMB series chemicals may generate a poisonous gas, which is 
+harmful to the human body. Extreme caution should be taken when handling 
+these chemicals. Following are the types of UMB series chemicals and 
+their brief characteristics.
+
+UMB No.2 
+Red NP-003  
+Purple UMB No.4 
+Green Yellow-6 
+Yellow UMB No.7 
+White UMB
+No.13 Blue (stimulating smell) 
+V-JOLT (UMB.No 16) Brown
+
+FILE: PASS NUMBER
+8108310
+
+FILE: ORDERS
+
+TOP SECRET
+
+July 22nd 1998 2:13 To the Head of the Security Department "X-Day" is
+approaching. Complete the following orders within the week.
+1. Lure members of S.T.A.R.S. into the lab and have them fight with the 
+B.O.W. in order to obtain data of actual battles.
+2. Collect two embryos per B.O.W. type making sure to include all 
+species except for Tyrant.
+3. Destroy the Arklay lab including all researchers and lab animals in a
+manner, which will seem accidental.
+
+White Umbrella
+
+FILE: SCRAPBOOK
+
+Raccoon Times
+
+May 27th 1998
+Animal Attack? Woman Mutilated May 20th. At around 10pm a 20-year-old 
+young woman's body was found by a baser-by on the left bank of Marble 
+River in the Older District of Raccoon City. Raccoon police assume it to 
+be a grizzly or other animal's doing because there are teeth marks along 
+her mutilated arms and left foot that show considerable power. Since she 
+was wearing a hiking boot on her remaining foot, it has been determined 
+that she was attacked in the Arklay Mountains and fell into the river. 
+They are hurrying to identify this woman.
+
+Raccoon Weekly
+
+June 16th 1998
+Monsters in Arklay Mountains? Some people claim they've seen monsters in 
+the Arklay Mountains. The monsters are supposedly about the same size as 
+large dogs and usually run in a pack as wolves do. This may sound like a 
+group of ordinary wild dogs, but these monsters are surprisingly fierce 
+and hard to hurt. They say these dogs won't bother you unless you wake 
+them, so you smart readers should stay out of the Arklay Mountains for 
+the time being. But if you're looking for adventure, check it out! You 
+wanna try?
+
+Raccoon Times
+Mystery On Arklay Mountains: Mountain Road Blocked Due to excessive 
+disasters in the Arklay Mountains, the city authorities have decided to 
+block the road leading to the foothills. At the same time, Raccoon 
+police intend to begin the search for lost people with the help of 
+S.T.A.R.S. Team members. They expect great difficulty because of the 
+vast size of the Arklay Mountains and the primeval forest that covers 
+most of the area. Also people are still reporting sightings of grotesque 
+monsters in the mountains.
+
+FILE: RESEARCHER'S LETTER
+
+June 8th 1998
+Dear Ada,
+
+Ada, by the time you read this, I'll be something... different. Today's 
+test turned out to be positive, just as I expected. I feel like going 
+crazy when I think about becoming one of them. Ada, you are not infected 
+and I hope you never will be. In case you are the last one left, take 
+the material in the Visual Data Room and go to the Power Room to operate 
+the Triggering System before you escape.
+
+And make all this public through the media. If everything is in order, 
+all the locks can be opened by the security system. You can access the 
+system if you log in with my name from the terminal in the small lab and 
+enter the password. The password is your name.
+
+To unlock the door at B2 where the Visual Data Room is located, you'll 
+need to access with our name first and then enter another password. I've 
+written the code below. I'm sure you'll understand it easily. And this 
+is my last hope - if you find me completely changed, please kill me 
+yourself.
+
+Password : (It's a weird symbol)
+
+Yours, John
+
+FILE: FAX
+
+To: General Manager of Sanitation Division From : Special Committee on
+Disasters Raccoon Special Research Dept
+
+This memorandum is strictly confidential and must be destroyed as soon 
+as it is understood. Regarding the "T-virus" outbreak which occurred 
+recently, this Committee conducted a field survey. According to the 
+results, estimates on the amount of damage caused by the accident are 
+considerably greater than reported earlier. First, although it is very 
+difficulty to obtain accurate data in terms of actual numbers, it is 
+thought that more than half of the researchers died after exposure to 
+the "T-virus".
+
+The body count will almost likely increase since nearly all of the 
+survivors show symptoms peculiar to the "T-virus".
+
+Second, our security system is still in operation. However, our special
+security guard squad has been nearly destroyed. Because of that, 
+research information considered by our company to be top secret has been 
+made available to outsiders. Counter-measures should be taken as soon as 
+possible.
+
+Finally, many of the "subjects" from the experiments have escaped and 
+are out of control. We believe that some of the researchers were killed 
+by these "subjects" and their bodies were mutilated. By a curious 
+coincidence, these events are proof of the success of our research. 
+However, there is also a very high risk that his news may be leaked to 
+the press if we don't act immediately.
+
+The condition is very serious. Our operation to cover-up the situation 
+is difficult to attain, however we hope the problem will be solved 
+quickly. We are especially concerned that the State Police and 
+S.T.A.R.S. are intervening too quickly. We need to act on this situation 
+as well.
+
+FILE: PASS CODE NO.1
+
+"I swear by myself", declares the Lord, "that because you have done this 
+and have not withheld your son, your only son, (Genesis 22:16)
+
+FILE: PASS CODE NO.2
+I will surely bless you and make your descendant as numerous as the 
+stars in the sky, and as the sand on the seashore. Your descendants will 
+take possession of the cities of their enemies, (Genesis 22:17)
+
+FILE: PASS CODE NO.3
+And through your offspring all nations on earth will be blessed, because 
+you have obeyed me." (Genesis 22:18)
+
+FILE: SECURITY SYSTEM MANUAL
+
+Basement Level 1
+Helicopter Port Executive and Government Officials only on helicopter 
+port. This restriction may not apply in case of an accident. Passage To 
+The Helicopter No one is allowed to enter unless they are attended by a 
+Research Consultant or Security Director. All others will be shot on 
+sight. Elevator The elevator stops during all emergencies.
+
+Basement Level 2 Visual Data Room
+Visual Data Room is within the control of Special Research Division. 
+Keith Arving, the Room Manager, is designated to have jurisdiction over 
+room usage. Basement Level 3 Prison Sanitation Division controls the 
+usage of the prison. Consultant Researchers (E.Smith, S.Ross, A.Wesker) 
+must be present if virus is used. Triple Lock Door No one is allowed to 
+enter unless he presents all pass code documents.
+
+The Chief Researcher of each block must create pass code documents on 
+the specialized output machine. Power Room Only Headquarters Supervisors 
+may enter. This restriction may not apply in the Consultant Researcher 
+has received special instructions.
+
+Pass-code Output Machine No one is allowed to use the pass code output 
+machine but the Chief Researchers.
+
+Basement Level 4 Top Secret
+Regarding the progress of "Tyrant" after the use of T-virus... 
+(Remaining document is unreadable)
+
+FILE: SLIDES
+1. "Umbrella Bio-Organic Weapon Official Report"
+2. "MA-39 Cerberus"
+3. "FI-3 Neptune"
+4. "MA-121 Hunter"
+5.  "T-002 Tyrant"
+6. (none)
+7. "Bio-Weapon Research Institute. R and D Staff"
+
+FILE: BARRY'S PICTURE
+Something is written on the back of the picture.
+
+"My dearest Moira and Poly. I hope you will grow up to be strong and 
+beautiful woman and help to cheer up mother. Your father will watching 
+you all from heaven.
+
+Dad"
+
+========================================================================
+
+10. S T O R Y L I N E    S Y N O P S I S
+
+========================================================================
+
+I will give you a brief summary of all the games. If you want detail,
+check out TWILDE'S RESIDENT EVIL PLOT ANALYSIS, found at GameFAQS.com,
+where this guide can be found.
+
+=================================
+RESIDENT EVIL 1 (REBIRTH VERSION)
+=================================
+NOTE: This synopsis combines Chris and Jill's games.
+
+July 1998
+
+Raccoon City, a mid-western U.S. town is experiencing reports of
+cannibalism near its forest. The local police department sends in a
+special force to stop it, called STARS, Special Tactics and Rescue
+Service, to seek information about it. Umbrella Inc, a pharmaceutical,
+also controls Raccoon City. The STARS are divided into 2 teams, Bravo
+and Alpha. Bravo heads in first. Bravo team is consisted of Rebecca
+Chambers, Enrico Marini, Forest Speyer, Richard Aiken, Ed Dewey and
+Kenneth Sullivan. Enrico Marini was the team's leader.
+
+Bravo Team heads to the forest in the Arklay Mountains. They
+investigate the origins of the zombies that wandered into Raccoon City.
+A day later, Alpha Team loses communication with Bravo Team. Albert
+Wesker decides to send in the other STARS Team to find them.
+
+When their helicopter sees wreckage, they land. Wesker, Jill, Joseph,
+Barry and Chris examine the chopper. Inside are the remains of Kevin,
+the pilot of the Bravo Team. Joseph looks around, and is shocked by the 
+sounds he hears. As he searches... he sees nothing.
+
+Suddenly, a skinless dog mauls Joseph. Jill Valentine, nearby, shoots 
+the dogs several times, but the dogs don't seem to feel the bullets (or 
+she's missing; it isn't clear). She runs out of ammo, and after the dogs 
+finish Joseph off, a dog lunges toward Jill. Chris shoots the dog just 
+before it gets Jill, and Jill and Chris start running for the others. 
+
+Brad Vickers, the pilot, flies away because he is scared of the monsters 
+he sees. Chris pauses in shock, and a dog is about to lunge at him, but 
+Wesker saves Chris and shoots the dog into its death.
+
+After a merry dash to avoid the zombie dogs, the remaining STARS members 
+run into a nearby mansion which belonged to Umbrella, Inc. It was the 
+home of Ozwell Spencer in the 1960's, and was supposedly abandoned for 
+years. Inside, Jill, Barry and Wesker realize Chris is missing. They 
+hear a gunshot nearby, and Jill and Barry check it out. 
+
+Jill Valentine and Barry Burton discover the destroyed body of Kenneth
+Sullivan of Bravo Team. Jill seems suspicious as she and Barry discover 
+Forest Speyer's body, because of Barry's weird attitude. 
+
+As Jill and Barry separate, Chris reaches the guardhouse behind the 
+mansion, passed the courtyard. There, Chris and Rebecca duel with a 
+vicious and giant plant called Plant 42. They destroy the plant with the 
+help of a chemical and a little luck from draining a shark of its water. 
+
+Jill, back at the mansion, destroys a giant snake. She then explores the 
+basement of the mansion. Chris and Rebecca head to the mansion with 
+nowhere else to go for now. There, they discover the scarred snake that 
+Jill just fought. With new ammo from the guardhouse, the snake dies for 
+good.
+
+As Chris and Rebecca look around, a new type of monster invades the
+mansion. It's called the Hunter. They are a lot worse than the zombies
+Jill, Barry, Chris and Rebecca have been running into.
+
+[Jill finds her way outside the mansion. She finds a cottage beside the 
+mansion and its courtyard. Looking around, she is momentarily knocked 
+out by a creature in chains. After regaining consciousness, she tries to 
+shoot her attacker, but it seems she cannot even hurt the thing with 
+even a Magnum (which she found in a graveyard beside the courtyard). 
+Running away, she too explores the guardhouse. She hears a conversation 
+with Barry and someone else, with Barry muttering something about his 
+family. Barry discovers Jill and tells her that he was talking to 
+himself. (O_O)]
+
+Jill finds her way into the underground tunnels with Barry. There, Jill
+finds Enrico Marini. He tells Jill Umbrella had planned this just
+before he is shot by a traitor. Marini was killed right before he can 
+expose the perpetrator. 
+
+[Jill chases the killer into some weird tunnel, where after a long
+chase, she finds Barry Burton. Taking a lift down into a big pit, she 
+runs into that monster that attacked her in her in the cottage. Dodging 
+it, she finds that Barry has ridden the lift up to abandon her. She gets 
+irritably pissed off at that stunt.] 
+
+[Dodging that thing once more, she finds a ladder leading up to the 
+cottage where she was knocked out by that inhumane creature. Circling 
+back to the mansion, she discovers a pathway to an altar, beneath where 
+it all started; the mansion main hall.]
+
+[She sees Barry there, mysteriously. After an argument where Barry 
+attempts to ambush Jill, that creature now known as Lisa returns (the 
+chains monster), and a clear view shows it has tentacles and a giant eye 
+on her back. Jill gives Barry his gun back, and Barry and Jill shoot the 
+thing until it falls into a deep pit. Barry volunteers to keep out for 
+it, in case it returns.]
+
+Jill follows the path into a lab from the altar.
+
+Finding some notes Jill and Barry left near some typewriters, Chris
+and Rebecca find their way to the tunnels. Chris and Rebecca kill a
+Giant Spider and find their way into a lab.
+
+Jill discovers Barry and Wesker were working together to kill all the
+STARS and to collect combat data. Barry didn't want to, but his family 
+was in danger. Wesker also  is planning to blow the lab up, and to 
+betray Umbrella Inc. Barry betrays Wesker and gets him to get impaled by 
+Tyrant, Wesker's creation. 
+
+[Barry is knocked unconscious by the Tyrant. Jill battles the thing, and 
+wins a close battle, thanks to a Grenade Launcher. Barry recovers from 
+the Tyrant's attack. Outside the Tyrant room, they realize that the 
+mansion is now going to explode. How?]
+
+Jill and Barry hurry out of the mansion. They run into Chris and 
+Rebecca, and join each other to escape. They make it to the roof of the 
+mansion, but the Tyrant has recovered from Jill's assault and catches up 
+to the quartet.
+
+[Chris Redfield is knocked out by the Tyrant on the roof. Jill, Barry 
+and Rebecca use their weapons to kick the Tyrant's ass. No weapons work, 
+however, but Brad Vickers sends a bazooka out of the helicopter window 
+after flying about the mansion roof.]
+
+[Chris recovers and catches the launcher, and destroys the Tyrant with 
+it. After the thing is destroyed, all 4 people get on the helicopter and 
+escape into the morning right before the mansion explodes.
+
+===============================
+RESIDENT EVIL 3 NEMESIS: PART 1
+===============================
+SEPTEMBER 1998
+
+Chris, Jill, Barry and Rebecca must stop Umbrella for spreading the
+virus through the mansion. Chris and presumably Rebecca go to Europe to
+take out Umbrella, while Jill and Barry stay behind.
+
+On the 22nd, a scientist named William Birkin finishes his G- Virus, an
+upgrade of the T- Virus. Umbrella, impatient, sends a squat team that
+attacks Birkin and steals his virus. Birkin injects himself with his G-
+Virus and becomes a monster. He kills off the squat members. Because
+Birkin is now a monster, he causes a T- Virus leak and now the Raccoon
+citizens are zombies, courtesy of a virus spread through rats in the
+sewer.
+
+SEPTEMBER 28, 1998
+
+Jill Valentine escapes infection. On the 28th of September, armed with
+an Assault Rifle, Jill fights her way out of town. She runs into Brad
+Vickers, the pilot of STARS. He tells Jill that something is coming for
+STARS members. What?
+
+As Jill makes it into the RPD Building, that thing Brad was speaking of
+arrives. Brad Vickers is murdered by the Nemesis. Jill's weapons don't
+damage it too much, so she retreats into the RPD Building.
+
+[The Nemesis bears a jump and tentacles similar to that of what Lisa
+had in the Spencer Estate. Hmmm.]
+
+The RPD STARS Office is untouched on the RPD second floor. Jill finds a 
+Magnum, which is effective against Nemesis. After finding a set of lock-
+picks, Jill fights her way out of the RPD. Nemesis returns, but Jill's 
+Assault Rifle and her new Magnum are powerful enough to put the thing 
+down, but it rises up again quickly.
+
+Jill runs as fast as she can, loses the Nemesis and reaches the
+downtown area. She runs into a man named Carlos Oliveira. He is part of
+Umbrella BioHazard Countermeasure Service. They were sent by Umbrella
+to save Raccoon Citizens. But they don't know anything that Umbrella
+does. They are grunts, as in the lower Umbrella class.
+
+Jill runs into Mikhail Victor and Nicholai Ginovaef, more UBCS.
+Nicholai seems suspicious, while Mikhail is fine. Mikhail is seriously
+injured, though. Jill runs to a trolley and plans for escape with them.
+Jill explores a power station over by the RPD and grabs a needed fuse.
+
+She also finds even more added power- a Grenade Launcher and a Shotgun.
+When she runs into Nemesis again, the Grenade Launcher puts it down
+almost instantly. The Shotgun puts zombie groups down with relative
+ease. Jill finds some oil at a gas station and some cables around town
+and prepares the trolley.
+
+On her way back, she sees Nicholai shoots someone and is then attacked
+by zombies. Thinking Nicholai is dead, she finds Carlos and Mikhail and
+ride the trolley out of town.
+
+The Nemesis returns. Mikhail takes a grenade and blows himself and
+Nemesis out of the car. The car breaks and crashes in the clock tower.
+Carlos and Jill, now with Mikhail sadly dead, try to signal a
+helicopter by ringing the clock building's bell.
+
+Jill finds the keys to them and rings them with ease. As she signals,
+Nemesis uses his own Bazooka to destroy the chopper. With the help of
+Carlos, Nemesis' Rocket Launcher is destroyed.
+
+Nemesis then infects Jill with the virus. With her Magnum, Shotgun and
+Grenade Launcher, Jill manages to put Nemesis down. She then blacks
+out...
+
+===============
+RESIDENT EVIL 2
+===============
+SEPTEMBER 29, 1998
+
+As Jill lies unconscious, Claire Redfield, the sister of Chris
+Redfield, rides into town to find him. Leon Kennedy rides into town on
+his first day of job. Leon and Claire run into the zombies. Leon tries
+shooting them to no avail, and Claire tries running from them at a 
+diner. After running from them, Claire runs into Leon.
+
+They work together to get to a police vehicle. Claire gets a hold
+of a gun. Suddenly, their police vehicle crashes thanks to a zombie.
+Since the RPD Building is nearby, they decide to meet there.
+
+(Notes: When Jill was in the RPD the day before in RE3, half the place
+was blocked off. It isn't anymore by the time Claire and Leon arrive
+because zombies broke through the barricades after Jill left.)
+
+Leon and Claire take different paths to the RPD Building. Leon enters
+through the front. Claire enters through the back. Leon finds a wounded
+cop who helps him unlock some doors.
+
+As Claire wanders, Umbrella drops a Tyrant into the RPD for an unknown
+reason. Claire sees Tyrant, which she nicknames Mr. X. She runs away 
+from the terrorizing creature.
+
+They eventually meet in the STARS Office. Leon finds a Shotgun in the 
+STARS Office and Claire finds a much needed Grenade Launcher in the main 
+desk of the main lobby. Leon and Claire decide to find any survivors so 
+they can have more weapons to get through the streets.
+
+Claire runs into a young 12-year old named Sherry Birkin, the daughter
+of William Birkin, who is now a monster. Leon runs into Ada Wong, a
+women looking for her boyfriend, John. Claire and Sherry meet the RPD
+chief, Brian Irons. He is obviously strange, and really, really
+creepy. At his possession is Ms. Warren, the daughter of the mayor
+of Raccoon City. Irons claims she died of zombie bite... but it
+looks like a bullet hole.
+
+Ada and Leon meet up with Ben Burtolucci. He seems to know something
+about John, but isn't cooperating. Ben encourages Leon and Ada to
+escape the city via the sewers. Doing just that, Ada and Leon try to
+escape via the sewers. Ada climbs into an area Leon cannot reach.
+She finds a key for some locked doors in the RPD. Passing them on to
+Leon, she finds a way to get back to him.
+
+Leon, impatient, decides to search the rest of the RPD on his own. He
+informs Claire that the cellblock is accessable now.
+
+Claire and Sherry reach an area under the RPD. Sherry hears her dad
+supposedly scream, and runs into an area Claire cannot reach. Basically
+she ends up in the area Ada explored, and only finds Acid Rounds for
+Claire's grenade launcher. She decides to take a roundabout route to
+get back to Claire.
+
+Leon explores the rest of the RPD, and finds 4 chess plugs which might
+work for a door near the cellblock. Using a chute from the RPD 3rd
+floor, he gets back to Ben and hears him scream...
+
+As Claire returns to explore the RPD thanks to a call from Leon, she
+runs into Mr. X 3 times. Eluding the thing, she finds keys for Chief
+Iron's office.
+
+She finds Sherry at the office. Using the keys, she discovers the
+chief's secret dungeon. He explains that Sherry's father, William,
+invented the G-Virus. Before he can shoot her, William Birkin attacks
+and cuts Irons in half. Eww... she goes down a ladder to confront
+William Birkin.
+
+Leon returns to Ben.
+
+William Birkin, the monster, implanted Ben with a parasite. The
+parasite escapes Ben's body, cutting him up. Leon contacts Sherry
+and Claire to go back to the sewers for escape.
+
+Leon sees the growing parasite. Earlier, Leon found a Magnum. It
+and his Shotgun are very effective against the G-Imago. The G-Imago
+dies.
+
+Earlier, Claire found a Submachine Gun. It and her Grenade Launcher are
+effective against William. William falls into a pit. After receiving
+the call from Leon, Sherry and Claire find their way off the
+RPD building via an underground sewer connected from Chief Iron's 
+office.
+
+Leon and Ada find the exit of the RPD to the sewer at last. As Leon and
+Ada go down a lift, a woman in a lab coat shoots Leon. Leon blacks out,
+but Ada chases the women through the sewer. The sniper then corners Ada
+after a merry chase through the sewers.
+
+Sherry and Claire see Mr. X continuing its unknown search. They run 
+away. As they enter the sewer proper, leaving the RPD for good, Claire 
+sees Sherry fall down a drain. She looks for her and runs into Leon, who
+just woke up from that bullet wound in his arm. Leon tells Claire to
+find Ada and Sherry. Claire moves ahead, leaving Leon to rest.
+
+Ada and the sniper are talking. Annette Birkin is William's husband and
+Sherry's mother. Annette tells how Umbrella stole the virus. Then Ada
+pushes Annette over the railing and she falls into a sewer after
+telling her that her boyfriend John is dead.
+
+Wanting to rejoin Leon, Ada runs down into a pit and sees... a GIANT
+ALLIGATOR! Claire runs into where Annette fell. She tells Annette that
+Sherry is in the sewer. Annette faints, just after telling Claire that
+Sherry has a sample of the G- Virus somewhere.
+
+Leon wakes up. He decides to look for Ada, Claire and Sherry. He
+eventually finds Ada being attacked by an alligator. He outs an 
+explosive canister in its mouth, shoots it and the alligator goes 
+kaboom. Ada tells Leon that John is dead. After healing his wound, Leon 
+and Ada go to the tram and ride it across town.
+
+Claire finds Sherry eventually. She asks Sherry is she has G- Virus,
+like Annette had told her, but she says no. As Ada and Leon ride the
+tram, William Birkin attacks them. They shrug him off, though.
+
+Unable to find Leon and Ada, Sherry and Claire ride another tram to
+follow Ada and Leon. Ada and Leon ride an elevator car down. During the
+ride, Birkin wounds Ada. Leon uses his artillery to stop him.
+
+Claire and Sherry recall the elevator car. Mr. X interupts as Claire
+recalls it, but she kicks its ass. They eventually take the car down.
+
+Birkin, who just awoke from mutation sleep, since Leon  had hurt it,
+is now mutating again. Birkin is about to lose the match, but runs away.
+
+In the lab, Leon decides to heal Ada. He looks around the lab.
+
+Claire loses Sherry again thanks to a power loss in the elevator car.
+She runs into Annette, who sees Sherry being stalked by Mr. X on a
+TV screen. She tells Claire that the G-Virus is in Sherry's pendant.
+Annette runs off, running into Leon.
+
+Leon runs into Annette Birkin. Annette is about to shoot Leon, but
+Birkin attacks Annette. Annette drops a G- Sample. Leon takes it
+and runs into Ada, who is now threatening him.
+
+Apparantly, Annette said Ada worked for some company out for the G-
+Virus. Ada then falls down a chasm, thanks to Annette. Leon, in a rage,
+throws the G- Sample over. Since the lab's explosion sequence has now
+started, Leon must get out quickly.
+
+Claire runs to where Mr. X and Sherry are. Claire takes Sherry's 
+pendant, and throws it into a lava pit, with Mr. X diving in for it. 
+It's the end of Mr. X...
+
+Leon gets to the escape elevator. Birkin returns, but Leon deals with
+him accordingly. Claire and Sherry reach see a hurt Anette near where
+Ada fell. Annette tells Sherry to escape. Annette falls unconscious,
+giving Sherry and Claire an escape key.
+
+Claire and Sherry use an elevator to get to the train area. As Claire 
+and Sherry power the train up, a hot and flaming Mr. X returns and now 
+has grown a claw. Claire's weapons only slow it down. Claire knows she's
+about to die... but suddenly, Ada, a dark shadow of herself, throws a 
+rocket launcher to save Claire! Ada runs off...
+
+Claire destroys Mr. X once and for all. Seeing as Ada is nowhere to be
+found, Claire powers up the train and Leon comes in. The lab then
+explodes in a blast, the train barely making it out. In the back of the
+train, Birkin returns from his fight with Leon. Since Leon was injured
+in his fight with Birkin, Claire tried to shoot Birkin with all the
+ammo she has left. It only holds it at bay for a few seconds.
+
+Birkin is still alive. The only solution is to destroy him in a
+blast. The train activates the train's explosion sequence, unexpectedly.
+Sherry, with Claire's help, stops the train and they all get out. Birkin
+is consumed in a blast with the lab's escape train.
+
+SEPTEMBER 30, 1998
+
+Outside, Leon, Claire and Sherry recuperate. After a small argument,
+Claire runs off toward Europe to find her brother Chris. Leon and Sherry 
+are captured by an unknown organization...
+
+[Meanwhile, down in the sewers between the Umbrella lab and the Police 
+Station, HUNK, the man who had shot William Birkin, awakens from his 
+sleep in the sewers. He seems to have gotten a sample of the G-Virus, 
+and notifies his men. He is to get to the roof of the RPD to escape.]
+
+[He runs up to the RPD, and shoots many zombies, dogs and crows. On the 
+second floor RPD, it seems that a Mr. X unit is after him. Avoiding the 
+terror, he makes it the hallway leading to the heliport. Another Mr. X 
+seems to be attacking him. Unloading all the ammo he has left, the 
+creature falls unconscious. HUNK makes it to the helicopter and is 
+picked up by his men.]
+
+[After riding away from the city, HUNK's comrades are congratulating him 
+on another job well done. He is known as Mr. Death, and has survived 
+once again.] 
+
+================================
+RESIDENT EVIL 3: NEMESIS: PART 2
+================================
+OCTOBER 1, 1998
+
+Meanwhile, Jill is infected with the virus back at the clock tower.
+Carlos decides to find a cure in the hospital of Raccoon City, located 
+behind the clock tower. There, Carlos discovers Nicholai is alive and 
+working with Umbrella. Nicholai shoots UBCS member Tyrell Patrick. 
+Carlos dodges Nicholai and finds Jill's cure.
+
+Returning to the Clock Tower, Carlos gives Jill the cure for the T-Virus 
+and successfully recovers. Carlos runs off to fulfill a strange mission. 
+Jill attempts to escape the Clock Tower. The Nemesis returns, but Jill 
+can handle it again. 
+
+On her way through Raccoon Park, she encounters Nicholai and finds his 
+motives, she is forced to destroy a giant worm in the park. After that 
+battle, she finds the last area of Raccoon left to explore.
+
+She gets to an escape plant, and sees a means of escape. She repowers 
+the entire factory up, and finds herself in a trash compactor, full of 
+corrosive acids. After dumping Nemesis into the corrosive acids 
+following a heated confrontation, Carlos tells her that the town will be 
+nuked.
+
+Jill sees Nicholai escape in a chopper. After letting him go in a 
+negotiation, Jill kills Nemesis for the final time, thanks to a rail 
+cannon. 
+
+Nicholai stole their helicopter, and all seems grim. Carlos discovers 
+that a copter is out there to save Jill. Carlos lights a flare and 
+signals the rescue chopper to bring them on board.
+
+Barry Burton suddenly saves Jill and Carlos just before the town of 
+Raccoon is nuked... Jill and Carlos have escaped, thanks to Barry 
+Burton.
+
+After the nuke, the news cast is on in an unknown city. The final toll 
+of victims in Raccoon City is 100,000. With that in mind, Jill Valentine 
+vows to find Chris Redfield and take Umbrella down.
+
+---
+
+Following the disaster, Leon S. Kennedy is given a strange offer by his 
+captors. He is trying to conceal the information in his ordeal. It is 
+unknown who the captors are. He makes his decision...
+
+Sherry Birkin is also questioned by her captors, and tells them that 
+both her parents are dead. She tells them about Claire, and that she'll 
+eventually return...
+
+After saving Jill and Carlos, Barry Burton, in his new home, is ready to 
+leave his family to join his comrades. He is taking part in destroying 
+Umbrella once and for all, and is leaving soon, for their suicide 
+mission...
+
+Ada Wong is at her home, looking at where the William Birkin monster had 
+slashed her. Apparently, she is changing her name and is really sad 
+about it. Unfortunately, she has another mission to fulfill for HCF...
+
+In a restaurant somewhere, Chris Redfield signs a letter for Claire, his 
+sister. He sees a woman about the same age as Claire... 
+
+===========================
+RESIDENT EVIL: GUN SURVIVOR
+===========================
+NOVEMBER 1998
+
+On an isolated island in the Atlantic, a guy named Ark Thompson sneaks
+into an Umbrella controlled city. He was sent by RE2's Leon to check up
+on the base and its commander, Vincent. When Ark gets to the base, he
+fights Vincent. Vincent, who was ready to get kicked out of Umbrella,
+spilled the T- Virus into the island, called Sheena Island.
+
+Ark Thompson loses his memory. The place has been zombified like
+Raccoon City. Ark only has one gun for protection. After a phone call
+from someone he questioned, Andy Holland, Ark thought he was Vincent.
+Ark goes through the city, uncovering secrets about Umbrella and how
+they created Tyrants. Mr. X, a Tyrant Claire ran into in Raccoon City,
+chases Ark around the island.
+
+Ark, still thinking he's Vincent, runs into Lott and Lily Klein. After
+joining them in an escape, Umbrella sends in a "Cleaner" crew team to
+wipe them out. Ark and the others eventually discover that many Mr. X
+were being produced on the island.
+
+Ark, Lott and Lily encounter a new type of Tyrant, similar to the one
+Chris Redfield saw on the Spencer Estate. They slay it and finally
+escape, before Vincent, the Cleaner crew and Andy Holland are consumed
+in a blast.
+
+One month after the Sheena Island incident and 3 months after the
+Raccoon City incident, Claire Redfield goes to Europe to find Chris.
+She eventually gets captured for trespassing on Umbrella's Paris Lab.
+She is taken to an island near Antarctica and that's where RESIDENT
+EVIL CODE: VERONICA X begins...
+
+==============================
+RESIDENT EVIL CODE: VERONICA X
+==============================
+
+Here is a detailed description of the story of CODE: Veronica. This
+will explain what's behind the Ashford Family, Albert Wesker's
+intentions, and the whereabouts of Steve Burnside. Unlike RE2 and RE3,
+there are VERY many things leaving you out in the blue.
+
+CODE: Veronica X first starts December 17, 1998 in Paris as Claire
+gains some leads on her brother, Chris and his whereabouts. It has been
+2 and a half months since Claire and her new partner Leon escaped
+Raccoon City just a day before it was bombed.
+
+Claire and Leon traveled to Paris, once again, to gain a lead on Chris
+Redfield. Unable to contact his partners Jill, Barry and Rebecca,
+Claire and Leon invade Umbrella's Paris Lab. Leon and Claire are
+separated because the guards of the base see them.
+
+Leon manages to escape during the attack, but Claire isn't so lucky.
+Suddenly, a chopper loaded with a Gatling Gun begins to attack Claire.
+(In the Beta Version, Jill's enemy from RE3 (Nicholai) is piloting the
+chopper.) The guards are still chasing her. She ducks into a hallway.
+The guns kill the guards chasing her.
+
+Claire runs down the hallway, barely missing the choppers' guns. She
+ends up on the base's rooftop. She uses a slick move to wipeout the
+guards. Suddenly, a Hispanic man captures her at gunpoint. Claire is
+captured.
+
+10 Days later, she is taken to an isolated Umbrella Base, called
+Rockfort Island. After being told her identity number, she is butted in
+the head by a rifle butt. Time passes and Claire wakes up to a huge
+explosion. Up above her seemingly underground cellblock, she hears guns
+roaring and people screaming. Moments later silence hits.
+
+The door to the cellblock opens. A heavily breathing man comes in.
+Somehow the guards managed to not see Claire's lighter. She lights the
+lighter and she sees the man who captured Claire at Paris. The man
+frees Claire and sits down because he was wounded in the chaos above.
+
+Claire discovers he needs Hemostat. Looking at the list, Claire finds
+out his name is Rodrigo Juan Raval. Grabbing a nearby Combat Knife,
+Claire leaves the cellblock. She eventually climbs a flight of stairs
+to a graveyard.
+
+As she passes through, a burning truck explodes. A burning man goes
+toward Claire. It's A ZOMBIE! It seems the attack caused a viral leak
+in the area. Claire was luckily to avoid the zombies.
+
+Claire arrives in the main hall of the prison complex. She is then
+attacked by a Gatling Gun. Claire sees a pistol and dispatches the gun.
+Apparently, Steve Burnside, a prisoner, sees Claire and thanks her for
+not being a zombie. After rudely introducing himself, Steve runs off
+for the island's rumored airport.
+
+Claire looks around the prison, which is now a zombie's hell house. As
+she explores the prohibited areas, Claire catches up to Steve, who is
+looking up on Chris Redfield on a computer. Steve asks Claire to
+contact Chris to come save them. Claire does that, though Steve wasn't
+serious about the idea. Claire can't contact Chris directly, but she
+figures Leon can. She e-mails Leon to get Chris to help them. She gives
+Leon the coordinates of the island and Chris himself. Steve runs off
+angrily.
+
+[Chris Redfield, somewhere in the world, receives an e-mail from Leon, 
+and discovers that Claire Redfield was caught by Umbrella...]
+
+After finding the right keys, Claire escapes through prison's main
+gate, near where she met Steve. After finding her way up a cliff,
+Claire sees a military training complex. She explores the area, but
+shutters block off most of the complex.
+
+She manages to find a Bow Gun, though. And she also sees a man get
+slaughtered by a yellow zombie in a locked lab. Claire sees a picture
+she think may be important later on.
+
+Claire decides to find the key cards elsewhere on the island. Leaving
+the military complex for now, she sees a big palace up ahead.
+
+She enters the palace and looks around for the key cards. She finds a
+few locked doors. One of them is different. It needs to be unlocked
+using 2 special pistols. Claire looks on the first floor and after
+unlocking a strange movie, she fins the 2 guns she needs. The movie was
+shot, showing 2 twins, a boy and a girl, feeding a wingless dragonfly
+to a hill of ants.
+
+Claire grabs the pistols, but then the room locks her in and the room
+heats up. She inserts them back in. She decides to exit the palace to
+look for the military complex's keys elsewhere. But as she exits, she
+hears Steve's scream. She runs back to the Luger trap to see Steve
+caught in it.
+
+Using the reflexes she learned in Raccoon City, she saves Steve. Steve
+has the Lugers Claire needs for the door. He offers to trade for 2
+fully automatic weapons. But Claire's 3 pistols and her bow gun don't
+satisfy Steve.
+
+As Claire gears up to leave, she sees Alfred Ashford, the owner of the
+island. Alfred tells Claire she attacked the island. Alfred continues
+to shoot and miss at Claire with his sniper rifle.
+
+Alfred also says his grandfather founded Umbrella originally. Alfred
+leaves with a death threat to Claire. Seemingly not intimidated, Claire
+continues her mission to find the military complex's card keys.
+
+Claire sees a submarine beside the palace. She works the controls and
+sees it going down. It stops. She gets out to see she's at an
+underwater military airport.
+
+She looks around and finds an airplane she can use to get out. She
+needs 3 special keys to activate the plane, though. She looks around to
+find another locked shutter. Looking at some maps, she sees a giant
+elevator behind the shutter and remembering the maps of the military
+complex, she thinks the broken elevator in the military facility's yard
+leads down the airport.
+
+To her surprise, Claire finds a key card she needs for the military
+complex. Taking the submarine back to the palace, Claire continues for
+the military complex. As she passes by the palace gates, she notices a
+smaller private mansion on top of a hill behind the palace.
+
+Continuing for the military complex, Claire eventually arrives. In the
+yard, she sees a giant worm attack her. Like the dead alligator she saw
+in the sewers of Raccoon City, this thing is huge, but not too smart.
+Claire escapes the thing by ducking into the facility.
+
+She gets through the locked shutters. In a room, Claire is ambushed by
+Alfred, but thanks to his bad aim, Claire chases Alfred further into
+the complex. In a medical room, Claire finds the hemostat she needs for
+Rodrigo.
+
+Claire gears for the prison, but she then discovers that Alfred lowered
+a shutter that leads to the exit. Claire goes further. That yellow
+zombie that killed the scientist then attacks her. It is a cross
+between a zombie and tyrant. Using her twin pistols, she shrugs them
+off.
+
+Continuing, the another yellow zombie attacks her. But Steve them saves
+her with the Lugers. Claire trades Steve the Lugers for the Submachine
+Guns she found a few moments ago.
+
+Alfred suddenly lowers them into the complex's basement. Steve runs
+ahead of Claire and destroys a fresh set of zombies for her. Claire
+catches up to Steve. Questioning him about his family, Steve runs off.
+
+She catches up to Steve in an unstable balcony. They fall through.
+Suddenly, a zombie rises and then runs toward Claire. Steve hesitates
+to shoot it. When it is about to eat Claire, Steve unloads the rest of
+his bullets into the creature, while yelling, "father!!!" After the
+zombie dies, Steve starts crying.
+
+He tells Claire that his father took Umbrella info and sold it. Steve
+and his family were caught, his mom was killed and Steve hates his dad
+for doing this to him. Claire leaves Steve to mourn his dad's death.
+Apparently, Steve just shot his zombie dad.
+
+Claire finds Alfred's crest in a room with the facility's diorama. She
+uses it on a little box she found earlier. She finds the last key card
+needed to explore the facility. She finds a key for the airport's
+plane.
+
+Claire also finds her way into the lab where the yellow zombie killed
+that scientist. Claire sees the painting she wanted. Noticing a
+resemblance to a painting she saw in the facility's diorama room, she
+hooks it on to the wall where the eagle plate was. As she leaves,
+albinoid experiments escape the lab and run up vents. Claire escapes
+before the lab is locked.
+
+A wall in the diorama room is raised, revealing the actual diorama the
+wall was hiding. She sees a key, gold colored. Claire sees that this
+can open a door at the palace.
+
+Claire races for the palace. She opens the door she wants to open and
+sees a room full of paintings of Alfred's ancestors. After looking
+around, Claire finds a strange queen ant model.
+
+Claire travels to the door with the luger engravings. Using the lugers,
+Claire unlocks the door to an office. There, she discovers that Alfred
+has a twin sister, Alexia, and according to Alfred's butler, he's seen
+her in Alfred's private house.
+
+Claire finds her way to a bridge. Up ahead, Claire sees the private
+house on the hill she's been wanting to explore for more clues. She
+explores the house and nearly runs into Alexia Ashford. She's talking
+to her brother about Claire and Steve's destruction. They then leave.
+
+The house has been damaged by the island's attack, but Claire finds a
+key she needs for the palace's remaining doors. Heading back to the
+palace, Claire finds another eagle plate. She then remembers a door she
+saw in the prison complex that had an eagle engraving.
+
+After looking in a slot room, Claire decides to head back to the
+prison. There, she goes to the cellblock and sees a dying Rodrigo.
+Fortunately, Claire saves him in time with hemostat. After thanking
+each other, Claire trades her lighter for Rodrigo's lockpick.
+
+Claire explores the door behind the one with the eagle plate. Claire
+discovers an infirmary. After confronting a powerful zombie, Claire
+unlocks the path to a secret basement.
+
+There, she finds a piano roll that fits perfectly into the piano at the
+palace. Claire gears for the palace. In the yard, someone familiar
+attacks her: Albert Wesker. Wesker tells Claire he attacked the island
+and is after Chris now. As Claire is attacked, she notices a key she
+needs for the airport. Wesker tells Claire he'll use her to get to
+Chris.
+
+Wesker, after getting a call from his men, jumps over a wall, toward
+the palace's dock. Collecting the airport key, Claire heads into the
+palace's piano. Claire finds a king ant model, like the queen model she
+found earlier.
+
+Heading back to the private residence, Claire discovers the ant models
+where keys to a secret lair above Alfred and Alexia's bedrooms. Claire
+discovers the final airport key and decides to find Steve and Rodrigo
+and leave.
+
+Alexia Ashford attacks Claire on her way out. She has a sniper rifle
+like Alfred's. Suddenly, Steve comes in and shoots Alexia through a
+door. The door is easy passage between Alexia and Alfred's bedrooms.
+
+Claire sees Alfred with make up on. Apparently, he's been dressing like
+his sister. Claire decides that Alexia is just Alfred's imagination.
+Alfred runs off crying. He sets off the self-destruct sequence.
+
+Claire and Steve run to the palace gates, near where Claire was
+attacked by Wesker. Steve leads Claire to the airport. Claire inserts
+the keys to the plane. Unfortunately, the drawbridge is in the way of
+the plane. Claire volunteers to raise it.
+
+Claire runs to the controls and raises them. In a room she couldn't
+access before, Claire finds the keys to the shutter blocking the
+elevator.
+
+Claire decides to ride the elevator up to the military complex and head
+back to the plane via the palace's submarine. She does just that. After
+fixing the elevator, the 5 minute timer for the explosion begins. As
+Claire rides the elevator up, Alfred releases a monster after Claire...
+Can it be? Yeah it's...
+
+Claire steps out of the elevator and as she expected, she ends up in
+the military complex's yard. Dodging the giant worm, she gears for the
+palace.
+
+On her way, a fire traps Claire. Tyrant comes from the fence.
+Apparently, it's the monster Alfred released. Claire uses her bazooka
+she found earlier and manages to put Tyrant down. Claire dashes passed
+the palace and down the submarine into the airport.
+
+Steve manages to pilot the plane and then the plane lifts off from an
+exploding island. As the plane circles the island, the prison, palace
+and private mansion are consumed in the blast, but the military complex
+seems to withstand it.
+
+Not caring, Claire and Steve fly off. They apologize for everything
+mean they said to each other. Suddenly, the plane rocks. In the back,
+Claire sees Tyrant. Claire uses her bazooka to weaken it and then
+catapults it off the plane. It looks like her encounter with Mr. X on
+Raccoon City did her some good.
+
+Back on the exploding island, Alfred runs into the somehow surviving
+military complex. He sees the tank and moves it to reveal a secret
+lift. The lift leads to a different area of the airport. Alfred hitches
+a ride on one of the 2 harrier jets and flies away from the island.
+
+On Claire's plane, Alfred controls the plane and changes it's
+direction. Steve can't change it so they have no choice. Hours later
+Steve attempts to kiss a sleeping Claire, but fails. Moments later, the
+plane crashes into an Umbrella Base in Antarctica.
+
+Claire and Steve get off the broken plane and look around separately.
+Claire finds the diary revealing that a monster named Nosferatu is
+trapped somewhere in the base. Also, it seems Alfred Ashford spilled
+the T- Virus around the base, so there are now zombies in the area.
+Looking in a private office, Claire finds the evil monster trapped in a
+chair beneath wire mesh. What has Alfred been up to?
+
+Claire looks around and asks Steve to lift a digging car with a crane.
+Steve looks at Claire and causes a gas leak in the room. Claire fixes
+it. Suddenly, Alfred, still wearing make up and talking like Alexia,
+tries to shoot Claire, but Steve comes in and shoots Alfred down a deep
+chasm.
+
+Nosferatu suddenly feels agitated. He breaks free of his prison and
+runs off... Claire grabs Alfred's sniper rifle and Steve and Claire dig
+out of the room with the digging car. They eventually get to a heliport
+above the base.
+
+Nosferatu suddenly attacks Steve. Steve is KO'ed, while Claire must
+fight him on his own. Using the sniper rifle, Claire punctures
+Nosferatu's once human heart and kills him. Claire rescues Steve.
+
+They find a car and drive off to an Australian Base. Meanwhile, Alfred,
+nearly dead, releases his sister from cryogenic sleep. Alfred tells
+Alexia to kill Claire. Alfred then dies of blood loss.
+
+Alexia uses her mind to attack Claire and Steve's car. The car burns.
+Did Claire and Steve survive?
+
+Meanwhile, on Rockfort Island, Chris Redfield arrives. Leon managed to
+contact him. Chris climbs a cliff and arrives in a cave. There, he sees
+Rodrigo. After Rodrigo tells Chris he saw Claire and Steve leave the
+island, that worm Claire saw swallows up Rodrigo.
+
+Chris chases the worm throughout the cave. Finding some Submachine
+Guns, Chris kills the thing. Rodrigo is swallowed up, but dies shortly
+after, giving Chris the lighter before he dies. Chris finds his way
+into a lightly damaged military complex.
+
+Chris looks around and finds his way to Alfred's harrier jet bay. He
+needs a halberd that was on the eagle plates Claire found to open the
+harrier doors.
+
+Chris finds his way to the control room. He sees Alexia Ashford singing
+on the wide screen. Down in the airport where Claire boarded the plane
+with Steve, Wesker is happy that Chris is finally here. He sends
+Hunters after Chris.
+
+Chris finds the eagle plate Claire used to open the box. But
+unfortunately, it falls down into the sewers below thanks to a giant
+hole caused by the explosion. He finds his way into the lab area thanks
+to a hole in the wall.
+
+Chris sees a knob-less door Claire didn't explore. Chris decides to
+find a doorknob in the basement. There, he explores a lab where the T-
+Virus was leaked from.
+
+He finds a chemical he thinks he needs for getting the halberd. It's 
+called Clement E. It, mixed with Clement A, can melt the alloy part of
+Alfred's eagle plate.
+
+Chris finds his doorknob and then is scanned by a scanner. Moments
+later, the Hunters Wesker sent attack Chris. Chris, using a shotgun he 
+found, kills them. Chris sees the scanners when he gets back to the 
+knob-less door.
+
+Avoiding them, Chris ends up on the other side of the broken balcony
+that Steve and Claire fell through right before Steve assassinated his 
+father. Finding a small tank object resembling the tank outside the 
+facility, Chris inserts it to the little hole in the diorama on the 
+first floor. The paintings in the room slide to reveal 3 little keys 
+needed and a turntable key.
+
+There's also a note from Alfred saying there's a passage beneath the
+diorama that takes Alfred from the military complex to his private
+residence. Chris notices the 3 key holes and notes them.
+
+On his way, Chris sees Albert Wesker. Wesker attacks Claire and says
+Claire won't live long and that she's in the Antarctic with Steve and
+the evil Alexia. Suddenly, Alexia Ashford appears on a screen and
+Laughs, as if she is expecting something to happen. Wesker seems to have 
+super powers, as he has yellow eyes... Wesker vanishes and a yellow 
+zombie attacks Chris. Using his submachine guns, he kills it.
+
+After finding his way to the main yard thanks to the turntable key,
+Chris sees that he can't get to the palace thanks to rubble blocking the 
+entrance to the passage.
+
+Alternately, taking the elevator down to the airport, Chris sees the 
+keys Claire used to board the plane. They also fit into the 3 key holes 
+in Alfred's diorama room. Grabbing them, Chris tries to use a submarine 
+he saw on a map to get to the palace.
+
+Unfortunately, the submarine somehow got docked up at the palace, so
+access to the palace is impossible. Taking the 3 keys back to the
+diorama in the military complex, Chris manages to find the ladder.
+
+Following a tunnel, Chris discovers that the door leading to the
+private residence is locked. But nearby, Chris sees Alfred's private
+swimming pool. In it is the eagle plate. There's also a monster on the
+pool.
+
+It's the albinoid Claire released from the lab. It matured really fast.
+Chris uses his shotgun to dispose of the electric monster. Chris grabs
+the eagle plate. But Clement E alone can't dissolve the alloy.
+
+Chris backtracks to the basement area, where Steve had a shooting spree. 
+The explosion caused a gas problem, but a lever fixes the problem. He 
+finds the final Clement A and then mixes it with Clement E. The mixture 
+solution causes the eagle plate to dissolve, leaving the halberd.
+
+Using the halberd, Chris gains access to the harrier bay. He jumps on
+the last plane and flies to Antarctica.
+
+After he leaves Rockfort, he travels across the blue ocean. When he 
+reaches the base, a docking bay at the base welcomes him. It seems as 
+though Alexia has been expecting Chris.
+
+There, Chris immediately looks for Claire. It seems that the place was
+filled with ice from when Claire and Steve tried to escape. This helps
+Chris access new areas.
+
+In an area that looks like the Spencer Estate, Chris finally finds
+Claire. After saving her, Claire and Chris decide to find Steve. Alexia
+comes and curses at them, and threatens them. Claire and Chris give 
+chase toward Alexia, but a giant tentacle separates them.
+
+Claire wakes to see Chris' foot and knees injured. Chris tells Claire
+to find Steve. Suddenly, they hear Steve scream. Obeying Chris' request, 
+Claire chases Alexia through a few doors.
+
+Using her guns, she kills a few of Alexia's tentacles. Claire finally
+sees Steve in a prison, after nearly risking her life to find the 
+appropriate keycard to enter. It's the room Nosferatu was stuck in. 
+Steve tells Claire that Alexia performed the same experiment that she
+performed on her own father.
+
+Steve suddenly grows and mutates into a giant toad-like monster, unlike 
+Nosferatu. It then begins to attack Claire with a giant ax. Claire runs 
+off to the exit and makes it just as the gate lowers. But since the door 
+was locked by Alexia, Steve begins to attack Claire.
+
+Suddenly, a tentacle grabs and constricts Claire. Steve is about to
+kill Claire, but his human personality comes back and Steve cut the
+tentacle. The tentacle whacks Steve at about 50 miles an hour and Steve
+is flung into the wall.
+
+Steve tells Claire he loves her and that he can't keep his promise of
+leaving with her. Slowly, Steve dies due to a violent strike, as if he 
+were hit by a truck. Claire cries and cradles over the body of Steve 
+Burnside, crying.
+
+During the death of Steve, Wesker calls Alexia to come with him because
+she has her experiment, T- Veronica Virus, in her. Somehow, Alexia 
+managed to elude Claire and returned to the main hall Alexia walks down 
+the grand stairs of the Spencer estate-esque place, and then begins
+to burn. Her clothing begins to shrivel. Alexia's choker falls to the
+Floor at her feet, Chris taking notice over in the corner.
+
+Alexia is now a gray evil mad woman. She looks like a cross between a
+dragonfly and ant. Wesker attempts to capture her. Alexia raised her 
+gray hand and Wesker gets punched across the room. He moves across, 
+tells Alexia he's coming with her and then punches Alexia via a long 
+spring from the walls. After punching Alexia, Wesker notices Chris. And 
+he is armed with a weapon. Realizing that Wesker can't defeat Alexia, 
+Wesker sees Chris take care of Alexia.
+
+Chris uses his shotgun to kill Alexia. He keeps moving and eventually
+10 shotgun shells put Alexia down  at Chris' feet. Chris, judging from a 
+file he found earlier, thinks Alexia's choker can access a door behind 
+the painting above the staircase of the mansion main hall replica. At 
+Chris' feet is the choker. He uses it on the painting.
+
+Chris looks at the file some more and sees that Alexander Ashford was
+turned into a monster thanks to Alfred and Alexia. Chris leaves the
+main hall and then heads down an elevator. As Chris exited the mansion,
+Alexia rises to her feet from her slumber. She's still alive. Chris is 
+now in a room with a giant anthill.
+
+Searching around, Chris finds the room Alexia was stored in for 15 years 
+during her coping of the T-Veronica Virus. He plays with the controls 
+and then out of the tube falls Alfred Ashford's dead body. At Chris' 
+feet is Alfred's Ring. Chris grabs Alfred's ring. Looking around the 
+base a second time, Chris learns that Nosferatu was implanted in the ice 
+thanks to Alexia.
+
+In the file, Alfred said Alexander Ashford was turned into a monster.
+Thinking the dead Nosferatu will have the 3rd jewel to open up the
+Painting, he decides to look in the ice.
+
+At Chris' feet below the ice is Nosferatu's body.
+
+Using a crane to get Nosferatu's body, Chris grabs the 3rd jewel, after 
+an argument with a gigantic spider similar to the one Jill saw beneath 
+the real Spencer Estate. 
+
+Chris opens up the painting in the Spencer Estate imitation hall and 
+finds a lab just passed it. It's where Alexander Ashford tested the T- 
+Veronica Virus. It also reveals Alfred and Alexia where created through 
+inserting a sperm cell into an embryo that belonged to Veronica, their 
+ancestor.
+
+Nearby are replicas of the bedroom from Rockfort Island's Private 
+Residence. There, Chris finds a key detrimental to unlocking a room 
+where he can blow the base up. That is all he finds, however. He returns 
+to the lab, and goes through a door he hasn't gone through yet.
+
+The lab leads to where Steve died. Unfortunately, there's a locked door
+between Chris and Claire. Claire tells Chris that Steve is dead and
+tells him to set the explosion sequence like in the real Spencer Estate, 
+Raccoon City and Rockfort Island. Chris does just that.
+
+Chris runs for the door leading to the computer which can set off the 
+base's exploding sequence. Using the key he found above Alfred and 
+Alexia's imitation bedrooms passed the lab, he unlocks the room and 
+finds the appropriate computer, after killing off 2 zombies. 
+
+After inserting the CODE: Veronica thanks to the file, Claire and Chris
+rejoin each other. Suddenly, a tentacle separates them once again. 
+Alexia has returned.
+
+Chris and Claire see a good weapon to use nearby, called the Linear 
+Launcher. Claire and Chris turn the keys simultaneously, but now it has 
+to charge. Chris decides to keep Alexia busy as Claire decides to run 
+off.
+
+After nearly destroying Claire, Chris shoots Alexia with a bullet and 
+causes her to mutate into a large monster. Claire attempts to run for 
+the elevator. Chris fires every weapon he has against the giant Alexia.
+
+He uses the Shotgun, his Handgun, the Submachine Guns and the Grenade 
+Launcher against the mammoth beast that was Alexia. Dodging a bunch of 
+tentacles and little parasites attacking him, his abuse to Alexia pays 
+off.
+
+Suddenly, the ants beneath in the hill start to attack Alexia.
+
+Alexia shrugs them off by growing wings and is now flying. The bulk of 
+her body dissolves just after Alexia leaves it. Apparently the bulk of 
+the giant Alexia was a feeder for Alexia to grow wings. 
+
+Coincidentally, the Linear Launcher has finished charging. Chris grabs 
+it and shoots a ray into the base, with the plasma slamming into the 
+walls of the base. The thing is heavy, and with Alexia spewing fire like 
+her first form, it is hard for him to get a clear hit. 
+
+But Chris gets lucky, and shoots a ray into Alexia's chest. Alexia 
+screams and then the next second, she is liquefied by the impending 
+blast, and is finally dead.
+
+Chris drops the Linear Launcher and  starts to run as explosions begin 
+to occur. As Chris gets down to the prison cells and to the elevator, he 
+sees Wesker holding Claire by the neck. Nearby, the door leading to 
+where Steve died is open...
+
+Wesker pushes Claire through a hole in the wall. Chris chases Wesker
+through a horde of zombies and catches up to them, in a submarine dock, 
+which seems to be far enough from the base's explosion. Chris and Claire
+discover Wesker took Steve Burnside to get the T- Alexia Virus.
+
+Chris and Wesker decide to kill each other once and for all, and Claire 
+returns to the plane. At the plane, Claire looks into the elevator to 
+wait for Chris...
+
+Chris and Wesker battle. Chris tries using a pipe to hurt Wesker, but 
+Wesker basically kicks Chris' ass. Wesker's superpowers are simply 
+unbeatable for Chris. Explosions are still rocking the base. 
+
+Chris sees a ton of iron bars supported by a rope. Chris trips the rope, 
+causing the bars to land on Wesker.
+
+Too bad they were ineffective.
+
+Wesker rises to his feet, and stumbles a little, and gets ready to kill 
+Chris for that stunt. 
+
+Suddenly, an explosion rocks the entire room. 
+
+Wesker and Chris are separated in a blast of fire. They vow to kill each 
+other next time. Wesker laughs his ass off, as Chris runs back to the 
+plane.  
+
+Passing back through the zombie hall, the place is now on fire, and is 
+ready to collapse. Chris calls the elevator and ducks his head to avoid 
+the explosions and debris flying all over the prison cell walls. 
+Luckily, they are made out of solid stone, and hold up for the time 
+being. 
+
+The elevator arrives, and Chris rides down. Amazingly, the glass around 
+the elevator holds up as explosions rock it. Then the glass breaks all 
+over Chris, but luckily the elevator door opens, and the final explosion 
+blows him out of the elevator onto the plane, landing on his stomach. 
+Ignoring it, he gets on the plane.
+
+Piloting the plane, he escapes the blasts and flies out of the base.
+
+Claire is happy to see Chris once again. 
+
+They apologize for leaving each other and then decide to take out
+Umbrella once and for all.
+
+In the distance, the Umbrella Ashford Antarctica Base completes its 
+detonation sequence, and the entire building explodes and collapses as 
+they fly away.
+
+Well, that is CVX's story. I personally think the Plot Guide has a
+better synopsis. Check it out!
+
+========================================================================
+
+11. C O N C L U S I O N
+
+========================================================================
+
+Well, this FAQ is just about finished. I have several people to thank.
+
+-Jeff "CJayC" Veasey for hosting this FAQ on GameFAQS.
+-Peter Judson at NeoSeeker for hosting this FAQ.
+-Capcom, for re-releasing it for Sony PlayStation.
+-Sony, for making the Sony PlayStation.
+-Nathan Norris (Minesweeper) for inspiration on fixing this FAQ up.
+
+CVXFREAK
+FireEmblemPride@hotmail.com
+
+This FAQ is copyright 2001/2002 by CVXFREAK. All Rights Reserved. 

@@ -1,0 +1,132 @@
+Poderia repassar essa MM pra mim por favor?
+
+___________________________
+Bravos Guerreiros da GT!
+
+Chegou a hora da nossa reestruturação, agora estamos formando as allys por localidade... a GT-X foi formada com os jogadores mais proximos do centro do Nordeste... entao, por favor, todos que estiverem na lista abaixo JÁ POSSUEM o convite em suas embaixadas. Entrem na GT-X o mais rápido possivel.
+
+	 GT-A	istambul	45,69	48,05	7	654
+	 GT-A	StratusFortes	2,24	43,39	11	677
+	 GT-A	strikinina	34	39,2	5	705
+	 GT-B	acid		25,5	30,84	8	603
+	 GT-B	AMJ		16,16	25,25	12	635
+	 GT-B	endi		39,82	42,52	11	732
+	 GT-B	GM ROBERTO	41,23	45,34	15	601
+	 GT-B	Guto17		17,72	37,22	14	751
+	 GT-B	K.O		1	27,6	11	823
+	 GT-B	Lord Fire	39,05	41,65	12	750
+	 GT-B	M1gu3l B	37,59	39,86	11	622
+	 GT-B	Mataserix	38,21	45,64	5	691
+	 GT-B	ronark		17,49	24,33	9	637
+	 GT-B	Viriato		44,18	46,07	9	733
+	 GT-B	zarak		14,56	26,46	9	740
+	 GT-C	deathproof	46,1	47,73	8	680
+	 GT-C	faisca		11,05	39,9	9	668
+	 GT-C	STARS		42,8	44,7	6	709
+	 GT-C	Truco Memo	15,13	23,14	10	671
+	 GT-D	Titio		1,41	37	25	715
+	 GT-D	bje		17,2	28,14	11	828
+	 GT-D	didopo77	2,83	39,68	7	658
+	 GT-D	Dipp		17,2	28,27	20	683
+	 GT-D	Mehul		20,62	26,42	7	615
+	 GT-D	TOMAR		3,16	29,33	7	614
+	 GT-E	bicho_toido	42,95	47,1	15	794
+	 GT-E	aqua		5,1	12,58	28	901
+	 GT-E	hum de esparta	37,01	41,99	16	755
+	 GT-E	Pneo26 Puc	41,05	44,78	7	836
+	 GT-E	SeverO		40,31	41,59	7	783
+	 GT-E	DeusGT		32,65	45,57	7	903
+	 GT-H	Hellvigox	35	38,69	8	658
+	 GT-H	rederik		37,34	39,79	6	619
+	 GT-J	_Fly_		5,1	26,19	15	861
+	 GT-J	Abreu-coelho	38,01	46,4	11	711
+	 GT-J	acmdinis	4,12	14,85	29	758
+	 GT-J	alladar		37,12	38,34	5	602
+	 GT-J	Jert		20,62	28,37	17	804
+	 GT-J	renancuevas	24,04	41,3	12	742
+	 GT-K	Objetivo	21,47	24,37	11	688
+	 GT-K	erhoo		8,54	17,39	15	763
+	 GT-K	aisha_amonrá	36,88	42,37	17	623
+	 GT-K	ClaustS01	31,58	37,42	8	688
+	 GT-K	dosítio		41,44	44,41	9	677
+	 GT-K	Shadowkina	38,21	40,09	8	894
+	 GT-K	v&a		8,25	38,42	8	722
+	 GT-K	vaspp		38,01	43,31	12	743
+	 GT-K	W.ESTERMINADOR	19,72	27,98	18	736
+	 GT-L	andrecarioca	43,57	45,67	7	837
+	 GT-L	Orix		27,46	31,34	13	876
+	 GT-L	pimentaforte	36,62	41,92	13	680
+	 GT-M	Menina		42,15	44,68	9	822
+	 GT-M	Pedrinho	45,19	46,98	11	668
+
+
+Quem não estiver na lista, não se preocupe... alianças estão sendo criadas pra todos, e em breve todos serão convidados.
+
+Vamos la..chegou a hora de darmos o passo decisivo para Ganharmos o Server..
+
+Assim que ler este recado ja aceite o convite da ally
+
+Força GT !
+ChuckNorris GT
+
+GT-? - Galera da Toca™ [125,125]
+
+Código: Selecionar tudo
+	 alianca	jogador	aldeia mais proxima	media p/ WW	qtde aldeias	media pop
+
+
+	 GT-E	ChuckNorris GT	25	30,43	13	830
+	 GT-A	istambul	45,69	48,05	7	654
+	 GT-A	StratusFortes	2,24	43,39	11	677
+	 GT-A	strikinina	34	39,2	5	705
+	 GT-B	acid		25,5	30,84	8	603
+	 GT-B	AMJ		16,16	25,25	12	635
+	 GT-B	endi		39,82	42,52	11	732
+	 GT-B	GM ROBERTO	41,23	45,34	15	601
+	 GT-B	Guto17		17,72	37,22	14	751
+	 GT-B	K.O		1	27,6	11	823
+	 GT-B	Lord Fire	39,05	41,65	12	750
+	 GT-B	M1gu3l B	37,59	39,86	11	622
+	 GT-B	Mataserix	38,21	45,64	5	691
+	 GT-B	ronark		17,49	24,33	9	637
+	 GT-B	Viriato		44,18	46,07	9	733
+	 GT-B	zarak		14,56	26,46	9	740
+	 GT-C	deathproof	46,1	47,73	8	680
+	 GT-C	faisca		11,05	39,9	9	668
+	 GT-C	STARS		42,8	44,7	6	709
+	 GT-C	Truco Memo	15,13	23,14	10	671
+	 GT-D	Titio		1,41	37	25	715
+	 GT-D	bje		17,2	28,14	11	828
+	 GT-D	didopo77	2,83	39,68	7	658
+	 GT-D	Dipp		17,2	28,27	20	683
+	 GT-D	Mehul		20,62	26,42	7	615
+	 GT-D	TOMAR		3,16	29,33	7	614
+	 GT-E	bicho_toido	42,95	47,1	15	794
+	 GT-E	aqua		5,1	12,58	28	901
+	 GT-E	hum de esparta	37,01	41,99	16	755
+	 GT-E	Pneo26 Puc	41,05	44,78	7	836
+	 GT-E	SeverO		40,31	41,59	7	783
+	 GT-E	DeusGT		32,65	45,57	7	903
+	 GT-H	Hellvigox	35	38,69	8	658
+	 GT-H	rederik		37,34	39,79	6	619
+	 GT-J	_Fly_		5,1	26,19	15	861
+	 GT-J	Abreu-coelho	38,01	46,4	11	711
+	 GT-J	acmdinis	4,12	14,85	29	758
+	 GT-J	alladar		37,12	38,34	5	602
+	 GT-J	Jert		20,62	28,37	17	804
+	 GT-J	renancuevas	24,04	41,3	12	742
+	 GT-K	Objetivo	21,47	24,37	11	688
+	 GT-K	erhoo		8,54	17,39	15	763
+	 GT-K	aisha_amonrá	36,88	42,37	17	623
+	 GT-K	ClaustS01	31,58	37,42	8	688
+	 GT-K	dosítio		41,44	44,41	9	677
+	 GT-K	Shadowkina	38,21	40,09	8	894
+	 GT-K	v&a		8,25	38,42	8	722
+	 GT-K	vaspp		38,01	43,31	12	743
+	 GT-K	W.ESTERMINADOR	19,72	27,98	18	736
+	 GT-L	andrecarioca	43,57	45,67	7	837
+	 GT-L	Orix		27,46	31,34	13	876
+	 GT-L	pimentaforte	36,62	41,92	13	680
+	 GT-M	Menina		42,15	44,68	9	822
+	 GT-M	Pedrinho	45,19	46,98	11	668
+

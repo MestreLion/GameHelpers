@@ -1,0 +1,66 @@
+X. GOLDERS	CS	sur1
+B. MILBURY	DS	sur2
+V. BARHAM	DSPR	teacher
+C. BILLIAN	DR	res1
+J. MILCLIFFE	DS	sur3
+M. ANDTON	CPR	psy2
+T. BYTON	CP	psy1
+J .WARTON	C	cons
+Y. RICHLAN	CS	sur4
+T. SCOTTSON	C	cons
+
+SURGEONS
+X. GOLDERS	CS
+Y. RICHLAN	CS
+B. MILBURY	DS
+J. MILCLIFFE	DS
+
+CONSULTANTS
+J .WARTON	C	cons
+T. SCOTTSON	C	cons
+
+RESEARCHERS
+C. BILLIAN	DR	res
+
+
+PSY
+M. ANDTON	CPR
+T. BYTON	CP
+
+
+
+- close unused areas
+- smaller training room, lots books
+- consultants dont learn
+
+emergency:
+- surgery - OK
+- toilet - OK
+- ward - OK
+
+emergercy/cure
+- slack tongue
+- inflator
+- pharmacy
+- cast
+
+other
+- training
+- staff
+- research
+
+
+initial diag
+- reception
+- GP
+- farm
+- toilet
+- psyciatry
+- GenDiag
+
+further diag
+- GP
+- Gen Diag
+- scanner
+- x ray
+- cardio

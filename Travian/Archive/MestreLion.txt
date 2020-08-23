@@ -1,0 +1,76 @@
+[A0] BAHAMUT - Capital
+- Campos
+
+
+[A0] ZEROMUS - Aldeia de espiao
+- CC 10
+- Celeiro 20
+- Armazem 20
+
+
+[A1] CECIL
+- Armaduras
+
+
+[A2] CLAYMORE - COMPLETA
+
+[A3] KAIN - COMPLETA
+
+
+[A4] RYDIA
+- Armaduras 20
+- Residencia 20
+- CP 10
+
+
+[B0] ULTIMECIA
+- Celeiro 20
+- Academia 20
+- Academia -> Celeiro 20
+
+
+[B1] SQUALL - COMPLETA
+
+
+[B2] RINOA
+- CC 15
++ Armaduras
+
+
+[B3] ZELL
+- Residencia 20
++ Armaduras
+
+
+[C0] SEPHIROT - COMPLETA - 2a aldeia de ataque
+- CC 20
+
+
+[C0] SHINRA
+- Celeiro 20
+- Quartel 10
+- Academia 20
+- Ponto de Reuniao 10
+- Residencia 20
+- Armaduras 20
+- Mansao do Heroi 15
+
+
+
+[C0] TURKS
+- Ferreiro -> Celeiro
+- Armazem 20
+- Muralha 20
+- Celeiro 20 x 4
+- CC 15
+
+
+[C1] IRONMAIDEN - COMPLETA
+
+[C2] AERIS - COMPLETA
+
+[D0] KEFKA - COMPLETA
+
+[D1] LIONGRADO - COMPLETA - Envio de fakes
+
+[D2] WOODSTOCK - COMPLETA

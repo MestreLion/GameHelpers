@@ -1,0 +1,6 @@
+xof5	o,13,d	blue
+2of5	m,3,e	yellow
+3of5	v,7,A	blue
+xof5	I,1	blue
+5of5	L,7	blue
+

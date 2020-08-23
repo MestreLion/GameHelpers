@@ -1,0 +1,537 @@
+Item of Clothing	Cost	Respect	Sex Appeal
+
+Binco
+
+TORSO 
+
+White Tank	10	2	3
+Black Tank	10	2	3
+Green Hoody	45	15	5
+White T-Shirt	15	0	0
+L.S. T-Shirt	10	0	0
+Sharps T-Shirt	20	2	0
+Green Shirt	40	15	3
+Checkered Shirt	20	3	0
+Combat Jacket	30	10	0
+Eris T-Shirt	35	15	7
+Eris T-Shirt 2	35	5	7
+Track Top	70	5	9
+
+LEGS
+
+Black Boxers	10	1	1
+Heart Boxers	12	1	2
+Woodland Camo	55	6	1
+Urban Camo	55	2	1
+Gray Pants	55	0	1
+Olive Pants	55	5	1
+Sweat Pants	60	3	2
+Blue Jeans	50	0	0
+Track Pants	70	5	5
+Beige Pants	35	1	0
+Green Jeans	60	15	5
+Green Track Pants	40	9	2
+
+SHOES 
+
+Sandals	15	0	0
+Sandals & Socks	20	0	0
+Flip Flops	15	0	0
+Cowboy Boots	100	1	2
+Hi-Top Kicks	50	2	1
+Hi-Top Sneaks	100	3	2
+Green Low Tops	50	3	1
+Blue Low Tops	50	1	1
+Black Low Tops	50	1	1
+
+CHAINS
+
+Dogtags	10	1	0
+Africa Pendant	12	1	1
+
+WATCHES 
+
+Pink Watch	15	0	0
+Yellow Watch	15	0	0
+
+SHADES
+
+Joke Glasses	10	0	0
+Joke Mask	20	0	0
+Eyepatch	5	0	0
+Red Rag	50	1	0
+Blue Rag	50	1	0
+Green Rag	50	2	0
+Black Rag	50	1	0
+
+HATS
+
+Red Rag Back	25	1	1
+Blue Rag Back	25	1	1
+Green Rag Back	25	3	2
+Black Rag Back	25	1	1
+Red Rag Front	25	1	1
+Blue Rag Front	25	1	1
+Green Rag Front	25	1	1
+Black Rag Front	25	3	1
+Watch Cap	15	2	0
+Trucker Hat	5	0	0
+Cowboy Hat	10	0	0
+Leopard Cowboy	10	0	0
+
+SubUrban
+
+TORSO 
+
+White Heat T	35	5	0
+Bobo Ape T	115	17	13
+Red Bobo T	80	12	12
+Base 5 T	80	15	12
+Suburban T	60	15	10
+Mercury Hood	70	15	10
+Base 5 Hood	105	20	14
+Rockstar Hood	120	17	15
+Vest & T-Shirt	30	0	0
+Green Windbreaker	30	13	5
+Black Windbreaker	30	5	5
+Rockstar Sweat	60	10	10
+
+LEGS
+
+Gray Shorts	30	0	0
+Olive Shorts	30	5	0
+Gray Chonglers	50	2	1
+Green Chonglers	50	6	0
+Red Chonglers	50	6	2
+Blue Chonglers	50	2	2
+Green Shorts	30	0	5
+Red Jeans	60	0	0
+
+SHOES 
+
+Black Hi-Tops	55	2	1
+Red Hi-Tops	55	2	1
+Orange Hi-Tops	50	2	1
+White Low-Tops	70	2	2
+Gray Low-Tops	65	2	1
+Black Low Tops	65	2	2
+White Hi-Tops	80	3	2
+Strap Sneakers	80	3	2
+
+CHAINS
+
+Silver Cuban	200	2	2
+L.S. Chain	50	2	0
+
+WATCHES 
+
+Face Watch	70	1	2
+Face Black	120	2	2
+
+SHADES
+
+Red Tint	200	1	1
+Blue Tint	220	1	1
+
+HATS
+
+Red Cap	40	1	0
+Red Cap (Back)	40	1	0
+Red Cap (Side)	40	1	0
+Red Cap (Tilt)	40	1	0
+Red Cap (Up)	40	1	0
+Blue Cap	40	1	0
+Blue Cap (Back)	40	1	0
+Blue Cap (Side)	40	1	0
+Blue Cap (Tilt)	40	1	0
+Blue Cap (Up)	40	1	0
+Black Skully	60	1	0
+Green Skully	60	3	0
+
+ProLaps
+
+TORSO 
+
+Rimmers Jacket	150	10	5
+R-Star Jacket	200	10	5
+Dribblers Vest	30	7	5
+Saint's Shirt	30	7	5
+69ers T-Shirt	50	7	5
+ProLaps T-Shirt	50	7	10
+ProLaps Black T	50	7	10
+Bandits Top	70	7	5
+Track Top	85	10	15
+Leisure Top	30	0	0
+Slappers Top	150	5	2
+Baseball T	80	10	5
+
+LEGS
+
+Track Pants	100	5	5
+Black Track Pants	120	5	5
+Blue Track Pants	140	5	5
+Ball Shorts	60	5	1
+Boxing Shorts	60	5	1
+Dribbler Shorts	60	5	1
+Leisure Pants	50	0	0
+
+SHOES 
+
+Mid-Top Sneaker	115	5	3
+Black Hi-Tops	70	3	2
+Blue Hi-Tops	65	2	2
+Green Hi-Tops	60	5	2
+Red Sneakers	80	2	3
+Blue Sneakers	75	2	2
+White Sneakers	70	2	2
+White Mid-Tops	70	4	2
+Black Mid-Tops	70	4	2
+Boxing Shoes	70	0	0
+
+CHAINS
+
+Stop Watch	20	0	0
+Saints Chain	25	1	0
+
+WATCHES 
+
+ProLaps White	440	0	1
+ProLaps Black	700	1	0
+
+SHADES
+
+Aviators	150	1	1
+Sun Glasses	150	2	1
+
+HATS
+
+Green Cap	40	1	0
+Green Cap (Back)	40	1	0
+Green Cap (Side)	40	1	0
+Green Cap (Tilt)	40	1	0
+Green Cap (Up)	40	1	0
+Boxing Helmet	80	0	0
+Hockey Mask	40	2	0
+Fullface Helmet	150	2	1
+MotoX Helmet	100	0	0
+Helmut	100	1	0
+
+Zip
+
+TORSO 
+
+Blue Hoody	65	5	5
+Black Hoody	65	5	5
+Striped T-Shirt	10	5	5
+Brown Shirt	40	5	10
+Sky Blue Shirt	40	7	10
+Yellow Shirt	40	7	10
+Gray Shirt	40	7	10
+Plaid Shirt	20	3	0
+Cream Logo T	35	0	5
+Gray Logo T	35	0	5
+Jean Jacket	90	10	20
+Bowling Shirt	70	7	13
+
+LEGS
+
+Beige Khakis	150	10	7
+Olive Khakis	150	10	7
+Black Khakis	150	8	8
+Blue Khakis	150	8	7
+Beige Shorts	80	6	3
+Blue Shorts	80	6	3
+
+SHOES 
+
+Gray Boots	125	5	5
+Red Boots	135	5	5
+Brown Boots	115	2	4
+Hiking Boots	110	4	2
+
+CHAINS
+
+Leaf Chain	100	2	1
+Gold Chain	350	2	2
+
+WATCHES 
+
+Zip Blue	100	2	2
+Zip Gold	220	2	22
+
+SHADES
+
+Black Shades	100	2	2
+Brown Shades	150	2	2
+
+HATS
+
+Black Sun Hat	20	2	2
+Plaid Sun Hat	20	2	2
+Cap	40	1	0
+Cap (Back)	40	1	0
+Cap (Side)	40	1	0
+Cap Tilted	40	1	0
+Cap Rim Up	40	1	0
+
+Victim
+
+TORSO 
+
+Hooded Jacket	75	17	15
+Gray Jacket	1620	20	25
+Black Jacket	300	10	20
+Biker Jacket	320	17	15
+Chore Coat	320	15	10
+Hawaiian Shirt	200	7	13
+Blue Hawaiian	300	7	13
+Sports Jacket	450	13	7
+Madd Tagg T	30	5	5
+Green Tagg T	30	5	5
+Loc-Down T	200	5	5
+Loc-Down Vest	300	5	5
+
+LEGS
+
+Leather Pants	875	8	8
+Leather Chaps	80	0	0
+Gray Pants	800	8	10
+Black Pants	800	8	10
+Jean Shorts	1000	9	7
+
+SHOES 
+
+Cowboy Boots	500	4	5
+Biker Boots	145	3	3
+Snake Skin	1000	5	5
+
+CHAINS
+
+Silver Chain	450	2	1
+Gold Chain	550	2	2
+
+WATCHES 
+
+Gold Gnocchi	1500	1	2
+Silver Gnocchi	3000	2	2
+
+SHADES
+
+Black Shades	500	2	2
+Green Tint	400	2	2
+
+HATS
+
+Red Beret	900	1	3
+Black Beret	900	1	3
+Black Cap	40	2	0
+Black Cap (Back)	40	2	0
+Black Cap (Side)	40	1	0
+Black Cap (Tilt)	40	1	0
+Black Cap (Up)	40	1	0
+
+Didier Sachs
+
+TORSO 
+
+Tweed Jacket	5500	25	25
+Red Jacket	4000	23	25
+Blue Jacket	3000	22	25
+Yellow Jacket	6000	25	25
+Tuxedo	7000	20	25
+Green Jacket	5500	25	15
+Letterman Top	1525	15	5
+
+LEGS
+
+Red Pants	2000	9	10
+Blue Pants	2500	9	10
+Yellow Pants	4000	10	10
+Tweed Pants	3000	10	10
+Tuxedo Pants	3000	9	10
+Green Pants	1500	10	6
+
+SHOES 
+
+Black Shoes	2500	5	5
+Brown Shoes	1100	4	5
+Spats	350	5	5
+
+CHAINS
+
+Cross Chain	5000	2	2
+Dollar Chain	2000	2	2
+
+WATCHES 
+
+Gold Crowex	8000	3	3
+Silver Crowex	5000	3	3
+
+SHADES
+
+Black Shades	600	1	2
+Black Rim	800	2	2
+
+HATS
+
+Dark Trilby	300	3	2
+Light Trilby	300	3	2
+Black Derby	500	1	2
+Red Derby	600	2	3
+Blue Derby	600	2	2
+Yellow Derby	700	3	2
+Green Derby	550	3	2
+Gray Boater	800	3	2
+Black Boater	700	3	2
+
+
+|===========================================================================|
+F. Haircuts (SAHAI)
+|===========================================================================|
+
+You can now get a haircut in San Andreas. There are five barber shops spread
+around San Andreas, and listed below are the haircuts you can buy, how much
+they cost, and the amount of respect and sex appeal each one gives.
+
+Old Reece's Barber Shop|
+
+Haircut	Cost	Respect	Sex Appeal
+
+
+Cesar	50	5	15
+Cesar & 'Stash	50	10	10
+Cesar & Goatee	100	10	0
+Cesar & Beard	50	10	10
+Afro	150	15	10
+Afro & 'Stash	200	20	5
+Afro & Goatee	300	20	0
+Afro & Beard	250	20	5
+Flattop	500	25	25
+Jheri Curl	350	5	25
+Cornrow	500	30	30
+High Fade	150	20	20
+
+
+Barber Shop|
+
+Haircut	Cost	Respect	Sex Appeal
+
+
+Cesar	50	5	15
+Red Hair	200	10	0
+Blue Hair	200	10	0
+Green Hair	200	20	0
+Bald Head	10	10	20
+Bald & 'Stash	25	15	15
+Bald & Goatee	25	15	10
+Bald & Beard	50	15	15
+Slope	200	20	10
+Mohawk & Beard	250	10	0
+Elvis Hair	1000	0	0
+
+
+Barber Salon
+
+Haircut	Cost	Respect	Sex Appeal
+
+
+Cesar	50	5	15
+Blonde Hair	50	0	15
+Pink Hair	200	0	0
+Blonde Afro	300	15	15
+Blonde Cornrow	550	30	30
+High Afro	150	15	0
+Wedge	150	20	20
+Detail Cut	400	25	30
+Groove Cut	500	30	30
+Mohawk	200	20	10
+Blonde Mohawk	250	10	15
+Pink Mohawk	400	0	0
+
+
+Barber's Pole|
+
+Haircut	Cost	Respect	Sex Appeal
+
+
+Cesar	50	5	15
+Blonde Hair	50	0	15
+Pink Hair	200	0	0
+Blonde Afro	300	15	15
+Blonde Cornrow	550	30	30
+High Afro	150	15	0
+Wedge	150	20	20
+Detail Cut	400	25	30
+Groove Cut	500	30	30
+Mohawk	200	20	10
+Blonde Mohawk	250	10	15
+Pink Mohawk	400	0	0
+
+
+Gay Gordo's Bouffant Boutique
+
+Haircut	Cost	Respect	Sex Appeal
+
+
+Cesar	50	5	15
+Blonde Hair	50	0	15
+Pink Hair	200	0	0
+Blonde Afro	300	15	15
+Blonde Cornrow	550	30	30
+High Afro	150	15	0
+Wedge	150	20	20
+Detail Cut	400	25	30
+Groove Cut	500	30	30
+Mohawk	200	20	10
+Blonde Mohawk	250	10	15
+Pink Mohawk	400	0	0
+
+G. Tattoos(SATAT)
+
+Tattoo	Cost	Respect	Sex Appeal
+
+Upper Left Arm	
+
+Nation	40	2	2
+Grove	40	2	2
+
+Lower Left Arm	
+
+Gun	50	2	2
+
+Upper Right Arm	
+
+Africa	90	2	2
+Cross	70	2	2
+
+Back	
+
+Grove St.	150	3	3
+Westside	200	3	3
+Los Santos	150	3	3
+Gun	450	3	3
+
+Left Chest	
+
+Gun	50	2	2
+Bullet	90	2	1
+
+Right Chest	
+
+Los Santos	80	2	2
+Los Santos	45	2	2
+Los Santos	50	2	2
+Los Santos	100	2	2
+Los Santos	65	2	2
+
+Stomach	
+
+Grove	75	2	2
+Grove	125	2	2
+Grove	100	2	2
+
+Lower Back	
+
+Angel	450	3	3
+Dagger	350	3	3
+++-+++

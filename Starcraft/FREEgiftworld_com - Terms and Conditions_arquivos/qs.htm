@@ -1,0 +1,259 @@
+
+function PageQuery(q) {
+	if(q.length > 1) this.q = q.substring(1, q.length);
+	else this.q = null;
+	this.keyValuePairs = new Array();
+	if(q) {
+		for(var i=0; i < this.q.split("&").length; i++) {
+			this.keyValuePairs[i] = this.q.split("&")[i];
+		}
+	}
+	this.getKeyValuePairs = function() { return this.keyValuePairs; }
+	this.getValue = function(s) {
+		for(var j=0; j < this.keyValuePairs.length; j++) {
+			if(this.keyValuePairs[j].split("=")[0] == s)
+				return this.keyValuePairs[j].split("=")[1];
+		}
+		return -1;
+	}
+	this.getParameters = function() {
+		var a = new Array(this.getLength());
+		for(var j=0; j < this.keyValuePairs.length; j++) {
+			a[j] = this.keyValuePairs[j].split("=")[0];
+		}
+		return a;
+	}
+	this.getLength = function() { return this.keyValuePairs.length; }
+}
+
+function replace(string,text,by) {
+    // Replaces text with by in string
+    var i = string.indexOf(text), newstr = '';
+    if ((!i) || (i == -1))
+        return string;
+    newstr += string.substring(0,i) + by;
+    if (i+text.length < string.length)
+        newstr += replace(string.substring(i+text.length,string.length),text,by);
+    return newstr;
+}
+
+function split(string,text) {
+    var strLength = string.length, txtLength = text.length;
+    if ((strLength == 0) || (txtLength == 0)) return;
+    var i = string.indexOf(text);
+    if ((!i) && (text != string.substring(0,txtLength))) return;
+    if (i == -1) {
+        splitArray[splitIndex++] = string;
+        return;
+    }
+    splitArray[splitIndex++] = string.substring(0,i);
+    if (i+txtLength < strLength)
+        split(string.substring(i+txtLength,strLength),text);
+    return;
+}
+
+function split(string,text) {
+    splitArray = string.split(text);
+    splitIndex = splitArray.length;
+}
+
+var xid="";
+var passed = replace(replace(location.search.substring(1),"+"," "),"=","&");
+var splitIndex = 0, splitArray = new Object();
+split(passed,'&');
+
+function findXID() {
+	for (var i=0; i<splitIndex; i+=2) {
+		var key = splitArray[i];
+		var val = unescape( splitArray[i+1] );
+		if (key == "xid" || key == "XID") {
+			xid = val;
+		}
+	}
+}
+
+findXID();
+
+
+
+
+// document.write( getQueryValue( 'property_value' ) );
+function getQueryValue( inKey ) {
+	for (var i=0; i<splitIndex; i+=2) {
+		var key = splitArray[i];
+		var val = unescape( splitArray[i+1] );
+		(typeof val == "") ? val = "" : val = val;
+		if (key == inKey) {
+        		return val;	
+
+    		}
+	}
+}
+	
+
+
+
+function populateForm( formName,hideError ) {
+	for (var i=0; i<splitIndex; i+=2) {
+		var key = splitArray[i];
+		var val = unescape( splitArray[i+1] );
+
+		if ( key.toUpperCase() == "CMP" || key.toUpperCase() == "M" || key.toUpperCase() == "MODE" ) {
+			continue;
+		}
+
+		if (document.all) {
+			if (key == "errmsg" && hideError != 1) {
+				if (document.all.item("error") != null) {
+					var msg = "Please correct all errors before continuing:\n\n"+val;
+					alert(msg);
+					document.all.item("error").innerText = msg;
+				}
+			}
+		} else {
+			if (key == "errmsg" && hideError != 1) {
+				if (document.getElementById('error') != null) {
+					var msg = "Please correct all errors before continuing:\n\n"+val;
+					alert(msg);
+					if (document.getElementById('error').childNodes[0] == null) {
+						var textNode = document.createTextNode(msg);
+						document.getElementById('error').appendChild(textNode);
+					} else {
+						document.getElementById('error').childNodes[0].nodeValue = msg;
+					}
+				}
+			}
+		}
+
+		// this would be smarter
+		if ( document.forms[formName].elements[key] != null ) {
+			// the form element exists, so set it
+			switch ( document.forms[formName].elements[key].type ) {
+				case "select-one":
+					for (var so=0; so<document.forms[formName].elements[key].options.length; so++) {
+						if ( document.forms[formName].elements[key].options[so].value == val ) {
+							document.forms[formName].elements[key].selectedIndex=so;
+						}
+					}
+					break;
+				case "select-multiple":
+					for ( var so=0; so<document.forms[formName].elements[key].options.length; so++ ) {
+						if ( document.forms[formName].elements[key].options[so].value == val ) {
+							document.forms[formName].elements[key].selectedIndex=so;
+						}
+					}
+					break;
+				case "radio":
+					if ( document.forms[formName].elements[key].value == val ) {
+						document.forms[formName].elements[key].checked = true;
+					}
+					break;
+				case "checkbox":
+					document.forms[formName].elements[key].checked = true;
+					break;
+				default:
+					if ( document.forms[formName].elements[key].name == 'redir_url' ) {
+						document.forms[formName].elements[key].value = escape(val);
+					} else {
+						document.forms[formName].elements[key].value = val;
+					}
+					break;
+			}
+		} else {
+			// the form element does not exist, so create it
+			if ( key != null && val != null && key != "" && val != "" ) {
+				if ( key.toUpperCase() == "CID" || key.toUpperCase() == "OID" || key.toUpperCase() == "SID" || key.toUpperCase() == "ADTID" || key.toUpperCase() == "ADTBID" || key.toUpperCase() == "ADTGID" || key.toUpperCase() == "ADTGSID" ) {
+					var newInput = document.createElement( "input" );
+					newInput.setAttribute( "type", "hidden" );
+					newInput.setAttribute( "name", key );
+					newInput.setAttribute( "id", key );
+					newInput.setAttribute( "value", val );
+
+					var newInputScrub = document.createElement( "input" );
+					newInputScrub.setAttribute( "type", "hidden" );
+					newInputScrub.setAttribute( "name", "js_"+key );
+					newInputScrub.setAttribute( "id", "js_"+key );
+					newInputScrub.setAttribute( "value", "optional" );
+
+					var theForm = document.getElementById( formName );
+					theForm.appendChild( newInput );
+					theForm.appendChild( newInputScrub );
+				}
+			}
+		}
+	}
+
+	if ((getQueryValue( 'home_phone' )) && (!(getQueryValue( 'home_area_code' ))) && (!(getQueryValue( 'home_prefix' ))) && (!(getQueryValue( 'home_suffix' )))  ) {
+		var fullphone = getQueryValue( 'home_phone' ).replace(/\D/,"");
+		var areacode = fullphone.slice(0,3);
+		var prefix = fullphone.slice(3,6);
+		var suffix = fullphone.slice(6,10);
+		(document.forms[formName].home_area_code) ? document.forms[formName].home_area_code.value = areacode : null;
+		(document.forms[formName].home_prefix) ? document.forms[formName].home_prefix.value = prefix : null;
+		(document.forms[formName].home_suffix) ? document.forms[formName].home_suffix.value = suffix : null;
+	}
+
+	/*
+	var formlist="";
+	for (var f=0; f<document.forms[formName].length; f++) {
+		formlist += document.forms[formName].elements[f].name +": "+ document.forms[formName].elements[f].value +"\n";
+	}
+
+	alert( formlist );
+	*/
+}
+
+// deprecated function, to be replaced with replaceQSKeys()
+function redirect() {
+	var qs = window.location.href.replace(/OID/i, "JUMPOID").replace(/CMP/i,"JUMPCMP");
+	qs = qs.substring(qs.indexOf("?")+1,qs.length);
+	if (qs.indexOf("http:") > -1) qs = "";
+	return qs;
+}
+
+// the following function is used primarily for offer jump urls
+function replaceQSKeys(dfltCID) {										// dfltCID is optional, for setting default CIDs for a specific OID
+	var inheritedCID = String(getQueryValue("CID")).toLowerCase();
+	var defaultCID = String(dfltCID).toLowerCase();
+	var CIDKey = new String("");
+	if (defaultCID != "" && defaultCID != "undefined") CIDKey = "CID="+defaultCID+"&";
+	var qs = window.top.location.search.replace(/\?OID=/ig, "?JUMPOID=").replace(/\?CMP=/ig,"?JUMPCMP=").replace(/\&OID=/ig, "&JUMPOID=").replace(/\&CMP=/ig,"&JUMPCMP=");
+	qs = qs.substring(qs.indexOf("?")+1,qs.length);
+	if (inheritedCID == "undefined" || inheritedCID == "") qs = CIDKey+qs;
+	if (qs.charAt(qs.length-1) == "&") {
+		qs = qs.substr(0, (qs.length-1));
+	}
+	return qs;
+}
+
+// developed for regpath; needs to be expanded to account for repeated values in ofxsCSV
+function ofxIndex(ofxCurrent, ofxsCSV) {							// expects a single string for ofxCurrent; unique CSV for ofxsCSV; both values required
+	var offerCurrent = new String(ofxCurrent).toLowerCase();
+	var offerArray = new String(ofxsCSV).toLowerCase();
+	var offerIndex = -1;
+	offerArray = offerArray.split(",");
+	for (i=0; i<offerArray.length; i++) {
+		if (offerCurrent == offerArray[i]) offerIndex = i;
+	}
+	return offerIndex;	
+}
+
+// needs an upgrade to handle regexp
+function removeKeyValue(qs, key) {
+	if (qs.indexOf(key) > -1) {
+		var val = new String("");
+		val = qs.slice(qs.indexOf("=", qs.indexOf(key))+1, qs.indexOf("&", qs.indexOf(key))-1);
+		var qs1stSlice = new String(qs.slice(0, qs.indexOf(key)-1));
+		var qs2ndSlice = new String("");
+		if (qs.indexOf(val)+val.length < qs.length) qs2ndSlice = qs.slice(qs.indexOf("&", qs.indexOf(key)), qs.length);
+		qs = qs1stSlice+qs2ndSlice;
+	}
+	return qs;
+}
+
+// needs an upgrade for form exclusions
+function populateForms() {
+	for (i=0; i<document.forms.length; i++) {
+		populateForm(document.forms[i].name);
+	}
+}

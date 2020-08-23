@@ -1,0 +1,544 @@
+               he Secret of Monkey Island - LeChuck's Revenge
+
+    General advice
+
+    The game sometimes requires you to talk to somebody and mention
+    certain thing before a certain option is advailble.
+
+    Part I - The Largo Embargo
+
+    Scabb Island
+
+    Acessible locations - woodtick, beach, swamp, cemetery, pennisula.
+
+    Woodtick
+
+    Acessible Locations - toll bridge, woodsmith, bar, kitchen, map
+    maker, inn, laundry.
+
+    You started with lots of money in your inventory, though you are not
+    going to keep them for long. Largo will come and take all your money.
+
+    Walk to the right. You'll find a map of the island. Move the cursor
+    around to check what places you can access.
+
+    Pennisula
+
+    Walk to boathouse. Talk to Captain Dread. He'll tell you to get rid
+    of Largo before you can get out of this island.
+
+    Swamp
+
+    Walk to coffin. Use coffin. Row to the right until you have reach
+    the shack.
+
+    Walk to the right and talk to the voodoo lady, Mojo. Ask her about
+    the voodoo doll. You'll get a voodoo shopping list from her.
+
+    The 4 items are from the dead, head, thread and body.
+
+    1. Item from the dead - Largo's ancestor.
+
+    Woodtick
+
+    At the toll bridge, look at the sign. Pick up the sign, you'll get
+    the shovel on it.
+
+    Cemetery
+
+    Walk to graves. Look at tombstones. Locate Largo's ancestor grave.
+    Use the shovel to dig the appropriate grave. Get a bone.
+
+    2. Item from the body - Largo's body fluid.
+
+    Woodtick
+
+    Go to Wally's place (the cartographer). Walk to the pile of papers.
+    Pick up a piece of paper.
+
+    Walk to the hatch (bar). Talk to bartender. When you mentioned Largo,
+    Largo will appears and spit something on the wall. Wait for him to
+    leave. Use the piece of paper to get the spit on the wall.
+
+    3. Item from the head - Largo's hair
+
+    Woodtick
+
+    Walk to window (just beside the hatch). This will let you enter the
+    kitchen. Walk to table, pick up knife.
+
+    Walk to the inn. Talk to innkeeper. Use knife on the rope to release
+    the alligator. The innkeeper will run after the alligator so you
+    enter the Largo's room.
+
+    Largo's room. Walk to the plastic head. Pick up toupee.
+
+    4. Item from the thread - Largo's clothing
+
+    Woodtick
+
+    Walk to laundry shop. Walk to the left, pick up the bucket.
+
+    Swamp
+
+    Look at swamp. Use bucket on swamp to get a bucket of mud.
+
+    Woodtick
+
+    Largo's room. Close the door first. Put the bucket of mud on top of
+    the door. Wait for Largo to come in. This will dirty Largo's clothing.
+
+    Follow him to the laundry. Listen to the conversation.
+
+    Go back to Largo's room. Close the door. Get the laundry ticket
+    behind the door.
+
+    Go to the laundry. Give the ticket to the old man to get Largo's
+    clothing.
+
+    Swamp
+
+    Talk to Mojo. Give her the four items. She'll give you a voodoo doll
+    and some pins.
+
+    Woodtick
+
+    Largo's room. Use pins on voodoo doll. This will get Largo off the
+    island.
+
+    Pennisula
+
+    Talk to Captain Dread. You'll need to find something for him first.
+
+    Woodtick
+
+    Walk to Wally's place. Talk to him. Make sure he has nothing more
+    to tell you. Wait for him to put down his monocle. Pick up monocle.
+
+    Pennisula
+
+    Give the monocle to Captain Dread. He'll will need you to get 20
+    pieces of eight first.
+
+    Woodtick
+
+    Walk to laundry. Talk to pirates. Agree to buy wood polish.
+
+    Walk to woodsmith's place. Talk to him and buy the wood polish.
+
+    Walk to laundry. Use wood polish on peg leg. You'll get a piece
+    of eight each time you do that. But that don't give you sufficient
+    money to pay the Captain.
+
+    So, you need to find a job and earn some money.
+
+    Beach
+
+    Pick up stick.
+
+    Swamp
+
+    Mojo's place. Look around. Pick up string.
+
+    Woodtick
+
+    Walk to inn. Look at bowl. Pick up cheese squiggles.
+
+    Walk to laundry. Open box. Use stick on box. Use cheese squiggles
+    on box. Use string on stick. Wait for the rat to eat the cheese.
+    Pull the string to catch the rat. Open box. Get rat.
+
+    Go to the kitchen (enter it from the window). Put rat in the pot.
+
+    Walk to bar. Talk to bartender. Ask him about the stew. He'll check
+    the stew and find the rat in the soup. As a result, the cook is
+    fired and you got a new job. The bartender will give you 420 pieces
+    of eight.
+
+    Pennisula
+
+    Talk to the Captain.
+
+    Part II - Four Map Pieces
+
+    There are three islands you can access: Scabb, Booty and Phatt.
+
+    Outside the boat. Pick up parrot chow. Read the book about Big
+    Whoops to find out who are having the map pieces.
+
+    1. Map piece from Rapp Scallion the cook.
+
+    Booty Isle
+
+    Enter antique shop. Buy the well polished saw (near the door).
+
+    Scabb Isle
+
+    Woodtick
+
+    Walk to laundry. Use the well polished saw on peg leg.
+
+    Walk to woodsmith's place. He'll be out for emergency service. Pick
+    up hammer and nails.
+
+    Booty Isle
+
+    Enter Stan's coffin shop. Talk to him. Ask him to show you the coffin.
+    When he is in, close the coffin. He'll give you a hankie. Close the
+    coffin again. Use the hammer with the nails to trap Stan inside the
+    coffin. Get the crypt key.
+
+    Scabb Isle
+
+    Cemetery
+
+    Use the crypt key to open the crypt. Enter the crypt. You'll find
+    many coffins with quotes on them. You'll need to find out which
+    one is Rapp's coffin before you can open them.
+
+    Phatt's Isle
+
+    Once you reach the isle, you'll be captured. In the jail. Open
+    mattress. Pick up stick. Use stick on bone. Give the bone to the
+    dog. Get key. Use key to open jail door. Get the envelopes. One
+    of them contains your personnal item and the other contain a
+    banana and an organ.
+
+    Walk to the library. Borrow a few book. Get a temporary library
+    card from the librarian. Borrow the book on voodoo "receipts: the
+    joy of hex".
+
+    Mansion
+
+    Open gate. Walk to door. Enter door. Talk to guard. FInd some reason
+    to get him away. Go upstairs. Use book (any one will do) to swap the
+    book from the governer. Look at the book. It's contain all the
+    famous quotes of many pirates.
+
+    Scabb Isle
+
+    Cemetery
+
+    Look at the coffins. Open the coffin of Rapp Scallion. Look inside.
+    Pick up some ash.
+
+    Swamp
+
+    Go to Mojo's place. Look at the jar. One of them is the ash 2 life
+    potion. Talk to Mojo. Give her the ash of Rapp Scallion and get the
+    ash-2-life potion from her. Use the book of voodoo receipts when
+    needed.
+
+    Cemetery
+
+    Use the potion on Rapp's ash. Talk to Rapp. Agree to check up his
+    hut and get a key from him.
+
+    Beach
+
+    Use the key to open door to the weenie hut. Use the knob to turn
+    off the gas.
+
+    Cemetery
+
+    Talk to Rapp again. He'll give you a map piece.
+
+    2. Map piece from Young Lindy, the cabin boy.
+
+    Booty Isle
+
+    Walk to antique shop. The map piece is on sale there for 6 million
+    pieces of eight. You'll need to find the head piece from the Mad
+    Monkey to exchange for it. Buy the horn.
+
+    Talk to Captain Kate (the women with the big hat). Get a leaflet
+    from her.
+
+    Go to spitting contest. Try spitting. Walk to the flags and look
+    at them. Try to pick them up. Use horn. All the people there will
+    be distract for a while. Pick up the flags and shift their position.
+    Try spitting again. You will do a bit better, but not good enough.
+
+    Scabb Isle
+
+    Go to the bar. Show the library card to the innkeeper and this
+    allow you to buy drinks from him. Buy the blue drink and yellow
+    drink. You'll be given a crazy straw. Use the blue drink on the
+    yellow drink to get the green drink.
+
+    Booty Isle
+
+    Go to the spit master. Use the crazy straw with the green drink.
+    This make your spit thicker. Try the contest again. Not bad, you
+    got second place. Try spitting again, this time spit only when
+    you find the women scarf is flying (this indicates that it's
+    windy). This let you win the contest. You get a plague.
+
+    Go to antique shop. Sell the plague to the dealer for 6000 pieces
+    of eight.
+
+    Talk to Captain Kate. Charter the ship but don't go to sea yet.
+
+    Phatt Isle
+
+    Borrow the book "Disaster : Great shipwrecks of the century". Read
+    the book and note down the location of the sunken monkey.
+
+    Booty Isle
+
+    Talk to Captain Kate again. Look for sunken treasure.
+
+    Go to the location indicated in the book. Dive for treasure. When
+    you have found the ship, pick up the head piece. Use the anchor
+    to go up.
+
+    Go to antique shop. Give the head piece to the dealer, get the
+    map piece.
+
+    3. Map piece from Captain Marley.
+
+    Phatt Isle
+
+    Go to alley. Talk to man. Play the game. You'll always lose in the
+    game. Notice the little guy always win. So, something fishy is
+    happening.
+
+    Follow the little guy to the another alley. Observe what he do.
+    When he had left. Knock on the slot on the door. Ask about the
+    next winning number. You'll be shown two signs. Always answer
+    with the number of fingers you are shown previously, i.e.
+
+    if he show you 4 then 5 answer 4
+    if he show you 5 then 2 answer 5
+    if he show you 1 then 2 answer 1
+    etc.
+
+    Remember the number and go an play the game again. You just need
+    to win the invitation card. There is no need for the rest of the
+    prizes.
+
+    Booty Isle
+
+    Go to custume shop. Give invitation to man. Get your custum.
+
+    Mansion
+
+    The guard will stop you and demand an invitation card and a custume.
+    Wear the custume and go to the governer's mansion.
+
+    Go to the side of the mansion. Open door and enter the kitchen. Try
+    to get the fish. You'll be chase outside. This time try to pick up
+    the trashcan. This irritates the chef and he will chase after you.
+    Run round the mansion and enter the kitchen again. Pick up fish.
+
+    Enter mansion. Pick up map piece. Exit the mansion. Try to get away.
+    The dog and the gardener will stop you and bring you the Elaine.
+
+    Talk to her as sweetly as possible. The distance between you two
+    should get as near as possible. After she have thrown the map piece
+    outside the window. Pick up the oars. Exit mansion and try to pick up
+    the map. The wind will blow it away to the cliff. Pick up the dog.
+
+    Cliff
+
+    Walk to the side. Look at the map piece. You'll need something to
+    get the map piece.
+
+    Phatt Isle
+
+    Walk to pier. Talk to fisherman. Bet with him. Give him the fish
+    to get the fishing pole.
+
+    Booty Isle
+
+    Cliff
+
+    Walk to the side of the cliff. Use the fishing pole on the map.
+    A bird will take the map away.
+
+    Big Tree
+
+    Walk to the big tree. There is a plank in one of the hole. Pick
+    up the plank. Use the oar in the first hole. Walk to the tree
+    and then stand on oars. The oar will break and you'll have a
+    dream. The necessary stuff will be written in the piece of paper
+    in your inventory.
+
+    Scabb Isle
+
+    Woodtick
+
+    Go to woodsmith's place. Give the oars to smithy. He'll fix it
+    for you.
+
+    Booty Isle
+
+    Big Tree
+
+    Use oar in first hole. Stand on oar. Use the plank in second
+    hole. Stand on plank. Pick up oar and put in in third hole.
+    Stand on oar, pick up plank and put it in fourth hole... etc
+    until you reach the top of the tree. Enter door. Look at the
+    pile of maps. Use the dog to get map piece.
+
+    4. Map piece from Mister Roger, the first mate
+
+    Booty Isle
+
+    Big Tree
+
+    Pick up telescope.
+
+    Wharf
+
+    Go to antique shop. Buy the sign beside parrot. Notice the hook
+    behind the sign. Use the parrot chow with the hook. The parrot
+    will turn to look at it. Buy the mirror.
+
+    Scabb Isle
+
+    Go to the bar. Use banana on metronome. Pick up monkey.
+
+    Phatt Isle
+
+    Use leaflet (from Captain Kate) on poster. Exit the island.
+    Captain Kate will be captured. Enter the jail. Use the key
+    to free her. Pick up the envelope with her belonging. There
+    is a bottle of half grog inside.
+
+    Waterfall
+
+    Walk to the path above the waterfall. Use the monkey on the pump.
+    The water will stop flowing.
+
+    Enter the cave. This leads you to the cottage.
+
+    Cottage
+
+    Talk to man. Try the challenge and see what happened. You'll
+    definitely lose if you don't do something. Take the challenge
+    again. Pick up mug. Use mug on tree to empty it first. Use mug
+    with bottle of half grog. This allow you to win the contest.
+    Walk to the trapdoor. Push the brick. You'll fall straight
+    through the tunnel. Ok, let's try that again. Open the window
+    first. Use the mirror on the mirror frame. Go outside the
+    cottage and use the telescope on the groteque statue. The sun
+    ray will burn a hole in the brick. Push the brick again. Look
+    at the skeleton. Pick up the map piece.
+
+    Phatt Isle
+
+    Go to the library. Open lighthouse model. Pick up lens.
+
+    Booty Isle
+
+    Go to Wally's place. Give him the lens. Give him the map pieces.
+    He'll ask you to run an errand for him.
+
+    Swamp
+
+    Talk to Mojo. Get the juju bag. Look inside it. There's a love
+    bomb and a box of matches.
+
+    Woodtick
+
+    Go to Wally's place. He's captured by LeChuck.
+
+    Swamp
+
+    Notice that there is a box laying near the swamp. Look at it.
+    Open it and use it.
+
+    Part III - LeChuck's Fortress
+
+    Walk to the right. You'll find a lots of signs there. Don't enter
+    it yet. Walk to the right tunnel. Look at jail. Talk to Wally.
+
+    Walk back to the signs. Enter the back tunnels. Look at the piece
+    of paper you have. Push bones according to what is written on the
+    piece of paper. You'll need to do it 4 times, each time using one
+    of the verses.
+
+    You should find a huge door. It may look complicated. But you
+    simply need to open the door. And this let you a doggie door.
+    Pick up the jail key. It's a trap and you'll be hanging in the
+    air in no time.
+
+    You can't move now. but you can still use your mouth. Use crazy
+    straw on green drink. You can spit on many places but you just need
+    to concentrate on two places: the pan (just below Wally) and the
+    shield (to your right). Notice that they changes their angle
+    slightly every time you spit on them. Spit on them to adjust their
+    angle. The correct angle will let you spit on the shield and it
+    then bounces off to the pan which in turn send it to the candle.
+    This turns off the light and you manage to escape.
+
+    In darkness, use the box of matches to light up the place. Oops,
+    seem that you have done it at the wrong place.
+
+    Part IV - Dinky Island
+
+    Talk the Herman. You must talk for a long time before you hit the
+    right answer. There are many thing on the beach. Pick up crowbar.
+    Pick up martini glass. Use glass with ocean. Use glass of sea water
+    with sill to get distill water. Pick up bottle in the ocean. Use
+    the bottle on the rock to break it. Open barrel to get cracker.
+    Give cracker to parrot. Note what it says.
+
+    Enter jungle. Walk to the left all the way to the big tree. Use
+    the broken bottle on the bag. Get the cracker mix. Use the distill
+    water on cracker mix to get two crackers.
+
+    Walk to the pond (Walk right three times). Pick up rope. Use
+    crowbar on the box. Get dynamites. Follow the direction given
+    by parrot. You should find the parrot there. Give another
+    cracker to it. Follow the direction given by parrot. The parrot
+    should be there. Give it the last piece of cracker. You should
+    find the big X.
+
+    Use shovel on big X. Use matches with dynamites. Use dynamites
+    with hole to blow it up.
+
+    Use crowbar with rope. Use crowbar 'n' rope with metal rod.
+    Watch what happens.
+
+    In darkness, move the cursor around until you find the light
+    switch. Turn in on. Oops, Lechuck is here. He will zapped you
+    to a random room. So, try to get familiar with the different
+    places and do thing fast.
+
+    In the first aid room. Open trashcan to get 2 surgical gloves.
+    Open drawer to get hyppdermic springe. Pick up skull.
+
+    In the room with many box. Open all the box you can opened.
+    Pick up root beer, voodoo doll, balloon.
+
+    Do this in any room you find LeChuck. Give hankie to LeChuck,
+    he'll blow his nose and give it back to you.
+
+    In the room with the broken grog machine. Use the helium
+    tank with the 2 surgical gloves and balloon. This make you
+    lighter. Use the coin return. A coin will drop out. Wait
+    for LeChuck to enter the room. He'll bend down to pick up
+    the coin. Pick up his underwear.
+
+    At the elevator, enter it. The 3 balloons you have with you,
+    will let you use it to go up. Wait for LeChuck to come in,
+    use the lever to go up. This shut the door and you'll get
+    LeChuck's beard.
+
+    Use the juju bag with the voodoo doll, beard, underwear,
+    used hankie and skull. Mix them to get the voodoo doll of
+    LeChuck.
+
+    Now, it's revenge time. Walk around to look for LeChuck. When
+    he enter the room, use the springe on the voodoo doll. He'll
+    run away from you. Walk around to look for him.
+
+    From now on, you can sit back and go through the end game.
+
+    Well done, you have completed the game.
+
+  ------------------------------------------------------------------------
+
+[Image]  [Image]

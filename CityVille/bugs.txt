@@ -1,0 +1,10 @@
+- New Inbox: doesn't show what was the prize of Mistery Boxes
+- Hearts (Request Help): 
+- Jersey / Trophy item: No image, stuck in inventory, can't delete.
+- Sound: moving truck and police cars sound loops forever. (very annoying)
+- Can't delete pending neighbors requests
+- Can't delete former friends from franchise list
+- "Substitute" in City Hall missions does not work: new people receive and accept the request, but always show as 
+  "position was taken already". No one is actually able to join and helo
+- Brazilian and Dragon boats - Can't see destination and return time
+

@@ -1,0 +1,476 @@
+
+PPPPPPPPPP                                        
+PPP     PPP                                    TTT 
+PPP      PPP                                   TTT  
+PPP       PPP        o                         TTT     
+PPP      PPP        oOo                   TTTTTTTTTTTT    
+PPP     PPP          o                         TTT   
+PPP    PPP                                     TTT     
+PPP PPPP  RR RRrrr  III VV         VV AAA      TTT EEEEEEE  EEEEEEE  RR RRrrr 
+PPP       RRR   Rrr III  VV       VV AA AA     TTT EEE      EEE      RRR   Rrr
+PPP       RRR       III   VV     VV AA   AA    TTT EEEeee   EEEeee   RRR    
+PPP       RRR       III    VV   VV AAAAAAAAA   TTT EEE      EEE      RRR   
+PPP       RRR       III     VV VV AA       AA  TTT EEE      EEE      RRR  
+PPP       RRR       III      VVV AA         AA TTT EEEEEEEE EEEEEEEE RRR 
+
+
+"YOUR ABOUT TO SUCK VOID ... BUDDY"   "KEEP YOU VITCOM OPEN, FLYING IN SHARED
+                                       SPACE"  
+
+"DIE BY THE VERY WEAPONS YOU ADORE"   "YOUR CLEAR FOR CLICKS" 
+
+"TASTE RIGHTEOUS FIRE"                "NICE TO SEE A FRIENDLY SHIP"  
+
+  (just some of the famous quotes from the game PRIVATEER)
+
+********************UPDATED 02/10/95....VERSION (1.99999)********************
+
+      The "un-official" FAQ for Privateer......from Origin systems @ 
+
+                       Created by....Rob "STINGER" Lordier
+
+                       (only one mans opinion....of course)
+
+This Faq is being done to help with the game from Origin Systems that is part
+of the Wing Commanders series.  It is a stand-alone game that is very similar
+to other flight-sim type games with it own unique characteristics.
+
+Immediate disclaimer:  I do not work for Origin Systems...I just like their
+games.  Any copywrite infringements (real or imagined) are purely coincidental
+and if anyone would like to contact me about any legalities....please, feel 
+free to contact me and I'll "make it right".
+
+These words are my own....no one elses (if I use someone elses ideas or words
+and do not already acknowledge that fact..... see above.^
+
+****I would like to thank Hank Leukart for his guideance with this FAQ.*****
+    ____________________________________________________________________ 
+  
+Ok, with all that out of the way, lets get to the point. :-) :-)
+
+
+SEC. I
+   The most frequently asked questions (FAQ) about the game Privateer
+
+SEC. II
+   Hints, strategies, and cheats.
+
+SEC. III
+   Game analysis.
+
+SEC. IV
+   News, updates....and general discussions
+
+
+
+
+
+************ WARNING! ******* MANY SPOILERS DO FOLLOW *************************
+                             !=======================!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEC. I
+===============================================================================
+
+Q.  What is an FAQ?
+    A:  It is a summary of questions that are mostly unanswered by either the
+        plot of the game or the manual. 
+
+Q.  What is the purpose of an FAQ?
+    A:  The whole idea behind an FAQ is to provide a single place where most of
+        the questions about a game, or whatever, can be restated and answered
+        in Laymen's terms, to destroy any confusion the can and does results
+        from playing a game, or whatever.
+
+Q.  What is Privateer?
+    A:  It is a stand-alone game that is part of the Wing Commander series of
+        games created by Origin Systems.  It is a type of flight-simulation
+        computer game with a few wrinkles.  The basic idea behind the game is
+        simple, you are a "Privateer" flying in and around the Gemini system
+        (futuristic space) with many possible objectives in mine, depending
+        entirely on the "type" of Privateer YOU choose to be.  There is a set
+        plot to follow, but you are in no way ordered to to make this your one
+        and only objective.
+
+Q.  How do you get Privateer?
+    A:  This game has been out for some time, most "reputable" software distri-
+        butors either have the game in stock or can order it for you.
+
+Q.  Where can I get the FAQ for Privateer?
+    A:  for now, this is it.  The creator does not have access to upload to an
+        ftp site.  If you have the ability, feel free....I only ask that the
+        contents be kept cohesive and the entire file become as one. :-)
+
+Q.  I am having trouble getting anywhere in this game, what am I doing wrong?
+    A:  The game itself is designed to be difficult in the beginning.  The one
+        thing this does accomplish is get you used to the controls. :-)  This
+        may sound trival but what you learn early in the game sets you up for
+        the type of Privateer you are.  Patience is a virtue.  In the beginning
+        it is a good idea to check the mission computer for missions that
+        involve either going to or staying in the same area.  For instance,
+        if the are two "patrol" missions in the Troy system, take them both,
+        that way you get two for the price of one.  I highly suggest upgrading
+        your ship before you begin to jump around the systems.  The Taurus is
+        not a great ship to run with/defend with/fight with.  It does give you
+        a great feel for what lies ahead.  Spend your money wisely, wait until
+        you can buy the entire Gemini map (not one at a time), join the two
+        Guilds (mercenary and merchant), upgrade sheilds and engines, get
+        better guns (lasers are weak), ...it's a jungle out there, prepare your
+        ship before you venture into the great wide open and don't forget, save
+        your game often!!!
+
+Q.  Is there a cheat for this game?
+    A:  Yes, there are a few, see below under hints/cheats/strategies
+
+Q.  I have flown a mission and failed, now I can't seem to get back on the plot
+    do I have to start over?
+    A:  Maybe.  If you have a game saved before your mishap, just go back to
+        that saved game and press on.  If you do not have a saved game you're
+        going to have to start over.  Lesson to be learned here is ALWAYS have
+        a saved game as a back-up.  (i.e. save often!)  If you fail on the plot
+        missions you need to do it until you succeed.  If you are flying a
+        "cargo" mission you must not land at any other base than where the
+        cargo is destined.  You will lose the cargo.  If you are flying a
+        bounty mission, you can make as many "detours" as you like until you
+        get the opportunity to go for it.
+
+Q.  Are some missions harder than others?
+    A:  Oh yea, most definately.  The missions at Oxford are extrememly tough.
+        The Exploratory missions are hard and killing the green drone is a real
+        hum-dinger as well.  Some missions you can make harder on yourself if
+        you don't use the "right" strategy.
+******* NEW  The missions at Beta, Gamma, Delta, and Delta Prime are made
+        considerable easy due to a new and improved strategy involving
+        a technique of flying through astroids that is incredible and 
+        relatively easy to accomplish (author has done it and is extremely
+        excited about it.....see below in "hints/cheats/strategies)
+
+Q.  I keep getting pummeled by the confeds, What did I do to deserve this?
+    A:  You get the "good guys" mad at you by killing one of there own or one
+        of the groups they are allied with.  It is called "aligning yourself".
+        The basic premise here is if you go out and kill, say, a merchant.  The
+        Confeds/Merchants/Miltia, now become your enemies because they're are
+        allies with each other.  You can "re-align" yourself by going out and
+        killing a number of their enemies as a show of good faith.  The
+        Privateer Playtester's Guide says the ratio is something like 5 to 1.
+        In other words, kill a Merchant/Militia/Confed (even a Hunter I
+        believe) and you'll have to kill 5 or six Kilrathi/Pirates/Retro's to
+        make amends.  The Kilrathi Capital ship alone is worth 10 to 15 regular
+        enemies.
+
+Q.  How do I upgrade my ship?
+    A:  RTM!  The ship dealer is the place to go, but keep in mind, not all
+        bases have ship dealers (Pirate bases never have any) 
+
+Q.  Can I play this game without following the plot?
+    A:  Absolutely.  That is what makes this game unique.  Although flying the
+        plot/story is the basic premise...you can venture out on your own and
+        do whatever you like.  You can even take a break from the "grind" of
+        the plot missions and do your own thing.  Just be sure you finish a
+        plot mission objective (the on-board computer will show dull red when
+        checking missions while flying) before branching off.
+
+Q.  What is the best ship to fly and how should I arm it?
+    A:  This really is entirely up to you.  A good thing to keep in mind.. you
+        get what you pay for.  Some guns have a better kill potential than
+        others but they take much more energy to fire.  Different types of
+        missiles are used for different fight tactics.  If you like to keep on
+        the enemies back then heat-seekers are for you.  I you like to run
+        right at them then either friend or foes (FF) or Photon torpedoes would
+        fit the bill.  If you like to dogfight and fly around a lot in tight
+        corners, then maybe the Image Recognition (IR) is for you.  Whatever
+        you choose to do is entirely up to you.  Some ships carry more cargo
+        space than others while some much faster than others.  My personal
+        favorite is the CENTURION with all IR's and Tacheyons in front and
+        back.  The Repair Driod is a must for any well equipped ship.
+
+Q.  Are there any add-on games for Privateer?
+    A.  Yes.  The only add-on (currently) is called Righteous Fire.  You fly
+        in the same Gemini Sector with better up-grade capabilities and a
+        different plot line.  Author's opinion...you liked Privateer?? get
+        Righteous Fire and get the feeling of immortality!!
+--->    (if you have the CD-ROM version, you already have the add-on....thanks
+         for the info...Chae Hon An)
+****    See special note below *****
+
+Q.  I have the green gun..... now what?
+    A:  The most asked question by a big margin.  You obtain the green gun
+        from the Derelic base in the Delta Prime System from another ship.
+        when you get the gun, a strange new ship appears (the green drone) as
+        is quite a formidable adversary.  The game does not show you what the
+        next move is.  Once you get the green gun, go back to Rygannon to get
+        your money.  Then proceed to any other mining base outside the Rygannon
+        system and at the bar you'll met an atache to Admiral Terrel named
+        Sandra Goodin.  She will get you back on the plot.
+
+Q.  I'm having problems with my controls, the joystick seems jumpy, can this
+    be fixed?
+    A.  Well, maybe.  If you are running the game on a 386 computer you will
+        experience jumpyness with a joystick.  On a 486 it is much smoother.
+        Apparently this is due to the requirement/recommendments situation
+        that is on the box.  I have flown the game on both and the difference
+        is dramatic.  I learned to fly on a 386, but when I flew the game on
+        a 486 it seemed almost unfair to me.  I found it extremely easy to
+        control the ship on the 486 since I learn on the lesser model.  The
+        game is really meant to be run on a 486.  If you choose you can
+        contact the support people at Origin Systems directly and discuss the
+        control problem with them.  They are very patient and friendly.  See
+        below for the phone number and e-mail address.
+
+Q.  I've killed the Green Drone.....now what?  Is that it?
+    a.  Not really, you can go on playing the game and exploring systems you've
+        not seen yet.  You can go off and hunt down some Kilrathi.  As far as
+        the plot goes.......yes you are done (unless you go buy the add-on
+        Righteous Fire).  You can start the game over using diferent ships to
+        see how they "feel".  You can accumulate more money by running more
+        missions (real good thing to consider if you're thinking about getting
+        the add-on game mentioned earlier).  The game is never "over"...there's
+        always another mission to be run.  I'm still trying to find that
+        elusive hollow astroid that the Kilrathi used for their surplus guns...
+        no luck yet though.
+
+******************************HINTS/CHEATS/STRATEGIES**************************
+SEC II
+
+Q.  Are there any cheats in this game?
+    A:  Hitting Alt-O will open a screen that allows you to test out the ships
+        capabilties without much fear of destruction.  Unlimited ammo, joystick
+        calibration, invulnerabilty (GOD MODE) are a few of the options that
+        are available.  Be careful when using this "cheat" though, if you are
+        either flying a mission (cargo or plot) and you go into this option
+        screen to save yourself, the mission is considered a failure and if you
+        are on a plot mission, you are basically screwed.  You'll need to go
+        back to a saved game (hopefully you remembered to save!) and start from
+        there.  Bounty missions are different, apparently they are unaffected
+        by this option (sometimes getting rid of a mission is good, you can 
+        only "hold" three missions...not including plot missions).  You can
+        get into this mode at any time, even while flying!
+
+Q.  What is the best strategy for fighting in the astroids?
+    A.  Don't fight in the 'roids unless you have to!  It's a wise privateer
+        that tries to fight enemies on the outside of any astroid field.  One 
+        technique that works well I call "throw out a rope".  When you first 
+        enter an astroid field, and enemies are in the area, hit "n" on the
+        keyboard and give yourself a destination that leads out of the 'roid
+        field....then go back to the battle.  Try to communicate with the
+        enemies to draw them out of the 'roids for the fight.  If you find it
+        neccessary to fight in the 'roids then go ahead and enter the field.
+        Try to concentrate on one enemy at a time and use your missiles/photons
+        to keep others at bay.  If the battle is going bad, then just head for
+        the white crosshair....that's your route out of the field so repairs
+        can be made!  Remember these things, you can fly around 250 clicks
+        through the field maximum and still have time to manuever around the
+        incoming rocks.  Rotating your ship can be helpful too.  firing on the
+        'roids will eliminate them.  
+********NEWS FLASH.....ASTROIDS ARE A PIECE OF CAKE!
+
+        This technique was presented to me by another dedicated Privateer
+        "fanatic" (I really wished I'd come up with this).  The technique
+        is simple but complex to explain.....sorta.  The trick is to fly
+        through the astroids as fast as you can while constantly moving
+        the joystick either up and down or side to side.  What the basic
+        idea here is is the astroids move entirely in relation to your
+        ship and constantly manuevering doesn't allow the field to reset
+        fast enough to pose any threat of collision.  It's as if the only
+        thing in the area that has gravitational pull is your ship.  If
+        this object is always moving.....then so are the 'roids!  I could  
+        not believe it myself, but it really works.  Just put the finger
+        on the tab key (afterburner) and fly like the wind!
+*****************************************************************************
+**************************SPECIAL THANKS!!!!!********************************
+       THIS GOES OUT TO MICHAEL W. JANISZEWSKI FOR THIS INFORMATION
+
+Q.  How do I kill the green drone?
+    A:  When you are givin the assignment from Admiral Terrel, if you haven't
+        figured it out yet, you are to be the bait for the green drone.  The
+        Confeds are going to ambush the drone in hopes of destroying it.  Fat
+        chance, their guns are impervious to it.  The only hope is your newly
+        charged up (by the Steltek you encounter on the way).  Once you get to
+        the ambush site, and after a short formal conversation with the Confeds
+        the green drone will appear.  The Privateer Playtesters guide suggests
+        the strategy here is to fire a few shot at the oncoming drone then turn
+        90 degreees to avoid its fire.  It says to stay on its rear and avoid
+        direct encounters.  It also says to avoid getting between the Confeds
+        (Commodore Reissmman and his buddies, a Paradigm and two Broadswords)
+        and the drone because they will shoot you down (friendly fire).  I 
+        think the best strategy is to get away from the Confeds and take the 
+        drone on by yourself.  It will follow you, always, so use it to your 
+        advantage.  A centurion equiped with level 2 shields can take a few    
+        hits from the drone.  If you have level three, even better.  Only use
+        the green gun( the other guns are useless and drain valuable energy).
+        Line up with the drone and fire until your finger bleeds.  Once you see
+        the drone's shields begins to drop, unload with missiles/photons and
+        you will destroy him.  
+
+Q.  How do you get through the missions at Oxford?
+    A:  There are four missions to run at Oxford.  The first and the last are
+        the hardest.  The middle two are "relativily" easy.  This will discuss
+        the two hardest.  In the first mission you are to escort Toth to Oxford
+        and protect him from the Retro's.  There will be a total of five God of
+        Man Retro's to fight.  Two in the frist wave and three in the second.
+        Your priority is to kill the Retro(s) that are going after Toth.  In 
+        the first wave...the second enemy you target is the one to kill first.
+        The first one you target is coming after you.  Ignore him for now.  A
+        good strategy I found is to RAM them.  Your ship (hopefully a Centurion
+        or even a Galaxy) weighs more than the Retro's Talans so an impact will
+        destroy them.. not you.  In the second wave, there are three Talons to
+        fight.  Once again, don't go after the first ship you can target.  It 
+        is coming after you.  You want the other two killed first.  They are
+        going after Toth exclusively.  Ram them, fire missiles/photons, shoot
+        at them, whatever you need to do to keep them of Toth.  Even though he
+        is in a Merchant ship, he cannot take too much of a beating.  Don't be
+        too concerned about the Talon that is dogging you.  You are here to 
+        protect Toth only.  One thing to keep in mind.  If you find that you
+        kill the last Talons just as the Merchant ships blows up....go ahead to
+        Oxford.  You'll be surprized.  I think because a Talon blows up faster 
+        than a Merchant the mission is actually successful.
+
+        In the forth mission (another escort) you are to protect a Merchant 
+        ship carrying a cargo of book to Oxford.  You will encounter five 
+        Talons again.  Use missiles/photons to keep the Talons off the Merchant
+        again.  Ram them if you can, if you get close to Oxford and the 
+        Merchant blows up...look for the cargo of books and tractor beam them
+        on board.  There again are two waves and the first ship you target on
+        is coming after you.  Get the ones that are going after the Merchant
+        first.
+        
+        [I figured I'd better mention the third mission since I rated it pretty
+        high.  You run into lots of demons.  The best strategy is to try and
+        get off a few shots as they're coming at you.  The Playtester's Guide
+        warns about a frontal assualt....and I concure.  Those pesky Demons 
+        have some nasty torpedos that can easily knock out even the best of 
+        shields.  Try to pick them off from behind (turret) seems to work well
+        here.  Using missilies does a grand job also.  They whole idea is to
+        not try to concentrate too much on one.....go after one until you do
+        some real damage then go to the next one!  Ramming does help but don't
+        rely on it too much (these ships weigh more than Retro's and will do
+        much more damage).] 
+
+Q.  Is the any money cheat for this game?                                 
+    A:  Yes, it involves using a debug command to get into the program to make
+        changes.  This cheat was originally given to me by Toby Hauzeneder.
+           Begin a new game and buy some stuff to get a certain amount of
+           credits (e.g.:  1596 cr) (2000 is too usual)
+           Now save the game and go into debug and transform the number into
+           hexidecimal. (e.g.  1596 = 06 3c)
+           Flip the hex number (e.g.:  06 3c = 3c 06)
+           Search your savefile for this string (e.g.:  3c 06) and overwrite it
+           but don't write more than (ff 7f).  Just write (ff 50) and it will
+           be plenty
+           The commands to use are:
+                                   1.  debug privateer (debug sav.game) 
+                                   2.  D (to display the hexidecimals)
+                                   3.  E (to edit)
+                                   4.  W (to overwrite)
+                                   5.  Q (to quit) 
+===============================================================================
+
+SEC. III  GAME ANALYSIS
+
+The following is a listing and my opinion of difficulty level of plot missions:
+
+On a scale from 1 to 10.... 1 being the easiest and 10 being the hardest.
+
+ERNESTO SANDOVAL  (1)  Get artifact as collateral
+TAYLA A           (2)  Cargo mission
+TAYLA B           (2 or 3)  Militia can be fiesty
+TAYLA C           (2 or 3)  Same as before
+TAYLA D           (3 or 4)  William Riordion can be thorn in the side.
+                            But you get secret compartment. :-)
+ROMAN LYNCH A     (2)  Seelig is by himself....puppy chow!
+ROMAN LYNCH B     (3)  Tougher primarily because of astroids.  Salman Kroiz
+                       and his goons can be pests.
+ROMAN LYNCH C     (2)  Afterburners...afterburners I say!
+ROMAN LYNCH D     (2 or 3)  Don't be a sitting duck... move around.
+E. MASTERSON A    (8 or 9)  Real tough mission.  Dogfighting skills really
+                            tested.  Shoot quick....live hard.
+E. MASTERSON B    (4 or 5)  Kill Black Rhombus fast.  Ram the talons
+E. MASTERSON C    (8)  Tough mission because of the Demons
+E. MASTERSON D *  (10+) Escort mission.  Talons all over the place.
+LYNN MURPHY A     (5 or 6)  TEN Demons?
+LYNN MURPHY B     (7)  3 Demons and 4 Centurions...geez!  
+LYNN MURPHY C     (1)  Land...not neccessary to fight.
+MONKHOUSE A       (3)  Avoid astroids and mission is easy.
+TARYN CROSS A     (4)  12 Talons in all.  
+TARYN CROSS B     (1)  Garrovick is easy to kill.
+TARYN CROSS C   * (7)  A silver tongue is essential.
+TARYN CROSS D     (4)  See previous.  Invulnerability can be used to get back  
+                       to base... remember to get out of it before you land.
+SANDRA GOODIN A   (1)  Land at mining base outside Rygannon and you're on your
+                       way.  Use invuln. to get where you're going.
+ADMIRAL TERREL    (9 or 10)  Kill the green drone.  Use all your dogfighting 
+                             skills here and you'll be successful.
+
+* had a change of heart, due to popular demand, this mission is ranked higher
+  than orginally posted.  The silver tongue refered to getting to the system
+  without much damage, you'll need all your power to fight the cats!
+
+* After careful consideration and deliberation.....I am convinced that the
+  4th mission at Oxford is by far the toughest mission in the game.  (this
+  is entirely a selfish opinion, due to the most recent run through the plot
+  that took 14 1/2 hours to finish....2 1/2 hours spent entirely on this
+  one bastard of a mission).....If you make it through this mission, call
+  the family, take a picture, let someone know....you have "graduated" to
+  become a lean, mean, fighting Privateer!
+
+===============================================================================
+
+Any additional questions/comments are welcomed and encouraged.
+
+Origin Systems = e-mail:  76004.2612@compuserve.com
+                          OSI@aol.com
+                          Origin_CS@aol.com
+                          origin@world.std.com
+                 PHONE #  (512) 335-0440
+                 FAX   #  (512) 335-8559  (24 hrs a day) 
+                 BBS   #  (512) 331-4446  (24 hrs a day)
+
+
+One last additional note:  If you like this game, please consider voting for
+it in the internet top 100....send e-mail to jojo@hacktic.nl with the word
+"vote" in your subject line.  This game has been hanging in the top 20 for
+quite some time.
+
+** SPECIAL NOTE:  I'm currently working on expanding this FAQ to include the
+add-on game RIGHTEOUS FIRE.  I don't get as much time to play that game as 
+I'd like so any input is greatly appreciated!  I'll give full credit to any
+informative input.  A chance to see your name in lights, how can you pass that
+up?  
+***.........................UPDATE!.....................******
+
+Yes.....I am still working on the FAQ for Righteous Fire....I plan to, if
+not promise to have it done right after the Presidents day weekend....I have
+run through the game 6 times and just want to be sure I leave nothing out.
+If only you could all see the notes I have stacked up on the terminal about
+this game. :-).  Oh and BTW, there is a rumor Origin is working on a new
+game......PRIVATEER ][ (yes, that means two).  I am not about to jam the
+foot deep into the mouth, or dangle a carrot out there and give any kind of
+estimated release date.....I will say one thing, I have spoken with numerous
+people at Origin and the game will be a reality soon.  They are working on 
+it.  I for one can not wait!!!!!
+
+Life is a journey, not a destination..Aerosmith|   "Taste Righteous Fire!!"
+Definition of enough money? Just a little more!| ddm1196@dcsc.dla.mil   Rob
+  Eagerly awaiting the new game coming out     | aka = "The Stinger"  OWNER of
+  (drum roll please) Privateer II (YYEEEESSSS!)| PRIVATEER FAQ stardate 0210.95 
+
+
+

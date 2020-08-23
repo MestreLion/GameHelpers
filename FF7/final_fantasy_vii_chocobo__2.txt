@@ -1,0 +1,346 @@
+*************************************************************************************************
+* |J@p@NKl@N| Entertainment Strategy Guides - Final Fantasy VII : Raising Chocobos -  v1.1	*
+*************************************************************************************************
+
+Copyright notice at the end of the document.
+This document is completely original. Information in this document has been found trough the Final
+ Fantasy VII game (PC US version) [and a huge 6-days long Chocobo hunting session].
+
+Version History:
+
+* Reported the possibility of having more than 1 special chocobo of each type on the PC version.
+(thanks to Francisco Moraes)
+* Fixed some formatting
+* Fixed Section 8 wrong information about Cactuers
+* Fixed Section 9 wrong number of wins required to get promoted to a new chocobo class
+
+Index
+
+1. Where to find Chocobos
+2. Where to find Chocobo Sage
+3. Preparatory steps before breeding the special Chocobos
+4. How to Obtain the River (Blue) Chocobo
+5. How to Obtain the Mountain (Green) Chocobo
+6. How to Obtain the River-Mountain (Black) Chocobo
+7. How to Obtain the Ocean (Gold) Chocobo
+8. What to do with the Gold Chocobo
+9. Chocobo Racing
+10. How to get the Chocobuckle Enemy Skill
+
+
+1. Where to find Chocobos
+
+Chocobos can be found in 7 different areas of the World Map. These areas are marked with Chocobo
+ tracks. To actually meet Chocobos in combat, you need the Chocobo Lure Materia.
+
+*?* Where is Chocobo Lure Materia?
+*-* You can find Chocobo Lure Materia at the Chocobo Ranch, just east of Kalm and Midgar. You can 
+ purchase it for 2000 gil, or (much better, since you will not be needing chocobo hunting until 
+ disc 3) you can wait to reach disc 2 or 3 and find one for free near the now empty Chocobo fence.
+
+In every area, Chocobos come with a variety monsters, however the chocobo/monster combinations are 
+fixed, and are useful for determining beforehand what kind of Chocobo you are fighting. The
+Chocobo type is discovered either by noting which monster came with the Chocobo or by Moving
+Chocobos from the fence to the stables in the Chocobo Ranch.
+
+*?* What should I do at Chocobo Ranch?
+*-* To get the Gold Chocobo, you will need as much as 4 stables (for a mere 10000 gil each). Rent
+ them from the guy in the western building of the Chocobo Ranch.
+ When you have Chocobos, you will also have to Feed, Ride and Mate them. All this option are 
+ available trough Choco Billy in the Chocobo Stables (eastern building of the ranch). We will 
+ explain feeding and mating later.
+ When you encounter Chocobos, you have to kill all the monsters that come with them in a very 
+ short time, WITHOUT attacking the Chocobo. If you want to buy some more time, buy some greens 
+ (the cheapest ones, Gyashkl, are just perfect) from Choco Billy and use them on the Chocobo you 
+ encounter. The Chocobo will start eating the greens, giving you some more time to catch it.
+
+*?* When should I start hunting Chocobos?
+*-* My personal suggestion is to wait the third CD, until the Northern Cave Dungeon becomes 
+ available. Before that time, you don't have probably enough chance of getting the vast amounts 
+ of gil needed to breed champion-class Chocobos.
+
+These are the 7 areas where you can find Chocobos and the comment that Choco Billy will give you 
+about them:
+
+Area 1 : Chocobo Ranch Area
+Description : The Chocobos you find here are pretty weak and useless. The only reason to encounter
+ Chocobos here is that they are the only Chocobos that use Chocobuckle. Refer to section 10 on how
+ to get Chocobuckle Enemy Skill attack.
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+2 Mandragora                            "This one doesn't seem very good"       Poor
+1 Mandragora & 1 Levikron               as above                                Poor
+2 Levikron                              "I really can't raccomend this one"     Weak
+2 Elfadunk                              as above                                Weak
+
+Area 2 : Junon Area
+Description : Completely useless. The Chocobos you find here are not good at anything.
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+2 Capparwire (front-view)               "This one doesn't seem very good"       Poor
+2 Nerosuferoth                          as above                                Poor
+3 Capparwire                            "Mmmm, this one's not bad"              Fair
+2 Capparwire (side-view)                as above                                Fair
+
+Area 3 : Gold Saucer Area
+Description : One of the components for the River and Mountain Chocobo comes from this Area, 
+ so watch closely :D
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+1 Harpy                                 "This is a pretty average Chocobo"      Average
+2 Flapbeats                             as above                                Average
+2 Spencer                               "Mmmm, this seems like a good Chocobo"  Good
+
+Area 4 : Rocket Town Area
+Description : useless. You can find the same Chocobo you need for the River and Mountain Chocobo 
+ in Mideel, where you also gain more EXP and AP.
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+1 Velcher Task & 1 Kyuvilduns           "This Chocobo's so-so"                  Mediocre
+2 Velcher Task                          as above                                Mediocre
+2 Valron                                "This is a great Chocobo"               Great
+2 Kyuvilduns                            as above                                Great
+
+Area 5 : Wutai Area
+Description : Completely useless. You might want to control Razor Weeds to gain the Magic Hammer 
+ Enemy Skill, but this doesn't concern Chocobo hunting :D
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+3 Tail Vault                            "This is a pretty average Chocobo"      Average
+2 Tail Vault (front-view)               as above                                Average
+2 Tail Vault (side-view)                "Mmmm, this one's not bad"              Fair
+3 Razor Weeds                           as above                                Fair
+
+Area 6 : Mideel Area
+Description : One of the components for the River and Mountain Chocobo comes from this Area, so 
+ watch closely :D
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+3 Headhunters                           "Mmmm, this one's not bad"              Fair
+2 Headhunters                           as above                                Fair
+1 Spiral                                "This is a great Chocobo"               Great
+2 Spirals                               as above                                Great
+
+Area 7 : Icicle Area
+Description : It's the only area where you can hope to find the components for the Gold Chocobo...
+
+Monsters with the Chocobo               Choco Billy Comment                     Quality
+2 Bandersnatch                          "I really can't recommend this one"     Weak
+1 Bandersnatch & 1 Jumping              as above                                Weak
+1 Jumping                               "This... is a wonderful Chocobo!"       Wonderful
+2 Jumping                               as above                                Wonderful
+
+Now that we know where to find what, let's start the stressing path to the Gold Chocobo...
+
+2. Where to find Chocobo Sage
+
+Chocobo Sage can be found only if you have airship Highwind (or the Gold Chocobo, of course :D). 
+He lives in a small house just a bit north of Bone Village (the place with the archeologists). He
+is the only one that sells Sylkis Greens, the best type of green, but he is otherwise pretty 
+useless since he will always forget what he was saying (it's faster reading this guide, than 
+going around into the world, get back to the Sage, running around some more, get back to the Sage,
+... you got the idea).
+Get ready to buy loads of Sylkis greens from him (don't use Sylkis to catch chocobos! Throw them 
+those cheap Gyashkl ones!).
+BTW, the Green Chocobo that lives in the Chocobo Sage house will give you an Enemy Skill Materia 
+if you "talk" to it (at that point of the game, i found that materia a bit useless).
+
+3. Preparatory steps before breeding the special Chocobos
+
+Make certain you have:
+* rent 4 stables at the Chocobo Ranch
+* 3 Carob Nuts
+* 1 Zeio Nut
+* at LEAST 50 Syklis Greens (yes, that's 250.000 gil flying away)
+
+*?* Where to find the Carob Nut? No one sells them!
+*-* There are two ways to find Carob Nuts:
+ 1) you can win it for a mere 300 GP in the Golden Saucer Wonder Square (DISC 2 or 3 only). It's 
+  the first prize marked as ?????. I don't know if you can win more than one, so you might have to
+  use also way 2).
+ 2) Equip the Steal Materia (quite easy to find troughout the game) and go to Bone Village with 
+  the Highwind. Do you see those small islands just south of Bone Village? They are 3, one is 
+  incredibly small, another is long and another one is almost square. Land on the square one (it's
+  about 10 x 12 "paces", it has no sand on it and is covered half with pale grass and half with
+  dark grass) and start running around. Here you can find pesky squirrel like creatures (not even
+  a match, they are ridiculous at any stage of the game) or the mighty Vladorakos. Well, the 
+  Vladorakos has your Carob Nuts, so steal from him. After beating it the first time, run around 
+  some more time and get 3 of those Carob Nuts. You won't need more.
+
+NOTE : Vladorakos has something like 40000 hp, but has ridiculous attacks, so don't worry, just
+ hack him away.
+
+*?* Where to find the Zeio Nut? No one sells them!
+*-* This is extra-easy, much easier and quicker than the Carob Nut affair. Fly with the Highwind
+ to the northeastern group of islands (just head straight east from Bone Village). One of them is
+ covered with a forest. Land there and run around the forest until you encounter Goblins. Steal
+ from them and you will get the Zeio Nut. Another thing you can get from the Goblins is the very
+ useful Goblin Punch Enemy Skill that deals non-elemental damage (and deals a LOT of damage if 
+ you are fighting a creature that has the same level as you currently have) and costs ZERO MP! 
+ (yes Zero).
+
+*?* I don't have a lot of money, what should I do?
+*-* You might win the GIL Up Materia for a hard 1000 GP at the Golden Saucer Wonder Square. The
+ best way to win it is keeping going and exiting the Golden Saucer and hoping for the GP smuggler
+ to pass by. When you arrive at the Golden Saucer Ropeway Station (on the Saucer, not at Corel),
+ there will be the hostess and the chocobo-suited animator. However, from time to time there will
+ be a guy near the save point, the GP smuggler, who will convert up to 10000 gil in 100 GP. Keep 
+ doing this and you will reach the GIL Up Materia. To make this efficient, it's better if you make
+ some winning at the Chocobo Square Bookmaker's Office, gaining GPs instead of useless items 
+ (except for Megalixirs, perhaps). Don't worry about winning, since you will earn a lot of items 
+ in your Gold Chocobo jockey life (much later, though...).
+
+4. How to Obtain the River (Blue) Chocobo
+
+This one is really easy, as the Mountain. Reach the Golden Saucer Area, and catch a Good Quality
+ Chocobo (2 Spencer). Then reach Mideel Area and get a Great Quality Chocobo (1 or 2 Spiral). You
+ could also get the Chocobo near Rocket Town, but in Mideel you get more EXP and AP. In order to
+ get the River Chocobo, you need a MALE Great Chocobo from Mideel and a FEMALE Good Chocobo from
+ Golden Saucer. Mate them with the Carob Nut and you will receive the Blue River Chocobo. After
+ breeding, release the parents of the River Chocobo, you will not be needing them again.
+
+*** UNIVERSAL TRICK FOR CUTTING TIME *** When you catch a Chocobo and send it to the Stables, its
+ sex has not yet been determined. Chocobo sex is determined when you move Chocobos from the fence
+ to the stables (so, in Chocobo Ranch). Always save just before entering Chocobo Ranch! This way,
+ if you mess up with Chocobo sexes, you can reset and restart.
+
+[NOTE FOR PC USERS: If you have FF7 for the PC and have installed DirectX 6.x, you might find that
+ if you quit from FF7 and then relaunch it, FF7 halts and freezes the system. To overcome this 
+ problem, just enter a fight and cast Ultima on your own party. In less than 30 seconds you will 
+ be asked to load a game, removing the need to quit from FF7 :D).]
+
+5. How to Obtain the Mountain (Green) Chocobo
+
+This one is also really easy. Reach the Golden Saucer Area, and catch a Good Quality Chocobo (2
+ Spencer). Then reach Mideel and get a Great Quality Chocobo (1 or 2 Spiral). In order to get the
+ Mountain Chocobo, you need a FEMALE Great Chocobo from Mideel and a MALE Good Chocobo from Golden
+ Saucer. Mate them with the Carob Nut and you wil receive the Green Mountain Chocobo. Again, 
+ release the parents of the Chocobo, you don't need them.
+
+*** MAKE SURE YOUR MOUNTAIN CHOCOBO IS OF THE OPPOSITE SEX OF YOUR RIVER CHOCOBO!!! ****
+[Note for PC Users: It is confirmed that you CAN have more than one type of special chocobo at a
+time, for example 2 mountain and 1 river or any combination. It *seems* (not confirmed yet) it 
+just becomes harder to get special chocobos you already have.]
+
+6. How to Obtain the River-Mountain (Black) Chocobo
+
+This needs some more time than the Mountain and River Chocobos. Feed your Blue and Green Chocobos
+with Sylkis Greens until their stats stop growing (if the only effect of a feeding is "They are
+getting along better" it means that that Chocobo has reached its limit). This might require
+somehitng like 15 Sylkis greens each. It's better to give them large amounts of Sylkis, instead
+of giving them one by one.
+After the feeding, go to the Gold Saucer Chocobo Square. There, on the Staff Room door, there will
+be Ester waiting for you (she's the one that makes you run on the Chococos when you are thrown
+into the Golden Saucer jail in the desert). Ask her to register a Chocobo for the next race and
+keep racing until your blue and green chocobos are class A (or, much better, S). Refer to Section
+9 for Chocobo Jockey tips.
+When your Chocobos are both at least class A, get back to Chocobo ranch and mate them with the
+Carob Nut, a nice Black River-Mountain Chocobo will be born. You will obtain the Gold Chocobo
+shortly, so don't even ride out with this.
+As before, release the parents of the black chocobo, you will not needing them any more.
+
+**** NOTE ***** If you reach A class with all your chocobos in a VERY short time, when you get 
+ back to the Chocobo Stables, Choco Billy will say that he can't mate freshly born Chocobos. If 
+ this happens, do something else for a while (i.e. running some more at the Gold Saucer (in the A
+ Class you can win nice prizes, or stock on GP for getting that GIL UP Materia or the EXP UP
+ Materia for 2000 gp in Wonder Square) or entering the Battle Arena). After some time has passed,
+ you will be able to mate your 2 chocobos and obtain the black Chocobo. 
+
+7. How to Obtain the Ocean (Gold) Chocobo
+
+This is quicker than the Black Chocobo. Feed the Black Chocobo with as much Sylkis as you can, 
+until his stats are at maximum (again, if you get only "They are getting along better" after a 
+feeding, it means that the Chocobo is at its maximum), then make it run at the Golden Saucer and
+reach at least class A (at this point, reaching class S should be easy enough). After reaching
+class A, go to the Icicle Area and hunt a Wonderful (1 or 2 Jumping) Chocobo of the opposite sex
+of your Black Chocobo. Feed it with as much Sylkis as you can afford (at this point you might
+have spent something like 400.000 gil) or, much better, to its limit, and make it run at the
+Golden Saucer, reaching class S. Save before Mating these two Chocobos, because the chance of
+getting the Gold are lower than the others (I think that if you do things the right way, the
+chance for getting River and Mountain Chocobos are something like 100%). Mate the Black Chocobo
+and your Wonderful Chocobo with a Zeio Nut and you will finally gain a Gold Chocobo (if you spent
+a lot on Sylkis, it should be some kind of monster with a top speed around 190-200 and stamina 
+around 1500)!!!.
+
+It might take around 4 hours to get the Gold Chocobo. Many people say that it's needed much more
+because they do not know that the Quality of a Chocobo is linked to the monsters it comes with.
+
+8. What to do with the Gold Chocobo
+
+You can do a lot of nice things, which are:
+
+* Reach the Circular Mountain Range with the Waterfall in it, put Vincent Valentine in your party,
+ enter the cavern behind the Waterfall and get his Limit 4 Manual (CHAOS) and his Ultimate Weapon
+ (Death Sentence). If they doesn't appear immediately, just pass by again later.
+* Reach the uncharted island at the far Northeast of the map to get the legendary Knight of the 
+ Round Summoning Materia, the most damaging materia of the game (with a 255 Magic pg, it does 
+ around 90.000 damage) and the only way to beat the Weapons without dying of age :D
+* Reach the cavern on a peninsula near Wutai and get the Mime Materia (that is NEEDED if you want
+ to have a hope of beating Ruby Weapon or Emerald Weapon)
+* Reach the cavern on a peninsula near Mideel and get the Quadra Magic Materia
+* Reach an island south of Cosmo Canyon (keep going south) where you can find the Cactuer, an 
+ ominous creature immune to everything except Poison, Ultima and KoTR (might be hit by something 
+ else, don't remember). You can morph it for Tetra-Elemental.
+* Reach the Cave in the desert, near North Corel where you can find the (IMHO useless) HP<->MP 
+ Replace Materia.
+* Reach the Old Forest, in the forest just uphill near Cosmo Canyon where you can find, along with
+ other goods, the Slice All Materia that makes the Battle Arena the easier job of your life [You 
+ can reach the old forest also by beating Ultimate Weapon, that will destroy the mountain that 
+ blocks the passage to the area].
+
+9. Chocobo Racing
+
+Chocobo Racing is really enjoyable. If you followed the suggestions written here, you will gain 
+Chocobos with incredibly high stats and always win!
+
+Some miscellanous tips:
+* IF in Automatic mode you see that the Chocobo sprints immediately (wings set up, and Chocobo 
+ icon showing a grim face) after the start, switch immediately to manual (unless you want to lose)
+ and just keep pressed (not pressing, pressed) the Speed Up button (not the Sprint/Turbo one).
+* It takes 3 or 4 wins to get promoted to a new class.
+* When you reach class S, if you win 10 times you will be proclamed "Best Jockey ever since Joe"
+ and you will be given 1 of every item you can win by racing in class S!!!! (Watch out for the 
+ Cat's bell, an accessory that makes you regen HP while you walk! [the concept is the same as the 
+ Tintinabar of Final Fantasy III])
+* Unless they are offering Megalixirs or X-Potions (useful in the Battle Arena), always get GPs,
+ so you can afford the Experience UP and GIL Up Materia in Wonder Square.
+* When you have the Gold Chocobo, you will win even against Chocobos much faster than you. My Gold
+ Chocobo (POWER) has a top speed of 157 and beats without problems (and without using Turbo) even
+ 180 fast Chocobos.
+* From time to time, rarely in class B, often in class A, and almost always in class S, TEIOH will
+ appear in the race. TEIOH is a guy with a Black Chocobo (he will "pump" it from time to time, so
+ don't get dizzy if in the blink of an eye he races with a 190 fast, 1800 stamina Black Chocobo).
+ He is the only jockey to be ware of, since the others play really lame (they almost always start
+ with turbo depleting their stamina). Anyway, your Gold Chocobo should be more than able to beat 
+ TEIOH hard (telling the truth, i beat him repetedly with my Wondeful Chocobo).
+* Never use the Turbo command, unless you are in a neck-to-neck fight near the goal. If you are
+ far from the goal (suggestion: always pick the SHORT track) just let them pass. The jockeys are so
+ lame they will deplete their stamina, getting out of the way real soon. If all the others pass by,
+ you might be too slow: also in this case Turbo is useless, since you will deplete your stamina just
+ to catch them (and in that case your chocobo will start walking, while the others keep running).
+
+10. How to get the Chocobuckle Enemy Skill
+
+This is kinda tricky. Go to the Chocobo Ranch and buy 2 Mimmet Greens (1 is for the Chocobuckle,
+the other is for the Chocobo in Mideel, if you haven't visited it yet [yes, the white chocobo 
+that "doesn't like humans that don't seem to give him greens", You can get near him and obtain a
+very precious Contain Materia if you have Mimmet Greens with you]. Get out of the ranch and equip
+some Chocobo Lure Materia. Run around near the Chocobo Ranch and you will encounter a Chocobo. 
+Throw a Mimmet Green to the Chocobo and then perform a L4 Suicide Attack (you must have it on your
+Enemy Skill Materia, you can learn it from the squirrels found near Chocobo Ranch [don't remember
+their name, sorry]) on the Chocobo. It will get crazy and perform the Chocobuckle Enemy Skill. 
+Chocobuckle is a non-elemental attack that does as much damage as the times you escaped from a 
+battle (I don't understand why it does 29 damage when I cast it... I NEVER escaped a battle in 
+the whole game!). You can know how many times you escaped by talking to the old man sleeping in 
+a cave near Nibelheim (not sure, sorry). You can reach that cave with Highwind or your Gold 
+Chocobo.
+
+*****************************************************************************************
+* |J@p@NKl@N| Entertainment Strategy Guides - Final Fantasy VII : Raising Chocobos	*
+*****************************************************************************************
+Dec 8, 1998 Written by Ninja (hemgchief@geocities.com) - all rights reserved
+Jan 4, 1999 - Last Update
+Final Fantasy VII is a copyright of Squaresoft LTD.
+This document may be freely distributed if kept whole in every part. This document cannot be used for
+commercial purposes without the explicit permission of the author.
+1998 |J@p@NKl@N| Entertainment Department

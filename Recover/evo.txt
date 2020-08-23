@@ -1,0 +1,1528 @@
+                    =======================================
+                    |                                     |
+                    |       E.V.O.: Search For Eden       |
+                    |                                     |
+                    |           Walkthrough/FAQ           |
+                    |                                     |
+                    =======================================
+
+                 by: The Cynic (doublepluscynical@hotmail.com)
+
+===============================================================================
+                                  Contents
+===============================================================================
+Introduction
+History
+Stuff
+Game Controls
+Things To Watch Out For
+Walkthrough
+Evolution Charts And Tips
+Special Thanks
+Legal Junk That Nobody Reads
+
+You can always find the most recent up-to-date version of this FAQ at
+GameFAQs (http://www.gamefaqs.com/).
+
+===============================================================================
+                                 Introduction
+===============================================================================
+Welcome to version 1.07 of this "E.V.O.: The Search For Eden" walkthrough and
+FAQ. As far as I'm aware, it's the ONLY complete guide for this game on the
+net. It's the result of a lot of work, and a lot of rushed gameplay to get all
+this information. It's also the first FAQ of any kind that I've even written,
+so bear with me here.
+
+E.V.O.: The Search For Eden is one of the most original games I've seen out
+there. At times it can be pretty frustrating or outright difficult, which is
+to be expected as it was created by Enix -- they have a reputation for frus-
+trating and difficult games. ^_^ I was surprised that even after several years
+there was no information of any sort on this game anywhere! After seeing one
+person after another get hopelessly stuck in the same places over and over
+again, I decided to write this FAQ/walkthrough.
+
+I'm still not absolutely certain of all the information in this guide, and
+there's more I could probably add to it. If there's something you know that is
+in error, or if you have any additions or suggestions that you would like to
+make, it would be much appreciated.
+
+===============================================================================
+                                   History
+===============================================================================
+v0.1 (July 29th, 2000) 
+ - Walkthrough started, chapters 1 and 2 done...all in one day.
+
+v0.60 (July 30th, 2000)
+ - Walkthrough finished through chapter 3, evolution charts started.
+
+v0.80 (July 31st, 2000) 
+ - Walkthrough complete, evolution charts finished.
+
+v1.00 (August 1st, 2000)
+ - Everything else added.
+ - First public release; it's more or less complete after four days of work!
+
+v1.01 (August 6th, 2000)
+ - Fixed a couple of typos & corrected some erroneous information.
+ - Changed the legal info a bit to reflect another site that's hosting this
+   FAQ. Not much else.
+
+v1.05 (September 17th, 2000)
+ - Added the first reader contribution.
+ - Fixed more typos. I hate typos!
+ - I reworded a few sections. Nothing major.
+
+v1.07 (November 8th, 2000)
+ - More reader contributions.
+ - Do I ever look stupid. -_- As it turns out, the L/R buttons have some
+   use in this game after all.
+ - More typos fixed.
+ - Enhanced the evolution charts a bit with my _opinions_ on enhancements.
+ - Next update may be some time in coming, but I'll have HP totals for the
+   regular enemies added to the walkthrough.
+
+Yeah, that's about it...
+
+===============================================================================
+                                    Stuff
+===============================================================================
+I use two abbreviations in the walkthrough:
+
+   HP: Hit points.
+   EP: Evolution points, or evo points.
+
+===============================================================================
+                                   Controls
+===============================================================================
+
+  Control Pad: Press and hold a directional key to move in that direction. In
+               some situations, movement in a direction may not be possible.
+               Quickly press a directional key twice to dash in that direction.
+               Once again, there may be restrictions on movement. While dash-
+               ing, your creature moves twice as fast, and can use a dash
+               attack by pressing A. If your creature has horns, and runs
+               into an enemy while dashing, it will attack with them. However,
+               horns break after three such uses.
+
+ Start Button: Pauses the game while in an area.
+
+Select Button: On the world map, brings up the save/evolution record menu.
+               While in an area, brings up the evolution/capabilities menu.
+
+  L/R Buttons: When pressed simultaneously while the game is paused, you
+               can immediately exit the current stage and return to the
+               world map--but only in a stage you've already completed.
+
+     X Button: While in an area, your creature will attempt to eat food close
+               to its mouth without trying to attack.
+               If your creature has a long neck and it can't reach stuff
+               on the ground, hold Down on the directional pad as you press X.
+
+     Y Button: While in an area, your creature will lash out with its teeth
+               and bite in order to attack enemies, or strike with a weapon.
+               If there happens to be food in the way of its mouth while it
+               bites, your creature will consume it.
+
+     A Button: If your creature is a four-legged mammal, it will kick its back
+               leg out behind it to attack enemies approaching from behind.
+               When pressed while your creature is dashing, it will execute a
+               dash attack.
+
+     B Button: If your creature is not underwater, it will attempt to jump.
+               If you hold Down on the directional pad as you press B, your
+               creature will drop down to a lower ledge, if possible.
+               If your creature is a bird, pressing B while in the process of
+               jumping will make it attempt to fly.
+
+===============================================================================
+                           Things To Watch Out For
+===============================================================================
+When you evolve a body part, your HP are restored to maximum and the number of
+times you've used your horns to attack is reset to zero. This works for enter-
+ing/leaving water as well. This is very important to remember in order to
+survive difficult battles!
+
+If something moves, it's out to kill you. The inverse is usually true as well.
+
+If you see meat that's flashing green, go after it! This is a somewhat rare
+occurance, and that particular meat will give you two to five times the normal
+amount of evolution points and HP.
+
+In the walkthrough, if you see a question mark after the EP/HP totals for the
+rare meat, then I'm just guessing at what it might be as it's usually five
+times the normal amount. If you know it to be otherwise, or you can confirm
+that my guess was right, drop me a line and let me know about it.
+
+I made up names for some of the creatures if there wasn't one given.
+
+Hit detection can be pretty lousy with some enemies. If you let them run into
+you, you may get hit several times as they pass 'through' you. Some enemies
+will harmlessly pass you by, but the vast majority of creatures won't!
+
+Getting hit stuns you for a second or so. If you have several enemies attack-
+ing, or one enemy that can hit you several times quickly, you may take a lot
+of damage before you can get away!
+
+Running into a solid object while dashing, or falling from a high place will
+also stun you for about one second. Watch where you're going.
+
+As your defense goes up, the amount of HP restored by food from defeated
+enemies decreases. (Everything will still give at least 1 HP back.) The values
+given in the walkthrough are the "normal" restoration amounts when your
+defense is at the minimum value. (To the best of my knowledge, anyways.)
+For every point of defense above one, you'll get one less HP back from the
+food you eat, down to a minimum of 1. To find out what your creature's defense
+is, along with other statistics, press Select and look in 'Capabilities'.
+
+===============================================================================
+                             The Walkthrough
+===============================================================================
+
+        Chapter 1: The World Before Land (500 - 450 million years B.C.)
+
+Each stage in the walkthrough has the name, my _opinion_ on its difficulty
+(from enemies and frustration potential) on a scale of 1 to 5, the enemies
+that appear in it, what they leave, and a brief description of what you'll
+find there. Well, let's get started!
+
+===================================
+"Ocean of Origin" (Difficulty: 0.5)
+===================================
+Enemies         Normal        Rare
+------------------------------------------
+Jellyfish       10 EP/+2HP    50 EP/+10HP
+
+This is a ridiculously easy stage, which serves mainly to give you a chance to
+get used to the controls. Swim around, attack the jellyfish for a while, and
+get a couple of quick upgrades. If they sting you, eat plants to regain HP.
+When you've had enough, leave the area by going off the screen to the right.
+
+==================================
+"Cave of Guidance" (Difficulty: 1)
+==================================
+Enemies         Normal        Rare
+------------------------------------------
+Jellyfish       10 EP/+2HP    50 EP/+10HP
+Eel             15 EP/+2HP    80 EP/+10HP
+
+Go right, and into the cave where you'll find some new enemies, eels. They're
+more aggressive than jellyfish, and move faster as well. At the end of the cave
+you'll find a Yellow Crystal. Eat it and it'll give you some pointers on evo-
+lution as a fish. Swim down to the sea cucumbers and you'll hear a few things.
+When you're done in here, go back the way you came and you can move on.
+
+====================================
+"Cave of Temptation" (Difficulty: 1)
+====================================
+Enemies         Normal       Rare
+------------------------------------------
+Jellyfish       10 EP/+2HP    50 EP/+10HP
+Eel             15 EP/+2HP    60 EP/+10HP
+Sea Slug        20 EP/+2HP   100 EP/+10HP
+
+Once again, enter the cave. You'll find another new type of enemy here, sea
+slugs. When you attack them, they'll split into two smaller enemies which you
+have to kill independendly. Eat the Red Crystal, and you'll be turned into
+either a large eel or a manta ray for about one minute. You might want to
+stick around here, gain some evo points, and evolve a bit while the enemies
+are still easy to defeat. I suggest you at least get the Angler's Horn while
+you're here.
+
+====================================
+"Ocean of Terodus" (Difficulty: 1.5)
+====================================
+Enemies         Normal        Rare
+-------------------------------------------
+Terodus         25 EP/+2HP    100 EP/+10HP
+
+If you have the Angler's Horn, you can rack up some serious evo points here
+quickly. (You might want to max out on evolutions here, plus some points on
+the side.) You'll notice the walls of bubbles that you can't swim through in
+order to leave. For now, just eat the enemies; in about two minutes the vol-
+canoes will begin to erupt. When that happens, the bubbles will vanish, the
+enemies will disappear, and a lot of hot rocks will start flying up from
+below, damaging you if they hit. Get out of there!
+
+=====================================
+"Cave of Zinichthy" (Difficulty: 2.5)
+=====================================
+Enemies         Normal        Rare
+-------------------------------------------
+Jellyfish       10 EP/+2HP     50 EP/+10HP
+Zinichthy       50 EP/+5HP    300 EP/+20HP
+Trilobite       40 EP/+5HP    200 EP/+20HP
+
+This is a pretty rough stage -- here's where all that evolution will pay off.
+The zinichthies are very aggressive and will attack relentlessly if you get
+close. Furthermore, they're armored; even with the best jaws it will take two
+bites to kill them. The trilobites are tricky as they'll curl up into a ball
+and quickly bounce around the walls. They can hit you several times if you're
+not careful. When you enter the stage, swim all the way to the right and you'll
+find a Blue Crystal that gives you 500 evo points. Now go back to the mouth of
+the cave, swim all the way down, go to the right past the volcano, and you'll
+find the exit.
+
+===================================
+"Domain of Cepalas" (Difficulty: 2)
+===================================
+Enemies        Normal        Rare
+------------------------------------------
+Jellyfish      10 EP/+2HP     50 EP/+10HP
+Cepalas        30 EP/+2HP    100 EP/+10HP
+
+Another straightforward stage with a new enemy, cepalas. They're fast, and
+have some armor, but you can kill them in one bite with the best jaws. Keep
+in mind that when you enter the cave to the far right, you'll pass a point
+of no return -- you won't be able to return to the previous stages.
+
+================================
+"Cave of Origin" (Difficulty: 2)
+================================
+Enemies         Normal        Rare
+-------------------------------------------
+Jellyfish       10 EP/+2HP     50 EP/+10HP
+Trilobite       40 EP/+4HP    200 EP/+20HP
+Squid           40 EP/+4HP    200 EP/+20HP
+
+This is the entrance to the last stage of the chapter. When you enter the cave,
+you'll have more of those ever-so-bouncy trilobites to contend with, and then
+some squids who'll try to skewer you with their pointy shells as you swim by.
+
+=======================================
+"Domain of Kuraselache" (Difficulty: 4)
+=======================================
+Enemies         Normal        Rare
+-------------------------------------------
+Trilobite       40 EP/+4HP    200 EP/+20HP
+Squid           40 EP/+4HP    200 EP/+20HP
+Kuraselache     80 EP/+8HP    400 EP/+40HP
+
+Kuraselaches are, well, sharks; as you might expect sharks are very vicious
+predators. You'll hear about the sharks' reign of terror, how they're preven-
+ting the strolites from creating a new world, and the kuraselaches' leader in
+the cave. Better go pay him a visit, eh?
+
+==================================================
+Boss: King Kuraselache  (HP: 70, 250 EP/+20HP x 4)
+==================================================
+Here's your first major battle of the game! All bosses in this game can rip you
+apart in no time; the key to victory is to find their patterns and exploit them.
+When he charges at you and runs into a wall, he'll be stunned for several sec-
+onds. Bite him a few times before he recovers, then back off. If you need heal-
+ing, use the evolution trick: whenever you evolve, your HP are completely
+restored. By alternating between "Increase Body Size"/"Decrease Body Size",
+you can stay alive as long as you have the points and reflexes.
+
+================================
+"Coast of Pange" (Difficulty: 0)
+================================
+After you beat the giant shark, swim out of the cave, then up and to the right.
+Go to the edge of the water, swim to the surface, hold Up on the control pad,
+and hit the B button to jump out of water.
+(A note for later: to drop down off a ledge, jump while holding "Down" on the
+control pad. You'll have to do this if you came here before beating the King
+Kuraselache because there's no oxygen up there yet. : p)
+On the land, walk to the right and after you get a new body (Argh! It's so
+weak!!) you're off to the age of amphibians!
+
+===============================================================================
+       Chapter 2: Early Creatures Of Land (350 - 230 million years B.C.)
+
+Something's wrong with the world, huh? Well, I guess we'll find out just what
+that thing is. Chapter 2 introduces the day/night cycle -- every so often,
+night falls for a moment. During that time, some creatures fall asleep, some
+change attack patterns, and some don't do anything different. Sleep is for
+the weak and you're no weakling; you can keep chugging along 24/7, no problem.
+
+================================
+"Coast of Pange" (Difficulty: 0)
+================================
+Didn't we just leave this place? Snack on crabs and listen to the Yellow
+Crystal, although it doesn't have very much useful advice.
+
+============================
+"Empty Land" (Difficulty: 0)
+============================
+Ooh, voices from above. This otherwise empty stage has one item of interest, a
+Green Crystal that lets you temporarily change to a creature that you've recor-
+ded in the Record of Evolution.
+
+================================
+"Ocean of Pange" (Difficulty: 1)
+================================
+Enemies         Normal        Rare
+------------------------------------------
+Coelafish       4 EP/+2HP     20 EP/+10HP
+
+The coelafish are essentially non-hostile, but will retaliate if you attack.
+Since you're really weak the first time you come here and the coelafish give
+you virtually nothing for your efforts, just leave them alone and swim across.
+
+========================================
+"Land of timid Ikustega" (Difficulty: 1)
+========================================
+Enemies         Normal         Rare
+-------------------------------------------
+Timid Ikustega  10 EP/+1HP     50 EP/+10HP
+Megausu         30 EP/+1HP     80 EP/+5HP
+
+Here's your first real chance to evolve, and I suggest you do it quickly.
+You'll need it sooner or later; probably sooner. Immediately upgrade those
+jaws; frogs don't bite well. A quick tail upgrade is in order too so you can
+reach those dragonflies buzzing about. And for those who want the most bite
+for your buck...err...evo points, the Jeprol is the perfect evolutionary step
+for the back of your head as it'll add five points to your attack strength.
+
+=========================================
+"Land of bull Ikustega" (Difficulty: 1.5)
+=========================================
+Enemies         Normal        Rare
+------------------------------------------
+Bull Ikustega   15 EP/+2HP    80 EP/+10HP
+Megausu         30 EP/+1HP    80 EP/+5HP
+
+OK, these enemies will fight back. Not too rough -- if you took time to
+evolve in the last stage. You get more evo points for your trouble, though.
+
+====================================
+"Land of Amphibians" (Difficulty: 2)
+====================================
+Enemies         Normal        Rare
+-------------------------------------------
+Bull Ikustega   15 EP/+2HP     80 EP/+10HP
+Horned Lizard   30 EP/+2HP    100 EP/+10HP
+
+Hmm. They're starting to play hardball here, especially the horned lizards who
+will ram you continuously if you get close. Have you evolved much yet?
+
+=======================================
+"Land of boss Ikustega" (Difficulty: 3)
+=======================================
+This is why you needed to evolve in a hurry!
+===============================================
+Boss: Debustega      (HP: 60, 100 EP/+10HP x 4)
+===============================================
+If you've evolved enough, he's not very difficult. Bite, stomp, dash, horn
+stab; it's all good. He'll try to spit slime at you, and jump on you as well.
+Run to get out of the way and bite when you have an opening. After it's over,
+two amphibians come up, praise your strength, and ask for a favor. Be a good
+little amphibian and agree; you won't get anywhere otherwise. Looks like the
+bugs are causing problems, and since there won't be an exterminator around
+for 350 million years or so, you're gonna have to get rid of them instead.
+
+===================================
+"Domain of Profasu" (Difficulty: 2)
+===================================
+Enemies         Normal        Rare
+-------------------------------------------
+Profasu         40 EP/+4HP    150 EP/+16HP
+
+This can be a little tricky. The insects come two at a time, so if you manage
+to bite the first one, the second might hit you. If one runs into you, it'll
+hit two or three times. If you damage one but fail to kill it, it starts fly-
+ing. And after nightfall, they approach from both directions at once! If you
+have Fierce Jaws, you can easily kill them in one bite, so if there's any
+good place to evolve before the next boss, it's here.
+
+======================================
+"Domain of Giant Wasp" (Difficulty: 2)
+======================================
+Enemies         Normal        Rare
+-------------------------------------------
+Giant Wasp      50 EP/+6HP    300 EP/+30HP
+Child Ikustega  20 EP/-5HP    100 EP/-5HP?
+
+The giant wasps here are abducting the ikustega. This isn't a good thing,
+right? At night, when the amphibians are gone, the wasps will attack you in
+swarms. The best way to deal with them is to step out of the way when they
+swoop in, then bite! And by the way, you'll LOSE HP if you kill and eat the
+little ikustega. You're supposed to be protecting them, you bad amphibian, you.
+
+================================
+"Land of Insect" (Difficulty: 2)
+================================
+Enemies         Normal        Rare
+-------------------------------------------
+Giant Wasp      50 EP/+6HP    300 EP/+30HP
+Child Ikustega  20 EP/-5HP    100 EP/-5HP?
+
+More of the same; the wasps transport abductees by day, and attack you by
+night. Just rush through unless, for some reason, you want to fight them.
+
+==================================
+"Cave of King Bee" (Difficulty: 5)
+==================================
+Enemies		Normal	Rare
+------------------------------------------
+Larvae		20 EP/+2HP	100 EP/+10HP
+Megausu		30 EP/+1HP	 80 EP/+5HP
+
+When you enter, an amphibian who's been stung with a BIG stinger comes out of
+the cave. Doesn't look like he was a very good negotiator. He tells you to eat
+his food and beat the King Bee. Do so and you'll get a whopping 1000 evo points
+and get back about 50 HP (your results may vary, depending on your defense).
+Now go get that big bug! Kill the hatching larvae and the King Bee attacks you.
+============================================
+Boss: King Bee    (HP: 80, 300 EP/+14HP x 4)
+============================================
+He has a fairly predictable attack pattern: he'll fire several stingers at you,
+swoop in to sting you personally, fly away and repeat. When he's about to shoot
+stingers at you, RUN. If you jump, more than likely you'll just get hit with
+all of them. When he comes in for a big sting, run or jump out of the way, then
+bite, bite, bite; he won't take much punishment. If you need healing, snack on
+the eggs lying around. When you leave, a dragonfly comes and tells you that
+there's no strong enemies ahead, then says to run away because there's some-
+thing very strong ahead. Wait a minute...better not trust him on that first
+part.
+
+======================================
+"Desert of Sand Eater" (Difficulty: 2)
+======================================
+You can't attack these things, so just run and jump your way through. There's a
+Green Crystal on the way, if you want it.
+
+=====================================
+"Desert of Edasaurus" (Difficulty: 2)
+=====================================
+Enemies         Normal         Rare
+--------------------------------------------
+Edasaurus       80 EP/+10HP    300 EP/+65HP
+Horned Lizard   30 EP/+3HP     100 EP/+10HP
+
+A new enemy here; edasaurs give quite a few evo points. This is your last best
+chance to stock up in this chapter...and you just might want to have a few
+thousand points on hand for the evolution trick. You'll see why soon enough.
+
+======================================
+"Desert of Mosuchop" (Difficulty: 2.5)
+======================================
+Enemies         Normal        Rare
+------------------------------------------
+Mosuchop        60 EP/+5HP    400 EP/+45HP
+Horned Lizard   30 EP/+2HP    100 EP/+10HP
+
+Mosuchop? What kinda name is that?! In any case, they just pop out of the sand
+to bite you, giving you little to no warning in order to fight back. Be careful
+and conserve your HP, because you've got a big fight ahead....
+
+===================================
+"Desert Time Trans" (Difficulty: 6)
+===================================
+When you show up, your "old friend" Megausu chews you out and flies off, then
+a very angry Queen Bee comes after you with a vengeance!
+=============================================
+Boss: Queen Bee   (HP: 150, 500 EP/+25HP x 4)
+=============================================
+This is not going to be easy! Like King Bee, she has a predictable attack
+pattern: she'll fire three or four stingers at you, swoop in to put the bite
+on you, fly away and repeat. When she's about to shoot her stingers at you,
+RUN. If you jump, they'll ALL hit you, and you'll probably die. When she comes
+in to bite, you'll probably have to run to avoid taking damage, as she's fast.
+After you dodge the bite attack, bite her back! Use the evolution trick when
+(not if) you run low on HP. When it's over, you get another new body (Not
+again! It's so weak!!) and you're off to...the age of dinosaurs!
+
+===============================================================================
+           Chapter 3: Age Of Dinosaurs (200 - 65 million years B.C.)
+
+Is it just me, or are these crystals starting to sound like a Bad Thing? Evo-
+lution is going to be pretty tough in this era. Not only are good body parts
+hard to get because of the massive amounts of evo points required, you'll have
+to do it twice if you want to become a bird. Mind you, it's not necessary, but
+the effort pays off.
+
+========================================
+"Door to Dina Continent" (Difficulty: 0)
+========================================
+Your obligatory Yellow Crystal stage, and more voices from above! Yay. Looks
+like someone up there has an eye out for lizards trying to climb Mt. Brave;
+wherever that is. After this stage, you can take one of two paths, north
+through the marshes or south through the desert.
+
+=====================================
+"Marsh of Prime Frog" (Difficulty: 1)
+=====================================
+Enemies         Normal        Rare
+------------------------------------------
+Prime Frog      10 EP/+2HP    50 EP/+10HP
+
+Well, if you weren't so slow and weak at this point, these frogs would be a
+pushover...but you need to be careful for now. Once you get your first couple
+of evolutions, things will be a lot easier in these first few stages.
+
+=======================================
+"Marsh of Amphibians" (Difficulty: 1.5)
+=======================================
+Enemies         Normal         Rare
+-------------------------------------------
+Bull Ikustega   15 EP/+3HP     80 EP/+10HP
+
+Remember these guys? They might give you a little trouble at this point.
+Nothing spectacular here; just work on evolving.
+
+=====================================
+"Domain of Tecodonto" (Difficulty: 1)
+=====================================
+Enemies         Normal         Rare
+-------------------------------------------
+Tecodonto       12 EP/+2HP     70 EP/+10HP
+
+Here's a good place to really get started evolving. With a Snake's Tail and
+Edasaurus' Dorsal Fin (both take 100 evo points) you can kill tecodontos in
+one hit by jumping on them. They don't give a lot of evo points compared to
+what's waiting up ahead, but it's a start.
+
+
+=====================================
+"Domain of Polsaurus" (Difficulty: 2)
+=====================================
+Enemies         Normal         Rare
+-------------------------------------------
+Polsaurus       20 EP/+5HP     80 EP/+20HP
+
+Once you have a reliable way of causing 3 points of damage, make this place
+your new hunting ground. These guys can really give you a headache...when
+they're not busy giving them to each other. There's a Green Crystal here, use
+it if you want. While this is a pretty good place for gaining evo points, take
+care not to get caught between two of the thick-skulled dinos when they decide
+to butt heads -- it hurts. Try and build up the 5000 points necessary for the
+Tyrasaurus Jaws. Seriously; it'll only take about 10 to 15 minutes. With that
+done, you'll be able to move on to bigger and better things (and survive them).
+
+==================================================================
+"Domain of Syrocosaurus" (Difficulty: 0; if you screw up, 100 ^_^)
+==================================================================
+She's mad because her child is missing, so don't bother her. Whatever you do,
+DO NOT ATTACK THE SYROCOSAURUS!! If you attack her, she WILL kill you -- and
+to make sure you get killed, the game won't let you leave the area to escape.
+Just don't do it! Casually walk past her. (Don't try to jump over, the game
+will let you walk 'through' her). Head off to the right and move along. One
+thing, though—if you get real powerful and want to try to kill her anyways,
+you're in for a disappointment as she has an infinite amount of HP. : p
+
+=======================================
+"Domain of Brosasaurus" (Difficulty: 2)
+=======================================
+Enemies         Normal         Rare
+--------------------------------------------
+Brosasaurus     80 EP/+10HP    200 EP/+50HP
+
+This is one thing you need those big teeth for. Here's the deal: brosasaurs
+will ignore two attacks, but if you haven't done enough damage to kill them by
+the third attack, they'll break off lunch and start smacking you around. Not an
+easy feat to accomplish with weak jaws since they have about 50 HP each. On the
+other hand, they give a lot of evo points.
+
+====================================
+"Domain of Prasauro" (Difficulty: 2)
+====================================
+Enemies         Normal        Rare
+-------------------------------------------
+Prasauro        50 EP/+5HP    100 EP/+50HP
+
+If you attack one without killing it, it will shortly thereafter release a
+loud blast of sound that will damage you just by hearing it! And another thing;
+take care to make sure one of them doesn't simply walk into you -- doesn't
+seem like an impressive attack, but you can get hit several times in a row
+that way.
+
+
+========================================
+"Domain of Segosaurus" (Difficulty: 2.5)
+========================================
+Enemies         Normal        Rare
+-------------------------------------------
+Segosaurus      80 EP/+7HP    200 EP/+30HP
+
+Hm. Yet another name that's close to the real thing, but short a letter or two.
+Do yourself a big favor and don't attack them from behind unless you want a
+faceful of tail spikes. When bothered, they'll start to wave around the plates
+on their back; if you try and jump on one while they're doing that, you'll get
+hurt.
+
+======================================
+"Domain of Prime Frog" (Difficulty: 4)
+======================================
+Enemies         Normal        Rare
+------------------------------------------
+Prime Frog      10 EP/+2HP    50 EP/+10HP
+
+When you enter, you find two prime frogs tormenting the syrocosaurus child.
+After the quick dialogue, the little dino runs home, and the frogs run for
+their lives; deprive them of said lives if you feel like it. But the stage
+isn't beaten yet. Leave and re-enter, and....
+==================================================
+Boss: Mother Prime Frog (HP: 80, 250 EP/+10HP x 8)
+==================================================
+This can be pretty hard if you don't have adequate defense. The mother will
+spawn four smaller frogs that continuously harrass you, while the big frog
+herself tries to stomp on your head. If you kill off the small ones, more will
+be spawned to take their place. You can take advantage of the infinite flow of
+little frogs to heal if you're not doing too well. Don't let yourself get
+pinned down, and attack whenever you have an opening! You'll win eventually.
+By the way, if you go back to the "Domain of Syrocosaurus" stage afterwards,
+you'll find mother and child reunited, and they'll tell you a bit of a legend
+about Mt. Brave. Why not head to the mountain and see if it's true?
+
+=====================================
+"Domain of Tritops" (Difficulty: 2.5)
+=====================================
+Enemies       Normal          Rare
+-------------------------------------------
+Tritops       90 EP/+10HP     200 EP/+50HP
+
+Still another name that's close, but not exact! Only one thing to look out for,
+and that's their charge attack. They'll even attack you unprovoked, by the way.
+
+=====================================
+"Domain of Plesasaur" (Difficulty: 2)
+=====================================
+Enemies         Normal         Rare
+---------------------------------------------
+Plesasaur       100 EP/+8HP     500 EP/+40HP
+Nautilus        500 EP/+10HP   2000 EP/+50HP (!)
+
+Now this is by far the best place in the entire game to gain evo points FAST!
+You can earn thousands of points in no time at all; there's no excuse for not
+maxing out your evolution. Watch out for the nautilus, though...it's heavily
+armored; even Tyrasaurus Jaws only inflict 10 points of damage through the
+shell (still enough to kill it). And it puts that hard shell to good use with
+its attack that should remind you of trilobites in chapter 1. They can mess
+you up pretty badly if you're not careful...but it's worth the trouble!
+
+===========================
+"Mt. Brave" (Difficulty: 3)
+===========================
+Enemies       Normal         Rare
+------------------------------------------
+Ptenodon      100 EP/+5HP    500 EP/+20HP?
+
+This stage is SO annoying.... If the ptenodons get a hold of you, you'll get an
+express flight back down to the base of the mountain and take a big amount of
+damage as well. When you finally get to the top, another mysterious voice from
+the sky tells you to take a leap of faith off the top of the mountain. So...stand
+on the right edge of the summit, get a good running start towards the left, and
+jump out as far as you can! You'll be changed into a flying dinosaur, but...say
+it with me now...it's so weak! OK, so what do we do about this?
+
+=====================================
+"River of Asteroid" (Difficulty: 1.5)
+=====================================
+Enemies         Normal        Rare
+-------------------------------------------
+Phamcys         100 EP/+6HP   500 EP/+30HP?
+
+Ever wonder what that cloud on the world map is doing up there? Now that you
+can fly, why not take a detour up there and find out? When the cloud stops over
+a stage, try to enter that stage and you'll be drawn up into the cloud instead!
+The cloud contains a maze of passages, so here's some directions -- from the
+entrance, fly up until you reach a four-way intersection, go left to find a
+Green Crystal in a dead end (or don't), then fly back to the intersection, go
+all the way up, and then all the way right to find a Red Crystal. Eat it, and
+you'll turn into an awesome-looking (and VERY powerful) dragon-like creature.
+You might want to record this creature! Now go back to the left a little, just
+until you find a passage leading down. Now fly down until you reach an inter-
+section where you can go right, go right until you can go down, down until you
+can go right, right until you can go up, go up, then left, and all the way up.
+You'll emerge from the cloud and find a river of asteroids in orbit. This is a
+huge area. Go all the way up to the very top of the screen, and fly left until
+you see the bottom edge of a large asteroid on the very edge of the screen.
+Enter it; the Red Crystal shouldn't have worn off yet but it will soon. Fight
+off the enemies, and go right. You'll find ANOTHER Red Crystal; use it if the
+first one wore off and it'll turn you into a bat-like creature. Leave the
+chamber from the left end, and fly a long ways further left until you find
+another asteroid. Fly up into it (the bottom has an entrance) and you'll find
+an alien who tells you not to bother him since he's "collecting more power for
+his brain" and vanishes. More importanly, there's a Blue Crystal here that
+gives you 9999 evo. points! You can immediately get the best jaws and best
+body with points to spare. I think you know where to go now to get the points
+to max out everything else.... If you fly far back to the right, past the other
+two asteroids you were in, you'll find a fourth asteroid with a Green Crystal.
+To return to Earth, simply descend back down into the clouds.
+
+======================================
+"Mt. Hidden Mammals" (Difficulty: 0.5)
+======================================
+Enemies         Normal        Rare
+------------------------------------------
+Deltadium       10 EP/+2HP    50 EP/+10HP
+
+A couple of squirrel-like critters bemoan their bad times, then run for their
+lives when you show up. To leave this stage, jump off the cliff to the right.
+
+=========================================
+"Domain of Pronesaurus" (Difficulty: 2.5)
+=========================================
+Enemies         Normal         Rare
+---------------------------------------------
+Pronesaurus     200 EP/+10HP   1000 EP/+50HP?
+
+So, they think you're stupid looking, eh? They're fairly heavily armored, and
+when you attack them, they'll spin around rapidly trying to hit you with their
+club-like tails -- and they can jump to hit you no matter how high you fly up.
+
+=======================================
+"Domain of Omosaurus" (Difficulty: 3.5)
+=======================================
+Enemies        Normal          Rare
+---------------------------------------------
+Omosaurus      200 EP/+15HP    1000 EP/+75HP?
+
+These guys are pretty tough -- they're very aggressive, and will bite you
+continuously if they get you in their grasp. You'll just have to be even more
+vicious than they are! This is just a warm-up for the next stage, though....
+
+======================================
+"Domain of Tyrasaurus" (Difficulty: 4)
+======================================
+Enemies         Normal         Rare
+----------------------------------------------
+Tyrasaurus      250 EP/+30HP   1000 EP/+150HP
+
+When you arrive, the Tyrasaurs will ask if you want to join them in ruling the
+world. Don't accept their offer! You've seen what their jaws can do; you've got
+a pair of them yourself (You DO have Tyrasaur's Jaws, right?) They're highly
+aggressive, so you'll have to be even more so! Just keep on fighting, going back
+and forth, and when you've defeated ten of them, everything starts to shake....
+The river of asteroids you saw earlier is falling! Gaia bails you out with the
+Time-Trans, then you see almost all of the other dinosaurs get wiped out....
+
+===============================================================================
+                Chapter 4: Ice Age (65 - 36 million years B.C.)
+
+This time, a new form isn't going to be forced on you just yet; but if you stay
+as a bird or dinosaur, your evolving days are over. I'd go ahead and become a
+mammal if I were you; with a little effort it can be the most powerful form of
+all. But it's going to be a bit of a struggle to get there....
+
+============================
+"Iced Coast" (Difficulty: 0)
+============================
+This is the last time you'll see an empty stage with just a Yellow Crystal.
+Climb the ice ledges and continue to the right. Note that ice doesn't offer
+very sure footing; you'll slide a little when you try to stop....
+
+===================================
+"Cave of Judgement" (Difficulty: 0)
+===================================
+Well, this is where you get your last new body, if you choose to accept it.
+If you've been a good little critter like I've been suggesting, you'll be
+given the choice to become a mammal. But when you do...argh! It's the weakest
+initial form of all! Here we go again...and there's no Blue Crystal.
+
+===================================
+"Cave of Deltadium" (Difficulty: 1)
+===================================
+Enemies        Normal         Rare
+------------------------------------------
+Deltadium      10 EP/+2HP     50 EP/+10HP
+
+When you enter, you'll hear a few rumors. Beat up on the little guys long
+enough to get yourself a Mane and Cat-like Jaws (total of 300 evo points)
+before moving on. When they try to pounce on you, take two steps away from
+their intended landing spot (which is on your back) and kick 'em.
+
+==================================
+"Door to Mt. Snow" (Difficulty: 2)
+==================================
+Enemies         Normal        Rare
+-------------------------------------------
+Deltadium       10 EP/+2HP     50 EP/+10HP
+Bull Ikustega   15 EP/+3HP     80 EP/+10HP
+Tritops         90 EP/+10HP   200 EP/+50HP
+Warthog         50 EP/+2HP    250 EP/+10HP?
+Great Bird      70 EP/+2HP    150 EP/+40HP
+
+It's possible to bypass the next two stages entirely by going through the cave,
+but the enemies inside might be too much for you at this point. If you decide
+to do it the normal way, climp up to the top of the cliff and go to the right.
+
+
+==================================
+"Domain Paramis" (Difficulty: 2.5)
+==================================
+Enemies         Normal        Rare
+-------------------------------------------
+Paramis         30 EP/+2HP    100 EP/+10HP
+
+These little buggers are extremely annoying with their amazing jumping
+abilities and their speed. They're hard to catch, hard to hit, hard to kick....
+Don't waste time with them.
+
+======================================
+"Domain of Great Bird" (Difficulty: 2)
+======================================
+Enemies        Normal        Rare
+------------------------------------------
+Great Bird     70 EP/+2HP    150 EP/+40HP
+
+The great birds will try to knock you off the narrow ledges you have to jump
+across. If you fall, you'll end up back on the world map, and you'll have to
+start the stage over. When you reach the large level area at the end of the
+stage, you may want to fight the birds for a while to get more evo points
+since you've got level ground and don't have to worry about falling. There's
+some tough fights coming up, and you want to be ready for them.
+
+==================================
+"Exit of Mt. Snow" (Difficulty: 2)
+==================================
+Enemies         Normal        Rare
+-------------------------------------------
+Deltadium       10 EP/+2HP     50 EP/+10HP
+Bull Ikustega   15 EP/+3HP     80 EP/+10HP
+Tritops         90 EP/+10HP   200 EP/+50HP
+Warthog         50 EP/+2HP    250 EP/+10HP?
+Great Bird      70 EP/+2HP    150 EP/+40HP
+
+Whether you came down the mountain or through the cave, just head to the right.
+
+==================================
+"Land of Survival" (Difficulty: 2)
+==================================
+Enemies         Normal          Rare
+---------------------------------------------
+Brosasaurus     80 EP/+10HP     200 EP/+50HP
+
+Remember these guys? (I thought dinosaurs went extinct...?) Unless you've got
+Fierce Jaws by now, this is gonna be a little rough killing them before they
+get mad and go on the rampage.
+
+====================================
+"Land of Survival" (Difficulty: 4.5)
+====================================
+Enemies         Normal         Rare
+---------------------------------------------
+Tyrasaurus      250 EP/+30HP   1250 EP/+80HP?
+
+ARGH! Tyrasaurs! Hmm...that Yeti must be pretty tough if even tyrasaurs are
+afraid of it. But in any case, you're going to have a pretty bad time getting
+through here in one piece if you don't have good defense (or escaping skills).
+
+===================================
+"Domain of Balrium" (Difficulty: 2)
+===================================
+Enemies         Normal        Rare
+-------------------------------------------
+Balrium         90 EP/+8HP    200 EP/+40HP?
+
+Not much to look out for from these enemies except their charge/headbutt
+attacks. Bite 'em from behind, and you won't have much trouble.
+
+==================================
+"The North Pole" (Difficulty: 2.5)
+==================================
+Enemies         Normal         Rare
+--------------------------------------------
+Penguin          50 EP/+4HP    100 EP/+20HP?
+Seal            100 EP/+10HP   200 EP/+40HP?
+
+Wait a minute...penguins live at the SOUTH pole, not the north pole! And how
+did we get from Australia to the north pole so quick, anyways? Someone at Enix
+wasn't doing their homework! Beware the penguins when they slide at you; if one
+hits, all three probably will. Jump on the seal to wake him up if you want to
+spar with him, but don't expect him to be happy about having his nap interrupted.
+
+===================================
+"Domain of Mammoth" (Difficulty: 4)
+===================================
+After getting mistaken for the Yeti (what?), the three mammoths attack you one
+at a time. When one falls, the next charges in to attack.
+==========================================
+Boss: Mammoth x 3   (HP: 75, 250 EP/+30HP)
+==========================================
+They shoot bubbles out of their trunks, and try to gore you with their sharp
+tusks. Not too tough, just keep your distance when they shoot bubbles, then
+bite when they charge at you. After you beat three of them, another mammoth
+says something about a mountain in the southwest. Go back the way you came.
+
+===============================
+"Fort Bird-man" (Difficulty: 5)
+===============================
+Enemies            Normal        Rare
+----------------------------------------------
+Birdman Lancer     50 EP/+8HP    100 EP/+40HP
+Birdman Rider      90 EP/+8HP    200 EP/+40HP?
+Falcon Swordsman  100 EP/+15HP   250 EP/+60HP?
+
+Not this stage! Everyone hates this stage! To start off with, you'll be at the
+base of a pillar of ice. Walk forward a bit, and a ptenodon will shanghai you.
+You'll be dropped off at Fort Bird-man. Fight your way through the birdmen
+flunkies, and enter the fort. Now, if you want to explore and get yourself
+totally lost, feel free. There's a Red Crystal in here that will turn you into
+an elephant, but it's far off the correct path. I'll tell you how to get
+through this frustrating stage with a minimum of effort. When you first enter 
+the fort, go forward and drop down the ledges twice. You'll reach a gap with a
+teleporter on the other side. Try to jump across, but don't worry if you can't
+make it. If you make it across, skip the following section in between the 
+brackets. [If you missed the jump, you'll land just to the left of another 
+teleporter. Take this one. You'll reappear high above where you just were. Don't
+jump down; just go right back into the same teleporter. Now you'll appear in the
+teleporter you just tried to jump to a moment ago.] This is the one you want, so
+use it. In the new area, go to the right, drop down the first gap, and go back
+left until you reach another teleporter. Use it. From the teleporter you
+reappear in, go to the right and drop down off the ledge. You should find a 
+Green Crystal. Do as you wish with it, go left to the next teleporter, and use 
+it. After you reappear in another room, turn right back around and go into the 
+same teleporter you just came out of. You'll appear in the boss' room! Don't 
+accept his offer if you intend to reach chapter 5.
+=============================================
+Boss: Bird King   (HP: 225, 400 EP/+30HP x 4)
+=============================================
+He flies around and throws crystals at you. If you've evolved enough, just keep
+continually attacking him, forcing him to the left side of the room. If you hit
+him fast enough, he won't be able to do a thing to you! Otherwise you'll be in
+for a prolonged fight. When you beat the Bird King, the tower starts to
+collapse. Go back to the teleporter; you'll appear back on the world map, and
+the fort explodes opening the way to the end of chapter 4!
+
+===================================
+"Domain of Hynodon" (Difficulty: 5)
+===================================
+Enemies         Normal         Rare
+--------------------------------------------
+Hynodon         100 EP/+10HP   250 EP/+50HP?
+
+If you came here before now, you were stopped by a wall of ice that kept you
+from going through the doorway. But with the Birdmen's Fort destroyed, the
+wall is gone, and you can go on to....
+
+=======================================
+Boss: Yeti  	(HP: 200, 200 EP/+35HP)
+=======================================
+This isn't going to be easy. He'll just basically get medieval on your sorry
+hide and pound you continuously. Try kicking him when he gets close. When you
+beat him, he'll be in disbelief that someone stronger than him exists, and his
+kid shows up trying to make you feel guilty. : p
+When you eat the food he leaves behind.....
+=============================================
+Boss: Yeti Mother (HP: 275, 500 EP/+40HP x 4)
+=============================================
+Oops. Seems you just defeated her husband, and she's really mad about it. She
+has a fairly simple pattern you can take advantage of: she'll jump at you, and
+then try to slap you repeatedly. Kick her away, and she'll breathe frost at
+you. Jump over it. Then she'll try to jump in and slap you again, so kick
+again and repeat over and over.... When you win, the little yeti shows up for
+another guilt trip. Hey, life's tough. Gaia tells you that all you can do is
+move on, and you're off to....
+
+===============================================================================
+               Chapter 5: Early Man (26 - 3 million years B.C.)
+
+We're coming into the home stretch now! No new body for you this time; every-
+thing you've got carries over into the final chapter. But this Crystal thing
+is getting out of hand. Who or what's behind this mess? You know there's a big
+problem when even Gaia is concerned....
+
+========================================
+"Final Step To Evolve" (Difficulty: 2.5)
+========================================
+Enemies         Normal        Rare
+-------------------------------------------
+Paramis         30 EP/+2HP    100 EP/+10HP
+
+It's those hyperactive squirrels again! Do with them as you see fit -- catch
+as catch can, or get on with life and get out of here.
+
+=====================================
+"Domain of Sincerous" (Difficulty: 2)
+=====================================
+Enemies        Normal         Rare
+-------------------------------------------
+Sincerous      70 EP/+15HP    200 EP/+70HP
+
+Why can't Enix just call them moose? Get too close to one of them, and they'll
+try to whack you with their antlers.
+
+========================================
+"Domain of Fish of Prey" (Difficulty: 2)
+========================================
+Enemies         Normal        Rare
+-------------------------------------------
+Piranha         30 EP/+5HP    100 EP/+30HP
+
+I don't remember there being piranha in the Great Lakes, but.... They're
+annoying because they attack in swarms of three or four. They don't give much
+in the way of evo points, so you might just want to rush through here.
+
+=======================================
+"Domain of Sea Otter" (Difficulty: 1.5)
+=======================================
+Enemies         Normal         Rare
+--------------------------------------------
+Sea Otter       50 EP/+10HP    150 EP/+50HP
+
+Wow, they actually used a common name? Sea otters occasionally surface to
+throw shells at you. You should be evolved enough by now so that they aren't
+a serious threat.
+
+=======================================
+"Domain of Alligator" (Difficulty: 2.5)
+=======================================
+Enemies         Normal         Rare
+--------------------------------------------
+Alligator       70 EP/+15HP    200 EP/+70HP
+
+Alligators swim back and forth through the water; when you get close, they'll
+strike. They can be rather annoying since they attack in packs.
+
+===================================
+"Domain of Grizzly" (Difficulty: 3)
+===================================
+Enemies         Normal         Rare
+----------------------------------------------
+Grizzly Bear    150 EP/+25HP   1000 EP/+150HP
+
+The bears can be pretty dangerous -- when you get close, they'll stand up on
+their back legs and charge at you to whack you with their powerful claws.
+You'll have to time your attacks carefully to get your attack in before you
+get hit yourself. Unless you've got a longer reach. *coughhumancough*
+
+=============================================
+"Forest of Segosaurus" (Difficulty: 0 or 0.5)
+=============================================
+Enemies         Normal         Rare
+--------------------------------------------
+Segosaurus      80 EP/+7HP     200 EP/+30HP
+
+The segosaurus will beg you to leave him alone and in peace. Agree, and he'll
+give you a big hint on how to evolve into a human if you haven't done it yet.
+
+==============================
+"Domain Eohip" (Difficulty: 2)
+==============================
+Enemies       Normal           Rare
+--------------------------------------------
+Eohip         100 EP/+15HP     400 EP/+70HP
+
+Can we say "horse"? They'll try to kick you when you get close. Not much to
+see here.
+
+=======================================
+"Domain of Sabre Tiger" (Difficulty: 3)
+=======================================
+Enemies               Normal         Rare
+--------------------------------------------------
+Sabre-toothed Tiger   150 EP/+25HP   400 EP/+80HP?
+
+The big cats will pounce on you when you get close, or try to sneak up from
+behind. You can time your attacks so that you'll knock them out of a pounce if
+you've got the reflexes for it.
+
+==================================
+"Domain of Condor" (Difficulty: 2)
+==================================
+Enemies         Normal         Rare
+--------------------------------------------
+Condor          100 EP/+15HP   400 EP/+70HP?
+Bull Ikustega    15 EP/+3HP    80 EP/+10HP
+
+What? It seems one of the condors saw a flying saucer. Looks like we've got an
+alien problem.... At the top of the mountain is a Blue Crystal guarded by three
+Bull Ikustega that will give you 5000 evo points. What do you need with all
+these extra points you're getting? You'll see. To continue, leave the stage by
+going all the way to the right.
+
+Interesting thing pointed out by Roland Kie: if you have any means of flying, 
+(Green Crystal, anyone?) keep flying upwards from the top of the mountain and
+you'll pay another visit to low Earth orbit, minus the asteroids this time.
+Here, you'll actually find the flying saucer! Have a little fun and attack it.
+
+--------------------------------------------------------------------------------
+
+======================================
+"Cave of Monkey Human" (Difficulty: 4)
+======================================
+Enemies     Normal         Rare
+-----------------------------------------
+Monkey      50 EP/+15HP    100 EP/+100HP
+
+Some welcome these surly simians give you! The one at the entrance throws a
+rock at you; a sign of things to come. It seems someone's taught them how to
+make elevators; you'll have to use them to procede. To get through with a
+minimum amount of monkey business, take the first elevator up twice, go right
+until you reach another elevator, take it up once, and procede to the right.
+You'll come to an altar, and....
+=============================================
+Boss: Yeti        (HP: 150, 250 EP/+30HP x 4)
+=============================================
+Another overgrown ape who's itching for a fight! He's got a four-punch combo
+that's difficult to avoid, and he jumps around a bit as well. You'll just have
+to trade blows; you should have plenty of evo points for the evolution trick
+if you need it.
+
+===================================
+"Domain of Ditryma" (Difficulty: 2)
+===================================
+Enemies       Normal          Rare
+--------------------------------------------
+Ditryma       80 EP/+20HP     200 EP/+100HP
+
+These big birds aren't too much much of a threat...well, they shouldn't be.
+Stand in the middle of the circle of stones, hold Up on the control pad, and
+try to jump. You'll be warped away across the ocean. Hmm...can't go anywhere
+over here yet. Better head back. But wait!
+
+=====================================
+"Domain of Queen Bee" (Difficulty: 5)
+=====================================
+She's baaaack. 
+===============================================
+Boss: Queen Bee     (HP: 150, 100 EP/+20HP x 4)
+===============================================
+Same pattern, same attacks, same strength. You remember how to beat her,
+right? Hmm....I wonder who this 'great one' living up north is? Since there's
+nowhere else to go, you might as well warp back and check that last area at
+the tip of South America.
+
+==============================
+"Last Ocean" (Difficulty: 4.5)
+==============================
+Enemies          Normal        Rare
+----------------------------------------------
+Coelafish          4 EP/+1HP     20 EP/+5HP
+Plesasaur        100 EP/+8HP    500 EP/+40HP
+King Kuraselache 250 EP/+20HP  1000 EP/+100HP?
+Rogon            100 EP/+15HP   400 EP/+70HP
+
+Even more problems caused by those crystals! Well, it's a request from Gaia
+herself; we'd better go see what those Rogons are up to. Head on out to sea.
+On your Evolution menu, notice that you can evolve your "Hands and Feet" all
+of a sudden. Select "Try to Evolve" and you'll change into a seal! Go back to
+the menu again and select "Evolve Further", and after three more advances
+you'll have become...a mermaid? Cool. Once you're under the ice...wait a
+minute? Are those King Kuraselaches as normal enemies? Yep. Might want to
+pass on fighting them. Head into the cave. A Rogon will tell you they're going
+to attack the whales, then it attacks you. Be careful in here; they're rather
+dangerous. The Rogons' prefered method of attack is to get right in your face
+and fire their weapon at you for multiple hits, so be on your guard. From here,
+head left until you hit a wall, then go down. At the first chance to go left,
+do so until you reach another wall. If you want a Green Crystal, go all the
+way up, then left. If you go get it (or not), come back to this vertical pass-
+age and swim all the way down. Now go right, head down at your first opportun-
+ity, then left, up, and left again (the passage dead-ends further up) to reach
+a wide open area of ocean. Prepare to face the boss. Once again, don't agree to
+anything!
+================================================
+Boss: King Rogon     (HP: 240, 300 EP/+40HP x 4)
+================================================
+He'll frequently fire a pulse of energy that blinds you if it hits, leaving
+you capable of seeing only what's very close. Other than that, his attacks
+include ramming into you and taking a swipe with his claws. Keep up a constant
+assault and you'll prevail! Once you've collected your spoils of victory, head
+left into the hall of an underwater palace. The Whale King will thank you for
+your help, and return you to your old self once you're on dry land. Also, the
+clouds over Africa are now gone thanks to the whales, opening the way to the
+final stages of the game....
+
+======================================
+"Domain of Tyrasaur" (Difficulty: 4.5)
+======================================
+Enemies         Normal          Rare
+-----------------------------------------------
+Tyrasaurus      250 EP/+30HP    1000 EP/+150HP
+
+Not again?! Yep, more tyrasaurs -- whatever saved them is very close. Well,
+have fun getting past them; these are a bit tougher than the ones you've faced
+in the past.
+
+Oh, and one thing. If you haven't evolved into a human yet, I suggest you do
+it very, very soon if you intended to do so. Cat-like jaws, rabbit-like body;
+go with a Ramothecus body, and "Evolve Further" until you're an axe-weilding
+caveman. What's so great about being human? Good defense, that axe causes 20
+points of damage, and you can swing it very, very fast! You can mow down a
+tyrasaur in three seconds flat! Of course, it's not _necessary_. You can cer-
+tainly beat the game without making the last leap in evolution; it'll just be
+a bit harder to beat the last boss. Then again, you may have done this in 
+Chapter 4. I put it off until Chapter 5, but it's up to you to decide when.
+
+==================================
+"Entrance to Eden" (Difficulty: 7)
+==================================
+Enemies         Normal          Rare
+-----------------------------------------------
+Dino-People     175 EP/+25HP     500 EP/+120HP?
+Blob            300 EP/+20HP    1500 EP/+100HP?
+
+It's the final stage of the game! And what do you know? It's a fellow human
+guarding the gate. Seems the poor guy is a reject from the Monkey Human tribe;
+but the "Great One" gave him this oh-so-important job, so now he's going to
+kill you. Well, we'll see about that.
+
+================================================
+Boss: Cro-Maine     (HP: 380, 1250 EP/+50HP x 4)
+================================================
+That big club of his hurts a LOT. And furthermore, he can hit you with it and
+send you flying clear out of the stage, forcing you to start over again! Don't
+let him pin you against the right wall, or he'll pummel you into a bloody pulp!
+If you're a human, there's a simple pattern you can use to beat him, but it
+takes quick reaction! First, jump and hit him right at the start of the battle.
+He'll try to jump on your head. Move out of the way, do an about-face, and
+smack him before he can swing at you. He'll try to jump on you again. Rinse
+and repeat. When you beat him, you'll get lots of evo points. Speaking of which,
+I suggest you go stock up now. Big time. About 50,000 or so. The last big
+confrontation will be a major test of endurance. When you've done that, enter
+the cave to Eden....
+
+I'm sure you just want to get this over with quickly, so here's the fastest way
+to get through this maze of elevators: From the entrance, take the first
+elevator all the way up. Now go right and take the third elevator you find
+down one level. (You can go all the way to the right to find a Green Crystal,
+but it's not like it'll do much good at this point.) Go right to the next
+elevator, and take it down once. Go left to another elevator, and take it
+up; be careful as two Dino-People are waiting in ambush. Once you deal with
+them, go left and you'll hear that a pot containing the crystal has exloded.
+ANOTHER Green Crystal is here, but you shouldn't need it. Continue left and
+jump into the beam of light coming from the crystal, and prepare to face the
+ultimate enemy....
+
+===============================================================================
+Final Boss: Bolbox          (HP: Infinite, you must defeat all other enemies)
+            Giant Profasu   (HP: 280, 120 EP/+100HP)(Orange ridged crystal)
+            Falcon Warrior  (HP: 180, 120 EP/+100HP)(Purple cratered crystal)
+            Giant Jellyfish (HP: 300, 100 EP/+100HP)(Blue striped crystal)
+            Giant Zinichthy (HP: 280, 200 EP/+100HP)(Green warty crystal)
+            Giant Prasauro  (HP: 300, 300 EP/+100HP)(Orange spiky crystal)
+            Debustega       (HP: 320, 150 EP/+100HP)(Yellow rough crystal) 
+            Child Ikustega  (HP:  20,  20 EP/-5HP)  (White crystal)
+            (Nothing)       (1000 EP/+100HP)        (Shiny blue crystal)
+===============================================================================
+
+This is it! Bolbox knows all about your little adventure. Think he's going to
+let you be the one to reach Eden? Over his dead body! This will be a grueling
+test of stamina. To start out with, run up close to him, jump, and on the way
+down, whack him on the "head" until he coughs up one of his eight crystals.
+Each one contains a powerful enemy inside that you must defeat, with the
+exception of the smooth, shiny blue one; that only has some food. Keep an eye
+out for Bolbox himself -- once in a while during the battle he'll stick his
+neck out and try to hit you with his head; hit him to stop it. And use the
+evolution trick if you need it! That's what all those points are for!
+
+Some points for each enemy he releases:
+ -- When you hit the giant profasu (cockroach), it will suddenly rise up and
+    fly around in a circle a few times. Move away or he'll hit you.
+ -- The falcon warrior can be quickly killed, just get up close and hit him
+    repeatedly as fast as you can hit the Y button.
+ -- The "giant" jellyfish may not look so big at first; not until you've hit
+    him three times. When you hit him in giant form, watch out as he'll
+    counterattack and try to sting you with a tentacle.
+ -- The giant zinichthy is the most difficult one. It's very powerful and
+    difficult to hit. When you see it open its mouth, it's about to rush in
+    and bite you -- try and dodge the attack.
+ -- The giant prasauro can also be quickly beaten, just rapidly hit the Y
+    button until it dies.
+ -- The debustega (giant ikustega) isn't too hard to kill, just watch out
+    for him trying to jump on you or spit slime.
+ -- The child ikustega will just run right off the screen without a fight;
+    you can ignore it.
+
+When you've defeated one, go back up and hit Bolbox until he releases another
+crystal. (He won't release another until you've dispatched what came out of
+the last one; don't worry about facing two enemies at once.) When Bolbox is
+out of crystals, he'll die after a few more hits.
+
+If you win, congratulations! After the battle, Gaia thanks you for defeating
+Bolbox, and says there would have been no future for Eden if he had gone there.
+Now all that awaits you to the right is Eden itself!
+
+===============================================================================
+                           Evolutions Chart And Tips
+===============================================================================
+Chapter 1 evolutions
+
+Jaws                       Horns                   Body
+=======================    ====================    =========================
+Original Jaws       10     Original Horn   200     Slick Body           200
+Kuraselache's Jaws 200     Spiraled Horn   300     Scaly Body           300
+Zinichthy's Jaws   800     Angler's Horn   500     Shell Body           600
+                           Swordfish Horn  700     Increase Body Size   400
+                           Remove          100     Decrease Body Size   200
+
+Hands and Feet             Dorsal Fin                Tail
+=========================  ========================  =======================
+Original Dorsal Fin   50   Original Dorsal Fin  50   Original Tail       50
+Coelafish Dorsal Fin 200   Sailing Dorsal Fin  200   Coelafish Tail     100
+Tackle Dorsal Fin    500   Kuraselache's Fin   500   Teratisin's Tail   300
+                           Remove               10   Zinichthy's Tail   500
+                                                     Kuraselache's Tail 700
+
+      Jaws: Naturally, you want the Zinichthy jaws for maximum power. There's
+            no tradeoffs, so don't worry about it.
+     Horns: The Angler Horn isn't used to attack. It attracts most types of
+            enemies, drawing them to a convenient biting distance. And watch
+            out for the Swordfish Horn's hidden cost! If you evolve it, your
+            jaws will be reverted to the weak Original jaws, and can't be
+            re-upgraded until you break or remove your horn!
+      Body: Stronger bodies make for higher HP and defense, but with more
+            durable bodies, you have slower swimming speed. Body size
+            changes several things in all chapters: less HP, defense, and
+            diminished strength, but you'll have slightly more agility.
+Hands/Feet: Same linear progression. Costlier is better; no tradeoffs.
+Dorsal Fin: Same as above.
+      Tail: Ditto.
+
+-------------------------------------------------------------------------------
+Chapter 2 evolutions
+
+Jaws                    Horns                    Body
+===================     ====================     =========================
+Frog's Jaws      50     Original Horn   200      Ikustega's Body      200
+Ikustega's Jaws 200     Feeler Horn     500      Mottle Body          500
+Tusking Jaws    500     Big Horn       1500      Scale Body          2000
+Fierce Jaws    1500     Dual Horn      5000      Armor Body          5000
+                        Remove          100      Increase Body Size  1000
+                                                 Decrease Body Size  1000
+
+Dorsal Fin                  Tail                      Back of the Head
+==========================  ========================  ====================
+Original Dorsal Fin    50   Ikustega's Tail      50   Wooper          300
+Vestigal Shark's Fin  200   Power Tail          100   Kerll           300
+Edasaurus Dorsal Fin 1000   Spring Tail         500   Jeprol          300
+Thorn Dorsal Fin     1000   Thorny Tail         600   Morimar         300
+Jumping Dorsal Fin   1000   Thorny Spring Tail 1000   Remove          100
+Remove                 50
+
+      Jaws: Fierce Jaws can't be beat.
+     Horns: Personally, I think horns are a waste of EP, but if you want 'em,
+            evolve 'em. Naturally, more expensive is better, but they all
+            break after only three uses.
+      Body: Once again, stronger bodies make for higher HP and defense, but
+            they weigh more. You'll face slightly reduced jumping ability and
+            speed with stronger body armors.
+Dorsal Fin: For a small body size, a Vestigal Shark's Fin seems to work best.
+            For large bodies, Edasaurus gives more protection, but the Jumping
+            Dorsal fin gives a big boost to jumping ability.
+      Tail: The more expensive the tail, the higher you can jump!
+      Head: The Kerll boosts you agility greatly, while the Jeprol strengthens
+            your biting power by five points.
+
+--------------------------------------------------------------------------------
+Chapter 3 evolutions
+
+Reptile:
+Jaws                        Horns                 Body                       
+==========================  ====================  =========================
+Tritop's Jaws         100   Muzzle Horn     500   Slick Body            50 
+Brosaurus Jaws        500   Forehead Horn  1000   Spotted Body         500 
+Toracodon's Jaws     1000   Spiraled Horn  1500   Warted Body         2000
+Omosaurus Jaws       3000   Dual Horns     5000   Armor Body          2500
+Tyrasaurus Jaws      5000   Remove          500   Pronesaurus Body    3000
+Pitasaurus Jaws       100                         Nautilon's Body     5000
+Ptenodon's Jaws       200   Neck                  Transform to 2 legs 1000
+Phamcys Jaws          500   ====================  Transform to 4 legs 1000
+Longtailed Bird Jaws 1000   Extend Neck     1000  Increase Body Size  1500
+Phonocos Jaws        1500   Shorten Neck    1000  Decrease Body Size  1500
+
+Dorsal Fin                   Tail                     Back of the Head    
+===========================  =======================  ======================
+Edasaurus Dorsal Fin    200  Normal Tail         50   Ptenodon's Crest  500  
+Segosaurus Dorsal Fin   500  Snake's Tail       100   Tritops Helmet   1000  
+Pronesaurus Dorsal Fin 1000  Nautilon's Tail    500   Horned Helmet    1000  
+Remove                   50  Pronesaurus Tail   500   Remove            100  
+                             Invincible Tail   1500
+
+Bird:
+Jaws                        Horns                 Body
+==========================  ====================  =========================
+Tritop's Jaws         100   Muzzle Horn     500   Slick Body            50
+Brosaurus Jaws        500   Forehead Horn  1000   Spotted Body         500
+Toracodon's Jaws     1000   Spiraled Horn  1500   Warted Body         2000
+Omosaurus Jaws       3000   Dual Horns     5000   Armor Body          2500
+Tyrasaurus Jaws      5000   Remove          500   Feather Body        3000
+Pitasaurus Jaws       100                         Increase Body Size  1500
+Ptenodon's Jaws       200   Neck                  Decrease Body Size  1500
+Phamcys Jaws          500   ====================
+Longtailed Bird Jaws 1000   Extend Neck    1000
+Phonocos Jaws        1500   Shorten Neck   1000
+
+Dorsal Fin                   Tail                      Back of the Head
+============================ ========================= ======================
+Edasaurus Dorsal Fin    200  Ptenodon's Tail      100  Ptenodon's Crest  500
+Segosaurus Dorsal Fin   500  Snake's Tail         300  Tritops Helmet   1000
+Pronesaurus Dorsal Fin 1000  Thorn Tail           500  Horned Helmet    1000
+Remove                   50  Fan Shaped Tail     1000  Remove            100
+                             Longtail Birds Tail 3000
+
+      Jaws: For pure power, the Tyrasaurus jaws are best. The specialty jaws
+            for birds might look more natural on a bird, but they're weaker.
+     Horns: Same selection of horns, same opinion of them.
+      Body: You have a lot of options here. If you evolve to two legs while
+            still a reptile, you can't use the Pronesaurus or Nautilon bodies.
+            And if you evolve to one of those two bodies, you can't evolve to
+            two legs. Those two bodies have very high defense and HP totals,
+            but their sheer weight will drastically lower your agility and
+            jumping ability. As a bird, the Feather body offers good defense
+            and has a light weight as well.
+      Neck: Sticking your neck out is a tradeoff. You can bite without moving
+            forwards, but it makes eating meat a little tricky.
+Dorsal Fin: The Pronesaurus dorsal fin may weigh you down just a little, but
+            gives you the biggest HP/defense boost.
+      Tail: More expensive tails give greater agility boots, except the heavy
+            Pronesaurus tail.
+      Head: I'd suggest the Horned Helmet.
+
+-------------------------------------------------------------------------------
+Chapter 4/5 evolutions:
+Jaws                     Horns                  Body
+======================   ====================   =============================
+Mouse Like Jaws   100    Muzzle Horn     500    Cat Shaped Body           50 
+Cat Like Jaws     200    Forehead Horn  1000    Rabbit Shaped Body       500 
+Dog Like Jaws     600    Spiraled Horn  1500    Horse Shaped Body       2000
+Fierce Jaws      1500    Dual Horns     5000    Rhinoceros Shaped Body  2500
+Rabbit Like Jaws  200    Remove          500    Ramothecus Shaped Body  5000
+Horse Like Jaws  1000                           Increase Body Size      1500
+Hippo Like Jaws  1000                           Decrease Body Size      1500
+Rhinoceros Jaws  2000
+
+Back of the Head            Neck
+=========================   ====================
+Mane                 100    Extend Neck     200
+Add a Deer Horn      200    Shorten Neck    200
+Add a Moose Horn     300
+Add a Sheep Horn     500
+Add a Bull Horn     2000
+Remove               100
+
+      Jaws: Fierce Jaws if you just want a big bite. The specialty jaws are
+            rather ineffective...after all, they're herbivore jaws. ^_^
+     Horns: Same old horns.
+      Body: Cat-shaped body is average in abilities. The rabbit-shaped body
+            is a good jumper. The horse-shaped body runs fast, and the 
+            rhinoceros body has a strong defense but it's slow and not good
+            for jumping.
+      Neck: Same choices as before concerning your neck.
+      Head: The Mane is cheap, and boosts attack power. The other additions
+            have other fringe benefits, but I haven't used them very much.
+
+===============================================================================
+                               Special Thanks
+===============================================================================
+Hmmm...
+
+Well, myself for creating this.
+Enix for creating the game that caused me to write this.
+GameFAQs and Gamewinners for hosting it.
+Roland Kie (rpika@hotmail.com) for reminding me about the UFO in Chapter 5.
+Alex Green (alexdkgreen@hotmail.com) for verifying some uncertain HP/EP values.
+Nightwind (bas292@flashmail.com) for several tips throughout the game.
+
+===============================================================================
+                         Legal Junk That Nobody Reads
+===============================================================================
+This document is MY intellectual property. Distribute it as you see fit, but
+only in its current UNCHANGED form and ONLY if you inform me of who you're
+giving it to. You may store a copy of this document on your computer or print
+it out, but only in its entirety, and for personal non-profit use ONLY. It is
+not to be used for profitable purposes in any way, shape, or form, without my
+personal consent. If you want to convert it to HTML, feel free to do so, but
+in its current UNCHANGED form, including ALL copyright information, and e-mail
+me the URL so I know where it's been and who to notify for updates. If you
+obtained this from anywhere besides GameFAQs (http://www.gamefaqs.com),
+Gamewinners (http://www.gamewinners.com), or any other site I am currently
+aware of (and/or have listed here) then consider it ripped-off; I'd appreciate
+it if you informed me of the URL of the offending site(s). Failure to observe
+these guidelines is a violation of international copyright law.
+
+                                   Copyright 2000, The Cynic (Justin McKennon)
+                                   (That means this stuff is mine, not yours!)
+
+

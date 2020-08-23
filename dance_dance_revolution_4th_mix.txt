@@ -1,0 +1,736 @@
+Dance Dance Revolution 4th Mix
+Playstation FAQ Revision 0.2
+Last revision date: March 18th, 2001
+
+Author: Sang Hong
+e-mail: sanger@acm.org
+
+
+Table of Contents
+
+1. Revision History
+2. What is Dance Dance Revoltion?
+3. System
+4. Songs
+  4.1 Titles/Artist/Album
+  4.2 Difficulty
+    4.2.1 Game Mode
+    4.2.2 Solo Mode
+  4.3 Max Combo
+    4.3.1 Game Mode (Single/Versus/Double)
+    4.3.2 Solo Mode
+5. Modes
+6. Codes / Secrets
+7. Misc
+8. Conclusion
+9. Contributions/Thank you's
+10. Disclaimer
+
+
+1. Revision History
+	0.1	First version. Based on location test version in the arcade.
+	0.2	Revised for the PSX version.
+	
+
+2. What is Dance Dance Revoltion?
+Dance Dance Revolution (DDR) is the game that started the dance game craze in
+Japan/Asia. Konami has created this simple to learn, fun game. The game is played
+using your feet. If you have played other Bemani games, just think of it as
+Beatmania played by stepping on arrows instead of hitting the notes. The screen
+shows 4 directional arrows that you must step on when it overlaps at the top of
+the screen. At the time of this writing, 4th Mix is the latest version.
+
+
+3. System
+The system has been changed drastically. The song selection, step selection, mode
+selection process is totally different from previous versions. The most important
+change is the fact that Dance Dance Revolution Solo has been added into the DDR
+series.
+
+For those of you that do not know, DDR Solo uses 6 panels instead of 4, and is
+1 player (ie. Solo) game. So it cannot be played versus, battle, or double.
+
+At the beginning you choose DDR or DDR Solo. Next when you press Start, you'll get
+a menu. If you chose DDR, this is what you would have gotten if you had pressed
+LEFT and RIGHT triangle buttons and pressed start in 2nd or 3rd Mix.
+
+DDR: SINGLE, VERSUS, DOUBLE
+SOLO: 4 PANELS, 6 PANELS
+
+Next, you get to choose a genre. You cannot change a genre during the game. Possible
+genres are as follows. The character you play as is picked here.
+
+Group 1
+Konami Original
+Veriety
+Pops
+Calorie Burner
+Fun Factor
+Special Selection
+Group 2
+
+Next is music selection. These songs will be from the genre you
+have selected.
+
+After choosing your song, it is time to select your step. This is where you
+pick Basic, Trick or Maniac. Please note that now all songs have Maniac Double
+Also from here you decide your play style. Press select to open up a menu.
+  Off <-> Little <-> Flat
+    Little: 1/2, 1/4, 1/8 steps are removed.
+    Flat: All arrows have same color.
+  Off <-> Left <-> Mirror <-> Right <-> Shuffle
+   Left: All steps are shifted 90 degrees to the left.
+   Mirror: All steps are mirrored. (eg: Up becomes down, Left becomes right, etc)
+   Right: All steps are shifted 90 degrees to the right.
+    Shuffle: All steps are mapped to another step. (ie: right becomes down, etc)
+  Off <-> Hidden <-> Sudden <-> Stealth
+    Hidden: Arrows disappear 3/4 mark.
+    Sudden: Arrows appear 3/4 mark.
+    Stealth: No arrows are shown.
+
+4. Songs
+  4.1 Titles/Artist/Album
+    Songs are divided into several categories.
+
+Category: Group 1
+Title						Artist		Album
+Hero (KCP Discotique Mix)			Papaya			
+1.2.3.4.007					Ni-Ni			
+Baby Baby Gimme Your Love			Divas		
+Hypnotic Crisis							Konami Original Remix
+Furuhata's Theme				C.J. Crew
+						feat. Sedge	
+Follow the Sun (90 in the Shade Mix)					
+Burnin' the Floor				Naoki			
+B4U						Naoki			
+Boys (Euro Mix)					Smile.dk		
+Dream a Dream					Captain Jack		
+In the Heat of the Night			E-Rotic			
+Bumble Bee					Bambee			
+Have You Never Been Mellow (MM Groovin Mix)	The Olivia
+						Project	
+Gimme Gimme Gimme				E-Rotic			
+Higher						NM feat. Sunny		
+Gotcha (The Theme from Starsky & Hutch)		Andy G's Magic		
+						Disco Machine		
+Eat You Up					Angie Gold		
+
+Category: Konami Original
+Title						Artist		Album
+Trip Machine Climax				De-Sire		Konami Original Remix
+Hypnotic Crisis							Konami Original Remix
+Burnin' the Floor				Naoki		Konami Original Remix
+B4U						Naoki		Konami Original Remix
+Love Again Tonight (For Melissa Mix)		Naoki ?		Konami Original Remix
+My Summer Love					Mitsu-O!	Konami Original Remix
+						with Geila	Konami Original Remix
+Orion-78 (Ameuro Mix)				Re-Venge	Konami Original Remix
+Higher						NM feat. Sunny	Konami Original Remix
+Baby Baby Gimme Your Love			Divas		Konami Original Remix
+
+Category: Veriety
+Title						Artist		Album
+Furuhata's Theme				C.J. Crew
+						feat. Sedge
+Follow the Sun (90 in the Shade Mix)		
+Saint Goes Marching (Remix)			The Saint
+Burnin' the Floor				Naoki
+One Two (Little Bitch)				Bus Stop
+Boys (Euro Mix)					Smile.dk
+Music						Habegale
+Shooting Star					Bang
+Night in Motion					Cubic 22
+Have You Never Been Mellow (MM Groovin Mix)	The Olivia
+						Project
+Kick the Can					Bus Stop
+Walkie Talkie					King Kong &
+						D. Jungle Girls
+Shake Your Booty				KC and the
+						Sunshine Band
+Gotcha (The Theme from Starsky & Hutch)		Andy G's Magic
+						Disco Machine
+It Only Takes a Minute (Extended Remix)		Tavares
+Only You					Captain Jack
+Eat You Up					Angie Gold
+Hero (KCP Discotique Mix)			Papaya
+The 7 Jump					Ken D
+
+Category: Pops
+Title						Artist		Album
+Hypnotic Crisis							Konami Original Remix
+Synchronized Love (Red Monster Hyper Mix)	Joe Rinoie	Dancemania Euro*Mix
+Burnin' the Floor				Naoki		Konami Original Remix
+Love Again Tonight (For Melissa Mix)		Naoki ?		Konami Original Remix
+Dream a Dream					Captain Jack	Dancemania X2
+My Summer Love					Mitsu-O!	Konami Original Remix
+In the Heat of the Night			E-Rotic		Dancemania X7
+Pink Dinosaur					Papaya		Dancemania X2
+Bumble Bee					Bambee		Zipmania III
+Gimme Gimme Gimme				E-Rotic		Dancemania X5
+Higher						NM feat. Sunny	Konami Original Remix
+Never Gonna Make (Factory Dance Team Mix)	Morgana		Dancemania X6
+Young Forever					Rebecca		Dancemania X6
+Xanadu						The Olivia	Dancemania Extra
+						Project
+1,2,3,4,007					Ni-Ni		Dancemania X6
+Baby Baby Gimme Your Love			Divas		Konami Original Remix
+
+Category: Calorie Burner
+Title						Artist		Album
+1,2,3,4,007					Ni-Ni		Dancemania X6
+Bumble Bee					Bambee			
+Dream a Dream					Captain Jack		
+Eat You Up					Angie Gold
+Hero (KCP Discotique Mix)			Papaya			
+Higher						NM feat. Sunny	Konami Original Remix
+Hypnotic Crisis							Konami Original Remix
+Music						Habegale
+Never Gonna Make (Factory Dance Team Mix)	Morgana		Dancemania X6
+Night in Motion					Cubic 22
+Pink Dinosaur					Papaya		Dancemania X2
+The 7 Jump					Ken D
+Walkie Talkie					King Kong &
+						D. Jungle Girls
+Xanadu						The Olivia	Dancemania Extra
+						Project
+Young Forever					Rebecca		Dancemania X6
+
+Category: Fun Factor
+Title						Artist		Album
+1,2,3,4,007					Ni-Ni		Dancemania X6
+B4U						Naoki		Konami Original Remix
+Boys (Euro Mix)					Smile.dk
+Burnin' the Floor				Naoki
+Dream a Dream					Captain Jack		
+Gimme Gimme Gimme				E-Rotic			
+In the Heat of the Night			E-Rotic		Dancemania X7
+Kick the Can					Bus Stop
+Love Again Tonight (For Melissa Mix)		Naoki ?		Konami Original Remix
+Music						Habegale
+One Two (Little Bitch)				Bus Stop
+Synchronized Love (Red Monster Hyper Mix)	Joe Rinoie	Dancemania Euro*Mix
+Young Forever					Rebecca		Dancemania X6
+
+Category: Special Selection
+Title						Artist		Album
+Dream a Dream					Captain Jack		
+Gotcha (The Theme from Starsky & Hutch)		Andy G's Magic		
+						Disco Machine		
+Higher						NM feat. Sunny		
+In the Heat of the Night			E-Rotic		Dancemania X7
+Kick the Can					Bus Stop
+Love Again Tonight (For Melissa Mix)		Naoki ?		Konami Original Remix
+Music						Habegale
+My Summer Love					Mitsu-O!	Konami Original Remix
+						with Geila	Konami Original Remix
+Night in Motion					Cubic 22
+One Two (Little Bitch)				Bus Stop
+Only You					Captain Jack
+Synchronized Love (Red Monster Hyper Mix)	Joe Rinoie	Dancemania Euro*Mix
+The 7 Jump					Ken D
+Walkie Talkie					King Kong &
+						D. Jungle Girls
+Young Forever					Rebecca		Dancemania X6
+
+Category: Group 2
+Title						Artist		Album
+It Only Takes a Minute (Extended Remix)		Tavares
+Kick the Can					Bus Stop
+Love Again Tonight (For Melissa Mix)		Naoki ?		Konami Original Remix
+Music						Habegale
+My Summer Love					Mitsu-O!	Konami Original Remix
+						with Geila	Konami Original Remix
+Never Gonna Make (Factory Dance Team Mix)	Morgana		Dancemania X6
+Night in Motion					Cubic 22
+One Two (Little Bitch)				Bus Stop
+Only You					Captain Jack
+Orion-78 (Ameuro Mix)				Re-Venge	Konami Original Remix
+Pink Dinosaur					Papaya		Dancemania X2
+Saint Goes Marching (Remix)			The Saint
+Shake Your Booty				KC and the
+						Sunshine Band
+Shooting Star					Bang
+Synchronized Love (Red Monster Hyper Mix)	Joe Rinoie	Dancemania Euro*Mix
+The 7 Jump					Ken D
+Trip Machine Climax				De-Sire		Konami Original Remix
+Walkie Talkie					King Kong &
+						D. Jungle Girls
+Xanadu						The Olivia	Dancemania Extra
+						Project
+Young Forever					Rebecca		Dancemania X6
+
+
+4.2 Difficulty
+
+4.2.1 Game Mode
+
+4.2.2 Solo Mode
+
+4.3 Max Combo
+
+4.3.1 Game Mode (Single/Versus/Double)
+
+B = Basic, A = Another, M = Maniac
+D = Basic Double, AD = Another Double, MD = Maniac Double
+
+Title						 B     A     M     D    AD    MD
+==================================================================================
+In the Heat of the Night			136 | 
+Let's Talk it Over				 90 |
+Music						    |     | 268 |
+Never Gonna Make (Factory Dance Team Mix	143 |
+
+4.3.2 Solo Mode
+
+B = Basic, A = Another, M = Maniac
+
+Title						 		   B     A     M 
+==================================================================================
+B4U								  191 |
+Baby Baby Gimme Your Love					   62 |
+Hero (KCP Discotique Mix)					  163 |
+
+
+5. Modes
+5.1 General Description
+Song Modes:
+ Hidden: Arrows disappear 3/4 mark.
+ Sudden: Arrows appear at 3/4 mark.
+ Stealth: No arrows are shown.
+ Little: 1/2, 1/4, 1/8 steps are removed.
+ Flat: All arrows have same color.
+ Shuffle: All steps are mapped to another step. (ie: right becomes down, etc)
+ Left: All steps are shifted 90 degrees to the left.
+ Right: All steps are shifted 90 degrees to the right.
+ Mirror: All steps are mirrored. (eg: Up becomes down, Left becomes right, etc)
+
+Step Difficulty:
+ Basic: Regular steps.
+ Another: Little harder.
+ Maniac: Most difficult.
+
+5.2 Modes for the PSX version
+Game Mode
+Solo Mode
+Diet Mode
+Lesson Mode
+Training
+Challenge Mode
+Edit
+Arcade Link
+Nonstop Order
+Records
+Option
+Information
+
+Game Mode: This is the main game mode. 
+
+Challenge Mode:
+  1. Choose PSX controller or DDR controller.
+  2. Choose the difficulty level. You must clear them in order. (ie: You cannot
+     play Basic without first having finished Practice.)
+  3. Choose the challenge. (You can do this in any order.)
+    Practice
+      Challenge 1
+        Higher, 4 Panels, Basic, All bars
+        Clear the song without missing a step.
+      Challenge 2
+        Only You, 4 Panels, Basic, Bars 1-7
+        Clear the song with a full combo. (Only Perfect and Great allowed)
+      Challenge 3
+        The 7 Jump, 4 Panels, Basic, Bars 17-33
+        Clear the song with a full combo. (Sudden mode)
+      Challenge 4
+        Never Gonna Make (Factory Dance Team Mix), 4 Panels, Basic, All bars
+        Clear the song with a max dance gauge.
+      Challenge 5
+        In the Heat of the Night, 4 Panels, Basic, All bars
+        Clear with a score greater than 1,500,000 points.
+      Challenge 6
+        Let's Talk it Over, 4 Panels, Basic, All bars
+        The total number of Great, Good, Boo must never exceed number of Perfect.
+      Challenge 7
+        Dream a Dream, 6 Panels, Basic, Bars 13-21
+        Clear the song with a full combo.
+      Challenge 8
+        Gimme Gimme Gimme, 6 Panels, Basic, Bars 1-23
+        Clear the song with a full combo. Also, sudden mode is enabled.
+      Challenge 9
+        Gotcha, 6 Panels, Original, All bars
+        Clear the song with a full combo.
+      Challenge 10
+        Don't Stop! (AMD 2nd Mix), 4 Panels, Basic, All bars
+        Clear with a score less than 1,000,000 points. Max combo must be 50 or higher.
+    Basic
+      Challenge 1
+        Hero (KCP Discotique Mix), 6 Panels, Basic, All bars
+        Clear the song with a full combo. (The arrows at the top are not shown.)
+      Challenge 2
+        One Two (Little Bitch), 4 Panels, Basic, All bars
+        Miss all two feet steps. Everything else must be Good or better.
+      Challenge 3
+        Orion-78 (Ameuro Mix), 4 Panels, Maniac, Bars 24-27
+        Clear the song with a full combo. (Hidden mode)
+      Challenge 4
+        It Only Takes a Minute (Extended Remix), 4 Panels, Basic, All bars
+        Clear the song with a max combo less than or equal to 10. (Dance gauge does
+        not recover.)
+      Challenge 5
+        Never Let You Down, 6 Panels, All bars
+        Miss all up and down steps. Everything else must be Good or better.
+      Challenge 6
+        Baby Baby Gimme Your Love, 4 Panels, Trick, All bars
+        One miss is allowed, but everything after that must be Great or better.
+        (The BGM and steps are different timing.)
+      Challenge 7
+        Kick the Can, 4 Panels, Trick, All bars
+        Never let the dance gauge go over 50% during play.
+      Challenge 8
+        Baby Baby Gimme Your Love, 6 Panels, Basic, All bars
+        Clear the song with 50 or greater Perfects.
+      Challenge 9
+        Eat You Up, 4 Panels, Trick, All bars
+        Clear the song with a score between 3,000,000 and 3,100,000.
+      Challenge 10
+        Dam Dariram (KCP Mix), 4 Panels, Trick, Bars 7-30
+        Clear the song when dance gauge is at 5%.
+    Trick
+      Challenge 1
+        Hero (KCP Discotique Mix), 4 Panels, Trick, All bars
+        Miss all two feet steps. Everything else must be Good or better.
+        (The arrows at the top are not shown.)
+      Challenge 2
+        Hero (KCP Discotique Mix), 4 Panels, Trick, All bars
+        Only step on two feet steps. (Hidden)
+      Challenge 3
+        Young Forever, 4 Panels, Maniac, Bars 1-11
+        Clear the song with a full combo.
+      Challenge 4
+        Pink Dinosaur, 6 Panels, Trick, All bars
+        Clear the song with 70% or more of the steps Perfect. (Sudden)
+        (The arrows at the top are not shown.)
+      Challenge 5
+        Shake Your Booty, 4 Panels, Trick, Bars 1-42
+        One miss is allowed, but everything after that must be Great or better.
+        (The BGM and steps are different timing.)
+      Challenge 6
+        Walkie Talkie, 4 Panels, Basic, All bars
+        Max combo must be 30 or higher. Never let the dance gauge go over
+        50% during play.
+      Challenge 7
+        Music, 6 Panels, Maniac, Bars 43-51
+        Clear the song with a full combo.
+      Challenge 8
+        Saint Goes Marching (Remix), 4 Panels, Basic, Bars 15-23
+        Clear the song with only Perfects.
+      Challenge 9
+        Saint Goes Marching (Remix), 4 Panels, Basic, Bars 15-23
+        Clear the song with a full combo. (Stealth)
+      Challenge 10
+        Bumble Bee, 6 Panels, Maniac, All bars
+        Miss all up steps. Everything else must be Good or better.
+    Maniac
+      Challenge 1
+        Era (Nostal Mix), 4 Panels, Maniac, Bars 33-43
+        Clear the song with a full combo.
+      Challenge 2
+        Furuhata's Theme, 4 Panels, Maniac, All bars
+        Clear the song.
+      Challenge 3
+        Saing Goes Marching (Remix), 4 Panels, Maniac, Bars 15-23
+        Clear the song with a full combo.
+      Challenge 4
+        If You Were Here (B4 Za Beat Mix), 6 Panels, Maniac, All bars
+        Miss all steps but up, up-right, and right steps. Everything else
+        must be Good or better.
+      Challenge 5
+        Follow the Sun (90 in the Shade Mix), 4 Panels, Basic, All bars
+        Clear the song with a max combo less than or equal to 10. (Dance gauge does
+        not recover.)
+      Challenge 6
+        Leading Cyber, 4 Panels, Maniac, Bars 32-40
+        Clear the song with a full combo.
+      Challenge 7
+        Trip Machine Climax, 6 Panels, Basic, All bars
+        Miss all up and down steps. Everything else must be Good or better.
+      Challenge 8
+        1,2,3,4,007, 6 Panels, Maniac, All bars
+        Miss all down and right steps. For two feet steps you can step down or
+        right, but not both.
+      Challenge 9
+        Higher, 6 Panels, Maniac, All bars
+        Don't step twice in a row in the same direction.
+      Challenge 10
+        Era (Nostal Mix), 4 Panels, Original, Bars 30-44
+        Clear the song with a full combo. (Repeat same pattern)
+    Extra
+      Challenge 1
+        .59, 4 Panels, Maniac, All bars
+        Don't step twice in a row in the same direction.
+      Challenge 2
+        Have You Never Been Mellow (MM Groovin Mix), 4 Panels, Original, All bars
+        Clear the song with 350 or greater Perfects.
+      Challenge 3
+      Challenge 4
+      Challenge 5
+      Challenge 6
+      Challenge 7
+      Challenge 8
+      Challenge 9
+      Challenge 10
+
+Option: 
+  Sound Option
+    Sound
+      Stereo
+      Monaural
+    Voice
+      All
+      Off
+      No Booing
+    Timing: Adjust the sensitivity of step judgement
+      -8 to + 8
+    Exit
+  Controller Settings
+    Vibration
+      No Use
+      Button
+      Miss
+    Double Play
+      Off
+      On
+    Double Mode Setting
+	[Legend:	U: 1P Side Up		D: 1P Side Down
+			L: 1P Side Left		R: 1P Side Right
+			u: 2P Side Up		d: 2P Side Down
+			l: 2P Side Left		r: 2P Side Right
+			T: Triangle button	X: X button
+			S: square button	O: O button		]
+
+			Controller 1		Controller 2
+			L1 L2 R1 R2		L1 L2 R1 R2
+	Type A:		D  U  L  R		D  U  L  R
+	Type B:		U  D  R  L		U  D  R  L
+	Type C:		D  L  U  R		D  L  U  R
+	Type D:		D  L  R  U		D  L  R  U
+
+			U D L R T X S O		u d l r T X S O
+	Type 1:		U D L R U D L R		u d l r u d l r
+	Type 2:		U D L R u d l r		U D L R u d l r
+	Type 3:		U D L R U D L R		u d l r d u r l
+
+    Dance Play Setting
+      Controller 1
+       On
+       Off
+      Controller 2
+       On
+       Off
+      Exit
+    Exit
+  Memory Card
+    Save
+    Load
+    Auto Save
+      On
+      Off
+    Exit
+  Game Option
+    Game Level
+      1/Easiest
+      2/Very Easy
+      3/Easy
+      4/Medium
+      5/Medium Hard
+      6/Hard
+      7/Very Hard
+      8/Hardest
+    Max Stage
+      1 to 5
+    Max Stage (Nonstop)
+      2 to 5
+    Time Limit
+      On
+      Off
+    Game Over
+      Arcade
+      End of Music
+    Event Mode
+      On
+      Off
+    All Music Mode
+      On
+      Off
+    Exit
+  Graphic Option
+    BG Effect
+      On
+      Off
+    BG Bright
+      20% to 1005 in increments of 5%
+    Danger Display
+      Blink
+      Off
+      Still
+    Step Mark Color
+      Arcade
+      Note
+    Character Display
+      On
+      Off
+    Exit
+  Diet Option
+    Measurement
+      Free
+      Regulation
+    Calorie Display
+      On
+      Off
+    Exercise Display
+      Time
+      Stage
+      Off
+    Consecutive Play
+      On
+      Off
+    Exit
+  Exit
+
+
+
+
+Information: When something new that is worthwhile for you to know about has
+             happened, there will be a new information for you to read.
+
+1. This is Dance Dance Revolution 4th Mix
+2. About Challenge Mode
+   This is a new mode! Clear a song with a set goal in order to advance to
+   next level.
+3. New addition to Diet Mode
+   Diet Mode has been powered up.
+4. Song added (17-18)
+   18: Synchronized Love is now playable.
+
+
+6. Codes / Secrets
+
+To unlock new song (Synchronized Love)
+  Clear 5 songs.
+
+To unlock challenge mode
+  Clear 10 songs.
+
+
+
+7. Misc
+7.2 Announcer Says
+	Score Report
+		Rank SSS		Oh god! Oh god!
+		Rank D			You got lucky.
+		Rank E			Oh, you need to push yourself harder.
+		Rank A-C		I have never seen a cooler dance.
+		Rank A			Your technique amazes me. I love your style.
+					Show me how to do it.
+		Rank B			Incredible! Can't wait to see your next move.
+		Rank A			You're sukiyaki!
+
+
+	During Play
+		Beginning		Are you ready?
+					Give it your best shot!
+					This is the last one. Keep going.		
+		Encouragement		Amigo!
+					You've got the rhythm.
+					The crowd loves you!
+					Everybody is cheering!
+					Yeah! Do it!
+					I'm getting excited!
+					This is it. Keep moving!
+					Take my heart away!
+					Don't be careless.
+		Doing poorly		Are you a monkey?
+					Are you a mummy? [unconfirmed]
+					Danger! Danger!
+					Too many misses!
+					Be careful.
+					Are you having trouble with your feet?
+					Did you have breakfast today? [unconfirmed]
+					Are you looking at the screen? [unconfirmed]
+					Terrible!
+					Are your legs OK?
+		Doing great		Amigo!
+					You're stylish!
+					What a cool guy you are.
+					I was moved!
+					What technique!
+					You are a dance animal.
+					You are a dancing machine! [unconfirmed]
+					You surprised us all.
+					This is the best show I've ever seen.
+					Wow! You are too cool!
+					Great!
+					OK!
+					Nice moves!
+		During Big Combo	Are you an alien?
+		Streak (At least 30,	Combos continue.
+		maybe more)
+		When Big Combo Streak	Oh no, your combo has stopped!
+		Ends
+		
+	Song Selection
+		Selection Prompt	Show me your performance
+		Selected Song		You have good taste in music.
+					This is the cool Konami sound.
+
+8. Conclusion
+This is my second FAQ. My first FAQ was for DDR 3rd Mix for the PSX.
+As I start writing this, the game has just begun location testing in Japan.
+Hopefully, Konami will get it through to their heads that this game can
+become successful in the States and import 4th Mix right away with a huge
+promotion. I will continue to update this FAQ with everybody's contribution,
+and reports from various BBS'es around the world, including Japan and Korea.
+But, there is so much I can do without actually playing the game myself...
+so this FAQ will never become really complete, I'm afraid. If anyone that
+has access to an actual arcade machine, wants to co-author this FAQ, I'd be
+very grateful.
+
+I wanted to give something back to the gaming community as I have enjoyed many,
+many FAQs written by countless others that share the information that they have
+gathered/discovered, at no cost to us.
+
+You may e-mail me with your comments, information at the address at the top
+of this FAQ. 
+
+
+9. Contributions/Thank you's
+Konami
+For making this game, and information on the songs and modes and stuff.
+
+GameFAQ
+For making this guide available to all the DDRer's around the world.
+
+www.beatgamer.com
+For translated Japanese BBS information.
+
+
+10. DISCLAIMER:
+This document is the intellectual property of the author. It is intended to 
+provide help, to fellow gamers, on a title that is both entertaining and 
+difficult at various times. Please do not copy or distribute this file in any 
+format without consent of the author. This means: on other web pages, as part of 
+another FAQ, in any written or electronic publication, etc. And, to be crystal 
+clear, this document is legally copyrighted through two or more means. This is 
+including a publishing firm clause, as well as various websites' legal setups 
+(such as the one found on GameFAQs). If you have any new tips or info you want 
+us to hear, just drop an e-mail. And, just in case this comes up, neither Game 
+Cave nor anyone else may not distribute this to those who purchase this title or 
+who are somehow bringing profit to said party.
+
+
+Beatmania, BEMANI, Dance Dance Revolution, Guitar Freaks, Pop'n'Music, 
+Drummania, Rap Freaks, Keyboard Mania, Dance!Dance!Dance!, Goo Goo Soundy, 
+and all versions/mixes are copyright/trademarked by Konami Computer 
+Entertainment Japan. All other copyrights are properties of their 
+respective owners. 
+
+This document Copyright 2001 Sang Hong

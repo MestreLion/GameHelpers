@@ -1,0 +1,147 @@
+Sc100-Precursor-Fase 0 (Tutorial)
+	- 07:09, 0 Lost Units, Mapa revelado, todos os inimigos mortos
+
+Sc100-Precursor-Fase 1
+	- 11:06, 0 Lost Units, Mapa revelado, todos os inimigos mortos
+
+Sc100-Precursor-Fase 2
+	- 21:54, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Precursor-Fase 3
+	- 13:31, 0 Lost Units, Mapa revelado, todos os inimigos mortos
+
+Sc100-Precursor-Fase 4
+	- 27:30, 0 Lost Units (1 lost building inevitavel), Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+
+
+
+
+Sc100-Terran-Fase 00 (Tutorial)
+	- 07:xx, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 01
+	- Inicio: encontrar Raynor ao sul/sudeste
+	- 14:xx, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 02
+	- Inicio: subir rampa noroeste, atacar zerg
+	- 05:01, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Final Fase 03
+	- 44:xx, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 04
+	- Meio: ativar beacon e matar zerglings
+	- 12:02, 0 Lost Units, Mapa revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 05
+	- Inicio: achar Kerrigan indo p/ sul, depois atacar torres sudeste
+	- 47:30, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 06
+	- 23:50, 0 Lost Units, (save A)
+	- 57:30, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Terran-Fase 07
+	- 31:44, 0 Lost Units (matando o minimo e nao perdendo nada) (save A)
+	- 52:12, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)	
+	
+Sc100-Terran-Fase 08
+	- 1:12:10, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Terran-Fase 09
+	- Inicio: fazer ofensiva contra zerg (oeste/noroeste)
+	- 1:10:10, Mapa 100% revelado
+
+Sc100-Terran-Fase 10
+	- 1:47:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+
+
+
+
+Sc100-Zerg-Fase 01
+	- 19:46, todos os inimigos mortos (unidades e predios)
+
+Sc100-Zerg-Fase 02
+	- 28:18, 0 Lost Units, (save A)
+	- 31:25, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Zerg-Fase 03
+	- 29:40, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios possiveis-25)
+
+Sc100-Zerg-Fase 04
+	- Meio: countdown
+	- 1:11:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Zerg-Fase 05
+	- 15:11, 2 Lost Units (inevitavel), Mapa revelado, todos os inimigos mortos
+
+Sc100-Zerg-Fase 06
+	- 37:10, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Zerg-Fase 07
+	- 57:10, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Zerg-Fase 08
+	- Meio: destruir Nexus
+	- 58:00, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Zerg-Fase 09
+	- Meio: levar drone para o beacon
+	- 1:05:xx, 0 Lost Units (save A)
+	- 1:09:01, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Zerg-Fase 10
+	- 22:xx, incrivel! :)  (save A)
+	- 1:27:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+
+
+Sc100-Protoss-Fase 01
+	- Meio: encostar em Fenix (zealot)
+	- 20:30, 0 Lost Units, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Protoss-Fase 02
+	- Meio: countdown
+	- 26:14, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Protoss-Fase 03
+	- 26:14, Mapa 100% revelado, todos os inimigos mortos (unidades e predios)
+
+Sc100-Protoss-Fase 04
+	- Meio: encostar em Tassadar (High Templar)
+	- 43:20 (save A)
+	- 1:04:23, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Protoss-Fase 05
+	- Meio: Destruir Turret branca
+	- 1:00:xx (save A)
+	- 1:11:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Protoss-Fase 06
+	- 23:00, Mapa Revelado, todos os inimigos mortos
+
+Sc100-Protoss-Fase 07
+	- 1:16:xx (save A)
+	- 1:36:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Protoss-Fase 08
+	- Meio: chegar perto do beacon
+	- 1:25:xx, 0 Lost BUildings (save A)
+	- 1:36:xx, 0 Lost BUildings, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Protoss-Fase 09
+	- 1:24:xx (save A)
+	- 1:36:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+Sc100-Protoss-Fase 10
+	- 52:xx, um unico ataque (save A)
+	- 1:07:xx, Mapa 100% revelado, todos os inimigos mortos (unidades e predios) (save B)
+
+
+TimeTrial
+
+SC104-Protoss-01 - 0:11:20
+

@@ -1,0 +1,279 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(/images/layout/sclv6_bg.jpg); PADDING-BOTTOM: 10px; MARGIN: 0px; FONT: 10pt arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif; COLOR: #cccccc; PADDING-TOP: 10px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #000033; TEXT-ALIGN: center
+}
+A:link {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #eeeeff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #00c4ff; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #00c4ff; TEXT-DECORATION: underline
+}
+.page {
+	COLOR: #ffffff; BACKGROUND-COLOR: #000000
+}
+TD {
+	FONT: 10pt arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+TH {
+	FONT: 10pt arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+P {
+	FONT: 10pt arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+LI {
+	FONT: 10pt arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+.tborder {
+	BACKGROUND-COLOR: #333333
+}
+.tcat {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: url(http://www.sclegacy.com/images/catbg1.jpg) #666666; COLOR: #ffffff
+}
+.tcat A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.tcat A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.tcat A:hover {
+	COLOR: #ffff66; TEXT-DECORATION: underline
+}
+.tcat A:active {
+	COLOR: #ffff66; TEXT-DECORATION: underline
+}
+.thead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: url(http://www.sclegacy.com/images/theadbg.jpg) #666666; COLOR: #dcdcdc
+}
+.thead A:link {
+	COLOR: #eeeeff
+}
+.thead A:visited {
+	COLOR: #eeeeff
+}
+.thead A:hover {
+	COLOR: #eeeeff
+}
+.thead A:active {
+	COLOR: #eeeeff
+}
+.tfoot {
+	BACKGROUND: url(http://www.sclegacy.com/images/theadbg.jpg) #666666; COLOR: #eeeeff
+}
+.tfoot A:link {
+	COLOR: #eeeeff
+}
+.tfoot A:visited {
+	COLOR: #eeeeff
+}
+.tfoot A:hover {
+	COLOR: #eeeeff
+}
+.tfoot A:active {
+	COLOR: #eeeeff
+}
+.alt1 {
+	BACKGROUND-COLOR: #000000
+}
+.alt1Active {
+	BACKGROUND-COLOR: #000000
+}
+.alt2 {
+	BACKGROUND-COLOR: #1e1e1e
+}
+.alt2Active {
+	BACKGROUND-COLOR: #1e1e1e
+}
+.alt3 {
+	COLOR: #000000; BACKGROUND-COLOR: #d5d8e5
+}
+.wysiwyg {
+	FONT: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #c0c0c0; BACKGROUND-COLOR: #1e1e1e
+}
+TEXTAREA {
+	FONT: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #000000; BACKGROUND-COLOR: #cfcfcf
+}
+.bginput {
+	FONT: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #000000; BACKGROUND-COLOR: #cfcfcf
+}
+.button {
+	FONT: 11px arial, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #000000; BACKGROUND-COLOR: #cfcfcf
+}
+SELECT {
+	FONT: 11px arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif; COLOR: #000000; BACKGROUND-COLOR: #cfcfcf
+}
+OPTION {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+OPTGROUP {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+.smallfont {
+	FONT: 10px arial, verdana, geneva, lucida, 'lucida grande', helvetica, sans-serif
+}
+.time {
+	COLOR: #00c4ff
+}
+.navbar {
+	FONT: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif
+}
+.highlight {
+	FONT-WEIGHT: bold; COLOR: #ff0000
+}
+.fjsel {
+	COLOR: #e0e0f6; BACKGROUND-COLOR: #3e5c92
+}
+.fjdpth0 {
+	COLOR: #000000; BACKGROUND-COLOR: #f7f7f7
+}
+.panel {
+	BORDER-RIGHT: 2px outset; PADDING-RIGHT: 10px; BORDER-TOP: 2px outset; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: 2px outset; COLOR: #ffffff; PADDING-TOP: 10px; BORDER-BOTTOM: 2px outset; BACKGROUND-COLOR: #000000
+}
+.panelsurround {
+	COLOR: #ffffff; BACKGROUND-COLOR: #161616
+}
+LEGEND {
+	FONT: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #00ff00
+}
+.vbmenu_control {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; BACKGROUND: url(http://www.sclegacy.com/images/catbg1.jpg) #666666; PADDING-BOTTOM: 3px; FONT: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; COLOR: #ffffff; PADDING-TOP: 3px; WHITE-SPACE: nowrap
+}
+.vbmenu_control A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_control A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_control A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.vbmenu_control A:active {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.vbmenu_popup {
+	BORDER-RIGHT: #0b198c 1px solid; BORDER-TOP: #0b198c 1px solid; BORDER-LEFT: #0b198c 1px solid; COLOR: #000000; BORDER-BOTTOM: #0b198c 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.vbmenu_option {
+	FONT: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; CURSOR: pointer; COLOR: #000000; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #bbc7ce
+}
+.vbmenu_option A:link {
+	COLOR: #22229c; TEXT-DECORATION: none
+}
+.vbmenu_option A:visited {
+	COLOR: #22229c; TEXT-DECORATION: none
+}
+.vbmenu_option A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_option A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_hilite {
+	FONT: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; CURSOR: pointer; COLOR: #ffffff; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #8a949e
+}
+.vbmenu_hilite A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_hilite A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_hilite A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.vbmenu_hilite A:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+HTML {
+	SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #000000
+}
+DIV.container {
+	MARGIN-LEFT: auto; WIDTH: 1000px; MARGIN-RIGHT: auto
+}
+DIV.title {
+	
+}
+DIV.title_ad {
+	PADDING-RIGHT: 5px; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_title_ad_bg.jpg); WIDTH: 995px; PADDING-TOP: 1px; HEIGHT: 93px
+}
+DIV.title_underbar {
+	PADDING-RIGHT: 10px; FONT-WEIGHT: bold; WIDTH: 970px
+}
+DIV.newsbit_topic {
+	WIDTH: 600px
+}
+DIV.newsbit_top {
+	PADDING-RIGHT: 37px; PADDING-LEFT: 90px; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_nb_top.jpg); WIDTH: 473px; PADDING-TOP: 0px; HEIGHT: 91px; TEXT-ALIGN: left
+}
+.newsbit_topic {
+	FONT: bold 10pt tahoma; COLOR: #00ff00
+}
+.newsbit_author {
+	FONT: 8pt tahoma; COLOR: #ffff00
+}
+DIV.newsbit_middle {
+	PADDING-RIGHT: 45px; PADDING-LEFT: 45px; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_nb_middle.jpg); WIDTH: 510px; TEXT-ALIGN: left
+}
+DIV.newsbit_bottom {
+	BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_nb_bottom.jpg); WIDTH: 600px; HEIGHT: 96px
+}
+DIV.newsbit_floatleft {
+	FLOAT: left
+}
+DIV.newsbit_floatright {
+	FLOAT: right
+}
+DIV.ml_top {
+	PADDING-LEFT: 27px; FONT-WEIGHT: bold; FLOAT: left; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_ml_top.jpg); WIDTH: 110px; COLOR: #00ff00; PADDING-TOP: 35px; HEIGHT: 39px
+}
+DIV.ml_icon {
+	FLOAT: left; TEXT-ALIGN: left
+}
+DIV.ml_middle {
+	PADDING-RIGHT: 37px; PADDING-LEFT: 13px; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_ml_middle.jpg); FONT: 8pt tahoma
+}
+DIV.ml_bottom {
+	BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_ml_bottom.jpg); HEIGHT: 17px
+}
+DIV.mr_top {
+	PADDING-RIGHT: 27px; FONT-WEIGHT: bold; FLOAT: right; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_mr_top.jpg); WIDTH: 110px; COLOR: #00ff00; PADDING-TOP: 35px; HEIGHT: 39px; TEXT-ALIGN: right
+}
+DIV.mr_icon {
+	FLOAT: right; TEXT-ALIGN: left
+}
+DIV.mr_middle {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 37px; BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_mr_middle.jpg); FONT: 8pt tahoma
+}
+DIV.mr_bottom {
+	BACKGROUND-IMAGE: url(http://www.sclegacy.com/images/layout/v61_mr_bottom.jpg); HEIGHT: 17px
+}
+DIV.bottom {
+	
+}
+.padding {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+.links_font {
+	FONT-WEIGHT: bold; COLOR: #00ff00
+}
+.links_font A:link {
+	FONT-WEIGHT: bold; COLOR: #00ff00; TEXT-DECORATION: underline
+}
+.links_font A:visited {
+	FONT-WEIGHT: bold; COLOR: #00ff00; TEXT-DECORATION: underline
+}
+.links_font A:active {
+	FONT-WEIGHT: bold; COLOR: #00ff00; TEXT-DECORATION: underline
+}
+.links_font A:hover {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+DIV.section_pages {
+	PADDING-BOTTOM: 8px
+}
+.description {
+	COLOR: #999999
+}

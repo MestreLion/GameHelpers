@@ -1,0 +1,53 @@
+Controls
+====================
+BRB = Big Red Button
+Romans = BRB x 2
+Big Lever, Sticker, Morse = Romans, 1 3 2 2 3 1 (Instruction, right side, vertically, "laddder": I III II II III I)
+Big Lever Right and Left: BLR, BLL
+Phonepad = BLL
+Binary, UV = BLR
+
+
+
+
+ 1 - PDTA		Don't do anything for like... a minute?
+ 2 - Dung		Click Red Button over and over
+ 3 - I <3 Mushrooms	Red Button, Switch, Red Button
+ 5 - All-Seeing Eye	Red Button 13x, Hammer on Monitor, click "?" (quits game)
+10 - Kill all Humans	Binary: 0010001 (Instruction 4, gray and brown small square dots, binary code)
+15 - Videogame		A few restarts? Plane videogame
+16 - Alien Smash	Red Button 13x, Hammer on Button, Smash mini-game
+20 - Many Buttons	Awaiting Input (?), Red Button, Red Buttons (Random?). Center, Right, Left, 2nd right corner, close right, top row-1-right
+
+15:
+YOU DROP ALL BOMB
+-    -       -  -
+
+05:
+Hourglass	Eye (crying)
+3 Waves		Key
+
+
+
+
+Sticker:
+Pisano
+Leonardo
+(Fibonacci)
+
+UV Light:
+
+Flip Door
+42 (or 24?)
+
+Don't Do It (UV=>) DOT
+
+B	D1
+D7	4
+
+Instruction 3:
+1 (one 1) = 11 (two 1s) = 21 (one 2, one 1) =
+1211 (one 1, one 2, two 1s) - answer!
+= 111221 (three 1s, two 2s, one 1) = 312211 (one 3, one 1, two 2s, two 1s)
+
+

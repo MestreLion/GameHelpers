@@ -1,0 +1,37 @@
+Updates:
+9/3/2000 Header added
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+Each character has a byte that is their 'id', which determines (at least) the
+following things:
+
+(1) Their name.
+(2) Their battle menu.
+(3) Their role in events (such as when they leave the party).
+
+id Who                Leaves
+-- ---                ------
+01 Dark Knight Cecil  Mt. Ordeals chamber of mirrors
+02 Kain               Mist
+03 young Rydia        Leviathan attack
+04 Tellah             Damcyan
+05 Edward             Leviathan attack
+06 Rosa               Fabul attack
+07 Yang               Leviathan attack
+08 Palom              Baron, after Kainazzo's death
+09 Porom              Baron, after Kainazzo's death
+0A Tellah             Mt. Ordeals chamber of mirrors
+0B Paladin Cecil      ----
+0C Tellah             Tower of Zot, after defeating Golbez
+0D Yang               Super Cannon
+0E Cid                Leaving underground
+0F Kain               Sealed Cave
+10 Rosa               ----
+11 teen Rydia         ----
+12 Edge               ----
+13 FuSoYa             Giant of Bab-il, after destroying CPU
+14 Kain               ----
+15 Golbez             never joins
+16 Anna               never joins

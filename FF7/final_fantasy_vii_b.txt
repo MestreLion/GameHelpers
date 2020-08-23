@@ -1,0 +1,3677 @@
+                Final Fantasy 7 - Frequently Asked Questions
+                             By Matt Hobbs
+                          (YelseyKing@aol.com)
+                               Version 9.0
+
+----------------------------------------------------------------------------
+Note: This is by no means a walkthrough of FF7, but rather a troubleshooting
+or secrets FAQ. Essentially, it's just a collection of the most frequently
+asked questions. While originally designed to help people back in my days in
+the AOL FF7 Chat Room, I eventually decided to turn this FAQ into something 
+a bit more. Anyway... I've talked enough. On with the FAQ!
+----------------------------------------------------------------------------
+
+Table of contents:
+
+ 1. Revision History
+ 2. Ultimate Weapons
+ 3. Level 4 Limit Breaks
+ 4. Enemy Skills
+ 5. Increases
+ 6. Hard to find items
+ 7. Town Secrets
+ 8. Rare items from battle
+ 9. The secret characters
+10. Chocobo breeding guide
+11. Other Stuff
+12. Rumors
+13. Debug Room
+14. Credits
+
+---
+
+Key  
+O - Circle Button
+S - Square Button
+T - Triangle Button
+X = X (Cross) Button
+
+----------------------------------------------------------------------------
+ 1. Revision History
+----------------------------------------------------------------------------
+
+V9.0 - Removed an incorrect note that (*sigh*) confused many people... The
+       Nibelheim safe code is now *below* the "Getting Vincent" section. You
+       can all stop mailing me now... ^_^
+     - A few more items added to the steal and morph lists.
+     - Added a couple more places to learn a few enemy skills. They're both
+       'the hard way', though...
+     - Various corrections/additions to the debug room guide. Got the list 
+       of Disc 3 FMV in Room 6. Well, I didn't have the patience to go 
+       through all 50 FMVs in that list, as most of them hang the game 
+       anyway, but I think I found all the working ones.
+
+V8.5 - Cleaned up the look of the FAQ. Removed a bunch of un-necessary 
+       exclamation points and such, to make the FAQ look...less newbie-ish.
+     - Just about every section has been rewritten/added to, and most of the
+       lesser tricks have been moved to the "other stuff" catagory.
+     - "Level ups" and "Gaining Limits" have merged into one section:
+       "Increases". Likewise, the Rare item steal and morph chart sections
+       have also merged, and became "Rare items from battle". In addition,
+       many early-game items were also to the steal chart.
+     - Added some of my own personal comments to the enemy skill list, and a
+       few special tricks. (Like how to get the Beta spell early on, an easy
+       way to learn Shadow Flare, and an even easier way to learn Roulette.)
+     - Made changes to various 'rumors'.
+     - Changed "Kalm Secrets" to "Town Secrets", and included items/secrets
+       in several other towns.    
+     - Added an entire section devoted solely to the newly discovered "Debug
+       Room". The funny thing is...it's probably bigger than the FAQ itself.    
+
+V8.2 - Changed the general look of the FAQ and added one new rumor (New
+Spells), and one new hard to find item (Added Cut), as well as various other
+minor corrections and changes.
+
+V8.0 - Yes, I decided to update it. I only made some minor corrections this
+time, because I had nothing new to add. I may continue to update this FAQ if
+I can ever think of anything new to add.
+
+V7.0 - The FAQ is new (to GameFAQs...anyway)
+
+----------------------------------------------------------------------------
+ 2. Ultimate Weapons
+----------------------------------------------------------------------------
+
+This is a short list telling where to get all the best weapons.
+
+Ultima Weapon - Cloud
+This weapon can be found after defeating Ultimate Weapon.
+
+Missing Score - Barret
+Bring Barret on the raid to Midgar (Disc 2) and when you climb the 
+Sister Ray, you'll find it in a green chest along the way.
+NOTE: If you don't bring Barret, the chest won't even be there.
+
+Premium Heart - Tifa
+This can be found in Midgar, (Disc 2 or 3) after you've found the Sector 
+5 Key, (see below for instructions on how to obtain the key) go to the 
+Wall Market. In the item shop with the pink machine that shot at you 
+earlier, walk up to it and push O, you'll get Tifa's Best weapon.
+
+Princess Guard - Aeris
+This can be found in the Temple of the Ancients in room "IIII".
+(Some people say that the Umbrella is a better weapon. I, however, disagree.
+ While the former weapon DOES have a higher attack power, it has no bonuses,
+ and more importantly, NO materia slots! I find it better to sacrifice a bit
+ of attack power for more materia.)
+
+Limited Moon - Red XIII
+This can be found in disc 3. Bring Red to Cosmo Canyon and talk to
+Bugenhagen.
+
+Conformer - Yuffie
+This can be found in the crashed Gelnika airplane. It's in a treasure chest
+in the room near the save point in the upper right corner.
+
+HP Shout - Cait Sith
+An easily overlooked weapon. Return to the Shinra building during the raid
+on Midgar near the end of disc 2 and search the lockers on the 64th floor.
+(You may have seen it before during the first raid, but Cloud refuses to 
+take it.)
+
+Death Penalty - Vincent
+Another easily overlooked weapon. After you get the submarine (or a green,
+black, or gold chocobo) travel to a waterfall near a lake by Gongaga, and
+with Vincent in your party, enter a secret cave behind the falls. You'll 
+meet Vincent's old flame, Lucrecia and learn more about his past, return 
+later to get Vincents LV4 Limit Break and The Death Penalty. 
+
+Venus Gospel - Cid
+This weapon can be gotten anytime after the rocket Huge Materia quest, 
+return to Rocket town and talk to the old man who gave you the Yoshiyuki. 
+(See below) Keep talking to him and eventually, he'll give you Cid's 
+best weapon. 
+(The Flayer is a few points stronger, but the Venus Gospel seems to do a lot
+ more damage...)
+
+----------------------------------------------------------------------------
+ 3. Level 4 Limit Breaks
+----------------------------------------------------------------------------
+This is probably common knowledge, but you need to have learned all the 
+other limit breaks before learning these. That is, you need to have learned
+all 6 (or 3, in Vincent's case), to be able to learn the level 4 limit 
+break. Just being on limit level 3 isn't good enough.
+
+Omnislash - Cloud
+Win 32000 Battle Points in one trip (disc 2 or 3) at Battle Square in the 
+Gold Saucer and buy this. 
+Note: You can also get Omnislash in Disc 1, but it costs 51200 BP.
+
+Catastrophe - Barret
+After the North Corel Huge Materia quest (win or lose, it doesn't 
+matter), talk to the woman in the house near the inn to receive Catastrophe. 
+
+Final Heaven - Tifa
+Found by playing the right notes on Tifa's piano (Disc 2 or 3).
+(See piano chart above)
+
+Great Gospel - Aeris
+In Disc 2 or 3 getting this is a cinch, but by that time, Aeris is already
+long gone... So, I'll tell you how to get it in disc 1: After getting the 
+buggy, return to Costa Del Sol and drive the buggy *into* town, then talk to
+a man on the docks and, for 100 Gil, he'll let you ride back to Junon. Leave
+town and you'll see you still have the buggy. Drive it across a lake to the 
+northwest of town and talk to the man inside and he'll tell you how many 
+times you fought. (Sometimes he'll give you other trivial facts, like how
+many times you've run from battles, and clues about Huge Materia. If this 
+happens, just keep leaving and re-entering until he tells you how many times
+you've fought.) If the last 2 digits of that number match up (ex. 255, 466, 
+etc.), he might give you a key item called "Mythril" (if he gives you a Bolt
+Ring or something else, just try again 'til he gives you Mythril). With this
+item in your possession, pay a visit to the man who lives in the house to 
+the north of Gongaga town. Sometimes, however, he isn't home. If this is the
+case, just leave and progress a little further in the game. I think you may
+need to have the Tiny Bronco first, but anyway... When you finally meet up
+with him, he'll offer you one of 2 boxes. The big one by the bed only has a 
+Gold Armlet in it; since you can buy these in stores anyway, this is 
+pointless. What you *want*, is the little box upstairs, which holds Aeris' 
+LV 4 Limit, Great Gospel!
+
+Cosmo Memory - Red XIII
+Found after defeating Lost Number in the Shinra Mansion after opening 
+the safe. (See above for instructions on opening the safe.)
+
+All Creation - Yuffie
+Won after Defeating Godo at the top of the Wutai pagoda.
+
+Chaos - Vincent
+Found in Lucrecia's Waterfall (Disc 2 or 3).
+(See above for how to find this and the Death Penalty.)
+
+Highwind - Cid 
+This is found in a treasure chest in the cargo room of the crashed Gelnika 
+Airplane.
+
+<None> - Cait Sith
+Cait doesn't have a fourth limit break, or even a third one for that matter.
+
+----------------------------------------------------------------------------
+ 4. Enemy Skills
+----------------------------------------------------------------------------
+Enemy skills are generally very useful spells, but getting them can 
+sometimes be a pain... The general idea is to equip an Enemy Skill materia 
+on someone, and have an enemy use one of the spells on that character. This 
+sometimes requires you to use the "Manipulate" command on an enemy. Anyway,
+here's where you can get them all, and what they do.
+
+Name: Frog Song               MP Cost: 5
+Learned From: "Touch Me" (Little greenish-brown Frog) in the Gongaga Area.
+Learned From: "Poison Frog" (Little brown Frog) in the Ancient Temple.
+Effect: Uses [Sleepel & Frog] on one enemy.
+Comments: This isn't that good of an enemy skill, since quite a few enemies
+          are immune to status ailments. Still, if it hits, the enemy is in
+          trouble. ;)
+
+Name: L4 Suicide              MP Cost: 10
+Learned From: "Mu" (Little burrowing squirrel) Near Chocobo Ranch.
+Learned From: "Trick Play" (Also a little squirrel) Outside of Bone Village.
+Effect: Uses [Mini & Critical] on enemies with a level that is a multiple 
+        of 4 (4, 8, 12, etc.).
+Comments: Odds of this spell hitting are 1 in 4. Not the best odds, but you
+          may be surprised who this works on... It's also necessary for 
+          getting Chocobuckle. IMO, though, L4 Suicide is *better* than the
+          aformentioned skill...
+
+Name: Magic Hammer            MP Cost: 3
+Learned From: "Razor Weed" (Little tuft of grass) in the Wutai Area.
+Effect: Drains 100 MP from the enemy and you gain it. 
+Comments: This is a really great skill, especially later in the game when 
+          enemies have lots of MP. Since most spells don't cost more than 
+          100 MP, you can easily use this to restore your MP and don't want
+          to waste Ethers. Get this as soon as you can!
+
+Name: White Wind              MP Cost: 34
+Learned From: "Zemzelett" (Green and white owl-like monster) outside Junon.*
+Learned From: "Wind Wing" (Little flying dragon in the Whirlwind maze). You
+              can manipulate them, but White Wind isn't on their list of
+              spells. If you confuse them, however, they sometimes cast it.
+Effect: Cures team; how much HP is restored = the current number of HP the 
+        user has (ex. 9000HP = 9000HP restored); also restores status.
+Comments: Another great skill. Make sure the caster has high HP, though.
+
+Name: Big Guard               MP Cost: 56
+Learned From: "Beach Plug" (Blueish-black leech) on the beaches outside of 
+              Costa Del Sol.*
+Effect: Casts [Barrier, MBarrier & Haste] on all members.
+Comments: Yet another great skill. Barrier, MBarrier, and Haste, all at 
+          once? You tell me. ;) It's only downside is it's high casting 
+          cost.  
+
+Name: Angel Whisper           MP Cost: 50
+Learned From: "Pollensalta" (That magic using woman) in the North Cave; when
+              the path splits, Go right to find her.*
+Effect: Restores full HP, revives dead and cures any status ailments.
+Comments: I had high hopes for this spell... Too bad it's not nearly as good
+          as it's made out to be. Sure it restores full HP, but it only 
+          cures one ally, and has a high casting cost. White Wind is usually
+          better, since it's cheaper MP wise, and can restore more HP and
+          affects the whole team.
+
+Name: Dragon Force            MP Cost: 19
+Learned From: "Dark Dragon" (Black dragon) in the North Cave.*
+Effect: Increases defense and magic defense. (I'm not quite sure how this 
+        works...)
+Comments: I'm really not sure about this skill. It's supposed to raise both
+          defense and magic defense, but I, personally, never noticed any
+          difference.
+
+Name: Death Force             MP Cost: 3
+Learned From: "Adamantaimai" (Giant Turtle) on any beach near Wutai.* 
+Effect: Protects one member from instant death attacks.
+Comments: Since this stops instant death attacks, it's great when used 
+          against enemies who use lots of those spells. Too bad very few 
+          enemies do... Still, it's useful if you want to learn Roulette.
+
+Name: Flame Thrower           MP Cost: 10
+Learned From: "Ark Dragon" (Little flying dragon) in the Mythril Mine.
+Learned From: "Dragon" (Green dragon) in Mt. Nibel.
+Effect: A basic fire attack on one enemy.
+Comments: Just your average attack. Don't lose sleep if you miss this one.
+
+Name: Laser                   MP Cost: 16
+Learned From: "Death Claw" (Monster with a lot of claws) in Corel Prison. 
+              (Disc 1 only)
+Learned From: "Dark Dragon" (Black dragon) in the North Cave.
+Effect: Cuts enemy's HP in half.
+Comments: Ahh yes, Laser. This is one of my favorite Enemy Skills. It has
+          the same effect as Demi2, but has a much higher hit rate and costs
+          less MP. This even works on certain bosses! Don't miss learning it
+          from the Death Claws, either, as if you do, you won't have another
+          chance at it until Disc 3.
+
+Name: Matra Magic             MP Cost: 8
+Learned From: "Custom Sweeper" (Magitek-like robots) outside of Midgar.
+Learned From: "Death Machine" (Looks like Custom Sweeper) In upper Junon.
+Learned From: "Bull Motor" (Purple robot) in Corel Prison (Disc 1 only).
+Effect: Non-Elemental damage to all enemies.
+Comments: This spell works wonders early in the game for wiping out large
+          groups of enemies. Later on, however, it's usefulness diminishes,
+          as it does relatively low damage...
+
+Name: Bad Breath              MP Cost: 58
+Learned From: "Malboro" (Big mouthed plant) on Gaea's Cliff (Disc 2 Only) or
+              in the North Cave; go right when the path splits.
+Effect: Casts [Mini, Frog, Confu, Silence, Sleepel and Poison] on all 
+        enemies.
+Comments: Not as useful as it sounds, really. It causes lots of status
+          ailments, but doesn't work that often... Still, when it does, the
+          enemies are basically screwed. ;)
+
+Name: Beta                    MP Cost: 35
+Learned From: "Midgar Zolom" (Giant shadow snake) in the marsh near the 
+              Chocobo Ranch.
+Effect: Fire damage on all enemies.
+Comments: A pretty good spell. You'll be using this quite a bit come Disc 2.
+
+Name: Aqualung                MP Cost: 34
+Learned From: "Harpy" (Three-headed monster) in the Corel Desert.
+Learned From: "Jenova-Life" (The boss at the end of Disc 1).
+Learned From: "Serpent" (Leviathan-like monster) in the Crashed Gelnika
+              Plane.
+Effect: Water damage on all enemies
+Comments: This is basically a water version of Beta. Does about the same
+          damage, but may be more useful, actually, as it's one of the few
+          ways to inflict water damage.
+
+Name: Trine                   MP Cost: 20
+Learned From: "Materia Keeper" (Spider-like boss) on Mt. Nibel.
+Learned From: "Godo" (Fifth enemy in the pagoda).
+Learned From: "Stilva" (Red spider-like enemy) in cave at Gaea's Cliff (Disc
+              2 only).
+Effect: Lightning damage on all enemies.
+Comments: A Lightning version of Beta and Aqualung. Well, it's a bit weaker,
+          but also costs considerably less MP. Just a reminder, though...
+          You *must* learn Trine from one of these three enemies while you
+          have the chance, as no enemies on Disc 3 can use it.
+
+Name: Magic Breath            MP Cost: 75
+Learned From: "Stilva" (See above).
+Learned From: "Parasite" (Purple leech) in the North Cave.
+Effect: Fire-Ice-Lightning damage to all enemies.
+Comments: Blah. That's all I have to say about this one. If an enemy is 
+          resistant to even *one* of this spell's elements, it'll be useless
+          against them. Not to mention that murderous casting cost... ^_^
+
+Name: ????                    MP Cost: 3
+Learned From: "Jersey" (Scale like monster) in Shinra Mansion at Nibelheim.
+Learned From: "Behemoth" (Purple monster) in The Underground of Sector 8 
+              (Disc 2 only).
+Learned From: "King Behemoth" (Orange behemoth) in the North Cave; go left
+              when the path splits.
+Effect: Does damage equal to the number of HP you lost.
+Comments: This spell is useful if you: 1) Have lots of HP, and 2) Get hurt a
+          lot. The maximum damage this spell can do up to 9998 damage. Not
+          so great considering the other spells in the game, but for only 3
+          MP, it's not half bad. It also ignores defense, making it quite 
+          useful in the arena.
+
+
+Name: Goblin Punch            MP Cost: 0
+Learned From: "Goblin" (Little critters wearing boxing gloves) on Goblin 
+              island.
+Effect: Just a basic attack (but it doesn't cost any MP).
+Comments: I didn't expect a whole lot of this spell. It's not as useless as
+          it's made out to be, though, since it costs 0 MP and ignores
+          defense...
+
+Name: Chocobuckle             MP Cost: 3
+Learned From: "Chocobo" (One near the Chocobo Ranch or Mideel).
+How to learn...
+Step 1: Buy 3 Mimmet Greens at the Chocobo Ranch.
+Step 2: Find a level 16 chocobo. (Use 'Sense' to see it's level.) 
+Step 3: Feed the Chocobo all 3 Mimmet Greens. (You may not have to do this.)
+Step 4: Cast L4 Suicide on it and It SHOULD counter with Chocobuckle.
+Effect: Does damage equal to the number of times you run. (Ex. Run 50 times 
+        = 50 damage)
+Comments: If this spell worked the same way in the American Version as it 
+          did in the Japanese version (current level * times you run = 
+          damage), it would rule! Unfortunatly, it doesn't... If you want 
+          this spell to have any sort of effect, you'll have to run from a
+          few thousand battles. Don't waste your time with this one unless
+          you have a *lot* of time on your hands...
+
+Name: L5 Death                MP Cost: 22
+Learned From: "Parasite" (See above) (Manipulate It)
+Effect: Kills any enemy with a level that is a multiple of 5 (EX. 5, 10, 15,
+        etc.)
+Comments: 1 in 5 odds. Not good. And since you get this spell so late, it's 
+          next to useless.
+ 
+Name: Death Sentence          MP Cost: 10
+Learned From: "GI Spector" (Blue ghost with long hair) in the Cave of the 
+              GI. (Disc 1 only)
+Learned From: "Sneaky Step" (Red four legged, spiked demon) also in the Cave
+              of the GI. (Disc 1 only)
+Learned From: "BoundFat" (Fat little yellow monsters) in Corral Valley.
+Effect: Begins a countdown to doom...
+Comments: Instant death spells have never been my cup of tea, really. Death
+          Sentence isn't bad, though. It has a higher hit-rate than death,
+          but it's usually just easier to kill the enemy normally than to 
+          wait for the timer to run out...
+
+Name: Roulette                MP Cost: 6
+Learned From: "Death Dealer" (Floating card jester) in the North Cave; go 
+              right when the path Splits.
+Effect: Randomly kills one enemy or team member.
+Comments: Well, if you're a gambler, you might enjoy this one, but 
+          otherwise, don't waste time casting this spell.
+
+Name: Shadow Flare            MP Cost: 100
+Learned From: "Ultimate Weapon" (He uses it just before he dies).
+Learned From: "Dragon Zombie" (Big skeletal dragon) in the North Cave; go 
+              right when the path splits.
+Learned From: "Ruby Weapon" (Waste of time trying, though)
+Learned From: "Safer Sephiroth" (Again, waste of time trying)
+Effect: Dark-elemental damage on one enemy.
+Comments: A pretty decent attack spell. It usually does 9999 damage, but by
+          the time you get it, so do many other spells... And with a cost of
+          100 MP, you won't be going crazy using this one...
+
+Name: Pandora's Box           MP Cost: 110
+Learned From: "Dragon Zombie" (See above).
+Effect: Non-elemental damage on all enemies.
+Comments: This is like a mass version of Shadow Flare. It does similar 
+          damage, and for only 10 MP more, affects all enemies. Use this one
+          instead. Just be careful, The Dragon Zombie only seems to use 
+          this spell once per game, so learn it while you can.
+
+And thats it, all 24 enemy skills. A few notes, though...
+
+Any skills labeled with a * require that you manipulate that enemy and force
+them to cast that particular spell. After all, enemies aren't exactly going
+to *willingly* heal you. :P
+
+And then there're a few of my own tricks.
+
+- Learning Beta -
+
+Actually, with the right tricks, you don't *need* to wait until Disc 2 to
+get this enemy skill. As long as you're on about level 20, and have at least
+one character with over 700 HP, you can get this skill...but it's difficult.
+
+You're gonna need one character with high HP (Cloud, Barret, Red XIII, Cid)
+to give the Enemy Skill materia to, and make sure they're equipped with a 
+Fire materia, and an Elemental materia in their armor as well. Also give 
+this character a Restore materia, and it's optional, but you can also give 
+him a Sense materia, to make the next few steps easier. Put any two other 
+characters in the team, and give them Fire/Ice/Lightning materia that is at
+least level 2. A Poison materia also helps here.
+
+Anyway, now start the battle against the Midgar Zolom. First of all, don't
+have the person with the Enemy Skill materia attack. He should be your 
+healer, as the Zolom's attacks do 400+ damage. Anyway, start out by having
+the character with the poison materia use Bio on Midgar Zolom. This should
+poison it, draining his HP even more. Afterwards, just keep blasting the
+snake with Fire2/Ice2/Bolt2, until he rears up. After this, he'll swat the
+next character to attack him out of the battle, which is why you don't want
+the character with the Enemy Skill materia to attack him. Now make sure the
+person with the Enemy Skill materia is healed to full, and have the other
+member attack the Zolom a few more times. He'll eventually counter with 
+Beta. This will do about 600 damage to the person protected by the 
+Fire+Elemental materia in his armor, and will most likely kill the other 
+member outright. You will, however, learn Beta. Immediatly use it right back
+on the snake, and if it's HP is 1200 or lower, you'll kill it instantly, and
+thus, get to keep Beta. If Beta doesn't kill him, however, he will 
+counterattack and kill you. If this happens, just reset and try again.
+
+- Shadow Flare -
+
+Since Ultimate Weapon only dies once (well, of course. ;), and Zombie 
+Dragons cast this spell so infrequently, it's difficult to get Shadow Flare
+on more than one materia... A simple trick, however, will allow you to get 
+it on all four Enemy Skill materias at once. Simply equip all four materia 
+on one member, and have him/her strike the final blow on Ultimate Weapon. 
+It'll cast Shadow Flare on it's killer, and he/she will learn it. Upon 
+closer examination after battle, you'll see that it's actually on all four 
+materia.
+
+- Roulette -
+
+Roulette is an annoying spell to learn, given that there's a good chance
+that the Death Dealers will kill *themselves* when casting it... A simple
+but effective method for learning this spell, however, is to cast Death 
+Force on everyone (team members and Death Dealers alike). This way, Roulette
+won't kill the target, and you'll be able to try again to learn it as long
+as you want.
+
+----------------------------------------------------------------------------
+ 5. Increases
+----------------------------------------------------------------------------
+
+As in most RPGs, building up levels is a big part of FF7... Here're a few 
+choice area.
+
+Build Up Areas:
+
+Disc 1:
+After getting the buggy, return to Junon and go to the room below the 
+elevator that Rufus used earlier and hit The red alarm box on the wall, 
+monsters will appear in the room. These enemies range in anywhere from 
+900-1500 Exp, 2000-5000 Gil and 100-300 AP, but can be quite tough for this
+early stage in the game.
+
+Disc 2: 
+The crashed Gelnika makes a great level up area -- a single battle can earn 
+up to 8000 Exp, 500 AP and a LOT of Gil. (Beware, most of these enemies are 
+tougher than the ones in the final dungeon!)
+
+Disc 3: 
+In Sephiroth's cave (i.e. the North Cave) when the path splits, go left, 
+then up. You'll be in a marshy area, there you can fight Magic Pots (8000 
+Exp, 1000 AP and over 20000 Gil a piece) and Movers (0 Exp, but 800 AP and 
+about 50000 Gil and they ALWAYS show up in groups of three.) Note: You MUST 
+use an Elixir or Angel Whisper (!) on a Magic Pot or you won't be able to 
+harm it... This is not a problem, however, if you know about the item 
+duplication trick. (See below)
+
+If you're looking to build limits, however, here's the deal. 
+
+To get a new limit in the same level, use the original limit about 8 times.
+For the level 3 limit break, you usually only have to use it about 6 times.
+To build up these limits quickly, there are three options:
+
+1) Fight enemies that do lots of damage. Good examples of this are the Death
+Claw enemies at Corel Prison (with their Laser spell), the Dragons on Mt. 
+Nibel (their fang and Flame Thrower attacks are *strong*!), and the Valrons
+in the Nibelheim area. (Their Dive Kick attack does upward of 600 damage.)
+2) Have Aeris use her second level 2 limit break "Fury Brand". This fills up
+the other two characters' limit break gauges instantly.
+3) A combination of both 1 and 2. :P
+
+Well, now that that's out of the way... To gain a limit level, have the 
+character whose limit level you want increased kill anywhere from 60-100 
+enemies. This can be done rather easily by fighting in places where large 
+groups of weak enemies show up. The forests at Junon tens to have groups of
+five easily killed "Capparwires", Mt. Corel has groups of five "Search 
+Crowns", and the forests in the Rocket Town area have groups of six "Battery
+Caps". It would probably be in your best interests here to use an 
+inexpensive spell that attacks all enemies. (Matra Magic and Trine are 
+useful for this purpose.)
+
+----------------------------------------------------------------------------
+ 6. Hard to find items
+----------------------------------------------------------------------------
+Though they're not exactly for the best items available, there are many hard
+to find weapons, items, and materia in FF7. This list covers some of the 
+more elusive ones.
+
+---Yoshiyuki---
+
+When you first visit Rocket Town, talk to an old man standing just 
+outside a house below the rocket, keep talking to him and eventually, 
+he'll give you the Yoshiyuki, a weapon for Cloud that's not that great.
+
+---Umbrella---
+(Regardless of what that crappy book calls it, this weapon is REALLY called 
+ the Umbrella, *not* the Parasol. (I hate those books... ^_^))
+
+Not a very good weapon, but It's hard to find, so...
+Go to the Gold Saucer, play the shooting coaster game, and score over 5000 
+points. A task that's easier said than done, even for the best players. A
+turbo controller helps, though. ;)
+
+Note: You can only get the Umbrella in disc 1; you won't need it in Disc 2,
+      so...
+
+---Flayer---
+
+To get this weapon for Cid, just do the same thing you did to get the 
+Umbrella: Get 5000 or more points in the Gold Saucer's Speed Square. 
+However, you must do it in disc 2 or 3.
+
+Note: The Flayer is actually a few points stronger than the Venus Gospel, 
+Cid's ultimate weapon, attack power-wise. It doesn't have any special 
+properties, though, so the Venus Gospel is probably better.
+
+---Mega All Materia---
+
+A very useful materia. It can only be found in the North Cave (disc 3) 
+when the main path splits; go left then down to find this. It is hanging 
+over a ledge with a waterfall behind it and you have to grab it while 
+jumping (just keep pushing O while jumping).
+
+---W-Magic Materia---
+
+Also found in the North Cave, except go left and up to find it. Keep 
+going until you reach a room with a white pit and a forest. There's a 
+little yellowish stone near the edge of the trees. Take it, it's W-
+Magic. Also before leaving, go to the pit and look for a spot that is 
+slightly darker and push O, you'll get Counter materia.
+
+---Final Attack Materia---
+
+Another very commonly asked question.
+This Materia can only be obtained in Disc 2 or 3 at the Gold Saucer Battle 
+Square. After buying Omnislash and W-Summon, you'll be offered a chance at a
+special battle that contains tougher monsters than the normal battle 
+(including Proud Clod...Yikes!). If you manage to win the special battle, 
+you'll get Final Attack materia as your prize, but only the first time. 
+Every other time you win, you'll get crap like Dio's Diary and Gambler, 
+which all have no use.
+
+---Contain Materia---
+
+You can get this materia in Mideel, just talk to the little white chocobo 
+and give it a Mimmet green. (Note that the game says you're giving it a 
+"Samolen" green, that's just another of many cases of FF7's bad 
+translation.) When the lead character asks where he/she should tickle the 
+chocobo, choose "behind his ear" and you will get Contain Materia. 
+
+---Curse Ring---
+
+You can also get this item in Mideel, but only before it gets destroyed.
+Check the back door of the weapon shop to discover it's locked, then go 
+to the house at the end of the bridge near the entrance to town and walk 
+around to the right side of it. If you're in the right spot, you should hear
+a faint click. Push O when you hear it to get an old beat up key. Return to 
+the weapon shop and try to open the door with that key, and when the 
+shopkeeper asks what's going on, just tell him the truth and he will give 
+you the Curse Ring.
+
+---FullCure Materia---
+
+This can be found in Cosmo Canyon (disc 2 or 3), if you were at the item 
+shop earlier in the game, you may have noticed a door behind the 
+counter, but couldn't get there because a rope was blocking you. In disc 2 
+and 3, however, that rope will be gone and you can get to the back room.
+Check the green stone on the table to get FullCure, and check the bag on 
+the floor to get a Magic Source and an Elixir.
+
+---Guide Book and Underwater Materia---
+
+These rare and unusual items are linked together, so I'll cover them 
+both at the same time.
+
+The Guide Book: This can be found in the passage leading to the undersea 
+mako reactor at Junon (the underwater passage). Keep fighting until you 
+meet an enemy called a Ghost Ship, you can Morph it into a Guide Book. To 
+make this task easier, just use L4 Suicide. It'll drop the ship down to 
+single digit HP, making it easy to morph.
+
+Underwater Materia: Once you have the Guide Book, return to Kalm town 
+and give it to the "traveler" in exchange, he'll give you the Underwater 
+Materia which eliminates the twenty minute timer when fighting Emerald 
+Weapon. Not necessary, but nice.
+
+---W-Item---
+
+I'm really not sure exactly why, but this materia gets missed very often 
+also. During the raid in Midgar near the end of Disc 2, Proceed as normal
+until you get to the brown train tunnel, then, instead of going up to the
+Sister Ray, head down, you'll keep passing repeating screens, and 
+occasionally, you'll find treasure chests. (They all contain various 
+"source" items.) Keep going down and you will meet Red XIII, ignore his
+warning and continue going down. Eventually, you'll come to a dead end path 
+with a save point and a yellow materia. This materia is, of course, W-Item.
+Note that you cant go back any further...I'll bet this path would lead to 
+the train tunnel blocked by laser beams at the beginning of the game...
+(If you think going all the way down here to get W-Item is a waste of 
+time, see the item duplication trick for a motivating reason to get 
+it.)
+
+---Added Cut Materia---
+
+For some reason, I forgot to include this useful materia, which is easily 
+the toughest one to find. To start off with, I'm NOT talking about the 
+Double Cut Materia, this is a totally different materia altogether. It's a 
+blue materia that allows you to use a physical attack after using whatever 
+it's linked to. Added Cut is well hidden in the eastern side of the Great 
+Glacier, but it's said location is hard to get to. There is a screen with 
+four paths leading off the screen, one leads up, one leads down, and two 
+paths lead to the left. The screen looks something like this:
+
+   | ^|             I know this is a crude map, but it's the best I can do
+   | ||             on Wordpad. Anyway, take the uppermost path and you
+---    ---          should end up on one of those connection paths. Look
+<-       |          closely on the ground and you should be able to spot a 
+---      |          small blue materia lying on the ground. Since it is a 
+<-       |          blue materia on blue and white ground, it is VERY easy 
+---    ---          to miss. Ok, to make this more simple, just take the 
+   || |             extreme lower path on the screen with the hot springs.
+   |V |
+
+----------------------------------------------------------------------------
+ 7. Town Secrets
+----------------------------------------------------------------------------
+
+A whole lot of the towns in FF7 have cool little secrets. Here're some of 
+the more overlooked ones.
+
+--- Midgar: Sector 5 Slums ---
+
+- Main Secrets -
+
+Turbo Ether: 
+Yeah, even in this early stage of the game, you can claim a free Turbo 
+Ether. In the house with the sleeping kid and the first Turtle's Paradise 
+flyer, examine the small dresser near the door, and choose to search "the 
+secret compartment between the drawers". You'll find a mere 5 Gil here, and 
+will be asked whether to take it, or leave it. Your first instinct might be 
+to just take it, but you'll discover that honesty pays off later on. After 
+Sector 7 gets destroyed, return and talk to the kid. If you didn't take his 
+money, he'll give you a free Turbo Ether.
+
+Phoenix Down and Potion:
+When at Aeris's house, examine the shelf just outside the bedroom where you
+can rest to claim these two little items.
+
+- Other Stuff -
+
+The 'Fridge:
+In the materia shop, you can annoy the shopkeeper by trying to open his 
+refridgerator. You can never ultimately open it, but it's kinda fun to piss 
+him off. :P
+
+--- Midgar: Wall Market ---
+
+- Main Secrets -
+
+Phoenix Down:
+If you weren't picked by Corneo to be his...date for the evening, you'll be
+able to pick this up easily from the room he throws you in. Otherwise, 
+you'll have to wait until Sector 7 gets destroyed to grab this. Go inside 
+Corneo's house, and enter the upper right door. On the right side of the 
+room is a bag containing this.
+
+Hyper:
+Kinda hard to find if you're not looking for it. In Corneo's bedroom, search
+behind his bed to find this.
+
+- Other Stuff -
+
+Free Kotch:
+After Sector 7 gets destroyed, return to Corneo's mansion. Enter the torture
+chamber where you met Tifa earlier, and you'll find Kotch trapped in the 
+rack. Talk to him and he'll ask you to free him. Do so and he'll thank you
+and run off. You don't get anything either way, though.
+
+--- Kalm Town ---
+
+- Main Secrets -
+
+Ether:
+Look in the door below the stairs in the "traveler's" house.
+
+Ether:
+Look in a closet on the right-hand wall in the house closest to the inn.
+
+Ether:
+Go upstars in the house closest to the stairs leading to the shops, and open
+the cabinet that is next to the locked trunk.
+
+Guard Source:
+In the middle building, go up the straight staircase and open the dresser 
+next to the girl there.
+
+Peacemaker:
+In the same building where you got the Guard Source, climb the spiral 
+staircase and open the treasure chest there to get it.
+
+Megalixir:
+Go upstairs in the inn and then go around the stairs and search the shelf 
+about 5 times.
+
+- Other secrets -
+
+The Window:
+In the room where you got the Peacemaker, you can look out a window, just 
+face the bright light in the wall.
+
+The Dog:
+In the room downstairs from where you found the Ether and the locked chest, 
+you can open a closet and release a dog. Talk to the pooch and he'll run 
+away. :)
+
+--- Upper Junon ---
+
+- Main Secrets -
+
+Toys:
+Well, I'm sure you've probably already grabbed the various bottles scattered
+around the shops, but did you know that you could also take those little
+soldier dolls? There're two of them. One in the soldier's barracks in the
+first part of town, and one on the third floor of the inn. They're just 1/35
+Soldiers, though.
+
+- Other Stuff -
+
+Trashcan:
+In one of the rooms in the second section of town, you'll find a lazy
+soldier laying on a bench. In the same room, there's also a silver trashcan.
+If you examine it, you'll get the same message as you would if you talked
+to the soldier. Just a bug... ^_^
+
+The Alarm Box:
+In the tunnel between the two parts of the city, there's a red alarm box. 
+If you flip this during Disc 1, you'll activate an alarm, and will be 
+randomly attacked in this hall by strong monsters. If you defeat the 
+monsters, however, you'll be well rewarded. They give quite a bit of exp., 
+Gil, and AP for this point in the game!
+
+--- Costa Del Sol ---
+
+- Main Secrets -
+
+Free Items:
+In the room just across the bridge, climb down the stairs and grab a Fire 
+Ring, Motor Drive, and a Power Source (?) from the bags and such in the 
+room.
+
+- Other Stuff -
+
+President Shinra's Villa:
+Why stop at just picking up the items downstairs!? If you're rich enough,
+you may as well just buy the entire house! Go upstairs, and talk to the guy
+laying on the bed several times. After pestering him enough, he'll get up
+and offer to sell you the house. His price? A steal, at only 300,000 Gil...
+As I said, unless you're really rolling in money, don't buy the place. If
+you *do* buy it, however, the house acts as a free inn. Still, hardly worth
+the price... ^_^
+
+--- North Corel ---
+North Corel is a boring place. The main secrets here are actually found in
+the mountains behind the city.
+
+- Main Secrets -
+
+Phoenix Downs:
+On the cliff just outside of the small room with the switch that lowers the
+bridge, you may hear some faint chirping. If you climb up the cliffside, 
+you'll find a hidden nest with some baby birds in it, as well as a 'secret
+treasure'. If you choose to take the treasure, you'll have to fight a 
+Cockatrice (Cocatolis...ugh), and you'll get ten Phoenix Downs as a reward.
+If you choose not to take the treasure, and have Tifa and/or Aeris with you,
+they'll like you for it. (Which only affects the date scene... Incidentally,
+I'd rather have the 10 Phoenix Downs. ;)
+
+Secret Items:
+On the southernmost section of the mountain with the railroad tracks on it,
+(not the rope bridge, but the screen above it), there is a little cave not
+indicated by an arrow. If you walk to the peninsula where the tracks end at
+the water, and turn right and walk behind the cliff, you'll find it. Inside,
+you'll find a tent, and a few 'source' items.
+
+- Other Stuff -
+
+The Sign:
+Umm... Well, this isn't much to go on, but the only real thing to point out
+in the town itself is that the sign on the far west side of town that says
+"Gold Saucer" wasn't there in the Japanese version of FF7. Umm...ok... ^_^
+
+--- Gold Saucer ---
+
+- Main Secrets -
+
+Buying GP:
+This is the only secret here. Every so often in the entrance hall of the
+Gold Saucer, there is a man hidden in the shadows behind the gondola 
+station. He's really hard to spot, so keep an eye out for him. If he *does*
+show up, he'll offer to sell you 1 GP for 100 Gil. You can buy up to 100 GP
+from him each time he appears.
+
+Sprint Shoes:
+Outside of Battle Square is a woman who ays she likes fighters, but hates 
+those who're all talk. Impress her by entering the battle at the arena once
+(anytime after the Corel Prison area, and the battle that Dio makes you 
+fight doesn't count) and win, then talk to her again. She'll be so impressed
+by your victory, that she'll reward you with a pair of Sprint Shoes! It's
+probably common knowledge, but these footwear put the wearer in automatic
+haste. Very useful throughout the entire game, so get this as soon as 
+possible.
+
+Prize Package:
+While Chocobo Racing is about winning prizes in general, there is a secret
+collective of prizes in the S Rank, for those who're good and persistant
+enough. After making it to S Rank, just win between 10-15 races. (You can 
+lose a few, but try to win more than you lose.) This is tough unless you're
+using a Black or Gold Chocobo, as you usually race against Teioh, who is
+incredibly fast and strong... After winning enough races, Ester will 
+eventually reward you with a bunch of prizes: A Chocobracelet, A Precious
+Watch (both armor, and relatively lame armor, at that), a Cat's Bell, a pair
+of Sprint Shoes, and a Counter Attack materia.
+
+--- Gongaga ---
+--- Cosmo Canyon ---
+--- Nibelheim ---
+--- Rocket Town ---
+--- Wutai ---
+--- Mideel ---
+
+(Coming soon.)
+
+----------------------------------------------------------------------------
+ 8. Rare items from battle
+----------------------------------------------------------------------------
+
+---Stealing---
+It's probably common knowledge by now, but stealing can get you some 
+rare and valuable items if you steal from the right monsters. Here is a 
+short list telling what some of the rare items you can steal are:
+
+SOLDIER 3rd      - Hardedge            
+Bagnadrana       - Diamond Pin
+Eligor           - Striking Staff
+Harpy            - Striking Staff
+Moth Slasher     - Carbon Bangle
+Madouge          - Grand Glove
+Custom Sweeper   - Atomic Scissors
+Formula          - Boomerang
+Death Claw       - Platinum Bangle
+Dragon           - Gold Armlet
+Adamantaimai     - Adaman Bangle
+Marine           - Shinra Beta
+Gigas            - Gigas Armlet
+Dark Dragon      - Dragon Armlet
+Epilonis         - Wizard Bracelet
+Acrophies        - Water Ring
+Serpent          - Water Ring
+Snow             - Circlet
+Underwater MP    - Shinra Alpha
+SOLDIER 1st      - Shinra Alpha
+Unknown          - Fire Armlet
+Unknown 2        - Aurora Armlet
+Unknown 3        - Bolt Armlet
+Reno (Disc 2)    - Touph Ring 
+Rude (Disc 2)    - Ziedrich 
+Elena            - Minerva Band
+Diamond Weapon   - Rising Sun
+Schizo           - Protect Ring
+Eagle Gun        - Warrior Bangle
+Ultimate Weapon* - Curse Ring
+Ultimate Weapon  - Circlet
+Ultimate Weapon  - Reflect Ring
+
+*There are four different 'versions' of Ultimate Weapon. You can steal a 
+Curse Ring from him when you fight him at Mideel. When you fight him in the
+watery crater outside Junon, you can steal a Circlet from him (but you need
+a Long Range materia equipped to do so), and in any 'land' battles with him
+(over Mideel, the Northern Crater, Gongaga, Midgar, etc), you can steal a
+Reflect Ring from him. In the last battle against him over Cosmo Canyon, he
+doesn't have anything to steal.
+
+There are MANY more, just keep trying to steal from everything, who 
+knows what you can find...
+
+---Morphing---
+In addition to steal, some enemies can also be morphed into good items:
+
+Cactuer          - Tetra Elemental
+Ho-Chu*          - Ribbon
+Master Tonberry  - Ribbon
+Iron Man*        - Escort Guard
+Mover            - Protect Ring
+
+*These enemies only show up in the battling arena. 
+
+Once again, there are MANY more.
+
+----------------------------------------------------------------------------
+ 9. The Secret Characters
+----------------------------------------------------------------------------
+Another very commonly asked question, here's how to get Vincent and Yuffie.
+
+---Getting Yuffie---
+
+Step 1: Fight in any forest and Yuffie will eventually appear (in a 
+random battle -- she'll be called "Mystery Ninja"). Defeat her and answer 
+her questions as follows:
+
+First of all DON'T use the save point, or Yuffie will leave.
+
+Yuffie: You spikey-headed jerk! One more time, let's go one more time!
+Response: Not interested.
+
+Yuffie: You're pretty scared of me, huh?
+Response: ......Petrified!
+
+Yuffie: I'm really gonna leave! REALLY!
+Response: Wait a second!
+
+Yuffie: You want me to go with you?
+Response: ...That's right.
+
+Yuffie: Alright! I'll go with you!
+Response: Let's hurry on....
+
+After this Yuffie will join your team, but she has a plan...
+
+Note: If you give the wrong answer, or try to use the save point, Yuffie 
+will run away and steal some Gil.
+
+---Getting Vincent---
+
+Finding Vincent is easier than finding Yuffie. Here's how to do it:
+
+Step 1: First open the safe in Shinra Mansion (see below for code) and 
+defeat Lost Number.
+
+Step 2: After defeating Lost Number (easy kill), check the safe to get 
+the key item "Basement Key". (And don't miss the easily accessed Odin 
+Materia nearby either.) 
+
+Step 3: open the secret door Cloud used in the flashback and enter the 
+basement cave, once inside, open the Wooden door using the key.
+
+Step 4: "Talk" to the coffin in the middle of the room; Vincent will 
+awake and ask to talk for a while:
+
+Vincent: What do you want? (This isn't exactly what he says.)
+Response: Talk about Sephiroth.
+
+They'll talk for a while, then Vincent will go back to sleep.
+
+Step 5: Press O again and Vincent will reappear.
+
+Vincent: What is it this time?
+Response: Who are you?
+
+Vincent will explain a bit about himself, then you'll get to name him. He 
+will go back to sleep. Just continue on to the meeting with Sephiroth at the
+end of the basement. When you start to leave, Vincent will appear and offer 
+to join the party.
+
+----------------------------------------------------------------------------
+ 10. Chocobo Breeding Guide
+----------------------------------------------------------------------------
+"How do I get a gold chocobo???"
+
+I've heard this question too many times to ignore it, so here, in full 
+is how to get EVERY chocobo. (Except a white chocobo; don't believe 
+everything you read... you can't get one ^_^.) You can't start the breeding
+process until Cloud rejoins the team in Disc 2.
+
+(This is a long procedure, so I'll do it in steps.)
+
+Step 1: Rent stables from Choco Bill for 10,000 Gil each, you can (and 
+should) rent a maximum of six stables.
+
+Step 2: Next, catch a "good" and a "great" chocobo.
+To catch a "good" chocobo, just fight around near the Corel Desert (on 
+the clawprints with a Chocobo Lure Materia equipped) and catch one, any 
+one will do. To catch a "great" chocobo, fight around Mideel and catch 
+ONLY a chocobo that is with 2 white wolf-like creatures. If you caught a 
+male good chocobo and a female great Chocobo (or vice-versa) you're 
+ready for step 3.
+
+Step 3: Get 3 Carob nuts, you can buy them at the Gold Saucer for 500 GP 
+each (yeah, right. ^_^) or steal them from a red dinosaur-like enemy 
+outside of Bone Village; you need 3 of them.
+
+Step 4: When you have the nuts, return and mate your "good" and "great"
+chocobos with a Carob Nut, if all goes well, you should have a blue or 
+green chocobo.
+(Note: you may get either color, or just another yellow one, if this 
+happens, just reset and try again until you get the one you want. Also,
+don't be discouraged if it takes a long time to get a new color, it took me
+over twenty tried once before I got anything relevant here...)
+
+Step 5: Waste some time here, as it takes about a half hour before Choco 
+Billy lets you mate chocobos again, so bring your new choco to the Gold 
+Saucer and race him up to the "A" class (or "S" class, if you want). (Note:
+Racing chocobos isn't necessary, but it helps to ensure that you get a 
+better breed.)
+
+After Choco Billy lets you mate chocobos again, mate one of the parents 
+with the new colored chocobo and hopefully you'll get the other color 
+(blue or green) that you didn't get before, once again, mate them using a 
+Carob Nut. 
+
+Then go race the other chocobo up to "A" class.
+ 
+After this, release the "good and great" chocobos; you won't need them 
+anymore.
+
+Step 6: Mate The blue and green chocobos using a Carob Nut, (hope they 
+are of the opposite sex) and you'll most likely get a black chocobo. 
+Race blacky up to "A" class too. (Notice a trend here yet?)
+
+Step 7: Go to the area outside of Icicle Inn and catch a "wonderful" 
+chocobo (In the clawprints, of course). You can find wonderful chocobos 
+by catching only ones that are with one or two jumping white rabbits.
+
+If the "wonderful chocobo" is of the opposite sex of the black one, race 
+it up to "A" class then use a Zeio Nut (you can steal these from goblins 
+on a small island north of Mideel) to mate it with the black one.  
+Hopefully, you'll get a Gold Chocobo... It takes a lot of work, but it's 
+well worth it! ;)
+
+Note: When racing a chocobo, be sure to feed each one at LEAST 10 Sylkis 
+greens. You can buy these from the Chocobo Sage, who lives in a secluded 
+cabin in the Icicle Area.
+
+---Choco Billy's chocobo report---
+when you bring a chocobo back to the stables, Choco Billy says one of 7 
+things. Here's what they all mean:
+
+This...Is a wonderful chocobo!           (Wonderful)
+This is a great chocobo!                 (Great)
+Mmm, this seems like a good chocobo.     (Good)
+Mmm, this ones not bad.                  (Average)
+This is a pretty average chocobo.        (Average)
+This one doesn't seem to be very good... (Bad)
+I really can't recommend this one...     (Worst)   
+
+----------------------------------------------------------------------------
+ 11. Other Info
+----------------------------------------------------------------------------
+This is a section for sections that I found too small to get their own
+section.
+
+---Turtle's Paradise Flyers---
+There are 6 Turtle's Paradise flyers located around the world, if you 
+read them all, got to the Turtle's Paradise bar at Wutai to get a prize.
+Here's where they are:
+
+Flyer 1: This one can be found in the Sector 5 town near Aeris' house in
+Midgar, Go into all the houses until you find one that has a staircase 
+leading upstairs to a room with a sleeping kid inside, look on the wall 
+to find the flyer.
+
+Flyer 2: This is on the first floor of the Shinra building, go behind 
+the stairs and read the papers on the bulletin board.
+(Note: you can only get to this during the Midgar raids near the beginning 
+of disc 1 and the end of disc 2.)
+
+Flyer 3: This one is in the ghost hotel at the Gold Saucer, read the 
+paper on the wall next to the item shop entrance to find it.
+
+Flyer 4: This one is in Cosmo Canyon. Read the flyer upstairs in the 
+"Shildra Inn". 
+
+Flyer 5: This flyer can be found on a post by the "Tiger Lily arms shop" 
+in Cosmo Canyon.
+
+Flyer 6: After catching Yuffie and getting your materia back, go 
+downstairs in her house and read the long, thin paper on the wall.
+
+After finding all the flyers, you're still not done yet. Head for the 
+Turtle's Paradise, and be sure to read the sign outside! After reading it
+and all six other flyers, enter to claim one of each of the "source" items, 
+and a Megalixir.
+
+---The Key to Sector 5---
+Probably the most commonly asked question among FF7 players...
+I'm going to reveal the location of this easily missed key item.
+
+Step 1: After Cloud rejoins the team in disc 2, go back to Midgar and a 
+man will be standing outside the town, talk to him to learn about a 
+missing key.
+
+Step 2: Travel to Bone Village and choose to excavate "good treasure"
+then place diggers if you like (but it's not necessary) and have them 
+dig near a small piece of metal sticking out of the wrecked plane near 
+the entrance (it's across from the blocked door). In the morning, check 
+the treasure chest, and you should get the Key to Sector 5. 
+
+With the key in your possession, return to Midgar. Once inside, there's 
+really not to much to do, but if you go into the church where you first met 
+Aeris, you'll catch a quick glimpse of her ghost. (Well, it's a glitch, but
+a cool one.) At the Wall Market, you can get Tifa's best weapon, the Premium
+Heart, from the item shop with the machine that shot at you earlier. Also,
+if go back and talk to the man who sold you the batteries, he'll offer to 
+sell you the Sneak Glove, an accessory which boosts the success rate of the
+"Steal" command, for a 'mere' 129,000 Gil. Besides those few things, 
+however, Midgar's pretty much empty.
+
+---The safe in Nibelheim---
+
+This question gets asked so much, I had to do something about it...
+
+The code is: Right 36 - Left 10 - Right 59 - Right 97
+
+After you open the safe, you'll fight the Lost Number, don't worry, he's 
+not very hard. After the fight, you'll get the following:
+
+Cosmo Memory (On the "items Won" screen after defeating Lost Number)
+Basement Key (In the safe) See below on how this can get Vincent to join 
+you Odin Materia (On the floor next to the safe)
+
+...Now isn't that worth wasting 20 seconds opening the safe? ;P
+
+---Huge Materia in the rocket---
+
+Another commonly asked question, as there's no way of learning the code 
+otherwise
+
+The Code is:
+Code 1 - O
+Code 2 - S
+Code 3 - X
+Code 4 - X
+
+After inputting the code, you'll get the last huge Materia.
+
+---Tifa's Piano---
+
+I'm sure you've probably messed around in Tifa's house, and stumbled across
+a piano upstairs. It's not just there for show, either -- you can actually 
+get some stuff out of it.
+
+Anyway, in Cloud's flashback of Nibelheim, you'll have the option of playing
+Tifa's piano. Tifa will ask if you played it, and a box with three options 
+will come up. 
+
+"I jammed on it!"
+"Just a little..."
+"No, not really."
+
+If you choose "I jammed on it!", you'll be able to play the piano as normal.
+otherwise, choose "Just a little", and Cloud will play the Highwind theme on 
+the piano. Remember this melody.
+
+Later in the game when you arrive at Nibelheim normally, you'll be able to
+play the piano again. Examine it, and Cloud will ask if you want to play it.
+Say 'yes', and a box will come up asking whether you remember, or forgot.
+Basically, saying "I forgot" will bring up a list of the buttons and 
+corrisponding notes (below), while "I remember" doesn't. Choose either one,
+and then play the following notes:
+
+"Do, Re, Mi, Ti, La, Do, Re, Mi, So, Fa, Do, Re, Do"
+
+Err.. for those who aren't musically inclined, or are just lazy, press the
+following buttons instead:
+
+"X, S, T, R1+T, R1+S, X, S, T, R1+X, O, X, S, X"
+
+While nothing usually happens, you'll occationally find Tifa's 'secret
+stash' of 1 Gil. Nothing important really... However, if you return here in 
+Disc 2 with Tifa in your team and play the notes listed above, you'll get 
+her level 4 Limit Break, "Final Heaven", as well as finding out more about 
+what happened in Nibelheim...5 years ago...
+
+(Note: I've also heard that it's possible to get an Elemental Materia while
+playing the piano. I've never gotten one here, however, so I won't make any
+further comments.)
+
+---
+
+In case you were wondering, here's the list of how the notes corrispond to
+the buttons:
+
+Note        Button
+---------------------
+Do          X
+Re          S
+Mi          T
+Fa          O
+So          L1/R1+X
+La          L1/R1+S
+Ti          L1/R1+T
+Do          L1/R1+O
+Do Mi So    Down
+Do Fa La    Left
+La So Ti    Up
+Mi So Do    Right
+---------------------
+
+Oh, one last thing... There's another piano inside Shinra Mansion (also in
+Nibelheim) that you can play. However, it's "Re", and "Ti" keys are broken.
+
+---The Item Duplication Trick---
+
+A useful trick that you can do after getting W-Item Materia. 
+Equip the W-Item Materia (duh) and go into battle. Choose the item you 
+want to duplicate and use it once. For the second item, it doesn't matter 
+what you choose (you're not really going to use it anyway). After selecting 
+the second item, Press O to select it, but instead of using it, Press X to 
+cancel it -- the number of the first item you used should increase. After 
+that, press O to use the item, X to cancel, O to use, X to cancel, and 
+repeat the pattern. If it works, you can get as many as 99 of the selected 
+item!
+(Note: You can only do this trick with items that are usable in battle.)
+
+---Secret Materia Caves---
+
+Around the world, there are 4 secret caves that hold only a piece of 
+Materia, but that Materia is usually very useful (Like KOTR and 
+Mime). However, they all require colored chocobos to get to them. 
+Here's where they are and how to get to them:
+
+Cave 1: On a peninsula near Wutai. You need a green, black, or gold 
+chocobo to get there. Once inside, you'll find the Mime Materia.
+
+Cave 2: North of Corel village in a large desert. You need a black or a 
+gold chocobo to get there; you'll find HP<->MP inside. Seems like a waste of
+time to get such a useless materia... Honestly, I really can't see any 
+benefits to it. 9999 MP would be great, but what're you gonna do with only
+999 HP? ^_^
+
+Cave 3: On a distant island in the Mideel area. You need a blue, black or
+gold chocobo in order to reach this cave. Inside it is the Quadra Magic 
+Materia.
+
+Cave 4: Probably the most popular or the four. This is on a small round 
+island in the very northeast corner or the world map and you *must* have 
+a gold chocobo to get there. This cave contains the Knights of the Round 
+(KOTR) Materia.
+
+---Useless items---
+There are many items (mostly won in the Gold Saucer) that have no use 
+whatsoever, they're just for looks. They are:
+
+1/35 Soldier (Ignore any rumors you may have heard, these are useless.)
+Super Sweeper
+Masamune Blade
+Tissue
+Autograph
+Combat Diary
+Gambler
+Guide Book   \
+Desert Rose   >-----these 3 items have no use directly, but can be                              
+Earth Harp   /      traded for various things that CAN be used.
+Battery  (This item has a use, but if you kept one, it's useless later.)
+Masamune - This is Sephiroth's weapon that can only be obtained using a 
+GameShark, I originally thought this item to be useless, but it DOES have
+a minor use. You can also get Seph on the team with GS, and he can equip it,
+but it doesn't really matter, as he already has one... ^_^
+
+---The ?????????? items at Wonder Square---
+
+ok, so maybe this ISN'T a very commonly asked question, but for those 
+who don't feel like building up that much GP, here's what the '?????????'
+items at the shop in Wonder Square at the Gold Saucer are:
+
+The ?????????? item that costs 500 GP is a Carob Nut.
+The ?????????? item that costs 1000 GP is the Gil Plus Materia.
+The ?????????? item that costs 2000 GP is the EXP Plus Materia. 
+
+----------------------------------------------------------------------------
+ 12. Rumors
+----------------------------------------------------------------------------
+
+There are many of these, but most of them aren't true... I'd LIKE to set the
+record straight here, but no one listened to Kao Megura, writer of the 
+biggest FF7 FAQ on the net, or even the people from Square themselves, so I 
+doubt they'll listen to me... Anyway, these rumors make for interesting 
+reading, so I thought I'd leave them in.
+
+---Aeris' revival---
+
+I personally don't believe it can be done, however, there are several people
+who claim they HAVE revived her. (Just trolls, ignore them.) If you stick 
+her back in your team using GameShark, nothing different will happen. She
+won't talk during story sequences, has no additional weapons, doesn't appear
+on the Highwind, and isn't able to fight in the final battle. The game will
+actually freeze at certain points if she is in the team past Disc 1. This 
+lead me to believe that she, in fact, can *not* be revived. To set the 
+record straight... Aeris/Aerith can't be revived in *any* version of the 
+game, not the original Japanese version, not the American version, not FF7 
+International, and not the PC version -- you simply CAN NOT revive Aeris! 
+Also, I've heard countless people saying "well, you can't revive her, but 
+maybe you can prevent her from dying!". Well, sorry to dissapoint you Aeris 
+lovers, but you can't prevent her death. And please stop mailing me about 
+this. You can't revive her, end of story! Anyone who mails me about reviving
+Aeris after this will be completely ignored.
+
+...Umm...Well, you *can* get her back on the team in the Debug Room, but
+she's still pretty unreliable. I haven't tested it much, but you should 
+probably wait until the end of the game to get her, when all the major 
+conversation scenes are over. Anyway...See the section below for details. 
+
+---The White Chocobo---
+
+This rumor is too unbelievable! You're supposed to be able to mate 2 Gold
+S-Rank chocobos and then mate their offspring with a green chocobo, and 
+presto! A white chocobo... uh, huh... yeah, sure... The white chocobo is
+said to be exactly the same as a gold chocobo, except that it can go 
+underwater. Actually, there are many rumored ways to get one of these. My 
+belief is, if there are said to be more than two ways to get something, it's
+fake. And let's not start on red, brown, silver, clear, platinum, rainbow,
+or plaid chocobos, either! There are only five colors: Yellow, Green, Blue,
+Black, and Gold! Yes, there are white, red, pink, and purple chocobos at the
+Chocobo Races at the Gold Saucer, and a baby white chocobo in Mideel, but 
+they're just for show; you can't get one!
+
+---Onyx Weapon---
+
+Supposedly added to the ancient weapon monsters. After getting the fake 
+white chocobo, people say to bring it to the Midgar Zolom's marsh and use 
+the chocobo to go underneath it, and there you'd find the Onyx Weapon. But
+since you can't get a white chocobo, this is false.
+
+---Sephiroth as a team member---
+
+C'mon people, he's the final boss! Do you REALLY think this guy is going
+to say "Hey Cloud, I'm sorry I called meteor and destroyed Nibelheim 5 years
+ago, let's be friends now!" I think not. True, you can get him on your team 
+in the flashback, but even then, the computer controls him. Yes, you *can*
+get him on your team with GameShark, but he works the same way Aeris does
+if you get her past Disc 1, only worse. The computer still controls him. Try
+removing his Materia; he'll still cast spells. I've also heard rumors about
+a 'Sephiroth Clone' you can get on your team. If this is so true, why can't
+you get it with GameShark? You can't hide things from GS; it hacks directly
+into the game and reads off it's coding. I'm sorry, you can't get the final
+boss on your team, and don't whine to me about how cool he is, either, it
+won't help matters.
+
+But yes, like Aeris, you can get Sephiroth on your team in the Debug Room.
+He's very unreliable, though, but it's kinda fun to have him on the team. ;)
+
+---The General---
+
+I don't know *who* started this, but this general guy, supposedly the crazy
+old man living in the pipe in Sector 5 has nothing to do whatsoever with the
+outcome of the game.
+
+---Super Nova Materia---
+
+Sounds nice, but you can't really get it. I mean come on, Cloud and his 
+friends are trying to save the universe (well, the planet, anyway), not 
+destroy it! ^_^ For those who are interested, the rumored way to get this 
+item was to beat both Ruby and Emerald Weapon, have everyone's level 4 limit
+break learned, and have all 3 master materia. Once you've met these 
+requirements, you were supposed to go to the Junon beach, and a man would be
+waiting for you there, and would offer to sell you the Super Nova Materia 
+for 1,000,000 Gil. This, as with all the other rumored secrets, is 100% 
+fake. I'm guessing that the only reason this rumor was started, is because
+an FAQ said that Super Nova was a 'summon style' spell, which some fool
+obviously took to mean that it was a real summon that you could get... I
+dunno... I just can't see naturalists like Barret or Red XIII destroying 
+the solar system just to damage a few minor enemies... ^_^
+
+---Aeris' Ghost--- 
+
+This is actually true. After returning to Midgar in disc 2 or 3, you can see
+the ghost of Aeris for a second in the church where you first met her. This
+however, doesn't lead to her revival, it was in, reality, just another of 
+FF7's many bugs. In fact, it can be seen when Aeris is alive and on your 
+team in Disc 1. 
+
+---Cloud's LV 5 limit---
+
+How do all these rumors get started!? Anyway, another rumor about Cloud's
+supposed level 5 limit break goes like this. Just get Ultima Weapon, 
+Omnislash and all 3 master materias. In the very final (not possible to
+lose) battle with human Sephiroth, Cloud was supposed to be able to use a
+secret Lv 5 Limit. This is the most feasable sounding secret, but it isn't
+true. (I tested it. ^_^) I think the ones who started this rumor simply
+misinterpreted what actually *can* happen. During this battle, Cloud 
+*always* has Omnislash, whether you got it normally or not. That's it.
+
+---The Unlimited Money Card + Mancharia Town---
+
+Unlimited money...a legendary town where you're supposed to find it...well, 
+these two ideas are nice, but they aren't really true... I've heard the 
+Mancharia was the name of Kalm Town in the Japanese version, and that this 
+trick worked. I'm still skepical, however. I don't particularly believe it 
+worked in ANY version. Even so, by the time you were supposed to be able to
+get this item, you didn't need it anymore, anyway. You should have bought
+everything you need, and besides, it's easy enough to master an 'All' 
+Materia and just sell it for 1.4 million Gil...
+
+---Test 0---
+
+Actually, this is true... Sorta. Test 0 was supposedly a "debugging" monster
+in the VERY early promos of the game which you could occasionally encounter 
+as a glitch in the Japanese version. You could find it rarely in the well
+with the empty chest in the Corel Prison. This bug, however, was fixed in 
+the American Version, and all versions of the game afterwards. It was 
+supposed to give you lots of experience and gil (or so I hear), and athough
+it had massive HP, and showed up in large groups, offered no resistance
+whatsoever.
+
+---More Spells--- 
+
+This is also believed to be true. Due to time limitations, many spells were
+said to be cut from the game, but were instead, turned into usable items.
+I'm sure many people have use Ghost Hands and Vampire Fangs, and noticed 
+that they have the same effect as the enemy spells "Drain" and "Aspil". 
+These were going to be spells that you could cast. Also, ever notice the
+lack of wind and holy elemental spells? Well, there were going to be several
+wind spells... anyone remember seeing Rapps and other enemies using a cool
+looking rainbow wind spell called Aero3? That was one of the spells that
+were supposed to be able to get. Also, I've heard that the Dragon Fang and
+Bird Wing were supposed to be enemy skills, and you were supposed to be able
+to actually CAST Holy and Meteor! (This is unproven rumor, however. I'm not
+certain... Doesn't make much sense being able to cast a spell capable of
+bringing destruction to the planet on a Chocobo, or something...) To further
+back up this claim, using the newly discovered "FF7 Debug Code", you're able
+to obtain several blank magic materias. I imagine these were for the cut 
+spells. I have no proof on this, though.
+
+BTW, in case you're curious, the FF7 Debug Code is a new GameShark code 
+that was printed on GIA (http://www.thegia.com) a while back, which allows 
+you to go to a secret series of rooms. It's a glitchy area, but you can do 
+some weird and cool stuff here, like view FMVs, play various mini games, and
+cut to nearly any area or scene in the game. This is covered, in great 
+detail, below.
+
+----------------------------------------------------------------------------
+ 13. Debug Room
+----------------------------------------------------------------------------
+What is the debug room? Well, as the name suggests, it's a room (or rather a
+series of rooms) that was designed as an easy way for programmers to test
+the game, and work the bugs out of it. Of course, the debug room isn't 
+normally accessable, for obvious reasons. Recently, however, two GameShark
+hackers who go by the handles of RPGod and CzarDragon, found a GameShark 
+code allowing access to this place! 
+
+The Code is: 8009A05C 0041.
+
+Well, there're other versions of FF7, but this is for the original American
+version... You may or may not have to use the 'master code' (80000000 0000)
+in order to make this code work. I used it just in case, and it worked fine.
+
+Once you've input the code, getting to the Debug room is easy. Simply choose
+the 'new game' option, or load in a saved game, and enter any area. (But NOT
+the world map...) You'll end up in the main area of the Debug room, which I 
+call "Room 0". Once inside the Debug room, be sure to shut the GameShark 
+off, as if you try to enter any rooms with it on, you'll just be taken right
+back to Room 0...
+
+From here, you should be able to figure out the rest, but remember these
+few tips...
+
+∑ Most options in the debug room lead you to various areas in the game, but
+  you can *usually* re-enter the debug room by just walking offscreen with 
+  the GameShark on. Note that it doesn't always work though. Sometimes 
+  you'll either be brought to a pitch black room where you're stuck in the 
+  wall, or the game just crashes altogether. This happens only rarely, 
+  though. Usually in places like the Sector 7 Slums, or the Sister Ray at
+  Junon (during Tifa's escape).
+
+∑ Be forwarned: you're gonna end up stuck in walls a *lot*! If this happens,
+  your only option is to reset the game. Don't forget that holding down
+  L1+L2+R1+R2+Start+Select at the same time resets your game automatically.
+ 
+∑ Just for reference, I'll be using the terms "Game Hangs" and "Game 
+  Crashes" frequently throughout this guide. The difference between hanging
+  and crashing, is that when the game hangs, it usually just means the game
+  is 'stuck', and is waiting for something that will never happen. Music and
+  sound effects continue to play in the background, the buttons usually 
+  still work, and the 'soft reset' (above) will still reset the game. If the
+  game crashes, however, the game simply stops responding. Music and sound
+  effects abruptly halt, and the controls will stop responding. The only way
+  to reset if this happens, is to hit the Reset button on the Playstation
+  console.
+
+∑ If you intend to do an area from a specific disc, try to make sure that
+  disc is inserted. Most of the time, the game will react normally, simply
+  showing the incorrect FMV scene. Sometimes, however, there will be no
+  FMV 'match', and the game will hang or crash. Oh yes... *never* use Disc 
+  3, it's totally unreliable and crash prone. There are only about 10 FMVs
+  on the entire disc, so the chances of the game finding one that will match
+  one of the 30-40 FMVs on Disc 1 or 2 is slim.
+
+∑ Sometimes, the game apparently has trouble figuring out the difference
+  between Vincent and Sephiroth. If you get a character named Sephiroth, who
+  has Vincent's picture, he won't work properly in battle. The only way to
+  get a decent Sephiroth is to enter room 2. He'll be added to your team 
+  with a perfect face picture, and will fight normally during battles. 
+  (He'll still be computer controlled, though. Remember, the game can't
+  create something that doesn't exist...)
+
+∑ Never go to the world map while this code is activated! You'll end up in
+  a horribly glitched version of the endless snowfield at the Great Glacier,
+  with no way out...
+
+I guess that's about it... This debug room guide is finished in terms of
+the options, but there're still some mistakes, or options that I don't know
+the effects of. Please feel free to mail me with corrections or additions, 
+but try to avoid mailing me with questions...
+
+(Notes: An (St) tag means that you're stuck in a wall in a particular area.
+        A (-s) tag means that the sprites are missing (from an FMV).
+        And when I say "Global Party", I'm referring to the inactive party
+        menu.)
+
+-----------------------------------Room 0-----------------------------------
+Music: Whatever was playing when you entered.
+Interesting Effects: Well, this is the main room, which leads to all the 
+other ones. As such, you'll be coming here a lot. The sole person here
+(Yuffie) also has a few useful options.
+Overview: Well... What can I say? You'll be visiting this room a lot whether
+or not you want to. ;)
+
+The entrances to the rooms here consist of either blue circles with kanji
+characters written in them, or a space behind one of the rooms. Since I 
+can't read Kanji, I'll just give the rooms specific numbers and work from 
+there. The grid below shows the positions of the rooms.
+
+         9
+         1
+      8     2
+11  7         3 
+      6     4
+         5
+        10
+
+
+***Yuffie***
+(Brings up a list of several commands having to do with game functions.)
+
+Menu 1:
+∑ NEXT          - Brings up menu 2.
+∑ MENU ON       - Enables all menu commands.
+∑ BATTLE LOCK   - Disables battles.
+∑ BATTLE UNLOCK - Enables battles.
+∑ MOVIE LOCK    - Disables FMV.
+∑ MOVIE UNLOCK  - Enables FMV.
+∑ GLOBAL RESET  - Removes all team, sets time to 00:00:00.
+∑ FULL NAME     - Puts a bunch of trash in each character's name slot. Also
+                  gives them weird equipment, like a gibberish accessory 
+                  that crashes the game if unequipped, then checked on the
+                  item list. Also screws up stats and such. Weird. ^_^
+∑ NEW START     - Starts a new game. Characters have same stats as they did
+                  when you selected this command! However, the game doesn't
+                  seem to be able to load in these "New Game +" saves.
+∑ EXIT          - Cancels.
+
+Menu 2:
+∑ BACK          - Brings back menu 1.
+∑ SOUND RESET   - Shuts off music.
+∑ FULL MATERIA  - Gives you a bunch of materia, even disabled/glitch ones.
+∑ BATTLE999     - Battle against a group of five inactive pyramids. (Below)
+∑ EXIT          - Cancels.
+
+-- Battle --
+
+Í˙Ù(Ò) <Pyramid, like the ones Reno throws at you when you first fight him>
+Level: 4
+HP: 10
+MP: 200
+Steal: Nothing
+Morph: Nothing
+Win: Turbo Ether
+Exp: 100,000 each; 500,000 total.
+Gil: 100,000 each; 500,000 total.
+AP: 2,000 each; 10,000 total.
+
+This is...like an extremely easy battle. The pyramids, who are *really* 
+called "Í˙Ù(Ò)" (a bunch of random ASCII characters; probably supposed to be
+Japanese), don't do anything. They just sit there while you beat on them.
+Unless you use Odin's "Steel Bladed Sword", or turn them into frogs 
+beforehand, they don't disappear when you kill them for some reason. Oh 
+well. Just use one mass enemy attack spell, and you win. :) This is a great 
+way to build up.
+
+-----------------------------------Room 1-----------------------------------
+Music: Whatever was playing when you entered.
+Interesting Effects: Cloud is always added to the team here, and is made the
+leader.
+Overview: Well, being the first room, we're not off to a good start... 
+Despite the glitchy appearance of this room, and the poorly translated 
+options, you can go to some of the game's cooler events here, and you're 
+rarely stuck in walls (which you will be a lot, later on... Trust me!). You
+can also add Aeris to the party here, and so forth. The only real problem 
+with this room is that, like I said, it's pretty buggy... Even moreso than 
+the other rooms here!
+
+***Flashing Aeris***
+(Brings up a long menu of miscellaneous options.)
+
+∑ cancel          - Cancels.
+∑ bone after arma - Bone Village, after meteor has been summoned.
+∑ san dun         - First area of the Corral Valley cave.
+∑ sleep forest    - Sleeping Forest.
+∑ ancent forest   - Ancient Forest.
+∑ lost lake       - City of the Ancients. Nothing at all is going on...
+∑ water pray      - Secret room in the City of the Ancients. Just before 
+                    the Aeris death scene.
+∑ Aeris dead      - Scene After the battle with Jenova∑LIFE.
+∑ rocket(Åfirst)  - Tiny Bronco's hangar, just before the battle with 
+                    Palmer. Hold the Square button before choosing this 
+                    option to go to the Tiny Bronco's hangar when you first
+                    arrive at Rocket Town.
+∑ bone first      - Arrival at Bone Village.
+∑ bone luna       - Bone Village, looking for the Lunar Harp. 
+∑ los in          - Scene on the street in Upper Junon where Cloud notices
+                    that something is 'missing'.*
+
+*Note: Sometimes this option won't work properly. It brings you to the same
+street area, but no characters show up...
+
+***"Possessed" Tifa***
+(Brings up another long list of options when you approach her. You don't 
+even need to actually 'talk' to her.)
+
+∑ past jenova(Åegg)              - In the Nibelheim reactor. The scene where
+                                   Tifa and Zack attack Sephiroth, and Cloud
+                                   runs after him. Press the Square button 
+                                   before choosing this option to skip this 
+                                   scene and go straight to the scene where 
+                                   Cloud kills Sephiroth. Both scenes are 
+                                   from the Lifestream flashbacks.
+∑ join vincent                   - In Shinra Mansion basement. I think
+                                   Vincent joins if you leave, but I haven't
+                                   tried it yet.
+∑ shinra house vincent(Åpresent) - Bedroom in Shinra Mansion, on a bed. 
+                                   While you can move, you can't get off the
+                                   bed... Hold the Square button before 
+                                   choosing this option to go to the 
+                                   entrance of present day Shinra Mansion.
+∑ shinra under(Åawake)           - Outside the lab in Shinra Mansion.
+                                   Sephiroth is reading various books. Hold 
+                                   the Square button before choosing this 
+                                   option to go to the same place after 
+                                   Sephiroth discovers his heritage.  
+∑ nivl reactor                   - Present day Nibelheim reactor.
+∑ nivl reactor out(Åwith tifa)   - Outside of the Nibelheim reactor during
+                                   the flashback. Someone seems to be trying
+                                   to run onscreen, but is stuck, so the 
+                                   game hangs... Hold Square before using 
+                                   this option to go to the scene in the 
+                                   flashback where Tifa confronts Sephiroth.
+∑ nivl mt entrance(Åpast)        - Entrance to the Nibelheim mountains
+                                   during the flashback. Hold Square to go 
+                                   to the mountain entrance when child Tifa 
+                                   climbs the mountain during the Lifestream
+                                   scene. 
+∑ materia cave                   - Outside of the Mako fountain in Mt. Nibel
+                                   during the flashback.
+∑ new event sininb34             - Flashback scene of Cloud and Zack in 
+                                   test tubes down in the Shinra Mansion 
+                                   basement.
+∑ new event sininb35             - After the test tube scene. A man brings
+                                   Zack some food, and Zack knocks him out 
+                                   and escapes with Cloud.
+∑ new midgal                     - Zack and Cloud arrive at Midgar, but Zack
+                                   is gunned down by the Shinra...
+∑ nivgate                        - Zack and Cloud escape from Nibelheim.
+∑ ()                             - Cancels.            
+
+***Cid***
+(Brings up a list of Midgar/Junon related options)
+
+∑ opening(Å)             - Intro scene. Even though it may have a tag, 
+                           holding down the Square button before choosing 
+                           this option doesn't seem to do anything 
+                           different.
+∑ feel wind              - Leads directly to the Diamond Weapon battle.
+∑ gate1 open             - Sector 1 station. Second screen of intro area.
+∑ T road(Åescape)        - The "T" road outside the Sector 1 reactor. Hold 
+                           Square before choosing this scene to view the 
+                           destruction of the Sector 1 reactor.
+∑ 1reactor(5reactor)     - Leads to the bridge in the Sector 1, just before
+                           the end. Hold the square button before choosing
+                           this to go to the same place in the Sector 5 
+                           reactor. 
+∑ junon(Åyufi,R1gaiheki) - Junon. Scene before Tifa is about to be executed.
+                           Hold the Square button before choosing this 
+                           option to see the same scene, only with Yuffie in
+                           it. Hold the R1 button before choosing to be  
+                           taken to the scene after Tifa has escaped, and is
+                           climbing down the side of Junon.
+∑ ()                     - Cancels.
+
+***President Shinra***
+(Brings up another list of miscellaneous options.)
+
+∑ white                - Tifa is trapped in the Junon gas chamber.
+∑ white boogen(key)    - Bugenhagen is at the Ancient City. The FMV here is
+                         screwed up, and the game ultimately hangs.
+∑ white boogen(no key) - City of the Ancients. You don't have the key.
+∑ before               - Bugenhagen's arrival at the Ancient City.
+∑ after                - At Ancient City. Nothing seems different.
+∑ white2               - Scene at the glowing crystal in the Ancient City.
+                         Cloud talks about the Lifestream.
+∑ junonn in2           - City of the Ancients. The waterfall has been
+                         activated.
+
+***Man in suit***
+(Brings up a list of Shinra Building related areas.)
+
+Menu 1: (Shinra Building)
+∑ para    - Parachuting into Midgar near the end of disc 2.
+∑ 66F     - 66th floor of the Shinra Building. The meeting about Sector 7
+            and Aeris is taking place. Also, even though you have no key
+            cards, you have access to many floors in the Shinra Building...
+∑ 67F(Å)  - 67th floor, after Hojo heads upstairs. Hold the Square button to
+            go to prison. ;)
+∑ 68F     - 68th floor. Just before the meeting with Red XIII.
+∑ 68F2    - 68th floor. Skips the walkabout, and brings you straight to the
+            meeting with Red XIII.
+∑ 70F     - Brings up menu 2.
+∑ elevetr - On the 66th floor elevator, ambushed by the Turks.
+∑ ()      - Cancels
+
+Menu 2: (Top of the Shinra Building)
+∑ plate down meeting - Meeting at the President's office. The Shinra plan to
+                       drop the plate on Sector 7!
+∑ caught             - After being caught by the Turks on the elevator.
+∑ dead president     - President Shinra has been killed by Sephiroth...
+∑ app rufaus         - Rufus's appearance.
+∑ after heli         - After defeating Rufus on the roof.
+
+***Barret***
+
+Doesn't bring up any options. Doesn't even say anything, really. When you
+approach Barret, you get transported to the final area of the south cave in 
+the final dungeon...
+
+***Red XIII***
+(Brings up a long list of Junon/Midgar related areas.)
+
+∑ 7 pillar           - Top of the Sector 7 pillar, just before the battle
+                       against Reno.
+∑ kolneo under       - After getting dumped into the sewer below Corneo's
+                       Mansion. Before battle with Aps.
+∑ high way           - Scene on the Midgar highway after the bike race.
+∑ 5 out              - Outside Midgar. After the Shinra Building.
+∑ airport(Ågelnica)  - Arrival at the Junon Airport. Shows FMV of the 
+                       Highwind. Hold the Square button to see the Gelnika
+                       Airship taking off.
+∑ after fire cefiros - Nibelheim reactor, after Sephiroth has gone to meet
+                       Jenova during the flashback.
+∑ jairo sky          - Scene when the Tiny Bronco is in the air. (Not the 
+                       FMV, the scene afterwards.)
+∑ jairo sea          - Scene where the Tiny Bronco is grounded in the sea.
+                       (Again, not the FMV, but the scene afterwards.)
+∑ junon cannon       - Street in upper Junon during the Weapon attack where
+                       you meet 'reporter' Yuffie.
+∑ junon medical      - Tifa wakes up in the Junon medical center after the
+                       collapse of Gaea's Cliff.
+∑ ()                 - Cancels.
+
+***Jessie***
+(Brings up a list of team members. The names here differ from what your 
+ characters are currently named.)
+
+∑ Cancel               - Brings up the member select screen, then cancels.
+∑ <Aeris>              - Adds Aeris to the global party.
+∑ <Tifa>               - Adds Tifa to the global party.
+∑ <Barret>             - Adds Barret to the global party.
+∑ <Red XIII>           - Adds Red XIII to the global party.
+∑ <Cid>                - Adds Cid to the global party.
+∑ <Cait Sith>          - Adds Cait Sith to the global party.
+∑ <Yuffie>             - Adds Yuffie to the global party.
+∑ <Vincent>            - Adds Vincent to the global party.
+∑ Cloud Lock           - Makes Cloud the leader.
+∑ Change Party Members - Brings up the member select screen.
+
+-----------------------------------Room 2-----------------------------------
+Music: Swampy part of the final dungeon/Scene at the end of Gaea's Cliff.
+Interesting Effects: None, really.
+Overview: Hmm... Actually, this room has nothing of real interest. Most of 
+the options here send you to various areas in the game stuck in walls... 
+Still, this is the only room where you can add Young Cloud to the team,
+glitchy though he may be... ;)
+
+***Sephiroth***
+"Sephiroth-related"
+
+(Various scenes from Cloud's Nibelheim flashback, and from the scene in the
+lifestream.)
+∑ quit           - Cancels.
+∑ from pinball   - Scene on the back of a dark truck. Someone is explaining
+                   how materia is made... Game hangs afterwards. (I've never
+                   seen this scene before...)
+∑ from Cam's inn - Scene of Cloud and Sephiroth in the truck on the way to
+                   Nibelheim. Leads to the battle against a dragon.
+∑ starry sky     - Flashback of the well in Nibelheim showing Cloud's 
+                   promise to Tifa.
+∑ gate           - Gate to Nibelheim during Cloud's flashback. 
+∑ gate no. 2     - Gate to Nibelheim during the scene at the Lifestream.
+∑ starry sky     - Well at Nibelheim, during the lifestream event. 
+∑ village no. 2  - Nibelheim, during the flashback. (?) (St)
+∑ truck no. 2    - Another scene on the truck heading for Nibelheim. This is
+                   the true scene, with Zack and Sephiroth.
+
+***Aeris***
+"Church"
+(The list is sometimes screwed up. Other times, it looks normal.)
+
+(Aeris's Church)
+∑ First of all            - After falling from the Sector 5 reactor, the
+                            meeting with Aeris at the church.
+∑ Following roof incident - Inside the church, after Aeris has joined.
+∑ After Aeris's death     - Scene of Aeris's ghost in the church.*
+
+*I believe this scene is a leftover from the Japanese version. It's not in
+the American version...
+
+***Priscilla***
+(Brings up a list of Highwind related areas.)
+
+∑ highwind(not going) - Cancels.
+∑ Shinra's Highwind   - Scene of Rufus and the Shinra officials on board the
+                        Highwind before arriving at Gaea's Cliff.
+∑ Party's Highwind    - On board the Highwind after finding Cloud at Mideel.
+                        Cid is appointed the new leader. 
+∑ Evening's Highwind  - Same as "Shinra's Highwind".
+∑ sign                - Outside, on the upper deck of the Highwind. (St)
+∑ passageway          - Hall leading to Chocobo stable, upper deck, bridge,
+                        meeting room, etc. (St)
+∑ Conference room     - In the Highwind conference hall, after Cloud has
+                        rejoined the team.
+∑ Chocobo             - The Highwind Chocobo stable. (St)
+∑ Cloud Highwind      - On the bridge of the Highwind.
+
+***Tifa***
+"My dear hometown Nibelhelm."
+(Note: In all of these areas, you're stuck, even though it's not always
+exactly clear what you're stuck *in* (i.e. you may be standing in the middle
+of a room, and you'll still be stuck.))
+
+Menu 1: (Nibelheim related areas)
+∑ village            - In Nibelheim. (St)
+∑ 1st floor of inn   - First floor of the Inn. (St)
+∑ 2nd floor of inn   - Second floor of the Inn. (St)
+∑ store              - Village item shop. (St)
+∑ Cloud's house      - Cloud's house. (St)
+∑ Tifa's House       - Brings up menu 2.
+∑ 1st floor of house - First floor of the southern house. (St)
+∑ 2nd floor of house - Second floor of the southern house. (St)
+∑ Quit               - Cancels.
+
+Menu 2: "Tifa's house"
+∑ 1st floor        - First floor of Tifa's house. (St)
+∑ 2nd floor        - Second floor of Tifa's house. (St)  
+∑ 2nd floor window - Scene in Tifa's bedroom during the Lifestream event.
+∑ reminiscing      - Same as above, but just before child Cloud shows up.
+
+***Little Girl***
+"Saying good-bye to party members Cloud"
+(The "Sayi" is cut off the screen, so it just looks like "ng good-bye" etc.)
+
+No options here. Just sends you to the scene where Cloud and Zack are 
+riding on the back of the pick-up truck on their way to Midgar.
+
+***Cait Sith***
+(Brings up a short list. Again, sometimes it looks normal while other times
+ it's screwed up.)
+
+∑ tragedy of Nibelheim quit - Cancels.
+∑ Part 1                    - Nibelheim's destruction with Zack instead of
+                              Cloud, as shown by Sephiroth atop Gaea's 
+                              Cliff. 
+∑ Part 2                    - In Nibelheim, on fire. You're stuck behind a
+                              dead guy.
+
+***Man with red hair***
+"global . re-set:"
+
+∑ yes                          - Removes team, resets time, etc.
+∑ no                           - Cancels.
+∑ ended reflecting on the past - ???
+
+***Doctor***
+"present day Nibelheim"
+
+∑ Go       - Sends you to Nibelheim; no events are going on. (St)
+∑ Don't go - Cancels.
+
+***Zangan***
+
+He has no options. All he does is bring up two tiny boxes with nothing in 
+them. In short, he does nothing.
+
+***Barret***
+(Brings up a long list of options, but appears to be just a tiny little box.
+ There is no 'finger' to indicate your choices, so just just press the 'up'
+ button on the directional pad until you reach the top (i.e. you don't hear
+ the sound anymore), and simply count from there.)
+
+∑ <1>  - <Hangs the game>
+∑ <2>  - Puts Cloud in the team.
+∑ <3>  - Puts Barret in the team.
+∑ <4>  - Puts Tifa in the team.
+∑ <5>  - Puts Aeris in the team.
+∑ <6>  - Puts Red XIII in the team.
+∑ <7>  - Puts Yuffie in the team.
+∑ <8>  - Puts Cait Sith in the team.
+∑ <9>  - Puts Vincent in the team.
+∑ <10> - Puts Cid in the team.
+∑ <11> - Makes Young Cloud the leader.*
+∑ <12> - Makes Cloud the leader.
+∑ <13> - Makes Tifa the leader.
+∑ <14> - Makes Cid the leader.
+∑ <15> - Cancels.
+
+*Young Cloud is very, VERY glitchy. He has the name "Cait Sith", is 
+invisible on the field screen, and in battle, he doesn't appear, but his 
+stats are still shown, and his HP and MP drop to 0. You are unable to revive
+him, either, as apparently, he isn't really there...
+
+***Yuffie***
+(Brings up a list of weird options...)
+
+∑ quit     - Cancels.
+∑ TRNAD51  - Scene just before Gaea's Cliff collapses.
+∑ TRNAD52  - At the end of Gaea's Cliff. Hojo discuss the Sephiroth clones.
+∑ TRNAD53  - Brings up the message "North Cave 5-3", then brings you to a 
+             big, empty crystalline cave with no characters onscreen.
+∑ BLACKBGD - Screen flashes white, then gives you a message saying that disc
+             2 has ended. (Yes, this even works on disc 1... ^_^)
+
+***Man with blue hat***
+(Brings up a list of more Highwind related options.)
+
+∑ quit                         - Cancels.
+∑ regular hours                - Onboard the Highwind, right after Cloud
+                                 returns.
+∑ star's scream                - Onboard the Highwind, after the 
+                                 rocket/meteor plan fails.
+∑ weapon appears               - Highwind, before Diamond Weapon attacks.
+∑ What happened to Sephiroth?  - Highwind, After the barrier around the 
+                                 North Crater is destroyed.
+∑ On the final day             - The end of Shinra Inc. The team splits up 
+                                 to find their reason for fighting.
+∑ Everyone came home.          - Everyone returns to the Highwind, having 
+                                 found their reasons. 
+∑ Called from the last dungeon - Highwind, before going to the final 
+                                 dungeon.
+
+-----------------------------------Room 3-----------------------------------
+Music: "Final Fantasy" theme. Title Screen.
+Interesting Effects: A bunch of buttons have effects. See bottom of the 
+section.
+Overview: Well, it's fun to play the Submarine mini-game, which you can do
+here, and there're a bunch of cool musics to listen to, but that's the limit
+of this place. As in most rooms, quite a few of the options lead you to
+various areas stuck in a wall. Battles also seem to be 'locked' here, and 
+the game crashes if you fight...
+
+As soon as you enter, you're greeted with the message:
+
+"Welcome to
+ FinalFantasy 7
+ English Version"
+
+Doesn't do anything, though. (Yes, of *course* this only appears on the US
+version of the game! Duh! ;)
+
+***Aeris in Red Dress***
+"Working Now."
+
+No options. You go straight to the Tifa's hallucination/dream about Cloud's
+arrival at Midgar after the collapse of Gaea's Cliff.
+
+***Barret in Sailor Suit (Laying down)***
+(Brings up a list of the areas/scenes in Sector 7. Also plays Tifa's Theme.)
+
+∑ "7th Street"  - Leads to the beginner's hall. (With the bouncing Save pt.)
+∑ Welcome Home  - Appears to be the Sector 7 slums the morning after the
+                  bombing mission (the people are in the same places), but
+                  everyone acts like you just got back...
+∑ Before Memory - In Tifa's Bar. Quite the opposite of the previous option;
+                  Tifa is standing in the usual place where she talks to
+                  Cloud about Nibelheim, but she acts like it's the next
+                  morning...
+∑ Materia       - In the room below the bar. No one is there.
+∑ Good Morning  - Same as above.
+∑ Before Battle - Attack on the Sector 7 pillar.
+∑ Cancel        - Cancels.
+∑ After Memory  - After the flashback of Cloud's promise. 
+
+***Tifa in Purple Dress***
+
+She has no options, she just brings up the team member select screen.
+
+***Red Shinra Soldier***
+"Last train from Midgar"
+(Plays music from Sector 7, the night of the bombing, when you talk to him.)
+
+(Sector 7/Train related events)
+∑ Cargo            - On the cargo train. Cloud freaks out.*
+∑ Train1           - On the first train car. The ID scan scene after Jessie
+                     shows you the monitor.
+∑ Train2           - Second train car, during the escape.
+∑ Train3           - Last train car, during the escape.
+∑ Train4           - Fourth train car, during the escape.
+∑ Monitor          - Jessie shows Cloud the train's route on a monitor.
+∑ Station1         - At the Sector 7 train station after the bombing.
+∑ Station2         - At the Sector 7 train station the next morning.
+∑ StationFlashBack - Scene where Elmyra finds little Aeris.
+∑ Cancel           - Cancels. 
+
+*I have never seen this particular scene before. It plays the 'nightmare'
+ music, and turns the screen red (similar to when Cloud hears the 'Stop! 
+ This isn't just a reactor!' message in the Number 1 Mako Reactor).
+ Afterwards, the screen fades to black and never loads back in... 
+
+***Honey Bee Inn Girl***
+"Honey Bee In"
+(Plays the Wall Market music, and changes the window color to an extremely
+gaudy looking rainbow. ^_^)
+
+(Honey Bee Inn relater areas.)
+∑ First Time - First time at the Honey Bee Inn. Game acts funny, then hangs.
+∑ 2nd        - Same as "First Time".
+∑ 3rd        - At the Honey Bee Inn, after Cloud 'dresses up.'
+∑ After All  - Same as "3rd"
+∑ Cancel     - Cancels.
+
+***Rude***
+(Brings up a list of options. Most of them are flags...)
+Talk to Rude one time, and he'll play the Tiny Bronco flight theme.
+Talk to him twice, and he'll play the music of the rocket launch.
+Talk to him three times, and he'll play the music of the last dungeon.
+Talk to him four times, and he'll play the "Mog Flies" music.
+
+∑ "Everyday My Works are..." Cancel - Cancels.
+∑ Got The Jyro                      - I think this is supposed to give you
+                                      the Tiny Bronco. Leave the debug room 
+                                      after you choose this option, and
+                                      you'll be back on Disc 1. I didn't 
+                                      test it much, though...
+∑ After The Meteo...TIFA            - Makes team Tifa, Barret, and Red XIII.
+∑ After The Meteo...CID             - Makes team Cid, Cait Sith, and Yuffie.
+∑ After The Meteo...CLOUD           - Makes team Cloud, Barret, and Tifa.
+∑ MakoUnderTheSea                   - ??? (Probably a flag having to do with
+                                      the undersea Mako reactor in Junon.)
+∑ Hp&Mp 1                           - Leader's HP and MP drop to 0.
+∑ No Money                          - Sets Gil to 0.
+∑ MoneyMoneyMoney                   - Gives you 365534 Gil.
+∑ Got The Keystone                  - Doesn't give you the Keystone
+                                      immediatly, but if you choose "Altar" 
+                                      from the Temple of the Ancients list,
+                                      you'll be taken to the scene with 
+                                      Tseng where you *do* get it.
+                              
+***White Dog***
+(Brings up a long list of areas related to the Junon dock, and the tunnel 
+leading to the undersea reactor. Also plays the Junon 'parade' theme.)
+
+∑ "JUNONDOC" - Cancels.
+∑ JUNONDOC1  - Junon dock, disc 1; Cargo Ship is still docked.
+∑ JUNONDOC2  - Junon dock, disc 2; The ship is gone. (St)
+∑ ROAD1      - Upper Junon's entrance hall. (With save point.)
+∑ (Cancel)   - Cancels.
+∑ ROAD3      - In the tunnel between the two upper cities (St)
+∑ ROAD4      - Tunnel to the undersea reactor. (St)
+∑ ROAD5      - Second part of the tunnel leading to the reactor. (St)
+∑ ROAD6      - Third part of the tunnel leading to the reactor. (St)
+∑ ROAD7      - At the bottom of the first elevator leading to the reactor.
+∑ ELE1       - Elevator leading to the reactor tunnel. (St)
+∑ ELE2       - Elevator leading to Upper Junon.
+∑ ROOM       - Locker room where soldiers are practicing 'The Special Pose'.
+
+***Orange Cat***
+(Brings up a long list of areas related to the second (left) city in Upper
+Junon. Plays the Junon 'parade' theme.)
+
+∑ "JUNONL"    - Cancels.
+∑ JUNONL1     - At the second city in Upper Junon.
+∑ JUNONL2     - Path leading to the second city. (St)
+∑ JUNONL3     - Left balcony outside of the upper office district. (St)
+∑ JUNONL-W    - Cheap Weapon shop. (St)
+∑ JUNONL-I1   - Accessory shop. (St)
+∑ JUNONL-I2   - Materia shop with showgirls. (St)
+∑ JUNONL-INN  - Inn. (St)
+∑ JUNONL-PUB  - Dimly lit pub with Shinra Soldiers in it. (St)
+∑ JUNONL-MIN0 - Beginner's Hall/"Respectable Inn".
+∑ JUNONL-MIN1 - Room with delinquint soldier. (St)
+∑ JUNONL-MIN2 - Shinra Manager's room. (St)
+
+***Tiny Dolphin***
+(Brings up a long list of areas related to the first (right) city in Upper
+Junon. Plays the Junon 'parade' theme.)
+
+∑ "JUNONR"    - Cancels.
+∑ JUNONR1     - First city in Upper Junon. Wearing Shinra uniform.
+∑ JUNONR2     - Area just beyond first city. Again, wearing Shinra uniform.
+∑ JUNONR3     - Right balcony outside of the upper office district.
+∑ PARADE      - Parade Scene. After it ends, you appear in the area just 
+                beyond the first city. (St)
+∑ JUNONR-W    - Quality Weapon shop. (St)
+∑ JUNONR-PUB  - Pub with a bunch of drunks in it. (St)
+∑ JUNONR-I    - Item shop. (St)
+∑ JUNONR-M    - Materia shop with bald shopkeeper. (St)
+∑ JUNONR-MIN1 - Soldier Barracks, first floor. (St)
+∑ JUNON-MIN2  - Soldier Barracks, second floor. (St)
+∑ JUNON-MIN3  - Soldier Barracks, third floor. (St)
+∑ JUNON-MOVIE - Shows FMV of Junon before the parade, then puts you outside
+                the item shop in the first city. (St)
+
+***Sailor***
+(Brings up a list of the submarine events. Also plays the music while riding
+in the submarine.)
+
+∑ "Submarine" (Cancel) - Brings up party select screen, then cancels.
+∑ SubmarineDock        - Dock of Red Submarine. (St)
+∑ BridgeRed            - Bridge of Red Submarine. (St)
+∑ BridgeBlue           - Bridge of Grey Submarine. (St)
+∑ SubmarineRed         - Inside the Red Sub.
+∑ SubmarinBlue         - Inside the Grey Sub. Soldiers refuse to move...
+∑ Escape               - Escape scene (If you lost the Huge Materia game.)
+∑ MiniGame0            - Submarine mini game. (Battle for Huge Materia)
+∑ MiniGame1            - Submarine mini game 1 (At Gold Saucer)
+∑ MiniGame2            - Submarine mini game 2 (At Gold Saucer)
+∑ MiniGame3            - Submarine mini game 3 (At Gold Saucer)
+∑ MiniGame4            - Submarine mini game 4 (At Gold Saucer)
+∑ MiniGame5            - Submarine mini game 5 (At Gold Saucer)
+
+***Old Ancient***
+(Brings up a long list of options related to the Temple of the Ancients. 
+Also plays music from that area.)
+
+Menu 1:
+∑ "Temple of the Ancients" (FORMATION) - Brings up menu 3.
+∑ Temple                               - Entrance to the Temple.
+∑ After Collapse                       - After the temple is destroyed, 
+                                         Black Materia obtained.
+∑ Altar                                - The room with the Altar.*
+∑ Altar2                               - Scene where the Keystone is put in.
+∑ Temple of the Ancients               - Maze inside the temple.
+∑ Shop of the Ancients                 - Old man's shop.
+∑ The Rock                             - Room with rolling rock.
+∑ The Hole of the Time                 - Clock puzzle room.
+∑ Tirano                               - Treasure room after falling down 
+                                         the pit in the clock room.
+∑ Treasure                             - Treasure room. Can't open chest.
+∑ Chase                                - Chasing the old Ancient.
+∑ Next Page                            - Brings up menu 2.
+
+*If you chose "Got the Keystone" from Rude's options, this will lead you to
+the altar room after Tseng has arrived, and you'll get the Keystone. If not,
+you'll be in the altar room without the Keystone, and Tseng won't be there.
+
+Menu 2:
+∑ "Temple of the Ancients2" - Scene where Cloud freaks out and gives 
+                              Sephiroth the Black Materia.
+∑ Mateo                     - In the room with the mural on the wall.
+∑ Sephiros                  - Sephiroth talks about Meteor.
+∑ Hole1                     - Tunnel blocked by rocks. (St)
+∑ Hole2                     - Clear tunnel. (St)
+∑ Boss                      - Room where you fight the Demon's Gate.
+∑ Mateo2                    - Cloud freaks out, and starts laughing like a
+                              loon. Leads to the Red Dragon battle.
+∑ Cancel                    - Cancels.
+
+Menu 3: 
+∑ "Formation" - Brings up menu 1.
+∑ Ballet      - Adds Barret to the team, and brings up menu 1.
+∑ Tifa        - Adds Tifa to the team, and brings up menu 1.
+∑ Red         - Adds Red XIII to the team, and brings up menu 1.
+∑ Yufi        - Adds Yuffie to the team, and brings up menu 1.
+∑ Ket         - Adds Cait Sith to the team, and brings up menu 1.
+∑ Cid         - Adds Cid to the team, and brings up menu 1.
+∑ Vincent     - Adds Sephiroth to the team, and brings up menu 1.
+
+***Costa Del Sol Barmaid***
+(Brings up a list of options related to Costa Del Sol. Also plays the music
+from the town.)
+
+∑ "Costa del Sol" - Cancels.
+∑ Town            - In the town.
+∑ Beach           - At the beach, before the meeting with Hojo.
+∑ Harbor          - At the harbor. You're stuck on the pier behind a sailor.
+∑ Debug           - Scene where Rufus arrives. Heidegger is stuck behind the
+                    same sailor, and the game hangs.
+
+***Sephiroth***
+"Mt. Corel"
+(Plays the first world map theme when you talk to him.)
+
+(Mt. Corel related areas.)
+∑ Mountain Road   - South entrance to Mt. Corel.
+∑ (Cancel)        - Cancels.
+∑ Vally           - Rail section of Mt. Corel just past the reactor.
+∑ Up&Down         - Climbing area, after the fall from the broken railway.
+∑ River           - The bridge area of Mt Corel overlooking the river below.
+∑ Hole            - Inside the Hermit's Cave.
+∑ PiyoPiyo        - Scene with the baby birds on the cliffside.
+∑ Bridge          - Long rope bridge just outside of the village.
+∑ Railway         - At the beginning of the 'roller coaster' railway.
+∑ Ballet's Memory - Barret's memory of the Shinra attacking Corel.
+∑ Cancel          - Cancels.
+
+***Button Functions***
+Yes, some of the buttons have special functions in this room... Here's what
+some of them do...
+
+∑ Square Button; "Reset Flag"         - Removes team members/items. Sets 
+                                        time to 00:00:00, and enables all 
+                                        options.
+∑ L1 Button; "Battle Off"             - Disables battles. (Press again to 
+                                        re-enable them.)
+∑ R1 Button; "Reset Flag"             - Removes team members/items. Sets 
+                                        time to 00:00:00, and enables all 
+                                        options.
+∑ L2 Button; "Set Normal Party"       - Makes team Cloud, Barret, and Tifa.
+∑ R2 Button; "Default Name&No Money"  - Gives characters default names, and
+                                        takes away all Gil.
+∑ R2 Button; "Debug Name&Debug Money" - Removes all names, and gives you
+                                        131071 Gil.
+∑ Select button; "Help menu"          - Brings up a list of buttons you can
+                                        use here. ^_^
+
+-----------------------------------Room 4-----------------------------------
+Music: Whatever was playing when you entered.
+Interesting Effects: The team is changed to Cloud and Sephiroth.
+Overview: This is a pretty good room. You can view near perfect FMVs, and 
+get the three 'Kalm Traveler' items here. And 99 Save Crystals never hurt
+either. :P Finally, Sephiroth (from the flashback) is added to your team. 
+(Even though the AI controlling him is simply awful. ;)
+
+***Sephiroth***
+"CG MOVIE VIEWER"
+
+Menu 1:
+∑ use     - Brings up menu 2.
+∑ cancel  - Cancels.
+∑ <Blank> - Sends you to the main area of the debug room. (Room 0)
+
+Menu 2: FMV Movies.*
+∑ South Reactor           - Sector 5 reactor explodes. Cloud falls.
+∑ <Blank Space>           - Destruction of Sector 7.
+∑ NIVLHAIM tragedy        - Monster in Nibelheim reactor/Seph burns town.
+∑ <Blank Space>           - Failed rocket launch.
+∑ Gold Saucer             - Ride to Gold Saucer, and scenes from the date.
+∑ take off Tiny Bronco    - The Tiny Bronch takes off, then crashes.
+∑ AERITH death            - Aeris's death and funeral.
+∑ SEPHIROTH               - Scenes at northern crater. WEAPONs awake.
+∑ WEAPON attack           - WEAPON attacks Junon.
+∑ CLOUD psychoanalusis    - Mideel's destruction, scenes from Cloud's dream.
+∑ <Blank Space>           - Meteor rocket launch.
+∑ METEO intercept failure - The rocket crashes into Meteor...
+∑ Shoot SISTER LAY        - Scenes of the Sister Ray at Midgar.
+
+*These are *complete* FMV 'movies' with no cutscenes in the middle. Also, 
+the game actually checks to see if you're using the correct disc, meaning no
+incorrect or messed up FMV! "South Reactor" to "AERITH death" are Disc 1 
+FMVs. "SEPHIROTH" to "Shoot SISTER LAY" are Disc 2 FMVs.
+
+***Fat Man***
+"KARM TOWN"
+
+Menu 1: (Areas in Kalm Town.)
+∑ Cancel          - Cancels.
+∑ First come      - Lets you make a party, then sends you to Kalm Town.
+∑ After armagedon - Brings up menu 2.
+
+Menu 2: "Check oldman's event?"
+∑ Yes - Brings up menu 3.
+∑ No  - Sends you directly to Kalm Town after Sephiroth summons Meteor.
+
+Menu 3: (Get items to bring to the traveler.)
+∑ get GUIDE BOOK  - Gives you the Guide Book. Brings up menu 3 again.
+∑ get DESERT ROSE - Gives you the Desert Rose. Brings up menu 3 again.
+∑ get EARTH HARP  - Gives you the Earth Harp. Brings up menu 3 again.
+∑ event start     - Sends you to disc 2 Kalm Town with any selected items.
+
+***Rude***
+"SOUTH DUNGEON"
+
+Menu 1: (Mythril Mine)
+∑ Cancel      - Cancels.
+∑ Meet TARCKS - Brings up menu 2.
+∑ We can't go - Sends you to the entrance of the Mythril Mine.
+
+Menu 2: "Join AERITH?"
+∑ Yes - Sends you to the meeting with the Turks. Aeris is added to team.
+∑ No  - Sends you to the meeting with the Turks. Aeris isn't in the team.
+
+***Sailor***
+"ANOTHER CHECK"
+
+Menu 1:
+∑ Last Dungeon     - Brings up menu 2.
+∑ HIGHWAY minigame - Play the motorcycle escape mini-game. (One from Shinra
+                     Building, not the Gold Saucer 'G-Bike' game.)
+∑ Shinra AirShip   - Sends you to the crashed Gelnika Airplane.*
+
+*If you try to leave the Gelnika, but you don't have a submarine, you'll 
+still end up underwater, but piloting...The Key of the Ancients! You can 
+sail up over the land if you want, too... There isn't much out there, 
+though. Also, the Gelnika and Emerald Weapon seem to be missing, and you
+can't go above water, so this trick is more of a novelty than anything else.
+
+Menu 2: (Party select screen comes up after all the choices.)
+∑ join YUFI    - Adds Yuffie to the team, then brings up menu 3.
+∑ join VINCENT - Adds Vincent to the team, then brings up menu 3.
+∑ join BOTH    - Adds both of them to the team, then brings up menu 3.
+∑ join cancel  - Brings up menu 3.
+
+Menu 3: "SAVE CRYSTAL......"
+∑ Give 99!! - Gives you 99 Save Crystals, then sends you to the North Cave.
+∑ No need   - Sends you to the North Cave.
+
+***Aeris***
+"AERITH EVENT"
+
+∑ Decline Church  - Leads to the back room of Aeris's church, being chased
+                    by Shinra soldiers and the Turks.
+∑ Forgotten Relm  - Leads to the first screen of Corral Valley.
+∑ Go to NorthLand - Scene after the battle with Jenova∑LIFE. End of Disc 1.
+
+***Shera***
+"ROCKET VILLAGE"
+
+Menu 1:
+∑ Meet CID        - Brings up menu 2.
+∑ METEO intercept - In Rocket Town, just before the launch in disc 2.
+∑ Rocket at Space - Inside the rocket after it has taken off.
+
+Menu 2: "SETUP DEBUG STATUS"
+∑ DEBUG mode        - Allows you to choose a team, then sends you to Rocket
+                      Town before meeting Cid.
+∑ NORMAL mode       - Seems to do the same thing as "DEBUG mode".
+∑ CD Emulator Check - <Can't Select> 
+
+***Miner***
+"GONGAGA VILLAGE"
+
+∑ Cancel      - Cancels.
+∑ Meet TARCKS - Entrance to Gongaga Village. Meeting with the Turks.
+∑ Who am I?   - Scene at the Gongaga Inn after the Temple of the Ancients.
+
+***Red Shinra Soldier***
+"TUNNEL"
+
+Menu 1: (Sector 5 Reactor)
+∑ Cancel      - Cancels.
+∑ Tunnel      - Brungs up menu 2.
+∑ 5th Reactor - Sector 5 reactor, out on the bridge before the Airbuster
+                battle.
+
+Menu 2: "LEVEL of TORIYAMA EVENT"
+∑ Perfect! - Train tunnel. One screen away from the reactor.
+∑ Normal   - Train tunnel. Three screens away from the reactor.
+∑ Oh, NO!! - Train tunnel. Five screens away from the reactor.
+
+-----------------------------------Room 5-----------------------------------
+Music: Whatever was playing when you came in.
+Interesting Effects: Well... Cloud is holding his sword while you're 
+controlling him in this room, but that's not really important. The cool 
+thing here is how you can press the Square button to get some of the people
+here to change their options. Press Square once to get the message "2P", and
+the options will change. If you press it again, "1P" will appear, and the 
+options will return to normal.
+Overview: Nice room! The southernmost Yuffie has some of the most badass 
+commands here. "item iroiro" gives you a load of items, but only the very 
+best! "loveÖpara ijiri" basically lets you *choose* your date at the Gold 
+Saucer, and "okane ippai" gives you more Gil than you'll ever need! You can 
+also view a few FMVs, play games from the Gold Saucer, and even rename your 
+characters!
+
+***Yuffie (Upper)***
+"Gold" (Without Square button pressed.)
+
+(Gold Saucer areas)
+∑ ballet punpun    - Sends you to the Gold Saucer when you first arrive.
+∑ caitsith toujou  - Same as above, but scene with Barret has already 
+                     occurred. Head for Wonder Square and meet Cait Sith.
+∑ dio toujou       - Cait Sith is on the team now, so head for Battle 
+                     Square.
+∑ tougijou de      - Leads to the murder scene at Battle Square.
+∑ kaettekita cloud - On the elevator with Ester talking about the Chocobo
+                     race.
+∑ under corel      - Arrival in Corel prison.
+∑ yameta           - Cancels. 
+
+"GS2" (With Square button pressed.)
+∑ eki                - Gold Saucer. All areas are opened.
+∑ hotel matome       - In the hotel, before the date.
+∑ cs uragiri         - After the ride on the gondola during the date. (St)
+∑ dio no tenjisitu   - In Dio's showroom, about to get the Keystone.
+∑ date no osasoi     - Start of the date scene.
+∑ nigeta cs no saigo - Cait Sith gives the Keystone to Tseng.
+∑ hotel deppatu      - Hotel room, after the date has ended.
+∑ yame               - Cancels. 
+
+***Yuffie (Middle)***
+"GS" (Without Square button pressed.)
+
+(More Gold Saucer areas)
+∑ hotel          - Leads to the lobby of the Ghost Hotel.
+∑ jet            - Entrance to Speed Square.
+∑ game1F         - Leads to Wonder Square, the first room.
+∑ game2F         - Leads to Wonder Square, the second room.
+∑ kanransha      - Entrance to Round Square.
+∑ hiroba         - At Event Square on the stage. You're not stuck, but you
+                   can't get off the stage...
+∑ eki(R1de mage) - Shows the FMV when you first arrive at Gold Saucer. If
+                   you hold down the R1 button after choosing this, you'll
+                   instead be at the 'closed' version of the Gold Saucer 
+                   from early disc 2 (where Dio blocks the entrance). Since 
+                   you're actually *behind* Dio, you can enter the Gold 
+                   Saucer, but you can't leave.
+∑ chokobo        - Entrance to Chocobo square. A group of Shinra soldiers is
+                   here, but they all run away when you approach.
+∑ kanransha naka - Onboard the Round Square Gondola ride with all three team
+                   members. After the ride is over, the third character gets
+                   stuck in the ticket booth, and the game hangs.
+∑ togijou        - Main room of Battle Square. As soon as you arrive, you
+                   get a message stating that you won the 'Special battle',
+                   and you get the Final Attack materia!
+∑ yame           - Cancels.
+
+"date chuu to GS2" (With Square button pressed.)
+∑ jet       - Entrance to Speed Square.
+∑ game1F    - Leads to Wonder Square, the first room.
+∑ game2F    - Leads to Wonder Square, the second room.
+∑ kanransha - Entrance to Round Square. Date Version. 
+∑ hiroba    - The play at Event Square during the date.
+∑ chokobo   - Entrance to Chocobo Square.
+∑ togijou   - Entrance to Battle Square.
+∑ mogu      - Mog's house game.
+∑ yame      - Cancels.
+
+***Yuffie (Lower)***
+"ijiru" (Without Square button pressed.)
+
+"dousuru?" - Menu 1: (Various game options)
+∑ loveÖpara ijiri      - Brings you to menu 2.
+∑ okane ippai          - Give you a mere 294967295 Gil. ^_^
+∑ okane nasi           - Drops Gil to 0.
+∑ G reset              - Removes team members and key items, sets time to 0,
+                         and enables all commands. 
+∑ dflname kaeru        - Returns characters to their default names.
+∑ GP ippai             - Gives you 32767 GP. (Gold Saucer money)
+∑ member zenin         - Adds all members to the global party
+∑ member yufi vin igai - Adds all members to the global party except Vincent
+                         and Yuffie.
+∑ item iroiro          - Gives you the following items:
+                         - 99 Megalixirs, Speed Sources, and Power Sources.
+                         - 99 Sylkis Greens
+                         - All the characters' Level 4 Limit break manuals.
+                         - All the Ultimate Weapons. 
+                         - All the next-to-ultimate weapons.
+                         - 9 Mystiles and Ziedriches.
+                         - 9 Ribbons and 9 pairs of Sprint Shoes.
+                         - One of every summon materia. (Mastered)
+                         - Three Phoenix Materias. (All Mastered)
+                         - Three of each Master Materia.
+                         - And finally... Three Final Attack, HP Plus, Long 
+                           Range, Mega All, W-Item, W-Summon, and W-Item 
+                           Materias. (All Mastered)
+∑ yame                 - Cancels.
+
+Menu 2: (This affects the Gold Saucer date sequence)
+∑ earith 1ban - Gain max love points from Aeris.
+∑ tifa 1ban   - Gain max love points from Tifa.
+∑ yufi 1ban   - Gain max love points from Yuffie.
+∑ ballet 1ban - Gain max love points from Barret. ^_^
+∑ nakamiru    - Shows current 'love points' for each character.
+∑ yame        - Cancels.
+
+(With Square button pressed. Same menu from Yuffie in Room 0)
+Menu 1:
+∑ NEXT          - Brings up menu 2.
+∑ MENU ON       - Enables all menu commands.
+∑ BATTLE LOCK   - Disables battles.
+∑ BATTLE UNLOCK - Enables battles.
+∑ MOVIE LOCK    - Disables FMV.
+∑ MOVIE UNLOCK  - Enables FMV.
+∑ GLOBAL RESET  - Removes all team, sets time to 00:00:00.
+∑ FULL NAME     - Puts a bunch of trash in each character's name slot. Also
+                  gives them weird equipment, like a gibberish accessory 
+                  that crashes the game if unequipped, then checked on the
+                  item list. 
+∑ NEW START     - Starts a new game. Characters have same stats as they did
+                  when you selected this command! However, the game doesn't
+                  seem to be able to load in these "New Game +" saves.
+∑ EXIT          - Cancels.
+
+Menu 2:
+∑ BACK          - Brings back menu 1.
+∑ SOUND RESET   - Shuts off music.
+∑ FULL MATERIA  - Gives you a bunch of materia, even disabled/glitch ones.
+∑ BATTLE999     - Battle against a group of five inactive pyramids.
+∑ EXIT          - Cancels.
+
+***Young Tifa (Upper)***
+"6bangai" 
+
+∑ love love      - Scene with Aeris at the Sector 6 playground.
+∑ 7ban dokan     - Scene at the playground after Sector 7 gets destroyed.
+∑ matte matte    - After the previous scene. In the sector 6 alleyway.
+∑ ckeckyou kouen - Alone in the playground. If you leave the screen and 
+                   return, it will be destroyed. :P
+∑ yameta         - Cancels.
+
+***Young Tifa (Lower right)***
+"chokobo ijiri"
+
+Menu 1: (Chocobo Stuff)
+∑ ST check          - Allows you to view your Chocobos' stats.
+∑ tukamaeta         - Brings up menu 2.
+∑ yasai to mi ippai - Gives you a bunch of greens and nuts.
+∑ magego bokojou    - Sends you to Chocobo Ranch. (St)
+∑ yaoya             - Allows you to buy Chocobo Greens.
+∑ yame              - Cancels.
+
+Menu 2:
+∑ owari - Cancels.
+∑ A     - Brings up the same menu three more times. Effect unknown.
+∑ B     - Brings up the same menu three more times. Effect unknown.
+∑ C     - Brings up the same menu three more times. Effect unknown.
+∑ D     - Brings up the same menu three more times. Effect unknown.
+∑ E     - Brings up the same menu three more times. Effect unknown.
+∑ F     - Brings up the same menu three more times. Effect unknown.
+∑ G     - Brings up the same menu three more times. Effect unknown.
+∑ H     - Brings up the same menu three more times. Effect unknown.
+
+***Young Tifa (Lower middle)***
+"lasdan" (Without Square button pressed.)
+
+(Areas/Battles in North crater)
+∑ LAS3-1    - First room of south cave after second set of crossroads.
+∑ LAS3-2    - Second room of south cave. Seem to be stuck on a ledge.
+∑ LAS3-3    - Third room of south cave. (St)
+∑ LAS4-0    - Mako pit near the very end. Party meeting place.
+∑ LAS4-1    - Outer platform of mako pit. (St)
+∑ LAS4-2    - Series of ledges leading to Jenova. Battle with Iron Man.
+∑ LAS4-3    - Series of ledges leading to Jenova. Battle with Dragon Zombie.
+∑ LAS4-4    - Battle with Jenova Synthesis.
+∑ LAS4-42   - Lots of screwed up FMV, then the battle with Bizarro Seph.
+∑ ikisaki   - Arrange team into three parties to fight Bizarro Sephiroth.
+∑ dokoitta? - Shows which parties which characters are in. (Upper choice)
+∑ yame      - Cancels.
+
+"hokora" (With Square button pressed.)
+∑ hokora1 - Leads to the cave with the sleeping man who gives you Mythril.
+∑ hokora2 - House of the blacksmith you get Great Gospel from.
+∑ hokora3 - Chocobo Sage's house. (St)
+∑ hokora4 - Lucrecia's waterfall.
+∑ hokora5 - "Mime" materia cave. (St)
+∑ hokora6 - "HP<->MP" materia cave. (St)
+∑ hokora7 - "Quadra Magic" materia cave.
+∑ hokora8 - "Knights of Round" materia cave. (St)
+∑ yame    - Cancels.
+
+***Cloud (Center)***
+(Brings up a box with four choices. These have to do with mini-games, 
+mostly.)
+
+Menu 1: 
+∑ ima...  - Brings up menu 2.
+∑ chokobo - Allows you to name a chocobo, then sends you to the Chocobo 
+            race! (Long course.)
+∑ jet     - Play Speed Square (shooting coaster) mini-game.
+∑ yame    - Cancels.
+
+Menu 2:
+∑ cloud      - Allows you to rename Cloud.
+∑ earith     - Allows you to rename Aeris.
+∑ tifa       - Allows you to rename Tifa.
+∑ ballet     - Allows you to rename Barret.
+∑ red13      - Allows you to rename Red XIII.
+∑ cid        - Allows you to rename Cid.
+∑ caitsith   - Allows you to rename Cait Sith.
+∑ yufi       - Allows you to rename Yuffie.
+∑ vincent    - Allows you to rename Vincent.
+∑ naodemonai - Cancels. 
+
+***Cloud (Left)***
+"8bangai"
+
+(Sector 1/Sector 8 reactor, opening mission)
+∑ tojikomerarechatta - Meeting in the tunnel after the Sector 1 reactor
+                       blows up.
+∑ BOOM to kitamonda  - After the meeting in the tunnel, when the team enters
+                       the Sector 8 city.
+∑ hajimete earith    - First meeting with Aeris, and she asks you to buy a 
+                       flower.
+∑ tobe cloud         - In the lower part of the Sector 8 city, just before
+                       Cloud escapes by train.
+∑ hoka ga ii         - Cancels.
+
+***Aeris in Red Dress (Upper)***
+"party"
+
+"party?" - Menu 1:
+∑ un  - Brings up menu 2.
+∑ uun - Cancels.
+
+Menu 2:
+∑ cloud    - Puts Cloud in as the first team member, then opens menu 3.
+∑ earith   - Puts Aeris in as the first team member, then opens menu 3.
+∑ tifa     - Puts Tifa in as the first team member, then opens menu 3.
+∑ yufi     - Puts Yuffie in as the first team member, then opens menu 3.
+∑ ballet   - Puts Barret in as the first team member, then opens menu 3.
+∑ red13    - Puts Red XIII in as the first team member, then opens menu 3.
+∑ cid      - Puts Cid in as the first team member, then opens menu 3.
+∑ caitsith - Puts Cait Sith in as the first team member, then opens menu 3.
+∑ vincent  - Puts Vincent in as the first team member, then opens menu 3.
+∑ inai     - Leaves first team member slot blank, then opens menu 3.
+
+Menu 3:
+∑ cloud    - Puts Cloud in as the second team member, then opens menu 4.
+∑ earith   - Puts Aeris in as the second team member, then opens menu 4.
+∑ tifa     - Puts Tifa in as the second team member, then opens menu 4.
+∑ yufi     - Puts Yuffie in as the second team member, then opens menu 4.
+∑ ballet   - Puts Barret in as the second team member, then opens menu 4.
+∑ red13    - Puts Red XIII in as the second team member, then opens menu 4.
+∑ cid      - Puts Cid in as the second team member, then opens menu 4.
+∑ caitsith - Puts Cait Sith in as the second team member, then opens menu 4.
+∑ vincent  - Puts Vincent in as the second team member, then opens menu 4.
+∑ inai     - Leaves second team member slot blank, then opens menu 4.
+
+Menu 4:
+∑ cloud    - Puts Cloud in as the third team member.
+∑ earith   - Puts Aeris in as the third team member.
+∑ tifa     - Puts Tifa in as the third team member.
+∑ yufi     - Puts Yuffie in as the third team member.
+∑ ballet   - Puts Barret in as the third team member.
+∑ red13    - Puts Red XIII in as the third team member.
+∑ cid      - Puts Cid in as the third team member.
+∑ caitsith - Puts Cait Sith in as the third team member.
+∑ vincent  - Puts Vincent in as the third team member.
+∑ inai     - Leaves third team member slot blank.
+
+***Aeris in Red Dress (Lower)***
+"EARITH HOME"
+
+(Aeris's house)
+∑ 1F okaasan au  - Arrival at Aeris's house.
+∑ 1F katira haha - Return to Aeris's house after she has been kidnapped.
+∑ 2F nigeru      - Second floor. When you have to leave w/out Aeris knowing.
+∑ 2F ballet naku - Second floor after Sector 7 destruction. Marlene is safe.
+∑ hoka wo ataru  - Cancels.
+
+***Turk Vincent (Lower left)***
+"corel"
+
+(Corel prison areas)
+∑ hajime      - Arrival in Corel Prison.
+∑ sonchou     - South part of the prison, before Barret's flashback.
+∑ dyne kessen - Meeting/Battle with Dyne.
+∑ ueniikunone - After the battle with Dyne, talking to Mr. Coates.
+∑ yame        - Cancels.
+
+***Turk Vincent (Right)***
+"bokujou"
+
+(Chocobo Ranch areas)
+∑ ie no nakada(R1de mage) - Sends you to the Chocobo Ranch inside Choco 
+                            Bill's house when you first arrive. Hold R1 down
+                            after selecting this choice to go to the same 
+                            place, only in disc 2. (You can raise chocobos.)
+∑ soto(R1de mage)         - Sends you to the Chocobo Ranch, outside. The
+                            Chocobos have already done their 'dance', 
+                            though... Hold R1 down after selecting this to, 
+                            again, go to the same place in disc 2.
+∑ bobou(R1de mage)        - Basically the same as the above two, only you're
+                            Inside the stables. As usual, hold R1 down after
+                            selecting this option to go to the disc 2 
+                            version of this area.
+∑ <Blank space>           - Shows something about Lucrecia, then puts you at
+                            the Nibelheim inn...controlling her! Too bad 
+                            she's stuck in the wall...
+∑ sittitai                - Scene where you find the dead Midgar Zolom.
+∑ yame                    - Cancels.
+∑ <Hidden blank spot>     - ???
+
+***Cloud's Mom***
+"movie check" 
+
+(Without Square button pressed)
+∑ doka~n        - Shows FMV. (Differs according to disc)
+∑ tou!          - Shows FMV. (Differs according to disc)
+∑ dongaragashan - Shows FMV. (Differs according to disc)
+∑ touchaku      - FMV of Gold Saucer gondola returning to Corel.
+∑ deppatu       - FMV of gondola arriving at Gold Saucer.  
+∑ sample        - Shows FMV. (Differs according to disc)
+∑ sample        - Shows FMV. (Differs according to disc)
+∑ yame          - Cancels.
+
+(With Square button pressed. The 'Round Square' FMVs only work on Disc 1.)
+∑ saishono - Shows FMV. (Differs according to disc.)
+∑ jet      - Ride on 'Round Square'. Shows roller coaster.
+∑ chokobo  - Ride on 'Round Square'. Shows Chocobo race.
+∑ diozou   - Ride on 'Round Square'. Shows statue of Dio.
+∑ hotel    - Ride on 'Round Square'. Shows Ghost Hotel.
+∑ hiroba   - Ride on 'Round Square'. Shows Event Square.
+∑ hanabi1  - Ride on 'Round Square'. Date scene only.
+∑ hanabi2  - Fireworks display during the date scene.
+∑ yame     - Cancels.
+
+-----------------------------------Room 6-----------------------------------
+Music: Whatever was playing when you entered.
+Interesting Effect: None to speak of...
+Overview: A fairly ordinary room, really. Most of the options, as usual,
+just send you to various parts in the game. Very few of the options here, 
+however, stick you in a wall, or hang the game.
+
+***Cid (Center of the room)***
+"colneo"
+
+(Areas related to the events at Corneo's mansion.)
+∑ ponbiki         - First time at Corneo's mansion.
+∑ irasshai        - In Corneo's mansion, after Cloud has 'dressed up'. (St)
+∑ tifa to gouryuu - Puts you outside of Corneo's Lackey's room, stuck in the
+                    door. You can enter the room, but the game hangs, as 
+                    Cloud is blocking Scotch, who he is also stuck in...
+∑ yame            - Cancels and brings up the message "yameyato". (Probably
+                    translates to "Quitter". :P)
+
+***Cid (Left)***
+"colneo osiokibeya"
+
+(More Corneo related options.)
+∑ tifa to saikai    - In the torture room of Corneo's mansion, before 
+                      meeting Tifa.
+∑ earith to gouryuu - In the torture room, where Kotch is chasing Aeris.
+∑ colneo sonogo     - Again, in the torture room. This time, Kotch is stuck
+                      on the rack. Free him if you want...
+∑ yame              - Cancels.
+
+***Cid (Right)***
+"iroiro"
+
+(All of these options except the first one are Shinra Building related.)
+∑ colneo kobun beya - In Corneo's Lackey's room. If you leave the room after
+                      defeating them, Cloud will be back in a dress, and if
+                      you enter the torture room, both Aeris and Tifa will
+                      be there, and the game ultimately hangs.
+∑ sinra kaidan1     - First section of the Shinra Building staircase.
+∑ sinra kaidan2     - Second section of the Shinra Building staircase.
+∑ sinra kaidan3     - Last section of the Shinra Building staircase.
+∑ sinra 59F         - 59th floor of the Shinra Building. (St)
+∑ sinra elevetor    - Elevator leading to the 59th floor that is under 
+                      attack. You can fight the monsters between floors, but
+                      when you reach floor 59, the doors refuse to open.
+∑ sinrabil totunyuu - Area south of the Shinra Building after you've climbed
+                      the wire.
+∑ sinrabil dasshutu - Escape from the Shinra Building. Aeris is the leader.
+∑ yame              - Cancels.
+
+***Cait Sith (Top)***
+(Brings up a list of the team members' names. Another member switch.)
+
+∑ cloud dake - Makes Cloud the team leader.
+∑ ballet     - Adds Barret to the team.
+∑ tifa       - Adds Tifa to the team.
+∑ earith     - Adds Aeris to the team.
+∑ red        - Adds Red XIII to the team.
+∑ caitsith   - Adds Cait Sith to the team.
+∑ yufi       - Adds Yuffie to the team.
+∑ cid        - Adds Cid to the team.
+∑ cincent    - Adds Sephiroth to the team.
+∑ tifa dake  - Makes Tifa the team leader.
+∑ cid dake   - Makes Cid the team leader.
+
+***Cait Sith (Bottom)***
+(Brings up a short list of miscellaneous options.)
+ 
+∑ unpansen      - Cargo room of the Shinra transport ship before all events.
+∑ corel kaisou1 - Barret's flashback of Corel, before it was destroyed.
+∑ corel kaisou2 - Flashback of the people in Corel discussing the reactor.
+∑ saishuukessen - Scene with Holy before the battle with Bizarro Sephiroth.
+∑ yame          - Cancels.
+
+***Barret (Right)***
+"5bangai"
+
+(Sector 5 areas)
+∑ kyoukai no yane - On the roof of the church after escaping from the Turks.
+∑ yane pyon       - Jumping across the trash heap after the church scene.
+∑ yane kara oriru - After jumping off the trash heap.
+∑ yame            - Cancels.
+
+***Barret (Left)***
+"5bangai2"
+
+(More Sector 5 areas)
+∑ slum chuusai - Town in the Sector 5 slums, after Sector 7 is destroyed.
+∑ dokan        - In the pipe house. ("This guy are sick!")
+∑ icchaya      - Just outside of the Sector 5 slum town.
+∑ yame         - Cancels.
+
+***Aeris (Right)***
+"colneo no heya"
+
+(Yes, more Corneo related scenes)
+∑ cloud erabareru  - Scene where Corneo picks his date for the evening.
+∑ earith erabareru - Same.*
+∑ tifa erabareru   - Same.
+∑ yame             - Cancels.
+
+*Apparently, this is supposed to make the outcome of Corneo's 'date' 
+different. However, if you've already done this event, you'll still have the
+same items, and thus, Corneo will pick the same date for all three choices.
+
+***Aeris (Left)***
+"colneo sinsitu"
+
+(...More Corneo related areas)
+∑ cloud no baai  - Cloud has been picked for Corneo's date... ^_^
+∑ earith no baai - Aeris has been picked for Corneo's date.
+∑ tifa no baai   - Tifa has been picked for Corneo's date.
+∑ yame           - Cancels.
+
+***Yuffie***
+(Brings up a list of Cosmo Canyon related areas. No, there is no 'cancel' 
+option...)
+
+∑ cosmo materia ya  - Cosmo Canyon Materia shop. 
+∑ cosmo touchaku    - Arrival at Cosmo Canyon.
+∑ seto no kabe      - Red XIII learns the truth about his father Seto.
+∑ movie check       - Shows FMV of Bugenhagen's planetarium.
+∑ boogen jikkensitu - First time in Bugenhagen's planetarium.
+∑ sayonara cosmo    - Leaving Cosmo Canyon. Red XIII rejoins the team.
+∑ meteo go cosmo    - Cosmo Canyon, after meteor has been summoned.
+∑ onegai boogen     - At Bugenhagen's house, before taking him to the City
+                      of the Ancients.
+∑ hyuji materia     - In the planetarium with the Huge Materia.
+∑ sayonara boogen   - Scene where Bugenhagen "leaves".
+∑ ............      - At the campfire with Red XIII after the previous 
+                      scene. You get the Limited Moon, but the game hangs...
+
+***Dyne***
+(Brings up a long list of areas related to the Shinra Building.)
+
+∑ sinra 60F        - 60th floor of the Shinra Building. All doors are 
+                     locked. (This applies for floor 60-64, and on any floor
+                     higher than this, you're locked in.)
+∑ sinra 61F        - 61st floor of the Shinra Building. Cafeteria.
+∑ sinra 64F        - 64th floor of the Shinra Building. Gym.
+∑ sinra 63F        - 63rd floor of the Shinra Building. Item Maze. (St)
+∑ sinra 62F        - 62nd floor of the Shinra Building. Mayor's Office. (St)
+∑ sinrabil shoumen - Outside of Shinra Building. (St)
+∑ sinrabio uraguti - Alley leading to the staircase behind the Shinra Bldg.
+∑ minigame         - G-Bike mini game - Gold Saucer version. (With Score)
+                     Stuck in an empty black room afterwards.
+∑ sinrabil matane  - Outside of Shinra Building. (St)
+∑ yame             - Cancels.
+
+***Sailor***
+(Brings up a list of Wutai and Meteor related areas.)
+
+∑ utai iriguti  - Wutai. Yuffie isn't in the team.
+∑ yufi wo oe!   - Wutai, at the start of the Yuffie/Materia Theft event.
+∑ yufi nakamani - First meeting with Yuffie (after defeating her in battle).
+∑ yufi nigeru1  - Wilderness scene, where Yuffie steals your materia.
+∑ yufi nigeru2  - Wilderness. Same effect, just a different background.
+∑ meteo1        - Scene after the rocket slams into meteor.
+∑ meteo2        - After the FMV where meteor reforms... 
+∑ meteo3        - Same as above, but skips the close-up of Canyon Canyon.
+∑ yame          - Cancels.
+
+-----------------------------------Room 7-----------------------------------
+Music: Wall Market theme. If that was playing when you entered, the music
+changes to the Turks' theme.
+Interesting Effects: None to speak of...
+Overview: This is a fun room. You can play the cool Condor Fort mini-games,
+and Tifa gives you some cool options, like 99 of every item, and another
+battle against those Pyramid monsters. Yuffie also has a great FMV viewer!
+       
+***Tifa***
+(Brings up a box with no writing in it, but 8 choices. This is one of my
+favorite menus. :P)
+
+∑ <1> - Gives you 300 Gil.
+∑ <2> - Gives you 131072 Gil.
+∑ <3> - Gives you 99 of *every* item, and fills up your materia screen.
+∑ <4> - Battle with 5 "Í˙Ù(Ò)" pyramids. Same as Room 0's "BATTLE999".
+∑ <5> - Removes all items, key items, materia, and team members. Also resets
+        clock, and enables all commands. 
+∑ <6> - ???
+∑ <7> - ???
+∑ <8> - Cancels
+
+***Aeris***
+(Brings up a menu with 4 choices, obviously about the Wall Market.)
+
+∑ MRKT1         - Leads to the Wall Market before visiting Corneo.
+∑ MRKT2(After)  - Leads to the Wall Market when you first arrive.
+∑ MRKT2(Before) - Leads to the Wall Market after Sector 7 is destroyed.
+∑ Cancel        - Cancels.
+
+***Miner***
+(Brings up a menu with a bunch of blank spots ivolving Ft. Condor. Each time
+you choose one of the blank spots, a menu with three more blank spots and 
+"cancel" appears. The blank spots from the first lists are labeled with 
+numbers. Blank spots from any of the sub-lists are labeled with letters.)
+
+"CONDOR"
+∑ <1>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor when you first arrive. (Disc 1)
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <2>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor before the first battle.
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <3>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor a little bit after the last battle. 
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <4>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor when you first arrive. (Disc 2)
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <5>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor before the last battle.
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <6>  - Brings up next menu.
+  ∑ <A>    - Sends you to Ft. Condor a immediatly after the last battle. 
+  ∑ <B>    - Same as above, only Tifa is the leader.
+  ∑ <C>    - Same as above, only Cid is the leader.
+  ∑ cancel - Same as above, only with current leader. Doesn't cancel.
+∑ <7>  - Sends you to Ft. Condor a little bit after the last battle. 
+∑ <8>  - Sends you to Ft. Condor before a battle.
+∑ <9>  - ??? (Probably a flag of some kind.)
+∑ <10> - Cancels.
+
+***Cait Sith***
+"Climb Wire 
+ After 7th Plate falling"
+
+∑ WCRIMB1(with Battery)    - Climbing the wire to Shinra Building. (w/batt.)
+∑ WCRIMB1(without Battery) - Tsk, tsk. You should know better than to climb
+                             the wire to the Shinra Building without the
+                             batteries! ;P
+∑ WCRIMB2                  - Puts you on the second area of the wire climb
+                             event.
+∑ WCRIMB1                  - Puts you near the swinging bar at the top of 
+                             the first section of the wire climb event.
+∑ Cancel                   - Cancels.
+
+***Woman in purple***
+(Brings up a menu with five choices, and four blank spots. All the options
+refer to the Great Glacier events.)
+
+∑ <Blank Spot 1>   - Awaken at the Great Glacier, near a big tree.
+∑ <Blank Spot 2>   - Awaken at the Great Glacier, near a small cave.
+∑ <Blank Spot 3>   - Sends you to the entrance of the Great Glacier.
+∑ <Blank Spot 4>   - Sends you to the entrance of the Great Glacier.
+∑ HYOU3            - You appear near the small cave, but already awake.
+∑ HYOU13-1(After)  - Sends you to the cave where you get Alexander Materia.
+                     You haven't touched thr Hot Springs.
+∑ HYOU13-1(Before) - Sends you to the cave where you get Alexander Materia.
+                     You've touched the hot springs, and the snow woman 
+                     attacks you.
+∑ HYOU5-2          - Sends you to the mini-game at the ice lake.
+∑ Cancel           - Cancels.
+
+***Barret***
+(Your typical party arranger.)
+
+Menu 1: "Organaize Party?"
+∑ Yes - Brings up menu 2.
+∑ No  - Cancels.
+
+Menu 2: "First char"
+∑ Cloud - Makes Cloud the leader, then brings up menu 3.
+∑ Tifa  - Makes Tifa the leader, then brings up menu 3.
+∑ Cid   - Makes Cid the leader, then brings up menu 3.
+
+Menu 3: "Second char"
+∑ Ballet  - Makes Barret the second character, then brings up menu 4.
+∑ Tifa    - Makes Tifa the second character, then brings up menu 4.
+∑ Aerith  - Makes Aeris the second character, then brings up menu 4.
+∑ Red13   - Makes Red XIII the second character, then brings up menu 4.
+∑ Yufi    - Makes Yuffie the second character, then brings up menu 4.
+∑ Ketcy   - Makes Cait Sith the second character, then brings up menu 4.
+∑ Vincent - Makes Vincent the second character, then brings up menu 4.
+∑ Cid     - Makes Cid the second character, then brings up menu 4.
+∑ No one  - Leaves second character slot blank, then brings up menu 4.
+
+Menu 4: "Third char"
+∑ Ballet  - Makes Barret the third character.
+∑ Tifa    - Makes Tifa the third character.
+∑ Aerith  - Makes Aeris the third character.
+∑ Red13   - Makes Red XIII the third character.
+∑ Yufi    - Makes Yuffie the third character.
+∑ Ketcy   - Makes Cait Sith the third character.
+∑ Vincent - Makes Vincent the third character.
+∑ Cid     - Makes Cid the third character.
+∑ No one  - Leaves third character slot blank.
+
+***Reeve***
+(Starts playing the 'Shinra Death' music, and brings up a box with 5 
+ choices involving Rufus and the Shinra's actions when Diamond Weapon 
+ attacks Midgar. The FMV scenes shown here are so late in the disc, that
+ they'll cause the game to hang if you're not using Disc 2.)
+
+∑ 1       - Scene at Shinra Building where Rufus, Heidegger, Scarlet, and
+            Reeve discuss attacking Sepihroth using the Mako cannon, which
+            Scarlet then names "The Sister Ray". After the scene, you're
+            sent to the City of the Ancients, near the waterfall.
+∑ 2       - Rufus and company prepare to fire the Sister Ray.
+∑ 3       - Diamond Weapon has been defeated, but it's shots are heading
+            for Midgar! FMV here differs depending on the disc you're using.
+            Following the FMV, you're back on the Highwind ready to attack
+            Midgar yourselves!
+∑ last0-3 - Sends you to the entrance of the Northern Crater.
+∑ cancel  - Cancels.
+
+***Red XIII***
+"Train Grave"
+
+∑ MDS7ST2 - Sends you to the second section of the Train Graveyard.
+∑ MDS7ST1 - Sends you to the first section of the Train Graveyard.
+∑ Cancel  - Cancels.
+
+***Cid***
+(Immediate fight against CMD. Grand Horn, followed by a box with three
+ options involving the Wall Market events.)
+
+∑ Man     - Go to the Gym at the Wall Market, and play the 'squat' minigame.
+∑ Be Girl - Sends you to the Wall Market as "Miss Cloud", and gives you 
+            several of the 'dress-up' Key items. However, if you go to 
+            Corneo's mansion, Cloud reverts to normal. You're stuck here...
+∑ cancel  - Cancels.
+
+
+***Wrestler***
+(Brings up a list numbered 1-6. These're the mini games at Ft. Condor.)
+
+∑ 1      - Play the first battle at Ft. Condor.
+∑ 2      - Play the second battle at Ft. Condor.
+∑ 3      - Play the third battle at Ft. Condor.
+∑ 4      - Play the fourth battle at Ft. Condor.
+∑ 5      - Play the fifth battle at Ft. Condor.
+∑ 6      - Play the sixth battle at Ft. Condor.
+∑ last   - Play the last battle at Ft. Condor. (Huge Materia Quest)
+∑ cancel - Cancels.
+
+***Yuffie***
+"20 movie"
+
+∑ look   - Plays FMV based on number at the top of the screen.
+∑ plus   - Adds one number to the "20 movie" caption. Shows different FMV.
+∑ cancel - Cancels.
+
+FMV List:
+
+Disc 1
+
+20: Gate of Sector 1, looking at Mako Reactor. (-s)
+21: Sector 1 Mako Reactor explosion. (-s)
+22: Fire shooting out of the tunnel. (-s)
+23: Cloud escapes from Sector 8 by jumping on the passing train.
+24: The train spirals around the plate.
+25: Airbuster explodes, destroying a piece of the platform. (-s)
+26: Sector 5 reactor explodes. Cloud falls.
+27: Sector 7 destruction - Part 1. Pillar cracks. (-s)
+28: Sector 7 destruction - Part 2. Pillar breaks, plate falls. (-s*)
+29: Sleeping security guard 'watching' the monitors. Start of Floor 60. (-s)
+30: Escape from Shinra Building. (One of my personal favorites. ;)
+31: Overhead view of Mt. Nibel - Part 1.
+32: Overhead view of Mt. Nibel - Part 2. (Shows the reactor.)
+33: Rope bridge breaks. (-s)
+34: Monster in Nibelheim Mako reactor.
+35: Sephiroth walks off into the fire... (Another cool FMV.)
+36: Sephiroth releases Jenova.
+37: Before the parade. Overhead view of Junon. (-s)
+38: First look at the Highwind.
+39: Falling from the Corel railway. (-s)
+40: Gondola ride to Gold Saucer.
+41: Soldiers shoot Dyne and Barret (-s, looks really stupid)
+42: Bugenhagen's Planetarium - Part 1. (-s)
+43: Bugenhagen's Planetarium - Part 2. ("Lifeblood of the planet") (-s)
+44: The brave warrior, Seto.
+45: Failed rocket launch.
+46: Tiny Bronco takes off. (-s)
+47: Tiny Bronco gets shot down and crashes in the ocean. (-s)
+48: Gondola ride over the Gold Saucer. (Date Scene)
+49: Gold Saucer - Fireworks display. (Date Scene)
+ 0: <Hangs the game>
+ 1: Gondola takes off for Gold Saucer.
+ 2: Gondola returns from Gold Saucer.
+ 3: Gondola arrives at Gold Saucer.
+ 4: Gondola leaves Gold Saucer.
+ 5: Ride on Gold Saucer's "Round Square". Shows the roller coaster ride.
+ 6: Ride on Gold Saucer's "Round Square". Shows the Chocobo race.
+ 7: Ride on Gold Saucer's "Round Square". Shows statue of Dio.
+ 8: Ride on Gold Saucer's "Round Square". Shows Ghost Hotel.
+ 9: Ride on Gold Saucer's "Round Square". Shows Event Square.
+10: Bugenhagen's observatory lift rises. (-s)
+11: Bugenhagen's observatory lift goes back down. (-s)
+12: Platform at Junon airship dock rises. (-s)
+13: Platform at Junon airship dock lowers. (-s)
+14: Junon elevator rises. (-s)
+15: Junon elevator goes back down. (-s)
+16: Junon elevator (to undersea Mako reactor) goes down. (-s)
+17: Junon elevator (to undersea Mako reactor) goes back up. (-s)
+18: Junon elevator rises. (-s)
+19: ??? (Blue lines)
+
+*Note: While Cloud, Barret, and Tifa aren't in FMV 27, President Shinra is.
+
+Disc 2
+
+20: Overhead view of swirling winds at north crater. (-s)
+21: North cave collapsing. Sephiroth released. (-s)
+22: Sephiroth frozen in Mako.
+23: Cloud gives Black Materia to Sephiroth.
+24: WEAPON monsters released. (Another of my favorites.)
+25: Meteor looms over Junon... (-s)
+26: Junon prepares for the attack by WEAPON.
+27: Sister Ray is fired!
+28: The shot had no effect! WEAPON moves towards Junon!
+29: The Shinra troops throw everything they have at WEAPON, but to no avail!
+30: WEAPON rises from the sea...
+31: WEAPON fires at Junon, and then is decapitated by the Sister Ray.
+32: Tifa runs to the end of the cannon, and is saved by the Highwind.
+33: Flash of light at Ft. Condor. The condor egg hatches!
+34: Train crashes into North Corel...
+35: Train stops just short of destroying Corel!
+36: Mideel's destruction. Cloud and Tifa fall in the Lifestream.
+37: The Nibelheim from Cloud's dream... (-s)
+38: The well in Nibelheim on that starry night... (-s)
+39: Through Tifa's bedroom window... (-s)
+40: Airship Gelnika takes off from Junon's Airport.
+41: The rusty rocket takes off, shaking up Rocket Town.
+42: <Hangs the game>
+43: Sea outside Junon.
+44: Escape pod ejects from rocket.
+45: Escape pod falls to earth. The rocket slams into Meteor.
+46: Meteor is momentarily destroyed, but immediatly reforms...
+47: Helicopters fly over Midgar, showing off the Sister Ray.
+48: Diamond Weapon heads for Midgar.
+49: Diamond Weapon marches on...
+ 0: <Hangs the game>
+ 1: Gondola takes off for Gold Saucer.
+ 2: Gondola returns from Gold Saucer.
+ 3: Gondola arrives at Gold Saucer.
+ 4: Gondola leaves Gold Saucer.
+ 5: <Brief clip of Bugenhagen's observatory lift>
+ 6: <Brief clip of Bugenhagen's observatory lift>
+ 7: <Brief clip of Bugenhagen's observatory lift>
+ 8: <Brief clip of Bugenhagen's observatory lift>
+ 9: <Brief clip of Bugenhagen's observatory lift>
+10: Bugenhagen's observatory lift rises. (-s)
+11: Bugenhagen's observatory lift goes back down. (-s)
+12: Platform at Junon airship dock rises. (-s)
+13: Platform at Junon airship dock lowers. (-s)
+14: Junon elevator rises. (-s)
+15: Junon elevator goes back down. (-s)
+16: Junon elevator (to undersea Mako reactor) goes down. (-s)
+17: Junon elevator (to undersea Mako reactor) goes back up. (-s)
+18: Junon elevator rises. (-s)
+19: ??? (Blue lines)
+
+Disc 3
+
+20: <Hangs the game>
+21: <Hangs the game>
+22: After defeating Jenova SYNTHESIS. Blocks rise up.
+23: <Hangs the game>
+24: Before the battle with Bizarro Sephiroth. Holy gets sucked in a vortex.
+25: Cloud falls through a vortex and meets Sephiroth at the end.
+26: Red XIII and his cubs overlook a ruined Midgar.
+27: Ad for Shinra's line of automobiles.
+28: <Hangs the game>
+29: Basically the entire ending scene.
+30: <Hangs the game>
+31: <Hangs the game>
+32: <Hangs the game>
+33: <Hangs the game>
+
+
+(Note: Some of these FMVs, especially ones from the ending, are quite 
+screwed up, and in turn, screw up the game pretty bad...)
+
+-----------------------------------Room 8-----------------------------------
+Music: Whatever was playing when you entered.
+Interesting Effects: None.
+Overview: Quite a dull place. The only thing here that's really any fun is
+the snowboard game Aeris allows you to play. Otherwise, the stuff here 
+basically consists of travelling to various parts in the game. You're seldom
+stuck in walls, however... Also, Priscilla can remove members from your team
+*permanently*, but...uhh...I dunno why you'd wanna do this... ^_^
+
+***Barret***
+"Who do you want in the party?"
+
+∑ Tifa             - Adds Tifa to the team.
+∑ Ballet           - Adds Barret to the team.
+∑ Earith           - Adds Aeris to the team.
+∑ Red              - Adds Red XIII to the team.
+∑ Cid              - Adds Cid to the team.
+∑ Yufi             - Adds Yuffie to the team.
+∑ Ketcy            - Adds Cait Sith to the team.
+∑ Vince            - Adds Vincent to the team.
+∑ Put Cid on point - Makes Cid the party leader.
+∑ Forget it.       - Makes Tifa the party leader. (Doesn't Cancel)
+
+***Tifa***
+"Going to north Corel.
+ It doesn't matter whether or not
+ Ballet is in this event."
+
+∑ Ballet of north Corel - Arrival at Corel.
+∑ ropeway               - Barret's flashback of Corel at the ropeway station
+                          leading to the Gold Saucer.
+∑ North Corel           - North Corel destroyed by the train.
+∑ quit                  - Cancels.
+
+***Woman with red pants***
+(Brings up a list of options. These appear to do nothing, but they actually
+set up various flags. You'll have to leave the debug room, and visit these
+areas. If you're on Disc 1, this is very difficult (and in some cases, 
+impossible, as a few of these flags seem to take place in Mideel), as you're
+at Midgar, and are forced to walk all the way around to Junon... If you're 
+using Disc 2 or 3, however, and have a Gold Chocobo, these are simple to 
+visit.)
+
+∑ Palmer          - Sets up a flag. This probably has to do with Palmer,
+                    while he's stealing the Tiny Bronco, as I checked Rocket
+                    Town after choosing this option, and Shera was blocking
+                    the door to the yard where the Tiny Bronco is. She 
+                    ignored me, however... Maybe it was because I was using
+                    Disc 3?
+∑ Highwind        - Gives you the Highwind, and resets all events to right
+                    after you get it.
+∑ Materia mission - ???
+∑ Cloud's revival - ???
+∑ Rocket launch   - ???
+∑ Sister Ray      - ???
+∑ Train success   - ???
+∑ Train failure   - ???
+∑ Train last      - ???
+∑ quit            - Sends you to North Corel after the train event as if
+                    you had won. The lead character is invisible, and you
+                    can't leave town. You're stuck here. (Doesn't Cancel)
+
+***Aeris***
+"Snow board game."
+
+There are no options here. Aeris simply sends you to the Great Glacier 
+snowboarding game. (Not the Gold Saucer one.) Leads to Great Glacier 
+afterwards, and the game crashes if you try to leave the screen.
+
+***Cid***
+"I'm sickle...xxxx
+ I mean...Icicle Inn.
+ ...ok, bad joke."
+
+There are no options here either. Cid sends you to the Icicle Inn before the
+meeting with Elena.
+
+***Yuffie***
+"Hyrdoplane event"
+
+∑ Deck no. 1        - <Hangs the game>
+∑ parachute deck    - Outside of the Highwind, ready to parachute into 
+                      Midgar.
+∑ bridge no. 1      - Scene onboard the Highwind after Sephiroth's barrier
+                      is destroyed.
+∑ bridge no. 2      - Scene on the Highwind. Hojo prepares to fire the 
+                      Sister Ray again.
+∑ bridge no. 3      - Third scene on the Highwind. After Reeve is arrested.
+∑ conference room 1 - First meeting at Shinra HQ, where Rufus and the other
+                      Shinra officials discuss gathering the Huge Materia.
+∑ conference room 2 - Scene at Shinra HQ after Rufus's death. The Mako 
+                      output for the Sister Ray is increasing. Hojo plans to
+                      fire it again, even though it may destroy Midgar!
+∑ conference room 3 - In Shinra HQ. Reeve gets captured when he tries to
+                      stop Scarlet and Heidegger from interfering with Cloud
+                      and the others' plans to stop Hojo...
+∑ send-off people   - Scene just before the team parachutes down into 
+                      Midgar.
+∑ quit              - Cancels.
+
+***Man in blue shirt/black pants***
+"Gaea's cliff test"
+
+∑ Gaea's cliff no. 1   - First climb up the side of the cliff.
+∑ Gaea's cliff no. 2   - Second climbing sequence.
+∑ Gaea's cliff 1 of 3  - Third climbing sequence.
+∑ Gaea's cliff 2 of 3  - At the top of the cliff, about to go to the crater.
+∑ Base of Gaea's cliff - The base of the cliff. Near Holzoff's house.
+∑ quit                 - Cancels. 
+
+***Red XIII***
+"Where are you going underneath Junon?"
+
+∑ Under Junon 1          - Lower Junon village.
+∑ There'll be monsters   - Beach in lower Junon.
+∑ Dolphin jump           - Leads to the dolphin jump scene, but you don't
+                           seem to have the whistle. If you get out of the
+                           water, Priscilla isn't there, so you can't get 
+                           back in.
+∑ Artificial Respiration - Scene where you have to give Priscilla CPR.
+∑ quit                   - Cancels.
+
+***Man in blue shirt/brown pants***
+(Brings up a list of more Gaea's cliff areas.)
+
+∑ Crater no. 1              - First area of the crater at Gaea's cliff.
+∑ Whirlwind Maze no. 1      - Kinda strange... This is the scene *after* 
+                              defeating Jenova∑DEATH, where you re-obtain
+                              the Black Materia. After the scene, however, 
+                              you'll end up in a battle with Jenova∑DEATH!
+∑ Whirlwind Maze no. 2      - First section of the maze area.
+∑ Atmospheric Barrier no. 1 - First wind barrier.
+∑ Atmospheric Barrier no. 2 - Second wind barrier.
+∑ Atmospheric Barrier no. 3 - Third wind barrier.
+∑ quit                      - Cancels.
+
+***Priscilla***
+(Brings up a list of options referring to team members.)
+
+∑ all members    - Adds all members to your global party. (PHS window)
+∑ quit           - Cancels.
+∑ Without Yufi   - Removes Yuffie from the global party.
+∑ Without Vince  - Removes Vincent from the global party.
+∑ Without Ballet - Removes Barret from the global party.
+∑ Without Tifa   - Removes Tifa from the global party.
+∑ Without Earith - Removes Aeris from the global party.
+∑ Without Red    - Removes Red XIII from the global party.
+∑ Without Cid    - Removes Cid from the global party.
+∑ Without Ketcy  - Removes Cait Sith from the global party.
+
+-----------------------------------Room 9-----------------------------------
+Music: Outside Midgar/Mt. Corel.
+Interesting Effects: All the characters' names except Cloud become blank.
+Overview: Extremely boring -- there isn't a single feature about this room
+that's particularly useful or interesting. About 90% of the options here 
+take you to various areas in the game stuck in a wall or other obstacle, 
+making them totally useless! Barret's "Materia Max" command *sounds* useful,
+but all it does is fill up the blank spots in your Materia list with Bahamut
+materia! And...don't *ever* use the save point, as you won't be able to get 
+out!
+
+***Save Point***
+
+A normal save point. Just lets you save your game. (Don't, though.)
+
+***Barret***
+"materia max"
+
+∑ yes - Game hangs for a second, then fills up your Materia list with 
+        nothing but a bunch of Bahamut materias. 
+∑ no  - Cancels. 
+
+***Aeris***
+"player change"
+
+∑ cloud  - Makes Cloud the leader.
+∑ tifa   - Makes Tifa the leader.
+∑ cid    - Makes Cid the leader.
+∑ cancel - Cancels.
+
+***Yuffie***
+(Brings up a long list of options having to do with the Wutai/Da-chao 
+statues events.)
+
+∑ cancel       - Cancels.
+∑ turcks union - A flag that works in conjunction with the options below; 
+                 it makes the Turks appear in the scenes at Da-chao.
+∑ DATIAO 1     - Sends you to the first section of the Da-chao statues. (St)
+∑ DATIAO 2     - Sends you to the first left path of Da-chao. (St)
+∑ DATIAO 3     - Farthest left dead end at Da-chao. (St)
+∑ DATIAO 4     - Farthest right dead end at Da-chao. (St)
+∑ DATIAO 5     - Sends you to the second left path of Da-chao. (St)
+∑ DATIAO 6     - Dead end where you meet Corneo. (St)
+∑ DATIAO 7     - Northernmost dead end. (St)
+∑ DATIAO 8     - Da-chao fire cave. (St)
+∑ 5TOWER       - Leads to the bottom floor of the Wutai pagoda.
+
+***Woman***
+(Also brings up a long list of options. Most of them have to do with either
+the raid in Midgar at the end of disc 2, or the train chase at North Corel.)
+
+Menu 1:
+∑ Quit      - Cancels. 
+∑ next page - Brings up menu 2.
+∑ BLACKBGH  - Leads you to a empty, pitch black room with no visible exit.
+∑ BLACKBGI  - Just moves you to a corner of debug room 9. (Does nothing.)
+∑ TUNNEL 6  - Leads to a scrambled screen. Go south and you'll be in the 
+              Midgar rail tunnel from the raid on disc 2. The graphics are
+              still *really* screwed up, though, and the area is unstable.
+∑ MD8 6     - Back alley, before raid on Midgar in disc 2. (St)
+∑ MD8 B1    - First area during disc 2 Midgar raid - Upper screen. (St)
+∑ MD8 B2    - First area during disc 2 Midgar raid - Lower screen. (St)
+∑ MD8 32    - At the base of the stairs leading to the Sister Ray. (St)
+∑ MD8 BRDG2 - North exit of the train tunnel, where you fight Proud Clod.
+              (St)
+∑ TUNNEL 4  - Part of the train tunnel. You appear to be stuck behind a 
+              closed door, but walk to the end of the tunnel to get out...
+∑ TUNNEL 5  - Another part of the train tunnel. (St)
+
+Menu 2:
+∑ pre page  - Brings Menu 1 back.
+∑ CANON 1   - The staircase leading to the Sister Ray in Midgar. (St)
+∑ CANON 2   - Scene with Hojo at the Sister Ray just before the raid on 
+              Midgar, followed by scene of the team on the airship, and the
+              remaining Shinra officials. After the events, you end up 
+              outside Ft. Condor.
+∑ MTCRL 2   - At the reactor on Mt. Corel, just before the train departs.
+∑ ZCOAL 1   - On the train that Cid steals, trying to catch up with the 
+              Shinra train. If Cid isn't the leader, you can't do anything.
+∑ ZCOAL 2   - On the back of the Shinra Train. However, the timer starts at
+              00:00, so you automatically lose, and the train crashes into
+              North Corel.
+∑ ZCOAL 3   - At the engine of the Shinra Train. Again, the timer starts at
+              00:00, but the train won't crash.
+∑ 4SBWY 22  - Yep, back to the raid at Midgar in disc 2. ;) This one brings
+              you to the air duct leading to the train tunnel. This, 
+              however, leads to one helluva wickedly scrambled screen!
+
+***Red XIII***
+(Brings up yet another long list of options. These ones referring to the 
+undersea Mako reactor in Junon.)
+
+∑ cancel   - Cancels.
+∑ SPGATE   - Gate leading to the underwater tunnel in Junon. (St)
+∑ SPIPE 1  - First part of the underwater tunnel.
+∑ SPIPE 2  - Second part of underwater tunnel, near door to reactor. (St)
+∑ SEMKIN 1 - Inside the underwater elevator leading to the reactor. (St) 
+∑ SEMKIN 2 - Upper bridge inside the reactor overlooking the two subs. (St)
+∑ SEMKIN 8 - The hall with a save point leading to the main reactor. You 
+             appear to be stuck, but move left or right to get free.
+∑ SEMKIN 3 - Main hall of the reactor. (St)
+∑ SEMKIN 4 - Bridge overlooking the Mako Reactor where the materia is. (St)
+∑ SEMKIN 5 - Scene where the Huge Materia is loaded on the submarine. (St)
+∑ SEMKIN 6 - In the sub dock. The red submarine is gone. (St)
+∑ SEMKIN 7 - Sub dock, near the grey submarine. (St)
+
+***Vincent***
+"pary make"
+
+∑ ballet  - Adds Barret to the team.
+∑ tifa    - Adds Tifa to the team.
+∑ earith  - Adds Aeris to the team.
+∑ red     - Adds Red XIII to the team.
+∑ yufi    - Adds Yuffie to the team.
+∑ ketcy   - Adds Cait Sith to the team.
+∑ vincent - Adds Vincent to the team.
+∑ cid     - Adds Cid to the team.
+∑ no      - Cancels.
+
+***Cait Sith***
+(Brings up yet more options, these having to do with the final dungeon.)
+
+∑ cancel - Cancels.
+∑ LAS2 1 - Last dungeon; second fork in the road. Crashes game if you leave
+           the screen.
+∑ LAS2 2 - Last Dungeon; first screen in 'swamp' area. 
+∑ LAS2 3 - Second screen of 'swamp' area. (St)
+∑ LAS2 4 - Forested area with shining pit. (St)
+∑ LAS0 6 - Ledge maze. 
+∑ LAS0 7 - Caves in ledge maze. (St)
+∑ LAS0 8 - First set of crossroads. (St)
+∑ MOGU 1 - Play Mog House. When it ends, you'll be at the Gold Saucer.
+
+-----------------------------------Room 10----------------------------------
+Music: "Electric de Chocobo", the Chocobo Battle/Snowboard music.
+Interesting Effects: The characters are given...weird names. ^_^
+Overview: I don't have an immediate use for this room. There really isn't 
+anything here that you can't find in any of the others.
+
+As soon as you enter this room, you'll be given two choices:
+
+Menu 1:
+∑ For those in a hurry         - Brings up menu 2.
+∑ For those with a little time - Lets you walk around the room.
+
+Menu 2: (Mideel Areas)
+∑ Where to?                      - Mideel Hospital, when Tifa finds Cloud.
+∑ To Mideel by the sea!          - Same as above.
+∑ To the Mideel Clinic!          - <Hangs the game>
+∑ To the Mideel Talk Event!      - Inside the Clinic after Tifa leaves.
+∑ To the Clinic Attack Event!    - Destruction of Mideel.
+∑ To the Lifestream!             - Cloud and Tifa fall in the Lifestream.
+∑ To the Mindzone!               - Start of Cloud's Lifestream dream...
+∑ To the Spirit World!           - After Nibelheim flashback.
+∑ To Spirit World2!              - After Nibelheim well flashback.
+∑ To Spirit World3!              - After Tifa's bedroom flashback.
+∑ To Spirit World again!         - After second Nibelheim flashback.
+∑ Last time to the Spirit World! - Mideel, after it's been destroyed.
+∑ To Mideel after it fell!       - Ultimate Weapon attacks Mideel.
+∑ Hold it, I need a break!       - <Can't Select>
+
+***Aeris***
+"So? where to?"
+
+(Mideel Events)
+∑ To Mideel                  - Leads to Mideel town. Lead character is
+                               invisible. Crashes game.
+∑ To Mideel Clinic!          - Mideel Hospital, when Tifa finds Cloud. Tifa
+                               is invisible.
+∑ To the Mideel Talk Event!  - <Hangs the game>
+∑ To the Attack Event!       - Inside the Clinic after Tifa leaves. Lead
+                               character is invisible. Crashes game.
+∑ To the Lifestream!         - Mideel, after it's been destroyed. Lead
+                               character is invisible. Crashes game.
+∑ To the Mindzone!           - Cloud and Tifa fall in the Lifestream.
+∑ To the Spirit World!       - After Nibelheim flashback.
+∑ To Spirit World2!          - After Nibelheim well flashback.
+∑ To Spirit World3!          - After Tifa's bedroom flashback.
+∑ To the Spirit World again! - Mideel, after it's been destroyed. Lead
+                               character is invisible. Crashes game.
+∑ To Mideel after it fell!   - After second Nibelheim flashback.
+∑ To Hades!                  - Cancels. (You're already *in* Hades! ;P)
+
+***Doctor***
+"Take down a flag?"
+
+∑ Mideel            - ???
+∑ Ionia             - ???
+∑ Materia           - ???
+∑ To the dark hill  - Scene on a hill where Cloud and Tifa are 'sleeping'.
+∑ To the light hill - The morning after Cloud and Tifa's 'magical night'.
+∑ <Hidden Choice>   - Brings you to the Highwind, right after you get it.
+                      Tifa is missing, so the game hangs when she has to 
+                      talk. 
+
+***Nurse***
+"Who're you going with?"
+
+∑ I'm starting over - Adds Aeris to the party. Removes all other members.
+∑ ster              - Adds Cloud to the party.
+∑ Princess          - Adds Aeris to the party.*
+∑ Ionia**           - Adds Tifa to the party.
+∑ alator            - Adds Barret to the party.
+∑ Little            - Adds Yuffie to the party.
+∑ Red XIII          - Adds Red XIII to the party.
+∑ Cait Sith         - Adds Cait Sith to the party.
+∑ Ol'               - Adds Cid to the party.
+∑ <Blank Spot>      - Adds Sephiroth to the party.
+
+*Here's a fun little trick. Choose "I'm starting over", followed by 
+"Princess". You'll be able to control the giant Aeris in this room. ;)
+This trick is more of a novelty than anything else, as you're stuck here if
+you do it. :P
+
+**Apparently, the game uses the same character for both "I" and "l". Is 
+that name "Ionia", or "lonia"? 
+
+***Talking Floor***
+
+This was probably designed as some kind of joke. Anyway, yes, the floor in
+this room (at least near Aeris, anyway) actually talks. It has no options or
+anything, but it'll occationally say the following things:
+
+"Huh? You're not thinking of... stepping on me, are you? 
+ I may be a floor but that don't give you the right!!"
+
+<Siren>
+
+"Eyaaaah!! OWW, OWW, OWW...... YEOOWWW......!!"
+
+<Scream>
+
+It doesn't actually *do* anything, but it can get annoying after a while...
+
+-----------------------------------Room 11----------------------------------
+
+This really isn't a room, but the exit to the Debug Room. This puts you 
+outside Midgar, following the last event you did inside the debug room. 
+(i.e. if you went to Mideel before it was destroyed on Disc 3, you'll come
+out of the debug room with the propellor-powered Highwind, and Mideel is
+still standing, etc.)
+
+-----------------------------------Other------------------------------------
+This is a section for stuff in the debug room that doesn't fit in any 
+particular section.
+
+-Missing FMVs- 
+This is a list of FMVs that can't be viewed on any FMV player...
+
+Disc 1:
+
+<None?>
+
+Disc 2:
+
+- Bugenhagen inserts the key at the City of the Ancients.
+- Waterfall falls over the glowing crystal.
+- The waterfall.
+- Projected image on the waterfall. Recap of Aeris's Death.
+- Highwind losing it's propellors and becoming jet-powered. 
+
+----------------------------------------------------------------------------
+ 14. Credits
+----------------------------------------------------------------------------
+
+- BaddKarma (baddkarma@worldnet.att.net) for telling me that you *can* learn
+  White Wind from the Wind Wing enemies. 
+- Seigfried (seigfried@iname.com) for info on Test 0, as well as reminding 
+  me to add some of the earlier weapons/armor to the steal chart.
+
+____________________________________________________________________________
+I may continue to update this FAQ every now and then. If you have any 
+questions (NOT about Aeris/Sephiroth) or assorted goodies to add to this 
+FAQ (that are true), mail me at YelseyKing@aol.com, with the subject line of
+"FF7 FAQ" or something similar. Using a subject line of "Hi!" or "Need Help"
+will result only in getting your mail deleted. 
+
+(Oh, and BTW, don't even *ASK* me to do a Xenogears Debug Room FAQ! :P)
+
+This FAQ (c) 1998-1999 Matt Hobbs.
+Final Fantasy VII (c) 1997-1998 Square

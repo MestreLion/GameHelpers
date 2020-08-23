@@ -1,0 +1,93 @@
+A11
+- Campos 10
+- Producao 5
+- ...
+
+A12
+- Mansao 15
+- Praça -> CC 10
+- Armazem 20
+- Ferreiro -> Armazem 20
+- Tesouraria -> CC 10
+
+
+A13
+- Campos 10
+- Producao 5
+- Mercado 20
+- Praça -> CC 10
+- Grande Cavalaria -> CP 10
+
+
+A1
+- Embaixada 20
+- Muralha 20
+- Quartel 20
+- Armadura 20
+
+
+A8
+- Armazem 20
+- Celeiro 20
+- Muralha 20
+- Quartel 20
+- Armaduras 20
+
+
+A9
+- Armazem 20
+- Celeiro 20
+- Muralha 20
+- Quartel 20
+- Armadura 20
+ 
+
+
+B6
+- Armazem 20
+- Celeiro 20
+- CC 10
+- Muralha 20
+- Quartel 20
+- Armadura 20
+- Ferreiro -> Embaixada
+
+
+C2
+- Ferreiro 20
+- Muralha 20
+- Torneios 10
+
+
+C7
+- Heroi 15
+- Palacio 15
+
+
+
+D3
+- Mansao 15
+- Muralha 20
+- Armaduras e Ferreiro 20 (Espiao)
+
+
+F5
+- Muralha 20
+- Quartel 20
+- Armadura 20
+
+
+F10
+- CP 10
+- Mercado 20
+- Cavalaria 10
+- CC 10
+- Armazem 20 x 2
+- Celeiro 20 x 2
+
+
+M4
+- Muralha 20
+- Quartel 20
+- Embaixada 20
+- Armadura 20

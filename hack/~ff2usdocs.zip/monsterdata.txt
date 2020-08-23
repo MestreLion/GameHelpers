@@ -1,0 +1,883 @@
+Updates:
+9/3/2000 Added header and item drop probability information
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses reverse bit order (bit 0 is the most significant bit).
+
+Monster names are stored from 71A00 to 72100. Each name is eight bytes long.
+The GP values for each monster are stored from 72200 to 723BF; each is two
+bytes long. XP values for each monster are stored from 723C0 to 7257F; again,
+each is two bytes long. Monster graphical data is stored from 7CC00 to 7D000
+(thanks Yousei!); the data for each monster is four bytes long and structured
+as follows:
+
+byte 00: graphic size pointer
+byte 01: monster palette number
+bytes 02-03: graphic data pointer
+
+Monster stat data is stored from 72A60 to 738BF. Because the entries are of
+variable length (explained below), a pointer table is necessary to tell the
+game exactly where data for each type of monster is. The pointer table is
+located from 728A0 to 72A5F; each pointer is two bytes long and is the offset
+of the data from the beginning of the monster data section + A860 (the least
+significant sixteen bits of its CPU address, in other words, but the
+subroutine to fetch and decode this data actually subtracts A860 instead of
+prepending a bank number, for no really good reason).
+
+Each monster's entry is at least ten bytes in size, but could be in theory up
+to twenty bytes if all optional bytes were used. The first ten bytes have the
+same meaning for all monsters. The meanings of any extra bytes are determined
+by which bits are set in tenth byte.
+
+byte 00:
+    bit 0: boss bit (immunity to peep and status anomalies from hits)
+    bits 1-7: level
+bytes 01-02: Max HP
+byte 03: physical attack table entry
+byte 04: physical defense table entry
+byte 05: magical defense table entry
+byte 06: 
+    bits 0-1: unused
+    bits 2-7: speed table entry
+byte 07:
+    bits 0-1: item drop frequency
+        00 never
+        01 5% chance
+        10 25% chance
+        11 always
+    bits 2-7: item drop table entry
+byte 08: attack sequence group
+byte 09: "extra" byte. bits are tested from MSB to LSB (0 to 7).
+    bit 0: attack status/elemental bytes used
+    bit 1: defense status/elemental bytes used
+    bit 2: elemental weakness byte used
+    bit 3: spell power byte used
+    bit 4: creature type byte used
+    bit 5: reflex attack sequence group byte used
+    bits 6-7: unused
+
+The format of the optional bytes follows.
+
+Attack status/elemental bytes:
+    byte 0: attack elementals
+        bits 0-1: unused?
+        bit 2: spears/arrows
+        bit 3: sacred
+        bit 4: darkness
+        bit 5: lightning
+        bit 6: ice
+        bit 7: fire
+    byte 1: status inflicted by hit
+        bit 0: dead
+        bit 1: stone
+        bit 2: toad
+        bit 3: tiny
+        bit 4: piggy
+        bit 5: mute
+        bit 6: blindness
+        bit 7: poison
+    byte 2: status inflicted by hit
+        bit 0: curse
+        bit 1: float
+        bit 2: paralyze
+        bit 3: sleep
+        bit 4: charm
+        bit 5: berserk
+        bit 6: petrify
+        bit 7: d
+Defense status/elemental bytes:
+    byte 0: defense elementals
+        bit 0: immune to elements
+        bit 1: absorbs elements
+        bit 2: resists elements
+        bit 3: sacred
+        bit 4: darkness
+        bit 5: lightning
+        bit 6: ice
+        bit 7: fire
+    byte 1: status immunity
+        bit 0: dead
+        bit 1: stone
+        bit 2: toad
+        bit 3: tiny
+        bit 4: piggy
+        bit 5: mute
+        bit 6: blindness
+        bit 7: poison (this doesn't seem to work properly for some reason)
+    byte 2: status immunity
+        bit 0: curse
+        bit 1: float
+        bit 2: paralyze
+        bit 3: sleep
+        bit 4: charm
+        bit 5: berserk
+        bit 6: petrify
+        bit 7: d
+Weakness byte:
+    bit 0: damage x4 on weaknesses rather x2
+    bit 1: floating
+    bit 2: spears/arrows
+    bit 3: sacred
+    bit 4: darkness
+    bit 5: lightning
+    bit 6: ice
+    bit 7: fire
+Creature type byte:
+    bit 0: undead (adds cure damages and immunity to status-inflicting hits)
+    bit 1: mage
+    bit 2: slime
+    bit 3: giant
+    bit 4: spirit
+    bit 5: reptile
+    bit 6: machine (adds immunity to status-inflicting hits)
+    bit 7: dragon
+
+The physical attack, physical defense, and magical defense entries all look up
+the data from the same table, which goes from 72580 to 7281F. Each entry in
+the table consists of three bytes:
+
+byte 00: Multiplier.
+byte 01: Percentage.
+byte 02: Base.
+
+Although there is absolutely no reason that, say, physical attack could use
+values normally used by magical defense, in general the creators of the game
+grouped the stat triples by function.
+
+Physical attack
+===============
+#  X  %  b
+-- -- -- --
+00 01 4B 12
+01 01 4B 13
+02 01 50 14
+03 01 50 15
+04 02 55 0B
+05 02 55 0D
+06 02 5A 0F
+07 02 5A 10
+08 02 5F 12
+09 02 5F 13
+0A 02 63 14
+0B 02 63 16
+0C 03 4B 18
+0D 03 4B 1A
+0E 03 50 1C
+0F 03 50 1E
+
+#  X  %  b
+-- -- -- --
+10 03 55 20
+11 03 55 22
+12 03 5A 24
+13 03 5A 26
+14 03 5F 28
+15 03 5F 2A
+16 03 63 2C
+17 03 63 2E
+18 04 46 28
+19 04 46 2A
+1A 04 50 2C
+1B 04 50 2E
+1C 04 5A 30
+1D 04 5A 32
+1E 04 63 34
+1F 04 63 36
+
+#  X  %  b
+-- -- -- --
+20 05 46 38
+21 05 46 3A
+22 05 50 3C
+23 05 50 3E
+24 05 5A 40
+25 05 5A 42
+26 05 63 44
+27 05 63 46
+28 06 46 48
+29 06 46 4A
+2A 06 50 4C
+2B 06 50 4E
+2C 06 5A 50
+2D 06 5A 52
+2E 06 5A 54
+2F 06 63 56
+
+#  X  %  b
+-- -- -- --
+30 07 50 58
+31 07 50 5A
+32 07 5A 5C
+33 07 5A 5E
+34 07 63 60
+35 07 63 62
+36 08 50 64
+37 08 50 66
+38 08 5A 68
+39 08 5A 6A
+3A 08 46 50
+3B 08 63 6C
+3C 08 63 6E
+3D 09 4B 70
+3E 09 50 72
+3F 09 55 74
+
+#  X  %  b
+-- -- -- --
+40 09 5A 76
+41 09 5F 78
+42 09 63 7A
+43 09 63 7C
+44 0A 50 80
+45 0A 4B 7E
+46 0A 5A 84
+47 0A 63 86
+48 0A 50 80
+49 0A 55 82
+4A 0A 5A 84
+4B 0A 5F 86
+4C 0A 63 88
+4D 0A 63 8A
+4E 0B 4B 8C
+4F 0B 50 8E
+
+#  X  %  b
+-- -- -- --
+50 0B 55 90
+51 0B 5A 92
+52 0B 5F 94
+53 0B 63 96
+54 0B 63 98
+55 0C 4B 9A
+56 0C 50 9C
+57 0C 55 9E
+58 0C 5A A0
+59 0C 5F A2
+5A 0C 63 A4
+5B 0C 63 A6
+5C 0D 5A A8
+5D 0D 5A AA
+5E 0D 63 AC
+5F 0D 63 AE
+
+Physical defense
+================
+#  X  %  b
+-- -- -- --
+60 00 00 00
+61 00 00 01
+62 00 00 02
+63 00 00 03
+64 01 19 02
+65 01 1E 01
+66 01 23 02
+67 01 28 01
+68 01 2D 02
+69 01 32 01
+6A 01 37 02
+6B 01 3C 01
+6C 01 41 02
+6D 01 46 01
+6E 01 50 02
+6F 01 5A 01
+
+#  X  %  b
+-- -- -- --
+70 02 0F 03
+71 02 14 02
+72 02 19 03
+73 02 1E 02
+74 02 23 03
+75 02 28 02
+76 02 2D 03
+77 02 32 02
+78 02 37 03
+79 02 3C 02
+7A 02 46 03
+7B 02 50 02
+7C 02 5A 03
+7D 03 0F 03
+7E 03 14 04
+7F 03 19 03
+
+#  X  %  b
+-- -- -- --
+80 03 1E 04
+81 03 23 03
+82 03 28 04
+83 03 2D 03
+84 03 32 04
+85 03 37 03
+86 03 3C 04
+87 03 46 03
+88 03 50 04
+89 03 5A 03
+8A 04 0F 04
+8B 04 14 05
+8C 04 19 04
+8D 04 1E 05
+8E 04 23 04
+8F 04 28 05
+
+#  X  %  b
+-- -- -- --
+90 04 2D 04
+91 04 32 05
+92 04 37 04
+93 04 3C 05
+94 04 46 04
+95 04 50 05
+96 04 5A 04
+97 05 14 05
+98 05 1E 06
+99 05 28 05
+9A 05 32 06
+9B 05 3C 05
+9C 05 46 06
+9D 06 14 06
+9E 00 00 05
+9F FF 63 FF
+
+Magical defense
+===============
+#  X  %  b
+-- -- -- --
+A0 00 00 00
+A1 00 00 04
+A2 01 1E 05
+A3 01 3C 06
+A4 01 28 07
+A5 01 3C 08
+A6 01 28 09
+A7 01 3C 0A
+A8 02 28 07
+A9 02 3C 08
+AA 02 28 09
+AB 02 3C 0A
+AC 02 28 0B
+AD 02 3C 0C
+AE 03 28 0A
+AF 03 3C 0B
+
+#  X  %  b
+-- -- -- --
+B0 03 28 0C
+B1 03 3C 0D
+B2 03 28 0E
+B3 03 3C 0F
+B4 04 28 0E
+B5 04 3C 0F
+B6 04 28 10
+B7 04 3C 11
+B8 04 28 12
+B9 04 3C 13
+BA 05 28 10
+BB 05 3C 11
+BC 05 28 12
+BD 05 3C 13
+BE 05 28 14
+BF 05 3C 15
+
+#  X  %  b
+-- -- -- --
+C0 06 28 16
+C1 06 3C 17
+C2 06 28 18
+C3 06 3C 19
+C4 06 32 1A
+C5 06 50 1B
+C6 07 32 1C
+C7 07 50 1D
+C8 07 32 1E
+C9 07 50 1F
+CA 07 32 20
+CB 07 50 21
+CC 08 32 22
+CD 08 50 23
+CE 08 32 24
+CF 08 50 25
+
+#  X  %  b
+-- -- -- --
+D0 08 32 26
+D1 08 50 27
+D2 09 32 28
+D3 09 50 29
+D4 09 32 2A
+D5 09 50 2B
+D6 09 32 2C
+D7 09 50 2D
+D8 0A 32 2E
+D9 0A 50 2F
+DA 0A 32 30
+DB 0A 50 32
+DC 0A 32 34
+DD 0A 50 36
+DE 63 64 FF
+DF 63 63 FE
+
+The entries in the speed table, which runs from 72820 to 7289F, contain two
+bytes each and are used to generate a random speed/agility value for the
+monster.
+
+byte 00: Low end of range.
+byte 01: High end of range.
+
+#  Lo Hi
+-- -- --
+00 01 02
+01 1E 1E
+02 01 02
+03 01 03
+04 02 04
+05 02 05
+06 03 06
+07 04 07
+08 05 08
+09 06 09
+0A 07 0A
+0B 08 0B
+0C 09 0C
+0D 0A 0D
+0E 0B 0E
+0F 0C 0F
+
+#  Lo Hi
+-- -- --
+10 0D 10
+11 0E 11
+12 0F 12
+13 10 13
+14 11 14
+15 12 15
+16 13 16
+17 14 17
+18 15 18
+19 16 19
+1A 17 1A
+1B 18 1B
+1C 19 1C
+1D 1A 1D
+1E 1B 1E
+1F 1C 1F
+
+#  Lo Hi
+-- -- --
+20 1D 20
+21 1E 21
+22 1F 22
+23 20 23
+24 21 24
+25 22 25
+26 23 26
+27 24 27
+28 25 28
+29 26 29
+2A 27 2A
+2B 28 2B
+2C 29 2C
+2D 2A 2D
+2E 2B 2E
+2F 41 41
+
+#  Lo Hi
+-- -- --
+30 05 05
+31 1F 1F
+32 09 09
+33 08 08
+34 42 42
+35 04 04
+36 0F 0F
+37 12 12
+38 0B 0B
+39 07 07
+3A 1B 1B
+3B 26 26
+3C 59 59
+3D 35 35
+3E 6F 6F
+3F 45 45
+
+The item drop table runs from 72100 to 721FF. Each entry is four bytes long.
+Each byte designates an item the monster will drop sometimes. The items go in
+order from most common to least common. The most common item is also the item
+that can be stolen from the monster. Which item is received is determined by
+generating a random number from 00 to FF and doing the equivalent of
+consulting the following table:
+
+Random Which item 
+------ -----------
+00-7F  00
+80-CF  01
+D0-FB  02
+FC-FF  03
+
+#  00 01 02 03
+-- -- -- -- --
+00 CE CE CE CE
+01 CE CE CE CF
+02 DD DD DD E2
+03 DD DD DD DD
+04 DD DD DD DD
+05 56 56 56 56
+06 57 57 57 57
+07 58 58 58 58
+08 CE CE CE CE
+09 5A 5A 5A 5A
+0A D1 D1 D1 D1
+0B CF D1 D1 D1
+0C 65 49 CF D0
+0D CE CE CE CE
+0E DD DD DD DD
+0F CF D0 D3 80
+
+#  00 01 02 03
+-- -- -- -- --
+10 CE CF CF CF
+11 CE CF DD DD
+12 78 CF E3 E3
+13 77 8E CF CF
+14 CE CE CE AF
+15 E2 E3 E3 E3
+16 45 A8 5C 5C
+17 25 1C 66 87
+18 E2 E2 E2 E2
+19 E3 3A 47 48
+1A CF CF CF CF
+1B CE CE CE CE
+1C D1 D1 D1 D1
+1D CF D0 5E 5E
+1E 3B 65 86 3D
+1F DD 5D 5D 5D
+
+#  00 01 02 03
+-- -- -- -- --
+20 CF 7D AA A3
+21 CE CE CE CE
+22 10 AB 15 15
+23 CE CE CE CE
+24 CE CE CE CE
+25 CE CE CE CE
+26 07 A9 D1 D2
+27 D1 D1 D1 0E
+28 D2 D3 41 F9
+29 5F 5F 95 53
+2A 4A A3 A3 A3
+2B D1 D2 D3 AE
+2C CF 40 37 27
+2D 2F 2F 2F 2F
+2E C0 A5 27 AC
+2F 7D AA 94 4C
+
+#  00 01 02 03
+-- -- -- -- --
+30 DD D2 D4 7C
+31 DD DD DD DD
+32 CF CF CF CF
+33 CE CE CE AF
+34 CE CE CE CE
+35 CE CE CF CF
+36 CF CF 06 06
+37 5E 5E 5E 22
+38 CE E2 CF E7
+39 D4 D4 D4 D4
+3A CE CE CE E8
+3B CF CF CF EA
+3C FA FA FA FA
+3D CE CE CE CE
+3E D4 D4 D4 D4
+3F D3 D3 D3 D3
+
+The following table contains the raw hex data for all of the game's monsters.
+Here's what the columuns mean:
+
+M# - Monster number.
+HAddr - Address of data (in a ROM with the header attached).
+Monster - Monster name.
+Lv - Monster level and boss bit. The raw hex data starts in this column.
+HP - Monster hit points.
+PA - Physical attack table entry.
+PD - Physical defense table entry.
+MD - Magical defense table entry.
+Sp - Speed table entry.
+It - Item table entry and drop frequency.
+At - Attack sequence group number.
+Ex - "Extra" byte. It determins how the remaining data in the monster entry is
+divided into the remaining columns.
+AStatus - Attack status infliction and elemental bytes.
+Defenses - Status immunity and elemental resistance bytes.
+Wk - Weakness byte.
+WW - Spell power byte (fills the role of both wisdom and willpower for
+monsters).
+Ty - Creature type byte.
+Rf - Reflex attack sequence group number.
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+00 72A60 Imp      03 06 00 01 60 A0 02 78 00 00
+01 72A6A Basilisk 05 5A 00 06 62 A6 06 4D 06 48          00 18 00       04
+02 72A78 Eagle    05 12 00 03 60 A0 02 79 0B 60          00 38 00 20
+03 72A86 FloatEye 04 14 00 02 60 A0 03 43 0E 60          00 38 34 20
+04 72A94 Larva    05 1C 00 02 61 A1 03 50 2F 44          00 38 00          30
+05 72AA2 Cave Bat 14 96 00 15 70 B0 0F 50 13 60          44 38 00 B0
+06 72AB0 Treant   13 04 01 1C 6F B3 10 44 14 74          00 38 00 01 02    15
+07 72AC0 SwordRat 04 1E 00 03 60 AF 03 4D 18 44          00 30 00          19
+08 72ACE TinyMage 06 45 00 01 62 D0 04 66 1C 5C          00 28 00    03 40 1D
+09 72ADE Sand Man 05 14 00 02 60 A1 04 42 00 28                   82    04
+0A 72AEA SandMoth 05 28 00 03 63 A2 04 43 1E 60          00 3A 00 20
+0B 72AF8 Sandpede 06 3C 00 04 63 A1 04 41 20 40          00 3A 00
+0C 72B05 SandWorm 06 4B 00 07 66 A4 03 51 26 50          00 1A 10    0A
+0D 72B13 CaveToad 06 2C 00 04 62 A3 05 4E 2C 68          00 20 00 02    04
+0E 72B22 EvilShel 06 3A 00 04 65 A5 06 44 00 60          00 18 00 84
+0F 72B30 Zombie   06 28 00 05 64 A6 05 00 00 68          88 B9 30 11    80
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+10 72B3F Pike     07 41 00 04 65 A4 06 41 00 60          00 18 00 84
+11 72B4D TrapRose 17 2C 01 23 64 A3 14 44 2E 60          00 3A 00 81
+12 72B5B Mad Toad 07 3B 00 04 67 A4 08 4E 00 6C          00 20 00 02    04 2D
+13 72B6B Jelly    07 23 00 06 DF A4 08 41 00 68          00 00 08 81    20
+14 72B7A Cream    08 37 00 07 DF AD 09 41 00 68          00 00 08 84    20
+15 72B89 WaterHag 08 30 00 08 68 A8 0D 00 00 28                   84 20
+16 72B95 Weeper   09 64 00 08 6A AB 09 00 00 18                      90 09
+17 72BA1 RocLarva 24 20 03 28 85 B7 1A 50 31 44          00 38 00          32 
+18 72BAF Dark Imp 10 C7 00 20 60 A0 15 00 00 00 
+19 72BB9 BlackLiz 19 BC 02 23 82 B3 18 77 07 7C          00 18 00 02 10 04 08 
+1A 72BCA Turtle   0C 96 00 0A 6F A7 09 42 00 68          00 18 00 82    04 
+1B 72BD9 Imp Cap. 09 25 00 06 60 A8 07 00 00 00 
+1C 72BE3 Slime    15 32 00 1D DF AA 10 41 00 68          00 00 08 01    20 
+1D 72BF2 Soldier  09 1B 00 0A 60 A1 02 00 82 44          00 00 08          83
+1E 72C00 Officer  0B DD 00 0D 6C AD 04 00 80 00
+1F 72C0A Needler  0E 6E 00 0A 6C A9 0A 4D 1A 44          00 30 00          19
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+20 72C18 Tricker  61 E0 2E 5F 7A A0 34 78 E8 34                   04 8F    E9
+21 72C25 Cannibal 13 72 01 0C 6C B0 0F 44 2E 60          00 3A 00 01
+22 72C33 Spirit   0A 32 00 0C 69 AA 07 73 11 78          41 C3 33 90 02 08
+23 72C43 Skelton  0A 32 00 0A 6A A1 09 00 33 68          08 BF FC 91    80
+24 72C52 Cocktric 0B 64 00 0C 63 AC 08 79 0C 60          00 38 00 A0 
+25 72C60 Gargoyle 0C A0 00 0E 6E AD 09 00 2A 68          00 98 00 B0    04
+26 72C6F Roc Baby 17 32 00 22 6A AA 21 79 0B 64          00 38 00 A0       0D
+27 72C7E Hooligan 30 6C 07 3B 78 B0 23 73 2B 68          00 98 00 30    08
+28 72C8D Raven    0F AD 03 0E 60 A0 06 52 35 60          00 38 00 20
+29 72C9B WaterBug 08 6E 00 07 70 AC 08 42 36 24                   04       37
+2A 72CA7 Aligator 08 96 00 0A 6E AE 07 53 84 60          00 18 00 82
+2B 72CB5 Pirahna  10 69 00 0F 70 AE 0D 41 00 60          00 38 00 04
+2C 72CC3 Fighter  0C 41 00 0E 62 A1 02 00 82 44          18 00 08          83
+2D 72CD1 General  0F 40 01 12 71 AF 09 00 81 00
+2E 72CDB Soul     10 96 00 0E 70 AE 0C 73 11 68          41 C3 33 90    08
+2F 72CEA Red Bone 0D AA 00 11 70 A7 0B 00 33 68          08 BF FC 91    80
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+30 72CF9 Ghoul    10 78 00 10 64 AF 0C 00 00 68          88 B9 30 11    80
+31 72D08 Skull    1F E4 02 29 72 B8 18 00 34 E8 00 00 80 08 BF FC 91    80
+32 72D1A Revenant 11 A0 00 12 6F B0 0D 00 00 68          88 B9 30 11    80
+33 72D29 VampGirl 14 FA 00 13 73 B3 10 72 3B 78          44 80 00 91 15 80
+34 72D39 CaveNaga 14 FF 00 14 76 B0 11 49 00 3C                   90 05 04 48
+35 72D47 D.Bone   4F 28 23 4E 7D D0 24 54 3D EC 00 01 00 88 BF F4 01    81 3E
+36 72D5A ElecFish 11 C8 00 14 62 B1 0C 44 00 60          44 18 00 A0
+37 72D68 Crocdile 11 24 01 13 68 AD 0B 53 84 60          00 18 00 82 
+38 72D76 Hydra    0F C8 00 13 7B B4 0C 49 46 78          00 18 00 06 1A 04
+39 72D86 AquaWorm 12 7E 02 16 60 C0 0D 51 27 60          00 1A 10 04
+3A 72D94 Guard    12 C8 00 17 6F B2 0E 00 00 1C                      1A 40 3F
+3B 72DA1 Lamia    22 B0 04 26 82 BA 1B 56 41 4C          00 00 30       04 B1 
+3C 72DB0 StingRat 14 2C 01 16 78 A0 0E 4D 1B 44          00 30 00          19
+3D 72DBE Python   14 5A 00 17 60 C0 0C 49 46 60          00 18 00 92
+3E 72DCC Grudger  23 78 05 27 86 C0 1D 47 00 60          44 00 00 10
+3F 72DDA Mage     0F F4 01 16 72 C0 06 7B 47 40          00 81 20
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+40 72DE7 Naga     1B 84 03 25 7D B2 1A 49 00 1C                      05 04 49
+41 72DF4 Ogre     14 61 03 22 6A B0 0A 60 00 68          00 28 00 10    10
+42 72E03 Panther  14 1D 01 1C 79 B6 0A 76 4B 60          00 30 00 10
+43 72E11 SwordMan 15 40 01 20 71 B9 20 55 00 6C          88 80 00 11    80 4F
+44 72E21 Centaur  15 7C 01 1F 6F AE 11 55 00 40          00 28 00
+45 72E2E VampLady 29 47 09 30 84 C2 23 72 3C 38                   11 1F C0
+46 72E3B Marion   16 D9 01 1F 70 B7 12 62 5E 58          00 28 00    23 40
+47 72E4A Puppet   16 00 01 20 70 B6 13 61 61 34                   01 0F    62
+48 72E57 GlomWing 29 64 05 30 86 DF 22 4A 1E 20                   A0
+49 72E62 FangShel 19 2C 01 15 77 B3 10 44 00 60          00 18 00 84
+4A 72E70 Screamer 2C E8 03 2E 8A C0 24 47 00 08                         12
+4B 72E7C Warrior  31 60 09 37 8C BB 23 55 00 04                            4F
+4C 72E87 Armadilo 1B 2C 01 21 86 B0 18 4C 00 40          00 30 00
+4D 72E94 EpeeGirl 1A 86 01 20 72 B5 14 55 00 44          00 28 00             50
+4E 72EA2 BladeMan 23 1A 04 28 86 B9 1A 55 00 2C                   10       08 40
+4F 72EAF HugeNaga 20 B0 04 2B 89 C4 23 49 00 0C                            04 4A
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+50 72EBB Medusa   1C AE 01 24 82 B4 18 77 52 00
+51 72EC5 D.Fossil 4F 10 27 4A 80 D3 25 54 7B EC 00 00 20 08 BF F4 11    81 7C 
+52 72ED8 Tortoise 1C 90 01 25 74 BB 18 4C 00 68          00 18 00 02    04
+53 72EE7 Dummy    1D D0 07 4A 94 CA 23 4B 54 00
+54 72EF1 Ghost    27 4C 04 36 85 B4 20 73 12 50          41 C3 33    0A
+55 72EFF Bomb     0E 32 00 09 75 B5 06 00 01 40          00 39 00
+56 72F0C GrayBomb 0E 64 00 11 63 A0 0A 00 01 44          00 39 00          02
+57 72F1A Chimera  1C BC 02 2C 7D B8 17 45 58 40          47 B8 30
+58 72F27 Carapace 19 BC 02 22 7A AC 15 4C 00 68          41 18 00 82    04
+59 72F36 Ironback 1D 64 00 29 90 B5 1B 4C 00 40          00 30 00
+5A 72F43 FlameDog 1D C5 04 25 7F A1 18 45 5A 60          41 30 00 82
+5B 72F51 Gorgon   20 D0 07 3B 94 D2 22 77 53 00
+5C 72F5B Stoneman 20 D0 07 2E 79 DF 1B 5D 00 68          00 F7 00 82    10
+5D 72F6A Lilith   21 40 01 17 78 B1 0A 67 42 6C          00 80 30 81    84 43
+5E 72F7A Q.Lamia  22 4C 04 29 84 C9 18 56 44 4C          00 00 30       04 45
+5F 72F89 TinyToad 2B 90 01 01 60 CF 10 4E 5C 7C          00 38 00 02 2F 44 5D
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+60 72F9A HugeCell 1A 2B 02 22 80 C0 16 41 36 04                            38
+61 72FA5 Roc      1B E7 03 25 60 AA 18 52 35 60          00 38 00 20
+62 72FB3 Sorcerer 22 E8 03 2D 80 C0 1C 62 5F 58          00 28 00    32 40
+63 72FC2 Mad Ogre 20 A4 06 2D 80 DF 1F 60 00 58          00 28 00    35 50
+64 72FD1 EvilDoll 1E 2C 01 24 7A B1 19 61 63 04                            64
+65 72FDC GiantBat 1F 8F 01 20 89 BA 1F 50 13 60          44 38 00 21
+66 72FEA Arachne  35 AC 0D 37 7D BC 23 75 23 34                   A2 0A    24
+67 72FF7 FlameMan 1F 43 02 28 82 A4 20 57 00 60          41 00 00 02
+68 73005 Beamer   32 08 07 30 90 D3 1F 58 65 48          00 FF FF       02
+69 73013 Ballon   21 58 02 25 76 B9 1A 7A 01 64          00 39 00 20       03
+6A 73022 Grenade  27 34 03 3B 90 CF 1F 7A 00 64          00 39 00 20       04
+6B 73031 Plague   E0 60 6D 51 91 CA 20 00 66 60          00 3F 38 20
+6C 7303F Last Arm A8 1C 25 48 93 D9 14 74 6F 4C          00 FF FF       02 FB
+6D 7304E BlackCat 23 51 02 26 76 BB 19 76 4C 44          00 30 00          4D 
+6E 7305C D.Machin 43 98 3A 4C 94 D0 26 65 7E 5C          00 FF BB    38 01 50 
+6F 7306C Talantla 2A 0B 09 3C 91 CF 21 75 25 30                   20 05
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+70 73078 Gremlin  17 81 01 20 6E B3 16 4B 55 3C                   01 1F 40 56
+71 73086 Centpede 24 58 02 2A 8D C7 19 75 21 54          00 3A 00    03    22
+72 73095 Red Worm 25 58 1B 45 90 DD 20 5C 28 74          00 1A 10 81 0F    29 
+73 730A5 Red Eye  2D D0 07 36 8C D0 23 43 0F 60          00 38 34 20
+74 730B3 Crawler  2B 13 06 36 86 C2 1F 50 31 44          00 38 00          32
+75 730C1 Ice Liz  17 90 01 21 75 B2 14 46 09 7C          42 18 00 81 02 04 0A
+76 730D2 RockMoth 27 52 03 29 77 B8 1C 43 1F 60          00 3A 00 20
+77 730E0 Were Bat 20 20 03 33 81 C3 22 50 13 60          44 38 00 21
+78 730EE IceBeast 28 BD 01 24 70 B1 15 46 5B 70          42 30 00 01 03
+79 730FD Conjurer 30 B8 0B 38 8F B8 23 62 60 58          00 28 00    3C 40
+7A 7310C Witch    1A 2C 01 1D 73 B0 16 66 67 58          00 20 00    2E 40
+7B 7311B TrapDoor BA 88 13 30 7D D0 1A 00 D8 44          00 7F FF          D9
+7C 73129 ToadLady 28 90 0B 35 70 A0 20 70 68 58          00 18 30    DF    40
+7D 73138 DarkTree 28 08 07 38 89 CA 21 44 16 7C          00 38 00 01 4A 40 17
+7E 73149 Mantcore 2C D0 07 35 85 D0 1E 45 59 40          47 B8 30
+7F 73156 MoonCell 30 D4 03 37 8F D5 25 4A 39 44          00 38 00          3A
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+80 73164 Breath   E2 44 7A 55 60 DF 3F 00 F2 54          00 BA 10    63    F3
+81 73173 Tofu     1E 66 00 25 DF B0 19 41 00 68          00 00 08 02    20
+82 73182 Pudding  32 1A 04 3F DF A0 25 4A 00 48          00 00 08       20
+83 73190 Mind     E2 0C 30 49 DF A0 3F 00 F0 54          00 BA 10    63    F1
+84 7319F Ironman  24 C4 09 2C 70 BE 18 5E 00 48          00 B7 00       10
+85 731AD Green D. 25 98 08 30 83 B8 1B 71 6C 5C          00 38 10    03 01 B0
+86 731BD PinkPuff 60 10 27 5F 99 C0 25 68 7D 58          00 00 08    7F 20
+87 731CC Alert    10 91 05 3D 60 DF 1A 74 70 4C          00 FF FF       02 71
+88 731DB Machine  3C 10 0E 40 7F D2 27 47 76 48          00 FF FF       02
+89 731E9 MacGiant 3C 34 21 45 85 D0 24 59 00 4C          00 FF 38       12 78
+8A 731F8 Kary     3D 8C 0A 3F 81 DF 26 69 51 40          00 28 00
+8B 73205 Molbol   22 CF 07 2F 74 C1 18 5F 72 40          00 98 00
+8C 73212 Ging-Ryu 61 4C 1D 43 8E D6 24 63 73 5C          00 EE E3    5F 01 74
+8D 73222 Yellow D 28 08 07 37 86 BF 1F 71 6D 4C          44 38 10       01 6E
+8E 73231 Fiend    2D A4 0B 36 8B D5 23 4B 55 1C                      4F 40 57
+8F 7323E Juclyote 36 A4 06 37 85 D6 23 5A 00 C0 00 01 00 00 FF FF 
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+90 7324E EvilMask E3 9C 63 48 89 B9 2B 4F E6 18                      0E 02
+91 7325A Horseman 3D B8 0B 45 60 D5 2B 95 00 48          00 38 00       02
+92 73268 RedGiant 61 18 2E 42 89 D1 25 59 6A 5C          00 FF FB    39 10 6B
+93 73278 Staleman 20 34 08 2F 88 BF 17 6A 00 E8 00 00 10 00 B7 00 02    10
+94 7328A FatalEye E3 A8 61 50 95 AB 20 6B 85 60          00 38 34 20
+95 73298 D. Lunar E3 08 52 50 80 DD 01 00 B2 3C                   01 24 81 B3
+96 732A6 Searcher 1E 7C 15 4D 90 DC 1A 74 70 4C          00 FF FF       02 71
+97 732B5 Warlock  47 9A 10 3A 95 C7 25 70 69 58          00 20 00    2C 40
+98 732C4 Wyvern   E3 A8 61 58 95 DC 2E 00 EA 1C                      08 01 EB
+99 732D1 Procyote 3D 98 08 39 95 C9 25 5A 00 C0 00 01 00 00 FF FF
+9A 732E1 Ogopogo  BE 88 90 53 92 D2 3B 00 EC 14                      7F    ED
+9B 732ED Blue D.  E2 90 33 50 94 D3 27 6C 79 4C          7F 7E 38       01 7A
+9C 732FC King-Ryu 61 08 20 48 DD D1 25 64 E2 5C          00 FE EB    1E 01 E3 
+9D 7330C Clapper  36 58 1B 43 90 DD 23 65 75 68          44 FE FB 20    01 
+9E 7331B Pale Dim E2 A4 6A 50 99 DA 2B 00 EE 5C          47 FF 30    1F 01 EF
+9F 7332B Red D.   E3 98 3A 58 60 A0 2C 6E E4 78          41 7E 28 02 4F 01 E5
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+A0 7333C Behemoth E3 80 3E 55 96 DF 03 6F F5 14                      3F    C3
+A1 73348 D.Mist   8A D1 01 07 9E C9 30 00 86 54          50 00 00    0A    87
+A2 73357 Octomamm 8A 2E 09 0B 60 C3 31 00 8A 64          50 00 00 0C       8B
+A3 73366 Antlion  82 E8 03 04 62 A9 30 00 DC 04                            DD
+A4 73371 MomBomb  8F 30 2A 0F 60 A6 39 00 90 08                         05
+A5 7337D Milon    8F 1C 0C 01 66 A0 33 00 91 14                      0E    92
+A6 73389 Milon Z. 8F B8 0B 16 6B C0 32 00 95 F8 00 01 00 42 00 00 31 1F 80
+A7 7339C Baigan   89 AC 0D 1E 60 AF 33 00 9B 14                      09    9C
+A8 733A8 RightArm 89 5E 01 20 62 A0 35 00 9A 10                      09
+A9 733B3 Left Arm 89 5E 01 20 62 A0 30 00 99 10                      09
+AA 733BE Kainazzo 90 A0 0F 16 77 DA 36 00 9D 34                   02 1D    9E
+AB 733CB Dark Elf 8F E8 FD DF 60 DF 31 00 9F 10                      39
+AC 733D6 Dark Elf 8F F0 55 00 60 DF 32 00 A0 34                   90 01    A1
+AD 733E3 Sandy    90 C4 09 0F 69 AF 39 00 A3 18                      0B 40
+AE 733EF Cindy    90 CC 10 22 68 AF 39 00 A5 18                      0B 40
+AF 733FB Mindy    90 98 08 0F 69 A0 39 00 A4 18                      0B 40
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+B0 73407 Golbez   1A DC FF 01 60 A0 3F 00 C7 24                   90       C8
+B1 73413 Valvalis A4 70 17 27 60 B0 37 00 A6 14                      3F    A7
+B2 7341F Cal      1F E8 03 1F 60 AF 13 00 AC 14                      1F    AD
+B3 7342B Calbrena AF 10 12 34 6E C3 38 00 AA 14                      29    AB
+B4 73437 Golbez   9F F1 55 26 60 A0 3A 00 C9 34                   11 01    CA
+B5 73444 Shadow   87 01 00 2F 80 A0 34 00 CB 18                      1F 01
+B6 73450 Dr.Lugae A0 40 11 00 60 AF 38 00 B9 04                            BA
+B7 7345B Balnab   A0 57 0F 2F 60 AF 31 00 BB 18                      1F 02
+B8 73467 Dr.Lugae 99 C8 19 2F 69 A0 3A FC BD 1C                      07 02 BE
+B9 73474 K.Eblan  8F 60 EA 3F 60 A0 3D 00 B6 00
+BA 7347E Q.Eblan  8F 60 EA 0F 60 A0 36 00 B7 04                            B8
+BB 73489 Rubicant B2 70 62 30 6F CF 3B 00 B4 74          41 00 04 00 10    B5 
+BC 73499 Odin     B5 14 50 3F 7C CA 2E 00 C0 34                   84 5F    C1
+BD 734A6 Leviatan CF B8 88 5F 9E D9 3D 00 C2 30                   04 22
+BE 734B2 Bahamut  AF 88 90 5F 61 A5 3A 00 C4 14                      11    C5
+BF 734BE EvilWall A5 38 4A 2E 66 C7 34 00 BF 14                      4F    7F 
+
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+C0 734CA Asura    BF D8 59 47 60 CF 34 00 CC 1C                      45 40 CD
+C1 734D7 Elements CF A8 DE 44 74 86 3C 00 CE 7C          00 00 00 00 0F 00 CF
+C2 734E8 Elements CF 98 B7 46 68 63 3C 00 D0 7C          00 00 00 00 1F 00 D1
+C3 734F9 Dark Elf 13 B8 0B 1F 63 DF 38 00 A2 78          50 FE FF 90 0F 01
+C4 73509 WaterHag 85 68 B2 00 63 A0 30 00 8E 04                            8F
+C5 73514 CPU      B0 20 4E 5F 90 D0 3B 00 4E 10                      7F
+C6 7351F Defender B0 D0 07 3F 97 AF 3E 00 D2 10                      2F
+C7 7352A Zemus    BF DC FF 3F 60 A0 02 00 D4 04                            D5
+C8 73535 Zeromus  E0 60 EA 3F 60 A0 3F 3F DE 54          57 00 00    29    DF
+C9 73544 Zeromus  E0 48 EE 5F 6F BB 3F 3F E0 14                      20    E1
+CA 73550 Dragoon  AF E8 FD 10 60 6F 3D 00 C6 00
+CB 7355A Bard     85 60 EA 05 60 A0 3F 00 8C 04                            8D
+CC 73565 Karate   9F A0 0F 2F 60 A0 07 00 A8 04                            A9
+CD 73570 D.Knight 91 E8 03 17 60 AF 30 00 97 04                            98
+CE 7357B Girl     81 60 EA 00 60 A0 30 00 88 00
+CF 73585 Titan    81 60 EA 00 60 A0 34 00 89 00
+
+M# HAddr Monster  Lv HP    PA PD MD Sp It At Ex AStatus  Defenses Wk WW Ty Rf
+-- ----- -------  -- ----- -- -- -- -- -- -- -- -------- -------- -- -- -- --
+D0 7358F FloatEye 81 01 00 00 60 A0 02 00 00 20                   81
+D1 7359A Raven    81 01 00 01 60 A0 02 00 00 20                   84
+D2 735A5 Brena    8F 2C 01 1F 67 AF 13 00 AE 14                      1F    AF
+D3 735B1 Ghast    0F AA 00 15 67 8F 05 00 93 6C          88 BF FF 11    80 94
+D4 735C1 Balnab-Z AF A0 0F 3E 67 A0 31 00 BC 00
+D5 735CB Attacker CF D0 07 3F 97 AF 31 00 D3 10                      2F
+D6 735D6 Dummy    3F CF 07 DF 60 DF 3F 00 00 00
+D7 735E0 Dummy    3F 02 00 3F DE DE 0F C8 F8 04                            F6
+D8 735EB Zeromus  BF E8 FD DF DF A0 02 00 D6 54          5F 00 00    7F    D7
+D9 735FA Dummy    01 B1 07 5F 80 A0 34 00 DB 10                      3F
+DA 73605 Dummy    1F 01 00 DF DF A0 3F 00 DA 20                   B7
+DB 73610 Dummy    1F 10 27 01 80 A0 3F 00 F7 00 
+DC 7361A Dummy    1F 60 EA 01 DF DF 3D CE F9 04                            FC
+DD 73625 Dummy    1F E8 FD 00 60 A0 33 00 FA 00
+DE 7362F Dummy    01 E8 FD DF DE DF 37 FE FD 00
+DF 72A60 Egg      (points to Imp stats)

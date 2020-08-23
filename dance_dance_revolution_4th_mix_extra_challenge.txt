@@ -1,0 +1,125 @@
+    //     ||    /\     \\
+   / ... \\||// /..\  ... \
+   \ ---  \''/ //||\\ --- /
+    \\     \/    ||     //
+
+Dance Dance Revolution 4th Mix PSX
+==================================
+Challenge Mode: [Extra]
+
+Author  : Don Goertzen <wolfhowl@siu.edu>
+Date    : June 30, 2001
+Revision: 0.1
+
+After completing the Maniac challenges, I took a break from
+challenge mode for a while. But when I came back to finally
+try the Extra mode challenges, I couldn't find any
+translations for them! So with my trusty Kanji dictionary
+in hand and my limited but satisfactory Japanese knowledge
+ready for usage, I decided to complete the job myself.
+
+Here is all the information you will need to finish up
+those pesky challenges. The translations might be slightly
+modified from the literal meaning for easier understanding.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(1) .59
+Mode: 4-panel
+Lev : Maniac
+Bar : All
+
+¤ do not hit steps in the same direction twice in a row
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(2) Have You Never Been Mellow
+Mode: 4-panel
+Lev : Original
+Bar : All
+
+¤ get 350 or more PERFECT
+¤ series of 16th-note steps
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(3) Furuhata's Theme
+Mode: 4-panel
+Lev : Maniac
+Bar : 35-51
+
+¤ hard part of the song
+¤ Full Combo
+¤ Variation: HIDDEN
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(4) Baby Baby Gimme Your Love
+Mode: 4-panel
+Lev : Maniac
+Bar : 20-38
+
+¤ clear the stage with 0 points
+¤ Good is 0 points
+¤ the key is concentrating one-by-one and decreasing MISSes
+  as much as possible
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(5) Get Me In Your Sight
+Mode: 4-panel
+Lev : Maniac
+Bar : All
+
+¤ get 60 or more each of PERFECT, GREAT, and GOOD
+¤ the key is getting GOODs at the beginning
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(6) Leading Cyber
+Mode: 4-panel
+Lev : Maniac
+Bar : 32-40
+
+¤ hard part of the song
+¤ Full Combo
+¤ Variation: SUDDEN
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(7) Trip Machine Climax
+Mode: 4-panel
+Lev : Maniac
+Bar : 12-13
+
+¤ get all GOODs
+¤ the key is to get a GOOD on the first arrow, then hit the
+  next step with the rhythm
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(8) Shooting Star
+Mode: 6-panel
+Lev : Maniac
+Bar : All
+
+¤ get 90% or more PERFECT
+¤ Full Combo
+¤ concentrate on the steps one-by-one
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(9) My Summer Love
+Mode: 4-panel
+Lev : Maniac
+Bar : 23-27
+
+¤ get all PERFECTs
+¤ Variation: Slow
+¤ concentrate with both eyes and ears
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(10) Love Again Tonight
+Mode: 4-panel
+Lev : Maniac
+Bar : All
+
+¤ do not hit Left or Right arrows 50 or more times
+¤ get a Combo of 220 or higher
+¤ hitting Left and Right arrows doesn't count in doubles
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Thanks for reading
+<wolfhowl>

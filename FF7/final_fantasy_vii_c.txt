@@ -1,0 +1,1812 @@
+Final Fantasy 7 Strategy Guide
+USA Version
+Version 2.0
+Made by Exdeath
+E-Mail: exdeath@earthlink.net
+Page: http://gannex.simplenet.com
+
+                          Exdeath's Final Fantasy 7 Strategy Guide
+
+This is the Final Fantasy 7 Walkthrough. This copyright belongs 
+to me and may not reproduced n any way without consent of me. 
+This is freely distributed as long as the copyright remains. You may 
+use this Strategy Guide or parts of it, but give me full credit where 
+it is due. 
+
+If you would like to help me with this Strategy Guide, E-Mail 
+me at exdeath@earthlink.net I would really appreciate your help if 
+you could give it to me. If you see any mistakes that you wish for 
+me to clear up, also mail me. 
+
+
+----------------Versions----------------
+Version 2.0  --In this new version, I have gone through and 
+done some minor corrections on a few of the spellings and 
+margins. I have added a Weapons list for all of the  
+characters, and an Enemy Skill list.
+
+Version 1.0  --This is the start of my Final Fantasy 7 
+Strategy Guide. Walkthrough, Ultimate Weapons, 
+Ultimate Limit Breaks, Summon Materia, and How to Breed 
+a Gold Chocobo made.
+
+-------------------------Table of Contents--------------------------
+
+Part 1: Complete Walkthrough
+Part 2: Limit Breaks
+Part 3: Ultimate Weapons
+Part 4: Summon Materia
+Part 5: Enemy Skill List  
+Part 6: Weapons
+Part 7: Armor List
+Part 8: Breeding a Gold Chocobo
+
+
+---------Part 1: Complete Walkthrough---------
+
+Event 1: Mako Industrial Complex
+
+After watching in CG intro you will be in the game. Jump off the train and 
+follow Barrett and the
+Avalanche resistance team. You will meet up with everyone at a gate. Biggs will 
+ask for your
+name. Name Cloud (In this guide I will call the characters by their default 
+name) The Avalanche
+will open the gate. Follow them. Barrett will stop you and say that he doesn't 
+trust you. You now
+get to name Barrett. Follow all of the Avalanch to the security gate. Talk to 
+Biggs, and he will
+open the gate. Follow Jesse to the elevator. Biggs will tell you how to maneuver 
+around the
+complex. Talk to him if you need help. You will find yourself in the core level 
+of the complex in a
+little. Cloud will set a bomb at the reactor. You will run into the first boss 
+now. 
+
+************************************
+Boss Strategy-Red Scorpion
+************************************
+-Concentrate on regular attacks and Lightning magic.
+-When the scorpion's tail is raised, he will counter
+attack if you attack him. However, when he counter
+attacks, your limit meter will rise, making you unleash
+some great attacks if you want.
+-If you need healed, use some potions.
+(This isn't too hard, and it should be a short fight.
+************************************
+
+ After the battle, you have 10 minutes to escape the complex (Including 
+battles). Keep running 
+out the way that you came. Make your way all the way back, and talk to everyone 
+you can, because 
+they have the access codes to the doors you came in. You should be able to get 
+out in about 5 
+minutes. This is where to use your magic, so you can escape easily. After you 
+escape, you will be 
+rewarded with a CG sequence of the Complex blowing up. Barrett will tell 
+everyone to meet at the 
+train station.
+
+Event 2: Avalanche Headquarters
+
+You will run into Aerith for the first time on your way. She is the one that is 
+selling flowers. When
+you talk to Aerith, say:
+
+1. Nothing happened
+2. That you would like a flower for 1 Gil.
+
+By doing this, you will unlock a special sequence in the bar later. Proceed 
+through the Area 8
+city. You will have a choice to confront the guards or not. It is good to fight 
+these guys, because 
+they give pretty good experience that you might need later. You will escape with 
+another CG
+showing you fleeing the station. You will be informed of Avalanche's involvement 
+on the train.
+You will jump off of the train and get to Agito. Go to the bar and meet 
+Barrett's daughter and talk
+to Tifa. Answer "Not this time" and she will complement you on your maturity. 
+You name Tifa
+now, and you get to decide to give your flower to Tifa or Barrett's daughter. It 
+doesn't matter who
+you choose. Go to the exit of the bar, and you will enter the HQ under the 
+Pinball machine. You
+will tell Barrett that you are not interested in Shinra or Avalanche. Barret and 
+Tifa will urge you to
+be in the Avalanche. Be prepared for a flashback sequence. Cloud made a promise 
+with Tifa
+long ago. Barret will come in with Cloud's pay. And because of Cloud's promise, 
+Cloud accepts
+the next mission. Barret will ask about Materia Orbs. Explain to him how they 
+work, buy items in
+the town, and it's of to Area 5-Mako Industrial Complex.
+
+Event 3: Area 5
+
+You will be on the train again. You need to run from car to car in a given 
+amount of time. Leap
+from the train into the tunnels. You can get a few items by talking to guys 
+along your way, and one 
+guy will take something, but by talking to him you can take that item back. 
+Hurry along through the 
+cars and you will get to the walkway. You will find a small hole leading to Area 
+5. Go in and be ready 
+for battle. The enemies here are a little stronger than before. Battle all of 
+the monsters and get to
+the reactor. A flashback will hit Cloud. Plant the bomb, and follow Tifa into 
+the controls center.
+You have to push a button at the same time as Barrett. Keep trying this until 
+you can do it,
+because you have unlimited time. It will open a gate which you need to enter. 
+You are surrounded 
+by guards on a bridge, and you meet the president of Shinra. You will have to 
+fight a boss now. 
+
+***************************
+Boss Strategy-Air Buster
+***************************
+-Limit Break attacks do the most damage.
+-Hitting Air Buster in the back will increase
+the damage done by a lot. Try to keep your
+best attacks hitting him in the back.
+-Lightning magic also works well here. 
+-Make sure someone has the Restore-All
+combination of materia.
+-After you beat him, you get a Titan Bangle.
+***************************
+
+After beating Air Buster, Cloud falls unto a ledge and falls into the city 
+below. Barret and Tifa escape. 
+When Cloud wakes up, he is in Aerith's church where she is growing flowers.
+
+Event 4: Meeting Aerith
+
+You will awaken in a slum. Keep talking to Aerith and tell her you remember her. 
+You get to name
+her now. Aerith requests that you will be her bodyguard, and that you get a date 
+with her later. 
+Tseng enters the church, trying to kidnap Aerith. You have to try to get away, 
+so he can't succeed.
+Head to the top of the chapel. Aerith will fall and you will be by some barrels. 
+Tell Aerith to hold on
+each time she asks. The order for pushing the barrels is: the left most barrel 
+in the back, the far right 
+barrel in the back, then the far right barrel in the front, and the remaining 
+barrel. You will escape with 
+Aerith through the roof. Go to the northeast to Aerith's Cottage. Cloud says he 
+needs to go to Area 
+7. Go upstairs and rest. You have to escape without Aerith because Cloud thinks 
+it is too dangerous 
+for her. Walk across the floor and you will be on your way. Leave Area 5 slum 
+and Aerith will be
+waiting for you at the entrance to Area 6. You will see a sequence of Cloud and 
+Aerith at a playground. Now a caravan comes with Tifa. Follow Aerith to the slum 
+town. 
+
+Event 4: The Slums
+
+Buy any items that you need here. Go southeast to the women club and talk to the 
+manager. Ask
+him if he knows where Aerith is. He will tell you to visit the mansion to the 
+north. Go to the
+mansion and talk to the security guard. Only females can enter the mansion. Head 
+to the clothing
+shop to the west side of town. The owners son will tell you to go to the bar. Go 
+there and talk to
+his father. He will eventually make a dress for you. You get to decide from 3 
+dresses which one
+you want. To get the best dress, chose that you want "Something that feels soft" 
+and "Something 
+that shimmers". Go to the clothing shop again and the owner will have made your 
+dress. Now you 
+need a wig. Go to the gymnasium below the weapon shop. The women will give you 
+the wig if you 
+face her brother in a fitness match. Press Square to kneel, X to stand up, and 
+Circle to bend over.
+You have to keep a constant pattern to win. You will get the wig even if you 
+loose. Winning the 
+little game will get you the Blonde wig, however, and losing will get you the 
+regular Wig. Go to the
+clothing store again. Go to the dressing room and change your clothes. 
+
+Note: Here you have some choices to get some more items for Cloud. The more you 
+get, the better 
+    the chances are of Corneo picking him.
+
+Sexy Cologne: Go to the bar and talk to the lady in the bathroom. She is sick, 
+and you must try to get
+    some medicine for her. Go to the local restaurant and buy any meal. You will 
+get a coupon after eating.
+    Take this coupon to the Pharmacy and exchange it for the Digestive. Take the 
+Digestive to the lady 
+    in the bar and she will give you the Sexy Cologne.
+
+Tiara: Go to the Materia shop. The man asks Cloud for a favor. Listen to it, and 
+head to the Inn. When 
+    staying, pay for the most expensive item (200 Gil). Take this item back to 
+the Materia shop owner and 
+    if you bought the most expensive item, he will give you the Diamond Tiara. 
+If you bought the 100 Gil 
+    item, he will give you the Ruby Tiara. If you bought the 50 Gil item, he 
+will give you the Glass Tiara.
+
+Undergarment and Make-up:  Head down buy the entrance to the Honey Bee Inn. Talk 
+to the man, and
+    he will give you the members card so you can get into the Honey Bee Inn. You 
+can only take one of
+    two rooms to do your "activities". You can get the Bikini Briefs if you 
+choose the Group Room, or the
+    Lingerie if you choose the &$#% room. It doesn't matter which one of these 
+you choose. Go into the 
+    room that you would like, talk through everything, and you will get the item 
+you need. After you are
+    done getting this item, go into the north room, and ask the girl to the far 
+left to put make-up on you.
+
+Cloud should have everything he needs now to get chosen by Don Corneo. 
+
+Go to the mansion. You will get to go in. Go downstairs and find Tifa. She will 
+tell you to go to Corneo's room. Corneo will choose one of your members to be 
+his women. He will choose the members according 
+to what dress you have. You will be in Corneo's bedroom and he will tell you 
+about the Shinra's plan.
+You will see a Shinra sequence. Right when you land, you have to fight the boss, 
+Aps.
+
+*******************************
+Boss Strategy-Aps
+*******************************
+-The best thing to use in this battle is Fire
+magic. 
+-One of Aps's attacks, Sewer Tsunami, does
+damage to everything, including Aps himself.
+-It is not hard to beat Aps, just use Cloud's 
+Cross Slash if he has it, and Limit Breaks from 
+the other characters.
+*******************************
+
+After you beat Aps, you will have to go through all of the sewers. Make sure 
+your allies are all 
+healed. Fighting here for awhile can get you some good experience, so here might 
+be a good time 
+to gain some levels. After fighting for awhile, make sure to grab the Steal 
+Materia, and equip it on 
+someone, preferably Tifa. After you exit the sewers, you'll be in a Train 
+Graveyard. Getting the items 
+laying on top of the trains and in the barrels will help. Make your way up the 
+first large train, jump 
+to the bottom, and go around to the middle hall. Go inside the train, and exit 
+out the other end. Go up 
+toward another part of the Graveyard. In this area, there is an enemy named 
+Eligor, and by stealing from 
+him, you can get the Striking Staff, the best weapon for Aerith in this point of 
+the game. Make sure to 
+get one of these, as it will help you. You must make your own path to the exit 
+of the Graveyard by going 
+in the different trains. Go over the bridge and into the next area.
+
+Event 5: Battling in Area 7
+
+You will find Barrett and the Avalanche already in battle. Go through to the top 
+of the tower and 
+you will find Barret fighting up there. You will now have to fight Reno.
+
+*******************************
+Boss Strategy-Reno
+*******************************
+-Be careful, as Reno's magic will sometimes 
+stun your allies. To get them unstunned, you 
+must attack them or wait it out. 
+-Fire and Ice magic work well here, as do your
+character's Limit Breaks.
+-Reno will run away after you hit him hard enough.
+*******************************
+
+Reno will leave and you can't save Area 7. You will see a CG clip and Area 7 
+will be destroyed. 
+Barrett goes ballistic because of his anger that Avalanche members have died and 
+he could have 
+lost his daughter, and the other Avalanche members. Go to Aerith's house and 
+hear the rest of the 
+story.
+
+Event 7: Shinra
+
+You will find Aerith's mother and she will explain to you about Shinra. Go 
+upstairs to Barret. He
+will tell you he thinks Aerith likes you. You get to accept the decision or not. 
+Sleep and go back
+downstairs. Go to the north slums follow the children running from a fight. Ask 
+them what they
+are doing. Go to the pipe behind and follow it to the upper levels of Midgar. 
+Climb the pipe up
+and it won't work. Now you have to climb down and buy a battery. Buy 3 of them. 
+Now use the
+batteries in the battery outlets. You have to do some hard jumps with the Circle 
+button. You will
+eventually reach the top. Aerith is probably trapped in one of the upper levels. 
+Choose to
+through the back door. You will get to level 59. You will have to fight three 
+guards. After you beat
+them, you get the key to the next level. Go to the elevator and choose level 60. 
+You have to
+move passed some guards. Only move when they are in motion. Press the Circle 
+button and
+your party will follow. Go to the 61st floor. One of the workers will ask you 
+what you are doing
+here. Don't answer him and you get the key to level 62. This floor has different 
+color rooms. Talk
+to Domino and he will give you the keys if you can give him the password. It's 
+random, so I can't
+tell you what it is. You can get hints in the colored rooms' bookshelves and 
+paying the man
+outside the door. If you get it right the first time, he will give you a 
+Materia. Go to the staircase
+and go to floor 63. You can get a Materia if you solve the puzzle here. You can 
+only open 3
+doors and you have to find 3 coupons. If you find the shortest route put them in 
+the computer and
+you get some special items. Go to floor 64. Save and heal your characters. Go to 
+floor 65. You
+need to find a unlocked chest and bring the piece to the central small structure  
+and put it there.
+You have to repeat this until each box is opened. Now you go to bet to floor 66. 
+Go to the
+bathroom and flush the god. Climb it and open the air vents and you see a secret 
+meeting. Leave
+the bathroom and follow Hojo to floor 67. Sneak over to the elevator and open 
+it. You will meet
+Aerith in a lab. The beast Red XIII will join your party. Name him and they will 
+say they will wait
+for you on 66. Talk to the assistant and you can go to floor 68. Go there and 
+take the elevator to
+66. You will be thrown in jail. Talk to everyone in the jail. Then you to sleep. 
+When you wake up
+the cell is unlocked and the guard is dead. Talk to everyone and go to the lab 
+and head to floor
+69. This is President Shinra's office. Keep going to the next door and you will 
+find Rufus.
+Sephiroth has killed the President. You say to take everyone to safety. It puts 
+Aerith in control
+now. Take the elevator down to the robot boss. You get to control Cloud again. 
+You have to fight
+Rufus all by yourself. He is easy, just use good magic. Kill the dog first. Go 
+to the main floor to
+find Tifa.  You get to see another CG with the Shinra.
+
+Event 8: Bike Race and Flashback
+
+When you are in the bike race, just keep all of the guys away from your caravan. 
+You have to
+fight a big tank boss. This guy is pretty easy. Heal up and fight him. Now go to 
+the town Kalm. Go
+to the inn where everyone is, and you will have a flashback. Follow Sephiroth to 
+an inn and talk
+to him. Get sleep. You have to cross a mountain. You will get Sephiroth to fight 
+with. This is a
+cool scene, but Sephiroth will become your enemy. The flashback is over. Go to 
+the mansion to
+the north and go to the passage to the basement. Sephiroth is trying to find out 
+who his mother
+is. The flashback continues and in Nibelheim and you see Tifa. Sephiroth will 
+terrorize the town. And
+you swear to get revenge on him. Go to the shops and buy stuff. Go east to the 
+Chocobo Farm.
+
+Event 9: Chocobos!
+
+Talk to the Chocobo in the front and if you choose the top option, he will give 
+you the Mog and
+Chocobo summon orb. Go to the stairs and talk to all of the guys. Buy a Chocobo 
+Materia so you
+can find them on the footprints on the world map. Go to the Mines. You have to 
+ride a Chocobo
+past the snake. DON'T GO HERE WITHOUT A CHOCOBO, or you will die. To catch a 
+Chocobo
+go to any footprints close the barn and fight until a Chocobo comes. Don't 
+attack the Chocobo.
+Kill the other enemies and you get the Chocobo. Ride it past the snake. You run 
+into Turks
+inside the mine. Continue through it, killing them all. You will find the exit, 
+which leads to new
+places.
+
+Event 10: The Golden Bird and the Beach
+
+You see a tower with a bird on the top. Go into the tower. Practice on the game, 
+because you
+have to win it later in the game. You just have to kill the guys that are going 
+up the mountain.
+Save here and go to the Naval Base. Explore the place for awhile, since it is 
+new. Enter the
+Naval Base and talk to everyone. Go to the path on the shore. Be ready for a 
+battle. You have
+fight a sea creature. Use the best summons and magic that you have. Only magic 
+can kill the
+bubbles, so don't attack them. You need to do CPR on the girl as much air as 
+your lung meter
+goes. Use Square to breath, and Square to exhale. Go to town and rest. You will 
+find the girl
+again and she will give you the Shiva Materia. Go down to the beach and have her 
+summon a
+dolphin. Ride it over the metal thing and make him jump by pressing Square. Keep 
+trying until
+you get the metal beam. Climp to the Base in the Air.
+
+Event 11: Shinra Military
+
+You will find a huge airship. Go to the locker room for the guards. A guard will 
+make you
+participate in a military parade. Change your clothes and follow them. You have 
+to blend in so
+that people don't notice you. Just find the empty spot and fill it in. You learn 
+how to handle a rifle
+in the locker room. Just push the button that the general calls out. Go into the 
+military base and
+explore and head to the boat.
+
+Event 13: Relaxation and Surfers!
+
+Talk to everyone on the boat. Your party is in disguised. At Barrett, an alarm 
+will sound. Find all
+of your party members and choose who you want in your team. Go to the lower deck 
+and find
+Sephiroth. You fight a boss. After you win, get the Materia Orb and items. You 
+are at the beach.
+Talk to all the people and then walk down to the beach. Don't talk to the Shinra 
+guy yet, talk to
+the girls. Go to the Corel Mountains.
+
+Event 14: Everyone hates Barret
+
+Keep battling down the train tracks. You will fall down on some of the broken 
+parts. Grab all of
+the items down there. Go across all of the tracks and talk to all of your party 
+members. Go into
+the booth and hit the switch and keep following the track to the city. Go up to 
+the Gold Saucer.
+Buy the lifetime pass if you can, because you can do things here later. Choose a 
+character to
+come with you, and enter the Square. You will find Cait Sith here. Name him and 
+he will join you
+after you talk to him a few times. Play some games, and enter the battle Square. 
+Some guards
+are dead and it looks like Barret's work. You have to go to prison now. Everyone 
+in the town
+doesn't like Barrett. Get any items you need and head to the station in the 
+southwest of the town.
+Barrett will have a flashback and board the trailer. Barrett tries to make you 
+leave him alone.
+Explore the town, and go to the house south of the save point. Barrett will join 
+you again. Talk to
+the man in the green outfit by the trailer. Tell him you want to leave the 
+prison town. He will say
+about a Chocobo race. Go through the north gates and go to the junkyard. Don't 
+wander out of
+the desert, it is hard to get back. Give Barrett the best items you can. You 
+have to fight his lost
+friend. You get a pendant if you beat him. Go to the trailer and take the 
+pendant and you have a
+chance to win the Chocobo race. Win the race and Barrett is free. It might take 
+a few times to
+win. Sephiroth has spotted Gongaga Gate.
+
+Event 15: Gongaga Gate
+
+Take the all-terrain vehicle across the river back to the Gongaga area. Cross 
+the shallow place
+in the river. Follow past the destroyed Mako sight. Stay out of sight and grab 
+the Titan Materia
+that Scarlet misses. Take the path you can and go to the small town. Talk to 
+Tifa. Search the
+town and save, and go to Cosmo Canyon.
+
+Event 15: Red XIII's birth and Yuffie
+
+Red XIII is called by Nanaki now. Talk to the guy in the front, and Red will 
+come and tell you that you
+can enter. Red XIII will explain about this town. You will see and FMV sequence. 
+Now follow Red
+wherever he goes and you will find an observatory. You will see what is 
+happening to the
+universe. Go over to the fire. You learn what to do next. Choose which 
+characters you want at
+enter the cavern with Bugenhagen. Get all through the cavern and get every box 
+you find, and
+keep a look out for all of the boxes. You find and boss. He is easy. Get back to 
+the fire and get
+items that you need. Leave the town. You can find Yuffie in any forest area, but 
+only on disc 2,
+so make sure you do it before disc 3. You have to fight her before she joins 
+you. Answer her
+questions this way: Bottom choice, Top choice, Bottom choice, Top choice, Bottom 
+choice, and
+she will join. Get through the mountains and into Nibelheim.
+
+Event 16: Vampires and Vincent
+
+Load yourself up with many items, and talk to the black cape guys. Play Tifa's 
+piano on the
+second floor of her home by: X, Square, Triangle, L1+Triangle, L1+Square, X, 
+Square, Triangle,
+L1+X, Circle, X, Square, X. Head to the mansion now. Explore all the rooms and 
+gain some
+levels here. The code for the safe is: Turn right to 36, left to 10, right to 
+59, right to 97 and it
+opens. You have to fight a boss to get the prize. You get the Odin Materia here. 
+Go downstairs
+and open the door that is locker. Vincent will be in the center coffin. Explain 
+to him about your
+quest. He will go back into his coffin. Talk to him again. You name him now. Go 
+to the library and
+you will find Sephiroth. Get the Materia he throws at you. and go north to the 
+Nibelheim
+Mountains. Battle all of the monsters on the mountain pass, and you go on a 
+bridge and enter a
+cave. You fight a boss in there. It is really easy. Use the ladder to the lower 
+level explore the
+pipes and get the items and Materia. Go to Rocket Town.
+
+Event 17: Rocket Man and Yuffie a traitor
+
+Explore the town and talk to everyone. Make sure you talk to the guy in the 
+Materia shop three
+times. Go to the northeast house and enter it. Go out the back door. You will 
+run into Cid on the
+way to the rocket site. Name him. Cid will ask why you are here. Ask him about 
+the rocket and
+Rufus. Go back to his house and listen to what they say. Rufus will arrive when 
+you leave the
+house. Shera will ask you to go back into the house and shop Palmer. Go to the 
+backyard for a
+battle. You will escape will Cid and he will join you. Take the plane and travel 
+to the west most
+island on the map. Keep going there no matter how Yuffie tries to side-track 
+you. Go through the
+mountain pass and into the town of Wutai. Check your Materia when you enter. It 
+is all gone. Yuffie
+took it all. You notice Yuffie running by. Follow her. Explore the town and try 
+to catch her. If you
+pick any Materia up in town, Yuffie will just run by and take it. She will tell 
+you everything when
+you catch her. She will tell you to pull the left switch to get the Materia 
+back. After you pull it, you
+are in a cage. She tricked you. Leave her house and go to the temple and the 
+northwest corner
+of town. Ring the gong and you find a secret passage. You will find Corneo. He 
+will say that
+Yuffie and Elena are his. You fight some Shinra guards now. Leave the town and 
+go to the
+mountains behind it. You will run into Corneo and you will have to fight a boss. 
+Use summon
+magic and he will die fast. Corneo will plummet and Yuffie will give back all of 
+your Materia. Go
+back to your plane. Travel across the river back to the continent with the Gold 
+Saucer and enter
+the house on the shore. Talk to the blacksmith inside. He will tell you what the 
+Keystone does.
+He will also tell you about the manager of the Gold Saucer. Go back to the Gold 
+Saucer.
+
+Event 18: Quest to the Keystone
+ 
+Go to Battle Square and go into the showroom. The keystone is in the center room 
+on the pillar.
+When you try to take it, Dio comes in and says he will let you borrow it if 
+Cloud will fight in the
+Battle Arena. Agree and enter the arena. You will have to chose a random item 
+from a slots
+machine device that will help of hurt your efforts. You will get the Keystone 
+after the battle. You
+have to spend the night at the hotel, since the transport is out of order. Cait 
+Sith will come with
+you. You will find out that Sephiroth is trying to find the Black Materia. 
+Aerith will ask you on a
+date. The announcer will say you are the 100th couple to enter, so you have to 
+be in a play.
+Aerith will ask to ride the gondola next. You will see another FMV. Aerith will 
+ask you if you want
+to go on another date with her. (I said "Yes" =) You will see now that Sith has 
+stolen the
+Keystone. Chase him and you will learn that he works for the Shinra. You have to 
+let him join
+your cause. You will gather in the lobby, and you decide to go to the Ruins and 
+get the Black
+Materia before Sephiroth. Chose who you want and go to the plane.
+
+Event 19: Searching for Black Materia
+
+Go to the island on the bottom of the map with the island with the pyramid on 
+it. Enter the ruins.
+One of the Turks will give you the Keystone and tell you to get Sephiroth. Enter 
+with the
+Keystone and explore all of the staircases. You have to sneak passed a room with 
+rolling rocks.
+Talk to the Dwarf and save your game. Go to the upper-right exit. You will find 
+a huge clock with
+12 rooms for 12 numbers. Time your presses and stop the hands on the clock. Here 
+is what the
+rooms have:
+
+Room 1: Trap (Boss)
+Room 2: Blocked Path
+Room 3: Trap (Boss)
+Room 4: Prince Guard Item
+Room 5: Path and a Treasure
+Room 6: Chase the Dwarf puzzle
+Room 7: Weapon for Cait Sith
+Room 8: Elixir
+Room 9: Blocked Path
+Room 10: Starting Point
+Room 11: Blocked Path
+Room 12: Boss and the Exit
+
+Take every path so you can get everything. You have to fight a pretty easy boss. 
+You have to
+trust Cait Sith to help you. Head to the clock and hit the 12 Exit. You have to 
+fight another easy
+boss here. You will find out more about the plot and you will be back in 
+Gongaga.
+
+Event 19: A Tragic Loss
+
+Leave the Gongaga Area and go to Bone Village, it's on the northern continent. 
+Enter the village
+and talk to the boss by the door. And he will tell his team to try and find the 
+Lunar Harp if you pay
+him. Keep searching for the Harp. Go through the forest and get the Materia 
+before it disappears.
+You will arrive at Shell Village. You have to explore all of this town, and it 
+is very big. Go to the
+Shell house to the east and sleep. Take the central path. You will find another
+sequence....Aerith's Death....And you will have to insert Disc 2.
+
+----------------Disc 2----------------
+
+Event 20: Search for Sephiroth and Snowboarding
+
+Follow Sephiroth to Shell village and past the caves. Go the Glacier Lounge near 
+the
+mountain tops. Explore the town and enter the house on the eastern edge of town. 
+Look at the
+map of the wall. Take the map and talk to the man on the north end of the town 
+and tell him you
+want down the hill. You will be stopped by the Shinra. Elena tries to punch you. 
+Dodge to the left
+and you will laugh at her falling down the mountain. The town has now been 
+placed under Shinra
+guards. Go in the little house in the center of town and talk to the boy. He 
+will give you a
+snowboard. You can now snowboard down the hill. This part is pretty long, but in 
+my opinion one
+of the funnest parts in the game. You can do tricks by doing different presses 
+of the buttons off of
+jumps. Collect as many items as you can. When you get to the bottom, get your 
+map and go to
+the red spot on it. Touch the steaming lakes and there is Materia here. You will 
+eventually pass
+out. Talk to the old man and he will tell you how to climb the cliff. Sleep and 
+then climb. Make
+sure your body temperature is higher than 25 degrees, or you will have to start 
+all over. If you
+press the Square button, Cloud will run in place and you will generate body 
+heat. You will
+eventually find a cave. Go into it. Push the first rock to reveal a path. Go in 
+it. Follow the
+passage and you must break the four icicles. (In combat) A bridge will appear in 
+the room below
+if you do it. Go out and fight the boss. Use normal attacks on his left arm and 
+magic attacks on
+his right to kill him. When you get to the top of the mountain, enjoy the CG 
+sequence. Follow the
+path to the crater. Tifa will join if she is not already in your party. Continue 
+on the path and go
+north. Time your movements through the barriers and you will run into Sephiroth.
+
+Event 21: The Meteor and the Shinra
+
+You have to defeat a boss here. You will get the Black Materia. You give it to 
+Red XIII since you
+lose control. Pass through the final barrier. This part is really awesome...the 
+game takes many
+twists here. You are in control of Tifa now. In the Shinra Air base, Junon, talk 
+to Barrett and a
+series with Rufus will show that you are in trouble. Follow the guards out of 
+the room, and go to
+the conference. Go to the gas chamber door. You will see and cool CG. Run to the 
+corridors and
+look for help. In the upper level Yuffie will be in a disguise. Follow Cait Sith 
+to the airship. You
+switch over to control Tifa, and you must get her free. Press the buttons in 
+this order: X, X,
+Triangle, X+Triangle, Triangle+Circle, Circle. Turn off the gas and look for the 
+door out. Go to
+the edge of the cannon, and now a sequence of Tifa and Scarlet will follow. 
+Quickly tap Circle
+button to slap her faster. You will see another CG and you will go on your 
+Airship.
+
+Event 22: Yuffie and her Family
+
+Go to the main control and talk to everyone. Red XIII will tell you to go to 
+Mideel, on a small
+island to the southeast, but if you have Yuffie, head back to her hometown. Go 
+back to the town
+of Wutai and go to the temple to the northwest. You have to battle through 5 
+floors of it, by
+yourself. You have to battle your father later. If you beat all of the bosses, 
+your objective is done.
+Go to the village of Mideel.
+
+Event 23: The Shinra Train
+
+Explore the town, and you will find your lost friend soon. He is different, and 
+Tifa will stay with
+him. Go back to the airship and into the control room. Fly the airship to the 
+Mako Refinery to the
+North of the Gold Saucer. Head across the railroad tracks and fight all of the 
+battles. You will
+have 10 minutes to catch up with the train. You have to press Triangle in a 
+timely maneuver to
+catch up with it. When you catch it you will jump out to their train. Fight 
+everyone you can on the
+way to the engine. Make the Engine in time and you get a HUGE Materia, so if you 
+don't get
+there in time, reset the game. Board the Airship and go to Condor Fort.
+
+Event 24: The Chase and Mideel
+
+Talk to the guard outside and tell him you will assist him. Talk to everyone 
+inside and gather all
+of the info. You have to destroy the army going up the hill. Use more of the 
+weapons at the
+bottom of the hill. If you win you get another Huge Materia, and grab the 
+Phoenix Summon
+Materia on the way out. Go on the airship and head to Mideel. Search all of the 
+shops and buy all
+that you need. If you have the Mimett Greens give it to the small white Chocobo. 
+Give it the food,
+pet it's ears, and it will give you a Materia. Go to the weapon shop and look at 
+the locked door.
+Search behind the old man and you will find a Rusty Key. Use the key on the door 
+and the store
+owner will eventually give you the Ring of the Cursed. Go to the hospital and 
+talk to Tifa. Go
+outside and battle the Ultimate Weapon. This boss is very hard. After you beat 
+it, the whole city
+will fall apart, and Cloud and Tifa will fall into the lifestream.
+
+Event 25: Cloud's Mind and the Final Search
+
+Work your way through the different sequences that represent Cloud's life. You 
+will eventually
+return to the airship. Go back to Junon and enter the base. Go to the main 
+street and follow the
+gray path. You will work your way to the underwater base. You will find many 
+enemies and a
+boss. Head towards the submarine. Get every treasure that you see, because one 
+has a item
+you will need later. Go to the control room in the Sub, and you will be in an 
+underwater shooter!
+You have to destroy all of the submarines on your radar. Avoid all of the 
+missiles and mines. After
+you win, you will find out that Shinra took the final Huge Materia to Rocket 
+Village. Search the
+ocean floor for the red sub that you killed. Grab the Materia and go to Junon. 
+You will see an
+FMV so go back underwater and look for the aircraft. There are many good items 
+here. There is
+a underwater passage that leads to the Shell Key. There is also a passage that 
+leads to a
+waterfall inside of a crater. Go to the Sub and put Vincent in your party. Go 
+underneath the
+waterfall and Vincent will meet someone. You can't get to do anything now, but 
+special items
+appear here in Disc 3.
+
+Event 26: The Red Glare and the Understanding
+
+Go to the Rocket Village and go to the Rocket. The men in blue are not difficult 
+if you have a
+healer in your party. Go to the control room and release the Huge Materia. To 
+release press:
+Circle, Square, X, X on the control panel. Go back to the airship and go to 
+Cosmo Canyon. Head
+up to the observatory and talk to Bugenhagen. He will say that you should and 
+him should go to
+Shell Village. (Make sure you have the Shell Key) View the Materia floating 
+around. They are
+called Huge Materia and are needed to make the Master Materia. To make the 
+Master Materia
+you need to collect all the Materia available in the game, and touch the red 
+Huge Materia. (Note: If
+you have Neo Bahamut and Bahamut Summon Materia and you touch the red Materia, 
+you will
+get Bahamut Zero.) Go to the airship and go to Shell Village.
+
+Event 27: There is Hope
+
+Follow the left path and you will come to the blue stream. Cloud will realize 
+what must be done. (I
+won't ruin it) Cait Sith will call with information on Shinra. Go to the shores 
+of Midgar, and save
+before this. Talk to the big man once he reaches the shore. After you defeated 
+the Weapon, go
+north to the crater on the north continent. You have to fly into Midgar City and 
+stop Hojo. Follow
+Cait Sith down in the underground and you will run into the Turks again. (Cait 
+Sith's Ultimate
+weapon is in the lockers of the 64th floor of the Shinra building) Kill the 
+Turks and go north.
+Battle up to the Mako cannon and you will battle Hojo. Beat him and prepare for 
+the final battle.
+Insert Disc 3.
+
+-------------------Disc 3-------------------
+
+Event 28: Bravery and Power
+
+If you want, head down into the pit and you will fight Sephiroth and get the 
+ending to the game.
+Just battle your way down all of the cliffs and engage Sephiroth. Power up your 
+characters in the
+swamps, cause they are fairly easy and you get good experience for them. Also, 
+if you got the
+Save Crystal from the first chest in the pit, put that down here. Sephiroth is 
+pretty tough, and
+enjoy the music and the lengthy ending.
+
+Or......
+
+There are many things to do before you face Sephiroth. Go to the eastern 
+continent and you will
+find that the Ultimate Weapon has made a nest out of a mountain north of Junon 
+where he is
+holding Cloud's Ultimate sword. You have to fight him a number of times. If you 
+win the first
+battle, the Ultimate Weapon will fly off. Find him and ram the Highwind into him 
+again and again,
+until he tumbles down and you get Cloud's Ultimate Weapon. You can go back to 
+the
+underground waterfall and get the new items. There is an extremely difficult 
+boss down here that
+you can fight. This is a very hard battle. He will give you a secret item if you 
+win. You can go to
+the Golden Saucer and beat the Red Scorpion boss that's moving around in the 
+sand down
+below. He is hard, too. If you beat him he will give you the Desert Rose. Now 
+you should collect
+everyone's limit breaks. Don't take on the two weapons if you don't have them 
+all, because they
+are really important. Go and raise Chocobos. If you manage to breed a Gold 
+Chocobo, take it to
+the island in the northeast corner of the map that holds the best summon Materia 
+in the game.
+(Knights of the Round Table)
+
+---------Part 2: Limit Breaks---------
+
+There are four levels of limit breaks, and most characters have 2 limit breaks a 
+level, but all of
+them have 1 4th level limit break. Learning the level 4 limit breaks are more 
+difficult. You have to
+first learn all of the limit breaks on that character, and then you must have 
+the limit break item
+that teaches you the attack. After you find them, you must use the correct 
+manual on each
+character, and set his limit break to level 4. Here is where the manuals are 
+found:
+
+Cloud:
+Back at the Gold Saucer, win 32000 battle points in a single visit and then buy 
+the item.
+
+Barrett:
+After the train ride in Disc 2, there is a lady in a hat in a building in the 
+north Corel, she will give
+it to you.
+
+Tifa:
+You must play the song on Tifa's Piano (See event 16)
+
+Red XIII:
+In Sephiroth's house is a safe, use the combo to unlock it. (See event 16)
+
+Yuffie:
+After you beat her mini-quest, go back to Wutai. Go to the Pagoda and defeat 
+Godo. You will get
+it now.
+
+Vincent:
+Either the sub or a Blue, Black, or Gold Chocobo is needed. Go to the waterfall 
+in the middle of
+the western continent. Vincent must be with you. You have to enter the left side 
+of the waterfall.
+(Note: You must visit the waterfall twice. Once on disc 2, and once on disc 3)
+
+Cid:
+Use the sub and search for the plane wreck where you found the Hades Materia, on 
+the south
+part of the map. The sunken plane is between the easter and western continents. 
+Inside the
+plane is a chest holding it.
+
+---------Part 3: Ultimate Weapons---------
+
+------------------------------------
+Cloud:    Ultimate Weapon
+
+Location: Before you start the final assault on Sephiroth in disc 3, go to the 
+world map and kill the
+wandering Dragon, Ultima Weapon.
+
+Power up: This Weapon's damage in dependent on Cloud's HP level. The more HPs he 
+has, the
+more damage it does.
+-------------------------------------
+Barrett:    Missing Score
+
+Location: In your quest to stop the Mako overload at Midgar at the end of Disc 2 
+there is a chest
+holding the Missing Score on the staircase just before you reach Hojo. Barrett 
+has to be a
+member of your party to find this weapon.
+
+Power up: Attach Materia to this weapon. Damage is dictated by the AP of that 
+Materia.
+--------------------------------------
+Tifa:    Premium Heart
+
+Location: In Disc 2 or 3 go to Midgar City, head to Wall Market and examine the 
+computer in the
+room marked "item"
+
+Power up: Every time she has a Limit Break, but misses with at least 1 spinning 
+wheel, the
+Premium Heart powers up.
+--------------------------------------
+Aerith:    Princess Guard
+
+Location: While engaged in the moving clock game, obtain it from the Ancient's 
+Temple.
+
+Power up: This is only available for a short time, so I can't find how to power 
+it up.
+---------------------------------------
+Red XIII:    Limited Moon
+
+Location: In Disc 2, after the monster attacks Midgar, visit Bugenhagen and he 
+will give it to you.
+
+Power up: Like Cloud's weapon, but the MPs matter. So if you have high MPs, it 
+will do high
+damage.
+-----------------------------------------
+Yuffie:    Conformer
+
+Location: In Disc 2 or 3, check around the wrecked plane.
+
+Power up: Damage depends on the experience points of an enemy. If it is high, it 
+powers up.
+-----------------------------------------
+Cait Sith:       Marvelous Cheer
+
+Location: In Disc 2, during the raid on Midgar, search the lockers on the 64th 
+floor of the Shinra
+building.
+
+Power up: It is the same as the Limited Moon that Red XIII gets.
+------------------------------------------
+Vincent:   Death Penalty
+
+Location: When you get his Limit Break manual, you also get his Death Penalty.
+
+Power up: The number of death blows he has delivered determines the weapon's 
+damage. So,
+how many death blows in the past makes this weapon more powerful.
+-------------------------------------------
+Cid:    Venus Gospel
+
+Location: In Disc 1 or 2, the man who gave Cloud a sword in Disc 1 will stand 
+outside a house by
+the rocket pad. Talk to him 3 times. This can only be done after the rocket has 
+been destroyed.
+
+Power up: Same as Cait Sith's and Red XIII's weapons.
+--------------------------------------------
+
+---------Part 4: Summon Materia---------
+
+Out of all of the Materia in FF7, the Red Materia is the most powerful. You have 
+to play a lot to
+get them all. This is where all of them are.
+
+Chocobo and Mog - Disc 1   (Wind Elemental)
+
+Just visit the Chocobo farm and talk to the fenced in Chocobo.
+
+Shiva - Disc 1  (Ice Elemental)
+
+After you have successfully given CPR to Pricila in Junon Town, she will give 
+you this if you go up 
+to her house and talk to her.
+
+Ifrit - Disc 1  (Fire Elemental)
+
+On the Shinra boat, beat Jenova Birth.
+
+Titan - Disc 1  (Earth Elemental)
+
+There is a village in the woods named Gongaga that is before Cosmo Canyon. Wait 
+for the Turks
+to leave and search the decrepit machinery.
+ 
+Ramuh - Disc 1  (Lightning Elemental)
+
+In the Gold Saucer, check the alcove in the Chocobo jockey's room.
+
+Odin - Disc 1  (Strength Elemental)
+
+Defeat the boss in the mansion at Nibelheim and open the safe.
+
+Leviathan - Disc 1  (Water Elemental)
+
+You get this after you beat the boss on top of Pagoda in Utai.
+
+Kjata - Disc 1  (Tetra Elemental)
+ 
+In the endless forest continent go north, and you will find this floating on the 
+second screen as
+you enter the forest.
+
+Bahamut - Disc 1  (Fire/Flare Elemental)
+
+After you meet Sephiroth you will battle a dragon in a temple. Beat the dragon 
+and wait for the
+temple to shake.
+
+Alexander - Disc 2  (Holy Elemental)
+
+On the north continent there is an old man's shack. Below the shack is an icy 
+wasteland. Go east
+through snow and find a cave. It's in there.
+
+Neo Bahamut - Disc 2  (Fire/Flare Elemental)
+
+This is lying on a path that leads to the first barrier on the crater inside the 
+frozen mountain.
+
+Phoenix - Disc 2  (Fire/Life Elemental)
+
+Just win the mini-battle at Condor Fort. You will get this after the egg 
+hatches.
+
+Hades - Disc 2  (Poison/Status Elemental)
+
+Use the submarine to find the defunct Shinra airplane. You will find it next to 
+the broken
+helicopter inside the sunken airplane.
+
+Bahamut Zero - Disc 2-3  (Fire/Flare Elemental)
+
+Go to the old man in Cosmo Canyon after you have collected all of the Huge 
+Materia and Neo
+Bahamut, and Bahamut. Touch the blue Huge Materia in the galaxy holodeck and you 
+get it.
+
+Knights of the Round Table - Disc 2-3  (???)
+
+This is very difficult to reach, since you need to breed a Gold Chocobo. (See 
+Part 5) Once you
+have it, use it to visit a strange island towards the northeast corner of the 
+map. Find the cave and
+you have found the Materia.
+
+Master Summon - Disc 3
+
+After you have collected all of the Summon Materia, go to the galaxy holodeck 
+and touch the red 
+Huge Materia.
+
+---------Part 5: Enemy Skill List---------
+
+
+This Enemy Skills list shows you where you can get the Enemy Skill, the MP 
+needed, the Effect, and what it does.
+
+-------------------------------------------
+Star 1- Frog Song-------Magic Points Needed: 5
+
+
+Effect:  Makes all enemies frogs and puts them to sleep.
+Learn:   From the green frogs in the forests around Gongaga village.
+              (Disc 1, 2, or 3)
+ ------------------------------------------
+Star 2-Level 4 Suicide-------Magic Points Needed: 10
+
+
+Effect:  Enemies with levels multiple of 4 loose most of their hit points. 
+         However, using this spell cannot kill the enemy. At best, it can 
+         reduce the enemy's hit points down to 1.
+Learn:   Squirrel  enemies located near the Chocobo Farm.
+         (Disc 1, 2, or 3)
+-------------------------------------------
+Star 3-Magic Hammer--------Magic Points Needed: 3
+
+
+Effect:  Hit an enemy and gain up to 100 magic points, assuming 
+         that the enemy has 100 magic points.
+Learn:   Plant monsters that are located on the very end of the
+         Westernmost Continent in the dark green area.  (Disc 1, 2, or 3)
+-------------------------------------------
+Star 4-White Wind-------Magic Points Needed: 34
+
+Effect:  Each ally regains lost HP and their status ailments are cured
+         and dispelled.  The amount of HP recovered depends on the
+         current HP of the caster.
+Learn:   The white cactus  monsters that appear around the 
+         grassy area by Junon Town  (Disc 1, 2, or 3), or from the winged
+         serpents you fight if you're hit by a barrier at the Great Glacier.
+         (Disc 2)
+-------------------------------------------
+Star 5-Big Guard---------Magic Points Needed: 56
+
+
+Effect:  Has the same effect as casting Haste, Barrier, and MBarrier on
+         all your allies.
+Learn:   From the spike shelled creatures with green tentacles 
+         that live on the coast near  Gongaga Town.  <Disc 1, 2, or 3)
+--------------------------------------------
+Star 6-Angel Whisper-------Magic Points Needed: 50
+
+
+Effect:  An angle comes and brings one ally back from the dead. 
+        This also cures all status ailments.
+
+Learn:   From the  women in the yellow suits that 
+         you meet in the Makou Pit if you take the right path the first
+         time you meet your friends.  (Disc 3)
+-----------------------------------------------
+Star 0-Dragon Force-------Magic Points Needed: 19
+
+
+Effect:  Increases all aspects of Magic Defense.
+Learn:   From the dragons you meet when going through 
+         the Makou Pit.  (Disc 3)
+-----------------------------------------------
+Star 8-Death Force--------Magic Points Needed: 3
+
+
+Effect:  One ally on your side cannot die from an immediate death attack.
+Learn:   The turtles by the shoreline of the Westernmost continent.  
+          (Disc 1, 2, or 3)
+Note: You can only gain this skill if you Manipulate. When 
+          you do, choose the bottom option to cast this spell on 
+          yourself.
+----------------------------------------------
+Star 9-Flame Thrower-------Magic Points Needed: 10
+
+
+Effect:  A line of flames burns one enemy for fire damage.
+Learn:   From the enemies that use the Flame Thrower attack. The
+         easiest place to learn this is in the Nibelheim mountains in the
+         room with the pipes. You can also steal Gold Armlets from these
+         enemies.
+         (Disc 1, 2, or 3)  You can also learn it from the
+         flying monsters in the Mythril Mine, but they cast it less.
+----------------------------------------------
+Star 10-Laser------Magic Points Needed: 16
+
+
+Effect:  Lessens an enemy's HP by half of it's original value.
+Learn:   From the dragons that appear during the trip into the
+          Makou Pit.  (Disc 3)
+-----------------------------------------------
+Star 11-Mantra Magic-------Magic Points Needed: 8
+
+
+Effect:  A cluster of missiles are hurdled opon the enemy.
+Learn:   The mech enemies named  Sweeper Custom around
+         Kalm Town.  (Disc 1, 2, or 3)  Or from the wheeled creatures in
+         the underwater Junon Town.  (Disc 2)
+------------------------------------------------
+Star 12-Bad Breath------Magic Points Needed: 58
+
+
+Effect: Gives the enemy status abnormalities including 
+         Shrink, Frog, Confusion, Sleep, Poison, and Mute.
+Learn:   From the Mobol creatures, which are green and have large mouths
+          living on the outside ledges in the Frozen Mountain.
+         (Disc 2)  You can also meet them in the Makou Pit, considering
+         that you take the right path the first time you run into your friends.
+         (Disc 3)
+-------------------------------------------------
+Star 13-Beta--------Magic Points Needed: 35
+
+
+Effect:  All targets are hit by a circling red and white motion.
+Learn:   By the big snake by the Chocobo farm that was too hard to 
+         beat earlier in the game.  (Disc 1, 2, or 3)
+-------------------------------------------------
+Star 14-Aqua Breath--------Magic Points Needed: 34
+
+
+Effect:  Large bubbles attack enemies for water/ice damage.
+Learn:   From the boss of the Ancient City  (Disc 1), the winged chimera
+         in the plains surrounding the Gold Saucer  (Disc 1, 2, or 3), or from
+         the floating sea-dragon creature in the ship Gelinka.  (Disc 2,3)
+------------------------------------------------
+Star 15-Trine-------Magic Points Needed: 20
+
+
+Effect:  A triangle encases an enemy and hits them for lightning 
+         damage.
+Learn:   The boss on top of the pagoda, Godo, in Wutai.
+         (Disc 1, 2, or 3)  Also from the red spider/crab-like creature 
+         living inside the Frozen Mountain (Disc 2), or the boss of Mt.
+         Nibel, Materia keeper.   (Disc 1).  
+-----------------------------------------------
+Star 16-Magic Breath------Magic Points Needed: 75
+
+
+Effect:  Balls hit enemies for ice, fire, and lightning damage.
+Learn:   From the red crab-like creatures  living inside
+         the Frozen Mountain.  (Disc 2)  Also from the blue
+         enemies, Parasite,  in the Makou Pit.  (Disc 3)
+-----------------------------------------------
+Star 17-????-------Magic Points Needed: 3
+
+
+Effect:  A weight drops onto the enemy. The damage is the amount of
+        damage done to the caster this turn.
+Learn:   From the scale creatures in Nivelheim.  (Disc 1, 2, or 3)
+         Also from Behemoth that you encounter when
+         raiding Midgar.  (Disc 2)  
+----------------------------------------------
+Star 18-Goblin Punch-------Magic Points Needed: 0
+
+
+Effect:  One enemy is hit for strength damage. The damage done
+         is much more severe if that enemy has the same level as you
+         do.
+Learn:  The goblins wearing boxing gloves  found on the
+         forested island in the northeast area of the map.  (Disc
+         2 or 3)
+----------------------------------------------
+Star 19-Chocobuckle-------Magic Points Needed: 3
+
+
+Effect:  A Chocobo falls on one enemy. The damage increases if you
+         run away from more battles.
+Learn:   Go to the Chocobo Farm.  Talk to the man in the barn and choose
+         to buy items. The 5th item from the top costs 1500 Gil, and you 
+         should buy 3 or them. Go to the Chocobo tracks on the
+         Southern continent near the forest. Equip yourself with a
+         Chocobo Lure materia.  When you find a Chocobo, kill off
+         all but one of the other enemies and use the item you bought 3
+         of on the Chocobo. The Chocobo will peck at the ground. When 
+         the Chocobo stops pecking, use Level 4 Suicide Enemy Skill on 
+         the Chocobo and he will use Chocobuckle on you.
+         (Disc 2 or 3)
+-----------------------------------------------
+Star 20-Level 5 Death-------Magic Points Needed: 22
+
+
+Effect:  Enemies with levels multiple to 5 will be killed instantly.
+Learn:   From the blue leeches, Parasites, in the Makou Pit.
+         (Disc 3)
+-----------------------------------------------
+Star 21-Death Sentence-------Magic Points Needed: 10
+
+
+Effect:  One enemy is condemned and will die when the counter on top 
+        or them reaches zero.
+Learn:   From the yellow spikey enemies that are in front of and
+         in the area behind the Ancient City.  (Disc 1, 2, or 3)
+------------------------------------------------
+Star 22-Roulette------Magic Points Needed: 6
+
+
+Effect:  One random friend or enemy is instantly killed.
+Learn:   From the Death Dealers that look like Jesters in the Makou Pit
+         when you take the right path the first time you meet up.
+         (Disc 3)
+------------------------------------------------
+Star 23-Shadow Flare------Magic Points Needed: 100
+
+
+Effect:  A black fire hits one enemy.
+Learn:   From the Ultimate Weapon hovering over the world map.
+         Or also the Dragon Zombies in the Makou Pit.  (Disc 3)
+------------------------------------------------
+Star 24-Pandora's Box-------Magic Points Needed: 110
+
+
+Effect:  Stars and a question point appear and hit all enemies for 
+         strength damage.
+Learn:   From the large Dragon Zombies locating in 
+         the Makou Pit if you take the right path the first time you
+         meet your friends.  (Disc 3)
+--------------------------------------------------
+
+To learn all of the enemy skills, a person must first be equipped with 
+an Enemy Skill Materia. There are 24 Enemy Skills in all, and each takes
+up a star in the materia menu. If that spell hits you in battle; even if it 
+misses you or kills you, you will gain the Enemy Skill. However, if your
+party dies, you do not learn that Enemy Skill. Enemy Skills that are casted
+upon teammates will not give that person the Enemy Skill, because they 
+must have that spell casted on them by monsters only. I have found many
+Enemy Skills to be useful, especially some that use a low amount of MP 
+to do a high amount of damage. 
+
+
+---------Part 6: Weapons---------
+
+Legend:
+
+Weapon:         Name of Weapon
+Cost:             How much it costs if you can buy it
+Atk:             Attack Power
+A%:             Attack Percentage
+UN:                Unlinked Materia Slots
+LN:                 Linked Materia Slots
+Growth:         The Weapons Growth  (Normal, Double, Triple)        
+
+Cloud's Weapons:
+
+Cloud's Weapons are swords.
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Buster Sword              --------                 18                96                 
+0             2               Normal
+Hardedge                     1500                   32                 98                
+2              2              Normal
+Mythril Saber              1000                    23                98                
+1              2              Normal
+Force Stealer                2200                  36                 100              
+3              0               Double
+Butterfly Edge             2800                   39                 100              
+0              4              Normal
+Rune Blade                   3800                   40                 108             
+4               0             Double
+Yoshiyuki                     -------                 56                  100             
+2               0              Normal
+Murasame                    6500                   51                 100               
+1             4              Normal
+Nail Bat                         2800                   70                 100              
+0              0              0
+Organics                       12000                 62                 103              
+2              4              Normal
+Enhance                        12000                 43                 107              
+0              8              Normal
+Crystal Sword              18000                 76                 105              
+0              6              Normal
+Heaven's Cloud           --------                 93                 100              
+6             0              Normal
+Apocalypse                 --------                 88                 110              
+3              0              Triple 
+Ragnarok                      --------                 97                 105              
+0             6               Normal
+Ultima Weapon           --------                100                110               
+0            8                0
+
+Aeris's Weapons:
+
+Aeris's Weapons are Staffs, Sticks, and Staves. Most of her weapons are only 
+available for a limited 
+amount of time. 
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Guard Stick                    -------               12                99                
+1               0                 Normal
+Striking Staff                 1300                 32               100               
+2               2                 Normal
+Mythril Rod                   370                  16                100              
+0               2                 Normal
+Full Metal Staff             800                   22               100               
+1              2                 Normal
+Wizard Staff                  -------                28               100               
+3              0                 Double
+Fairy Tale                      2500                  37               103              
+7               0                 Normal
+Prism Staff                     2600                 40                105              
+0              4                  Normal
+Wizer Staff                    -------                33                100              
+4               0                 Double
+Aurora Rod                   5800                 51                110              
+1               4                 Normal
+Princess Guard             -------                52                111              
+1               6                 Normal
+Parasol                          -------                 58                118              
+0               0                 0
+
+Tifa's Weapons:
+
+Tifa's Weapons are Claws and Gloves.
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Leather Glove                -------                13                99               
+1               0                 Normal 
+Metal Knuckle               320                   18               102              
+0               2                 Normal
+Mythril Claw                  750                   24               106              
+1               2                 Normal
+Grand Glove                  1200                  31               110              
+2               2                 Normal
+Motor Drive                   ------                 27               106              
+3               0                 Double
+Tiger Fang                      2500                 38               110              
+0              4                  Normal
+Platinum Fist                  2700                 30               108              
+4               0                 Double
+Diamond Knuckle         5800                  51               112             1               
+4                  Normal
+Work Glove                    2200                 68               114              
+0               0                 0 
+Dragon Claw                  10000                62               114             
+2               4                  Normal
+Kaiser Knuckle              15000                44               110             
+6               2                  Normal
+Crystal Glove                 16000                75               115             
+0               6                  Normal
+God's Hand                     -------                86               255             
+0               4                  Normal
+Premium Heart                -------                99               112             
+0               8                  0
+
+Barret's Weapons:
+
+Barret's Weapons are guns that he attaches to his right arm, or knives or swords 
+that he places there
+for short range attacks. Most of his Weapons are long range, witch gives him and 
+advantage if he is 
+in the back row in combat.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Gattling Gun                  -------                 14               97                
+1              0                 Normal
+Assault Gun                  350                     17              98                
+0               2                Normal           *
+Atomic Scissors           1400                   32               99                
+2              2                 Normal
+Cannon Ball                   950                     23              98                
+1               2                Normal
+W Machine Gun           18000                 30              100              3               
+0                 Double          *
+Heavy Vulcan               2700                    39             100              
+0                4                Normal          * 
+Enemy Launcher           3200                   35              100              
+3               2                 Normal         * 
+Drill Arm                         2000                   37              97               
+4                0                 Double         *
+Chainsaw                       6300                   52               100             
+1                4                 Normal
+Rocket Punch                -------                  62              110              
+0               0                  0  
+Microlaser                      12000                 63              101              
+2               4                  Normal      
+AM Cannon                   12000                 77              103              
+0               6                  Normal       *
+Solid Bazooka                3300                   61               100             
+0               8                  0  
+Max Ray                         -------                  97               98               
+0               6                  0                  *
+Missing Score               -------                  98               108             
+0               8                  0                  *
+
+*= This weapon is a long range weapon.
+
+Yuffie's Weapons:
+
+Yuffie uses Shurikens, Boomberangs, Cross Spears, and Ninja Weapons of the sort. 
+Some of her weapons 
+are long range.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+4-Point Shuriken           ------                 23              100                
+2               1                Normal
+Boomerang                    1400                 30              101                
+2               2                Normal  
+Wind Slash                    ------                 30              103                
+3              0                 Normal
+Pinwheel                         2600                37              104                
+0               4                 Normal
+Twin Viper                     ------                 36              108                
+4               0                 Double
+Razor Ring                      6000                49              105                
+4               1                 Normal
+Hawkeye                        12000               61              107                
+4               2                 Normal
+Crystal Cross                18000               74              110                 
+0              6                 Normal 
+Conformer                      ------                 96              112                
+0               8                 0
+Oritsuru                          ------                 90              116                
+4               4                 Normal
+Magic Shuriken            14000                68              110                
+2               6                 Normal
+Super Ball                       3000                 68              120                
+0               0                 0 
+
+
+Red XIII's Weapons:
+
+Red XIII uses Hairpins as his weapons.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Mythril Clip                    800                   24               100              
+1              2                Normal 
+Magic Comb                  3500                  37               100              
+3              0                Double
+Diamond Pin                  1300                  33               102              
+2              2                Normal
+Silver Barrette                2500                  40               110             
+0              4                 Normal
+Seraph Comb                 ------                  68               110              
+4              0                Normal
+Plus Barette                    6000                  39               104             
+4              0                 Double
+Hairpin                            6000                  57               120              
+0              0                 0
+Gold Barrette                  6000                  50               104              
+1             4                 Normal
+Adaman Clip                  11000                60                106             
+2             4                 Normal
+Crystal Comb                 17000                76                108             
+0              6                Normal 
+Spring Gun Clip             ------                  87                100             
+0              6                Normal
+Centclip                          ------                  58                108             
+8              0                 0
+Limited Moon                ------                  93                114             
+0              8                 0
+
+Vincent's Weapons:
+
+Vincent's Weapons are guns of all sorts.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Quicksilver                    1000                 38               110             
+2                 2               Normal 
+Peacemaker                   ------                 38               118              
+1                2                0
+Sniper CR                      3000                 42               255              
+0                4                Normal
+Shotgun                        3100                  48              112              
+0                4                Normal
+Shortbarrel                    6400                 51               118              
+1                4                Normal
+Silver Rifle                     3000                 62               120              
+0                0                0
+Lariat                             12000                64               120              
+2                4                Normal
+Winchester                  18000                 73              120              
+0                6                Normal
+Outsider                        ------                  80               120             
+4                 4                Normal
+Supershot ST               ------                  97               120             
+0                 6                 0
+Buntline                        ------                  48               124             
+0                 4                 0
+Long Barrel R               ------                 66                255             
+0                 8                 0
+Death Penalty              ------                  99               115             
+0                 8                 0
+
+Cait Sith:
+
+Cait Sith's Weapons are Megaphones that he uses to control the stuffed Moogle. 
+Most of his 
+Megaphones are colors.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Yellow M-Phone            500                  36               100              
+2                2               Normal   
+White M-Phone            2300                 35               102              
+3                0               Double
+Green M-Phone             2400                41                100              
+0               4                Normal
+Black M-Phone             2800                 31                104             
+4                0               Double
+Silver M-Phone             3300                 28               106              
+8                0               Normal 
+Blue M-Phone               5500                 48               100              
+1               4                Normal
+Trumpet Shell                3000                 68                118             
+0               0                0
+Red M-Phone               11000                60                100             
+2               4                Normal
+Crystal M-Phone         18000                74                100             0               
+6                Normal
+Gold M-Phone              -------                58                103             
+0               8                0
+Battle Trumpet             -------                95                 95              
+0                6                Normal
+Starlight Phone            -------                88                 102            
+0                8                0 
+Marvelous Cheer         -------                95                 110            
+0                8                0
+
+Cid's Weapons:
+
+Cid uses Spears and Lances of the sort. His weapons are very strong, and usually 
+hold many 
+materia slots.
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+   Weapon                      Cost               Atk             A%            
+UN           LN           Growth                   
+--------------------------------------------------------------------------------
+-----------------------------------------
+Spear                              1200                 44                97                
+0              4                 Normal
+Slash Lance                   6500                 56                98                
+1              4                 Normal
+Trident                           7500                 60               105               
+6              0                 Normal
+Viper Halberd                ------                 58               102               
+4              0                 Double
+Mast Ax                        13000                64                99                
+2              4                 Normal
+Javelin                            ------                 62               104               
+1              4                 Double
+Partisan                         19000                78               100               
+0              6                 Normal
+Scimitar                          ------                 86               102               
+0              2                  Triple
+Dragoon Lance             ------                 66               100               
+8              0                 Normal
+Mop                                ------                 68               118               
+0              0                 0
+Venus Gospel                ------                 97               103               
+0              8                 0
+
+
+--------Part 7: Armor List---------
+
+Legend:
+Cost: How much it costs
+D: Defense
+D%: Defense percentage
+MD: Magic Defense
+M%: Magic Defense percentage
+Un: Unlinked Materia Slots
+Ln: Linked Materia Slots
+Mg: Magic Growth
+
+--------------------------------------------------------------------------------
+-----------------------------------------
+Name                           Cost              D          D%        MD          
+M%       Un         Ln         Mg
+--------------------------------------------------------------------------------
+-----------------------------------------
+Bronze Bangle           -------              8            0              0              
+0             0           0             0
+Iron Bangle                160                 10          0              2              
+0             1           0             1 
+Titan Bangle              280                 14          2              4              
+0             2           0             1
+Mythril Armlet           350                18          3               6             
+0              0           2             1
+Carbon Bangle           800                27          3               8             
+0              1           2             1 
+Four Slots                   1300              12          0              10            
+0              0           8             1
+Shinra Beta                 -------             30          0               0             
+0              2           2             1 
+Platinum Bangle         1800              20          0              12            
+0              2           0             1
+Silver Armlet               1300              34          4              14            
+0              2           2             1
+Gold Armlet                 2000              46          4              22            
+0              0           4             1
+Edincoat                      -------             50           0             33            
+0              8            0            1
+Diamond Bangle         3200              57           6             37            
+0              1            4            1
+Rune Armlet                3700              43           5             24            
+0              4            0            2
+Dragon Armlet           -------              58          3               0             
+7              0            6            1
+Gigas Armlet              -------              59           0              0             
+0              1            0             0
+Aurora Armlet            -------             76           8              54            
+3             0            4             1
+Wizard Bracelet           12000              6            3              85            
+3             0            8             1
+Bolt Armlet                 -------              74          8              55            
+3             0            4             1
+Fire Armlet                 --------             72           8              52            
+3             0            4             1
+Crystal Bangle           4800               70           8              45            
+1             0            6             1
+Warriors Bangle        -------              96           0              21            
+0             0            4             1
+Shinra Alpha              -------              77           0              34            
+0             0            6             1
+Ziedrich                      -------              100         15             98           
+18            0            0             0
+Escort Guard              -------              62            5              55            
+0             0            6             1
+Aegis Bracelet           -------              55           15             86           
+50            0            4             1
+Imperial Guard           -------               82            0              74            
+0             0            6             1
+Minerva Band            -------              60             8             57             
+0            0            6             1
+Mystile                       -------               65           50             
+72            60           0            6             1
+Chocobracelet           --------              35           10             38            
+10           4            0             1
+       
+
+
+
+---------Part 8: Breeding a Gold Chocobo---------
+
+
+To breed a Gold Chocobo you need to breed a Black and Yellow Chocobo. To get the 
+black
+Chocobo:  If you wait awhile you should be able to breed two yellow Chocobos 
+again, and give
+the Carob Nut. Try to get the blue one. If you do, make sure it is the opposite 
+sex than your
+green Chocobo. Let them rest. Before you breed them again you must feed them the 
+Sylkis
+green that costs 5000 Gil for the Sage. Go feed both the green and blue Chocobos 
+ten of these
+each. Now you must race them at the Gold Saucer until they become Class A 
+Chocobos. Breed
+them using a Carob Nut, and you should get a black one. To get the Gold Chocobo, 
+you have 
+to breed the Yellow one with the Black one and give them the Carob Nut.
+
+--------Part 9: Rumors of Final Fantasy 7--------
+
+There have been many rumors pertaining to Final Fantasy 7. Listed here are 
+various ones, what 
+supports these rumors, and what contracts the rumors. Square has done so many 
+things to this game, 
+making rumors inevitable.
+
+
+

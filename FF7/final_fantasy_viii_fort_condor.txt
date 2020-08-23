@@ -1,0 +1,129 @@
+
+Fort Condor Notes
+Version 0.1
+Last Edited 11/30/99
+
+********************
+
+Well, I wanted to know some stuff about the Fort Condor battles but
+couldn't find what I wanted to know online.  So I did some
+experimentation and figured I'd share the results with anyone who
+cares.  Props to Kao Megura (his FAQ is right beside me whenever I
+play FF7) and to Joe Winiarski (I don't use this one quite as
+extensively, but it helps).  Also, thanks to ____________ whose
+webpage suggested rushing down the mountain (which I have found to be
+a superior strategy thus far).
+
+Notes: I've only beaten Disc One so far, so maybe not everything holds
+in other discs.  Also, I've only played the US version for PC.
+
+Please email me at skhirosh@mit.edu with any corrections/additions.  Thanks.
+
+********************
+
+                            When fighting against this enemy unit
+                               Damage Done/Damage Taken by you
+Allied Unit   Cost   HPs   Beast   Wyvern   Barbarian   Commander
+-----------   ----   ---   -----   ------   ---------   ---------
+Attacker       420   180   40/15    22/25     17/30       12/60
+Shooter        520   160   10/45    30/12     16/20        6/60
+Stoner         480   100   20/30     6/25     16/20       10/60
+Catapult       480   100   18/30    14/25     14/20        9/60
+Fighter        400   200   30/30    27/25     30/20       15/60
+Defender       440   220   35/30    24/37     52/10       17/60
+Tristoner     1000   150   30/30     9/25     24/20       15/60
+Fire Cat.      600   120   25/30    20/25     20/20       12/60
+Repairer       480   160   10/30     9/25     10/20        5/60
+Worker         400   160   15/30    13/25     15/20        7/60
+(Bomb)         ---   ---   15/--    13/--     15/--        7/--
+
+So, when I send my Attacker against a Beast, I hit the Beast for 40 HP
+and he hits me for 15 HP.  Clearly, I am winning out.
+
+Enemy Unit   HPs
+----------   ---
+Beast        230
+Wyvern       190
+Barbarian    180
+Commander    250
+
+Also, your mobile units get their turn before the enemy units.  So,
+I kill the Beast with my 6th attack before he can make his 6th attack.
+
+********************
+
+Other notes:
+
+The battle ends as soon as there are no more enemies on the mountain.
+You don't have to wait for and defeat the enemy commander (I thought
+this was the case for a long time).  So, beat down the enemy quickly
+before more bad guys can appear.
+
+Stationary allied units (Stoners, Tristoners, Catapults, and Fire
+Catapults) get destroyed very quickly by the enemy (they get maybe 3
+attacks for your 1).  So, if a Beast gets to a Catapult, the Catapult
+is pretty much toast.
+
+Stationary allied units can hit multiple opponents.  They just have to
+be all in the area of effect when the bomb/rock gets there.
+
+Workers can't lay a new bomb until the first one has detonated.
+
+Barbarians have a ranged attack, so they can get in a shot as you are
+moving in on them.
+
+Shooters have a ranged attack, so you can get in a shot on opponents
+as they move in on you.
+
+Repairers have a really slow rate of healing.  They only heal 10 hp, also.
+
+Ganging up on a bad guy is beneficial for you.  Being ganged up on is
+bad for you.
+
+The Wyverns are fast.  The Commander is slow.
+
+Attackers are fast.  Shooters are slow.
+
+********************
+
+Items won from the battles (this is the info I set out to find):
+
+Battle            Prize            When can I fight the nth battle?
+---------------   --------------   --------------------------------------------
+First Battle:     Magic Comb       Before fighting Bottomswell in Junon
+Second Battle:    Peace Ring       After fighting Bottomswell in Junon
+Third Battle:     ???              I can't find anyway to get back for this one
+Fourth Battle:    3 Tinctures *    After you get the buggy
+Fifth Battle:     Megalixir        After beating Cave of the Gi
+Sixth Battle:     5 Potions        After getting Tiny Bronco
+Seventh Battle:   Superball        After Date, before Temple
+Eighth Battle:    3 Turbo Ethers   After beating Temple of the Ancients
+Ninth Battle:     3 Turbo Ethers   After Aeris dies, before following Sephiroth
+
+* Tinctures are items from FF6.  What you really get is 3 Ethers.
+
+Money can't buy Turbo Ethers, but here you get 3 for the price of 2
+Attackers, 2 Defenders, and 2 Shooters.  The first six guys up the mountain
+during these battles are 2 Wyverns, 2 Barbarians, and 2 Beasts.  If you rush
+down the mountain, you can whip them before anyone else shows up.
+
+Note that if the enemy commander makes it to the shed and you have to fight
+the CMD. Grand Horn, you don't get the prize.
+
+********************
+
+Things I'd like to know (if someone has time and/or desire to research them):
+
+     1) If I skip a battle (let's say #7) does the next battle give me
+        the 3 Turbo Ethers or the Superball?
+     2) Is there a (non-cheating) way to get back for battle #3?
+     3) What is the prize for the missing battle?  (Can somebody with
+        a cheat code help me out here?)
+
+********************
+
+That's it.  Thanks for reading!
+
+Scott Hiroshige
+skhirosh@mit.edu
+

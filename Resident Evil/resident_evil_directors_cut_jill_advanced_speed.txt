@@ -1,0 +1,670 @@
+ ____  ____  ___  _  ___   ____  _    _  _____    ____  _  _  _  _
+|    ||  __||  _|| ||   \ |  __|| |  | ||_   _|  |  __|| || || || |
+| |\ || |   | |  | || |\ || |   |  \ | |  | |    | |   | || || || |
+| || || |_  | |_ | || || || |_  |   \| |  | |    | |_  | || || || |
+|    /|  _| |_  || || || ||  _| | |\ \ |  | |    |  _| | || || || |
+| |\ \| |     | || || || || |   | | \  |  | |    | |   | || || || |
+| || || |__  _| || || |/ || |__ | |  | |  | |    | |__ \ \/ /| || |_
+|_||_||____||___||_||___/ |____||_|  |_|  |_|    |____| \__/ |_||___|
+
+ ___   _  ____  ___  ___  ____  ____  ____  _  ___   ___  _  _  ____
+|   \ | ||    ||  _||  _||_  _||    ||    || ||  _| |  _|| || ||_  _|
+| |\ || || |\ || |  | |    ||  | || || |\ | \|| |   | |  | || |  ||
+| || || || || || |_ | |    ||  | || || || |   | |_  | |  | || |  ||
+| || || ||    /|  _|| |    ||  | || ||    /   |_  | | |  | || |  ||
+| || || || |\ \| |  | |    ||  | || || |\ \     | | | |  | || |  ||
+| |/ || || || || |_ | |_   ||  | || || || |    _| | | |_ | || |  ||
+|___/ |_||_||_||___||___|  ||  |____||_||_|   |___| |___||____|  ||
+
+
+
+                    RESIDENT EVIL: DIRECTOR'S CUT
+              JILL'S ADVANCED/ARRANGED GAME SPEED GUIDE
+
+                             Version 1.1
+
+                       For the Sony PlayStation
+
+                        Author: Efrem Orizzonte
+
+
+=====================================================================
+DISCLAIMER
+=====================================================================
+
+THIS DOCUMENT IS (c)2000-2002 EFREM ORIZZONTE. THIS DOCUMENT IS FOR PRIVATE USE
+ONLY. YOU'RE NOT ALLOWED TO PLACE IT ON YOUR WEBSITE, LINK DIRECTLY TO IT,
+ALTER IT IN ANY WAY, PUBLISH IT IN BOOKS OR MAGAZINES, OR SELL IT FOR ANY
+PROFIT. YOU MAY PRINT IT AND GIVE IT TO WHOMEVER YOU WANT AS LONG AS YOU DON'T
+GET ANY CASH FOR IT.
+
+YOU CAN E-MAIL THE AUTHOR FOR QUESTIONS, COMMENTS, CORRECTIONS OR CONTRIBUTIONS
+AND YOU WILL BE GIVEN CREDIT FOR THEM AS LONG AS THEY'RE USEFUL AND PERTINENT
+TO THE DOCUMENT. THE E-MAIL ADDRESS IS THE FOLLOWING (REMOVE SPACES TO GET THE
+CORRECT ADDRESS):
+
+                       efroriz @ hotmail . com
+
+
+=====================================================================
+CONTENTS
+=====================================================================
+
+1. REVISION HISTORY
+2. INTRODUCTION
+3. TIPS
+4. SPEED GUIDE
+5. MAPS
+6. CREDITS
+
+
+=====================================================================
+1. REVISION HISTORY
+=====================================================================
+
+Version 1.0 [9-22-2000]
+Everything.
+
+Version 1.1 [2-27-2002]
+I have slightly modified the ASCII title. I have also revised the text to
+correct some of my bad English. Nothing has changed in the walkthrough.
+
+
+=====================================================================
+2. INTRODUCTION
+=====================================================================
+
+Although Resident Evil: Director's Cut is a much more difficult version of the
+original game, it's possible to complete it - using Jill Valentine as the main
+character - way below the 2 hours roof. Of course, this may prove to be an
+impossible task for beginners, but it makes a tempting challenge for those who
+have played the game and mastered it. This speed guide features a step-by-step
+walkthrough that will tell you how to beat Jill's adventure in less than 1h40'
+(in PAL version - time will be significantly shorter in the NTSC version). Try
+it if you want to fully enjoy one of the greatest games ever made for the Sony
+PlayStation, or if you feel the need to prove yourself a strong survivor. And
+if you're wandering why on Earth I took the time to make such a guide... you
+don't know who Vincent Merken and Mark Kim are! Check their great speed guides
+as well.
+
+
+=====================================================================
+3. TIPS
+=====================================================================
+
+- Press Start to skip all FMV scenes. This saves time. Unfortunately,
+  CGIs and cut scenes can't be skipped in this game.
+
+- Run everywhere. If your thumb hurts, ignore it. You're playing for
+  time, right?
+
+- Remember that an enemy is dead only when you see its blood spread
+  on the floor. Speaking about enemies, remember that only Explosive
+  Rounds will surely kill a zombie in one hit, and that hunters will
+  not be knocked down by Flame Rounds.
+
+- Try to avoid being hurt at all costs. Accessing the menu and
+  storage boxes to use First Aid Sprays takes time.
+
+- ALWAYS know how many bullets/rounds you have in your weapon. ALWAYS
+  reload when needed.
+
+- NEVER get poisoned.
+
+- If you know the game, plan everything from the start. Read the
+  guide and play the game in your mind before you actually play it.
+  This will save you a lot of time.
+
+- Stay cool. You don't even imagine what mistakes you can make if
+  you're agitated. Never panic, or you're dead.
+
+- Don't load your inventory with First Aid Sprays. Save them for
+  difficult spots.
+
+- AIM WELL. You don't want to waste ammo.
+
+
+=====================================================================
+4. SPEED GUIDE
+=====================================================================
+
+Choose Jill and start the game. After Barry says "A dining room", you'll be
+able to control Jill. Turn around and go back to the Main Hall 1F. Wesker will
+send you back. When you can move again, try to return to the Main Hall once
+more. Barry will say something. Now go where Barry is, and let the two of them
+chat. After that, go to the granny clock. A scene will take over. As soon as
+it's finished, go back to the Main Hall. When Barry asks you to look for
+Wesker, run through the passage below the stairs, and exit back to the hall.
+Barry will give you the Lockpick and leave. Climb the stairs to the second
+floor.
+
+Go to the Balcony and pick up the Bazooka. Equip it and try to take the key. As
+soon as you regain control of Jill, fry Forest and get the Armor Key. Get out
+and you'll meet Barry in the Main Hall 2F. He'll give you some Acid Rounds and
+leave. Equip the Beretta, go back downstairs, and go to the Statue Room.
+
+Unlock and enter the L-shaped Corridor. Run down it to avoid the dogs, and
+access the Twisted Corridor. Unlock and enter the Patio. Shoot the first dog
+once and get close to it. Shoot it until it's dead, then go ahead. As soon as
+the camera angle changes, press R1 to be ready for the next dog. Shoot it once,
+pick up the Chemical, shoot the dog again, and run back to the Corridor. Go to
+the Dark Corridor and kill one zombie with the Beretta and one with the
+Bazooka. Ignore the third zombie and enter the Painting Gallery.
+
+Press the switches below the paintings in this order:
+
+-Newborn baby
+-Infant
+-Lively boy
+-Young man
+-Middle-aged man
+-Old man
+-"The end of life"
+
+Get the Wind Crest and leave. Unlock the Stairwell and run to the Storage Room,
+without wasting a single bullet against the two zombies. Put everything in the
+Storage Box but the Bazooka, the Armor Key, the Beretta, and the two Clips
+you'll find in the box. Get out and go upstairs.
+
+Move to the right of the steps to draw the zombie's attention. As soon as he's
+on the left, climb the steps and run right to the jammed door. Turn around and
+shoot the two zombies down with the Beretta, then unlock and enter the Stag
+Room. Go to the Aquarium Room and press the spider switch on the wall. When the
+aquarium is empty, push it towards the desk, and push the cupboard towards the
+wall with the aquarium. Get the half Moon Crest and go back to the Corridor.
+Equip the Bazooka. Unlock and enter the Red Corridor.
+
+Kill the nearest zombie, then run down the hall to the Armors' Room. Enter it.
+Cover the two ventilation holes with the statues and press the switch. Collect
+the Emblem and get out. Go to Richard's Corridor, dodging the zombie on the
+way. After the scene, go to the Dining Room 2F via the Main Hall 2F.
+
+Kill the first zombie, then start pushing the statue towards the opening in the
+rail. If you're fast, you can push it down to the room below before the second
+zombie gets you. Avoid him and run to the Narrow Corridor. Kill the first two
+zombies with the Bazooka, ignore the third, and go downstairs. Quickly enter
+the Infirmary before the dog gets you.
+
+Take the Serum from the shelf. Have with you: Beretta, Clip(s), Emblem, Serum,
+Chemical. Get out and run like hell to the Green Corridor. Rush down the narrow
+passage and kill (or just stun) the zombie guarding the Greenhouse. Enter that
+room, and use the Chemical in the water pumping machine to KO the plant, then
+get the Sun Crest. Get out and go to the Sofa Corridor. Go to the Piano Bar,
+get round the piano, push the shelf aside, and get the Music Notes. Use them in
+front of the piano to open a secret passage. Go there, get the Gold Emblem,
+replace it with the Wooden Emblem, and go to the Dining Room.
+
+Pick up the Star Crest from the remains of the statue. Use the Gold Emblem in
+the hollow above the fireplace to move the clock. Collect the Blue Jewel. Take
+it to the Tiger Room, and use it in the statue's eye to find the Shield Key.
+Pick it up and return to Richard's Corridor via the Main Hall. After the scene,
+open the next door. Hug the outer wall and run down it to the steps.
+Immediately press X and the zombie's drool will miss you. Unlock the door,
+discard the key, and enter the Attic.
+
+Now you'll have to be very skilled if you want to save some precious time. Run
+ahead and let Yawn make its introduction: then, as soon as you regain control,
+turn Jill to her left and run towards the post. Get round it. Yawn will attack
+while you do so, but it will miss if you're quick. Run to the alcove and
+retrieve the second half of the Moon Crest, then leave as quickly as possible,
+trying to avoid getting hit. If the snake didn't poison you, you'll save 2-3
+minutes - otherwise, you'll lose them. Anyway, just get to the nearest storage
+box (Infirmary if you were hit, Storage Room if not) and take with you the
+Bazooka and the four Crests, then go to the Courtyard Passage.
+
+Dodge the dogs and position yourself in front of the plate. Use the Crests in
+the plate, tapping Start like mad every time one Crest is positioned to
+immediately re-access the menu. When the door unlocks, enter the Warehouse.
+Push the ladder below the shelf on the wall, climb it, and get the Square
+Crank. Go to the Courtyard. Walk towards the rusty gate until you actually see
+the dogs, then dash to the gate. At the Pool, use the Crank to drain the pool
+(skip the FMV) and run all the way to the Guardhouse, avoiding all dogs.
+
+Go to the Bedroom and get the Explosive Rounds (also take the First Aid Spray
+if you need it). Reload the Bazooka and go to the Bar. Quickly take the Red
+Book from the table and leave. Go to the Long Corridor. The plant's tentacle
+will hit you twice, but it shouldn't be enough to kill you. Go to the Wasp Nest
+Room, get the Dormitory Key 002, and go open the dormitory. Enter the Bathroom
+002, kill the zombies and take the Dormitory Key 003 from the sink. Go open the
+other dormitory, and enter its bathroom. Kill the zombie and pick up the Flame
+Rounds. Kill the zombie in the dormitory, take the V-Jolt Report, and replace
+it with the Red Book. Go to Plant 42 Room.
+
+Shoot the Plant with 2 Explosive Rounds and one Flame Round. A scene will take
+over. After that, get the C.Room Key from the fireplace and return to the
+Dormitory 002. Push the bookcases to discover the ladder and descend it.
+
+Push the first crate almost to the end of the corridor (it must be on the outer
+wall), then push the two other boxes into the water. Do the same with the first
+one and go to the Aquarium. Go right and down the hall to the C.Room door (skip
+the FMV), unlock it, and enter. Use the lever and the button to lower the water
+level and to unlock the Arsenal. Go to the Arsenal, take the Helmet Key, and go
+back to 1F. After the scene, return to the Mansion.
+
+Skip the FMV. When the first hunter comes at you, just run to the door of the
+Stairwell. Once there, kill the two hunters with the Flame Rounds. Your Bazooka
+_must_ be empty when you enter the Storage Room. Pick up the Acid Rounds from
+the floor, and take the ones Barry previously gave you. Have a First Aid Spray
+to avoid the worst, then go upstairs. Overrun the hunter and reach the Piano
+Room.
+
+Check the piano and Yawn will make an encore appearance. Stand your ground and
+shoot - 5 Acid Rounds should be enough. Then, check the hole. Barry will come
+in and allow you down. When he leaves, go to the tombstone and check it. Press
+the switch and climb the ladder down. Run to the end of the corridor, avoiding
+the hunter. Do the same with the zombies in the next hall, and reach the
+Kitchen.
+
+Go for the elevator and let the zombie on the floor bite you - but frantically
+press every button to break free, or it'll chew you to death. Take the elevator
+up, kill the first hunter you see, and go to the Closet. Take the 12 Explosive
+Rounds, then run to the Main Library. Kill the zombies and push the metal
+cupboard aside to earn access to the Secret Study. Get in, take the Battery,
+and leave. Go to the Messed-Up Library, push ahead the statue once and a half
+time, press the switch on the wall, then push the statue to the lightened
+square. Get the Doom Book 1 and take the elevator back down to the Kitchen. Go
+to the door to 1F, skip the FMV, and kill the zombie. Go upstairs and reach the
+Garden.
+
+Go to the Waterfall Courtyard and kill one dog, then avoid the others and put
+the Battery in the hollow. Now take the elevator up. Kill the three dogs and go
+to the Pool, and use the Crank. Go back down and run to the ladder to the
+Underground. Descend it.
+
+Immediately enter the door. Take the left passage. In the Shaft Room, take the
+Explosive Rounds and maybe the First Aid Spray, then go to Enrico's Corridor.
+When Enrico's dead, search him for the Hex Crank, then return to the Typewriter
+Corridor and use your new Crank in the hole to clear the passage. Open the next
+door. Go to the boulder, turn around, and run to the door. When the wall's
+broken, run to the Spiderweb Room, and watch out for the hunter on the way.
+
+Kill the spider, get out, reenter, take the Knife, and clean the door, then
+open it. Go to the Second Boulder Corridor, use the Hex Crank three times,
+tease the boulder, and hide in the alcove. Go to the end of the corridor and
+get the Doom Book 2. Check and open the two books to find the Eagle Medal and
+the Wolf Medal, then enter the Pressure Plate Room. Push the statue towards the
+moving wall, then use the Hex Crank twice. Push the statue on the pressure
+plate, get the Lab Key and go take the elevator at the other end of the
+corridor.
+
+Use the two Medals in the fountain, skip the FMV, and go to the new passage.
+Take the elevator down to the Laboratory. Climb down the ladder and use the
+storage box so that everything you have is the Bazooka, the Rounds, the Lab
+Key, and any optional First Aid Spray. Go ahead. Kill one zombie and go
+downstairs. Go left and reach the Computer Room. Input JOHN and ADA, unlock
+Floor B3 and turn the computer off. Get out and run down the hall to the locked
+door (kill the zombie on the way). Unlock and open it.
+
+Ignore the zombies and go to the First Power Room. Go right, reach the control
+panel, and activate it, then go back and proceed to the Third Power Room.
+Quickly activate the elevator and take the Battery, then return to the Elevator
+Corridor and enter the Guardpost to get the Flame Rounds. Go to the Elevator
+and activate it. After the long scene, you'll have to fight the Tyrant. Shoot
+it down, then take the Lab Key near Wesker's body and use the control panel to
+unlock the room. Run back to the Entrance. You'll have one last scene with
+Barry. After that, go to the Heliport Passage, use the Battery. Take and use
+the Flare when you reach the Heliport.
+
+I got 1:39:59, but I was hit by Yawn and lost some time visiting some storage
+rooms. Therefore, 1:35:00 or less is completely affordable by hardcore players.
+
+
+=====================================================================
+5. MAPS
+=====================================================================
+
+***NOTE: only the names of the rooms you'll visit following this
+   guide are written. Useless rooms don't need an explanation***
+
+
+----------
+MANSION 1F
+----------
+
+                                      ____
+                                    _|    |
+                                   | |27  |
+                                   | /____|
+                                   | |    ___
+                                   | |   | |||
+ ______________                    | |   |13 |
+|         | 20 |_____              | |___|   |       ______
+|    ____ \  ______  |             | | | | |\|______|____ 9|
+|   | 18|/| |/| |21/_|             |_\ | | |_|  __  |  10| |
+|   |/__|_|  _| |____|               |  \ \ \  /15| |/___| |
+|       | | |        |_              | _11__/__|_\|___   /_|
+|17     | \ |   4  __| |             |\          |    | 8|
+|____|||| | |      |_| |             |    12     | 16 | _|
+    | 3 |_|/|_____\__| |_____________|___________|____|\ |
+    |___ __________/_30|             |      _____/    |  |
+      | \              |             /  5  |_____| 24 |  |
+      |       2        \             |_____|_    |/___|  |
+      |                |      1      |        ___|_25_|  |
+      |________________|             /  6    |     7     |
+                       |             |_______/___________|
+                       |_____________|
+
+1  MAIN HALL 1F              11 DARK CORRIDOR
+2  DINING ROOM               12 PAINTING GALLERY
+3  SOFA CORRIDOR             13 STAIRWELL
+4  PIANO BAR                 14 (BETWEEN 13, 11 & 15) STORAGE ROOM
+5                            15
+6  STATUE ROOM               16
+7  L-SHAPED CORRIDOR         17 WOODEN CORRIDOR
+8  TWISTED CORRIDOR          18 INFIRMARY
+9  PATIO                     19
+10                           20 GREEN CORRIDOR
+
+21 GREENHOUSE                26 COURTYARD PASSAGE
+22 (RIGHT OF 19) TIGER ROOM  27 WAREHOUSE
+23                           28
+24                           29 (BETWEEN 5 & 24)TOMBSTONE ROOM
+25                           30 ELEVATOR CORRIDOR
+
+
+
+----------
+MANSION 2F
+----------
+
+
+    ______     ____                        ___
+   |__    |   |21  |                      |||6|
+   |  |/| |___|___\|___               ______| |____________
+   |24| | |   |      | |             |   \  _______ _____  |
+ __|__\ | |22 |  20  \ |             | 12| |  8 /__\_7\ 9| |
+|  ___  | |   |     _| |             |\__|\|____|     |__| |
+| |___| | |   \    | 19|             |________11|     /   /|
+|_____ 5| |___|____|_  |             |        | | 18  | 10 |
+      | |_  23/_   |_| |__         __|    13  \ |     |____|
+      |__\|___|_/______|  |       |  |        | |     |    |
+      |2 ____________  | 1|_______|  |________| |_ _ _|    |
+      | |            | \  _________  /_ __  ____| | |      |
+      | |____________| | |         | | /_4|\|_  16\ |  17  |
+      |________________| |         | |3| ||14 |_ _| |_     |
+                       | |         | /_| ||_____/__15_/____|
+                       |_|         |_|
+
+
+1  MAIN HALL 2F                   13 ARMORS' ROOM
+2  DINING ROOM 2F                 14 RICHARD'S ROOM
+3  BALCONY PASSAGE                15 ATTIC PASSAGE
+4  BALCONY                        16
+5  NARROW CORRIDOR                17 ATTIC
+6  CORRIDOR 2F                    18 PIANO ROOM
+7  STAG ROOM                      19 ELEVATOR CORRIDOR 2F
+8                                 20 MAIN LIBRARY
+9  AQUARIUM ROOM                  21 SECRET STUDY
+10 FIREPLACE ROOM                 22 MESSED-UP LIBRARY
+11 RED CORRIDOR                   23
+12                                24
+25 (Just right of 23) CLOSET
+
+
+
+----------
+MANSION B1
+----------
+
+
+                               ____
+                              |1 __|
+                              | |
+ _____________________________| |___
+| \___4____|  __/_________________|||
+|      | | | |
+|   3  |_| | |
+|__ _______| |___
+ | \        2    |
+ |_______________|
+
+
+1 MAIN CORRIDOR B1
+2 LARGE CORRIDOR B1
+3 KITCHEN
+4 ELEVATOR SHAFT
+
+
+
+------
+GARDEN
+------
+
+ _
+| |
+| |
+| |
+| |_______                 _______
+|_______ 4|             __|  _   _|__                  _______
+        | |            | ___|_| |    |                |       |_____
+        | |    _   /  _| |  | |2|____|                |___   5      |
+        | |___| |_||_|  \|  |___  |                       |    __   |
+        |_____\          |     _| |_                      |   |  |  |
+              |_        _|    |  \  |                     |   |__|  |
+                |   3  |      |_   _|                     |_________|
+                |      |        | |
+                |      |________|1|_
+                |______|__________  |
+                                  | |
+                                  \_|
+
+
+
+1 COURTYARD
+2 POOL
+3 WATERFALL COURTYARD
+4 GUARDHOUSE PASSAGE
+5 FOUNTAIN
+
+
+
+-------------
+GUARDHOUSE 1F
+-------------
+
+                   ______
+        __________|      |__________
+       |  3 |            |  | 9|  | |
+ ______|__  |       5   _|  |\_| 8| |
+|      | 4| |    |     |   _/_____| |________________
+|   1  |__\\|____|     |  | 12 |    |11|   |         |
+|       __     __/_____|  |____/    |/_| 10/    13   |
+|___ __|  \ | |        |  |       7 \______|         |
+    \  |  2 | |        |  /________________/_________|
+       |____|\|________| 6|
+            |_____________|
+
+
+1 MAIN CORRIDOR                   8  DORMITORY 002
+2 BEDROOM                         9  BATHROOM 002
+3                                 10 DORMITORY 003
+4                                 11 BATHROOM 003
+5 BAR                             12
+6 LONG CORRIDOR                   13 PLANT 42 ROOM
+7 WASP NEST ROOM
+
+
+
+-------------
+GUARDHOUSE B1
+-------------
+
+                  _
+                 | |
+                 | |_______
+ ________________|_______ 1|
+|  5 |              /    | |
+|____/    ______  2 |    | |
+ |   /   |      |   |  3 | |
+ | 4 |   |______|   |____| |
+ |___|   |      |   /______|
+     |   |______|   |
+     |              |
+     |______________|
+
+
+1 UNDERGROUND CORRIDOR
+2 AQUARIUM
+3
+4 CONTROL ROOM
+5 ARSENAL
+
+
+
+-----------
+UNDERGROUND
+-----------
+
+
+                          _____
+                         |  _ 1|     __________   _
+                         | | | |    |   _\     |_| |
+                         | | | |    |  | |__3  ____|
+                         | | | |____|  |    | |
+                         |\| |_\____ 2 |    | |
+                  _______| |___     |  |   _| |
+                 |  _______ 5 _|    |  |__|   |
+                 |_|       | |      |____\__ \|
+          __________   ____|\|____          | |
+         |_   __   _| |           |  __     | |
+         __| | _| |_  |     6     | | 8|    | |   _
+        |10\_||  9  |_|_____/_____|_|_\|    | |__|4|
+        |__|  |  ___\__________7_______|    |______|
+              | |
+              |_|
+
+
+1 TYPEWRITER CORRIDOR                  6  SPIDERWEB ROOM
+2 T-SHAPED CORRIDOR                    7  EMPTY CORRIDOR
+3 SHAFT ROOM                           8
+4 ENRICO'S CORRIDOR                    9  SECOND BOULDER CORRIDOR
+5 FIRST BOULDER CORRIDOR               10 PRESSURE PLATE ROOM
+
+
+
+------
+LAB B1
+------
+
+ _______
+|       |
+|       |_______
+|  20   \_____  |
+|_______|     | |
+              | |
+              | |
+              | |_____
+              |__19_  |
+                    | |
+                    | |
+                    | |
+                    | |
+                    | |              _____
+                    | |_____________|     |
+                    |_______________\  1  |
+                                    |___  |
+                                        |_|
+
+
+1  ENTRANCE
+19 HELIPORT PASSAGE
+20 HELIPORT
+
+
+
+------
+LAB B2
+------
+
+ _____________
+|__ __    |   |
+|  \  |   | 2 |
+|     | 3 |/__|
+|  8  |       |
+|_____|_______|
+
+
+2 STORAGE BOX ROOM
+3 STAIRWELL
+8
+
+
+
+------
+LAB B3
+------
+
+
+ ____      _
+|   _|____| |______
+| |\ |    | |      |
+| |  |  9 | |  7  /|
+| |__|/___| |____| |
+|_\___5_ _\4 ____  |________
+      | / | | 12 | |   |  __|
+      |_6_| |__  | |11 | |13|
+          |    |/| |/__| |  |
+          |________\___10/__|
+                       | |
+                       | |
+                    ___|\|__
+                   |_14_  _ |
+                     || ||_||
+                    _|| | _\|
+                   |__| || ||
+                     ______||
+                    | _15__ |
+                   _||__  _||
+                  |_____||_ |
+                  |16_____ \|
+                  | |_____| |
+                  |_________|
+
+
+4 GREAT CORRIDOR                       11
+5                                      12
+6                                      13 GUARDPOST
+7 COMPUTER ROOM                        14 FIRST POWER ROOM
+9                                      15 SECOND POWER ROOM
+10 ELEVATOR CORRIDOR                   16 THIRD POWER ROOM
+
+
+
+------
+LAB B4
+------
+
+ ______
+|17____|___
+| |        |
+|_|   18   |
+| |_____   |
+| |     |  |
+| |     |  |
+| |     |  |
+| |     |  |
+| |_____|  |
+|   ____   |
+|  |    |  |
+|__|    |__|
+
+
+17 CORRIDOR B4
+18 TYRANT LAB
+
+
+=====================================================================
+6. CREDITS
+=====================================================================
+
+CAPCOM: they created the Resident Evil phenomenon.
+
+Vincent Merken: the king of the Speed Guides for survival horror games. He
+didn't take the time to make one for this game, so... :). Check his works if
+you ever find them (GameFAQs has them all).
+
+Jeff "CJayC" Veasey at GameFAQs.com: he posts my FAQs.
+
+Me: I wrote the FAQ.
+
+You: you read my work, and (hopefully) enjoyed it.

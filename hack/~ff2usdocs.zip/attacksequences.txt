@@ -1,0 +1,136 @@
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+Enemies in this game have their actions when in battle determined by their
+attack sequence(s), rather than being determined at random or by an AI
+(Artificial Intelligence). The attack sequence data is stored in an
+appallingly complex and inefficient manner.
+
+In order to determine what a monster does, first look at the attack sequence
+group number in the main monster data. The attack sequence group data is
+stored from 76230 to 767FF. This data consists of a series of attack sequence
+groups, with each stored right after the other and absolutely no offset table
+or any other means of finding one quickly. Instead, the game code reads the
+bytes one at a time until the number of FF bytes specified by the attack
+sequence group number has been read. The attack sequence group data follows
+immediately afterwards.
+
+So the attack sequence group data is just a list of FF-terminated lists,
+right? Well, not quite. In one of the groups, FF is both the list terminator
+and the attack sequence number (see below).
+
+Each attack sequence group is made of from one to ten two byte entries. The
+first byte determines under what condition(s) the attack sequence specified by
+the second byte will take place.
+
+The first byte of the attack sequence group is looked up in yet another list
+that extends from 76800 to 773FF. This list is another list of lists; each of these sub-lists consists of
+from one to three condition bytes terminated by an FF. Once again, the game
+code must walk down the list one byte at a time, looking for those FFs.
+Presumably, these bytes represent conditions that must all be met for the
+specified attack sequence to be used. The condition bytes are looked up in a
+table from 76900 to 76AFF. Each table entry is four bytes. I don't know the
+exact meaning of these bytes yet.
+
+The second byte of the attack sequence group is looked up in still another
+list of lists. Once again, the game code must walk through the list, counting
+FF bytes as it goes. The individual lists are attack sequences (finally!),
+consisting of a number of one or two byte attack codes and terminated by an FF
+byte. Each attack sequence can be up to 3C bytes long. There are actually two
+of these attack sequence lists. The attack sequence data from 76B00 to 773FF
+is used for most of the monsters, but there is a second list of attack
+sequence data from 738C0 to 73CCF that's used for some lunar monsters. I don't
+know how exactly the game determines which to use.
+
+Here are the meanings of the known attack codes:
+
+00-30 The byte is the spell number of a spell.
+31-5E The byte is the spell number of a spell + 30. So no, you can't make
+    monsters cast call magic.
+5F-BF The byte is the spell number of an enemy special ability.
+C0-E7 The byte is the number of a player menu command + C0. So C0 is Fight
+    (which makes the monster do a normal physical attack), C5 is Dummy/ankoku
+    (the Dark Knight's dark energy wave attack), C6 is Jump, etc. A lot of
+    commands won't work properly when a monster tries to do them. Command
+    number 21 (or attack byte E1) is worthy of special mention, as it does
+    absolutely nothing. Certain special attack codes seem to require that they
+    be followed by a spell or command, and E1 is often used for this purpose.
+E8 XX Change the monster's creature type byte to XX.
+E9 XX Change the monster's physical attack values to the triplet specified by
+    XX.
+EA XX Change the monster's physical defense values to the triplet specified by
+    XX.
+EB XX Change the monster's magical defense values to the triplet specified by
+    XX.
+EC XX The 16-bit number at offset 60-61 in the monster's data record that is
+    derived from it's agility and determines its base speed is modified. The
+    lower seven bits of XX are multiplied by the existing speed value,
+    multiplied by one hundred, and divided by one thousand. The result of all
+    this is added to the existing value, or subtracted instead if the MSB of
+    XX is set. Remember, lower values at offset 60-61 mean a faster speed.
+ED XX Set the monster's elemental defenses as if the elemental defense byte in
+    the monster data had been set to XX.
+EE XX Set the monster's spell power to XX.
+EF XX Set the monster's weaknesses as if the weakness byte in the monster data
+    had been set to XX.
+F0 XX Changes the monster graphic. I don't know exactly how this works.
+F1 XX Displays battle dialogue XX.
+F2 XX As F1 XX, but surpresses the name of the next attack(?)
+F3 XX Change music to XX.
+F4-F7 XX Changes which attack sequences and/or reflexes are being used
+    somehow. I'm not yet sure quite how this works.
+F8 I don't know what this does, or even if it takes a parameter or not.
+F9 XX Set the target(s) of the next attack, as specified by XX:
+    00-15 the character with that character id
+    16 self
+    17 all monsters
+    18 all other monsters
+    19 all monsters of the first monster type in the encounter
+    1A all monsters of the second monster type in the encounter
+    1B all monsters of the third monster type in the encounter
+    1C front row of the party
+    1D back row of the party
+    1E one paralyzed monster
+    1F one sleeping monster
+    20 one charmed monster
+    21 one criticaly injured monster
+    22 one random monster or character
+    23 one random monster or character other than self
+    24 random monster
+    25 random monster other than self
+    26 random front row party member
+    27 random back row party member
+    28 whole party
+    29 all dead monsters
+FA I don't know what this does, or even if it takes a parameter or not.
+FB Seperates the attack codes in an attack chain.
+FC Ends an attack chain.
+FD Starts an attack chain.
+FE Provides a pause in between attacks, causing the monster to wait its turn
+    to do the next attack. This is used to seperate almost all non-chain
+    attacks.
+FF Of course, this ends the sequence. When the monster reaches the end of its
+    sequence, it repeats. Also has the effect of FE.
+
+An "attack chain" is a series of attacks that have no breaks between them and
+the display of any damage is postponed until the end of the chain, such as the
+double hits many monsters do and Dark Elf's little "ME ATTACK YOU!" routine.
+
+In my opinion, the data storage format described above is an astonishing mass
+of idiocy. For each monster in the encounter (and there can be up to eight),
+the game has to walk through a massive list, then for every byte in that list
+entry once it has been found (and there can be up to twenty) it must walk
+through one of several other lists. And if the monster has any reflexes, it
+must do all that a second time as well. And the way the attack sequences were
+divided into two data areas is rather hackish. I don't yet know how it chooses
+which one to use, but when I once tried to add a lunar monster (EvilMask) to
+an encounter on earth, it used the wrong attack sequence data.
+
+If I were to rewrite the monster loading code, I would do things a little
+differently. For one thing, I'd seperate the attack sequence and group data
+based on whether they were reflexes or standard attacks. And I'd use offset
+tables to reduce the loading time (not to mention make hacking the game
+easier!) Some day I may in fact do all this and release an IPS patch with the
+improved code, but don't hold your breath.

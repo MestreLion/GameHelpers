@@ -1,0 +1,2603 @@
+ ____  ____  ___  _  ___   ____  _    _  _____    ____  _  _  _  _
+|    ||  __||  _|| ||   \ |  __|| |  | ||_   _|  |  __|| || || || |
+| |\ || |   | |  | || |\ || |   |  \ | |  | |    | |   | || || || |
+| || || |_  | |_ | || || || |_  |   \| |  | |    | |_  | || || || |
+|    /|  _| |_  || || || ||  _| | |\ \ |  | |    |  _| | || || || |
+| |\ \| |     | || || || || |   | | \  |  | |    | |   | || || || |
+| || || |__  _| || || |/ || |__ | |  | |  | |    | |__ \ \/ /| || |_
+|_||_||____||___||_||___/ |____||_|  |_|  |_|    |____| \__/ |_||___|
+
+ ___   _  ____  ___  ___  ____  ____  ____  _  ___   ___  _  _  ____
+|   \ | ||    ||  _||  _||_  _||    ||    || ||  _| |  _|| || ||_  _|
+| |\ || || |\ || |  | |    ||  | || || |\ | \|| |   | |  | || |  ||
+| || || || || || |_ | |    ||  | || || || |   | |_  | |  | || |  ||
+| || || ||    /|  _|| |    ||  | || ||    /   |_  | | |  | || |  ||
+| || || || |\ \| |  | |    ||  | || || |\ \     | | | |  | || |  ||
+| |/ || || || || |_ | |_   ||  | || || || |    _| | | |_ | || |  ||
+|___/ |_||_||_||___||___|  ||  |____||_||_|   |___| |___||____|  ||
+
+
+
+                     RESIDENT EVIL: DIRECTOR'S CUT
+                ADVANCED/ARRANGED MODE FAQ/WALKTHROUGH
+
+                            Final Version
+
+                       For the Sony PlayStation
+
+                        Author: Efrem Orizzonte
+
+
+=====================================================================
+DISCLAIMER
+=====================================================================
+
+THIS DOCUMENT IS (c)2000-2002 EFREM ORIZZONTE. THIS DOCUMENT IS FOR
+PRIVATE USE ONLY. YOU'RE NOT ALLOWED TO PLACE IT ON YOUR WEBSITE,
+LINK DIRECTLY TO IT, ALTER IT IN ANY WAY, PUBLISH IT IN BOOKS OR
+MAGAZINES, OR SELL IT FOR ANY PROFIT. YOU MAY PRINT IT AND GIVE IT TO
+WHOMEVER YOU WANT AS LONG AS YOU DON'T GET ANY CASH FOR IT.
+
+YOU CAN E-MAIL THE AUTHOR FOR QUESTIONS, COMMENTS, CORRECTIONS OR
+CONTRIBUTIONS AND YOU WILL BE GIVEN CREDIT FOR THEM AS LONG AS
+THEY'RE USEFUL AND PERTINENT TO THE DOCUMENT. THE E-MAIL ADDRESS IS
+THE FOLLOWING:
+
+                    efroriz at hotmail dot com
+
+
+=====================================================================
+CONTENTS
+=====================================================================
+
+1. REVISION HISTORY
+2. STORY
+3. CHARACTERS
+4. WEAPONS AND AMMO
+5. ENEMIES
+6. TIPS
+7. JILL'S WALKTHROUGH
+   - MANSION - PART I
+   - GARDEN
+   - GUARDHOUSE
+   - MANSION - PART II
+   - GARDEN
+   - UNDERGROUND
+   - UMBRELLA'S SECRET LAB
+8. CHRIS' WALKTHROUGH
+   - MANSION - PART I
+   - GARDEN
+   - GUARDHOUSE
+   - MANSION - PART II
+   - GARDEN
+   - UNDERGROUND
+   - UMBRELLA'S SECRET LAB
+9. MAPS
+   - MANSION 1F
+   - MANSION 2F
+   - MANSION B1
+   - GARDEN
+   - GUARDHOUSE 1F
+   - GUARDHOUSE B1
+   - UNDERGROUND
+   - LAB B1
+   - LAB B2
+   - LAB B3
+   - LAB B4
+10. ITEM LIST AND LOCATIONS
+11. FILES
+12. ENDINGS AND SECRETS
+13. DIFFERENCES WITH THE STANDARD VERSION
+14. MY PERSONAL THOUGHTS ABOUT THE GAME
+15. CREDITS
+
+
+=====================================================================
+1. REVISION HISTORY
+=====================================================================
+
+Version 1.0 [7-10-2000]
+First version. Very few things.
+
+Version 1.1 [7-12-2000]
+Made the "Weapon and Ammo" and "Monsters" sections. Made the first
+three maps. Corrected some mistakes.
+
+Version 1.2 [7-14-2000]
+More maps, Jill's walkthrough up to the second snake battle, some
+more things here and there, some corrections.
+
+Version 1.4 [7-24-2000]
+Completed the maps and Jill's walkthrough. Made the "Characters"
+section, the Item list, and the "Files" section.
+
+Version 1.5 [7-28-2000]
+Added the "Endings and Secrets" section.
+
+Version 1.7 [8-3-2000]
+Added the "Personal Thoughts" section. Corrected many errors. Started
+Chris' walkthrough.
+
+Version 1.8 [8-5-2000]
+Completed the FAQ.
+
+Version 1.9 [8-8-2000]
+Corrected typos.
+
+Version 2.0 [8-18-2000]
+Last format mistakes corrected. Final version unless I receive some
+frequently asked questions.
+
+Final Version [4-29-2001]
+Apparently, the version of the game exclusive to the Director's Cut
+edition is called "Arranged" in the US version, while it is
+"Advanced" in the European version. I modified the writing below the
+title so no one should e-mail me anymore asking why they can't find
+an item where I wrote you should find it. This will be the last
+update.
+
+Update [2-27-2002]
+I have modified the ASCII title. I have also slightly modified the
+text to correct my bad English.
+
+
+=====================================================================
+2. STORY
+=====================================================================
+
+JULY 1998
+
+In the past months, strange incidents occurred on the Arklay
+Mountains, near Raccoon City. Many people who went up there were
+attacked and eaten by unknown creatures and mysterious assassins.
+S.T.A.R.S. (Special Tactics and Rescue Services) Bravo team went
+there to investigate, but they all disappeared. So, the Alpha Team
+got a helicopter and took off to look for their comrades.
+
+Jill Valentine spots smoke in the distance. The helicopter, flown by
+Brad Vickers, lands there. Here, Chris Redfield, Jill, Barry Burton,
+Albert Wesker, and Joseph Frost look at the remains of Bravo Team's
+helicopter. No one's there. They start looking for survivors, but
+something is watching them as they wander in the tall grass...
+
+Joseph finds something, and calls his teammates. Slowly, he begins to
+lift a handgun from the ground, but he screams in horror when he
+realizes that the hand which used to hold it is still hanging from
+it. Then, he's attacked by some weird-looking dogs. The others shoot,
+but they can no more help their friend, who is killed and devoured by
+the creatures. To make things worse, Brad takes off, leaving them
+behind. While running, Chris spots a house. They all run towards it,
+hoping to find shelter.
+
+The dogs are waiting for them to get back out...
+
+
+=====================================================================
+3. CHARACTERS
+=====================================================================
+
+---S.T.A.R.S. ALPHA TEAM---
+
+CHRIS REDFIELD
+
+After being kicked out of the Air Force, Chris became a drifter until
+he met Barry Burton. Barry recruited him for the newly formed
+S.T.A.R.S.. Now Chris has been reassigned to a smaller unit at
+Raccoon City headquarters.
+
+Chris is one of the two characters you can control in the game.
+Playing as Chris means playing Resident Evil in Hard mode, which
+wasn't a good thing in the Standard version, and is even less funny
+in the Advanced/Arranged version. Chris begins its adventure equipped
+only with a Combat Knife and a First Aid Spray. He can carry up to
+SIX items, forcing you to do lots of thinking and backtracking, and
+obviously enabling less space for weapons. He won't find any bazooka,
+so where Jill finds Bazooka Rounds, Chris will find Shotgun Shells
+(or something even less useful). He can't pick locks, so he'll need a
+special key to open some doors, and small keys to open locked desks.
+He will also encounter more monsters than Jill, although he can take
+more hits before dying. He will be helped in his quest by Rebecca
+Chambers.
+
+JILL VALENTINE
+
+An intelligent soldier that has rescued many S.T.A.R.S. members from
+danger in the past, Jill has been reassigned to Raccoon City just
+like Chris. She is excellent with special mechanical devices such as
+lockpicks.
+
+Playing as Jill means you'll play the game in Easy mode. Jill can
+carry up to eight items, begins the adventure with a loaded Beretta,
+and will soon find a Bazooka. She can use the Lockpick to open doors
+and desks, and she can play the piano and handle chemicals. She also
+encounters less enemies than Chris, but she can take less damage then
+he. Jill will be helped by Barry Burton, who'll save her from many
+traps and attacks. Is she perfect? Well, no. Unfortunately, she has a
+terrible British accent, and worse, she isn't as beautiful as she is
+in Resident Evil 3 (and not so well-dressed neither :p).
+
+BARRY BURTON
+
+Chris Redfield's old friend and partner. Former SWAT member, Barry
+maintains and supplies weapons for all S.T.A.R.S. members. He has
+over 16 years of experience, and has led many successful projects.
+
+Barry is Jill Valentine's supporting character. He will give her
+items and save her nice ass in many dangerous situations. He's also
+equipped with the most powerful handgun in the game. However, he
+tends to act and talk quite stupidly, and I just HATE finding him in
+rooms that I've unlocked just a second earlier.
+
+ALBERT WESKER
+
+Wesker has risen quickly inside the S.T.A.R.S. organization and
+currently leads the Alpha Team. Viewed by many as a "cool guy", from
+his snappy haircut to his perpetual shades, Wesker was recruited by a
+headhunter for his sharp insight and eventually founded the
+S.T.A.R.S. unit in Raccoon City.
+
+You'll see Wesker three (or four) times in the whole game, and he
+won't be of any use. His only purpose is to give you trouble.
+
+BRAD VICKERS
+
+Computer expert and good at gaining info. However, he's afraid of
+death and tends to run away from danger. That's why he's been
+nicknamed "Chickenheart".
+
+JOSEPH FROST
+
+Former member of S.T.A.R.S. Bravo Team. He'll die VERY soon.
+
+
+---S.T.A.R.S. BRAVO TEAM---
+
+ENRICO MARINI
+
+Leader of Bravo Team. Jill and Chris will meet him in the
+underground, but unfortunately, there's no way to save him from
+death.
+
+RICHARD AIKEN
+
+S.T.A.R.S. radio operator. Our heroes will find him still alive, but
+not for long.
+
+EDWARD DEWEY
+
+The Bravo Team pilot. The ripped hand we see in the intro is probably
+one of his.
+He's become doggie food.
+
+FOREST SPEYER
+
+You'll find him dead on the mansion's balcony, pecked to death by
+crows.
+
+KENNETH J. SULLIVAN
+
+The first dead body found in the game.
+
+REBECCA CHAMBERS
+
+The youngest member of the group, Rebecca has been recruited for her
+knowledge of field medicine and First Aid. She is nervous around
+other members, both because of her age and lack of experience.
+
+Well, I keep on wondering how could Rebecca Chambers ever be the main
+character in Resident Evil Zero, since she's just 18 in the first
+game. Anyway, she is Chris Redfield's supporting character, and she
+will do anything Jill Valentine can do by herself, except for
+defending herself from the monsters ;). And, she isn't as good as
+Jill when it comes to play the piano. However, she will save Chris'
+butt in many occasions.
+
+
+=====================================================================
+4. WEAPONS AND AMMO
+=====================================================================
+
+---WEAPONS---
+
+COMBAT KNIFE: ugh! What's this? Are you supposed to actually KILL
+anything with this ridiculous thing? Well, you can use it against ONE
+zombie if you want to spare bullets, but it'll take a lot of time and
+free space behind you. And the risks of being hit are just too high.
+Put this *cough* weapon *cough* in the first storage box you find,
+it's a better place for it.
+
+BERETTA M92FS: MUCH better than the Knife. It can kill a zombie
+(about six bullets) and a cerberus (about four bullets, but sometimes
+it may require up to seven). It can sometimes blow away a zombie's
+head with the first shot (rare, but SO exciting! You just HAVE to see
+it!), or with the second (you'll kill many zombies this way). This
+weapon becomes useless after you leave the Guardhouse.
+
+SHOTGUN: a VERY good piece of weaponry. If fired from very close
+range, it will destroy a zombie's head. You can kill many zombies
+with a single shot if they're lined up properly. Very effective
+against cerberuses. It is good against bosses and hunters, but I'd
+rather find some better weapon to fight the latter, since they're way
+too quick for the Shotgun.
+
+BAZOOKA: Whooooooooaaaaaaaaa! Time to do some serious killing, man!
+This will be your weapon of choice if you're playing with Jill
+(unfortunately, Chris can't find one anywhere). It comes loaded with
+six Explosive Rounds, and it will almost always wipe out zombies and
+cerberuses with a single hit. The power of the different Rounds
+depends on the enemy. The Explosive ones are good against zombies and
+cerberuses and the Acid ones are very good against hunters, while you
+should keep the Flame Rounds to fight Plant 42.
+
+FLAMETHROWER: only found if you're playing as Chris. It is not so
+good, and picking it up will lock the door next to it. Plus, you
+can't refill it: you get it with 240 fuel (i.e., 9 seconds of
+continuous fire) and when that's over, well, that's it. I NEVER use
+it, not even for fun (you're not even supposed to have fun while
+using Chris. The only feeling you can get when you reach the area
+with the Flamethrowers is frustration, believe me).
+
+COLT PYTHON: everyone's favorite, I think. This almighty revolver
+can hold up to six Magnum bullets. One shot from this killer will
+take care of almost every non-boss enemy. Hunters may occasionally
+take two hits to die, while chimeras will need two or three to fall.
+Be sure to collect every single bullet you find.
+
+
+---AMMO---
+
+CLIPS: these are used to load your Beretta. Every one is worth 15
+bullets, and there's plenty to find. However, Chris may end up
+running out of ammo (hell! Aren't though guys supposed to go around
+blowing everything to smithereens with a big, noisy, fully-loaded
+machine gun? And we thought there was nothing worse than Doom...
+:)).
+
+SHELLS: every box contains seven Shells for the Shotgun. Pick them
+up, you're gonna need them almost everywhere.
+
+BAZOOKA ROUNDS: there are three types of these: Explosive, Acid and
+Flame Rounds. The Explosive ones' boxes have a grey lid, the Acid
+ones' have a yellow lid, and the Flame ones' have a... guess what?...
+red lid. The Exp. rounds are very good against zombies and
+cerberuses. As Barry states, the Acid rounds are "very powerful...
+especially against living things". Are hunters living things? You can
+bet. Give them a free acid shower, but don't underestimate their
+reaction.
+The Flame rounds are basically good against plants. There are only a
+few of these Rounds, which should be spared for the boss in the
+Guardhouse.
+
+MAGNUM ROUNDS: the absolute best. Every box is worth a full barrel
+for your trusty Colt Python. There aren't many of these, so use them
+wisely.
+
+
+=====================================================================
+5. ENEMIES
+=====================================================================
+
+ZOMBIE: the first monster you'll come to fight in the game. They're
+slow and dumb, but can hurt you pretty badly if they manage to bite
+your flesh. Some of them can vomit (yes, that's right) acid when
+you're close, so beware. They like to come at you in packs, or to
+attack in pairs from your back and from your front, at the same time.
+Many of them are hidden behind corners, so be careful when running.
+You can even find some laying with their face to the floor. These
+ones will grab your leg and bite it if you get too close, so shoot
+them right away. If you don't, your character will automatically
+stomp on or kick the monster's head, ending the fight. Every weapon
+is effective against them - even the Knife - but firearms are the
+best choice. Zombies are easily avoided in large spaces, so you may
+prefer to spare some bullets and just run.
+
+CERBERUS: this decaying dog loves to surprise attack you by bursting
+into rooms, breaking the windows and scaring you to death. They'll
+fall on the floor when hit, then get up and growl before charging at
+you again. They give out a whine when killed. They're never alone, so
+if you kill one, be prepared to fight at least another one in the
+same area. Any firearm is effective against them. If they come at you
+at full speed they'll leap at you, so shoot before they get too
+close, or you may not have the time to fire before you're hit.
+
+CROWS: never fight them. There's always a large number of them, and
+if they get you, you may not be able to run away before they've
+pecked you to death. If you HAVE to fight them, use the Shotgun to
+kill many in a single shot. They're very rare, but you'd better run
+if they attack you.
+
+SNAKES: they fall from the trees or the ceiling when you pass by. Run
+away and don't get hit, or you'll be poisoned. Very rare, but
+annoying nevertheless.
+
+GIANT SPIDER: this enemy is not only disgusting, but dangerous, too.
+It hangs from the ceiling, spitting its acid drool at you. If you get
+close, it will drop and attack you with its acid, as well as with its
+legs and bites. Try not to use the shotgun on them, because if you
+kill them using that weapon, a bunch of tiny spiders will come out of
+their dead bodies and crawl all over you. Get out of the room to get
+rid of them, or just walk over them to squash 'em. If you can, kill
+the spiders with the Beretta, for this will kill the tiny ones inside
+the mother. These enemies are very rare and often found in large
+spaces, so try to run instead of fighting.
+
+WASP: only found in the Guardhouse. They will come out of their nest
+if you get close to it. Their number is infinite, so DON'T get stung
+or you may not be able to run away. They can be killed with any
+weapon, but there's really no point in doing such a thing.
+
+NEPTUNE: a shark. There are three of them in the whole game - one
+adult, and its two offspring. They're in the Guardhouse basement. You
+can't kill them as long as they're in the water, and they can't
+really hit you when you dry out the room, so just run when you first
+see them.
+
+HUNTER: probably the deadliest non-boss enemy in the whole game. The
+hunter is a kind of greenish, skinless monkey with razor-sharp claws,
+big teeth, unbelievable stamina, and the ability to run very fast and
+leap VERY high. If they leap and stab you while in mid-air and you're
+in "Danger!" status, they'll send your head flying. The shotgun is
+almost useless, as it needs up to five shells to kill one. If you see
+a hunter and it still hasn't seen you, run like hell. These things
+are too dangerous, and if you shoo them, you run the risk of missing
+them more than you hit them. They will be in the Mansion when you
+come back from the Guardhouse. The Acid Rounds and the Colt Python
+are the only weapons you should use against them. They give out a
+terrible screech before dying.
+
+CHIMERA: a dark monster that comes at you from above. It will swing
+its arms at you, trying to hit you. It will occasionally drop to the
+floor and chase you around. Avoid it, since it's very fast and
+powerful (1-2 Magnum rounds are needed to kill a Chimera). If you're
+low on energy, it will slit your throat. Chimeras are only found near
+the end of the game, but they're guaranteed to give you a hell of a
+time.
+
+
+=====================================================================
+6. TIPS
+=====================================================================
+
+                      -DON'T FIGHT - RUN INSTEAD-
+This is a golden rule in Resident Evil. The only enemies you MUST
+fight are those you can't avoid at all. If there's enough room to go
+past them without fighting, don't waste ammo. This works with all
+enemies. Just remember where you've left some enemies alive, or you
+may end up running straight into their arms :).
+
+
+               -CHOOSE CAREFULLY WHAT TO TAKE WITH YOU-
+This is also VERY important. Your inventory is limited, and Chris' is
+so much it'll sometimes make you want to cry. It will almost never
+allow two weapons to fit in, so you have to choose your firepower
+carefully. Use the handgun at the beginning to kill as many zombies
+as you can, but when you're done with the first part of the mansion,
+drop it for the rest of the game. Remember - you need room for the
+ammo too. And, just don't pick up everything you see. Only pick up
+herbs if you need them, and store all the F.Aid Sprays into the boxes
+for later use.
+
+
+                            -AIM WELL-
+You can target an enemy perfectly by pressing L1. Tapping the button
+repeatedly as the enemy approaches will keep your weapon locked onto
+it. This is important when you're facing more than one enemy -
+pressing L1 will make you switch between targets, so that you can
+shoot many monsters making no mistakes. If an enemy is attacking from
+above, press Up on the D-Pad to lift your weapon up. This is a must
+against hunters and chimeras.
+
+
+                       -MAKE SURE THEY'RE DEAD-
+Even if a monster is lying on the ground, that doesn't mean it's
+dead. This is particularly true of zombies, but almost every enemy
+likes to cheat you by making you think it's dead, and then surprise
+attacking you as you get close. You'll know they're really gone when
+you see a large pool of blood spreading from their bodies. When
+facing hunters or chimeras, never lower your weapon before you're
+sure you've defeated them, because they're really fast and will take
+advantage of any hesitation. Once, I shot a hunter, then it stood up,
+leapt, hit me while in mid-air, and immediately ripped my head off
+the moment its feet touched the floor - with a second, unbelievably
+rapid slash. I will say that once more... they're FAST.
+
+
+                 -TRIGGERED A TRAP? GET OUTTA THERE!-
+If you happened to trigger a trap, or if you messed up things so that
+it's become impossible for you to solve a puzzle, get out of the
+room, and everything will be reset.
+
+
+                      -ALWAYS CHECK YOUR HEALTH-
+Do it especially when you've just been hit. The character's movements
+don't vary according to health as they do in the sequels, so you must
+always be aware of your condition, especially if you're using Jill -
+she could be just "Fine" at one given moment, and in "Danger!" status
+after being hit by a zombie.
+
+
+=====================================================================
+7. JILL'S WALKTHROUGH
+=====================================================================
+
+
+                           ----------------
+                           MANSION - PART I
+                           ----------------
+
+
+"They have escaped into the mansion, where they thought it was safe.
+Yet..."
+
+Not a pleasant introduction, now was it? Well, you'll start your
+adventure in the MAIN HALL 1F. After Wesker has expressed his
+admiration for the mansion, Jill notices Chris' absence and rushes to
+the front door, but Wesker stops her. Then, they hear gunfire, and
+Wesker sends Jill to check. Barry joins her, and together they head
+for the DINING ROOM.
+
+DINING ROOM
+
+After explaining what kind of room this is (what a smart guy!), Barry
+will go ahead. Follow him. At the other end of the room he will find
+a pool of blood (Jill doesn't understand what it is at first... what
+a skilled warrior!) and ask you to find other clues. Open the nearby
+door.
+
+SOFA CORRIDOR
+
+Go left and turn around the corner. A FMV will introduce you to your
+first zombie. It seems you've disturbed his lunch (or dinner... it's
+quite dark outside). As soon as it stands up, backtrack a little,
+then draw out your Beretta and kill it. When it's dead, go check the
+body he was eating. It's Kenneth from the Bravo Team. Check his body
+three times to find two CLIPS. Now, go back to the Dining Room.
+
+*********************************************************************
+TO MAKE THE GAME EASIER: after Barry asks you to find other clues, go
+back to the main hall. Wesker will send you back. Back in the dining
+room, try to go to the main hall once more. Barry will stand up and
+say: "Lost courage, already? It's not like you!". Now go in front of
+the clock, and a zombie will enter the room. Barry will kill it. From
+now on, the monsters will be a bit weaker and easier to kill. If you
+ever go check Kenneth's body, you'll discover that his legs are gone,
+and so are the two clips. This trick will also give you the
+opportunity to witness more cut scenes throughout the game.
+*********************************************************************
+
+DINING ROOM
+
+While you're talking to Barry, a zombie enters the room. Barry blasts
+its head (I'll always wonder WHAT KIND of gun that is...). Now you
+have to report this all to Wesker. Go back to the Main Hall.
+
+MAIN HALL 1F
+
+Wesker's gone. Now, you have two choices: either go upstairs and come
+back down, or go check the passage under the stairway (much quicker,
+do this!). When you're back, there will be a dialogue, then Barry
+will give you the LOCKPICK and leave. Now, there are two
+possibilities - it depends whether you want to spare a grenade, or
+you want six more Acid Rounds. I'll explain you how to spare the
+grenade, as it will save space in your inventory and make things a
+bit quicker later - but don't worry, I'll explain you the other
+possibility as well.
+
+Now, some info about this room. There's a table with an INK RIBBON
+and a typewriter on it. There are tons of Ink Ribbons scattered
+throughout the game, so you don't really need this one, but nothing
+keeps you from picking it up. The choice is yours.
+The other thing you should know is that you can open the front door
+for a nice FMV. This usually happens only once, then Jill won't open
+that door any more. Dan Birlew (a.k.a. President Evil) states in his
+walkthrough that if you open the front door again, a cerberus will
+enter the room and attack you, but this _never_ happened to me, so I
+wouldn't know. If you manage to open the door again, be prepared for
+a fight.
+
+Head for the Sofa Corridor, and go towards the double doors at its
+end. Use the Lockpick to open the nearby door and enter the...
+
+PIANO BAR
+
+Go around the piano. You'll find a shelf there. Push it to reveal the
+MUSIC NOTES, and take them. Now, go in front of the piano and use
+them. Jill will perform Beethoven's Moonlight Sonata (what a woman!
+She doesn't even need to practice a bit!), and a secret passage will
+open. Now go back to the Main Hall 1F, and go upstairs.
+
+MAIN HALL 2F
+
+Climb the stairs to your right. There are two doors. Go to the
+farthest one and open it.
+
+BALCONY PASSAGE
+
+Nothing major here. Go open the other door.
+
+BALCONY
+
+Watch out! There's a gun pointed at your head!... oh, relax, it's
+just Barry. A terrible dialogue will follow this nice meeting (Barry
+must be BLIND... what does it mean, "You don't have a weapon?".
+What's that Beretta then? A cigarette lighter? Man, how I'd like to
+put my hands around the neck of the ones who wrote the dialogues...).
+You will receive the BAZOOKA (Yay! Party time!). Check Forest's body
+to find the MANSION KEY (to be precise, this is the ARMOR key. If you
+want to see such items with their proper name in your inventory, just
+check them). Now return to the Main Hall 1F, and open the door left
+of the blue one.
+
+*********************************************************************
+If you didn't go to the Music Room before going upstairs, or if you
+didn't use the trick to make the game easier, Barry won't be on the
+Balcony. Therefore, if you try to get the Armor Key, Forest will
+stand up and attack you (shocking! Made me jump the first time
+around... this is the kind of things the Standard version didn't
+feature). So, walk VERY SLOWLY and get the Bazooka before you awake
+him, so you'll kill him with a single shot. When you return to the
+Main Hall 2F, you'll meet Barry, who'll give you six ACID ROUNDS.
+This will also happen if you check the first floor first - Barry
+should be here as soon as you get to Main Hall 2F.
+*********************************************************************
+
+GLOBE ROOM
+
+(Named after that thing standing in the middle of it).
+Look out for the zombie waiting for you near the door. There are
+three of them in this room, and there's a CLIP in front of the
+mirror. In the rear corridor, open the drawer with the Lockpick to
+find some SHELLS. Now go open that door at the end of the corridor.
+
+MIRROR ROOM
+
+Immediately raise your weapon and shoot the zombie (nice reflection,
+don't you think?). You can find two GREEN HERBS in this room, and a
+hidden INK RIBBON on the little stage left of the door. Go to the
+door opposite the mirror, and open it.
+
+CHANGE ROOM
+
+You can change your dress here. You can put on the black dress or the
+S.T.A.R.S. uniform (my favorite!), or you can just skip this room and
+return to the Main Hall 1F.
+
+MAIN HALL 1F
+
+Open the blue door.
+
+STATUE ROOM
+
+Push the ladder in front of the statue, and climb it to get the MAP
+OF FIRST FLOOR. If you push aside that shelf and enter the small
+passage, you'll find two zombies on the floor. WATCH OUT! They're NOT
+dead. Shoot them until they're REALLY dead, and take the INK RIBBON
+on the shelf if you want. When you're done, use the Lockpick to open
+the next door.
+
+L-SHAPED CORRIDOR
+
+If you've never played this game before, you're in for one of the
+biggest (and baddest) surprises of your life (well, of your
+videogaming life, at least). Turn your face to the door you came in
+from, and press the Down arrow on your Pad. Walking backwards, you'll
+be ready to shoot the cerberus which'll burst in from one of the
+windows (this one makes me jump EVERY DAMN TIME!). Get rid of it,
+then turn around the corner and be prepared to kill another one. Now,
+see that brown, empty shelf? Push it aside, and check the floor for a
+CLIP. Now go on.
+
+TWISTED CORRIDOR
+
+There's a GREEN HERB just right of the door. Open the first door
+you'll find.
+
+PATIO
+
+Draw out your weapon and kill the cerberus. As soon as you turn round
+the corner, another one will leap towards you from the garden
+outside, so be ready. There are 5 GREEN HERBS here, along with the
+CHEMICAL. Take this. When you return towards the door, watch out for
+the third cerberus. You can easily avoid it. Back in the Twisted
+Corridor, open the next door.
+
+BATHROOM
+
+In this room you'll find a CLIP in front of the mirror, and one
+zombie. If you go for the Clip before you see the zombie, you'll see
+it coming at you in the mirror (quite scary if you don't know it's
+there...). You can easily overrun it, so don't waste your bullets on
+it. Take the Clip if you want, and go back to the corridor. Go on
+until you come to some double doors, and open them.
+
+DARK CORRIDOR
+
+It sure is dark in here! Kill the two zombies who'll come moaning at
+you. The third one is at the other end of the hall, and it can be
+easily avoided. Anyway, go open that door at the end of the corridor
+(NOT the one in the narrow passage), and make sure you have one free
+space in your inventory.
+
+PAINTING GALLERY
+
+See those crows up there? Make one mistake here and they'll all fly
+down together to peck you to death. Shoot anything, anytime, and they
+will do the same.
+
+There are eight pictures in this room. Seven of them represent seven
+different stages of life. Below each one of them is a switch. You
+have to push those switches in the right order - that is, from the
+youngest man to the dead one. If you push the switch below the
+picture at the very end of the hall before you've pushed the other
+ones in the correct sequence, the crows will attack you. The right
+order is:
+
+-Newborn baby
+-Infant
+-Lively boy
+-Young man
+-Middle-aged man
+-Old man
+-"The end of life"
+
+or, if you prefer, the third, the fifth, the sixth, the fourth, the
+second, the seventh, and the eighth (from the entry door).
+
+When you've pushed them all, the last picture will fall to reveal the
+WIND CREST. Take it and go back to the Dark Corridor. Unlock the
+first door after the double doors, and go through it.
+
+STAIRWELL
+
+Two zombies and a GREEN HERB. Dispose of each and enter the room
+below the stairs.
+
+STORAGE ROOM
+
+This is a Save Room. Open the box. Take out the two CLIPS and put in
+the Wind Crest, the Combat Knife, the F.Aid Spray, the Acid Rounds if
+you have them, the Chemical, and any Ink Ribbon or Herb you might
+have. Pick up the BROKEN SHOTGUN and go back to the Dark Corridor. Go
+through the double doors, and open the door opposite them.
+
+TRAPROOM
+
+Wondering at the name of this room? Well, I'll explain it in better
+detail later... for now, just open the other door.
+
+SHOTGUN ROOM
+
+Three zombies are waiting for you here. Kill them and go take the
+SHOTGUN. Now USE the broken one to put it in its place. If the game
+doesn't allow you to do that, press X in front of the wall. You'll be
+asked if you want to put down the Shotgun. Say no, then USE the
+broken one, and this time, it'll work.
+
+What's the broken shotgun for? Well, if you don't put it there, the
+ceiling in the previous room will crush you to death, since the other
+door will be stuck. If you want the Shotgun without putting the
+broken one in its place, you mustn't meet Barry on the second floor
+before you come here. If you do so, Barry will come and open the
+door, saving you from the descending ceiling. But that would cost you
+a LOT of backtracking, so it's not worth it (although it's FUN! If
+you ever do it, just listen to Jill's voice when she founds out she's
+only got a few seconds to escape! No, I'm not a sadist... why do you
+ask?).
+
+Now go back to the Storage Room and put the Bazooka into the box if
+you didn't before, then go upstairs.
+
+CORRIDOR 2F
+
+Two zombies are waiting for you. Equip the Shotgun and blast their
+heads off (isn't it GREAT?). There's another one behind the corner at
+the other end of the corridor, but you don't really need to go there,
+although I'll explain what's there - you just know he's hiding there,
+OK? Now, unlock the middle door and open it.
+
+STAG ROOM
+
+No one here? Hmmmm... that's quite strange. No, don't worry, that
+stag won't attack you (although you should expect ANYTHING in a
+mansion like this). If you try to open the door right of the one you
+came in from, a zombie will enter the room. Kill it, then open that
+door.
+
+BEDROOM
+
+Man, what a creepy room! Is there anything under those sheets? Well,
+I just don't feel like investigating! There's a CLIP near the wall
+right of the right bed, and a RED HERB near the left one. There's
+also a LIGHTER on the shelf. This is not necessary, but take it if
+you want a map and some Acid Rounds later - otherwise, leave it where
+it is. Leave this room and another zombie will be there for you.
+Ignore it and run toward the opposite room.
+
+AQUARIUM ROOM
+
+Barry is here, apparently trying to hide something (he won't be here
+if you didn't use the trick to make the game easier). He'll lend you
+part of a RESEARCHER'S WILL (you can read the full letter if Barry
+isn't here and you get to this room quickly, otherwise it'll be
+already torn). After you've read it, he'll leave. There's an INK
+RIBBON in the white coat near the door, if you need it. Now examine
+the broken glass on the wall. You'll find a switch. Press it to drain
+the aquarium. Now get between it and the cupboard, and push it
+towards the desk. Then, push the cupboard towards the wall to find
+the first half of the MOON CREST. Now go back to the corridor, and go
+where the third zombie is. Kill it and enter the room.
+
+FIREPLACE ROOM
+
+There's a GREEN HERB here. Use the Lighter on the fireplace to get
+the MAP OF SECOND FLOOR, if you have it. Then, go back to the
+corridor, and go check the two remaining doors. The first one is
+jammed, so open the other one.
+
+RED CORRIDOR
+
+EEEEEEEEEEEAAAAAAAAAAAAGGGGGGGGGGHHHHHHH! You're trapped between two
+zombies! And there's another round the corner! (Well, to be honest,
+the first time I got here he WASN'T THERE!). OK, stay cool and blast
+'em both. Now go to the nearest door.
+
+LIBRARY
+
+Nothing really important here. Unlock the door on the other side and
+read the BOTANY BOOK on the table, then get back to the Red Corridor.
+Kill the third zombie (provided he's still there) and open the blue
+door you'll find.
+
+ARMORS' ROOM
+
+Wow! Look at those armors! They're beautiful, aren't they? And so
+perfectly lined up... OK, OK, you don't like them, do you? Well, take
+a look around. There are two holes in the floor, two heavy-looking
+statues, a switch, and a locked shelf. Now, let's explain the whole
+thing first. If you push that switch before covering the two holes,
+poisonous gas will be released in the room, putting you in POISON
+status or killing you (yes, it _can_ kill you). So, you have to push
+the two statues over the two holes. Push the one nearest to the door
+sidewards twice to cover the first hole. Then, push the other one
+ahead five times, and left twice. Now press the switch. The glass
+locking the shelf will lower to reveal the EMBLEM. Take it and leave.
+Go open the next door you'll find down the corridor.
+
+RICHARD'S ROOM
+
+There are two GREEN HERBS in this room. If you go round the corner,
+you'll find Richard Aiken from Bravo Team. He's been bitten by a
+poisonous snake, and he needs serum. Jill will automatically leave
+the room and your map will be shown so that you can see your
+destination (that's the red-flashing room, if you didn't get it).
+Open the last door of this corridor to enter Main Hall 2F again. Now
+go to the other side of the room, and open the door you didn't open
+before.
+
+DINING ROOM 2F
+
+You've got plenty of time to get rid of the three zombies before they
+even spot you (well, almost). When they're gone for good, push the
+statue towards the opening in the rail, then make it fall to the room
+below. Now, go on to the next room.
+
+NARROW CORRIDOR
+
+Be ready to kill the zombie, and watch out for the one just round the
+corner. You shouldn't have any problems with the last one. Go
+downstairs.
+
+WOODEN CORRIDOR
+
+Take some steps forward, and try not to get too frightened when a
+cerberus will burst into the room. Kill it, then open the door near
+the stairs.
+
+INFIRMARY
+
+There's an INK RIBBON on the bed. Open the box and put away the
+Lighter, the half Crest, and any Ink Ribbon or Herb you might have.
+Take the Chemical with you. Get out and proceed down the corridor.
+There are two more cerberuses to be killed. Unlock the first door
+you'll find and discard the Armor Key, then open the door.
+
+WEAPON ROOM
+
+Open the drawer to find some SHELLS. On the shelves you'll find a
+CLIP and - no, it can't be true! - the marvelous COLT PYTHON! Now,
+don't you even TRY to equip it. You're gonna need every single bullet
+of this beauty. Just get out, and make sure you have at least one
+free space in your inventory, then open the last door.
+
+GREEN CORRIDOR
+
+Kill the two zombies (watch out, one of them is pretty fast). Go down
+the narrower passage to find another zombie - and another door. Blast
+the former, and open the latter.
+
+GREENHOUSE
+
+That plant is moving! Well, at least you know it's alive. See that
+machine in the corner? Put your Chemical in it to send the plant to
+bed. In this room you'll find 4 GREEN HERBS and 2 RED HERBS, but the
+most important thing is the SUN CREST on the wall. Get it and leave.
+Back to the previous door, take the other passage. Ignore the small
+alcove for now, and use the Lockpick to unlock the door. Get in.
+
+KEEPER'S ROOM
+
+Take the CLIP on the bed if you want. Equip the Shotgun and approach
+the desk. If you try to check it, a zombie will come out of the
+cupboard! Danger!!! It's insanely close!! Aim your Shotgun and fire.
+If you miss, hope nobody saw you, otherwise you're doomed to a life
+of shame :). Take the SHELLS in the cupboard and read the KEEPER'S
+DIARY. Leave and open the door at the end of the corridor. You'll be
+back in the Sofa Corridor. Go to the Piano Bar.
+
+PIANO BAR
+
+Enter the secret passage and take the GOLD EMBLEM. Uh-oh. The passage
+closed behind you. You're trapped! Hey, c'mon, don't cry... I was
+just kidding! Of _course_ you understood that you could open it up by
+putting the Emblem into the hole (you did, didn't you?). Now, I want
+you to consider something. See that glass wall? There's the
+Greenhouse on the other side. Well, wouldn't it be logical to shoot
+the window, stomp on the five billions glass pieces, and enjoy your
+nice new shortcut? No, wait, don't do that. It WOULD be logical, but
+you can't do it. You know, pre-rendered rooms and stuff like that.
+What a pity, huh? Leave this room and go to the Dining Room.
+
+DINING ROOM
+
+Put the Gold Emblem into the hole above the fireplace. The clock will
+slide sidewards to reveal the BLUE JEWEL (this is the MOST BEAUTIFUL
+item I ever got in a videogame... look at it! You could spend the
+whole day looking at it! Take some time to CHECK it and turn it over
+to examine its whole surface... man, I whish I had one!). While
+you're here, check the remains of the statue you pushed from above to
+find the STAR CREST. Go back to the Green Corridor, and finally go
+into that small alcove. Open the door.
+
+TIGER ROOM
+
+What a fine statue! Put the Blue Jewel in its eye (*sigh*... I'd keep
+it forever if I just could... *sniff*) to uncover the SHIELD KEY. Now
+go back to the Infirmary.
+
+INFIRMARY
+
+Put the Star Crest into the box and take out the Lighter. Take the
+SERUM from the shelf, too. Put away the Beretta, and keep the Shotgun
+and the Bazooka. Now it's a good time to save your game. Oh, and put
+away that Colt Python, too. I know that having it in your pocket
+makes you feel good (SO good...), but you don't really need it now.
+Return to Richard's Room.
+
+RICHARD'S ROOM
+
+If I did my calculations well, Richard should be dead by now. Hey,
+what's that expression on your face? Wear it off AT ONCE! You wanted
+to save him? Well, YOU COULDN'T! He would have died anyway, and you
+would have wasted that precious Serum. C'mon, don't look at me like
+that... Well, now, search Richard's body for a CLIP (why do you say
+I'm cruel now?) and move on.
+
+*********************************************************************
+Anyway, if you come back here quickly with the Serum after you're
+sent looking for it, Jill will give Richard a shot. He will lend her
+the RADIO and die. There's no point in doing this, although you may
+want to see the cinema. It's up to you, but I'd rather do everything
+there's to do while on the first floor than hurrying back here and
+having to backtrack after Richard has died.
+*********************************************************************
+
+ATTIC PASSAGE
+
+Kill the two zombies before they can even see you. Turn left and open
+the door.
+
+CANDLE ROOM
+
+Use the Lighter to light the candles on the table. There's an INK
+RIBBON on the table, and a CLIP inside the left cupboard. If you push
+the right one aside, you'll find a small passage leading to some ACID
+ROUNDS. Now, go back to the Attic Passage and climb the steps. Unlock
+the door and discard the Shield Key.
+
+ATTIC
+
+Walk up to the middle of the room. EEEEEEEKKKKKKK! What's that? A
+SNAKE? Man, that's HUGE! What gave them the idea for such a
+monstrosity? Well, we'll probably never know. Now you have two
+choices: fight or run. If you manage to lure it behind the middle
+column, it might get stuck for a while, trying to get around. This
+will give you the opportunity to rush forward and get the second half
+of the MOON CREST in the nook it came in from. However, if you're not
+fast enough, it will trap you and kill you in a moment. If you don't
+feel like trying, FIGHT! Its bites will poison you, but you've got
+the Serum, right? So, that's not a problem. Just run around the
+place, hiding behind the column, and shoot it with the Bazooka. If
+you run out of ammo, use the Shotgun. Shouldn't it be enough (I
+doubt), you'll find some SHELLS nearby. If you are in "Danger!"
+status, the next time it hits you it'll swallow you whole, from head
+to toes (YUUUUUUUUUUUUUUCK!). Whenever you get the Crest, leave the
+Attic. You shouldn't be poisoned, but should you be, you will pass
+out, and Barry will take you to the Infirmary. Either way, go to the
+Storage Room and take the heavy artillery with you. Combine the two
+halves of the Moon Crest to get the whole one, then go to the Dark
+Corridor and take the door in the narrow passage.
+
+*********************************************************************
+THE SERUM GLITCH
+
+This screwed up my game, causing me to restart from the previous
+saved game. It's quite simple: DON'T use the serum to cure the poison
+BEFORE you've beaten the snake. Why? Because if you use the Serum and
+get bitten again, you will be poisoned again. If this happens, when
+you leave the Attic, Jill will act as she's been poisoned, like in
+the scene where she passes out and Barry comes to save her. This time
+though, you will regain control of her like she wasn't poisoned. From
+now on, you will be in "Poison!" status. A Blue Herb will NOT remove
+it, because Jill won't use it, saying you don't need it at the
+moment. You'll be poisoned for the rest of the game! And, you know,
+this just isn't good. Avoid it at all costs, or do it if you want the
+game to be more challenging... (crazy people are everywhere... :))
+*********************************************************************
+
+COURTYARD PASSAGE
+
+Kill the two cerberuses. Now reach the door at the other end. It's
+locked. Look at the plate on the wall. See those holes in it? Just
+use the four Crests in them, and the door will unlock. Open it.
+
+WAREHOUSE
+
+Push the ladder below the shelf high on the wall to gain access to
+the SQUARE CRANK. Take it and open the next door.
+
+
+                                ------
+                                GARDEN
+                                ------
+
+
+COURTYARD
+
+There are three cerberuses in this room. Kill 'em all. Here you'll
+find two GREEN HERBS, two BLUE HERBS, and the MAP OF GARDEN (it's on
+the wall at the end of the narrow passage). Go on and open the rusty
+gate.
+
+POOL
+
+Follow the passage on the left until you come to a column with a
+plate on it. Use the Crank in the hole to drain the pool, then go to
+the other side. Now hold the run button, and run along the way. Seven
+snakes will fall from the trees as you run. They're poisonous and not
+so easy to kill, so just avoid them. When you reach the elevator,
+step on it and activate it.
+
+WATERFALL COURTYARD
+
+Three cerberuses are waiting for you here. Avoid them and run to the
+next gate, which is at the other end of the area.
+
+GUARDHOUSE PASSAGE
+
+There are two GREEN HERBS and two BLUE HERBS near the door if you
+need them. A cerberus will come to meet you. Kill it. This passage
+has two corners, and behind each one is a cerberus. Kill the second
+one, but try to avoid the third if you can, so to spare some ammo.
+Now enter the Guardhouse.
+
+
+                              ----------
+                              GUARDHOUSE
+                              ----------
+
+
+MAIN CORRIDOR
+
+There are three BLUE HERBS opposite the entrance. Push the nearby
+statue down the long corridor, and try to cover the hole in the floor
+with it. If you don't, a tentacle will burst out of the hole and try
+to choke you. Be careful. Now enter the first door you'll find.
+
+BEDROOM
+
+This is a Save Room. On the shelf you can find some EXPLOSIVE ROUNDS
+and a F.AID SPRAY. Get out and enter the opposite room.
+
+DORMITORY 001
+
+You'll find 2 zombies here. Get rid of them and open the desk to find
+some SHELLS. Don't even bother to enter the bathroom - there's
+nothing there. Go back to the corridor, and open the red double doors
+at its end.
+
+BAR
+
+Immediately run to the left (Jill's left, not yours). Wait for the
+nearest spider to fall, then rush to the alcove and hide behind the
+pool table. Kill the spider. Examine the southern side of the table,
+and take note of the code (it should be 9-5-8, dunno if it changes in
+later games - apparently, it did in the Standard version of the
+game). Kill the other spider as well, and take the RED BOOK on one of
+the tables. Go back to the corridor. Go down the small passage to
+find a new door. Look out for the tentacle that will pop out of the
+hole. It shouldn't be there if you placed the statue properly before.
+Open the door.
+
+LONG CORRIDOR
+
+At the other end of the corridor there's a statue. Push it ahead to
+find three GREEN HERBS. Anyway, enter the first door you'll find when
+coming from the Main Corridor.
+
+WASP NEST ROOM
+
+There's an alcove in this room. There, you'll find a giant wasp nest
+with a table below it. Run there and pick up the DORMITORY KEY (002)
+from the table, then immediately get out of the room to reset the
+wasps.
+
+Now you have two choices. I'll explain them separately.
+
+
+------------------------------THE V-JOLT-----------------------------
+Go to the end of the Long Corridor, and try to open the door labeled
+"002". You'll hear someone arguing inside (turn up the volume if you
+want to make out something of it). When it's finished, open the door,
+discard the Key, and enter the room.
+
+DORMITORY 002
+
+Barry is here, and behaves oddlier than ever. When you're done
+talking to him, take the DORMITORY MAP from the wall, and open the
+desk for some SHELLS. Read the PLANT 42 REPORT that's on the bed,
+then open the door that leads to the bathroom.
+
+*********************************************************************
+If you listen to the conversation from outside, then go to the Wasp
+Nest Room or the Main Corridor, and finally come back here, Barry
+won't be here. Note that this whole event won't occur if you didn't
+use the trick to make the game easier.
+*********************************************************************
+
+BATHROOM 002
+
+Kill the two zombies and get the DORMITORY KEY (003) from the sink.
+Go back to the Wasp Nest Room and unlock the door labeled "003".
+Discard the Key and enter.
+
+DORMITORY 003
+
+Kill the zombie. There's an INK RIBBON in the desk. Examine the
+bookshelf to find the "V-JOLT" REPORT, which you should read VERY
+CAREFULLY. Now, replace that white book with the red one to reveal a
+secret door. Go to the bathroom (in the game, of course ^_^).
+
+BATHROOM 003
+
+Kill the zombie, and pick up one of the very few FLAME ROUNDS boxes
+you're going to find in the whole game. Load your Bazooka and go back
+to the Wasp Nest Room.
+
+WASP NEST ROOM
+
+You can see another door in the camera angle you get when you enter.
+Go there. It's locked, but there are some numerical keys next to it.
+Enter the code you found on the pool table, and open the door.
+
+CHEMICALS ROOM
+
+Now you have to have some fun with the chemicals to create the
+powerful V-Jolt. You need three empty spaces in your inventory in
+order to do this. Pick up three of the four empty bottles you find in
+the room. Now, stick to the following instructions. Put some water in
+one bottle. Put UMB No.2 in another, and combine them to make NP-003.
+Now get some UMB No.4, and combine it with NP-003 to make UMB No.7.
+Get UMB No.2 and UMB No.4, and combine them to make Yellow-6. Combine
+it with UMB No.7 to make UMB No.13. Now, make some more NP-003 and
+combine it with UMB No.13 to make the V-JOLT. If you make a mistake
+while mixing the chemicals, you may create a substance which'll
+release a poisonous gas (isn't all that poison annoying after a
+while?).
+
+DORMITORY 002
+
+Push the left bookshelf ahead, and push the right one aside to reveal
+a ladder. Descend it.
+
+UNDERGROUND PASSAGE
+
+Go to the end of the passage. There's some water blocking the way
+(it's only a few feet deep, but hey, what would this game be without
+some puzzles? You'd finish it in half an hour! ^_^). Push the last
+crate into the water, and do the same with the one next to it. Now go
+back to the first crate. Push it towards the passage where the ladder
+is three times, then get round it and push it towards the wall
+opposite the ladder. Now push it all the way to the pool, and into
+the water to finally clear the way. There are two GREEN HERBS in the
+last corner, just before a BIG pool of water. Open the double doors.
+
+AQUARIUM
+
+The tank in the middle of the room has broken, flooding almost the
+whole basement. Enter the nearest room.
+
+ROOTS ROOM
+
+Use the V-Jolt on the roots. Now go back to Dormitory 003, and open
+the secret door.
+
+FIREPLACE ROOM
+
+Walk up to the center of the room. UGH! And what's THAT supposed to
+be? An octopus plant? Anyway, it's clear someone made a BIG mistake
+with those fertilizers - and it's up to you to correct that mistake.
+Plant 42 has two kind of attacks: it can thrust you with its
+tentacles if you get too close, and it can drop acid on you from
+above. If you see some small drops falling on you from above, run.
+Hug the walls and don't stay in the same spot for more than 4-5
+seconds, and you should be okay. Aim up with your Bazooka and unleash
+your Flame Rounds. You'll win in no time. Now take the C.ROOM KEY
+from the fireplace, and go to DORMITORY 002.
+---------------------------------------------------------------------
+
+
+
+-----------------------------THE BIG BATTLE--------------------------
+
+Go to the end of the Long Corridor and try to open the door labeled
+"002". You'll hear someone arguing inside (turn up the volume if you
+want to make out something of it). When it's finished, open the door,
+discard the Key, and enter the room.
+
+DORMITORY 002
+
+Barry is here, and behaves oddlier than ever. When you're done
+talking to him, take the DORMITORY MAP from the wall, and open the
+desk for some SHELLS. Read the PLANT 42 REPORT that's on the bed,
+then open the door that leads to the bathroom.
+
+*********************************************************************
+If you listen to the conversation from outside, then go to the Wasp
+Nest Room or the Main Corridor and finally come back here, Barry
+won't be here. Note that this whole event won't occur if you didn't
+use the trick to make the game easier.
+*********************************************************************
+
+BATHROOM 002
+
+Kill the two zombies and get the DORMITORY KEY (003) from the sink.
+Go back to the Wasp Nest Room and unlock the door labeled "003".
+Discard the Key and enter.
+
+DORMITORY 003
+
+Kill the zombie. There's an INK RIBBON in the desk. Examine the
+bookshelf to find the "V-JOLT" REPORT. Now, replace that white book
+with the red one to reveal a secret door. Go to the bathroom (in the
+game, of course ^_^).
+
+BATHROOM 003
+
+Kill the zombie and pick up one of the very few FLAME ROUNDS boxes
+you're going to find in the whole game. Load your Bazooka and go back
+to the Dormitory 003. Open the secret door.
+
+FIREPLACE ROOM
+
+EYOW! Another one of those big-as-hell-and-oh-so-damn-tough giant
+things! What's that supposed to be, an octopus plant? Well, that's
+what the reports refer to as "Plant 42" and is actually the biggest
+living thing in the game. Luckily, it's also one of the easiest to
+defeat (if you have enough guts to fight it, of course :p). Plant 42
+has two kinds of attack: it can swipe you with its tentacles if you
+get too close, and it drops acid from the ceiling. If you see some
+small drops fall from directly above you, run and you'll be safe.
+Just hug the walls and don't stay in the same spot for more than 4-5
+seconds. Aim up with your Bazooka and unleash your Flame Rounds. 3
+hits should be enough, but it's not over yet. Acid is still falling
+from above. Get close to the center of the room and Plant 42 will
+grow up again. Do as before and you'll win - one Flame Round should
+be all you need to destroy that oversized vegetable forever. Take the
+C.ROOM KEY from the fireplace and go to Dormitory 002.
+
+
+*********************************************************************
+BARRY TO THE RESCUE!
+
+If you didn't meet Barry in Dormitory 002, the game will take over
+after you defeat Plant 42 for the first time. The plant will grow up
+again and grab you with one of its tentacles, but Barry will enter
+the room and use his new flamethrower (I wonder wherever he got it)
+and do the work for you. Thanks again big guy!
+*********************************************************************
+
+---------------------------------------------------------------------
+
+
+***NOTE: if you made the V-Jolt, skip the following three rooms. If
+you didn't, go on reading.***
+
+DORMITORY 002
+
+Push the left bookshelf and push the right one aside to reveal a
+ladder. Descend it.
+
+UNDERGROUND PASSAGE
+
+Go to the end of the passage. There's some water blocking the way
+(it's only a few feet deep, but hey, what would this game be without
+some puzzles? You'd finish it in half an hour! ^_^). Push the last
+crate into the water, and do the same with the one next to it. Now go
+back to the first crate. Push it towards the passage where the ladder
+is three times, then get round it and push it towards the wall
+opposite the ladder. Now push it all the way to the pool, and into
+the water to finally clear the way. There are two GREEN HERBS in the
+last corner, just before a BIG pool of water. Open the double doors.
+
+AQUARIUM
+
+The tank in the middle of the room has broken, flooding almost the
+whole basement. Run down the right passage. As you approach the two
+doors, a cool FMV will show your nice buttocks through a Neptune's
+eyes. Quickly run to the doors, and unlock the left one. Discard the
+Key and get in.
+
+CONTROL ROOM
+
+The lever near the big, flashing red light will drain the basement,
+so move it. Now go where that small orange light is, and push the
+button to open the nearby room. Go there.
+
+ARSENAL
+
+OK, OK, that's a strong name for a room which hosts two CLIPS and two
+boxes of SHELLS, but I wonder what else you could pick up if all the
+other stuff weren't wet and useless! Anyway, take whatever you want -
+just don't forget the MANSION KEY (Helmet). Now return to the Long
+Corridor.
+
+LONG CORRIDOR
+
+Wesker has just blown down a spider. Talk to him, then go to the
+Bedroom. Put your Beretta into the box if you have it, along with all
+the Clips. Take the Colt Python with you - you will need it soon. Now
+go all the way back to the Mansion. Note that there are two
+cerberuses in the Courtyard.
+
+
+                          -----------------
+                          MANSION - PART II
+                          -----------------
+
+
+DARK CORRIDOR
+
+As soon as you come out of the narrow passage, the scariest FMV of
+the game will take over. Something's after you. It's fast, it jumps
+VERY high, it's _green_, it can OPEN DOORS (GULP!), and I just don't
+like its claws at all! You'd better prepare your best weapon.
+
+The hunter comes in. Its yellow eyes shine in the dark. It slowly
+comes towards you... and then, all of a sudden, you regain control of
+your character. Shoot! It will fall. Then, it will get back up.
+Shoot! If you're using the Bazooka, it should be dead by now. If
+you're using the Shotgun, you may need one or two more hits. If you
+used the Colt Python, you probably didn't need to shoot a second time
+:).
+
+The creature will give out a terrible screech, then it will die.
+Pretty tough, huh? And it was just the first! Well, don't let your
+fear overwhelm you. Unlock the door you couldn't open before, and
+open it.
+
+***NOTE: believe it or not, this is one of the largest places of the
+house in which you'll meet a hunter. For that reason, you may want to
+just hit this one once, then rush to the door. You can (and should)
+always run from hunters, even in narrow places. If you're lucky,
+you'll run past them without being hit by their claw swipe. But it
+won't be easy. Always carry some healing items with you until you're
+completely done with the Mansion.***
+
+STUDY
+
+Search the table to find a switch. Push it to see things better. Take
+the MAGNUM ROUNDS (yeeeeeeeesssss!!!!!!!!!) from the desk and the MO
+DISK from the shelf. Get out and go to the Stairwell.
+
+STAIRWELL
+
+STAY ALERT! TWO hunters are waiting for you here. You really should
+kill these two. Read Barry's message on the wall, then enter the
+Storage Room.
+
+STORAGE ROOM
+
+Good ol' Barry left some goodies here for you. To be precise, you'll
+find a box of SHELLS, some ACID ROUNDS (Barry's favorite, it seems),
+and a F.AID SPRAY. Now you have to decide if you want to risk your
+life to put your hands over 24 more Magnum Rounds. If your answer is
+yes, read on. If no, SAVE your game, then skip the following section
+and read from FIREPLACE ROOM on. Just make sure you have some free
+space in your inventory.
+
+---------------------------------------------------------------------
+Keep a free slot in your inventory. Be sure to bring along the
+Bazooka and the Colt, then leave this room and go upstairs.
+
+CORRIDOR 2F
+
+Immediately raise your weapon and waste the hunter. Now rush to the
+Library, and get to the Red Corridor from there.
+
+RED CORRIDOR
+
+THREE hunters are here for you. Don't bother killing them all - just
+blast the first one to make things a bit easier, then run like
+there's no tomorrow until you reach Main Hall 2F. From there, go to
+Dining Room 2F.
+
+DINING ROOM 2F
+
+Don't go down the passage where the statue used to be. Take the other
+passage and run to the door.
+
+NARROW CORRIDOR
+
+Two hunters here. Kill them without getting hurt too much (easier
+said than done), then unlock the door near the stairs and open it.
+
+TROPHY ROOM
+
+Read the ORDERS you'll find on the table. Pick up the SHELLS and the
+MAGNUM ROUNDS. Now push the ladder until it's right below the moose
+head, then return to the door and push the switch to turn off the
+light. Climb the ladder and take the RED JEWEL (another exquisite
+item to look at). Now get out and go downstairs.
+
+WOODEN CORRIDOR
+
+You can overrun the two hunters here _very_ easily. Make it to the
+Green Corridor.
+
+GREEN CORRIDOR
+
+RUN! Those two hunters in front of you will slice you like bread if
+you hesitate. Rush to the Tiger Statue, and watch out for a third
+monster will come out of the alcove as you approach.
+
+TIGER ROOM
+
+Put the Red Jewel in the statue's right eye to receive THREE boxes of
+MAGNUM ROUNDS. Now you're a one man army! Kill the hunter that's
+waiting for you outside, and return to the Corridor 2F via the Red
+Corridor. You can get there by retracing your steps, or by getting to
+the Main Hall 1F from here and climbing the stairs to the second
+floor. If you choose the latter, be warned that there are two spiders
+in the Sofa Corridor. Oh, and don't enter the Corridor 2F from the
+Library. Choose the other door instead.
+
+CORRIDOR 2F
+
+Woah! This is probably the closest look you're going to take at a
+hunter in the whole game. Kill it with the Colt to see it dying from
+a VERY close point of view. COOL! Now it's a good time to save your
+game. Free some space in your inventory - at least two slots - and be
+sure to keep your strongest weapons with you. Now head to the
+Fireplace Room.
+---------------------------------------------------------------------
+
+
+FIREPLACE ROOM
+
+Unlock the door and discard the Key. Open the door.
+
+PIANO ROOM
+
+Just too quiet in here, isn't it? Go to the piano and check it. Uh-
+oh. A cut scene. Now what?
+
+AWWWWWWWWWWWW, NO! It's that look-at-the-size-of-my-mouth-and-take-a-
+trip-to-my-stomach snake! I just wonder how on Earth he fits the
+passages he uses to roam the house. As you can see, it brings the
+signs of its last battle with you, and this makes it SO mad! It will
+break the floor like a crunchy cookie, and then charge you at full
+force. Luckily (?), it's run out of poison (or is it just the effect
+of the Serum?), so you have one less problem to cope with. Run around
+and shoot its HEAD. This is very important. If you shoot its body,
+even a whole Colt Python barrel will not be enough to kill it. Should
+you win, it will dissolve, leaving a BIG spot on the floor. Check the
+hole he made on the floor and Barry will come in. He'll ask you to go
+down to check, and he'll produce a rope. If you didn't save Richard,
+he will also give you the COM.RADIO. Then you'll climb down the rope.
+
+TOMBSTONE ROOM
+
+A very strange room indeed, since the only way in is the one you just
+came from. As soon as you touch the floor, the rope will drop at your
+feet. Barry'll apologize and go find another one (I keep on wondering
+WHERE?). Go ahead and check the tombstone. Push the switch to reveal
+a ladder, but DON'T climb it down yet. Wait for a while and Barry
+will come back to pull you out of here. If you want to climb down the
+ladder now, feel free to do it and skip the following step, but be
+warned that Barry will die at the end of the game.
+
+PIANO ROOM
+
+After some more conversation, Barry will give you the PASS NUMBER.
+This is used to open the door at the end of the Narrow Corridor on
+the second floor. This gives you two different ways to gain access to
+the last unexplored part of the mansion, but they're both VERY
+dangerous. I personally prefer not to use the pass number, because
+the way to the locked door is full of narrow rooms crawling with
+hunters. If you wanna try it, skip the following section and read
+from ELEVATOR CORRIDOR 2F on - otherwise, go on reading.
+After Barry leaves, climb down the rope and descend the ladder you
+discovered before.
+
+MAIN CORRIDOR B1
+
+This room proves the guys at CAPCOM were high on something illegal
+when they programmed this new version of the game. There is one
+hunter coming at you from the next screen, and as soon as you make
+any noise, two more will run out of the corridor on your right (that
+is, the left of the screen). That small lateral corridor hides a box
+of SHELLS, but unless you're desperate for ammo, you'd better just
+run straight ahead, past the first hunter, and to the door. Just be
+careful, OK?
+
+LARGE CORRIDOR B1
+
+There are two useful GREEN HERBS here. Two zombies are feasting on a
+third one - get close to make them stand up, and kill them. The third
+zombie sure seems to be dead, and won't move if you try and shoot it,
+so it SHOULD be dead. Anyway, pass behind it when heading to the
+door.
+
+KITCHEN
+
+Go ahead and approach the door. A FMV will take over, showing a door
+from the eyes of a drunk person. Ooops! Uh, well, it seems this guy
+is dead, too. He will open the door and attack you. For some reason,
+this is the toughest zombie in the whole mansion - he'll take up to
+FIVE shells to go down, and his head just won't blow up. When it's
+dead, go round the table and you'll see a narrow corridor just around
+the corner. A zombie is lying on the floor. Walk very slowly, hugging
+the wall until the camera angle changes, then aim down and shoot it.
+This one is also quite resistant. Kill it and take the elevator to
+the second floor - and be ready to run.
+
+ELEVATOR CORRIDOR 2F
+
+See that hunter? Well, show it your back and run to the double doors,
+and watch out for the other one lurking at the end of the passage.
+There's a GREEN HERB in this corridor, but don't stop to pick it up
+or it won't be enough to heal you.
+
+MAIN LIBRARY
+
+Go left to find a desk hiding some MAGNUM ROUNDS. Carefully walk
+towards the shelves. A zombie will come to you, so kill it. Go ahead
+and then left. Kill the two zombies and read the SCRAPBOOK. Now go
+back where the first zombie came out from. Push the bookcase aside to
+reveal a door. Open it.
+
+SECRET STUDY
+
+There's an INK RIBBON on the table, and a CLIP on the shelf, but the
+really important item to pick up here is the BATTERY on the floor by
+the window. Whatever you do, don't try to look through the window, or
+three crows will break it and get inside to peck your flesh. Now go
+back to the Main Library and find the other door to access the...
+
+MESSED-UP LIBRARY
+
+There's a small space between the shelves. Go there and you'll find
+yourself behind a statue. Push it ahead ONE AND A HALF TIMES. It must
+NOT touch the wall. Now go to the red switch on the wall, and push it
+to light up a small square of floor in the corner. Push the statue on
+it to discover a secret alcove hiding the DOOM BOOK 1. Take it and
+immediately CHECK it. Turn it so that you can see its pages, and
+press X to open it and find the EAGLE MEDAL. Now you can go back to
+the elevator and return to the Kitchen. If you want to explore the
+full mansion, read on, otherwise skip the following two rooms.
+
+CLOSET
+
+It's the other room found in Elevator Corridor 2F. It holds two boxes
+of EXPLOSIVE ROUNDS. Take them if you want.
+
+MARBLE CORRIDOR
+
+In this room you'll find three zombies - one of them is a fake dead,
+so beware. You'll also find two GREEN HERBS, and a BLUE one. If you
+chose to open the door on the second floor with the Pass Number,
+you'll end up here; if you didn't, there's no way to open it from
+this corridor. When you're done, go back to the Kitchen.
+
+KITCHEN
+
+Open the door where the zombie came from. Climb the stairs to reach
+the Elevator Corridor. Unlock the door.
+
+SOFA CORRIDOR
+
+Two spiders are taking a walk on the ceiling. Kill them if you want,
+or just run to the Dining Room 1F. Now you have to return to the
+Garden: choose the path yourself, but the second floor should be
+easier. Just watch out for the hunter waiting for you in the
+Courtyard Passage. Remember to take the Crank with you!
+
+
+                                ------
+                                GARDEN
+                                ------
+
+
+Go to the Waterfall Courtyard, kill the cerberuses, and put the
+battery in place to activate the elevator. Take it and go to the
+Pool. Use the Crank again to stop the water, then go back down with
+the elevator and climb down the ladder that was behind the waterfall.
+
+
+                             -----------
+                             UNDERGROUND
+                             -----------
+
+
+TYPEWRITER CORRIDOR
+
+Yes, you can save your game here, and it'd be a good choice. Now
+simply open the door near the ladder.
+
+T-SHAPED CORRIDOR
+
+Barry is here. Choose to go with him and have him go first. When you
+hear him firing his gun, go the way he went and open the door.
+
+SHAFT ROOM
+
+Barry will kill a hunter (he's a damn good shooter, isn't he?).
+There's an alcove with some EXPLOSIVE ROUNDS and an INK RIBBON.
+Proceed to the next door and open it.
+
+ENRICO'S CORRIDOR
+
+Go ahead until the game takes over. Enrico Marini from S.T.A.R.S.
+Bravo Team will say something about a traitor in S.T.A.R.S., then
+someone will shoot him down. Check Enrico's body for the HEXAGONAL
+CRANK. Take it and go back to the Typewriter Corridor, but watch out
+for the hunters which found their way down here.
+
+TYPEWRITER CORRIDOR
+
+Go past the typewriter until you come to a hole in the floor. Now use
+your new Crank in that hole in the wall to clear up the path (is THAT
+possible? And, even if it were, it's still the most absurd thing in
+the whole game, believe me. Who on Earth would take the time to build
+such a stupid device?).
+Now you can reach the door.
+
+FIRST BOULDER CORRIDOR
+
+Go ahead until you come to a boulder blocking the way. Now turn
+around and RUN!!! You must reach the doorway before the rolling
+boulder gets you. I think you don't need me to guess what happens if
+you don't make it. Anyway, the boulder will open a new path (this
+place is full of absurd things...), where a door and a hunter are
+waiting for you. If you go where the boulder was previously standing,
+you'll find some FLAME ROUNDS - but a hunter will enter the room,
+giving you too much trouble for what you get. Whatever you do, open
+that new door.
+
+SPIDERWEB ROOM
+
+There's a HUGE spider here. It will spit poison at you, but it's too
+slow for you, so just run in circles and shoot when you're behind it,
+and it'll be dead in no time. Get out to get rid of the little ones,
+then come back in and use the Flame Rounds to destroy the webs on the
+door. If you don't have the Bazooka with you, just pick up the COMBAT
+KNIFE in the corner and use that. There's also an INK RIBBON in this
+room, it's in the other corner in the same screen where you get the
+Knife. Now open the door.
+
+EMPTY CORRIDOR
+
+No one here. Go east to find a door, and open it.
+
+OFFICE
+
+An INK RIBBON, a F.AID SPRAY, a BLUE HERB, a typewriter, and an item
+storage box. Put the Square Crank in the box and make sure you have
+the Eagle Medal and two empty slots in your inventory. Go back to the
+corridor and go open the door at its other end.
+
+SECOND BOULDER CORRIDOR
+
+Go right and ahead until you find another hole in the floor. Use the
+Hex Crank three times so that the hole is on the left wall. Now go
+tease the boulder, and run to the alcove you've just created. After
+the boulder has passed, go to the end of the corridor to find the MAP
+OF UNDERGROUND and the DOOM BOOK 2, which holds the WOLF MEDAL. Now
+open the door in the alcove.
+
+PRESSURE PLATE ROOM
+
+Go to the statue and push it towards the door, but stop when it's
+between the hexagonal hole and the east wall. Use the Crank and a
+small section of the wall will pop out, pushing the statue on its
+way. If it misses the statue, reposition it and try again. Now use
+the Crank again, and you will be able to push the statue on the
+pressure plate on the floor. This will open the nook containing the
+LAB KEY. Now go back to the corridor and reach its other end to find
+the elevator. Take it up.
+
+FOUNTAIN
+
+Those huge double doors lead to the Heliport, but they cannot be
+opened. There are two GREEN HERBS and two BLUE ones here. Now look at
+the fountain. There are three tombstone-like parts in it. Use the
+Wolf Medal on the West one and the Eagle Medal on the East one. A FMV
+will show you a new path. It leads to an elevator. Use it to access
+the final building in the game.
+
+
+                        ---------------------
+                        UMBRELLA'S SECRET LAB
+                        ---------------------
+
+
+ENTRANCE
+
+Just descend the ladder.
+
+STORAGE BOX ROOM
+
+Take the MO Disk with you, and one or two weapons. You'll also need
+the Lab Key. Now keep going.
+
+STAIRWELL
+
+There are three zombies here, and 2 GREEN HERBS. The other door is
+locked, but on the table nearby you'll find some SLIDES. Just leave
+them here now, and climb the stairs down.
+
+GREAT CORRIDOR
+
+In this corridor you'll meet the naked zombies, probably escaped from
+the morgue in the center of the room. If you go straight ahead from
+the stairs, you'll find a hole in the wall. An INK RIBBON is hidden
+there. Now open the door near the stairs.
+
+PASS CODE CORRIDOR
+
+Open the door on the South wall.
+
+JOHN'S ROOM
+
+Kill the zombie and turn on the light. Read the RESEARCHER'S LETTER
+on the desk VERY CAREFULLY. You'll also find a CLIP in the box near
+the sink, and a GREEN HERB. Now push aside the big shelf to find a
+switch, but don't push it just now. Go to the painting and examine
+it. Take note of the words and their disposition, then go to the
+switch and push it. Examine the painting again: now you should be
+able to decipher the password found in the Researcher's Letter. Now
+go back to the Great Corridor and go straight from the door. Avoid
+the zombie and make it to the other door. Open it.
+
+COMPUTER ROOM
+
+Search the room for a MO DISK. Now go to the computer and turn it on.
+Input JOHN for ID, and ADA as the password. Now choose to unlock the
+doors on floor B3 first, then choose B2 and you'll be asked to enter
+another password. Input the password you found in the Researcher's
+Letter. Now go back upstairs, take the Slides, and open the
+previously locked door.
+
+VISUAL DATA ROOM
+
+Check the shelf on the right to find the SECURITY SYSTEM manual. Use
+the Slides in the projector on the table to take a look at the
+monsters - and to the Umbrella R&D team (humans, but still monsters,
+indeed). Now open the panel on the wall and push the switch, and a
+column will slide sidewards. Take the MO DISK that was behind it and
+go back downstairs. Enter the Pass Code Corridor and open the door
+opposite John's Room.
+
+LAB STOREROOM
+
+There are 5 zombies here. There's a FAX in a nook in the wall, and an
+INK RIBBON in a box on the floor. Use a MO Disk in the pass code
+output machine on the desk to receive the PASS CODE 01. Now return to
+the Great Corridor and make your way to the door in the SE corner.
+Unlock it and discard the P.Room Key, then open the door.
+
+ELEVATOR CORRIDOR
+
+There are 2 zombies here, but just open the nearest door for the
+moment.
+
+AUTOPSY ROOM
+
+You'll find some SHELLS, and a RED HERB in the sink. Fortunately, the
+new camera angle makes the puzzle in this room much easier. There are
+two boxes and a ladder. Push the ladder to the left so that you can
+push the right box on the right hole. Now push the left box until
+it's in the same spot where the other one was, then push the ladder
+near the right wall. Push the box on the left hole and, finally, push
+the ladder between the boxes. If the holes weren't properly covered,
+poison gas will fill the room. If they were, climb to the ventilation
+shaft and go through it.
+
+MORGUE
+
+The two zombies lying on the floor aren't dead, so you'll have to
+kill at least the one blocking the way to the MAGNUM ROUNDS on the
+shelf. In this room you can also use a MO Disk to get the PASS CODE
+02. Now unlock the door and you'll be near the door to the Elevator
+Corridor - where you should go right now. When you're there, go
+straight ahead to find the Guardpost.
+
+GUARDPOST
+
+The last save room holds an INK RIBBON, a BLUE HERB, and some FLAME
+ROUNDS. Be sure to have the last MO Disk with you, and one free slot
+in your inventory. Saving the game would be a nice idea. When you're
+ready, get out and open the south door.
+
+FIRST POWER ROOM
+
+There are three chimeras in this room, so be very careful. Go west
+and south to reach the control panel, and activate it. Now go back to
+the door and take the other passage to reach a door. Be FAST.
+
+SECOND POWER ROOM
+
+No enemies here! Go straight to find the pass code machine for the
+PASS CODE 03, then go back and take the other passage to find a new
+door.
+
+THIRD POWER ROOM
+
+This is probably the most dangerous room in the lab. It's better to
+cross it clockwise. On its east side there's a switch to restore
+power to the elevator, push it. The chimeras will swarm around you
+like crazy, but if you're not good at aiming, you'd better keep
+running. There's a BATTERY on the floor near the SW corner - take it,
+then make it back to the Elevator Corridor.
+
+ELEVATOR CORRIDOR
+
+Push the switch near the elevator to activate it. Barry will join
+you, and together the two of you will take the elevator down.
+
+CORRIDOR B4
+
+Everything will finally be clear in this corridor. Wesker will
+explain to you the whole thing, then he will try to lead you to the
+next room, but Barry will knock him out from behind. After some more
+chitchat, you'll go to the next room.
+
+TYRANT LAB
+
+Barry wants to kill the "ultimate biological weapon", and he thinks
+the best way to do it is to let it loose. He's gonna pay for that ;).
+Now you have to face the Tyrant, which is VERY easy to beat. Get some
+distance, then turn around and shoot. Keep doing this until it falls.
+Now check Barry and be surprised - he's even tougher than he looks!
+All you have to do now is to get out of the room.
+
+CORRIDOR B4
+
+Wesker has activated the triggering system. Now you have to reach the
+Pass Code Corridor, but be prepared to run because the chimeras are
+now infesting the Great Corridor. Save if you want.
+
+PASS CODE CORRIDOR
+
+Check the pass code machine and you'll automatically use the three
+Pass Codes. Open the door.
+
+PRISON CORRIDOR
+
+Reach and open the door at the other end.
+
+PRISON
+
+Chris Redfield is here. Get out with him and he'll leave you behind
+as soon as you're back in the Pass Code Corridor. Now go upstairs.
+
+STAIRWELL
+
+Kill the three new zombies, then go to the Storage Box Room.
+
+STORAGE BOX ROOM
+
+Put in the box everything but the Battery, the Colt, the Magnum
+Rounds, and any healing item you have, then climb up the ladder.
+
+ENTRANCE
+
+Open the huge doors.
+
+HELIPORT PASSAGE
+
+Run until you reach the elevator, and put the Battery in place
+(you'll receive a radio call from Brad). There are three minutes
+until the explosion. Barry and Chris will take care of the monsters
+that are following you. Get on the elevator.
+
+HELIPORT
+
+Pick up the FLARE from the nearby box. You can use it anywhere, but
+it's best to use it on the H painted on the floor. You'll see Brad's
+helicopter fly overhead, but after a moment there will be an
+explosion and the Tyrant will burst through the floor and come at
+you.
+
+This battle is quite hard. If you are too far from it, the Tyrant
+will charge you and swipe at you with its oversized claw. This attack
+is incredibly powerful, and it's even more if you get knocked against
+a wall. Therefore, it's best not to take too much distance from the
+monster. Check your health every time you're hit, and shoot when you
+can - or just survive until the timer reaches 00'30". At that point,
+or if you've done enough damage, Brad will drop a ROCKET LAUNCHER on
+the big H on the floor. Take it and kill the Tyrant. If you miss with
+all four bullets (which I SERIOUSLY doubt), you're dead. If you kill
+the monster, you've completed the game.
+
+
+=====================================================================
+8. CHRIS' WALKTHROUGH
+=====================================================================
+
+***NOTE: I will explain Chris' walkthrough assuming that you have
+already played the game as Jill Valentine, and therefore that you
+know the layout of the buildings pretty well. This walkthrough will
+only marginally cover the optional areas and the possible variations
+in the development of the adventure (i.e., the different situations
+in which Chris meets Rebecca), since Chris' game is very hard, not
+only because of the number and the strength of the monsters, but for
+the extremely limited inventory, too. If you need to save more often
+than suggested, feel free to collect more Ink Ribbons, but store them
+immediately. Also, the usage of the Green Herbs is at your complete
+disposal for most of the game. Just remember you have limited space
+for your items. The variables of the adventure can be found in the
+Endings and Secrets section.***
+
+
+                           ----------------
+                           MANSION - PART I
+                           ----------------
+
+
+MAIN HALL 1F
+
+Barry is gone. Someone fires a gun somewhere in the house, and Chris
+decides to go and check. He leaves and goes to the Dining Room.
+
+DINING ROOM
+
+Nothing to do here. Open the door at the other end of the room.
+
+SOFA CORRIDOR
+
+Go left and a FMV will introduce to you your first zombie. Don't try
+to be a hero and to kill it with that ridiculous knife - just turn
+around and go back to the Main Hall.
+
+MAIN HALL 1F
+
+Jill and Wesker are gone, too! What's wrong with this place?! There
+seems to be no answer right now, so the best thing to do is to pick
+up Jill's BERETTA from the floor. Now return to the Sofa Corridor.
+
+SOFA CORRIDOR
+
+The zombie is on the right. Turn around and shoot it until it's dead.
+If it falls down but it's still alive, use the knife to stab it while
+it's on the floor to save some much precious ammo. When it's dead, go
+search Kenneth's body for two invaluable CLIPS. Now go back to the
+Main Hall and climb the stairs to the second floor.
+
+MAIN HALL 2F
+
+Go to the Balcony Passage.
+
+BALCONY PASSAGE
+
+Pick up that shining SMALL KEY, then go to the Balcony.
+
+BALCONY
+
+Pick up the CLIP near Forest's body, then try to pick up the key.
+Forest will attack you. Turn around and run back to the door, and
+shoot him from there. After he's gone for good, pick up the ARMOR KEY
+and go back to Main Hall 2F.
+
+MAIN HALL 2F
+
+Go to the Red Corridor.
+
+RED CORRIDOR
+
+Open the first door you'll find.
+
+RICHARD'S ROOM
+
+Rebecca Chambers is guarding a poisoned Richard Aiken. Rebecca will
+ask you to go and search for the Serum. Chris will automatically get
+out of the room and the map will be shown. The red-flashing room is
+your goal. Return to the Main Hall 2F and open the double doors, but
+watch out for the zombie that is now lurking near the door of the Red
+Corridor.
+
+*********************************************************************
+Rebecca can be met in the Infirmary if you go there first, but
+there's no point in doing this. If you meet her there, Richard will
+be dead by the time you get here. In that case, search him for the
+RADIO.
+*********************************************************************
+
+DINING ROOM 2F
+
+Immediately shoot the nearest zombie until it's dead. Now equip the
+Combat Knife and start pushing the statue towards the opening in the
+rail. When the zombie reaches the statue, stay behind the statue and
+stab him with the Knife. He won't be able to get to you, so kill him
+with the blade to spare some most wanted ammo. Then make the statue
+fall to the room below, and ignore the third zombie. Reach the other
+door and open it.
+
+NARROW CORRIDOR
+
+Be ready to kill the zombie, because it's insanely close to the door.
+The second one is just round the corner, while the third should be no
+problem. Go downstairs.
+
+WOODEN CORRIDOR
+
+A cerberus will break the nearest window and come to you - kill it
+and enter the Infirmary.
+
+INFIRMARY
+
+Put into the box the Knife, the F.Aid Spray, and the Small Key. Take
+the SERUM from the shelf and go back to Richard's Room.
+
+*********************************************************************
+You can store the Serum into the box for later use. Should you do
+that, skip the next passage.
+*********************************************************************
+
+RICHARD'S ROOM
+
+You give the Serum to Rebecca, but unfortunately it's too late for
+Richard. He will give you the RADIO before dying. Rebecca will stay
+here for a bit longer. Now go back to the Red Corridor and open the
+next door. Remember there are two more zombies in the Corridor.
+
+ARMORS' ROOM
+
+You'd expect that Chris' game would include some animated armors
+ready to impale you, wouldn't you? Well, at least they weren't THAT
+cruel. Cover the two holes with the two statues, then press the
+switch and collect the EMBLEM. Now get out and proceed to the end of
+the corridor. Enter the Library.
+
+LIBRARY
+
+Yeah, I know, this is not really a library, but there are some books,
+so let's assume it is a library, OK? ;). Read the BOTANY BOOK found
+on the table, then unlock and open the door.
+
+CORRIDOR 2F
+
+Kill the two zombies and open the door in the middle of the corridor.
+
+STAG ROOM
+
+Go to the Aquarium Room.
+
+AQUARIUM ROOM
+
+Read the remaining part of the RESEARCHER'S WILL on the desk. Push
+the switch on the wall, between the spiders, to drain the aquarium.
+Push it aside, and push the cupboard toward the wall. Collect the
+first half of the MOON CREST. There's an INK RIBBON in the white coat
+near the door, but don't take it now. Get out and go to the Bedroom,
+but beware of the zombie.
+
+BEDROOM
+
+There's a RED HERB near the left bed, and a box of SHELLS between the
+right bed and the wall, but don't take them now. Get the LIGHTER from
+the shelf instead, and return to the Corridor 2F.
+
+CORRIDOR 2F
+
+Your inventory should be full, so go downstairs.
+
+STAIRWELL
+
+Avoid the two zombies and enter the Storage Room.
+
+STORAGE ROOM
+
+Put the Emblem and the Crest into the box, then return upstairs and
+go to Richard's Room - but remember to collect the Shells from the
+Bedroom before you go there. You can go to the Fireplace Room to get
+the MAP OF SECOND FLOOR; if you do so, be warned that a zombie is
+hiding behind the corner at the end of the corridor.
+
+RICHARD'S ROOM
+
+Use the GREEN HERBS if you need to heal, then open the door to the
+Attic Passage.
+
+ATTIC PASSAGE
+
+Kill the two zombies FAST, then go to the Candle Room.
+
+CANDLE ROOM
+
+Light the candle with the Lighter. Collect the CLIP from the left
+cupboard, then push the right one aside. Enter the secret passage to
+get the SWORD KEY. Now go straight back to the Infirmary.
+
+INFIRMARY
+
+Store the Shells and the Lighter, and take the Small Key with you.
+Now get out and run to the Weapon Room. Don't stop to fight the dogs.
+
+WEAPON ROOM
+
+Open the desk for some Shells. Take the COLT PYTHON from the shelf
+and equip it(!!). Take the CLIP, too. Get out and go to the Green
+Corridor.
+
+GREEN CORRIDOR
+
+Use the Python to blast the two zombies. Unlock and enter the
+Keeper's Room.
+
+KEEPER'S ROOM
+
+Take the CLIP on the bed. Go check the desk and kill the zombie which
+will surprise attack you. Get the SHELLS from the cupboard, and read
+the KEEPER'S DIARY. Now go back to the Infirmary, killing the
+cerberuses on your way back there. Use all your Magnum Rounds if
+required.
+
+INFIRMARY
+
+Store the Python and the Shells. Go back to the Green Corridor and
+unlock the door to the Sofa Corridor. Go to the Piano Bar.
+
+PIANO BAR
+
+Get round the piano, push the shelf aside, and take the MUSIC NOTES
+you'll find. Use them on the piano and Rebecca will enter the room.
+She will try to play, but she won't do it very well. She will ask you
+to let her practice for a while. Whatever the answer, she will stay
+and practice. Go to Main Hall 1F.
+
+MAIN HALL 1F
+
+Unlock the Globe Room, but don't get in. Open the blue double doors.
+
+STATUE ROOM
+
+Push the ladder below the statue and climb it to collect the MAP OF
+FIRST FLOOR. Don't bother going into the passage for the INK RIBBON -
+it would be a waste of time and bullets. Unlock the L-Shaped Corridor
+and discard the Sword Key, then open the door.
+
+L-SHAPED CORRIDOR
+
+Walk backwards so that you're ready to shoot the cerberus. After
+you've killed it, go on and kill the second. Push the shelf aside and
+pick up the CLIP that was under it. Proceed.
+
+TWISTED CORRIDOR
+
+Unlock the Patio and discard the Armor Key. Enter the Patio.
+
+PATIO
+
+Kill the cerberus. Get round the corner and a second one will attack
+you. Kill it. Make full use of the 5 GREEN HERBS if you need to, then
+collect the CHEMICAL and get out without stopping to kill the third
+dog. Go to the Bathroom.
+
+BATHROOM
+
+Kill the zombie. Take the CLIP near the mirror, and the SMALL KEY
+from the bathtub. Now go to the Dark Corridor.
+
+DARK CORRIDOR
+
+Kill the first two zombies. If the third one attacks you, avoid it.
+Go to the Painting Gallery.
+
+PAINTING GALLERY
+
+Push the switches below the pictures in this order:
+
+-Newborn baby
+-Infant
+-Lively boy
+-Young man
+-Middle-aged man
+-Old man
+-"The end of life"
+
+Get the WIND CREST and leave. Unlock the door to the Stairwell and
+open it.
+
+STAIRWELL
+
+Kill the two zombies this time, then enter the Storage Room.
+
+STORAGE ROOM
+
+Store the Wind Crest. Take the BROKEN SHOTGUN and go to the Shotgun
+Room.
+
+SHOTGUN ROOM
+
+Kill the zombie closest to the door (but you can avoid it if you're
+smart) and run to the SHOTGUN. Take it and kill the other two zombies
+(or three, if you did avoid the first one). Put the Broken Shotgun on
+the wall and get back to the Storage Room. Store the Beretta and the
+Clips, take the Shells and the Emblem, and go back to Main Hall 1F.
+
+MAIN HALL 1F
+
+Go to the Globe Room.
+
+GLOBE ROOM
+
+Kill the zombies and open the desk for some SHELLS. You can go to the
+Mirror Room and the Change Room if you want - in that case, you'll
+find a zombie, two GREEN HERBS, an INK RIBBON, and two new costumes.
+When you're done, take the INK RIBBON near the typewriter in the Main
+Hall if you don't have one, then go to the Dining Room.
+
+DINING ROOM
+
+Take the STAR CREST from the broken statue, then go to the Piano Bar.
+
+PIANO BAR
+
+Rebecca will play the Moonlight Sonata, and a secret passage will
+open. Go there and take the GOLD EMBLEM. Replace it with the Wooden
+one, then go back to the Dining Room.
+
+DINING ROOM
+
+Put the Gold Emblem into the hollow on the wall. The clock will slide
+sidewards, revealing the BLUE JEWEL. Take it and go to the Tiger
+Room.
+
+TIGER ROOM
+
+Put the Blue Jewel in the tiger's eye, and take the SHIELD KEY. Go to
+the Greenhouse, killing the zombie on the way.
+
+GREENHOUSE
+
+Use the Chemical in the pumping machine to stun the plant. Collect
+the SUN CREST. Go to the Infirmary, store the Crests, and save your
+game. Now go to the Attic. You are free to fill your inventory with
+healing items since you'll enter the Attic with one free slot anyway.
+Bring the Serum if you saved it earlier.
+
+ATTIC
+
+Discard the Shield Key before you enter. Walk to the middle of the
+room and Yawn will come out of its hole to face you. For some reason,
+I've found it easier to defeat it than in Jill's scenario. You should
+need EXACTLY seven Shells to end the fight. Be sure to pick up the
+ones found in this room after the fight, and get the second half of
+the MOON CREST from Yawn's lair. Use the Serum if you have it, and go
+to the Storage Room; otherwise, just leave the Attic.
+
+ATTIC PASSAGE
+
+As soon as he descends the steps, Chris will start feeling sick.
+Rebecca will come in and he will tell her he's poisoned, so she will
+go for the Serum. Now you'll have to control Rebecca. Go to the
+Infirmary, get the Serum, and come back here. It should be really
+easy. When you're back, Rebecca will give Chris a shot and he will be
+fine. Check his health though, because the last time I played I
+didn't, and a zombie killed me with the first bite. Go to the Storage
+Room.
+
+*********************************************************************
+You won't be able to play as Rebecca if you didn't deliver the Serum
+to Richard. Should Chris pass out, you'll awake in the Infirmary.
+*********************************************************************
+
+STORAGE ROOM
+
+The only things you need are the Shotgun, the Shells, and the four
+Crests (that's as much as you can take with you anyway). Take them
+and go to the Courtyard Passage, but beware of the third zombie in
+the Dark Corridor - he's still there, provided you didn't kill it
+before (I didn't tell you to... why shouldn't he be there? ;) ).
+
+COURTYARD PASSAGE
+
+It's important that you hit both cerberuses with the same shell every
+time you shoot, or you'll waste too much ammo. When they're dead, use
+the Crests to unlock the door, and open it.
+
+WAREHOUSE
+
+Push the ladder below the high shelf and climb it to find the SQUARE
+CRANK. Go to the Courtyard.
+
+
+                                ------
+                                GARDEN
+                                ------
+
+
+COURTYARD
+
+Try not to use too many shells to kill the three cerberuses. You'll
+get a radio call from Brad Vickers, but he won't be able to hear you,
+so just keep going.
+
+POOL
+
+Use the Crank to lower the water, and cross the water passage. Run to
+the elevator to avoid the snakes, and take the elevator down.
+
+WATERFALL COURTYARD
+
+If you're good enough to dodge all the dogs, do it - otherwise, waste
+them. Proceed to the Guardhouse Passage.
+
+GUARDHOUSE PASSAGE
+
+Kill the first dog, but dodge the others - you should be dying for
+ammo by now.
+
+
+                              ----------
+                              GUARDHOUSE
+                              ----------
+
+
+MAIN CORRIDOR
+
+Use the statue to cover the hole in the floor, and enter the
+Dormitory 001.
+
+DORMITORY 001
+
+Kill the 2 zombies. There's a SMALL KEY in a cup on the small table
+near the cupboard - take it and open the desk for some much needed
+SHELLS. Don't enter the Bathroom 001 - go to the Bar instead.
+
+BAR
+
+I suggest that you don't waste a single Shell on those spiders. Take
+the RED BOOK and get out - it's too dangerous to go and check the
+code on the pool table (but you can do it if you're fast). Go to the
+Long Corridor.
+
+LONG CORRIDOR
+
+Use the three GREEN HERBS at the end of the corridor if you need
+them, then go to the Wasp Nest Room.
+
+WASP NEST ROOM
+
+Get the DORMITORY KEY 002 below the wasp nest and run outta here.
+Unlock the Dormitory and discard the key.
+
+DORMITORY 002
+
+No zombies here (whew!). Read the PLANT 42 REPORT on the bed, and
+take the MAP OF DORMITORY from the wall. Enter the Bathroom 002.
+
+BATHROOM 002
+
+Kill the two zombies and grab the DORM.KEY 003 from the sink. Go to
+that room, unlock it, and get inside.
+
+DORMITORY 003
+
+Kill the zombie, then read the "V-JOLT" REPORT and replace it with
+the Red Book. Go to the Bathroom 003.
+
+BATHROOM 003
+
+Kill the zombie and collect the CLIP. Now go to the Bedroom.
+
+BEDROOM
+
+The guys at CAPCOM must be crazy... they've replaced those Explosive
+Rounds with a CLIP!!! Anyway, store the Shotgun and the Shells. No,
+I'm not crazy, at least not as much as them. Store the Crank as well.
+Take the Beretta and the Clips with you. You should have at least 30
+bullets. Now go to Plant 42 Room.
+
+PLANT 42 ROOM
+
+Chris is too curious... he wants to take a close look at the jumbo
+plant, but it grabs him with a vine! Luckily, Rebecca hears Chris
+screaming and rushes in (through a JAMMED door... drives me mad!). He
+drops the "V-JOLT" REPORT for her to use. Now you'll be in control of
+Rebecca once more. Go to the Chemical Room. The entry code in my last
+game was 1-2-5, but it's probably subject to change. Get inside.
+
+CHEMICAL ROOM
+
+Pick up three EMPTY BOTTLES and do the following mixes:
+
+Water + UMB No.2 = NP-003
+NP-003 + UMB No.4 = UMB No.7
+UMB No.2 + UMB No.4 = Yellow-6
+UMB No.7 + Yellow-6 = UMB No. 13
+UMB No.13 + NP-003 = V-JOLT
+
+Now go to the Dormitory 002.
+
+DORMITORY 002
+
+Push the left cupboard towards the wall, and push the left one
+sidewards to reveal a ladder. Climb it down.
+
+UNDERGROUND CORRIDOR
+
+Use the crates to create a bridge, cross it, and enter the Aquarium
+Room. From there, go to the Roots Room.
+
+ROOTS ROOM
+
+Use the V-Jolt on the roots and they'll shrink. Get out and you'll
+regain control of Chris.
+
+PLANT 42 ROOM
+
+The plant shrinks and drops Chris, but then grows big again. Now
+equip the Beretta and fight! The handgun is fast and allows you to
+aim very high, striking the plant's core. Just don't stay in the same
+spot for too long - shoot two or three bullets, then move to avoid
+the acid. It will take about 30 bullets to kill it. When you're done,
+pick up the C.ROOM KEY from the fireplace and go to the Aquarium Room
+(you'll have a short chitchat with Rebecca in the Wasp Nest Room.
+
+AQUARIUM ROOM
+
+No FMV for Chris - instead, you may find the Neptunes waiting for you
+right in front of the Control Room door! Well, go as fast as you can
+and enter that room, and don't forget to discard the key.
+
+CONTROL ROOM
+
+Lower the water level and unlock the next room, then go there.
+
+ARSENAL
+
+Get the two boxes of SHELLS and the HELMET KEY, but leave the CLIPS
+where they are. Go to the Roots Room.
+
+ROOTS ROOM
+
+Pick up the SMALL KEY from the box near the roots, and go back to the
+Dormitory 002.
+
+DORMITORY 002
+
+Open the desk for a box of SHELLS.
+
+LONG CORRIDOR
+
+Wesker is here. After a dialogue, he will leave. Go to the Bedroom.
+
+BEDROOM
+
+Store the Beretta forever. Save your game. Go back to the Mansion,
+and don't kill the two cerberuses in the Courtyard yet. You'll get a
+radio call from Brad after leaving the Guardhouse.
+
+
+                          -----------------
+                          MANSION - PART II
+                          -----------------
+
+
+DARK CORRIDOR
+
+Now you're about to face the hardest part of the game. You need to
+hear every single sound the hunters make, so turn up the volume of
+your TV. When the first hunter comes towards you, raise the Shotgun
+and shoot. You'll hear the thud it makes when it falls on the floor.
+Soon you'll hear another thud, meaning the hunter is back on its
+feet. Now it's time to shoot again. Repeat until it's dead. Sound is
+very important here, because the camera angles give you a great
+disadvantage against these monsters. Now unlock the Study and get in.
+
+STUDY
+
+Find the switch on the desk and turn on the lamp. Take the MAGNUM
+ROUNDS and the MO DISK, then go to the Stairwell.
+
+STAIRWELL
+
+Switch to the next camera angle and position yourself so that you can
+shoot the first hunter. You should be able to shoot one at a time
+until they're dead. It should take you a full box of Shells -
+sometimes even more. Now read Wesker's note and enter the Storage
+Room.
+
+STORAGE ROOM
+
+Thanks for the SHELLS and the F.AID SPRAY, Wesker, but why that CLIP?
+Anyway, it's time for some serious killings. Have with you the
+Shotgun, the Shells, the Colt Python (load it with those newfound
+Rounds), the Helmet Key, and any healing item. Now you must reach the
+Trophy Room, but it's important that you DON'T reach it via the
+second floor, because the Red Corridor is incredibly dangerous and
+the Dining Room and the Narrow Corridor are LETHAL. First though,
+leave this room and climb the nearby stairs.
+
+CORRIDOR 2F
+
+Don't climb those steps! Face them, then raise the Shotgun. Chris
+will aim at that hunter in the corridor. Now, aim up and shoot. The
+monster will get quite mad and try to reach you, but it can't climb
+down the steps! Kill it from below, then go back and to the Twisted
+Corridor.
+
+TWISTED CORRIDOR
+
+One hunter is lurking near the other door, but it's pretty stupid and
+you should be able to dodge its attack. Go on.
+
+L-SHAPED CORRIDOR
+
+Run and the two spiders will do you no harm. Go on until you reach
+the Green Corridor, and be aware that two spiders are waiting in the
+Sofa Corridor.
+
+GREEN CORRIDOR
+
+Equip the Colt and aim straight ahead. After a few seconds, the first
+hunter will spot you and come to you, probably with a giant leap.
+Shoot it - two Rounds will be more than enough. The second will then
+attack you. Use the same strategy. The third one is usually lurking
+in the small alcove leading to the Tiger Room, so you may have to
+lure it out. Sometimes he will take initiative and attack. It's
+important that you kill them all. Try to use all the Magnum Rounds
+you have, then go to the Wooden Corridor.
+
+WOODEN CORRIDOR
+
+There are two hunters here, but all you want is to make it to the
+second floor, so just dodge them and climb the stairs at the end of
+the hall.
+
+NARROW CORRIDOR
+
+Immediately unlock and enter the Trophy Room.
+
+TROPHY ROOM
+
+Read the ORDERS on the table. Take the MAGNUM ROUNDS and load the
+Colt, then pick up the SHELLS. Now, push the ladder below the moose
+head, and turn off the light. Climb the ladder and take the RED
+JEWEL, then leave and go back downstairs.
+
+WOODEN CORRIDOR
+
+Kill the first 

@@ -1,0 +1,374 @@
+        ,,,,,,,,,. 
+       ,     ___   \            
+     **     /   \   \    __  __     _   _____  ______   ____   ____     _
+   ****    |     |   \  |  \/  |   / \ |_   _|| _____| |  _ \ |_  _|   / \
+  ****      \___/     | | |\/| |  //_\\  | |  |  _|    | |_) | |  |   //_\\
+  *****               , | |  | | / ___ \ | |  | |____  |  _ <  |  |  / ___ \
+   **********        ,  |_|  |_|/_/   \_\|_|  |______| |_| \_\|____|/_/   \_\
+     **********  ***    
+       ***********  
+         *******   
+                 
+        
+
+              ---Final Fantasy VII Materia Setups and Combos---
+                                   v. 1.2
+                                 Playstation
+                         Written by Stewart Bishop
+
+Copyright 1998-1999 by Stewart Bishop
+
+This FAQ may be reproduced electronically, altered or unaltered as long as this
+disclaimer remains intact. If this document is altered in any way, shape, or
+form, you must give credit where credit is due, as well as state that the
+file is in actuality an altered work of the original. This FAQ may NOT be used
+for any profitable or promotional purposes _what-so-ever_ in *ANY* way unless
+I am contacted beforehand.
+
+All questions, comments, additions, submissions, flames, etc. should be sent to
+Stewart Bishop (Cidster@rotfl.com). If for some reason you have contributed to
+ this FAQ and I have not acknowledged or given you credit, please correct me at
+the above e-mail address.
+
+Final Fantasy VII is copyrighted by Squaresoft and Sony Computer Entertainment.
+
+*****************
+TABLE OF CONTENTS
+*****************
+
+I.   Introduction
+II.  Revisions/Updates 
+III. Materia Combos
+     A. Basic Materia Combos
+     B. Complex Materia Combos
+IV.  Materia Setups
+V.   Thank Yous
+
+************
+INTRODUCTION
+************
+
+Ok, so I'm very tired and very bored. I've decided to write an FFVII Materia
+Combo/Setup Guide. These setups are mainly for people that have already
+beaten the game and just want to have a bit of fun smoking Sephiroth at the
+end. Or, maybe, if some people contribute, they can be used to advance
+in the game more easily with the use of some useful materia combos or setups.
+With this in mind, let's move on...
+
+You can find the latest updates of this FAQ as well as some other FAQs I've
+written at http://www.gamefaqs.com
+
+*****************
+REVISIONS/UPDATES
+*****************
+
+04/13/99: v.1.2 Added some setups. Have fun.
+
+12/23/98: v.1.1 Added another combo and setup. Keep em comin'!
+                Fixed an embarrassing typo in the introduction. Don't worry,
+                you probably don't get it, but if you were me, you'd probably
+                be embarrassed too ^_^
+                ...And check it out, some ASCII art! Heh...I bet you're just
+                overjoyed ^_^ Geez, sorry, it's one of my firsts, I'm trying
+                here, people!!
+
+12/19/98: v.1.0. Just starting.
+
+**************
+MATERIA COMBOS
+**************
+
+(Dashes indicate paired materia slots)
+
+-=======BASIC MATERIA COMBOS=======-
+
+WEAPON/ARMOR: Added Effect-Contain
+        When placed in a weapon, attacks may petrify, confuse, berserk, or
+        paralyze an opponent. Placed in armor, this combo will protect your
+        character from the above effects.
+
+WEAPON/ARMOR: Added Effect-Destruct
+        When placed in a weapon, some attacks will instantly kill an opponent.
+        When placed in armor, you will be immune to instant death attacks.
+
+WEAPON/ARMOR: Added Effect-Mystify
+        When placed in a weapon, some attacks can berserk or confuse an
+        opponent. Placed in armor, you will be immune to berserk and
+        confusion.
+
+WEAPON/ARMOR: Added Effect-Poison
+        When placed in a weapon, attacks may poison an opponent. Placed in
+        armor, this combo will protect your character from poison attacks.
+
+WEAPON/ARMOR: Added Effect-Seal
+        When placed in a weapon, attacks may silence or sleep an opponent.
+        Placed in armor, you will be immune to silence and sleep.
+
+WEAPON/ARMOR: Added Effect-Time
+        When placed in a weapon, some attacks may slow or paralyze an
+        opponent. Placed in armor, you will be immune to slow and
+        paralyzation.
+
+WEAPON/ARMOR: Added Effect-Transform
+        When placed in a weapon, some attacks may cause mini or frog on an
+        opponent. Placed in armor, you will be immune to mini and frog.
+
+WEAPON/ARMOR: Command Counter-Deathblow
+        When hit, your character may counter attack with a deathblow.
+
+WEAPON/ARMOR: Command Counter-Manipulate
+        When hit, your character may counter by manipulating the attacking
+        opponent.
+
+WEAPON/ARMOR: Command Counter-Mime
+        When hit, your character may counter attack with the last command
+        that was performed.
+
+WEAPON/ARMOR: Command Counter-Morph
+        When hit, your character may counter attack by morphing.
+
+WEAPON/ARMOR: Command Counter-Steal
+        When hit, your character may steal from the attacking opponent.
+
+WEAPON/ARMOR: Elemental-(Elemental Magic/Elemental Summons)
+        Placed in a weapon, you will strike with the power of the element
+        that is connected to the Elemental materia. In armor, you will recieve
+        extra protection from the element that is connected to the Elemental
+        materia.
+
+WEAPON/ARMOR: Final Attack-Revive
+        After your character dies, he/she will be automatically revived.
+
+WEAPON/ARMOR: Final Attack-Knights of the Round
+        Your character will perform the most powerful summon as a last action.
+
+WEAPON/ARMOR: Final Attack-Mime
+        Your character will perform the last command done after he/she falls.
+
+WEAPON/ARMOR: HP Absorb-(Command/Magic Materias that cause damage to an
+              opponent)
+        After performing most command/magic materias, you will absorb some
+        HP.
+
+WEAPON/ARMOR: MP Absorb-(Command/Magic Materias that cause damage to an
+              opponent)
+        After performing  most command/magic materias, you will absorb some
+        MP.
+
+WEAPON/ARMOR: MP Turbo-Knights of the Round
+        For an extra 5 MP, your Knights of the Round will deal 129,987 damage.
+
+WEAPON/ARMOR: Quad-Magic-Summons (Except Knights of the Round)
+        You will be able to cast a summon spell 4 times in sequence, provided
+        you have enough mana to do so.
+
+WEAPON/ARMOR: Quad-Magic-Any Magic Materias
+        You will cast any magic materias 4 times in sequence, provided you
+        have enough mana to do so.
+
+-=======COMPLEX MATERIA COMBOS=======-
+
+ARMOR: Elemental-(Materia that involves an element), Contain
+       Use contain to cast a super-powerful elemental attack at yourself,
+       to heal.
+
+WEAPON/ARMOR: HP Absorb-Master Summon/Knights of the Round, MP Turbo-Master
+              Summon/Knights of the Round
+        Whenever you use Knights of the Round, you will absorb tons of HP
+        and deal about 130,000 damage to all opponents.
+
+WEAPON/ARMOR: Mega-All, Master Command/Master Magic
+        All of your Commands/Spells will target all opponents.
+
+WEAPON/ARMOR: Comet (Level 2)-Quadra Magic, Comet (Level 2)-HP Absorb, Comet
+              (Level 2)-MP Absorb
+        Comet level 2 hits opponents 4 times. Pack this with a Quadra magic
+        and you have 16 merciless hits that absorb both HP and the MP that was
+        lost in the casting. --CONTRIBUTED BY FELLLIX@AOL.COM--
+
+WEAPON/ARMOR: MP Absorb-Master Summon/Knights of the Round, MP Turbo-Master
+              Summon/Knights of the Round
+        Whenever you use Knights of the Round, you will absorb tons of MP
+        and deal about 130,000 damage to all opponents.
+
+WEAPON/ARMOR: Sneak Attack-Knights of the Round, MP Turbo-Knights of the
+              Round/Master Summon, HP <--> MP
+        Start a battle with a Knights of the Round that deals 129,987 damage.
+        The HP <--> MP materia should allow for enough MP to keep doing this
+        over and over again.
+
+WEAPON/ARMOR: Sneak Attack-Knights of the Round, MP Absorb-Knights of the
+              Round/Master Summon
+        Start a battle with Knights of the Round. You should absorb more than
+        250 MP, thus allowing you to do this over and over again.
+
+WEAPON/ARMOR: Sneak Attack-Deathblow, Mega-All, Pre-Emptive
+        Start a round with a Deathblow to all your opponents' backs.
+
+WEAPON/ARMOR: W-Summon-Master Summon/Knights of the Round, MP Turbo-Master
+              Summon/Knights of the Round, Mime
+        Deal 259,974 damage to all targets. Repeat as necessary,
+
+WEAPON/ARMOR: W-Summon-Master Summon/Knights of the Round, Mime
+        Cast Knights of the Round twice, and mime until opponent(s) are dead.
+
+
+**************
+MATERIA SETUPS
+**************
+
+The Sephiroth:
+        Total Slots Required: 12
+        Linked Materia Slots Required: 12
+
+WEAPON/ARMOR: Fire-All, Earth-All, Ice-All, Lightning-All, Final
+              Attack-Revive, Master Magic-MP Absorb
+
+This is _close_ to how Sephiroth is equipped. I know Sephiroth doesn't use
+fire, all magic, and doesn't revive when dead. However, the Fire-All would
+complete his elemental attacks that target all opponents. He deserves every
+spell since he _is_ a dedicated magic user, and normally he can't get hurt
+so the best way to go is to not make him die ^_^
+
+Ultima:
+        Total Slots Required: 12
+        Linked Materia Slots Required: 12
+
+WEAPON/ARMOR: Ultima-MP Absorb, Ultima-HP Absorb, Ultima-Sneak Attack,
+              Ultima-MP Turbo, Ultima-Quad Magic, Ultima-Final Attack
+
+This can be done with any Magic Materias, but I thought was best effective
+with Ultima and Contain (I just chose Ultima because it targets all enemies).
+It will enable you to cast a super-powered Ultima 4 times while absorbing HP
+and MP at the same time. Not too shabby, eh?
+
+The Summoner:
+        Total Slots Required: 13
+        Linked Materia Slots Required: 12
+
+WEAPON: Knights of the Round-MP Turbo, Final Attack-Phoenix, Master Summon-MP
+        Absorb, Elemental-(Your favorite elemental summon)
+
+ARMOR: Quad Magic-Hades, Sneak Attack-Choco/Mog, W-Summon
+
+This takes advantage of the powerful summon spells. You have all summons
+available to you and absorb MP when you cast them. When you are low on MP,
+you can cast Knights of the Round to regain it all again while dealing the
+maximum amount of damage to your opponents. You also begin a battle with
+Choco/Mog, which can paralyze some opponents. You will have an element in your
+weapon, and your final attack will deal fire damage to all opponents while
+reviving all party members to full HP.
+
+Ultimate Character:
+        Total Slots Required: 14
+        Linked Materia Slots Required: 6
+
+(Ultimate Weapons and Mystiles/Escort Guards Recommended)
+
+NOTE: THESE MATERIAS SHOULD BE MASTERED FOR BEST EFFECT
+
+WEAPON/ARMOR: Master Magic, W-Magic, MP Absorb-Master Summon, MP
+              Turbo-Knights of the Round, Master Command, Enemy Skill,
+              W-Summon, Slash-All, Mega All, HP Plus, Final Attack-Phoenix
+
+This is perhaps the best Materia Setup you can have in the game. Since I have
+no life, I have equipped this setup on *ALL* of my characters (Yeah, I'm sick,
+huh?). The Master Magic gives a character all the spells, while W-Magic lets
+you use two spells in one turn. The Master Command activates most commands,
+and a mastered Enemy Skill will give you some nice spells (Big Guard anyone?).
+The Slash-All (Mastered), will give you Flash, which can instantly kill all
+opponents. The HP Plus should boost your characters HP up to 9999. The famous
+"Knights of the Round causes 129,987 damage each time it is cast, while
+absorbing abnormal amounts of MP" is also here, and you can cast it twice with
+the W-Summon enabled. The Final Attack-Phoenix protects your entire party from
+death while dealing Fire damage to all opponents. Wicked, huh? ^_^
+
+The Counterer:
+        Total Slots Required: 14
+        Linked Materia Slots Required: None
+
+(Best used with Yuffie with a Mystile and her Conformer against Emerald
+WEAPON).
+
+WEAPON/ARMOR: HP Plus, Cover, Counter Attack, Counter Attack, Counter Attack,
+Counter Attack, Counter Attack, Counter Attack, Counter Attack, Counter
+Attack, Counter Attack, Counter Attack, Counter Attack, Counter Attack
+
+This is how I beat Emerald WEAPON. I equipped this on Yuffie with her
+Conformer. Every time someone was hit, she would block for them and counter
+12 times, each attack doing 9999 damage (119,988 total).
+
+Master Commando (Get it?! Get it!?!?):
+        Total Slots Required: 14
+        Linked Materia Slots Required: 12
+
+WEAPON/ARMOR: Master Command-HP Absorb, Master Command-MP Absorb, Master
+Command-Steal as Well, Master Command-Added Cut, Master Command-Command
+Counter, Master Command-Sneak Attack, Cover, Double Cut/Slash-All
+
+DESCRIPTION: ...when linking Master Command with any blue (support) materia,
+and the character also has 2x-Cut/Slash-All will have the effect of the blue
+materia. For example, if I link Master Command with HP Absorb, and then in
+battle, I attack with 2x Cut, I absorb HP. *NOTE* I know this makes no sense
+at all, and I have no idea why this works. --SETUP AND DESCRIPTION
+CONTRIBUTED BY KAINDADRAGOON@YAHOO.COM--
+
+WEAPON Killer:
+Linked Slots: 6
+Total Slots:16
+Recommended Weapon: Any Ultimate Weapon
+Recommended Armor: Wizard Bracelet (mostly for its high Magic Defence and 8
+linked slots)
+
+WEAPON/ARMOR: Enemy Skill(Big Guard), Mime, Final Attack-Phoenix, MP
+Turbo-Knights of the Round, HP Absorb-Master Summon, Underwater (If facing
+Emerald WEAPON), HP Plus, Master Command, Master Magic-Quadra Magic,
+W-Summon, W-Magic, Mega All
+
+This is my favorite combination to use once you have it all.  If you want to
+fight those American Creatures, All you have to do is have a mime on your
+other two characters and you can cast two Knights of the Round for 13,000
+damage and gain back around 7000 hp and keep doing it over and over. The
+underwater materia stops the timer on Emerald Weapon and if your not facing
+one of the bosses, your still have about everything you could want.  I have
+yet to find a better setup than this. --SETUP AND DESCRIPTION CONTRIBUTED
+BY ZOMBIE MAT--
+
+Hell Knight:
+
+Linked Slots: 14
+Total Slots: 16
+Recommended Weapon: None
+Recommended Armor: Wizard Bracelet
+
+WEAPON/ARMOR: Quad-Magic-Fire, MP Turbo-Fire, MP Absorb-Fire, HP Absorb-Fire,
+Added Cut-Fire, Added Steal-Fire, Magic Counter-Fire, W-Magic, Magic Plus
+
+
+It's pretty obvious..with one casting, you get 8 Fire 3s, two attacks, 8 steal
+attempts, and end up with a lot more HP and MP than you started with.  The
+Magic Counter is just there to add some extra bang to it.  I killed the Dragon
+Zombie in the last cave with this, before the combo was even halfway through,
+and I hadn't even had my turn yet!  Personally, I think this beyond-evil combo
+is the best in the game.   If you dont have enough Fire materia at level 3,
+you can drop the Absorbs and the Turbo.  --SETUP AND DESCRIPTION CONTRIBUTED
+BY SYNOAS@AOL.COM--
+
+**********
+THANK YOUS
+**********
+
+Felllix@aol.com
+kaindadragoon@yahoo.com
+synoas@aol.com
+
+Please, I need contributions for Materia Combos/Setups! Mail me at
+Gawain@The-Pentagon.Com, please!
+
+NOTE: When contributing a combo or setup, mail it to me IN THE FORMAT THAT I
+HAVE USED IN THIS GUIDE. Failure to do so will result in deletion. Sorry,
+but I really need to save myself some time and I would greatly appreciate it.
+Thanks!
+
+
+Copyright 1998 Stewart Bishop

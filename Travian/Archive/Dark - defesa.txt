@@ -1,0 +1,336 @@
+dark => emanuele01
+galo doido => emanuele
+nadhia => melisa!
+fox => cpd
+
+01 às 06:00:19 hora - limpeza
+*02 às 06:00:41 hora - limpeza
+*03 às 06:01:04 hora - inicio de serie (horario EXATO)
+*04 às 06:01:05 hora - inicio de serie (horario EXATO)
+*05 às 06:01:06 hora - inicio de serie
+*06 às 06:01:55 hora - limpeza
+*07 às 06:01:29 hora - meio de serie
+*08 às 06:02:29 hora - inicio de serie
+*09 às 06:04:37 hora - limpeza (horario exato)
+*10 às 06:05:22 hora - inicio de serie
+*11 às 06:05:41 hora - limpeza
+*12 às 06:06:02 hora - limpeza
+*13 às 06:06:41 hora - limpeza
+*14 às 06:08:19 hora - inicio de serie
+*15 às 06:08:38 hora - inicio de serie
+*16 às 06:09:25 hora - limpeza
+*17 às 06:11:19 hora - possivel limpeza
+18 às 06:38:01 hora - inicio de serie
+19 às 06:38:05 hora - meio de serie
+
+
+
+OK
+14. Aizza - 09 às 06:04:37 hora - limpeza (horario exato)
+em 1:16:50 h
+
+OK
+17. KENJI GT (fraco) - 07 às 06:01:29 hora - meio de serie
+em 1:07:05 h
+
+OK
+*01 - Galo Doido GT - 03 às 06:01:04 hora - inicio de serie (horario EXATO)
+em 0:48:00 h
+
+OK
+01. Camelot - 
+	02 às 06:00:41 hora - limpeza (5K)
+	04 às 06:01:05 hora - inicio de serie (horario EXATO)
+	06 às 06:01:55 hora - limpeza
+em 0:45:42 h
+
+OK
+10. MOLINA - 05 às 06:01:06 hora - inicio de serie
+em 0:42:26 h
+
+OK
+*04 - FRIKAGT - 01 às 06:00:19 hora - limpeza
+em 0:38:00 h
+
+OK
+23. Ryu Airi GT - 08 às 06:02:29 hora - inicio de serie
+em 0:38:25 h
+
+OK
+13. Chuck GT - 06 às 06:01:55 hora - limpeza
+em 0:24:00 h
+
+OK
+16. T.I.T.A. - 06 às 06:01:55 hora - limpeza
+em 0:21:38 h
+
+OK - TORTO
+09. Lake of Fire - 10 às 06:05:22 hora - inicio de serie
+em 0:18:58 h
+
+OK
+11. Mestre GT - 14 às 06:08:19 hora - inicio de serie
+em 0:18:58 h
+
+OK
+*06 - Galo - 16 às 06:09:25 hora - limpeza
+em 0:18:58 h
+
+OK
+*05 - Galo Street GT - 17 às 06:11:19 hora - possivel limpeza
+em 0:16:58 h
+
+
+
+03. Excalibur - 09 às 06:04:37 hora - limpeza (horario exato)
+em 0:06:00 h
+
+
+04. Merlim - 10 às 06:05:22 hora - inicio de serie
+em 0:06:00 h
+
+08. Fire GT - 18 às 06:38:01 hora - inicio de serie
+em 0:13:25 h
+
+
+06. Atletico - MG - 15 às 06:08:38 hora - inicio de serie
+em 0:08:29 h
+
+
+05. CaledfWich - 18 às 06:38:01 hora - inicio de serie
+em 0:06:00 h
+
+12. Jack Matador - 18 às às 06:36:36 hora
+em 0:06:00 h
+
+
+
+
+
+
+--------------------------------------------------------------
+
+
+
+
+
+Tarantula A
+  em 3:56:11 h 	às 06:00:01 hora
+
+WAR -^Nightmare^
+  em 3:56:29 h 	às 06:00:19 hora
+
+Tarantula A
+  em 3:56:42 h 	às 06:00:32 hora
+
+{2} UnderGods Mythz
+  em 3:56:51 h 	às 06:00:41 hora
+
+{2} UnderGods Mythz
+  em 3:57:00 h 	às 06:00:50 hora
+
+{2} UnderGods Mythz
+  em 3:57:09 h 	às 06:00:59 hora
+
+Tarantula A
+  em 3:57:14 h 	às 06:01:04 hora
+
+Tarantula A
+  em 3:57:15 h 	às 06:01:05 hora
+
+Tarantula A
+  em 3:57:15 h 	às 06:01:05 hora
+
+Tarantula A
+  em 3:57:16 h 	às 06:01:06 hora
+
+Tarantula A
+  em 3:57:16 h 	às 06:01:06 hora
+
+{2} UnderGods Mythz
+  em 3:57:16 h 	às 06:01:06 hora
+
+{2} UnderGods Mythz
+  em 3:57:22 h 	às 06:01:12 hora
+
+
+{2} UnderGods Mythz
+  em 3:57:31 h 	às 06:01:21 hora
+
+{2} UnderGods Mythz
+  em 3:57:39 h 	às 06:01:29 hora
+
+
+{2} UnderGods Mythz
+  em 3:57:45 h 	às 06:01:35 hora
+
+
+{2} UnderGods Mythz
+  em 3:57:53 h 	às 06:01:43 hora
+
+
+{2} UnderGods Mythz
+  em 3:58:02 h 	às 06:01:52 hora
+
+
+[ A ] - £™
+  em 3:58:05 h 	às 06:01:55 hora
+
+
+{2} UnderGods Mythz
+  em 3:58:13 h 	às 06:02:03 hora
+
+
+{2} UnderGods Mythz
+  em 3:58:21 h 	às 06:02:11 hora
+
+
+[ A ] - £™
+  em 3:58:39 h 	às 06:02:29 hora
+
+
+[ A ] - £™
+  em 3:59:07 h 	às 06:02:57 hora
+
+
+[ A ] - £™
+  em 3:59:37 h 	às 06:03:27 hora
+
+
+[ A ] - £™
+  em 4:00:05 h 	às 06:03:55 hora
+
+
+[ A ] - £™
+  em 4:00:27 h 	às 06:04:17 hora
+
+
+C.A.M.
+  em 4:00:47 h 	às 06:04:37 hora
+
+
+[ A ] - £™
+  em 4:00:49 h 	às 06:04:39 hora
+
+
+[ A ] - £™
+  em 4:01:24 h 	às 06:05:14 hora
+
+
+C.A.M.
+  em 4:01:32 h 	às 06:05:22 hora
+
+
+C.A.M.
+  em 4:01:41 h 	às 06:05:31 hora
+
+
+C.A.M.
+  em 4:01:50 h 	às 06:05:40 hora
+
+
+[ A ] - £™
+  em 4:01:50 h 	às 06:05:40 hora
+
+GODDESS-i
+  em 4:01:51 h 	às 06:05:41 hora
+
+C.A.M.
+  em 4:02:01 h 	às 06:05:51 hora
+
+RAQUEL-c-i
+  em 4:02:12 h 	às 06:06:02 hora
+
+C.A.M.
+  em 4:02:13 h 	às 06:06:03 hora
+
+[ A ] - £™
+  em 4:02:24 h 	às 06:06:14 hora
+
+C.A.M.
+  em 4:02:30 h 	às 06:06:20 hora
+
+C.A.M.
+  em 4:02:39 h 	às 06:06:29 hora
+
+GODDESS-i
+  em 4:02:51 h 	às 06:06:41 hora
+
+C.A.M.
+  em 4:02:52 h 	às 06:06:42 hora
+
+C.A.M.
+  em 4:03:03 h 	às 06:06:53 hora
+
+C.A.M.
+  em 4:03:20 h 	às 06:07:10 hora
+
+GODDESS-i
+  em 4:03:55 h 	às 06:07:45 hora
+
+C.A.M.
+  em 4:04:05 h 	às 06:07:55 hora
+
+C.A.M.
+  em 4:04:29 h 	às 06:08:19 hora
+
+C.A.M.
+  em 4:04:36 h 	às 06:08:26 hora
+
+GODDESS-i
+  em 4:04:45 h 	às 06:08:35 hora
+
+C.A.M.
+  em 4:04:48 h 	às 06:08:38 hora
+
+C.A.M.
+  em 4:05:03 h 	às 06:08:53 hora
+
+C.A.M.
+  em 4:05:17 h 	às 06:09:07 hora
+
+C.A.M.
+  em 4:05:31 h 	às 06:09:21 hora
+
+GODDESS-i
+  em 4:05:35 h 	às 06:09:25 hora
+
+C.A.M.
+  em 4:05:49 h 	às 06:09:39 hora
+
+C.A.M.
+  em 4:06:07 h 	às 06:09:57 hora
+
+GODDESS-i
+  em 4:07:29 h 	às 06:11:19 hora
+
+
+GODDESS-i
+  em 4:07:44 h 	às 06:11:34 hora
+
+GODDESS-i
+  em 4:08:45 h 	às 06:12:35 hora
+
+[01] Tabacaria
+  em 4:32:46 h 	às 06:36:36 hora
+
+[01] Tabacaria
+  em 4:34:11 h 	às 06:38:01 hora
+
+[01] Tabacaria
+  em 4:34:14 h 	às 06:38:04 hora
+
+[01] Tabacaria
+  em 4:34:15 h 	às 06:38:05 hora
+
+[01] Tabacaria
+  em 4:34:16 h 	às 06:38:06 hora
+
+[01] Tabacaria
+  em 4:34:16 h 	às 06:38:06 hora
+
+[01] Tabacaria
+  em 4:34:17 h 	às 06:38:07 hora
+
+[01] Tabacaria
+  em 4:34:18 h 	às 06:38:08 hora

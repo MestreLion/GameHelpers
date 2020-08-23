@@ -1,0 +1,352 @@
+0.  Preface
+   0.1 introduction
+   0.2 File formats
+      0.2.1 CPU/PPU introduction
+      0.2.2 CHR data format
+   0.3 Tools you should use
+      0.3.1 Pasofami
+      0.3.2 readchar.exe
+      0.3.3 hexeditor
+      0.3.4 xlate
+
+1.  graphic modification
+   1.1 Using pasofami
+      1.1.1 Button 1 (cutting/pasting)
+      1.1.2 Button 2 (drawing)
+      1.1.3 Button 3 (Palletes)
+      1.1.4 Button 4 (Saving)
+           1.1.4.1 external chr roms
+           1.1.4.2 imbedded chr roms
+
+2.  text modification
+   2.1 Finding the font address
+   2.2 Making a table
+   2.3 doin the fukkin shit
+
+
+--
+
+0. preface
+
+0.1 - introduction
+
+  a lot of people have been asking me to make something like this, cause my experiences with ff2j have given me a skill a lot of people would like to learn.  the technical term for what i do is rom hacking, but it's only that in a literal sense.. i'm not going to be teaching any of you how to train games, or code demos, i focus more on the graphic or text content of roms, while keeping the code intact. this document pretains *only* to NES rom hacks; i haven't tried anything with snes yet. i don't know how similar it would be.. 
+
+  if you have any questions, need files mentioned in here, or notice bugs, email me at demi@frognet.net or sdemet9@mail.idt.net or find me on EFnet irc as demi or something..
+
+  lastly, i don't really give a flying fuck about what copyright laws i'm violating in here, since this is only for the love of archaic consoles, nothing more. most of these roms are on ther verge of losing their copyright, anyhow. if you really feel an obligation to buy the games before you hack their roms, go ahead.
+
+
+0.2 - file formats
+
+  0.2.1 - CPU/PPU introduction
+
+      in a NES rom, there are 2 types of media, CPU (the rom code, referred to as prg), and PPU (picture and character data, referred to as chr).  the formats for both can be explained in detail in marat fayzullin's nes.doc.  the rom code is your usual shit, miserable 6502 code, in exponential sizes. standard sizes of prg are usually 65536, 131072, or 26144 bytes. 
+
+      chr data is organized in one of two ways in a rom. one, it could be appended onto the end of the rom code (in this case, the rom in pasofami format will exist as a .prg file and a .chr file).  on the other hand, sometimes chr data is mixed in with the rom. in this case, when the rom is in pasofami format, there will be no chr file, just a prg file. this is a little harder to manipulate, cause pasofami has a bug that always saves to an external chr file after editing (bleh).
+
+
+  0.2.2 - CHR data format
+
+      here's some stuff i've learned about chr data. each 'tile', as i call them, is what pictures or graphic icons in the NES are made up of.  each tile is 4 colors, 8x8 pixels.  if you do the math, you'll find that each tile can be fit into 16 bytes. (this works good for hexeditors, it's nice and neat that way.)  
+
+when the NES loads chr stuff into the PPU, it loads them in 8k chunks, called 'banks'.  each bank is $2000 bytes, and includes 512 tiles. 
+
+--
+
+let's take this tile for instance. this is how it's going to look in a hexeditor. 
+
+50 50 50 52 70 52 52 52  00 FF 00 FF 00 FF 00 FF  
+
+each byte represents one horizontal 8x8 line.  if we break the byte $50 down into binary, we see that it represents 01010000. when you couple it with the next few bytes, it starts to make a rudementary pattern, which will ultimately become the graphic (palette excluded). here's the first 8 bytes' graphic equivalent (0's are . and 1's are X). the first 8 bytes control the form of the first color (color 1).
+
+50  .X.X....  so, if color #1 
+50  .X.X....  is white in this
+50  .X.X....  tile, you will 
+52  .X.X..X.  see 'Hi' in white.
+70  .XXX....
+52  .X.X..X.
+52  .X.X..X.
+52  .X.X..X.
+
+here's the image now, for the remaining 8 bytes.
+
+00  ........
+FF  XXXXXXXX
+00  ........  (lame overlay)
+FF  XXXXXXXX
+00  ........
+FF  XXXXXXXX
+00  ........
+FF  XXXXXXXX
+
+
+  
+so, where the X's are, the NES will draw in colors. but you may ask, as you are on the edge of your seat, 'where do the 3rd and 4th colors come from?$@#!$@!#' well, it's all due to the overlapping procedure.. the nes PPU overlaps the image from the first 8 bytes onto the second 8 bytes.  the spaces where there is no X in both either of them becomes color 0 (transparent) and the spaces where there was an X in both becomes color 3.  here's the finished tile, as it would look in a NES.
+
+50 & 00  01010000
+50 & FF  23232222     bleh! that looks ugly, ne?
+50 & 00  01010000     it's hard to picture in ascii,
+52 & FF  23232232     but on a NES it would like a 
+70 & 00  01110000     'Hi' with some lines going 
+52 & FF  23232232     across it and some highlighted
+52 & 00  01010010     points where the 2 cross.
+52 & FF  23232232
+
+
+
+0.3 tools you should use
+
+  0.3.1 - Pasofami
+
+    pasofami's built-in debugger is the most useful tool i use for editing ff2j.. it will let you view the contents of the chr data, which is a big step in where you want to get.  like i explained above with the CHR data, it's tough to manually count out the steps and bits, so in pasofami, you can skip all that by just drawing and erasing :)
+
+  to access the debugger, in case you don' have a translated version of pasofami (for you lame ass newbies), just go too the 2nd menu option, and hit the first selection.  be sure to have the window setting on the lowest one (size 1 to 1) otherwise it'll fuck up the debugger. when you enter the debugger, it'll look like this:
+
++-------------------------+---------------------------+
+|                         | this shows ya the current |
+|                         | tiles being edited. if    |
+|   this is like, the     | the rom uses a separate   |
+|   game screen           | file, it will show you all|
+|                         | the tiles in the rom.     |
+|                         |                           |
+|                         | if there is no external   |
+|                         | chr file, it will show you|
+|                         | the current chr page in   |
+|                         | the PPU ($2000 bytes)     |
++-----------------------------------------------------+
+|                         | there are 4 buttons here. |
+|                         | from the left, the first  |
+|   temp workspace        | one is like a cut and     |
+|                         | paste util. the next one  |
+|  (16 slots! woowoo)     | is for drawing. next is to|
+|                         | switch pallette colors.   |
+|                         | the last one is for saving|
+|                         |                           |
+|                         |                           |
+|                         |                           |
++-----------------------------------------------------+
+
+like i said up there,  chr data is loaded in 8192 byte banks. that bank will show up in the top right area of the debugger, and you can scroll thru it and whatever. if the rom has an external chr file, then pasofami automatically loads the whole fukkin chr into memory, so you can see all of your chr right there, just scroll down.
+
+if there is no external chr file, then you will see only the banks as paso loads them into its pseudo-PPU. like, if you want to see the chr data where the letter characters are stored, you must be at a point in the game where text is loaded on the screen.
+
+** (important) as for reading the offset of a chr tile, you just take the vertical number, then the horizantal number, then add a 0. so like, if there's a tile at 7*B in the debugger, then it's at address 7B0 in the chr file. (note : this does NOT work for roms with no external chr file, you need readchar for that.)
+
+
+     0.3.2 - readchar.exe
+
+readchar is pretty god damn useful, if you're not sure just where in a rom your chr data is.  i forgot who made it.. i think it was minus, but i could be wrong.  it's a simple dos program that prompts you for a filename, then reads the entire file in 8192 byte onscreen segments. rom code will look like garbage.. you'll know when you've hit chr data. without this, you won't know where to cut and paste your graphic edits once you've modified them in pasofami.
+
+
+     0.3.3 - hexeditor
+
+i'm not going to bother with how to use a hexeditor.. if you don't know hex, or can't figure out how to look up a help index in a hexeditor you own, then you're too lame to be reading this document.
+
+i reccomend hex workshop; it has everything i need for doing edits on ff2j. comparing and cut/paste utils are a big plus.
+
+
+     0.3.3 - xlate
+
+xlate was made by the_brain. it's a a pretty unique util that had much potential, but he stiffed me and now there's no more updates. bigwierd made new versions in quickbasic, but it's slower.  
+
+it's tricky to describe its functions.. in a normal hexeditor, bytes are represented with ascii characters. what xlate does is take a table file (created by you) of bye equivalencies to characters defined by the rom (companies rarely used ascii standards for their text encoding).  with a normal hexeditor, you can't see jack shit of text in a rom. with xlate, you can manipulate what bytes define the characters, so you can see the text by the way it was meant to be seen in the rom.
+
+let's take a segment from ff2j, for example. 
+
+8F AC AA AB B7
+
+under a normal hexeditor (ascii), it would look like crap. Å¼¬½+ to be exact.
+
+but as i said, squaresoft didn't use standard ascii codes for their text. 8F means F, AC means i, etc.. it's xlate's job to reallign the text codes into something that looks right.
+
+the format for creating a xlate 1.00 table is like this :
+
+<A> <B> <C>
+8F   F   F
+AA   g   g
+AB   h   h
+AC   i   i
+B7   t   t
+...
+
+A: column A is the byte addressed.
+B: column B is the key you press to call the letter in column C.
+C: column C is the text displayed to us while in xlate, in place of the byte in column A.
+
+so, in xlate, when bytes 8F,AC,AA,AB,B7 are addressed, they look like 'Fight'. pretty handy, ne? :)
+
+--
+
+there are a few bugs in xlate 1.00.
+
+*byte 00 cannot be addressed. dunno why. if you have some sort of equivalency in for 00, it won't let you type it in. you'll just have to deal with it. :( 
+
+*don't scroll down past 100%.. there's no prevention against it, so you'll just keep scrolling down into infinity.. it will keep appending junk onto the end of your rom, too.. 
+
+*you CAN'T put in multiple letters for column B.. i mean, xlate only accepts one keystroke per entry anyhow, so you can't really address multiple letters well in here. i just use a hexeditor for this.
+
+
+
+
+
+1.0 - graphic modification
+
+    Graphic modification is cool for editing simple shit, like efx's zelda-mario combinations. using tools provided by pasofami, you can alter the tiles which make up sprites, backgrounds, or fonts, and get pretty fuct up results.  i've done all my graphic modifications in pasofami, so that's what i'll be covering in here.
+
+   The extent of graphic editing is as i said above: sprites, backgrounds, and fonts. if you want your game to display all letters in cursive or change the output of the letter 'S' to 'Z' (for you warez pups), graphic editing can accomplish that. if you want to change complete words, such as ZELDA->MARIO, then you'd be better off going to section 2, text modification.
+
+
+
+  1.1 - Using pasofami
+
+    One thing you should know about this section is that in the paso debugger, there are 4 buttons that are in japanese in the lower right area. i will refer to them as 'button 1', or 'button 4'. i refer to them from the left, so button 1 is the leftmost button; it controls cutting and pasting.  button 2 controls drawing, button 3 controls palette swapping, and button 4 (the rightmost button) saves your work.
+
+    Furthermore, as explained in the pasofami section above, there are 4 main quadrants of the pasofami debugger. top right == chr data area; top left == game display area; bottom left == temp workspace area; bottom right == colors/palettes/buttons area. i will be referring to the quadrants in this way from now on.
+
+    The rom you edit will have to be in pasofami format. i suggest nesimage 3.2 or aster. one of the most tricky aspects of the pasofami format is that a confusing .prm configuration file must be made for each rom you use. aster sometimes successfully will create a .prm file for you, but it won't always work. i sat doen on a saturday and studies printouts of different games' .prm files, which is really the only good way to learn them. one trick that's sometimes helped me is to find another rom (already in paso format) that has the same file size(s) as the rom you're trying to convert. usually, it should work, since most of the .prm file consists of memory mapping and fille allocation.
+
+  1.1.1 - Button 1 (cutting/pasting)
+
+    Cutting and pasting is pretty easy in pasofami, you just have to know what to do. the debugger's pretty much all untranslated, so you have to figure out what the shit does (or look in this document, i've explained it for you :).  
+
+     First, choose button 1.  hopefully, a little blue dialogue box in japanese will pop up. this will signify that pasofami's tile buffer is waiting to be filled (you now select a tile to be copied).  if no blue box appears, then you're not in cut/paste mode.
+
+     When you click on a tile from either the temp workspace area or the chr data area, the pop up box will turn red. this signifies that there's now a tile in the buffer, waiting to be pasted. just click on the destination, in either the temp workspace area or the chr data area to paste it.
+
+
+
+  1.1.2 - Button 2 (drawing)
+
+    choosing colors to draw in pasofami can be a bitch sometimes. in the lower right area, you will see the 8 color palettes used in that game. the individial boxes will have hex addresses or something japanese in them, i haven't really figured out what they mean yet.  a diagram of one color palette bar is as shown:
+
+_________________
+|      A        |
++---+---+---+---+
+| B | C | D | E |
++---+---+---+---+
+
+A: click on this area to select this 4 color palette.
+B: this represents color 0 (usually black, it's the transparent color.)
+C: color 1.
+D: color 2.
+E: color 3.
+
+just click on button 2, then area B, C, D, or E to start drawing with that specific color.  NOTE: you can *ONLY* modify tiles in the temporary workspace. you can't draw anything directly onto the game screen, nor the chr data area. it must be placed onto the temp workspace, edited, then put back onto the chr data area.
+
+
+
+     1.1.3 - Button 3 (palettes)
+
+    if you want to switch any or all of the 4 colors you see in that 4 color box, first hit button 2, then button 3. (i dunno why u hafta hit button 2 then 3, you just do). you'll see a palette menu, up in the apace where the chr data area was. the pop-up box will turn blue again, just like in cut/paste.
+
+click on one of the pretty colors in the palette menu you want to use. the pop-up box will turn red now.  then click on the color in the color bar which you want it replaced with. the color from the palette will now be in your color bar.  w00p.
+
+
+
+     1.1.4 - Button 4 (Saving)
+
+    saving is pretty wierd in pasofami.. the author overlooked a bunch of bugs in the debugger, which i'll try to show you how to get around.  the only roms which successfully save are those which naturally use an 8k (one page) external chr file. see, pasofami saves chr data only by what it has in its memory.. if there's only one 8k page of data in the chr data area, then paso will save to an external 8k chr file. it's a bitch with imbedded chr roms, cause you will have to cut/paste from the 8k chr file into the rom where it was originally addressed from.
+
+    an 'external chr rom' as i refer to it is a rom (in pasofami format) that has an external chr file along with the prg. an 'imbedded chr rom' is a rom that has no separate chr file; it's all built into the prg. if you're working with a .nes file (you shouldn't) a good way to tell if there's any external chr data is to open the file up with a hexeditor and look at byte $0005. this is the byte in the nes header that tells iNES how much external chr data there is. if byte $0005 has the value 00, then there's no chr data (go to section 1.1.4.2). if byte $0005's value is anything other than 00, then you have external chr data; go to section 1.1.4.1.
+
+
+      1.1.4.1 - external chr roms
+
+    if you have a rom with 8k of chr data, it should save fine. after you've completed your edits, hit button 4, then play your new trippy game. woowoo.
+   
+    if you have a rom that has more than 8k of chr data, then it'll require some more work. see, pasofami's author is like, gay or something.. the paso debugger always is gonna save to an 8k chr file, no matter what.  so, you're gonna hafta save, then go in with a hexeditor and locate the addresses where it's been changed (i reccomend the compare function in hex worksop for this) and paste the new shit into the chr. hopefully, it should work.
+
+
+      1.1.4.2 - imbedded chr roms
+
+     i've had the most experience with this, cause it's what ff2j uses.  like i said in 1.1.4.1, paso will always save to an 8k chr file. this goes for imbedded chr roms, too.. even though the chr data is inside the prg, your edits will be dumped out in an external chr file, which you need to put back into the prg eventually.
+
+     after you've made the edits, hit button 4 to save. this will situate an 8k chr file on your hard drive. now, you need to find out where that 8k chr data belongs in the rom. there are 2 ways of finding out the address, i'll go through both.
+
+A. use readchar.exe, and try to locate the familiar chr stuff in the rom, as its minced about the prg data. readchar loads in $2000 blocks (8192 bytes) so you can count virtual page by page until you find what you're looking for. note the spot in hex, and cut it directly from the rom and paste it directly to that place in the prg.
+
+B. of all the tiles you edited, pick one that you didn't, and search for its chr hex equivalent in the prg. the address where it is, you can count up (or back) to find the source where you want to start pasting to.
+
+
+
+
+2. Text modification
+
+   Text mods are the cool shit.. it's what you do if you wanna change character names to your own, or have those pesky town people say 'fuck off!!$#@$'. nevertheless, it's pretty handy.  i will cover only the types of fonts i've encountered, which are the type that use one address per coordinate.  that means, you will call one address for every character letter that's presented, in the chr and hex addressing.
+
+   2.1 - Finding the font address
+
+     This's easier than you think (in most cases). all you do, is go into pasofami's debugger, and scroll down through the chr data area till you find shit that's like '0123456789ABCDE'... that's when you know you've found your table.  i recommend pagedown scrolling, cause it scrolls thru the pages, one by one, and keeps the top at a multiple of $0. ok, here's zelda's font addressing through an ascii layout (how it's gonna look in paso debugger) :
+  
+   0 1 2 3 4 5 6 7 8 9 A B C D E F
+10 0 1 2 3 4 5 6 7 8 9 A B C D E F
+11 G H I J K L M N O P Q R S T U V
+12 W X Y Z         , ! ' & . " ? -
+13
+14
+...
+
+    bytes can only go up to FF in hex, so we ignore the 10 prefix in the vertical and pretend it says 0. so, we will pretend A is 0xA, even though it's really 10xA. (you can't have address 10A in a hexeditor; individual bytes only go up to FF)
+
+so, in our pseudo zelda table, the word 'LINK' would look like 15 12 17 14 in the rom. 
+
+--
+
+here's another example: it's the table from final fantasy 1. (open up ff1 in your paso debugger and look at this as i explain it, my ascii equivalent kinda blows)
+
+  0 1 2 3 4 5 6 7 8 9 A B C D E F
+0
+1
+2
+3
+4
+5
+6
+7
+8 0 1 2 3 4 5 6 7 8 9 A B C D E F
+9 G H I J K L M N O P Q R S T U V
+A W X Y Z a b c d e f g h i j k l
+B m n o p q r s t u v w x y z ' ,
+C .   - . ! ? L E  
+D
+E
+F
+
+this is a little different; this font is a little nicer cause it includes some symbols and a capital/small letter variant. it's an imbedded chr rom, which means you're only going to be able to see the font when the chr page with the font included on it is called (like in a menu box or townspeople with dialogue, etc).
+  
+so, 'Light Warriors' would look like 95 AC AA AB B7 FF A0 A4 B5 B5 AC B2 B5 B6 when viewed in a hexeditor. as you've seen in the comparison between zelda and ff1, the font really is different in each rom, which is why we need xlate. hell yeah nigga!
+
+
+   2.2 - Making a table
+
+     Now that you can see where your addresses are in the debugger, you now should put them into a table so that xlate can read them and turn them into words when you run it.
+
+just like i said way way above, all you do is put the list of the letters and addresses into a xlate table file. let's create a sample ff1 table file. it's like this:
+
+8A A A
+8B B B   blah blah blah.. this is what you're gonna have
+8C C C   to do for all your letters, and save them to the
+8D D D   file xlate. (no extension, just xlate.   ) to  
+8E E E   signify that it's a table file. once you've done
+8F F F   this, go right the fuck in xlate and advance to 
+90 G G   section 2.3.
+91 H H
+
+
+   2.3 - Doin the fukkin shit
+
+     It should be pretty much straightforward from here on out; just go in xlate and switch around your words, or whatever. 
+
+some important sidenotes:
+
+* FF is space.. sometimes.. depending on the rom. 
+
+* 01 is like the equivalent of a rom's way of saying 'enter' or 'return'. you don't want to overwrite any 01's if they're at the end of a text statement; they'll seriously fuck up your text display.
+
+* 00 signifies an end marker of some sort.. i haven't found a sufficient way to define it, but it could be expressed as a way for a rom to shut off text display or to cue a cut scene of some sort.
+
+
+  One shitty thing about xlate 1.00 is that it has no side features, whatsoever.. you'll can't do shit like comparing or finding in xlate, you'll have to take care of them in a hexeditor. it sux, i know.. if you want to edit using a hexeditor, like i do mostly anymore, the best way is to memorize the table in your head. either do that or have an open notepad with the table alongside the hexeditor at all times (bleh). you'll just have to be able to recognize the addresses, and code them back in in hex.
+
+so if you want to go the long way around, and do mods in a hexeditor, do this. say you want to change 'Light Warriors' into 'Mother Fuckers'. you take the table equivalent for 'Light Warriors', which is 95 AC AA AB B7 FF A0 A4 B5 B5 AC B2 B5 B6, and tell the hexeditor to search for that string. (you have to convert character->hex on paper, or write a tool to do it.. i wrote a prog on my ti85 to do it). so, assuming you spelled it right in hex, and the hexeditor shows to where it's located at, do your edits. change that string to 96 B2 B7 AB A8 B5 FF 8F B8 A6 AE A8 B5 B6 (hex for 'Mother Fuckers'). once thing you should *ALWAYS* be careful for uis that your text strings are not too short or too long for what the rom designed the original text for.. being too short isn't too bad, you just end up with a lot of spaces in the rom. being too long will cause your text to spill over into code (most of the time you don't know whet the fuck it overwrites). DON'T take the chance of believing that nothing bad is going to come out of overwriting code you don't know anything about.. even if it all appears fine, the game might lock up a long way down the road, and you'll have long forgotten all the places where you overwrote shit like that.. i know, i did that with ff2j a couple times :(

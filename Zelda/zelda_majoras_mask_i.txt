@@ -1,0 +1,5525 @@
+		______________________________
+		|                            |
+		| @@@@@@@@@@@@@@@@@@@@@@@@@@ |
+		| @                        @ |
+		| @             _          @ |
+		| @           /\ \         @ |
+		| @          /  \ \        @ |
+		| @         /    \ \       @ |
+		| @        /______\ \      @ |
+                                    | \__________________[]|
+.~~~~'~~~/_/~/_/~/_/~/_/~/_/~~~~~~~||* * * * * * * * * * * *||)
+`' ._______________________________| * * * * * * * * * * * *||)
+		| @      __        _| /~~~~~~~~~~~~~~~~~~~[]|
+                | @     /\ \      /\ \     @ |
+                | @    /  \ \    /  \ \    @ |
+		| @   /    \ \  /    \ \   @ |
+		 \ @ /______\ \/______\ \  @ /
+		  \ @                     @ /
+		   \ @                  @  /
+		    \ @                 @ /
+		     \ @               @ /
+		      \ @             @ /
+		       \ @@@@@@@@@@@@@@/
+                        ---------------
+
+                    Welcome to Zelda 64, Mask of Mujara
+  		          Complete Walkthrough
+		        Author: David Zabroski
+		        Locke1978@hotmail.com
+	      Check out my Dragon Warrior/Quest Website at:
+		 Http://www.DragonwarriorReturns.com
+            For Zelda Game Series Visit another Web Master's Site
+		  	     Zelda Power!
+		     Http://www.ZeldaPower.com
+I.	Introduction
+II.	Story
+III.	Thief, Deku Shrub, and the Fairy
+	a.	Lost Woods
+	b.	Lost Dungeon
+	c.	Clock Tower; Inside
+	d.	South Clocktown
+IV.	South Clocktown; Directory
+	a.	Deku Shrub Trader "="
+	b.	Happy Mask Man "+"
+V.	West Clocktown; Directory
+	a.	Post Office "*" "+"
+	b.	Mighty Training Center "*"
+	c.	Lottery Shop
+	d.	Bomb Shop "="
+	e.	Trading Post
+	f.	Curiosity Shop "+" "="
+	g.	Bank "*"
+VI.	East Clocktown; Directory
+	a.	Mayor's Residence "* "+"
+	b.	Milk Bar "+"
+	c.	Honey & Darling's Shop "*"
+	d.	Town Shooting Gallery "*"
+	e.	Treasure Chest Shop "*"
+	f.	Stock Pot Inn "* "="
+	g.	Astral Observatory "="
+	h.	North Clock Town; Directory
+	i.	Fairy Fountain "+"
+	j.	Deku Scrub Playground "*"
+VII.	Retrieve the Orcania
+	a.	South Clocktown II
+	b.	Laundry Pool
+	c.	North Clocktown; Fairy Fountain "="
+	d.	North Clocktown
+	e.	North Clocktown; Hide & Seek
+	f.	East Clocktown; Observatory Basement
+	g.	South Clocktown III
+	h.	South Clocktown IV; 12:00; Final Day
+	i.	Clocktower; Roof
+	j.	Clocktower
+VIII.	Return to the Fairy Fountain
+	a.	South Clocktown V
+	b.	Laundry Pool II
+	c.	North Clocktown; Fairy Fountain II "="
+IX.	Extra Stuff
+	a.	Clocktown
+	b.	East Clocktown; Observatory "+"
+	c.	North Clocktown "*"
+	d.	North Clocktown; Deku Shrub Playground "*"
+	e.	West Clocktown; Post Office; 6:00 p.m.-
+		Midnight "*"
+	f.	West Clocktown; Swordsman's School "*"
+	g.	West Clocktown; Bank "*"
+	h.	East Clocktown; Observatory
+	i.	Termina Field "*"
+	j.	East Clocktown; Stock Pot Inn; Midnight "*"
+	k.	Laundry Pool; Day I&II; Midnight "+"
+	m.	North Termina Field; 12:00 a.m.-6:00 a.m. "*"
+	n.	West Clocktown"*"
+	o.	North Clocktown; Day I; Midnight "+"
+X.	Uniting of Anju & Kefei
+	a.	Laundry Pool  "*" "+"
+	b.	North Clocktown; Mayor's Residence
+	c.	East Clocktown; Stockpot Inn
+	d.	Laundry Pool
+	e.	Stockpot Inn II
+	f.	Laundry Pool II
+	g.	Milk Bar II
+	h.	Laundry Pool III
+	i.	Post Office II
+XI.	Keeton Mask Side Quest
+	a.	North Clocktown "*"
+XII.	Secrets of the Swamp
+	a.	South Clocktown VI; Deed Trading Game
+	b.	Path to the Southern Swamp "*"
+	c.	Southern Swamp "*"
+	d.	Woods of Mystery "="
+	e.	Southern Swamp "="
+XIII.	Information about Tingle
+	a. Southern Swamp
+XIV.	Save the Monkey's Tail
+	a.	Southern Swamp
+	b.	Deku Palace "*"
+	c.	Deku Palace; Outside
+	d.	Deku Palace; 2nd Floor
+XV.	Freeing Woodfall and the Deku Princess
+	a.	Woodfall "*"
+	b.	Woodfall Temple
+	c.	Woodfall; Sub Boss
+	d.	Woodfall; Odolwa
+	e.	Woodfall; Side Exit
+	f.	Woodfall II
+	g.	Woodfall; Fairy Fountain
+	h.	Deku Palace II
+	i.	Deku Palace; Outside II "+"
+XVI.	Extra Stuff
+	a.	Koume's Swamp Cruise Target Game "*"
+	b.	Termina Field; Pea Hat Grotto "*"
+	c.	Honey & Darling's Shop II "*"
+	d.	Path to the Southern Swamp; Swamp Shooting
+		Gallery
+	e.	Termina Field II
+	f.	Gold Skulltula House "+"
+II.	Extra Stuff
+	a.	Romani Ranch; Dog Track "*"
+III.	Investigate the Northern Mountains
+	a.	North Termina Field
+	b.	Path to Mountain Village
+	c.	Mountain Village
+	d.	Goron Village
+	e.	Goron Village; Deed Trading "*"
+	f.	Goron Village II
+	g.	Lone Peak "="
+	h.	Goron Village III
+	i.	Mountain Village III
+	j.	Darmani's Grave "+"
+	k.	Goron Village IV
+	l.	Mountain Village IV
+	m.	Goron Village III
+IV.	Freeing Snowhead & Goron Village
+	a.	Snowhead
+	b.	Snowhead Temple
+	c.	Snowhead Temple; Sub Boss
+	d.	Snowhead; Sub Boss
+	e.	Snowhead; Boss
+	f.	Snowhead; Fairy Fountain
+V.	Spring Time Fun
+	a.	Goron Village IV "="
+	b.	Goron Racetrack "="
+	c.	Mountain Smithery "="
+	d.	Goron Village IV "="
+	e.	Mountain Village VI "+"
+VI.	The "R" Files!
+	a.	Romani Ranch "="
+	b.	Romani Ranch; The Invasion "*" "="
+	c.	Romani Ranch; Milk Wagon "+"
+VII.	Extra Stuff
+	a.	Clocktown
+	b.	Ikana Canyon "+"
+VIII.	Searching the Great Bay Coast
+	a.	North Bay "+"
+	b.	Fisherman's Hut
+	c.	Research Lab "*"
+IX.	Extra Stuff
+	a.	Zora Pit "*"
+	b.	Mountain Village Path "*"
+	c.	East Clocktown "+"
+	d.	Gorman Brothers Race Track
+X.	Search the Zora Hall
+	a.	South Bay "*"
+	b.	Zora Hall "*"
+	c.	Zora Hall; Deed Trading Game
+XI.	Retrieve the Zora Eggs
+	a.	North Bay II
+	b.	Pirate's Fortress "*" "="
+	c.	Research Lab II
+	d.	Fisherman's Hut II
+	e.	Pinnacle Rock "*"
+	f.	Research Lab III
+XII.	Extra Stuff
+	a.	Beaver Races "*" "="
+	b.	Oceanside Spider House "*""+"
+	c.	Zora Hall II "*"
+	d.	East Clocktown
+	e.	North Bay III"*"
+	f.	Snowhead "*"
+XIII.	Freeing Great Bay
+	a.	Zora Hall III
+	b.	Great Bay
+	c.	Great Bay; Sub Boss
+	d.	Great Bay; Sub Boss II
+	e.	Great Bay; Boss
+XIV.	Extra Stuff
+	a.	South Bay II
+	b.	Zora Hall IV
+	c.	North Bay; Jumping Game "*"
+	d.	Snowhead II
+	e.	Mountain Village VII "*"
+XV.	Investigating Ikana Canyon
+	a.	Ikana Canyon Path
+	b.	Graveyard "+"
+	c.	Inside the Gravestone; Night 1
+	d.	Inside the Gravestone; Night 2 "*"
+	e.	Inside the Gravestone; Night 3 "="
+	f.	Ikana Canyon II
+	g.	Ikana Canyon; Deed Trading Game "*"
+XVI.	Uniting Anju & Kafei II
+	a.	Ikana Canyon III "+"
+	b.	Stock Pot Inn; 4:30 p.m.
+	c.	Mayor's Residence II "*"
+XVII.	Search for the Royal Family
+	a.	Ikana Canyon IV
+	b.	Ikana Canyon; Ikana Cave
+	c.	Ikana Canyon; Music Box "+"
+	d.	Ikana Canyon; Poe Hunter "*"
+	e.	Ikana Canyon V
+	f.	Bottom of the Well "="
+	g.	Ikana Castle "*"
+	h.	Ikana Castle; Throne Room
+XVIII.	Free the Stone Tower
+	a.	Stone Tower Entrance
+	b.	Stone Tower
+	c.	Stone Tower; Sub Boss
+	d.	Stone Tower; Inverted
+	e.	Stone Tower; Sub Boss II
+	f.	Stone Tower; Sub Boss III
+	g.	Stone Temple; Boss
+	h.	Ikana Canyon; Fairy Fountain "="
+XIX.	Extra Stuff
+	a.	Ikana Canyon VI
+	b.	Ikana Canyon; Secret Shrine "*"
+XX.	Face the Skull Kid
+	a.	Clocktown
+	b.	Clocktown; Clocktower
+XXI.	The Finale; Mujara's Mask
+	a.	Moon
+	b.	Moon; Odolwa Child
+	c.	Moon; Goht Child
+	d.	Moon; Gyorg Child
+	e.	Moon; Twinmold Child
+	f.	Moon II
+	g.	Mujara's Lair
+XXII.	Finale
+	a.	Happy Mask Salesman
+	b.	Friends Again
+XXIII.	Secrets & Mysteries
+	a.	Mask Salesman
+	b.	Akido Nuts
+	c.	Epona
+	d.	Location, Location, Location?
+	e.	More Questions
+====================WALKTHROUGH=====================
+I.	Introduction
+	Zelda Mujara's Mask is a great, but complicated
+	game. The key to the game is remembering that
+	when you play the Song of Time and you return
+	back to the beginning of the three days all that you
+	did will be erased including certain items.
+
+	The save system has two options. Both of the save
+	systems are not available until AFTER you retrieve
+	the Orcania of Time from Skull Kid.
+
+	The first is automatic; after you play the Song of
+	Time your game is saved. The second one is a little
+	different. If you played Dragon Warrior I&II Remix
+	you may be familiar with it. There are Owl Statues
+	all across this world that have two uses. The first is
+	saving; you must hit it with your Sword, only your
+	sword, to activate it. Talk to it and your game will be
+	saved at that spot. The trick is you will be kicked out
+	of the game. Once you start your game again you
+	will start at the same exact spot, but if you hit reset
+	then you return to the point you last played the Song
+	of Time. The other use is when you hit it to activate
+	the Owl Statue it becomes a Warp Point for later on
+	when you get the Song of Soaring.
+
+	The other thing to remember is that time is always
+	flowing. The clock on your screen tells you what
+	time and day it is. People and places are open at
+	certain times. You may see the postman when you
+	enter an area, but then see him in another area later
+	that day.
+
+II.	Story
+	In the land of Hyrule, there echoes a legend. A
+	legend held dearly by the Royal Family that tells of a
+	boy. A boy who, after battling evil and saving
+	Hyrule, crept away from that land that had made him
+	a legend. When he finally fulfilled his heroic destiny
+	and took his place among legends.
+
+	Shortly after his victory he decided to go on a new
+	journey. A personal and self fulfilling journey. Link
+	rode his horse, Epona, in the woods when two fairies
+	appearing out of nowhere startled Epona. A Strange
+	Skull Kid came over took the Orcania of Time, the
+	present from Princess Zelda. He then jumped on
+	Epona and rode off into the Woods and Link gave a
+	chase after him.
+III.	Thief, Deku Shrub, and the Fairy
+	a.	Lost Woods
+		i.	After Epona and the Orcania get stolen,
+			Skull Kid will run away.
+		ii.	The first part is pretty simple, just follow
+			Stalking into the tree and then you will
+			fall down into the pit.
+	b.	Lost Dungeon
+		i.	When you land the Skull Kid will place a
+			curse on you. He calls forth a spirit of a
+			Deku Shrub and transforms you into
+			Deku Shrub!
+		ii.	Deku Shrub Mask
+			1.	This mask has several properties;
+				one won't be available until later.
+			2.	You can dig into a Deku Flower
+				spot and shoot up into the air; this
+				will allow you to fly for a certain
+				period of time.
+			3.	You are vulnerable in this state
+				and if you are hit you will fall to
+				the ground
+			4.	You are VERY weak to Fire and
+				Water, Fire, or Lava, these
+				elements will kill you, but water
+				will transport you back to the spot
+				you jumped from with a heart
+				missing.
+			5.	Later you can shoot a "Snot"
+				bubble from your nose like an
+				Arrow, the longer you hold it and
+				bigger it gets, but it takes MP.
+			6.	You are stuck with the mask until
+				you complete the first part of this
+				game.
+		iii.	Open the large door and run to the end of
+			the hall, where you will be introduced to
+			your Fairy companion for this game, Tatl.
+		iv.	Glide over to the door on the other side
+			of the room, and this leads to a large
+			canyon with several platforms.
+		v.	Dive into the first flower and glide over
+			to the platform in front of you. Once
+			there use the flower to get to the platform
+			to your left, where you will find a chest
+			containing a Deku Nut.
+		vi.	Turn around until you can see a platform
+			behind the large pillar. Dive into the
+			flower and fly around the pillar to land on
+			the platform. Then use that flower to fly
+			into the air, around the two pillars in
+			front of you, and onto the rectangular
+			platform. Take the Exit.
+		vii.	You pass this odd twisting room run up
+			the stairs to the left and you will come to
+			a small room with a door.
+	c.	Clock Tower; Inside
+		i.	You will now meet the owner of the
+			Happy Mask Shop. He will say that if
+			you get the precious item back, he will be
+			able to turn Link into his normal self
+			again.
+		ii.	He also tells you that Skull Kid stole a
+			very precious and dangerous mask and he
+			will be leaving the area in 3 days. You
+			must find that mask before then.
+	d.	South Clocktown
+		i.	This town is the center of this land. You
+			are currently in South Clock Town, but
+			there is also an East, West, and North.
+		ii.	When you see a "*" next to a title it
+			means there is a Heart Piece, a "+" means
+			there is Mask that can be found here, and
+			a "=" means there is a key item to be
+			found there.
+IV.	South Clocktown; Directory
+		This directory has all the times each shop is open. If
+		you need to see times the stores are open refer back
+		to this section.
+	a.	Deku Shrub Trader "="
+		i.	Give him something special
+			1.	24 Hours
+	b.	Happy Mask Man "+"
+		i.	Inside the Clocktower
+			1.	Leaving the Final Day
+V.	West Clocktown; Directory
+	a.	Post Office "*" "+"
+		i.	Main Mail Delivery System
+		ii.	Play his game and stop the clock in10
+			seconds for a Heart Piece.
+			1.	You must be within .10 seconds.
+			2.	Get the Bunny Ears and the time
+				will be shown.
+				a.	Day 1&2=3:00 p.m.-12:00
+					a.m.
+				b.	Day 3=3:00 p.m.-6:00
+					a.m.
+	b.	Mighty Training Center "*"
+		i.	When you get a Sword you can play the
+			game here.
+		ii.	Choose the Expert Course and get a
+			Perfect Score and you get a Heart Piece.
+			1.	24 Hours
+	c.	Lottery Shop
+		i.	You can play the lottery, but if you play
+			it again after you play the Song of Time
+			it stays the same.
+			1.	6:00 a.m.-11:00 p.m.
+	d.	Bomb Shop "="
+		i.	You can buy bombs here. If you are a
+			Goron they have some special items.
+		ii.	They are out of stock of Bomb Bags, but
+			they are due in 12:00 on Day I.
+			1.	24 hours
+	e.	Trading Post
+		i.	You can get some basic stuff here that
+			you can use or put in bottles.
+			1.	24 hours
+	f.	Curiosity Shop "+" "="
+		i.	You never know what will be here.
+		ii.	If your items are stolen then you can
+			retrieve them here.
+			1.	10:00 p.m.-6:00 a.m.
+	g.	Bank "*"
+		i.	You can store you Rupees here, but they
+			ran out of ink so they stamp the balance
+			on your head.
+		ii.	When you play the Song of Time you can
+			get your money out.
+			1.	The system begs to be abused!
+			2.	24 hours
+		iii.	You can get some new items for high
+			balances.
+			1.	A Large Wallet and a Heart Piece
+VI.	East Clocktown; Directory
+	a.	Mayor's Residence "* "+"
+		i.	Meet the Mayor and get some info about
+			this new World.
+			1.	10:00 a.m.-8:00 p.m.
+	b.	Milk Bar "+"
+		i.	You need a membership pass, but you
+			may get some good stuff here!
+			1.	10:00 p.m.-5:00 a.m.
+	c.	Honey & Darling's Shop "*"
+		i.	This place is a ton of fun. If you complete
+			all the games with a perfect score you get
+			a Heart Piece.
+		ii.	Not so fast! You have to do each game
+			on a different day.
+		iii.	You also need a Bow & Arrow.
+			1.	6:00 a.m.-10:00 p.m.
+	d.	Town Shooting Gallery "*"
+		i.	6:00 a.m.-10:00 p.m.
+			1.	Get a prefect score for a Heart
+				Piece, but you can get a Quiver
+				for a lower score.
+	e.	Treasure Chest Shop "*"
+		i.	This shop is very fun, but hard. You get a
+			certain amount prizes for your 4 different
+			forms.
+		ii.	The Goron form will get you a Heart
+			Piece.
+	f.	Stock Pot Inn "* "="
+		i.	There are tons of things to do here and
+			you will visit here often, a lot of waiting
+			in rooms.
+		ii.	Make sure you get there early for a Key,
+			if not then you can fly up there.
+			1.	8:00 a.m.-8:30 p.m.
+	g.	Astral Observatory "="
+		i.	This has tons to do and see, but I will
+			explain about it later in the Walkthrough.
+			1.	24 hours
+	h.	North Clock Town; Directory
+		i.	Tingle "="
+			1.	Here is a Weird fellow. You have
+				to shoot him down in order to get
+				his maps.
+			2.	24 hours
+	i.	Fairy Fountain "+"
+		i.	The Fairy has been scattered by the Skull
+			Kid so you have to put her back together.
+			1.	Get use to it, you will be doing a
+				lot of this, but a lot harder.
+	j.	Deku Scrub Playground "*"
+		i.	This is a game you must play in Deku
+			form. You have to defeat the games 3
+			times in 3 days.
+VII.	Retrieve the Orcania
+	a.	South Clocktown II
+		i.	When you emerge from the Clock Tower
+			the site will be overwhelming.
+		ii.	The Moon is crashing into the world and
+			you have 3 days to complete this part of
+			the game. You need to get the Orcania
+			before it is too late.
+		iii.	Take note some people don't like Deku
+			Shrubs and will snub you, but others will
+			help you. Dogs will attack you, but it
+			won't hurt.
+		iv.	The first thing you should do it get the
+			stray fairy. The Fairy Fountain is in
+			North Clocktown on the left side. If you
+			visit you find they are scattered, but only
+			one fairy is lost.
+		v.	Go to the bottom of South Clocktown
+			and go up the small stair ramp. This is the
+			Laundry Pool.
+	b.	Laundry Pool
+		i.	You should see the Fairy next to the
+			bridge, but Deku's can't swim, but then
+			can hop on water, hop over and grab the
+			fairy. You can only hop several times in a
+			row.
+		ii.	Now head to the Fairy's Fountain
+	c.	North Clocktown; Fairy Fountain "="
+		i.	The fountain is on the left side of the
+			area. Enter and the Fairy will take her
+			place in the group.
+		ii.	She thanks you for saving her and talks
+			about Skull Kid. She also gives you the
+			power to blow "Snot Bubbles" from your
+			snout.
+			1.	Press A and Hold it to blow the
+				bubble.
+		iii.	While you are here take use of your new
+			power. You should see where you could
+			use it.
+		iv.	She also says to visit her again when you
+			are human and she will give you another
+			gift.
+	d.	North Clocktown
+		i.	Look around and find a man wearing a
+			green suit and shoot him down.
+		ii.	His name is Tingle and he sells maps. He
+			is an odd man, but he sells maps. Buy
+			one of Clocktown. If you need some
+			money then you can cut down the grass
+			for some money.
+		iii.	After you get the map you need to
+			complete another game in order to get to
+			the next phase of the game.
+		iv.	Look for the boy who is trying to shoot
+			down the balloon.
+		v.	Go on the hill and shoot it down for him.
+			He is the leader of the Bombers Gang. He
+			will let you go to the Observatory if you
+			play and he let you in if you play hide
+			and seek.
+	e.	North Clocktown; Hide & Seek
+		i.	You have till dawn to find all 5 of the
+			members.
+		ii.	Member 1
+			1.	He is in the top right corner of
+				North Clocktown, look behind the
+				tree.
+				a.	You have to give chase to
+					get him.
+		iii.	Member 2
+			1.	The next is in North Clocktown
+				also; look in the bottom left-hand
+				corner.
+		iv.	Member 3
+			1.	This one is in West Clocktown.
+				He is in the middle of the area at
+				the top of the stairs.
+		v.	Member 4
+			1.	The final 2 are located in East
+				Clocktown. Go to the Stockpot
+				Inn, but there is no way to get to
+				him.
+			2.	Go to the Deku Flower and fly up
+				to the Inn's Roof.
+		vi.	Member 5
+			1.	Jump onto Milk Bar and get the
+				final one.
+		vii.	Now that you have caught them all you
+			will be given a password to get to the
+			Observatory.
+		viii.	Unfortunately they will not let you join
+			just yet, they don't want Deku Shrubs in
+			their group.
+			1.	Kids can be so cruel.
+		ix.	Write down the password, you must enter
+			each time you enter here and you will
+			enter here several times.
+		x.	When you become human the password
+			will be in your notebook.
+	f.	East Clocktown; Observatory Basement
+		i.	Go to East Clocktown and look for the
+			Bomber blocking the entrance.
+		ii.	Give him the password and he will move
+			allowing you to enter.
+		iii.	Once you enter you can move to the right
+			and hop over the water to the different
+			platforms.
+		iv.	At the end walk in the shallow water to
+			avoid the Skuttulla.
+		v.	Enter the chamber and blow the Skull
+			Kid's Balloon down with your bubble.
+		vi.	Climb the ladder and enter the door.
+		vii.	You will now see an old friend, Piet! He
+			gives you a hint about songs that will
+			slow and speed up time. Do not talk to
+			him now or he will skip the day ahead by
+			1 and you have very little time as it is.
+		viii.	Go up the stairs to the main chamber
+			where you can talk to the Scientist. He
+			will let you look into the Telescope.
+		ix.	Look at the Moon and you should see
+			Skull Kid on top of the Clocktower.
+		x.	A Moon Tear will fall from the sky; you
+			can run outside and get it from the door
+			below.
+	g.	South Clocktown III
+		i.	Go back to South Clocktown and you
+			should see a brown Deku Flower. Try to
+			step into it and an Akido Nut will come
+			flying out stopping you from entering it.
+		ii.	Talk to him and he will say he is looking
+			for a rare object. What he wants is the
+			Moon Tear you just got. Set it to "C" and
+			give it to him and he will give you the
+			Deed to the Spot.
+			1.	This is the first step in the "Deku
+				Land Title Swap" game.
+		iii.	You now have nothing to do, but wait for
+			Midnight on the Final day.
+		iv.	Take this time to deposit any rupees you
+			may have found in the Bank in West
+			Clocktown.
+		v.	Take time to go searching for chests too!
+	h.	South Clocktown IV
+			1.	12:00; Final Day
+		i.	Once this time comes the door to the
+			Clocktower will open. There is also a
+			Heart Piece there, but it is too high to get
+			too!
+		ii.	Go to the Deku Flower you traded for
+			and you will be able to jump up and fly to
+			it.
+	i.	Clocktower; Roof
+		i.	After you get the Heart Piece climb to the
+			top to meet Skull Kid.
+		ii.	You learn that the Skull Kid is
+			responsible for pulling the moon down to
+			the earth.
+		iii.	Tahl's brother, Tael, gives a hint on how
+			to beat him, but it is almost useless now.
+		iv.	Shoot a "Snot Bubble" at him and he will
+			drop the Orcania of Time. Run and grab
+			it and Link will get a telepathic link with
+			Princess Zelda and teaches him the Song
+			of time.
+		v.	Song of Time
+			1.	>A \/ >A \/
+				a.	Using the "C & A"
+					Buttons
+	j.	Clocktower
+		i.	You will be transported, and game saved,
+			back to the entrance of the Clocktower.
+			1.	Your items, bombs, Deku Nuts,
+				Deeds, Moon Tears, and Money
+				will be gone, but Heart Pieces and
+				other important items will stay
+				like Bottles.
+		ii.	Talk to the Happy Mask Salesman and he
+			will fulfill his promise to fix Link back to
+			his normal self.
+		iii.	He teaches the Song of Healing
+		iv.	Song of Time
+			1.	< > \/ < > \/
+		v.	After you play the song you are back to
+			normal as Link, but there is a bonus,
+			there is the Deku Shrub Mask! You now
+			can change at will!
+		vi.	There are a couple of things you should
+			know when you go back in time.
+		vii.	Items like Deku Sticks, Bombs, and other
+			collectable things will not be taken back
+			with you when you play the Song of
+			Time.
+		viii.	The Money should be deposited in the
+			bank before you go back in time.
+		ix.	There is another added bonus. With the
+			Orcania of Time you can slow down and
+			speed up time!
+		x.	Inverted Song of Time
+			1.	\/ > < \/ > <
+				a.	Time will flow at Half
+					Speed.
+		xi.	Song of Double Time
+			1.	< < > > \/ \/
+				a.	Play each note twice in the
+					Song of Time.
+				b.	This will skip the day by 6
+					hours.
+VIII.	Return to the Fairy Fountain
+	a.	South Clocktown V
+		i.	Go to the left side of the Clocktower and
+			hit the statue with your sword to activate
+			the Owl Statue.
+	b.	Laundry Pool II
+		i.	Go back to the Laundry Pool and jump
+			into the water and grab the fairy. If you
+			can't get her then turn into a Deku and
+			get her.
+	c.	North Clocktown; Fairy Fountain II "="
+		i.	Go back to the Fairy Fountain and return
+			the lost fairy. As thanks she rewards you
+			with the Fair Mask!
+		ii.	Fairy Mask
+			1.	If there is a Fairy in the room or
+				area you are in, the mask's hair
+				will sparkle and rise.
+			2.	It also calls them to you if they
+				are not trapped by a monster or
+				bubble.
+IX.	Extra Stuff
+	a.	Clocktown
+		i.	This part of the game is a good time to
+			get any extra stuff. I will show you how
+			to get all the available Heart Pieces you
+			can, as wells as Rupees.
+		ii.	The first thing you should do is
+	b.	East Clocktown; Observatory "+"
+		i.	Go back to the Bomber who guards the
+			path to the Observatory and give him the
+			code you got while you were a Deku. He
+			will let you pass.
+		ii.	Then the Head Bomber will come over
+			and let you join. He guesses you are
+			already a member because you know the
+			code and gives you a Bomber Notebook.
+			1.	The notebook keeps track of all
+				the people you have met and
+				made promises to. Each person
+				that gives you an important item,
+				mask, or heart piece will be
+				marked.
+	c.	North Clocktown "*"
+		i.	There is a Heart Piece on the tree in
+			North Clocktown. Getting it as Link is
+			easy, just climb up the poles and jump to
+			each pillar and then the tree for the Heart
+			Piece.
+	d.	North Clocktown; Deku Shrub Playground "*"
+		i.	Go back to North Clocktown and turn
+			into a Deku form. Fly over to the fence
+			and jump down the hole.
+		ii.	Talk to the Deku and he will let you play,
+			but only as a Deku.
+		iii.	If you beat the game once on each of the
+			3 days you will get a Heart Piece.
+			1.	The game gets harder each day, so
+				be patient. Be sure to have a lot of
+				money on reserve.
+	e.	West Clocktown; Post Office; 6:00 p.m.-
+		Midnight "*"
+		i.	First go to the Post Office and play his
+			time game.
+		ii.	You must stop the clock 10 seconds after
+			it starts with only .10 difference.
+			1.	I got it on 10.00 on my first try,
+				so it isn't too hard.
+	f.	West Clocktown; Swordsman's School "*"
+		i.	Talk to the Swordsman and take the
+			Expert Course for 10 Rupees and get a
+			perfect score for a Heart Piece.
+			1.	The key is to do jumping slashes
+				on the boards from a short
+				distance.
+			2.	A regular vertical slash will only
+				cut the board in half and leave 1/2
+				standing.
+			3.	Take your time and take the
+				beginner's course for some
+				practice.
+	g.	West Clocktown; Bank "*"
+		i.	If you have the time and patience you can
+			get an Adult Wallet and then a Heart
+			Piece if your balance reaches 5,000!
+	h.	East Clocktown; Observatory
+		i.	Go back to the Observatory look in the
+			telescope for the Akido Nut that will
+			trade you the Moon Tear for the Land
+			Deed. He should be flying around there
+			somewhere. Follow him to his secret hide
+			out. Remember where it is.
+		ii.	Now get the Moon Tear again. Trade it
+			for the Land Deed.
+	i.	Termina Field "*"
+		i.	Look for the area where the Deku flew to
+			and fall down in the hole hidden in the
+			grassy field.
+		ii.	Look in the right side, and across from
+			the small pond.
+		iii.	He will give you a Heart Piece to keep
+			the secret of this spot quiet.
+	j.	East Clocktown; Stock Pot Inn; Midnight "*"
+		i.	Now go to the Stockpot Inn and wait in
+			the bathroom until Midnight on any day.
+			You should see a hand coming out of the
+			toilet looking for paper.
+		ii.	Talk to him and give him the Land Deed.
+			In return you get a sticker in your
+			notebook and a Heart Piece.
+			1.	Are you sure you want it from the
+				toilet?
+	k.	Laundry Pool; Day I&II; Midnight "+"
+		i.	Go to the Laundry Pool and talk to the
+			man playing the Organ Grinder.
+		ii.	Talk to him to learn that he stole a mask
+			that had the power of making animals
+			follow you. He gives you the mask!
+		iii.	Bremen Mask
+			1.	This mask will make Cuckoos
+				follow you around.
+		l.	Romani Ranch; Final Day "+"
+			i.	Go to the southern part of Termina Field
+				and go to the road next to the Southern
+				Swamp path.
+			ii.	If you go on day I or II then a huge
+				boulder will be blocking the path. The
+				only way to get through is wait for the
+				man to crack the boulder, or use a
+				Goron's Bomb, but you are not a Goron.
+			iii.	When it is open go to the back of the
+				ranch and enter the door next to the barn.
+			iv.	The man in there knows the world is
+				dying and all he wants is to see his
+				Cuckoos as adults.
+			v.	Put on the Bremen Mask and hold the
+				"March" Button. Walk around until all 10
+				of the chicks are following you.
+			vi.	When they are they will pop into adults.
+				The lonely man will give you a new mask
+				as a present!
+			vii.	Bunny Hood Mask
+				1.	This mask is one of the most
+					helpful masks in the game.
+				2.	This mask allows you to run 2X
+					faster than before!
+	m.	North Termina Field; 12:00 a.m.-6:00 a.m. "*"
+		"+"
+		i.	There are some more items and Heart
+			Pieces here that you can get.
+		ii.	There is a man on top of one of the trees
+			in the snow covered Termina Field. You
+			should hear a strange song on any night
+			between 12:00 a.m.-6:00 a.m.
+		iii.	Talk to him and he will say that his spirit
+			is lost because he was never able to pass
+			on his Mastered Dance moves.
+		iv.	Play the Song of Healing for him to
+			cleanse his soul and he will give you his
+			"Spirit Mask" of himself that contains the
+			dance moves.
+		v.	Kamaro's Mask
+			1.	This will allow you to do some
+				master dance moves! Who do you
+				know who likes to dance?
+		vi.	Dodongo Grotto
+			1.	There is a small hole in North
+				Termina Field that has aseveral
+				Dodongo monsters.
+			2.	If you can beat them you can get a
+				Heart Piece. The best stradegy is
+				to jump slash them from behind
+				and dodge their fire breath.
+				a.	If they are too hard then
+					try this later.
+	n.	West Clocktown"*"
+		i.	Return to West Clocktown and you
+			should see two women dancing.
+		ii.	The Rosa Sisters are looking for a new
+			dance form. Put on the Kamaro's Mask
+			and hold A to Dance for them and they
+			will call you MASTER and get a Heart
+			Piece out of it!
+			1.	The dance moves are scarier than
+				Ganondorph!
+	o.	North Clocktown; Day I; Midnight "+"
+		i.	Go to North Clocktown and you should
+			see an old lady walking by. A Thief,
+			Sakon, will try to steal this old woman's
+			goods. Chase him and hit him with your
+			sword before he runs out the exit past the
+			guard.
+		ii.	If you do the woman will give you the
+			Blast Mask.
+		iii.	Blast Mask
+			1.	This mask will blow up as a
+				bomb, but you will sustain
+				damage!
+			2.	Hold your shield out then hit the
+				Blast Button to keep from getting
+				hurt.
+X.	Uniting of Anju & Kefei
+	a.	Laundry Pool  "*" "+"
+		i.	This part of the Bomber's Notebook will
+			take all 3 days, but you will be doing this
+			over, and over again to get Masks, and
+			Heart Pieces.
+		ii.	If you followed the Walkthrough you
+			should have got the Bomb Mask. You
+			must play the Song of Time BEFORE
+			you start this Side Quest. If you already
+			have then don't worry, but you can't do
+			both on the same day.
+	b.	North Clocktown; Mayor's Residence
+		i.	Day I; 24 hours (by 4:00 the latest
+			recommended)
+		ii.	Go to the Madame Aroma. She is missing
+			her son Kefei and asks you to find him.
+			She gives you the Kefei Mask to help
+			find him.
+		iii.	Kefei Mask
+			1.	You can now go around the town
+				talking to the people with the
+				mask and get some information
+				about Kefei.
+	c.	East Clocktown; Stockpot Inn
+		i.	Day I; 1:50 p.m.-4:30 p.m.
+			1.	Talk to Anju in the Stockpot Inn
+				and register as Link, or whatever
+				you named your hero.
+			2.	Tell her that the registration is
+				yours and she will give you a
+				room key.
+		ii.	Day I; 3:00 p.m.-8:30 p.m.
+			1.	Wait at the Inn until the Postman
+				delivers his letter to Anju.
+			2.	Talk to Anju with the Kefei Mask
+				and she knows you are looking
+				for Kefei. She sets up a meeting
+				with you for 11:30 that night.
+		iii.	Day I; 11:30 p.m.
+			1.	If you have a key then you can
+				just stay in the inn until 11:30 that
+				night.
+			2.	If not they will kick you out at
+				8:30 p.m. You can get back in by
+				turning into a Deku and flying
+				over to the roof and opening the
+				door.
+				a.	Some security.
+			3.	Wait in the Kitchen, it is on the
+				first floor in the back, behind the
+				bathroom.
+			4.	Talk to Anju and she will tell you
+				she knows something is wrong
+				with Kefei. She got a letter from
+				him the other day.
+			5.	She asks you a favor to deliver
+				the letter for her in the mailbox.
+			6.	Go to any mailbox and drop off
+				the letter to be delivered.
+	d.	Laundry Pool
+		i.	Day II; 2:30 p.m.
+			1.	Go to the Laundry Pool and wait
+				by the bridge. By now the letter
+				has been picked up, brought to the
+				Post Office and should be
+				delivered shortly.
+		ii.	Day II; 3:00 p.m.
+			1.	The Postman will come and
+				he will deliver a letter
+				and a boy wearing a Keeton
+				Mask will come out.
+			2.	Run back over the bridge to the
+				door the boy came out of and
+				open the previously locked door,
+				but now open.
+			3.	Wait here for Kefei. He will talk
+				to you and tell him he can trust
+				you. He will take off the mask
+				and prove your suspicions that he
+				is Kefei. He gives you a pendent
+				to hand to Anju as proof of their
+				love.
+	e.	Stockpot Inn II
+		i.	Day II; 5:00
+			1.	Go back to the Stockpot Inn after
+				you get the Pendent.
+			2.	Give it to Anju and she
+				immediately recognizes the
+				pendent, but she can't understand
+				why she can't see her fiancé, but
+				she decides to wait for him, even
+				if the world falls apart around
+				them!
+		ii.	Day II; 12:00 p.m.
+			1.	If you want to you can see Sakon
+				the thief try to sell some goods at
+				the Curiosity Shop.
+			2.	Wait there for him to come in and
+				argue with the shopkeeper. He
+				will give information about this a
+				Kafei.
+	f.	Laundry Pool II
+		i.	Final Day; 1:00 p.m.
+			1.	Wait back at the door Kefei came
+				out of. At 1:00 p.m. the door will
+				open, but Kefei is gone.
+			2.	The man from the Curiosity Shop
+				is there instead! He tells you that
+				he went after the thief to find his
+				mask, but he gives you the
+				Keeton Mask.
+			3.	He also gives you an Express
+				Letter that needs to be delivered
+				to Madam Aroma, it was written
+				by Kefei.
+		ii.	Keeton Mask
+			1.	This mask will allow you to
+				summon the three tailed fox
+				Keeton where ever there and
+				moving grass!
+	g.	Milk Bar II
+		i.	Final Day; 6:00
+			1.	Go to the Milk Bar, but it is
+				closed and all the people are
+				fleeing from the Moon.
+			2.	Put on the Kefei Mask and talk to
+				her, give her the letter.
+			3.	In return you get a bottle of the
+				world famous Chateau Romani,
+				but this isn't the best part, you get
+				to keep the Bottle!
+		ii.	Empty Bottle
+			a.	The bottle can contain
+				bugs, fairies, potions, fish
+				and other stuff too!
+	h.	Laundry Pool III
+		i.	Now repeat all of the steps up to when
+			you get the Express Letter.
+	i.	Post Office II
+		i.	Take the letter to the Post Office and you
+			will find that he is upset that it's the end
+			of the world, but is afraid of leaving
+			because of there may be mail. Give it to
+			the Mailman the Express Letter and he
+			will rush out to deliver it.
+		ii.	Follow him to the Milk Bar and he will
+			give the letter to Madam Aroma. Talk to
+			her to hear the Dialog.
+			1.	He wants to stay, but Madam
+				Aroma orders him to flee.
+		iii.	Follow him outside and he will stop be
+			the exit to Termina Field. He will thank
+			you for giving him the letter. As a reward
+			he will give you the Postman's Hat.
+		iv.	Go to any mailbox and the first one will
+			contain a Heart Piece.
+		v.	This is all that you can complete for now,
+			but there is still more to do!
+XI.	Keeton Mask Side Quest
+	a.	North Clocktown "*"
+		i.	Go to North Clocktown and put on the
+			Keeton Mask.
+		ii.	Go to the bushes on the top right side and
+			cut down all of the jittery grass that run
+			away when you try to chop them down.
+		iii.	If you do Keeton will appear and
+			challenge you with some questions:
+			1.	What song does Romani teach
+				you?
+				a.	Epona's Song
+			2.	How many cow figurines are
+				there in Clocktown?
+				a.	10
+			3.	How many cows are there in
+				Romani Ranch?
+				a.	3
+			4.	How many Cuckoos are there in
+				the barn at Romani Ranch?
+				a.	1
+			5.	What times does Romani go to
+				bed?
+				a.	8:00 p.m.
+			6.	What time does Romani wake up?
+				a.	6:00 a.m.
+			7.	How many balloons does Romani
+				use in practice?
+				a.	1
+			8.	What weapon does Romani use in
+				practice.
+				a.	Bow
+			9.	What is the name given to you by
+				Romani?
+				a.	Grasshopper
+			10.	Where does Cremia try to deliver
+				milk?
+				a.	Milk Bar
+			11.	How old is Tingle, the Map
+				Salesman?
+				a.	35 years
+			12.	What are the magic words Tingle
+				created
+				a.	Kooloo-Limpah!
+			13.	Is Tingle Left handed or Right
+				handed?
+				a.	Right Handed
+			14.	What color trunks does Tingle
+				wear?
+				a.	Red
+			15.	What is the name of the festival
+				held in Clocktown?
+				a.	Carnival of Time
+			16.	What is the name of the Mayor of
+				Clocktown?
+				a.	Dotour
+			17.	What is the name of the vintage
+				milk at the Milk Bar?
+				a.	Chateau Romani
+			18.	How many mailboxes are there in
+				Clocktown.
+				a.	5
+			19.	What is the name of Clocktown's
+				inn?
+				a.	Stockpot Inn
+			20.	What is the bad habit of Anju the
+				innkeeper?
+				a.	She apologizes too fast.
+			21.	What is Anju bad at doing?
+				a.	Cooking
+			22.	What is the name of Anju's
+				father?
+				a.	Tortus
+			23.	What does the owner of the Bomb
+				Shop call his mother?
+				a.	Mommy
+			24.	Who is the Leader of the Bomber
+				Gang?
+				a.	Jim
+			25.	Once it is completed how tall will
+				the Festival Tower be?
+				a.	4 Stories
+			26.	What is the name of the singer in
+				Indigo-Go's?
+				a.	Lulu
+			27.	How many members of the
+				Indigo-Go's are there?
+				a.	5
+			28.	Mikau is of what race?
+				a.	Zora
+			29.	Darmani is of what race?
+				a.	Goron
+			30.	What instrument does the Skull
+				Kid play?
+				a.	Flute.
+		iv.	If you answer his questions correctly you
+			l get a Heart Piece!
+XII.	Secrets of the Swamp
+	a.	South Clocktown VI; Deed Trading Game
+		i.	Start the Land Deed Title Game again
+			and take the South Clocktown Deed with
+			you to the Southern Swamp.
+	b.	Path to the Southern Swamp "*"
+		i.	Head south through the South Clocktown
+			exit to the Southern Swamp.
+		ii.	Keep going until you get attacked by the
+			Wolfos. Wait for them to attack, dodge
+			and jump slash them in their back to kill
+			them.
+		iii.	There should be a tree in the middle of
+			the path. Kill the Keese with a Snot
+			Bubble from the Deku Mask to kill them
+			and then climb up the vines for a Heart
+			Piece.
+		iv.	Make sure you shoot Tingle Down for a
+			map if you haven't already bought one
+			from him.
+			1.	Kooloo-Limpah!
+		v.	The path to the left has a shooting
+			gallery, but you can't play now.
+		vi.	Keep moving and you should end up in
+			the swamp.
+	c.	Southern Swamp "*"
+		i.	Welcome to Southern Swamp! This place
+			can be a Deku paradise or pain.
+		ii.	Go up into the tree house and talk to the
+			man, he mentions a Picture Contest, but
+			Koume's Boat Cruise is currently closed.
+			1.	Talk to him as a Deku and get
+				more unequal rights for Deku's!
+				a.	Equal Rights for Deku's!
+					Equal Rights for Deku's!
+		iii.	Go outside and talk to the Akido Nut. He
+			tells you that he is looking for some
+			"Prime Real Estate" to open his shop. He
+			wants a place with a lot of people.
+		iv.	Trade him the Land Deed for the Swamp
+			Deed. Turn into a Deku and dive into the
+			flower and pop out. Land on the roof to
+			get a Heart Piece.
+		v.	Head back down and you can swim, or
+			bounce on the water while a Deku
+			heading left.
+			1.	The Deku Bounce on water is
+				faster.
+		vi.	When you get there you can climb up the
+			tree house and buy some potions from
+			Kotake, but I would wait for a short time.
+		vii.	Climb back down and go to the back of
+			the corner and you will see the entrance
+			to the Woods of Mystery.
+	d.	Woods of Mystery "="
+		i.	This is very easy to navigate, but if you
+			take a wrong turn you end up back at the
+			beginning.
+		ii.	The easy part is that you only have to
+			follow a Monkey to get through. So put
+			on the Bunny Ears and run with him, he
+			tries to trick you a few times, but he will
+			get you through.
+		iii.	When you get there you Koume is
+			injured, the Skull Kid knocked her down
+			while she was getting some mushrooms.
+		iv.	She needs some Red Potions to heal
+			herself.
+		v.	Go back outside and talk to Kotake and
+			she will give you a bottle of Red Potion
+			for her sister.
+		vi.	Take it back to Koume and give her the
+			potion, but you get to keep the Empty
+			Bottle! She also promises a free ride for
+			the Swamp Cruise.
+		vii.	When you try to leave the monkeys stop
+			you. They want you to help their brother.
+			He was take prisoner by the Deku people
+			for kidnapping the Princess. They say he
+			is innocent.
+		viii.	Head back, but stop and get some Red
+			Potions.
+	e.	Southern Swamp "="
+		i.	Go back to the entrance of the Southern
+			Swamp and head back up the Tourist Hut
+			and talk to the info Guide.
+		ii.	He will give you a Camera to take
+			pictures with. You can only take one
+			picture at a time, but there are prizes for
+			the winners of the contest.
+		iii.	Koume has re-opened the Swamp Cruise,
+			but before you head out why not take a
+			very special picture.
+XIII.	Information about Tingle
+	a. Southern Swamp
+		i.	Head back up the path and take a shot of
+			Tingle flying in a balloon or landing on
+			the ground.
+		ii.	Take this picture back to the man who
+			gave you the camera and show it to him.
+		iii.	If you took the picture he tells you that
+			Tingle is his son. He constantly tells him
+			to stop running around like that. A 35-
+			year-old kid should not be dressing up in
+			that outfit.
+		iv.	He then gives you a Heart Piece.
+			1.	If you don't want to use Tingle's
+				picture take one of the Deku King
+				and you will get a Heart Piece.
+			2.	You only get one!
+XIV.	Save the Monkey's Tail
+	a.	Southern Swamp
+		i.	Now take Koume's Swamp Cruise. Just
+			sit back and enjoy the ride. You can take
+			some pictures if you want, but you only
+			keep one on file.
+	b.	Deku Palace "*"
+		i.	When you get to the Deku Palace you
+			will be given the choice to get off of the
+			boat. Say Yes, but stay clear from the
+			water, it is poison.
+		ii.	Turn into a Deku and then go inside, talk
+			to the Monkey and he tells you his
+			brother is inside.
+		iii.	Go through and a few Deku Guards will
+			not let you through. Talk to them and
+			they will let you through to see the
+			"foolish monkey" that kidnapped the
+			Princess. He will be killed soon.
+		iv.	Go through and see the monkey in his
+			cage. You can take a picture of the King
+			if you want.
+		v.	Go back to the Entrance and go back
+			inside. On the Right side and prepare for
+			some quick running.
+		vi.	The goal is to get through this palace
+			without being seen by the Deku guards.
+			1.	It is better to go at night. You can
+				see their line of sight by white
+				dotted lines. As long as you don't
+				cross these lines you are safe.
+		vii.	At the end of the road you will find a
+			small hole, dive in.
+		viii.	When you get inside turn left to talk to
+			the Bean man who will sell you beans
+			and teach you how to use them.
+		ix.	Buy several, but they do not come back
+			with you, now go back to the entrance of
+			the hole and go up this time to the pool of
+			water.
+		x.	Take some with the bottle you have. Now
+			plant the bean in the Square Soil Patch.
+			Drop the Spring Water into the Soil Patch
+			and watch the plant grow.
+			1.	The water near the tourist
+				information booth will also give
+				you Spring Water!
+		xi.	Step on it and get the chest with a Red
+			Rupee. Take one jar of water.
+		xii.	Now go back outside the hole and get
+			caught for a quick exit. Now take the left
+			side and grab the Heart Piece.
+	c.	Deku Palace; Outside
+		i.	Now that you have the Magic Beans head
+			outside the palace and go to the right,
+			facing the palace, and hop along the lily
+			pads until you reach the end of the path
+			and reach land.
+		ii.	Place a bean in the patch and then pour
+			the water on it.
+		iii.	Now step on it and go up into the second
+			floor of the palace.
+	d.	Deku Palace; 2nd Floor
+		i.	This part is basic, but it may take a few
+			tries to get it right. You must jump out of
+			each flower flying over the sections to
+			reach the Monkey's Cage.
+		ii.	If there is a Red Deku they're shooting at
+			you either fly over him if he in on a
+			single pillar, or spin attack it to create a
+			new flower.
+		iii.	Once you get to the end there will be
+			some moving pillars, so be careful
+		iv.	When you reach the cage talk to the
+			money, but be human, by Z targeting him
+			and talking to him.
+		v.	He wants you to cut him down, but it is
+			no use. The King starts to notice, but
+			before he can the monkey teaches you the
+			Sonata of Awakening.
+		vi.	Turn into a Deku and play your pipes for
+			the song.
+		vii.	Sonata of Awakening
+			1.	/\ < /\  A > A
+		viii.	You will get kicked out, but go back
+			inside and you can see the monkey get
+			boiled.
+		ix.	Go back to the outside of the palace. Hop
+			onto the pads to the right and go down.
+			The pad is on a landing that will allow
+			you to go over Southern Swamp.
+		x.	When you get across the water, where the
+			boat is, an old friend will stop you. The
+			Owl.
+		xi.	He will tell you that whenever you need
+			his help, just call upon him and he will
+			take you where you need to go.
+		xii.	Song of Soaring
+			1.	\/ < /\ \/ < /\
+XV.	Freeing Woodfall and the Deku Princess
+	a.	Woodfall "*"
+		i.	After you get through the Swamp by
+			going over you will see a huge circle of
+			poison water.
+		ii.	There are a few things here that you
+			might want, but the first thing to do is get
+			to the Deku Alter.
+		iii.	Go from the right, facing out from the
+			entrance, and hop onto the lily pads onto
+			the wooden ramps with the Deku
+			Flowers.
+		iv.	As Link you can kill the bugs that ram
+			you down, but be careful if they knock
+			you over the water could kill you.
+		v.	When you get to the top dive into the
+			flower and repeat until you get to the
+			circle platform.
+		vi.	When you get there, hit the Owl Statue to
+			activate it, you can now return here
+			without having to go through the ordeal
+			of getting here.
+		vii.	There is still more here. Keep going left
+			and you should reach a chest with a Heart
+			Piece.
+		viii.	Play the Song of Soaring and return to
+			Clocktown. When you get there deposit
+			any money you have and play the Song
+			of Time.
+	b.	Woodfall Temple
+		i.	The first thing to understand is that there
+			are Fairies hidden all across the temple.
+			Some are in chests, in monsters, and
+			others in bubbles.
+		ii.	Once they are free the Fairy Mask will
+			call them to you, but not until they are
+			free. The Mask will also give sparkles if
+			there is still a fairy in the room.
+			1.	There are 15 Fairies
+		iii.	The first room is the first of many rooms
+			that depend on Deku Link.
+		iv.	If you put on your Fairy Mask you will
+			find that there is a fairy or fairies in the
+			room.
+		v.	The first is right in front of you and the
+			second is on a chest to the right. You
+			must dive into the Deku Flower and fly to
+			the chest to get it.
+			1.	Fairy 1&2
+		vi.	Now fly through as Deku Link and get to
+			the flowers and continue to the end
+			platform. Watch out for the Big
+			Skulltulas on the sides so enter in the
+			middle.
+		vii.	The huge flower in the middle will
+			needed later, but watch out for the little
+			ones. They will not hurt a Deku Link, but
+			a regular Link will get chewed up and
+			spit out.
+		viii.	There are 2 Fairies here. The first is
+			inside one of the pots on the southeast
+			corner and one in the Deku Baba that is
+			guarding the locked door on the west
+			side.
+			1.	Fairy 3&4
+		ix.	The only unlocked door is to the east side
+			of the room. Take it for the next area.
+		x.	This room has a Deku Flower in the
+			middle of the room and a chest on a
+			ledge.
+		xi.	Hop over the water and the flowers to get
+			to the Deku Flower and dive in and fly to
+			the chest.
+		xii.	Open it to get a Small Key, but don't rush
+			away yet. There is another Fairy here.
+		xiii.	The face to the left of the chest, facing
+			the wall, and shoot the face in the wall to
+			get the Fairy in the bubble. It may take a
+			few times to get it.
+			1.	Fairy 5
+		xiv.	Take the flower and fly to the room on
+			the east side with the torches.
+		xv.	This room has a bunch of spiked turtles
+			that are immune to your sword attacks
+			and mostly any other attacks except one.
+		xvi.	Lure the turtles to you while you are near
+			a Deku Flower. Dive in and wait for them
+			to go above you and pop out.
+		xvii.	It may take a few times, but you'll get the
+			hang of it, it is kind of fun too.
+	     xviii. Once they are all dead you will get your
+			first Dungeon Map.
+		xix.	Dungeon Map
+			1.	This is the only time you will get
+				an explanation.
+			2.	This map will tell you the format
+				of the room, but you need the
+				compass to find out where you
+				are.
+		xx.	Return back to the previous room and
+			then to the next. So you are back to the
+			room with the huge flower.
+		xxi.	Go to the west side and open the locked
+			door.
+		xxii.	This room has a huge block in the
+			middle, but only Link's form can move
+			it.
+	     xxiii. There are 3 fairies in this room all of
+			them you can get now, but you can wait
+			on one.
+		xxiv.	Push the block forward and follow the
+			planks right until you get to the northeast
+			corner.
+		xxv.	There is a Big Skulltula here that has a
+			fairy inside. Kill it to get it.
+			1.	Fairy 6
+		xxvi.	There is another one under the planks in a
+			bubble. You can pop it by swimming into
+			it, but the water is poison. If you are low
+			on hearts with no potions to refill
+			yourself then you can wait till later. It is
+			near the entrance.
+			1.	Fairy 7
+	     xxvii. If you do get it you must find the ramp
+			that will take you back up out of the
+			water.
+	    xxviii. Go around and push the block again and
+			go down towards the end with the door.
+		xxix.	Go up the ramp and shoot down the hives
+			with a "Snot Bubble" and put on the
+			Fairy Mask to call it to you.
+			1.	Fairy 8
+		xxx.	You will need to light all of the torches to
+			the room. You can get the flame from the
+			torch near where the fairy was.
+		xxxi.	Use a Deku Stick and the Bunny Hood to
+			get them all.
+	     xxxii. Go into the southern room that is now
+			open with the torches lit.
+	    xxxiii.	This room has the same feeling as the
+			ones with the turtles. The Dragon Flies
+			can be a pest, dive into the flowers and
+			wait for them to come near you and pop
+			out to kill them.
+	     xxxiv.	In return you will get the Compass.
+		xxxv.	Compass
+			1.	This goes with the Map. Now
+				when you enter a room you can
+				see where you are and where you
+				came in.
+	     xxxvi.	Return back to the previous room and go
+			to the left from the door. Go up the stairs
+			and you should notice the platforms in
+			the air.
+	    xxxvii.	Take a Deku Stick and light it with the
+			torch on the stairs. Jump over the
+			platform and then to the web jump to it
+			and burn the web.
+			1.	If you roll before you jump or
+				have the Bunny Hood you should
+				be all set.
+	   xxxviii.	When you start here stock up on some
+			Deku Sticks you will need them. Turn
+			into a Deku Link and go up the stairs.
+	     xxxix.	This room is infested with these irritating
+			Dark Boes. They are small and you can
+			only see their eyes in the dark.
+		xl.	Deku Spin until they are all dead. Once
+			they are dead turn into regular Link and
+			take out your Deku Stick. Light it with
+			the torch in the middle and then run along
+			the edge of the room to light all of the 3
+			torches.
+		xli.	If you do in time a chest will appear with
+			another fairy inside.
+			1.	Fairy 9
+		xlii.	Go into the next room. This room can be
+			tricky. There are tons of Dragon Flies
+			here and if you fall into the wrong area
+			you will be back to the beginning again.
+	     xliii.	Take out the flies with your "Snot
+			Bubbles" before you go flying across the
+			room.
+		xliv.	Fly to each of the Deku Flowers until you
+			get to northeast corner of the room and
+			take the stairs.
+		xlv.	You are now back in the second room,
+			but on the upper level this time.
+		xlvi.	There are 2 more fairies that are available
+			now; the first is to your right as you exit.
+			1.	Fairy 10
+	     xlvii.	Walk around to your right heading to the
+			eastern door and step on the switch.
+	    xlviii.	This will make a ladder so that you can
+			climb straight to the second floor without
+			having to worry about going all the way
+			around.
+		xlix.	Go back to the door you came in from
+			and look to the left. There is an unlit
+			torch there; this will come into play later,
+			and a footswitch.
+		l.	Turn into Deku Link and dive into the
+			flower near the door. Fly over to the
+			switch and press it down as normal Link.
+		li.	A chest will appear at the entrance to the
+			room. Open it to find the final fairy for
+			this room.
+			1.	Fairy 11
+				a.	There are 4 more left.
+		lii.	Go to the right where you hit the first
+			switch and enter this room. This room
+			should look familiar. Stay on this level,
+			but go to your left.
+		liii.	Go into the door and you will fight an
+			old friend from Oot. The Lizalfos.
+		liv.	He's go some new moves, including fire
+			breath, so just horizontal slash and dodge.
+		lv.	He isn't too hard so you shouldn't have
+			too much trouble.
+		lvi.	Once you defeat him you will get the new
+			weapon and best friend. The Hero's Bow.
+		lvii.	Hero's Bow
+			1.	This bow can be used for many
+				things, mainly as a weapon.
+			2.	You can shoot Eye Switches and
+				Crystal Switches from a distance
+				now as well as sniper a lot of
+				enemies.
+			3.	To make the Arrow turn into a
+				Fire Bow without the Fire Arrow
+				upgrade just shoot it through a
+				torch.
+	     lviii.	Go back into the previous room and
+			shoot the Eye Switch across the way
+			from the level you are on. This will make
+			the Deku Flower in the middle of the
+			room to elevate and descend so you can
+			fly across the hall to the next room.
+	c.	Woodfall; Sub Boss
+		i.	Gekko
+			1.	This is going to be a tough fight.
+				You need to change form Deku to
+				Link very fast and pull out your
+				Bow and Arrow even faster.
+			2.	What will happen is the Gekko
+				will jump on his turtles and come
+				after you. You need to go into a
+				Deku Flower and jump when he
+				comes over you.
+			3.	This will knock over the turtle,
+				sometimes releasing some
+				Arrows.
+			4.	The Gekko will now run across
+				the walls and ceilings for a short
+				time.
+			5.	Shoot him with your Arrows and
+				repeat. Three shots and he is
+				gone.
+				a.	He turns into a frog, but
+					this will come to play
+					when we do the Don
+					Gero's Side Quest.
+			6.	The door in the back will open
+				allowing you to get the Boss Key.
+		ii.	Boss Key
+			1.	This key is the only one that will
+				open the Boss' Door.
+		iii.	Go back to the previous room with the
+			elevated Deku Flower.
+		iv.	This time go back taking the west exit to
+			the room with the huge flower.
+		v.	Right in front of you when you enter this
+			room is a torch. You need to shoot an
+			Arrow through the torch and hit the torch
+			base in the center of the flower.
+			1.	It may take a few tries to get the
+				hang of it.
+		vi.	This will make the flower rise and spin. It
+			also clears the water of the poison so you
+			can go back to get that fairy in the room
+			with the block, if you need to.
+			1.	You can also shoot the bubble
+				with an Arrow and call it with the
+				Fairy Mask.
+		vii.	Jump onto the spinning flower from the
+			second level and take a spot near, but a
+			little away from the torch in the middle.
+		viii.	Remember the torch near the Switch that
+			makes the Fairy chest appear? You need
+			to light that from the moving flame.
+		ix.	If you can do it the door will open
+			leading you to the next room and one
+			more step to the Boss.
+		x.	Go through the now open door. There are
+			4 fairies in this room too so get ready.
+		xi.	The first one is in a bubble surrounded by
+			fire, just shoot an Arrow to pop the
+			bubble and then call it with the Fairy
+			Mask.
+			1.	Fairy 12
+		xii.	The next two are in the alcoves to the
+			right of the entrance. Go down to the
+			bottom and then use the Deku Flower to
+			go to your left facing the entrance.
+		xiii.	Go up to the first one and land in the
+			alcove to get this one. Then take out your
+			Bow and Arrow and shoot the one across
+			the room in the other alcove, and then get
+			the final one on the next alcove above
+			you.
+			1.	Fairies 13,14, &15
+		xiv.	Now that the fairies are all saved you just
+			need to make it to the Boss Room.
+		xv.	Go back to the bottom of the ladder and
+			take the Deku Flowers up to the second
+			alcove on the left facing the entrance.
+		xvi.	Shoot the Crystal Switch with an Arrow
+			and then turn into Deku Link.
+		xvii.	Now dive in and fly straight to the pillar.
+			Ignore the Deku Flower above the
+			Crystal Switch.
+	     xviii.	Dive into the pillar Deku Flower and then
+			fly to the Boss Room before the fire
+			comes back.
+		xix.	Open the door and prepare for your first
+			Boss fight.
+	d.	Woodfall; Odolwa
+		i.	Odwola is a large boss to fight. You need
+			to be in Human form to fight him.
+		ii.	Z Target him and shoot an Arrow once
+			you think his defense is down.
+		iii.	While he is stunned do a Jump Slash at
+			him. After a few good hits he will
+			summon some bugs. Place a Bomb to kill
+			them or do a Spin Attack to take them
+			out.
+		iv.	Use your R to block his jump slash
+			attacks and jump when his defenses are
+			down.
+		v.	When he is dead you will get the Odolwa
+			Mask. It is the first of 4 Sacred Masks
+			you must collect as well as a Complete
+			Heart Container.
+	e.	Woodfall; Side Exit
+		i.	If you need to, or want, to defeat Odolwa
+			again because you skipped the Deku
+			Princess you only have to enter the
+			temple and step on the glowing platform,
+			if you need to go through the temple
+			again just pass it.
+			1.	You will be transported to the
+				Boss' Room automatically.
+	f.	Woodfall II
+		i.	Now that you defeated Odolwa the
+			temple raises a level and you are placed
+			in the back.
+		ii.	Turn around and use your sword to chop
+			down the vines and talk to the Deku
+			Princess. She will thank you for saving
+			her and wants you to take her to her
+			father.
+		iii.	Swipe a bottle in front of her and she pop
+			in.
+			1.	Don't bother, I don't get it either.
+				How will she fit in a bottle?
+		iv.	Now that you are out you need to return
+			the Stray Fairies to the Fairy Fountain.
+		v.	The Fountain is on a ledge in the
+			southwest corner of the map.
+	g.	Woodfall; Fairy Fountain
+		i.	Once you return all 15 Fairies you will be
+			given a gift of Power.
+		ii.	Every time you charge your sword you
+			will do a large spin, minus some MPs.
+	h.	Deku Palace II
+		i.	Return to the Deku Palace and turn into a
+			Deku and enter the palace.
+		ii.	Talk to the King and release the Princess.
+			She will then order the freedom of the
+			Monkey. You are also allowed a gift, but
+			you must go to the side of the palace to
+			get it.
+	i.	Deku Palace; Outside II "+"
+		i.	Hop on the Lily pads to the entrance to
+			the cave.
+		ii.	Talk to the man and he will tell you must
+			follow him in order to get your prize.
+		iii.	Put on your Bunny Ears and follow him.
+			When you get to the area where there is a
+			large amount of water, turn into a Deku
+			and bounce across.
+		iv.	There is no time limit, but he is fast, the
+			Bunny Hood is a good thing to have.
+		v.	When you get there you will be awarded
+			a new mask.
+		vi.	Mask of Scents
+			1.	This mask will allow you to find a
+				special scent that help to make
+				Ultimate Potions at the Potion
+				Shop, just give it to Kotake.
+				a.	The 2 places are in the
+					Stock Pot Inn, or the Lost
+					Woods where you find the
+					witch.
+XVI.	Extra Stuff
+	a.	Koume's Swamp Cruise Target Game "*"
+		i.	Now that you have a Bow and Arrow and
+			defeated Odwola you can take Koume's
+			challenge and play target practice with
+			her.
+		ii.	If you hit 20 Targets by the end of the
+			ride then you will get a Heart Piece.
+			1.	If you hit Koume 10 times you
+				will lose.
+	b.	Termina Field; Pea Hat Grotto "*"
+		i.	Go to the forest area of Termina Field.
+			Look inside the grass and find the
+			butterflies floating around one area.
+		ii.	When you fall down that hole you will
+			find a Pea Hat there. He has LARGE
+			blades and will try to chop you down.
+		iii.	Take out your bow and fire some arrows
+			at him kill him from a safe distance.
+		iv.	When you are done you will get a Heart
+			Piece for your troubles.
+	c.	Honey & Darling's Shop II"*"
+		i.	Come to the Shop and play their games,
+			one each day, and in the end you will
+			get a Heart Piece.
+			2.	Day I
+				a.	Bombachu Targets
+			3.	Day II
+				a.	Bomb Basketball
+			4.	Day III
+				a.	Target Practice
+		ii.	East Clocktown; Town Shooting Gallery
+			"*"
+			1.	Go to the Shooting Gallery and
+				get a perfect score for a Heart
+				Piece.
+			2.	Close to prefect gets you a
+				Quiver.
+	d.	Path to the Southern Swamp; Swamp Shooting
+		Gallery
+		i.	Go back to the path to the Southern
+			Swamp and go to the small inlet on the
+			side.
+		ii.	Get a perfect score in the gallery
+			and get a Quiver, get it one more
+			time to get a Heart Piece.
+		iii.	A perfect score is 2,120! There
+			are some hidden ones so look at
+			the trees, cliffs, and other areas.
+	e.	Termina Field II
+		i.	If you are looking for some money you
+			can shoot down the bird that steals your
+			items from a distance.
+		ii.	It takes 12 shots, but you get the Orange
+			Rupees worth 200 Rupees for each time
+			you kill it.
+	f.	Gold Skulltula House "+"
+		i.	You can do this anytime, but it is easier
+			with a Bow and Arrow.
+		ii.	To get here you need to go outside the
+			Deku Palace and turn to the side.
+		iii.	Hop over the water to the island with the
+			Spider Web blocking the door.
+		iv.	Take out your Deku Stick and light it
+			with the torch and burn the door away.
+		v.	After you kill a Gold Skulltula you must
+			collect it's token in order to get credit, if
+			not then it will come back to life after
+			you leave the room.
+			1.	If you run out of Arrows then you
+				can leave and come back with the
+				same amount of tokens.
+		vi.	Be Prepared
+			1.	You need 2 bottles of Bugs.
+				a.	Some can be found near
+					the entrance.
+			2.	You need 2 Beans.
+				a.	The water on the floor in
+					the first area is actually
+					Spring Water.
+		ii.	Main Room; Level 1
+			1.	It is to your right as you enter the
+				first area, jump off the platform,
+				and break the pots to find it.
+				a.	Skulltula 1
+			2.	This Skulltula is in the water.
+				a.	Skulltula 2
+			3.	This Skulltula is next to the ramp,
+				but it's on the pillar
+				a.	Skulltula 3
+			4.	There is a small dirt patch on the
+				left sidewall. Pop open the Bottle
+				of Bugs and watch them go
+				inside.
+			5.	This Skulltula will pop out for
+				you.
+				a.	Now fill it with Spring
+					Water.
+				b.	Skulltula 4
+			6.	This one is also on the soil patch,
+				but it is on the opposite sidewall.
+				a.	Skulltula 5
+		iii.	West Room; Level 1
+			1.	Go to the West Room, off the first
+				one.
+			2.	Break of the crates in the room by
+				rolling into them or break them as
+				Goron Link.
+				a.	Skulltula 6&7
+			3.	Now blow up all the rocks in the
+				room to find a dirt patch.
+			4.	Go to the dirt patch and plant a
+				Magic Bean. Pour some water on
+				it and ride it to the Skulltula on
+				the wall. Kill it and take it.
+				a.	Skulltula 8
+				b.	There are more here, but
+					they are on the second
+					level, we will get to them
+					soon.
+		iv.	East Room; Level 1
+			1.	Roll into the Vases to make 2
+				more Skulltula pop out.
+				a.	Skulltula 9&10
+			2.	Break the pots to the right side of
+				the room for another Skulltula.
+				a.	Skulltula 11
+			3.	Go to the vines on the ledge to the
+				left. Swipe your sword to clear
+				the vines and reveal an alcove.
+			4.	Get the Skulltula and exit the
+				alcove.
+				a.	Skulltula 12
+		v.	Eastern Room; Level 2
+			1.	Now Deku Shrub that is near the
+				alcove will not wake up. Play the
+				Sonata of Awakening and he will
+				leave.
+				a.	/\ \/ /\ \/ A > A
+			2.	Now fly o the ledge above the
+				alcove.
+			3.	Take out your Bow and Arrow
+				and shoot down the "Nests".
+			4.	Two will have Skulltula; the
+				others will have Hornets, so be
+				careful.
+				a.	Skulltula 13&14
+			5.	There is one on the wall above the
+				alcove on the right wall. Wait for
+				it to come down and get the
+				Skulltula.
+				a.	Skulltula 15
+			6.	Now go back down onto the Deku
+				Flower and shoot up to the back
+				of the room.
+			7.	At the top there is another Deku
+				Flower and a door. Go through
+				the door.
+		vi.	Main Room; 2nd Floor
+			1.	Turn to the back of the room and
+				notice the dirt patch. Pop open a
+				Jar O' Bugs and get your next
+				Skulltula.
+				a.	Skulltula 16
+			2.	Now take the Deku Flower near
+				the door and fly to the center
+				Deku Flower.
+			3.	Turn into Link and shoot an
+				Arrow at the Skulltula that is on
+				the wall opposite of the entrance
+				on top.
+			4.	Turn into a Deku and fly to the
+				Token.
+				a.	Skulltula 17
+			5.	Now fly to the opposite side of
+				the room. There is another
+				Skulltula crawling on the back
+				pillar on the north side of the
+				room.
+				a.	Skulltula 18
+			6.	Now enter the door on the left
+				side, the side you should be on
+				now.
+		vii.	Western Room; 2nd Floor
+			1.	There is a Skulltula on this level
+				behind the torch.
+				a.	Skulltula 19
+			2.	The final one for this area is on
+				the statue that is in the middle of
+				the room. Shoot it with an Arrow
+				and then jump onto it to get the
+				token.
+				a.	Skulltula 20
+			3.	Now go back to the Eastern Room
+				and fly up to the 2nd Floor and
+				take the exit to the Northern
+				Room.
+		viii.	Northern Room
+			1.	Once you enter hit the switch to
+				create a ladder to the opposite
+				side of the room.
+			2.	Shoot the Skulltula with an Arrow
+				and then climb the ladder to get
+				the Token.
+				a.	Skulltula 21
+			3.	There is another on the last pillar
+				to the right, wait for him to come
+				down.
+				a.	Skulltula 22
+			4.	Once there shoot down the
+				"Nests" and get another Skulltula.
+				a.	Skulltula 23
+			5.	Now go to the dirt patch on this
+				walkway and plant a seed and
+				some water.
+			6.	Ride the plant to the Skulltula on
+				top of the wall.
+				a.	Skulltula 24
+		ix.	Tree of Spiders
+			1.	This last room has tons of
+				Skulltula, but they are hidden
+				among the trees and plants.
+			2.	First roll into the tree to knock
+				down three Skulltulas down.
+				a.	Skulltula 25,26,&27
+			3.	There are two more among the
+				brush, you may take some
+				damage, but it is worth it.
+				a.	Skulltula 28&29
+			4.	The final one is in the "Nest"
+				above the trees.
+				a.	Skulltula 30
+		x.	Now go back to the entrance and visit the
+			man there. He will thank you for saving
+			him and curing him of his curse.
+		xi.	In return he gives you the Mask of Truth!
+		xii.	Mask of Truth
+			1.	This mask will allow you to talk
+				to the Gossip Stones to get
+				information.
+			2.	It also lets you talk to animals like
+				dogs.
+II.	Extra Stuff
+	a.	Romani Ranch; Dog Track "*"
+		i.	Go to Romani Ranch on the 3rd day, or
+			after you clear the road and visit the Dog
+			Track in the back of the Ranch.
+		ii.	Talk to the woman to get the chance to
+			choose a dog.
+		iii.	Pick a Dog up with the Mask of Truth on
+			you can hear their thoughts.
+		iv.	The key to getting the best dog is the
+			listen to what they say.
+			1.	Ruff, I feel Invincible
+			2.	I fell like I could win today!
+		v.	DO NOT PICK
+			1.	"Ruf-Ruff"
+			2.	"Hoo-Whine"
+			3.	Or anything negative
+		vi.	If you get 150 Rupees in one race then
+			you get a Heart Piece.
+III.	Investigate the Northern Mountains
+	a.	North Termina Field
+		i.	Go to the North Termina Field and walk
+			up the snow path to the top where the ice
+			blocks the way to the Mountain Village.
+		ii.	Shoot 2 Arrows at the icicles above the
+			ice to shatter it.
+			1.	Do not touch the ice or you will
+				freeze for a short time.
+	b.	Mountain Village Path
+		i.	When you get through follow the path.
+			When you reach the large piles of snow
+			you can blow it up to get through.
+	c.	Mountain Village
+		i.	When you get to the village you can
+			activate the Owl Statue that is north if the
+			Mountain Smithery hut.
+			1.	You can't do anything now
+				because it is frozen in ice inside.
+		ii.	When you are ready head to the
+			Southeast exit. Follow the path over the
+			mountains.
+		iii.	You may run into some Snow Wolfos,
+			just treat them like regular ones.
+		iv.	Be sure to shoot down Tingle to get some
+			new maps if you need them.
+		v.	Keep moving through until you get to the
+			Goron Village.
+	d.	Goron Village
+		i.	When you enter Goron Village you will
+			find some Gorons freezing.
+		ii.	There isn't much to do here now. You
+			need a few things to make this Village
+			moving.
+	e.	Goron Village; Deed Trading "*"
+		i.	You can do some more work on the Deed
+			Trading Sequence now.
+		ii.	Complete it up to the Southern Swamp
+			Akido Nut and take that Deed to the
+			Goron Village.
+		iii.	Find the Akido Nut to the right side of
+			the town to trade with, but in Deku form.
+		iv.	Use his flower to get the Heart Piece on
+			the ledge.
+	f.	Goron Village II
+		i.	Go around the back of the village when
+			the Owl stops you.
+		ii.	He mentions that you must let your
+			courage guide you, not your eyes, and to
+			follow his path.
+		iii.	Take care you will be jumping on
+			invisible platforms. Watch the Owl go
+			through his path and he will drop some
+			feathers on the invisible platform.
+		iv.	Follow the feathers to the Lone Peak.
+	g.	Lone Peak "="
+		i.	After another conversation with the Owl
+			you will enter the cave. Inside is a chest
+			with the Lens of Truth.
+		ii.	Lens of Truth
+			1.	This will let you see the invisible
+				monsters, platforms, and spirits
+				that are around the world.
+		iii.	Now turn on the Lens of Truth and jump
+			from platforms that you can now see
+			them to the village.
+	h.	Goron Village III
+		i.	When you get back you will see a gray
+			spirit. Talk to him and he wants you to
+			help him, since no one can see him.
+		ii.	He is Darmani, the lost spirit of the
+			warrior of Gorons.
+		iii.	He wants you to a leave his suffering,
+			follow him to his grave.
+		iv.	Keep the Lens of Truth on and follow
+			him. He will take you back to the exit of
+			the Village all the way across the
+			mounds.
+			1.	If you run out of Magic Power
+				then turn it off when you get to
+				the path. Darmani will wait for
+				you until you get some Magic
+				Power, but do not leave the area
+				to a new section, he will
+				disappear.
+	i.	Mountain Village II
+		i.	When you get back to the Mountain
+			Village you will follow him to the back
+			of the village with water.
+		ii.	Turn into a Deku and hop across the
+			water.
+		iii.	Turn on the Lens of Truth again to see
+			the stairs. The stairs has some dead ends,
+			but keep moving up.
+		iv.	When you get there follow Darmani to
+			his grave.
+	j.	Darmani's Grave "+"
+		i.	When you get there you are asked to
+			some how a leave his suffering.
+		ii.	Play the Song of Healing to cure him and
+			you will get the Goron Mask.
+		iii.	Read the Grave to find out how to
+			maneuver the Goron's abilities.
+			1.	When rolled up press A to make a
+				pound into the ground
+			2.	When you roll you will gain
+				speed and eventually grow spikes
+				mowing down any obstacles, but
+				it takes MP.
+		iv.	Now go to the back of the grave as a
+			Goron and pull the grave out to get some
+			Hot Spring Water.
+		v.	Take out a bottle and bottle it up. Now
+			Goron Roll out of the cave.
+		vi.	Go to the Goron that is frozen in ice
+			outside. Open the hot water to free him.
+		vii.	Now that you know how it works you
+			should know that it has a time limit so
+			you have to hurry.
+		viii.	Go outside, but turn into a Deku before
+			you jump over the edge.
+		ix.	Hop across the water and turn into a
+			Goron again.
+		x.	Roll back to the path that leads to the
+			Goron Village and stop once you reach
+			the mound that has a hole covered in ice.
+		xi.	Open the Hot Spring bottle on the ice and
+			now you have access to the Second and
+			more accessible Hot Spring.
+		xii.	Don't bother getting some now, but you
+			will be backs here soon.
+	k.	Goron Village III
+		i.	Head to the Goron Village and look for
+			the entrance to the Goron Shrine, it is at
+			the bottom of the Village.
+		ii.	When you get there do a Goron Rolling
+			Pound to get the door open.
+		iii.	Head inside and look for the Baby's
+			room, follow the crying.
+		iv.	Talk to him and he will cry for his father.
+		v.	Exit the village and head for the new
+			Hot Spring.
+	l.	Mountain Village III
+		i.	When you get to the Hot Spring get some
+			water and head outside.
+		ii.	Go down off the mound and head back
+			towards the Goron Village.
+		iii.	Pound any large snow mounds you find
+			until you see an old Goron in ice.
+		iv.	Pour the hot water on him, as a Goron,
+			and he will thank you for your help.
+		v.	He is shocked to see Darmani is alive,
+			and after a short conversation you notify
+			him of his son.
+		vi.	He is too busy to come home, but he will
+			teach you a song on your drums to help
+			him sleep.
+		vii.	Goron Lullaby; Part 1
+			1.	A > < A > <
+	m.	Goron Village IV
+		i.	Now return to Goron Village and go back
+			to the Shrine with the crying baby.
+		ii.	Play the Goron Lullaby as Goron Link
+			for him and he will teach you the rest of the song.
+		iii.	Goron Lullaby; Completed
+			1.	A > < A > < > A
+IV.	Freeing Snowhead & Goron Village
+	a.	Snowhead
+		i.	Go back to the Mountain Village. If you
+			want to you can take some Hot Spring
+			Water with you and melt the ice in the
+			Mountain Smithery.
+		ii.	The man will upgrade your sword, but it
+			will only last for 100 strikes, the only
+			way to make it permanent is to get Gold
+			Dust.
+			1.	You get this later when spring
+				arrives.
+		iii.	Head through the village to the upper left
+			corner, past the Owl Statue.
+		iv.	When you get there you will have to do a
+			Goron Roll over the ramps, watch for the
+			sides be sure not to fall.
+			1.	When you get the Spikes it will
+				clear any snowballs coming at
+				you.
+		v.	When you get through you will see an
+			Owl statue. Activate it and move up just
+			a little.
+		vi.	If you try going to the path that leads to
+			the temple you will be blown back or off.
+		vii.	There is a HUGE Goron that is blowing
+			wind at you so you have to take care of
+			him first.
+		viii.	Play the Goron Lullaby to make him fall
+			asleep and now you can enter the temple.
+		ix.	Move up through the path hitting any
+			snowballs that come your way.
+		x.	Walk around on the path to the top of the
+			path and enter the temple.
+	b.	Snowhead Temple
+		i.	This first room has a bunch of Ice
+			Stalagmites. Swipe your sword or Goron
+			Punch them to get rid of them.
+		ii.	Turn into Goron Link and push the block all
+			of the way back so it will fall into a hole
+			completes the hallway.
+		iii.	This room has three doors. One locked
+			and one with ice blocking it.
+		iv.	Go to the right one, the only available
+			one, for the next room.
+		v.	There are 15 Fairies here like before. The
+			first 2 are here.
+		vi.	As a Goron go to the beginning of the
+			wooden platform and start a Goron Roll.
+			If you get enough speed you will go
+			flying over the pillar in the middle as
+			well as the gap and make it to the other
+			side.
+		vii.	From here take out you Bow and Arrow
+			and aim at the stone pillar standing near
+			where the pots are.
+		viii.	There is a fairy in the bubble in the
+			alcove inside the stone pillar. Call it with
+			the Fairy Mask.
+		ix.	There is a second one under the platform
+			behind you that is above the stairs.
+			1.	Fairy 1&2
+		x.	If you fall down into the pit you must go
+			back to the beginning where there is a
+			ladder.
+		xi.	Watch out for the Lave, but in Goron
+			form you will not be hurt. Link will be
+			and a Deku or a Zora will be burnt and
+			sent to the entrance of the room.
+			1.	I know you do not have the Zora
+				form yet, but it is a FYI.
+		xii.	When you get over there and have the
+			fairies then jump over to the platform in
+			front of you and up the stairs.
+			1.	Ignore the door for now, just go
+				up the stairs.
+			2.	You need to jump as Link; a
+				Goron form is too big to make
+				most jumps while standing.
+		xiii.	Here you will see a thing called a "Real"
+			Bombchu. He is an annoying pest that the
+			Bombchu was based from. Once it hits
+			something it explodes.
+		xiv.	The best way to dispatch of this annoying
+			monster is to block him with your shield.
+			He will bounce back and blow up at a
+			safe distance.
+		xv.	There is a fairy here and it must be one of
+			the simplest to get. It is sitting in the
+			corner of the room.
+			1.	Fairy 3
+		xvi.	Open the chest in the corner for the
+			Dungeon Map. Go back downstairs.
+		xvii.	This time go into the door, but you can
+			re-stock with some of the pots by the
+			door.
+	     xviii.	This is the Center Room 1st floor. This
+			room is actually a huge room that extends
+			5 stories.
+		xix.	There is only one door that is open that
+			you can only go to one room right now,
+			but there is a fairy that you may want to
+			get. Drop down into the basement of this
+			room you should find a switch in the
+			lava.
+		xx.	Step on it, a Goron can resist the heat of
+			the lava, and go to the chest it created.
+			Open it to find the fairy.
+			1.	Fairy 4
+		xxi.	Now open the door to the only place that
+			is open. You can activate a fairy chest
+			here now, but you won't be able to get it
+			until later.
+		xxii.	Go to the block on the left side of the
+			room and pull it out pull it all of the way
+			to the end if the room to the farthest spot
+			you can.
+	     xxiii.	If you hear a chime you got it in the right
+			spot and a chest will appear.
+		xxiv.	This is the fairy chest and the block will
+			act as a bridge to get it later on.
+		xxv.	Now go back to the spot where you
+			pulled the block out and go inside to get
+			the chest.
+		xxvi.	Take the small key and head back to the
+			center room. Turn to your left and head to
+			the ice block with the torches on each
+			side.
+	     xxvii.	Shoot an arrow through the torch flame
+			into the ice and it will melt.
+	    xxviii.	This will make a short cut to the entrance
+			and let you use that new key you just
+			picked up.
+		xxix.	This leads to the room with a lot of ice
+			blocks that are now able to be melted just
+			yet.
+		xxx.	There is another fairy here and this room
+			leads to the previous fairy that you
+			couldn't get, but for now you have to
+			skip it.
+		xxxi.	Take the chest in the middle for the
+			Compass and go to the back of the room.
+	     xxxii.	Blow up the wall in the middle of the
+			pillars to make a staircase appear to the
+			next floor.
+	    xxxiii.	This room has a bunch of ice blocks on
+			the pillars, but these ones can be broken.
+	     xxxiv.	Take out your Bow and shoot some
+			Arrows at the large icicles that are on the
+			ceiling.
+		xxxv.	Two shots should knock them down and
+			break the ice. Now jump from each small
+			platform until you get to the large snow
+			mound on the left side.
+	     xxxvi.	Goron punch it and take the Small Key.
+			After you get the key take out your Lens
+			of Truth and look for the hidden alcove
+			near the entrance of the room with a fairy
+			chest inside.
+			1.	Fairy 5
+	    xxxvii.	This room is a small puzzle that can get
+			confusing. Some of them are timed so be
+			quick. The Switches are Goron Switches.
+	   xxxviii.	Before you start to hit the switches take
+			out your Lens of Truth. Go to the center
+			of the room and look up with your Bow
+			and Arrow and you should see the fairy,
+			pop it with the Arrow.
+			1.	Fairy 6
+	     xxxix.	First hit the switch on the platform you
+			are on right now.
+		xl.	This will raise two platforms and block
+			the door.
+		xli.	There is a switch that was raised in the
+			pit that will allow you to climb to the
+			other side.
+		xlii.	Now hit the switch closest to you and run
+			to the one that was raised connected to
+			your platform.
+	     xliii.	Goron Stomp this switch and the door
+			will be opened.
+		xliv.	Climb back up and get through the door
+			before the switch rises again.
+		xlv.	You will be back in the Center Room
+			again, but up 2nd Floor.
+		xlvi.	Goron Roll across the pit to the other
+			side. This time there is a small snow pile
+			on the side.
+	     xlvii.	Goron Roll through the snow but avoids
+			the edge. Think of this as practice. You
+			will do this again, but there will not be a
+			net next time.
+		1.	Avoid the wall; it will cause you
+			to bounce back.
+	    xlviii.	Now Goron Roll across the pit again to
+			get to the first Sub-Boss' room.
+	c.	Snowhead Temple; Sub Boss
+		i.	Wizrobe I
+			1.	This is the first time you have to
+				Wizrobe. This is actually the
+				easiest time you have to fight
+				him.
+			2.	The best way to fight him is to
+				stand in the corner and scan the
+				room with your Arrow.
+			3.	Hit him while he is spinning on
+				the portal before he shoots his fire
+				wand at you.
+			4.	After several hits he will make
+				things harder for you. He will
+				send illusions of himself to each
+				of the portals.
+			5.	Look for the real one spinning
+				and shoot him before he shoots
+				his fire wand.
+			6.	As a reward you are given the
+				Fire Arrow.
+		ii.	Fire Arrow
+			1.	This Arrow will kill all of the
+				Freezards, or some times called
+				the Ice Wizards, instantly.
+			2.	They also melt  Ice Blocks that
+				block your path.
+		iii.	Now Goron Roll backs to the other side
+			and enter this room. There is a Freezard
+			there, kill him with the Fire Arrow.
+		iv.	There is an Ice Eye Switch that needs to
+			be activated. If you do this will make the
+			platform in the middle of the room to rise
+			and allow you to get to this floor much
+			faster.
+		v.	Before you leave take out your Lens of
+			Truth and you should see the series of
+			platforms leading to an alcove.
+		vi.	Take off your Bunny Ears and jump over
+			each one until you reach the chest. Open
+			it for a Fairy.
+			1.	Fairy 7
+		vii.	Jump down and enter the door that leads
+			back to the second room you entered
+			when you got to the temple.
+		viii.	There is another Small Key here that you
+			will need. You need to kill all of the
+			Freezards and melt the Ice Block to get it.
+			1.	One Fire Arrow will kill each
+				Freezard.
+		ix.	Go back to the entrance of the temple and
+			go through the door that you opened with
+			the first small key.
+		x.	This time melt the ice blocks in the room.
+			There should be a switch that was frozen
+			and it will create a block.
+		xi.	First push it back to the end of the room
+			where you can get a Fairy Chest.
+		xii.	Now push it back to the edge on the
+			backside of the chest where you got the
+			Compass.
+		xiii.	Climb up onto the ledge and throw a
+			bomb onto the crate near the stairs. This
+			will reveal a fairy inside, call it with the
+			Fairy Mask.
+			1.	Fairy 8&9
+		xiv.	Now go through the door on the ledge.
+			This will lead back to the room where
+			you got the first Small Key.
+		xv.	As long as you placed the block at the
+			end of the room you will be able to jump
+			from it to the other side and get the Fairy
+			Chest.
+			1.	Fairy 10
+		xvi.	Go back to the Center Room on the first
+			floor. This time you can melt the ice
+			blocks that did not allow you to enter the
+			other rooms with the Fire Arrow.
+		xvii.	The first one you want to melt is the one
+			on the eastern wall. It is next to the cage.
+	     xviii.	This room is a huge pit that will make
+			you land on the basement. If you fall then
+			you can exit through the door and go
+			back up through the Center Room.
+		xix.	You can also melt the Deku Flower and
+			fly back up straight to this room.
+		xx.	There is a Fairy Chest in this room on the
+			far ledge, but you must kill all three
+			Freezards first. Kill them with Fire
+			Arrows.
+			1.	Fairy 11
+		xxi.	The next step is to light all three of the
+			torches. Light them with the Fire Arrows
+			and the door will open near the one you
+			entered.
+		xxii.	Jump over the pillars to get there. This
+			will lead to the caged room that you can
+			see from the Center Room.
+	     xxiii.	Hit the Goron Switch and this will make
+			a HUGE Pillar rise up the Center Room.
+		xxiv.	This blocks off several rooms, but there
+			is switches on the basement that will
+			make it go back down if you need to get
+			through the rooms again.
+		xxv.	Jump back to the bottom of the Center
+			Room and go back up. This time take the
+			elevator to the second floor and roll over
+			the snow in the Center Room 2nd Floor.
+			Open the door with the Small Key.
+		xxvi.	You are now in the Center Room 3rd
+			Floor, but there is another snow path
+			here. The only problem is if you fall
+			down you will end up back at the bottom,
+			there is no net.
+		1.	There is a Fairy just below you in
+			an alcove with a Fairy Chest. The
+			only problem is that it is
+			unreachable right now; you need
+			to jump from the Center Room's
+			4th Floor to get it.
+	     xxvii.	Roll over and take the stairs. This room is
+			filled with "Snow Caps". They will throw
+			boulders of snow at you. Kill them to get
+			them out of the way.
+	    xxviii.	There is a fairy in the alcove that needs
+			the Lens of Truth to see.
+			1.	Fairy 12
+		xxix.	Take the stairs up to the 4th floor. This
+			room has 2 Lizalfos that need to be
+			dispatched. If you kill them you can get
+			the 2 fairies that rise from their dead
+			bodies.
+			1.	Fairy 13&14
+		xxx.	You should now be in the Center Room
+			4th Floor. Go across the platform to get
+			the Boss Key.
+	d.	Snowhead; Sub Boss
+		i.	Wizardrobe II
+			1.	This time he holds the Boss Key.
+				Use the same stradegy as you did
+				before. Stand is a corner and
+				shoot him with the Fire Arrow.
+			2.	After a few shots he will make the
+				illusions, kill the one that is
+				spinning.
+			3.	After you kill him go through the
+				door and get the Boss Key from
+				the chest.
+		ii.	Now to get the final fairy. On the
+			platform of the 4th Floor look around the
+			edges with the Lens of Truth for the
+			hidden alcove.
+		iii.	Jump from the platform, without the
+			Bunny Hood, and you should land in the
+			alcove.
+		iv.	Get the chest and take the Deku Flower
+			to the 3rd Floor.
+			1.	Fairy 15; Final Fairy
+		v.	The Boss Room is actually on the 4th
+			Floor, but it is only reachable by the
+			Central Room 3rd Floor.
+		vi.	You need to go to each level Center
+			Room, from 2 and 3, and Goron Punch
+			each of the blue slots to make it fall
+			down.
+		vii.	Go to each one and knock them down.
+			Now go to the Central Room 3rd Floor
+			and punch the Snow Boulders down enter
+			the Boss Room.
+		viii.	When you enter you have to shoot Ghot
+			with the Fire Arrow to thaw him.
+	e.	Snowhead; Boss
+			i.	Ghot
+				1.	Ghot is actually a simple
+					boss to beat, but you must
+					defeat him several times
+					throughout the game to get
+					everything.
+				2.	Ghot is actually a
+					mechanical machine, and he
+					uses that character in his
+					attacks.
+				3.	Turn into Goron Link and roll
+					after Ghot. You need to get
+					the spikes and roll into
+					Ghot. Simple right.
+				4.	If you are able to get some
+					height from the bumps in
+					the circle path and get
+					Ghot in the back he will
+					collapse allowing you
+					to go crazy on his, hmm,
+					but, yeah but.
+				5.	After a few hits he will
+					start to drop boulders and
+					spikes into the ground
+					trying to knock you down.
+				6.	After a few more hits he
+					will start to drop bombs
+					from his hoofs, and then
+					he will shoot electrical
+					beams from his horns.
+				7.	After all of that you know
+					he is close to death as you
+					see smoke and shorts of
+					electricity from his head.
+				8.	After he is dead you get your
+					second Sacred Mask and spring
+					will return.
+	f.	Snowhead; Fairy Fountain
+		i.	At the base of the temple is the Fairy
+			Fountain. Return the stray fairies to get
+			her gift.
+		ii.	She will double your magic bar. This is a
+			very important upgrade that you will
+			need to complete the game.
+V.	Spring Time Fun
+	a.	Goron Village V "="
+		i.	In the Mountain Village the snow has
+			melted and it is back up and running.
+		ii.	The most important thing is the Powder
+			Keg.
+		iii.	Go to the entrance to the village and go
+			to the left on the ground level.
+		iv.	There is a cave that leads to the Powder
+			Keg shop, but blocked by ice before.
+		v.	Go inside as a Goron and talk to the
+			Goron there. He will let you use the
+			Powder Keg, but first you have to take a
+			test.
+		vi.	You must bring the Keg to the Goron
+			Racetrack before it explodes. If you do
+			this and clear the boulders there he will
+			give it to you.
+		vii.	Take the Keg and throw it up the ramp
+			and roll up. Keep doing this until you get
+			outside.
+		viii.	Now run with it back through the
+			Mountain Path, past Tingle, but avoiding
+			the water.
+		ix.	When you get to the end of this area turn
+			to the right and you will see a path that
+			leads to some boulders.
+		x.	Place the bomb there and wait for it to
+			blow.
+			1.	You can speed it up shooting an
+				arrow at it.
+		xi.	Before you head to the Racetrack go back
+			and talk to the Goron and he will allow
+			you to use the Powder Keg at will.
+	b.	Goron Racetrack "="
+		i.	Welcome to the Goron Racetrack! This is
+			an important race to be in.
+			1.	Be sure you do this on the 1st
+				day!
+		ii.	You can compete in it, as many times as
+			you want, but the rewards are too great to
+			give up.
+		iii.	Talk to the Elder's Baby to start the race.
+			The goal is to be 1st in the race. You will
+			go against some good competitors.
+		iv.	You start out just simple straight rolling.
+			This is a good place to develop your
+			spikes.
+		v.	One of the keys to winning is to catch
+			some air when you go over ramps at a
+			good speed you will go VERY far.
+		vi.	Try to dodge the trees as much as you
+			can, a second can mean the difference of
+			winning and losing.
+		vii.	If you win you will get a Bottle of Gold
+			Dust!
+	c.	Mountain Smithery "="
+		i.	Go back to the Smithery and give the
+			Gold Dust to the Sword Smith and he
+			will forge your sword with the dust
+			making the upgrade permanent!
+		ii.	Razor Sword
+			1.	This sword is twice as powerful
+				and longer!
+		iii.	Now that you turned the Gold Dust is
+			forged with the sword you get the Bottle
+			back!
+	d.	Goron Village VI "="
+		i.	Head to the Elder's room during winter
+			and turn into Link.
+		ii.	Take out the Fire Arrows and light the
+			torches in the area. These torches will
+			stay lit until you play the Song of Time
+			as long as you light them all.
+		iii.	Take out a Deku Stick and light it using a
+			torch. Put on the Bunny Hood and run
+			out of the room.
+		iv.	Light the 2 unlit torches next to the group
+			of Gorons, then run right down the path,
+			lighting each torch along the way.
+		v.	At the very bottom, light 3 more torches.
+			When they're all lit, the giant chandelier
+			above you will start spinning.
+		vi.	Go back up the path to all the Gorons and
+			enter the room. Become Goron Link and
+			roll at full speed out of the room, then
+			jump the ramp and hit one of the spinning
+			pots in the air.
+		vii.	Go back up the hill and do this until a
+			piece of meat falls from one when you
+			shatter it.
+		viii.	Pick up the Rock Sirloin and carry it
+			outside.
+	e.	Mountain Village IV "+"
+		i.	Bring it all the way to the guard at
+			Mountain Village and talk to the Goron
+			with the Frog Mask on. Give him the
+			Rock Sirloin and get the
+		ii.	Don Gero's Mask
+			1.	This mask will make all of the
+				frogs in the world follow you if
+				you have it on.
+			2.	Take them to the lily pads on the
+				lake in the Mountain Village.
+				a.	You can't get all of them
+					now, so I will tell you the
+					locations of the frogs later.
+VI.	The "R" Files!
+	a.	Romani Ranch "="
+		i.	If you need another Powder Keg then go
+			to West Clocktown's Bomb Shop and
+			talk to the Goron to get a new one.
+		ii.	When you get here on Day 1, or 2 the
+			road will be blocked, but on day 3 it is
+			clear.
+		iii.	Go on Day 1 and blow up the Powder
+			Keg in front of the boulders.
+		iv.	Now go through the road and talk to
+			Romani.
+		v.	She will ask you your name, but she re-
+			names you Grasshopper!
+		vi.	Talk to her some more and she will ask
+			you for help. Aliens come and attack the
+			cows at night and she needs your help to
+			stop them.
+		vii.	Before she will let you help her you have
+			to take her test. You have 2:00 to pop all
+			10 balloons, 1:00 is the record, but you
+			can do better.
+		viii.	They are all over the ranch, but they are
+			east to take down, one pop and they are
+			gone.
+		ix.	She will teach you "Epona's Song" if you
+			pass the test!
+		x.	Epona's Song
+			1.	/\ < > /\ < >
+			1.	This will call Epona anywhere
+				that she can travel, Termina Field,
+				and beyond.
+			2.	Play it for Cows and you will get
+				Romani Milk!
+		xi.	Now you have to wait until; 2:00 a.m.
+			Play the Song of Time, and the Inverted
+			Song of Time if you played it before to
+			speed up time.
+		xii.	Wait for the time to roll in and talk to
+			Romani in the Ranch.
+		xiii.	She will tell you they are coming for the
+			Cows, and her if she is there, and you
+			must stop them.
+		xiv.	Go outside and you should see them
+			appear.
+	b.	Romani Ranch; The Invasion "*" "="
+		i.	First play the Inverted Song of Time.
+			They will slow down the Aliens, but the
+			night is twice as long.
+		ii.	You have to last until 5:30 a.m. They are
+			simple to take care of, just shoot them
+			with your Bow & Arrow.
+		iii.	They are simple to kill, one shot, but they
+			come from all angles. They will come
+			from behind the ranch too, so make sure
+			you check it a few times.
+		iv.	They always come from the same spots,
+			but they are unlimited.
+		v.	After you dawn Romani will thank you
+			for your help and will now let you take
+			Epona at will.
+		vi.	She also gives you a bottle of Romani
+			Milk!
+	c.	Romani Ranch; Milk Wagon "+"
+		i.	Wait until morning on the Second Day,
+			after you killed the Aliens.
+		ii.	Talk to Cremia and she will talk to you
+			about her sister.
+		iii.	She also offers you a ride to Clocktown
+			with her, but you have to wait until 6:00
+			p.m.
+		iv.	Play the Double Time Song and talk to
+			Cremia in front of the barn while she is
+			on the wagon.
+		v.	She will give you a ride, but the main
+			road is blocked off. She goes another
+			path, but she has to pass through the
+			"Ugly Country", and some bandits will
+			chase her.
+		vi.	After she asks you to arm your bow you
+			will have unlimited arrows to shoot at the
+			2 bandits.
+		vii.	They will keep coming after you shoot
+			them once, so keep shooting them until
+			they are at bay.
+		viii.	The other will come too, so rotate your
+			shots. If they come to the side they are
+			still too far too cause trouble, but they are
+			close so attack them immediately.
+		ix.	If you are successful in keeping them
+			away Cremia will give you a Big Hug,
+			take a good look, ha ha, and the Romani
+			Mask.
+		x.	Romani Mask
+			1.	This mask will allow you
+				entrance to the Milk Bar!
+			2.	Not that important right now, but
+				it will be soon!
+VII.	Extra Stuff
+	a.	Clocktown
+		i.	Make sure you get caught up in the Deed
+			Trading Game. Go to the point of the
+			Goron Village.
+	b.	Ikana Canyon "+"
+		i.	There isn't much here right now, but
+			there is an important mask that will help
+			greatly in the next mission.
+		ii.	First go to Clocktown or Kotake's Shop
+			and get a Red Potion.
+		iii.	Go to the Eastern side of Termina Field
+			and enter the Canyon.
+		iv.	There are several fences that Epona can
+			jump over.
+		v.	When you get to the one in front of a
+			small circle of stones get off Epona and
+			put on the Lens of Truth.
+		vi.	Talk to the Guard there and he will be
+			surprised that someone can see him.
+		vii.	Give him the Red Potion and in return he
+			will give you the Stone Mask.
+		viii.	Stone Mask
+			1.	This mask will render you
+				invisible to people around you.
+			2.	Wear this and MOST people will
+				not even notice you are there.
+VIII.	Searching the Great Bay Coast
+	a.	North Bay "+"
+		i.	Go to the Northern part of Termina Field.
+		ii.	Hop over the fences to greet the Great
+			Bay Coast, this is the North Bay side of
+			the Coast.
+		iii.	Look into the water and you should see
+			something weird in the water. There are
+			seagulls circling over an area.
+		iv.	Go over to find Mikau and push him to
+			shore by moving behind him.
+		v.	When you get there Mikau is dying. He
+			talks to you about his missing eggs.
+		vi.	Play the Song of Healing for him and his
+			soul will be at peace. In return you will
+			get the Zora Mask.
+		vii.	Zora Mask
+			1.	This mask is one of the most fun
+				masks in the game.
+			2.	You now can soar through the
+				water, dive as deep as you want.
+			3.	Buy you now have Zora Scales on
+				the end of your arms that throw a
+				lethal blow to most enemies.
+			4.	If you hold the top "L" or "R"
+				buttons you will create a barrier
+				shield that takes MP, but harms
+				any enemies in the way.
+	b.	Fisherman's Hut
+		i.	There are 2 huts on the beach one is the
+			Spider House, the other is the
+			Fisherman's Hut.
+		ii.	Talk to the Fisherman inside and he is
+			looking for picture of one of the Pirates.
+			If you get one for him he will be very
+			grateful.
+	c.	Research Lab "*"
+		i.	The next stop is to the Research Lab.
+			There are several things to do here, but
+			the most important is information.
+		ii.	Stop and hit the Owl Statue to activate
+			the warp point. If you need to shoot
+			Tingle Down for a Map.
+		iii.	The Scientist will say that the Zora Eggs
+			are late and they need to be in the tank
+			before they hatch, if not they die.
+		iv.	Notice the fish in the tank? Go to a small
+			pond, the one near the fisherman's house
+			will do, and feed them 5 fish.
+		v.	After they are full they will burp out a
+			Heart Piece.
+		vi.	You can rush off to the Zora's hall, but
+			there are several things to do that may
+			help in the next part of the quest.
+IX.	Extra Stuff
+	a.	Zora Pit "*"
+		i.	Bomb the boulder near the Great Bay
+			entrance in Termina Field. Jump down
+			the hole and shoot the Deku Babas that
+			hang from the Lilly Pads with your Zora
+			Scales.
+		ii.	Now shoot the Beehives on the ceiling to
+			make a Heart Piece fall down. Now turn
+			into a Zora and get the Heart Piece.
+	b.	Mountain Village Path II"*"
+		i.	Go defeat Ghot again to turn it into
+			spring and then go to the Mountain Path.
+		ii.	Turn into Zora Link and swim around to
+			river to find the Heart Piece in the water.
+	c.	East Clocktown "+"
+		i.	Put on the Romani Mask and enter the
+			Milk Bar on the Day 1 or 2 after 10:00
+			p.m.
+		ii.	Talk to the fat Zora, Mr. Toto and he will
+			ask you to help sound check the stage.
+		iii.	Play your instruments in all 4 forms and
+			Mr. Toto will thank you, but give you
+			nothing.
+		iv.	German will give you the Circus
+			Leader's Mask.
+		v.	Circus Leader's Mask
+			1.	This mask is pretty much useless.
+				It only protects you from getting
+				attacked if you wear it during the
+				Cremia's Milk Wagon quest.
+	d.	Gorman Brothers Race Track
+		i.	Off the path of the Milk Road is the
+			Gorman Brothers Race Track. Ride
+			Epona into them and talk to the brothers.
+		ii.	They make fun of Epona being small, but
+			challenge you to a race anyway.
+		iii.	You have to race both of them and it
+			costs you 10 Rupees. You have to race
+			both of them, but it isn't too easy.
+		iv.	Tips
+			1.	Save your carrots for the jumps
+				and the final laps.
+			2.	You can slow one of them down
+				at a time by going in front of them
+				and not letting them by this will
+				help some.
+			3.	They go around most of the high
+				jumps so if you can make them it
+				will increase your speed greatly.
+			4.	Once you are near the end use
+				whatever carrots you have left.
+		v.	You have to beat them twice in order to
+			get the Garo's Mask.
+		vi.	Garo's Mask
+			1.	This mask will let you become
+				one of the secret warriors of the
+				Garos.
+			2.	It doesn't have any properties
+				other than making the Garo man
+				in Ikana Canyon let you pass.
+			3.	The other thing is it will summon
+				Garo Warriors in Ikana Canyon,
+				but they find out you are wearing
+				a mask and attack.
+X.	Search the Zora Hall
+	a.	South Bay "*"
+		i.	To get to South Bay go to the south part
+			of North Bay and enter the cave leading
+			to South Bay.
+		ii.	Once here go to the back of the beach
+			following the small stream back to the
+			waterfall.
+		iii.	Play the Song of Double Time turning it
+			into night if it is not already night.
+		iv.	Look down the pool for the Like Like
+			and turn into Zora Link.
+		v.	Kill the Like Like with your Scales and
+			he will give up a Heart Piece for you
+			troubles.
+			1.	Not the easiest, but no too bad.
+	b.	Zora Hall "*"
+		i.	Now go back to the South Bay coastline.
+			Turn into Zora Link and dive in. Go
+			straight for the huge fish in the water.
+		ii.	Dive underwater and enter through the
+			small hole in the mound that leads to the
+			fish.
+		iii.	Enter the Fish and welcome to Zora Hall.
+		iv.	There are several things to do here and
+			some great rewards, but the most
+			important thing is getting information
+			about the Zora Eggs.
+		v.	There is another exit in the back of the
+			fish. Lulu is here; she can't talk because
+			of the trauma she has been through.
+		vi.	There is also an Owl Statue here, be sure
+			to activate it.
+		vii.	Talk to the people in the hall and you
+			should get some more information about
+			the missing Zora Eggs.
+		viii.	Talk to one fan of Lulu and he will be
+			very interested in her.
+		ix.	Go back outside and take a picture of
+			Lulu and give it to him. He will give you
+			whole 20 Rupees for the picture.
+			1.	STALKER!
+	c.	Zora Hall; Deed Trading Game
+		i.	Complete the Deed Trading Game to the
+			Goron Village spot and go back to the
+			Zora Hall.
+		ii.	Go to Lula's Room. You can recognize it
+			because of the Akido Nut.
+		iii.	Give him the Mountain Deed, as Goron
+			Link and he will be very grateful.
+		iv.	Turn into a Deku Link and get the Heart
+			Piece on the balcony.
+		v.	Now that you are ready you should head
+			to the Pirate's Hideout to get back the
+			precious eggs.
+XI.	Retrieve the Zora Eggs
+	a.	North Bay II
+		i.	Before you get here you need as many
+			Empty Bottles as you can get at this
+			point.
+		ii.	Here is a quick list
+			1.	Kotake's Red Potion
+			2.	Goron Race
+			3.	Romani's Milk/Alien Reward
+			4.	Madam Aroma's Reward
+		iii.	Turn into Zora and jump into the water.
+			Go to the Northern part of the bay and
+			look for the wooden boards near the
+			bottom of the ocean.
+		iv.	Do a Zora speed slam into the boards
+			until you find the one that leads to the
+			Pirate's Fortress.
+	b.	Pirate's Fortress "*" "="
+		i.	When you first get here leap onto the
+			ramp leading to the fortress.
+		ii.	There will be some guards on
+			motorboats. They are identified by the
+			white dots on your map.
+		iii.	When the coast is clear turn into Zora
+			Link and dive into the water. Dive down
+			to the bottom of the water.
+			1.	If you are caught you have to re-
+				enter the Fortress.
+		iv.	There are 3 chests here with 20 Rupees.
+		v.	Go to the north part of the map and climb
+			up the small ramp in the water.
+			1.	Check to make sure the coast is
+				clear.
+		vi.	When you get up there, go up the ramp
+			on the dry area until you reach the Goron
+			Switch.
+		vii.	Turn into Goron Link and do a Goron
+			Pound and a vent will be opened in the
+			water.
+		viii.	Turn into Zora Link and dive into the
+			water. Go past the vent that is blowing
+			out water and enter the new vent on the
+			sidewall.
+		ix.	This part of the Fortress is a sort of cage
+			maze. Slam into the wood to break it
+			open and land on the ground.
+		x.	Pull the block towards you until you
+			can't pull it anymore.
+		xi.	Go left and keep moving until you see an
+			opening in the ceiling. Go up to get the
+			chest with Rupees.
+		xii.	Return back to the outer part of the maze
+			and keep moving on the outside until you
+			reach the second block.
+		xiii.	PUSH this one as far back as it can go.
+			Now go around to the exit.
+		xiv.	Step onto the vent to take you to the next
+			level and get off. Dive to the bottom and
+			walk around the mines and under the
+			vent.
+			1.	If you are walking under the vent
+				it will not suck you it.
+		xv.	This next area has a Heart Piece. To get it
+			you need to go second level of the room.
+		xvi.	Goron Punch all the barrels and look for
+			the push switch on the floor.
+		xvii.	Now Goron Roll back down the stairs
+			into the cage with the Heart Piece.
+			1.	Goron Roll is your best bet to
+				make it in time.
+	     xviii.	Press the switch in the cage again to
+			make the door open and head back to the
+			second level.
+		xix.	Smash the other barrels this time to
+			reveal a crystal switch across the room.
+		xx.	Turn into Zora Link and then use your
+			Zora Scales to hit the switch. Dive into
+			the water and take the vent to the next
+			area.
+		xxi.	This time swim over the vents by
+			surfacing to the top of the water, but
+			watch out for the mines.
+		xxii.	Take the door to the next room. Step onto
+			the push switch, then run to the vent and
+			shoot the crystal switch.
+	     xxiii.	This will activate the vent to blow water
+			up to take you to the next level, but get
+			off before it reaches the top of the second
+			floor or you will get slammed with a
+			mine.
+		xxiv.	This area is a good place to stock up on
+			items so be sure to break everything.
+		xxv.	Now climb the ladder to the telescope
+			and take a look at what the Pirate's
+			Fortress looks like inside.
+		xxvi.	Turn around and use your arrows on the
+			first mine. This mine will crash with the
+			other clearing the path for you to shoot
+			the crystal switch.
+	     xxvii.	Shoot the switch and then jump down
+			and enter the door.
+	    xxviii.	You are now outside again on a ramp. No
+			one can see you, but if you are caught
+			you are thrown back at this point.
+		xxix.	There is a Hookshot target here if you
+			have to leave and you have the Hookshot.
+		xxx.	This is the main room where you can get
+			all of the Zora Eggs in the Fortress.
+		xxxi.	If you have the Stone Mask put it on now
+			so no one can see you.
+			1.	If you don't have it yet then
+				things will be more challenging,
+				but it is not impossible.
+			2.	Shoot the guards with Arrows and
+				it will stun them for a short period
+				of time.
+			3.	Deku Nuts work too, and once
+				you get the Hookshot it will act
+				like the Arrow and stun them.
+	     xxxii.	First thing you should do is snap a nice
+			picture of one of the Pirate's for the
+			Fisherman.
+	    xxxiii.	The goal is the ladder in the middle that
+			leads to the suspension bridge. You may
+			need to duck behind the crates to get
+			here.
+	     xxxiv.	Run across the bridge and stun the Pirate
+			at the end if you need to.
+		xxxv.	When you enter you will see a bee fly
+			into the Pirate Boss' room. You will
+			listen inn on their conversation about
+			how they stole the Zora Eggs, but lost
+			some in the murky water of Pinnacle
+			Rock.
+	     xxxvi.	When you are free to move take out your
+			bow and shoot the Beehive through the
+			barred window.
+    	    xxxvii.	The beehive will fall releasing the bees
+			and will send the Pirates running.
+	   xxxviii.	Go back to the bridge and jump off to the
+			door on the right side of the exit and
+			enter the area.
+	     xxxix.	All of the Pirate Guards are gone and
+			there is a chest in the middle of the room.
+		xl.	Open it to get an old item from Orcania
+			of Time. The Hookshot
+		xli.	Hookshot
+			1.	The Hookshot is one of the most
+				convenient items in the game.
+				You now can pull your self to
+				new areas by grabbing targets,
+				pillars, or wood.
+			2.	You can also stun Pirates and kill
+				certain monsters here also.
+		xlii.	Now aim the Hookshot to the wood
+			above the tank and fire to pull yourself to
+			the tank.
+	     xliii.	Turn into Zora Link and dive to the
+			bottom of the tank. Try to ignore the
+			Shell Blade and grab the Zora Egg with
+			an Empty Bottle.
+			1.	You may get a fish instead so be
+				careful.
+		xliv.	Go back to the Surface and climb out of
+			the tank.
+		xlv.	Return back to the center area where you
+			climbed to the suspension bridge.
+		xlvi.	Go to the south wall on the map and look
+			for the first Hookshot target on the pillar.
+			Then Hookshot again to the next target
+			and enter the door.
+	     xlvii.	Go around and enter the area with tons of
+			barrels and one guard.
+	    xlviii.	Shoot the guard and press the C up button
+			to find the door on the north wall.
+		xlix.	Enter here and go to the center room,
+			until a Pirate Guard will stop you.
+		l.	This fight is simple to deal with, just wait
+			for her to attack, dodge, and then attack
+			her.
+		li.	When she is defeated the doors will open.
+			Head to the door with the 2 torches.
+		lii.	Here is the second Zora Egg. Do as
+			before and Hookshot to the Wood and
+			dive down for the Zora Egg. 2 more left.
+		liii.	Return back to the center room again and
+			go to the north wall on the map this time.
+		liv.	Hookshot to the pillar target and then
+			turn to your left and Hookshot to the next
+			target.
+		lv.	Enter the door and go to the end of the T
+			shaped hallway and turn left.
+		lvi.	Shoot the Pirate Guard before she sees
+			you and enter the door.
+		lvii.	You will be attacked by another Pirate
+			Guard, so take care of her and enter the
+			door with the two torches.
+	     lviii.	Hookshot to the wood and turn into Zora
+			Link. Before you enter there is a HUGE
+			Bonefish there that will spread more
+			Bonefish in the water.
+		lix.	Use your Zora Scales to kill the Bonefish
+			and when it is clear jump in to get the
+			Zora Egg.
+			1.	One Zora Egg left.
+		lx.	Now go back to the main room, but stay
+			on this side of the wall and jump down to
+			the first target pillar.
+		lxi.	Hookshot to the right side this time,
+			opposite side thank before, and go over
+			the bridge and enter the door.
+		lxii.	You can just walk right through here if
+			you have the Stone Mask, if not, then you
+			have to Stun, and run to the exit.
+			1.	If you are brave you can get the
+				chest with 100 Rupees.
+	     lxiii.	Once you are in the next room you will
+			have to fight the final Pirate Guard.
+		lxiv.	Exit through the door with the torches
+			and get the final Zora Egg from the tank.
+	c.	Research Lab II
+		i.	Return to the Research Lab by the Song
+			of Soaring and drop the Eggs off into the
+			tank by standing on the grate.
+		ii.	There are 3 more eggs left that were lost
+			by the Pirate Guards. They are at
+			Pinnacle Rock.
+	d.	Fisherman's Hut II
+		i.	If you met with a Zora before you were
+			told that the water is too murky to get to
+			Pinnacle Rock, so you need a Sea Horse.
+		ii.	Talk to the Sea Horse and the Fisherman
+			will trade one for a picture of a Pirate.
+		iii.	Give him the picture and you will get a
+			Sea Horse in your bottle.
+	e.	Pinnacle Rock "*"
+		i.	To get here swim to the 2 stone pillars in
+			North Bay.
+		ii.	Once you enter you will be transported to
+			the Pinnacle Rock.
+		iii.	Release the Sea Horse and he will thank
+			you, but he needs a favor. One of his
+			friends is trapped by sea snakes and
+			needs to be freed.
+		iv.	Follow the Sea Horse through his
+			winding path, if you miss you will be
+			sent back, but he will be waiting for you
+			there.
+		v.	When you get there enter the circular
+			area. There are actually 8 pf them to kill.
+		vi.	What you have to do is swim past their
+			hole and then turn on your barrier by
+			using your upper right or left buttons and
+			crash into them.
+		vii.	It takes a few hits to kill them, but once
+			they are killed you will be able to enter
+			their layer.
+		viii.	If there is a Zora Egg there be sure to
+			grab it.
+		ix.	Kill all 8 of them to save the Sea Horses'
+			mate and they will give you a Heart Piece
+			as a reward.
+		x.	Make sure you got the final 3 Zora Eggs
+			and take them to the Research Lab.
+	f.	Research Lab III
+		i.	Drop the final 3 Zora Eggs into the tank
+			and watch them hatch. They arrange
+			themselves into an odd position creating
+			a new song for you.
+		ii.	New Wave Bossa Nova
+			1.	< /\ < > \/ < >
+			a.	This song will lead you to
+				the Great Bay Temple.
+XII.	Extra Stuff
+	a.	Beaver Races "*" "="
+		i.	You can head straight to the temple, but
+			there are tons of things now available to
+			you now.
+		ii.	Go to the waterfall where you killed the
+			Like Like before for the Heart Piece.
+		iii.	Hookshot to the first tree on the ledge to
+			the left side when you enter.
+		iv.	Keep Hookshooting until you get to the
+			chest, take the Rupees and keep moving.
+		v.	Finally you will land next to a cave that
+			leads to the Beaver Races.
+		vi.	The Races must be done in Zora Link
+			form. You have to follow the beaver
+			through the loops, with out missing any,
+			and you must beat him within 2:00, but
+			then you have to beat his brother within
+			2:30, but he is much faster.
+		vii.	Now that you have the last Empty Bottle.
+			Race them again for a Heart Piece, but
+			they are much faster.
+		viii.	You now have to beat both of the beavers
+			in about 1:50!
+	b.	Oceanside Spider House "*""+"
+		i.	This is the final Gold Skulltula House in
+			the game, and has the best rewards.
+			1.	Adult Wallet
+			2.	Heart Piece
+		ii.	When you get there is a crack in the wall.
+			Blow it up with a bomb or the Bomb
+			Mask.
+		iii.	Slide down the ramp and you may notice
+			the 2 Skulltulas on the walls.
+		iv.	Wait for them to come to the bottom and
+			Hookshot them and Hookshot the
+			Tokens.
+			1.	Skulltula 1 & 2
+		v.	The there is another one hiding behind
+			some webs in the corner of the room. Use
+			a Fire Arrow to dissolve the web and kill
+			him.
+		vi.	Take the Token with the Hookshot.
+			1.	Skulltula 3
+		vii.	Step back a bit and Hookshot the target
+			above the door to make it over the gate.
+		viii.	Go into the next room and look up at the
+			rafters with a Fire Arrow.
+		ix.	On the ceiling rafters is a Gold Skulltula.
+			Shoot a fire Arrow at it to get a better
+			chance of a hit.
+			1.	Skulltula 4
+		x.	Hookshot the Token and turn to the pots
+			on the corner.
+		xi.	Use a Fire Arrow to dissolve the webs
+			and roll into it. A Skulltula will pop out,
+			kill it for it's token.
+		xii.	There is another one in the last pot too!
+			1.	Skulltula 5&6
+		xiii.	This one is hiding in the under the mask
+			that is lowest on the stairwell leading to
+			the basement.
+		xiv.	Wait for it to come out and kill it with an
+			Arrow or Hookshot. Take the Token with
+			the Hookshot.
+			1.	Skulltula 7
+		xv.	Now head into the door on this level.
+		xvi.	There are 7 Skulltula here, but they are
+			tricky to get. The first is in the picture of
+			the Skull Kid in the southwest hand
+			corner.
+		xvii.	Hit the picture with a Hookshot to knock
+			it off and take out the Skulltula.
+			1.	Skulltula 8
+	     xviii.	Go back to the dressers near the picture
+			and pull the left and right one to the side,
+			and the middle one back.
+		xix.	Look into the hole behind the middle
+			dresser with the Hookshot and kill the
+			Skulltula there.
+			1.	Skulltula 9
+		xx.	Now go to the bookshelf that has a small
+			hole in it that shows a torch behind it.
+		xxi.	Go to the side and pull it back to reveal 2
+			more Skulltulas.
+			1.	Skulltula 10&11
+		xxii.	Go back to the bookcases and climb up
+			the shelves where there are no books.
+	     xxiii.	Look at the top of the corner between the
+			ceiling and the wall. Hookshot or shoot
+			an Arrow to kill him.
+			1.	Skulltula 12
+		xxiv.	Go to the far right corner where the
+			bookshelves make a long L. On top of
+			there is a Skulltula in the corner.
+			1.	Skulltula 13
+		xxv.	There is one more Skulltula in this room.
+			Go to series of bookcases near the one
+			with Skulltula 13.
+		xxvi.	Shoot down the picture of the Skull Kid
+			and you should see another black hole.
+	     xxvii.	Aim your Hookshot at it and get the
+			Skulltula.
+			1.	Skulltula 14
+	    xxviii.	Go back to the previous room and head
+			down the stairs.
+		xxix.	Stop about half way to get the Skulltula
+			in the rafters right in front of you.
+			1.	Skulltula 15
+		xxx.	The next one is in the pot to the left of
+			the door.
+			1.	Skulltula 16
+		xxxi.	This one is in the pots on the crate. You
+			can break the pot with the Hookshot, but
+			you can't get at the Skulltula.
+	     xxxii.	Go to the crates opposite of the one with
+			the Skulltula and climb to the top. Here
+			you can kill the Skulltula with the
+			Hookshot.
+			1.	Skulltula 17
+	    xxxiii.	Shoot a Fire Arrow to get rid of the webs
+			next to the crate that Skulltula 17 was on.
+	     xxxiv.	Look into the hole and kill the Skulltula.
+			1.	Skulltula 18
+		xxxv.	There is another Skulltula in the mask on
+			the wall, to the left of the door.
+			1.	Skulltula 19
+	     xxxvi.	Go into the door right in front of you.
+	    xxxvii.	To your right from the entrance there is a
+			series of crates. Go to the dark brown one
+			and roll into it to crack it open. It reveals
+			a Skulltula.
+			1.	Skulltula 20
+	   xxxviii.	Now go opposite of these crates to the
+			ones on the right side. Roll into that dark
+			brown crate to reveal a hidden passage.
+	     xxxix.	Enter it and turn around to see a Skulltula
+			on the wall above the entrance.
+			1.	Skulltula 21
+		xl.	Go to the south part of the room and
+			jump on the crates on the right side.
+		xli.	Take out your Hookshot and look behind
+			the canoe to reveal a Skulltula.
+			1.	Skulltula 22
+		xlii.	From there go to the right wooden pillar
+			to find a Skulltula in the webs. Use a Fire
+			Arrow to burn the webs off and kill the
+			Skulltula.
+			1.	Skulltula 23
+	     xliii.	Now go back to the crates next to the
+			secret passage.
+		xliv.	Climb up the single on to the right of the
+			passage and then jump over to the left
+			side of crates.
+		xlv.	When you get to the top look for the
+			Hookshot Target to be sent to the
+			catwalk.
+		xlvi.	Move to the center and smash all the pots
+			to find another Skulltula.
+			1.	Skulltula 24
+	     xlvii.	Go back down and out this door into the
+			next room. There is another door here
+			that you haven't been in yet.
+	    xlviii.	Enter to find a room full of Skeletons.
+			Ignore them for now.
+		xlix.	There is one in the far left hand corner
+			inside the pot. Roll into it to get the
+			Skulltula.
+			1.	Skulltula 25
+		l.	Now shoot down the picture to the left of
+			the pot with a Hookshot to reveal another
+			Skulltula.
+			1.	Skulltula 26
+		li.	Go onto of the table and look for the next
+			Skulltula on the rafters between the
+			ceiling and the floor. He is near the door.
+		lii.	Shoot a Fire Arrow to kill this Skulltula.
+			1.	Skulltula 27
+		liii.	There are three hidden in the lamp above
+			you. Turn into a Goron and do a Goron
+			Pound on the table to make the last 3 to
+			fall out.
+		liv.	Kill them with your Sword.
+			1.	Skulltula 28, 29, & 30
+		lv.	You have broken the curse, but you are
+			not done yet.
+		lvi.	Notice the 4 colored masks on the wall?
+			They are a puzzle that leads to a Heart
+			Piece.
+		lvii.	You have to shoot them in the correct
+			order to open the grate.
+	     lviii. You can find out the code by either
+			process of elimination, or talking to the
+			Skeletons in the house.
+			1.	You need the Captain's Hat in
+				order to talk to them.
+		lix.	The colors change and rotate every new
+			game so it is impossible to get the right
+			order on a walkthrough.
+		lx.	You can try it yourself with your arrows,
+			but it may take some time. Just remember
+			that you can hit a color twice in one
+			round to make the door open.
+		lxi.	Go up into the fireplace through the grate
+			and get your Heart Piece.
+		lxii.	Go back to the entrance of the House and
+			you will see a man who is eager to keep
+			this house as a shelter.
+	     lxiii.	He will give you the Adult Wallet in
+			return.
+		lxiv.	Adult Wallet
+			1.	You can now carry up to 500
+				Rupees.
+	c.	Zora Hall II "*"
+		i.	Go back to Zora Hall and go to Mikau's
+			Room. His room is the first door on the
+			right if you enter from Owl Statue Warp
+			location.
+		ii.	Hookshot to the second floor by grabbing
+			onto the tree.
+		iii.	Read the diary to learn the first part of a
+			new song.
+		iv.	Go to Bassist's Room and Z Target him.
+			Now whip out your Guitar while you are
+			still targeted with him.
+		v.	Play the song you read from the diary and
+			they will finish the song together.
+			1.	Part I
+				a.	> > \/ A A \/ > A
+			2.	Part II
+				a.	< < > \/ \/ > < \/
+		vi.	Go to Evan's Room and turn into regular
+			Link and talk to Evan. Play him the song
+			you wrote and he will take it for his own,
+			but will give you a Heart Piece as a small
+			reward.
+			1.	He will not take the song from a
+				Zora.
+	d.	East Clocktown
+		i.	Go back to East Clocktown and enter the
+			Observatory and talk to Pierre the
+			Scarecrow.
+		ii.	Pull out your Orcania and play any song
+			you want, other than the regular songs.
+			This will become the Scarecrow Song.
+			1.	It does not come back in time
+				with you so if you have to return
+				to the past you must redo the
+				Scarecrow's Song.
+	e.	North Bay II"*"
+		i.	Go to North Bay and come out of the
+			water near the Pirate's Entrance.
+		ii.	Look for the Target on the ledge and
+			keep shooting until you reach the final
+			ledge with the Soil Patch on it.
+		iii.	Put the Bean in and then the Spring
+			Water to create the leaf.
+		iv.	Ride the leaf to the edge and get the
+			Heart Piece.
+	f.	Snowhead II "*"
+		i.	Return to Snowhead and turn into a
+			Goron and roll back to the exit, but only
+			go over the first ramp.
+		ii.	Turn on your Lens of Truth on to see the
+			hidden platforms.
+		iii.	Jump over them until you reach the end.
+			Notice Tael!
+		iv.	Play the Scarecrow Song to make Pierre
+			appear.
+		v.	Hookshot to him and get the Heart Piece.
+XIII.	Freeing Great Bay
+	a.	Zora Hall III
+		i.	Go to Zora Hall via Song of Soaring and
+			pull out your guitar as Zora Link and play
+			the New Wave Bossa Nova.
+		ii.	A huge turtle comes out of the ocean and
+			will have short conversation with you.
+		iii.	Hookshot over on his back and he will
+			take you to the Great Bay.
+	b.	Great Bay
+		i.	After you get off of the turtle you are in
+			the first room.
+		ii.	The first fairy is here, but you must light
+			all of the torches to make the chest
+			appear. The fairy is inside.
+			1.	Fairy 1
+		iii.	This dungeon has water pipes up the yin
+			yang, so be prepared to push many
+			colored switches to turn water on and off
+			and turn the currents in different
+			directions.
+		iv.	Go into the next room and turn into Zora
+			Link.
+		v.	Dive into the water and push or pull the
+			underwater yellow switch in the northeast
+			corner of the room.
+		vi.	Go back to the platform you started from
+			and dive under it to find another fairy in
+			the bubble.
+			1.	Fairy 2
+		vii.	The other fairy in this room is in the
+			Skulltula on the left side of the first
+			platform.
+		viii.	You can kill it from a distance with an
+			Arrow or take the left moving platform,
+			facing away from entrance door.
+		ix.	Kill it and get the third fairy.
+			1.	Fairy 3
+		x.	Now that you activated the Yellow
+			Switch. There will be a waterspout that
+			will elevate you to door to the next area.
+		xi.	Take the right platform then jump onto
+			the other platform. Watch for the
+			Skulltula that comes down, an arrow will
+			kill him instantly.
+		xii.	At the edge of the platform wait for the
+			spout to go down and then jump onto the
+			spout to elevate you to the door.
+		xiii.	Enter the door and you will notice the
+			large spinning water here. This is the
+			"Whirlpool Room"
+			1.	Ok, it's not REALLY the
+				"Whirlpool Room", but it makes
+				it easier to explain for later on.
+		xiv.	There are two fairies here the first is in a
+			pot at the bottom of the water.
+		xv.	It is too fast to jump in and dive down, so
+			instead stand at the edge of the spinning
+			water, aim at the pot with an arrow and
+			use the Fairy Mask to call the fairy to
+			you.
+			1.	Fairy 4
+		xvi.	The other one is in the barrel that is on
+			the top of the ladder. Roll into it or Goron
+			Smash it to reach it.
+			1.	Fairy 5
+		xvii.	Now time to get to the next area. The
+			room has a ton of passages but the only 2
+			doors available to you with the water
+			turning the way it is.
+	     xviii.	Dive into the water and take the door that
+			is on the on the southeast corner from the
+			top row.
+		xix.	If you accidentally took the wrong
+			passage then you can get back taking the
+			other exit.
+		xx.	The right room is a long slim passage.
+		xxi.	Go to the north platform to get out of the
+			water. Turn into Link again and
+			Hookshot over to the chest and open it to
+			get Dungeon Map.
+		xxii.	There is another fairy here, just shoot the
+			Hookshot or Arrows at the pots near the
+			other platform to release a fairy.
+			1.	Fairy 6
+	     xxiii.	Turn back into Zora Link and dive down
+			the water.
+		xxiv.	Go to the place under the Fairy pots and
+			use your Zora Scales to cut down the
+			Dexi-Hands.
+		xxv.	Swim through to room next room.
+		xxvi.	There are some Deku Babas hanging
+			from the Lilly pads. Cut them down and
+			kill them.
+	     xxvii.	Get out of the water and kill all 4 of them
+			to make a chest appear with another fairy.
+			1.	Fairy 7
+	    xxviii.	Take the door to the next area.
+		xxix.	The first thing you should do is kill the
+			Deku Babas first.
+		xxx.	There is a fairy in the water that passes
+			under the door you came in from.
+		xxxi.	He is in the pot, but if you dive down
+			there you will be swept away.
+	     xxxii.	Instead stand on the edge and shoot it
+			with the Hookshot and use the Fairy
+			Mask to call it to you.
+			1.	Fairy 8
+	    xxxiii.	Dive into the water as Zora Link and get
+			the Small Key at the bottom of the water.
+	     xxxiv.	Then hop across the Lilly pads until you
+			reach the last one and Hookshot over to
+			the chest to get the Compass.
+		xxxv.	Now you can jump into the water where
+			the fairy was to be taken back to the
+			Whirlpool Room, but you must kill the
+			Dexi-Hands first.
+	     xxxvi.	This time take the passage on the bottom
+			row this time.
+	    xxxvii.	You know you are in the right place if
+			you see the Shell Blades. Take the red
+			pipe to lead you up through the water.
+	   xxxviii.	When you get there use your small key
+			on the door.
+	     xxxix.	In this room you will have a chance to
+			reload from some Arrows and Magic.
+		xl.	When you are ready head into the next
+			room for a Sub Boss fight!
+	c.	Great Bay; Sub Boss
+		i.	Wort
+			1.	This guy can get annoying
+				because it takes time to kill him.
+				You have to Hookshot the balls
+				that are spinning around him and
+				then swipe them with your sword.
+			2.	When you clear enough of the
+				balls and his eye is open shoot the
+				Hookshot or Arrow at his eye.
+			3.	Keep doing this until he drops all
+				of the balls. Then take any out
+				that are in your way and hit him
+				in the eye with your sword.
+		ii.	As a reward you will get the Ice Arrow.
+		iii.	Ice Arrow
+			1.	The Ice arrow has a lot of
+				usefulness here than in Orcania of
+				Time.
+			2.	You can shoot the water and get
+				an Iceberg in the water that you
+				can hop onto, but it only lasts for
+				a short period of time so jump on
+				and off it quickly!
+			3.	You can freeze Octorocks and
+				Chuchu, aka Slimes, to make
+				them into ice blocks that you can
+				jump onto them.
+		iv.	Go back to the room that you came from
+			and return to the room with the Red Pipe.
+		v.	Shoot the Ice Arrow at the Octorocks and
+			jump onto the Red Platform. Turn the
+			Red Switch and jump back down.
+		vi.	Go back to the Whirlpool Room and take
+			the exit that is in the Southeast corner to
+			row again.
+		vii.	This will take you back to the room
+			where you got the Map.
+		viii.	Make some Icebergs in the water that
+			leads to the door in the south part of the
+			room.
+		ix.	In this room where were there are no
+			ladders, but the Red Switch is too high to
+			reach.
+		x.	Aim an Ice Arrow at the Chuchu and
+			push him near the switch and climb on
+			top of him to reach the switch.
+			1.	He unfreezes fast so lure him
+				closer to the Red Switch.
+		xi.	Return to the Whirlpool Room again and
+			take the bottom exit again to return back
+			to the rooms with the Deku Babas.
+		xii.	Take the exit here to the room where the
+			current goes under the door.
+		xiii.	This time use the Ice Arrows to make
+			Icebergs that leave to the area with the
+			Icicles hanging down.
+		xiv.	Melt the door with a Fire Arrow and head
+			in.
+	d.	Great Bay; Sub Boss II
+		i.	This room there is another Gekko Sub
+			Boss. The room is filled with Jellies but
+			when he picks one up shoot him with a
+			Fire or Regular Arrows.
+		ii.	Now he will call all of the slimes up into
+			the ceiling to make one big slime.
+		iii.	Now shoot an Ice Arrow ASAP! It will
+			make the slime drop and shatter.
+		iv.	Fire another Arrow at him while you can.
+			Repeat!
+		v.	If you miss hitting the ceiling with an Ice
+			Arrow then the slime will come down
+			and envelop you that allow the Gekko to
+			pummel you inside.
+		vi.	After you take enough shots he will die
+			and turn into a regular frog.
+		vii.	Take the Boss Key and head back to the
+			SECOND Room you entered.
+			1.	The one with the big spinning
+				wheel in the water.
+		viii.	The best way is to play the Song of
+			Soaring to be transported back to the
+			entrance of the Temple.
+		ix.	Go into the room and you will find that
+			the Red Cranks DID have a purpose.
+		x.	First take the Yellow Spout to the door
+			that leads to the Whirlpool Room, but do
+			not enter it.
+		xi.	Go to the edge and look for the Hookshot
+			Target in the ceiling that is above the
+			now active Red Spout.
+		xii.	Ride it to the Red Switch and push it to
+			activate it.
+		xiii.	Now that the Red Spout is working it
+			pushes the wheel between the Yellow and
+			Red Spout to a stop.
+		xiv.	Now go to the Yellow Spout and push it
+			off to reverse the direction of the wheel.
+		xv.	This makes the Whirlpool Room change
+			the current so it is going to the opposite
+			way. You now have access to some more
+			rooms.
+		xvi.	Go to the Whirlpool Room and notice the
+			water spraying down from the pipe above
+			the ladder?
+		xvii.	Fire an Ice Arrow into the water to stop
+			the flow allowing you to climb the ladder
+			behind it.
+	     xviii.	Take the door and you will notice a bare
+			room with a Yellow Pipe and a Green
+			Switch.
+		xix.	Create Icebergs to make a path to the
+			Green Switch and turn it on.
+		xx.	There is a fairy in this room, but there is
+			a tricky part.
+		xxi.	The fairy is on the second level above the
+			ceiling of the room and the only way to
+			get there is to use the Ice Arrow and
+			make Icebergs.
+		xxii.	First create an Iceberg path to the Yellow
+			Pipe and then make more heading behind
+			it and slightly to the left. It is near the
+			wall.
+			1.	At the end you can't make an Ice
+				Arrow because of the wall, but
+				you have to make one close
+				enough for the hole.
+	     xxiii.	Quickly Hookshot to the target above the
+			ceiling, if you are misaligned quickly
+			make a new berg next to you and try
+			again, you have to be at a small angle.
+			1.	Fairy 9
+				a.	Don't worry there are
+					more!
+		xxiv.	Return to the Whirlpool Room and take
+			dive in a Zora Link. Take the top passage
+			on the northern part of the map.
+		xxv.	You know you took the right one if you
+			pass through the room where you had to
+			get the fairy in the pot under the door's
+			current.
+		xxvi.	You should end up in a whole new room.
+			This room has another Wheel, but this
+			wheel comes from a spout of water.
+	     xxvii.	Step onto the moving platform and then
+			use the Ice Arrow to freeze the spout
+			shut.
+	    xxviii.	You can now jump onto the wheel's base
+			and it also makes a bridge leading to the
+			next room.
+		xxix.	Before you rush out there are a few
+			fairies to collect here. Both are accessible
+			from the wheel.
+		xxx.	The first is right behind you, you need to
+			move up the rod of the wheel and turn
+			around.
+		xxxi.	Hookshot to the chest and open it to get
+			the fairy.
+	     xxxii.	The second one needs a little bit more
+			"luck". You need to go to the blades of
+			the wheel and Hookshot to the chest that
+			is on the same wall as the exit.
+			1.	Fairy 10 & 11
+	    xxxiii.	You may need to go back if you fall off,
+			if you do you can melt the ice with a Fire
+			Arrow.
+	     xxxiv.	When you are ready climb over the wheel
+			and take the wheel made bridge. Open
+			the door to one of the final rooms.
+		xxxv.	This room is one of the most confusing
+			rooms in the Temple. You have to
+			unfreeze and freeze the water to make the
+			"See-Saws" move up and down.
+	     xxxvi.	It is not too hard just make sure you get
+			to the Green Switch, but make sure you
+			check under the "See-Saws", most likely
+			the first one, and turn into Zora Link.
+	    xxxvii.	After you go down break the barrels by
+			rolling into them and then you will find
+			the fairy.
+	   xxxviii.	Run up the pipe and drop into the small
+			Fenced in Alcove for a chest and another
+			fairy.
+			1.	Fairy 12&13
+	     xxxix.	Now that the switch is flipped head to the
+			door to the final room.
+		xl.	When you get here you need to get the
+			fairies first. The first one is in a path that
+			leads you back to the previous room.
+		xli.	Before you go inside shoot the bubble
+			with your Zora Scales and go in to grab
+			it. Return back to the room.
+		xlii.	The final fairy is inside the gears, but you
+			can shoot it from the pipes.
+			1.	Fairy 14&15
+	     xliii.	Now hop to get the final Green Switch
+			and flip it to activate the Green Spout.
+		xliv.	Jump onto the spout to take you to the
+			Boss Room.
+	e.	Great Bay; Boss
+		i.	Gyorg
+			1.	The boss is pretty hard, but it will
+				be easier if you learned how to
+				leap onto a platform from the
+				water.
+			2.	If you can't then make sure you
+				have some potions on you.
+			3.	Gyorg is a fish that will try to
+				knock you off the platform. Look
+				for some bubbles and then get
+				close to the edge, and fire an
+				Ice Arrow.
+				a.	If you are too slow he will
+					ram the platform and drop
+					you into the water, FREE
+					BAIT!
+			4.	The Arrow will stun him, so turn
+				into Zora Link and use your "R"
+				button to hit him with the Zora
+				Barrier.
+			5.	My Recipe for Fried Gyorg,
+				please repeat above steps until
+				dead and then fry in a pan!
+			6.	Take the Mask and the Heart
+				Piece.
+		ii.	During the scenes you learn a little more
+			about the masks and a little bit about
+			some giants. Keep it in your mind.
+XIV.	Extra Stuff
+	a.	South Bay; Fairy Fountain
+		i.	Go to South Bay and go to the Fairy
+			Fountain. It is on the eastern side of the
+			bay in the water. You need the Hookshot
+			to get there.
+		ii.	Return all the Stray Fairies and you will
+			get your Defense Doubled!
+		iii.	This will appear as white lining around
+			their hearts.
+	b.	Zora Hall III
+		i.	Before you play the Song of Time you
+			can go back to Zora Hall and complete a
+			small thing that Mikau wasn't able to do,
+			play with the Indigo-Gos one last time.
+	c.	North Bay; Jumping Game "*"
+		i.	You can now enter the Great Bay
+			Jumping Game if you want, it sounds
+			easier than it looks.
+		ii.	Go to the reef in the Northern part of the
+			ocean. Jump onto the boat that will take
+			you to the jumping game.
+		iii.	Pay 20 Rupees to play. You just jump to
+			each platform lit with a torch and do it 20
+			times to get the Heart Piece as a prize.
+	d.	Snowhead
+		i.	Go back to Snowhead and kill Ghot again
+			to make it spring again. You will be sent
+			to Mountain Village after you kill him.
+	e.	Mountain Village VII "*"
+		i.	Put on the Don Gero's Mask, the frog
+			one, and talk to the frog on the pad in the
+			water.
+		ii.	He wants you to assemble the other frogs
+			all you have to do is talk to the frogs and
+			they will come to the pond, as long as it
+			is Spring.
+		iii.	The locations for the frog are:
+			1.	Mountain Village
+			2.	Laundry Pool
+			3.	Woodfall Temple; Sub Boss
+				Gekko
+			4.	Southern Swamp
+				a.	He is a little harder to
+					find, he is on a log in the
+					middle of the swamp.
+			5.	Great Bay Temple; Sub Boss
+				Gekko
+		iv.	When all 5 are together they will sing
+			their song and give a Heart Piece as a
+			reward.
+XV.	Investigating Ikana Canyon
+	a.	Ikana Canyon Path
+		i.	The Ikana Canyon is on the Eastern part
+			of the Termina Field. You will need
+			Epona to jump over the fences, but watch
+			out for the "Real Bombachu" that will
+			slow you down if you hit them.
+		ii.	Once you are all the way through you
+			should see a small cliff that Link can
+			climb without Epona.
+		iii.	Climb it and enter the Graveyard.
+	b.	Graveyard "+"
+		i.	When you enter you should see an old
+			friend from OoT. Dampe!
+		ii.	You can do a ton of things here, but you
+			can shoot the lanterns for some Rupees
+			and Dampe will pay you if you kill all of
+			the Bats for him.
+		iii.	After you are there you can head to the
+			back of the grave to the next area.
+		iv.	When you get there you should see a
+			huge Skeleton, if you read the sign you
+			should figure out that you need to play
+			the Sonata of Awakening and his name is
+			Captain Keeta.
+		v.	When you do the Skeleton will break
+			through the bridge and start running up
+			the side.
+		vi.	You have to catch up with it to start a
+			fight. There are a few catches though.
+		vii.	You have to follow him, but when fire
+			barriers stop you you have to kill two
+			Stalkids to proceed.
+		viii.	The key to winning is the Bunny hood
+			and shooting Captain Keeta in the back
+			with some arrows.
+		ix.	If you slow him down enough to reach
+			him swipe your sword at him and he will
+			start the assault.
+		x.	He is simple to kill, just swipe and dodge,
+			if you beat him to the end and kill him he
+			will reward you with the Captain's Hat!
+		xi.	Captain's Hat
+			1.	This hat will allow you to talk to
+				Stalkids and they will give you
+				information.
+			2.	This can also trick others and may
+				save your skin in a situation.
+		xii.	Take this hat back to the graveyard for
+			some fun. Wait until night on the first
+			day.
+		xiii.	When it is time then talk to the Stalkids
+			walking around the Tombstones with the
+			Captain's Hat on and order them to open
+			the grave. Each night they will open a
+			different grave with different spoils on
+			each one.
+	c.	Inside the Gravestone; Night 1
+		i.	When you first get here there is a large
+			room with tons of stuff, but only one
+			place available. Go through the first arch.
+		ii.	First kill all of the bats in the room to get
+			50 rupees.
+		iii.	In order to get through you need to light
+			all of the torches.
+		iv.	In this next room you will need to fight.
+			To start the fight hit him with your sword
+			then move.
+		v.	The key to killing him is simple, go near
+			him so he swipes at you then jump slash
+			him.
+		vi.	After a few hits his armor will fall off
+			making him a little harder to fight, he can
+			now move faster.
+		vii.	Try the same tactics as before, but you
+			must be a little faster.
+		viii.	Once you get rid of him the curtain will
+			rise allowing you to see Flat the
+			composer.
+		ix.	He is upset about his brother's curse he
+			placed on himself and him. He will teach
+			you the Song of Storms so you may right
+			his wrongs.
+		x.	Song of Storms
+			1.	This song has many properties.
+			2.	It can fill water in places that need
+				it.
+			3.	Cure curses on others as well as
+				Jinks that Flying Skulls can put
+				on you.
+			4.	Allow fairies to come out of
+				hidden places.
+	d.	Inside the Gravestone; Night 2 "*"
+		i.	The second night has a good reward. You
+			have to go down and take out your Lens
+			of Truth.
+		ii.	This will show you the path to the next
+			room. All of the monsters here are
+			invisible without the Lens of Truth.
+		iii.	Take out all of the monsters now so it
+			will make it easier. There are 3 Big
+			Skulltulas and 4-5 bats on the pot, walls,
+			and ledges.
+		iv.	There is a hidden part of the platform so
+			make sure the lens is on.
+		v.	When you get to the end there is a T-
+			junction go to the left and bomb the wall.
+		vi.	Once inside you will face another Iron
+			Knuckle. Same stradegy, but after you
+			kill him you will get a Heart Piece.
+	e.	Inside the Gravestone; Night 3 "="
+		i.	This night is the most important one next
+			to the Song of Storms.
+		ii.	This room has Dampe here looking for
+			treasure, but his lantern broke and he
+			can't see.
+		iii.	Before you lead Dampe around you
+			should know you are not alone with
+			Dampe. There are 2 things with you.
+		iv.	The first should be taken care of
+			immediately. A Floor Master can come
+			and catch you and take you back, so
+			when you stand still look for the shadow
+			and then move, kill it and you are all set.
+		v.	Now Z target Dampe and walk onto the
+			soil patches, after you get 3 lights coming
+			from the patches then you will get a visit
+			from a Big Poe.
+		vi.	If you need to get to the ones on the
+			platforms then put Dampe on the Brown
+			Platforms and then climb the stairs,
+			Dampe will wait for you.
+		vii.	After you get all 3 then you can take care
+			of the Big Poe. Dampe runs away leaving
+			everything to you.
+		viii.	To kill it shoots it with an Arrow or
+			Hookshot once he comes out from
+			invisibility and then dodge his spinning
+			blow.
+		ix.	It takes a few shots. After he is dead you
+			will get the final Empty Bottle.
+	f.	Ikana Canyon II
+		i.	Now that you cleared out the Graveyard.
+			Go back to the first day and then go back
+			to the Canyon.
+		ii.	Instead of going to the graveyard go to
+			the eastern part of the canyon this side.
+		iii.	You may notice the large cliff that you
+			can't reach, but there is nothing to
+			Hookshot to.
+		iv.	Talk to the Garo in the Garo's Mask and
+			he will make a tree appear that you can
+			Hookshot to.
+		v.	Once you are up you can summon Garos
+			in the area by wearing the mask, if you
+			don't have it on Tael will let you know.
+		vi.	The key to killing one to get information
+			is to block their attack with their sword
+			and jump slash at them for the kill.
+		vii.	When you get here you will notice there
+			are several places to go and you can also
+			complete the Anju & Kafei Quest.
+		viii.	First lets concentrate on getting the Owl
+			Statue. Go past the green grassy field to
+			the river with the docks.
+		ix.	Once you are there take out the Ice
+			Arrows and shoot those annoying
+			Octorocks to make them into ice blocks
+			in the water.
+		x.	Jump onto them to the ledge above.
+		xi.	Hookshot through the trees until you get
+			to the top of the dry river.
+		xii.	Now hit the Owl Statue to activate it.
+		xiii.	You can now complete several quest, or
+			continue onto the game, but I will stop to
+			tell you the extra stuff you can do.
+	g.	Ikana Canyon; Deed Trading Game "*"
+		i.	This is the final one you have to do.
+			Complete all of the Deed Trading spots
+			in all of the forms until you finish the last
+			one with Zora Hall.
+		ii.	Now go back to Ikana Canyon by Song
+			of Soaring and jump back down into the
+			water.
+		iii.	Get out and go left through the tunnel,
+			ignore Sakon, you can talk to him, but
+			don't show him your sword.
+			1.	He will run away with it so you
+				have to buy it back from the
+				Curiosity Shop owner.
+		iv.	Keep going until you see the Akido Nut
+			waiting there. He will usually sell you the
+			Blue Potions for 100 Rupees, but turn
+			into a Zora and give him the Zora Hall
+			Deed and he will pay you 200 Rupees
+			and give you his spot.
+		v.	Turn into Deku Link and get the Heart
+			Piece from the ledge.
+XVI.	Uniting Anju & Kafei II
+	a.	Ikana Canyon III "+"
+		i.	You must complete the previous part of
+			the side quest. You can skip the part of
+			actually meeting Kafei the second time
+			when you meet the Curiosity Shop owner
+			and just head here.
+		ii.	Final Day; 5:00 p.m.
+			1.	You need to be here by 6:00, but
+				5:00 is a more preferable.
+			2.	When you get here and
+				everything was done right then
+				Kafei will be waiting for you
+				behind the stone blocks near
+				where you met the Akido Nut.
+			3.	Talk to him and he will tell you
+				he found out about Sakon and his
+				hideout and that he is here to get
+				his mask.
+			4.	Stand behind the blocks so you
+				are totally out of site, if you stand
+				on the left side he will say, "I am
+				not doing anything suspicious,
+				really!"
+			5.	When he goes in Kafei will
+				follow him in and you should too.
+				Make sure the Song of Double
+				Time was played to slow down
+				the time.
+			6.	Once in there Kafei will find his
+				Sun Mask in the case, but he sets
+				off the trap that makes it go back
+				to fall into a pit.
+			7.	You have to get through the place
+				and stop the mask from falling.
+			8.	You will have to go through the
+				doors, Link will do the fighting
+				rooms and Kafei will do the
+				Puzzle Rooms.
+			9.	You need to have both switches
+				pressed in order to go through
+				each room.
+			10.	Buttons
+				a.	Red=Faster
+				b.	Yellow=Slower
+				c.	Blue=Opens Doors
+					i.	Red is BAD!
+			11.	Links rooms are easy, just kill the
+				monster and you are all set, but
+				Kafei's are a lot harder.
+		iii.	Room 1
+			1.	Just move the left block into the
+				center to press the blue switch. To
+				open the door for Link.
+			2.	Have Link kill the Deku's to
+				continue on.
+		iv.	Room 2
+			1.	Just walk around, not hitting the
+				Red Switches and hitting the
+				Yellow Switch in the upper left
+				hand corner.
+			2.	Go to the bottom right side corner
+				to open the door.
+			3.	This will open the door for Link.
+				Kill the monsters and open the
+				door for Kafei.
+		v.	Room 3
+			1.	This room is the last and harder
+				one in the group.
+			2.	First go to the far right block, it is
+				the last block on the sidewall.
+				Push it down.
+			3.	Walk across over the Red switch,
+				I know, but just do it.
+			4.	Push the block in the middle onto
+				the yellow block to slow it down
+				a bit.
+			5.	Now finally push the block right
+				below you onto the blue switch
+				and you are all set.
+			6.	Rush over to get the Sun Mask.
+				Sorry, it's not for you, but Kafei
+				thanks you can runs off to meet
+				Anju.
+	b.	Clocktown; Stock Pot Inn; 4:30 p.m.
+		i.	Go back to the Stockpot Inn
+			IMMEDIATLY, but Kafei will not arrive
+			until 4:30. Better safe than sorry. It may
+			be a good idea to return time to normal
+			until you get about 30 minutes on the
+			clock left.
+		ii.	You need to fly up to the door and enter
+			the door on the second floor that says
+			Employees Only.
+		iii.	As long as you gave Anju the pendent
+			from Kafei she will be waiting there for
+			Kafei.
+		iv.	At 4:30 he will arrive and show his love
+			for Anju by uniting the 2 masks into 1 to
+			make the Couple's Mask.
+		v.	They decide to die together, but you can
+			prevent that by completing the game.
+		vi.	They give you the Couple's Mask as a
+			thank you for all of your help and they
+			suggest you flee the city to get away from
+			the Moon.
+		vii.	Play the Song of Time before the world
+			ends and you should be back in
+			Clocktown.
+	c.	Clocktown; Mayor's Residence "*"
+		i.	Go to the Mayor's Residence when it
+			opens and wear the Couple's Mask.
+		ii.	This will stop the arguing in the meeting
+			to show that love breaks all reason.
+			iii.	In return he will give you a Heart Piece.
+XVII.	Search for the Royal Family
+	a.	Ikana Canyon IV
+		i.	Go back to Ikana Canyon and go to the
+			northern part of the map.
+		ii.	Follow the dried up riverbed to the top,
+			taking the side stairs when necessary.
+		iii.	When you get to the top enter the cave
+			that leads from the river.
+	b.	Ikana Canyon; Ikana Cave
+		i.	When you are inside you will enter the
+			home of Sharp, the brother of Flat.
+		ii.	He starts a fight, but will be over quickly
+			if you play the Song of Storms.
+		iii.	This song will fill the river again, but
+			also heal Sharp of his curse.
+		iv.	He thanks you for the help you gave him.
+			This also kills all of the Gidos in the river
+			making it safe for people to come out of
+			their homes.
+	c.	Ikana Canyon; Music Box "+"
+		i.	Go back down the river and put on the
+			Stone Mask. You should notice the girl
+			by the river, this is Pamela, she can't see
+			you with the mask, but enter the house.
+		ii.	Go to the basement and an odd looking
+			Gibdo will come out at you.
+		iii.	Before you have a chance to fight it
+			Pamela stops you and asks you not to
+			hurt he father.
+		iv.	Play the Song of Healing for him to cure
+			his problem and release the Gibdo Mask.
+			He thanks you for you help.
+		v.	Gibdo Mask
+			1.	This mask is great when it comes
+				to ReDeads and Gibdos.
+			2.	You can talk to Gibdos too to get
+				some information.
+		vi.	Play the Song of Time and get some
+			things to prepare for the next part of the
+			Ikana Canyon.
+	d.	Ikana Canyon; Poe Hunter "*"
+		i.	You can stop up to the top of the map and
+			enter the house for the Garo there who
+			will let you fight 4 Big Poes in 3:00
+			minutes.
+		ii.	The first 3 are simple, but you must do
+			this quick. You can use your sword,
+			arrows, and Hookshot to hurt them
+			AFTER they come back from invisibility.
+		iii.	3 shots and they are dead.
+		iv.	One comes first, and then the next two
+			come out at the same time.
+		v.	The final one is totally different. You
+			have to take out your Arrow, Arrows
+			only, and shoot at the fake Poes until you
+			get to the real one.
+			1.	You know you got it when she
+				flies back.
+		vi.	If you kill all 4 then the Garo will give
+			you a Heart Piece.
+	e.	Ikana Canyon V
+		i.	Before you go to the canyon you will
+			need a few things first.
+		ii.	Get 5 Magic Beans from the Akido Nut
+			in Southern Swamp, and a Blue Potion
+			from an Akido Nut in Ikana Canyon.
+		iii.	You will need the Empty Bottles so keep
+			them empty.
+		iv.	Go to the top of Ikana Canyon until you
+			see the hole in the ground. This is the
+			Well and a long cave, but with few
+			enemies.
+	f.	Bottom of the Well "="
+		i.	The well is a long map with cubes off
+			into each room. Each Gibdo will ask you
+			for something it wants, it will tell you
+			what it is he wants. If you give it to him
+			he will open the door.
+		ii.	This will be hard to type out so please try
+			to have patience.
+		iii.	In the first room go up and give the
+			Gibdo the Blue Potion. Talk to him first
+			then give it to him in C.
+		iv.	Go through the door and go to the left
+			alcove. Take the Fish and then some
+			Spring Water.
+			1.	You will need another fish soon,
+				so just exit through the door and
+				re enter to get a second fish.
+		v.	Go back to the main hall and go north
+			into the spike rollers. You can turn into
+			Deku Link and fly over them if you want.
+		vi.	Ignore the left door in this area for now
+			and give the Spring Water to the Gibdo in
+			the North door.
+		vii.	Go to the West Alcove and pick up 3
+			bottles of Bugs. The go to the East one to
+			get some Bombs.
+		viii.	Go through the spike rollers again and go
+			north. Both the top and right Gibdos need
+			Bugs. The North one has Fairies, but they
+			are not needed here.
+		ix.	The East one needs Bugs too, but they
+			lead to a hidden chest with 50 Rupees.
+			You need the Lens of Truth.
+			1.	Watch out there is a Floor Master
+				here and there are several more in
+				other rooms.
+		x.	Now go back all of the way to the
+			entrance. You have skipped one Gibdo
+			along the way that wants a Fish, but we
+			will return here later.
+		xi.	Now go East and give the second Gibdo
+			near the entrance. He is looking for some
+			Magic Beans. Give them to him and he
+			will die away and open the door.
+		xii.	This room has an alcove that you can
+			ignore, but keep moving until you take a
+			corner going up.
+		xiii.	To the top is a Gibdo looking for some
+			Fish. Give him the second Fish you
+			caught and he will open the door.
+		xiv.	This hallway is a little longer than most,
+			but to the East is an alcove that has some
+			Deku Nuts. Fight the Deku Babas to get
+			them. You will need 10 of them; they
+			will grow back after you kill them so take
+			your time.
+		xv.	A little North there is another Gibdo who
+			wants the 3rd bottle of Bugs I told you to
+			get. Give them to him and inside is a
+			chest with 50 Rupees.
+		xvi.	The North door Gibdo wants a Big Poe,
+			since you do not have one we will need
+			to backtrack.
+		xvii.	Go back through the entrance of this
+			room. You should be in the room where
+			you gave up the second Fish.
+	     xviii.	Go to the side East and that Gibdo wants
+			the Deku Nuts. Give them to him.
+		xix.	In this next room is a Gibdo on the East
+			side that wants Hot Spring Water. We
+			will get this in a second, but first go
+			North.
+		xx.	Around the corner is another Gibdo that
+			wants 10 Bombs. Give them to him and
+			enter the room.
+		xxi.	This room has a Big Poe. Simply kill it
+			and take the spirit in a Jar.
+		xxii.	Do not give this Poe up yet. We need to
+			go back to get the Hot Spring Water for
+			the other Gibdo.
+	     xxiii.	Here is the quick path from that Gibdo:
+			1.	West, West, North, East.
+				a.	Give the Fish to open the
+					door.
+		xxiv.	Take the Hot Spring Water and go back
+			to the previous Gibdo.
+			1.	East, North, West, West.
+		xxv.	Give him the Hot Spring Water, while
+			hot, and he will open the door for the
+			Cow.
+		xxvi.	Play Epona's Song to the Cow and she
+			will give up her Milk.
+	     xxvii.	Go back to the previous room and go
+			North. Give the Gibdo the Big Poe.
+	    xxviii.	Go into this room and pass the spike
+			rollers again. Go to the North and give
+			this final Gibdo the Milk.
+		xxix.	This room has a chest, Sun Switch, and
+			Sun Block. First open the chest to get a
+			new upgrade.
+		xxx.	Mirror Shield
+			1.	This Shield will reflect any light
+				in the room into the direction.
+			2.	Use the "R" button to aim the
+				light beam at the target.
+			3.	This will work with Sun Switches
+				and Blocks.
+			4.	This also kills ReDeads!
+		xxxi.	Reflect the light to the Sun Switch to
+			create the ladder to the Sun Switch.
+			1.	Hold the "R" button and aim the
+				light on the switch.
+	     xxxii.	Then reflect the light to the Block to
+			make it disappear.
+	    xxxiii.	Climb up the ladder and enter Ikana
+			Castle.
+	g.	Ikana Castle "*"
+		i.	You now have a short cut here. Go near
+			the entrance of the blocked castle and
+			enter the hole on the left side.
+		ii.	You may want to play the Song of Time
+			after you save your Rupees and re-stock
+			on Arrows and Magic Power.
+		iii.	You will need a Powder Keg too, so
+			make sure you pick it up.
+		iv.	Hit the Crystal Switch and then reflect
+			the light to the Sun Block.
+		v.	This castle is infested with ReDeads and
+			those fire skulls that can Jinx you.
+			1.	Use Song of Storms to cure
+				yourself if that happens.
+		vi.	You should come out from the top of the
+			map, but on the left side from the
+			entrance.
+		vii.	Go around to the entrance and pick up
+			any pots and grass items you can find.
+		viii.	Enter the in the front entrance which is
+			on the middle of the map.
+		ix.	This room has several ReDeads around,
+			but if you wear the Gibdo, Garo, or
+			Captain's Hat, they decide to dance?
+			Hmmmm.
+		x.	Go to the center and shoot a Fire Arrow
+			on the 2 Iced Eye Switches on the pillars.
+		xi.	They will both open up the doors on the
+			North and South of the Map.
+		xii.	Go to the North Corridor first. Go into
+			the room and you will see a Crystal
+			Switch and a Checkerboard platform on
+			the ground.
+			1.	It is fire and it is too high for a
+				Goron to Jump so don't turn into
+				Deku or Zora Link and stand on
+				it.
+		xiii.	Turn into Deku Link and hit the switch.
+			The platform will rise and fall after about
+			10 seconds, more or less.
+		xiv.	You need to run and dive into flower and
+			wait for it to fall.
+		xv.	When it does jump out and it will knock
+			the platform back up for another 10
+			seconds.
+		xvi.	Keep doing this until you get to the end
+			of the right side of the room.
+		xvii.	This time Dive into the flower and knock
+			the platform up, drop down and dive into
+			it again. Pop out and fly to the Crystal
+			Switch on the pillar and knock it for the
+			door to open.
+	     xviii.	Turn into Link and dive over to the door.
+		xix.	This next room is a big pit with bats and
+			Big Skulltulas.
+		xx.	Shoot them down from the corner of the
+			first platform with the Arrows.
+		xxi.	Put on your Lens of Truth to see the
+			hidden platform, jump to it and then jump
+			over to the switch.
+			1.	You can also use the Deku
+				Flower.
+		xxii.	This will open the door for you. Jump
+			back onto the platform. Jump from the
+			platform to platform until you reach the
+			exit.
+	     xxiii.	There are some fire skulls here that can
+			Jinx you. You can block them with your
+			shield and kill them, or run from them.
+		xxiv.	Now go up the stairs and you will be on
+			1/2 of the roof.
+		xxv.	You may notice the Crystal Switch. Hit it
+			with an arrow and the flames on the other
+			pillars will go down.
+		xxvi.	Put on the Bunny Hood and jump to the
+			first pillar with the Deku Flower.
+	     xxvii.	Then turn into Deku Link and dive into
+			it, hop to each pillar until you get to the
+			Heart Piece.
+	    xxviii.	You now have to retrace your steps until
+			you are back on the roof.
+		xxix.	When you get there go to the middle part
+			of the roof. You will need to walk on the
+			edge of the roof and the fence.
+		xxx.	Jump onto the platform right above the
+			entrance and dive into the Deku Flower.
+		xxxi.	Fly over to the switch and hit stand on it
+			as Link to activate it. This will make light
+			come into the next corridor that you are
+			about to enter.
+	     xxxii.	Go back into the entrance and go to the
+			South Corridor this time. The door
+			should be open if you hit both Eye
+			Switches.
+	    xxxiii.	Enter the room and if you hit the switch
+			there should be some light there. Use this
+			to kill the Floor Master. It will turn into 3
+			smaller ones; you can use light or kill
+			them with your shield.
+	     xxxiv.	Reflect the light to the Sun Block to open
+			up the rest of the passage. There will be 4
+			more ReDeads here, past them or kill
+			them and then go into the next room.
+		xxxv.	You will find an old annoying friend, the
+			Wizrobe. Take him out like before.
+			1.	Stand in a corner and shoot at the
+				one that is real.
+	     xxxvi.	Once he is dead continue to the next
+			room and up the stairs to the roof.
+	    xxxvii.	On the roof go to the Skylight in the front
+			of the roof. Place the Powder Keg on the
+			glass and run away.
+	   xxxviii.	When it explodes and then jumps down.
+			You will be back in the middle near the
+			entrance.
+	     xxxix.	Now the light will allow you to clear the
+			block in the middle of the room.
+		xl.	Grab the pots in the room to re-stock on
+			the Arrows.
+		xli.	Go into the next room.
+	h.	Ikana Castle; Throne Room
+		i.	When you enter you see the Ikana
+			Royalty in Stalkid form.
+		ii.	He sends 2 of his warriors to kill you. For
+			fun put on the Captain's Hat and go to
+			the foot of the King. You will get a funny
+			surprise.
+		iii.	King's Guards
+			1.	First thing you should do is take
+				out the Fire Arrows and burn
+				away the curtains. This will allow
+				light into the room.
+			2.	Attack the warriors with Arrows
+				and your sword. Try to lure them
+				to the light squares or around
+				them.
+			3.	When they fall down into a pile of
+				bones and take your shield and
+				then put the light onto their bones
+				and they are dead for good.
+		iv.	King
+			1.	When both of the Warriors are
+				dead then you have to fight the
+				King. Follow the same rules, but
+				he is a little harder.
+		v.	Once they are dead then the King will
+			recognize you are the warrior you are.
+		vi.	In return he will teach you a new song
+			Elegy of Emptiness.
+		vii.	Elegy of Emptiness
+			1.	> < > \/ > /\ <
+			a.	This song will allow you
+				to create a "Totem" of
+				your form. You have 4
+				forms so you can have up
+				to 4 Totems.
+				i.	They will hold
+					down switches for
+					you that would not
+					stay down unless
+					they are stood on.
+		viii.	You may want to play the Song of Time
+			now to save and make sure things get
+			easier next time.
+XVIII.	Free the Stone Tower
+	a.	Stone Tower Entrance
+		i.	The Stone Tower is in the corner of the
+			canyon. Climb up and you will need to
+			complete a few things to get to the top.
+		ii.	You will be Hookshooting from different
+			points and then using the Elegy of
+			Emptiness to make the switches stay
+			down.
+		iii.	Jump over the platforms and look out for
+			the falling boulders. They will be all over
+			here so get use to them.
+		iv.	Step onto the switch and play the Elegy
+			of Emptiness to keep the switch down.
+		v.	Now Hookshot to the next ledge where
+			there is a Beamos standing guard.
+		vi.	Knock him out with a Z Targeted Bomb
+			and then step onto the switch.
+		vii.	Turn into a Goron or Zora and step onto
+			this switch and play the Elegy of
+			Emptiness again.
+		viii.	This will make the second platform go
+			into place. Hookshot to the next target.
+		ix.	This time step onto the switch with the
+			only other form you haven't used.
+		x.	This will complete the platform. Jump
+			over them to get to the other side.
+		xi.	The next switches are not important. You
+			use these when you want to go back
+			down.
+		xii.	Now Hookshot to the next switch and
+			leave a Totem on the switch, doesn't
+			matter which one as long as it isn't Deku,
+			they are too light.
+		xiii.	Hookshot to the next platform and kill
+			the Beamos again and flip the switch
+			with a Totem.
+		xiv.	Hookshot to the next one again and guess
+			what you are going to do here! If you
+			don't know please let me slap you.
+		xv.	Leave a Totem to make the final bridge
+			of platforms and jump across.
+		xvi.	Now Hookshot up the next three ledges
+			and activate the Final Owl Statue!
+			1.	You can now warp to anywhere in
+				this world!
+		xvii.	Take out some of the pots and grass to
+			heal up. You will need it for this temple.
+			Make sure you have some Blue Potions.
+			You will defiantly need them for the
+			Boss fight.
+	     xviii.	You can play the Song of Time now that
+			the Owl Statue is activated and you have
+			instant access to the temple.
+			1.	Again make sure you are
+				prepared. This is the longest most
+				complicated temple, but it is the
+				last one too.
+		xix.	Now you have to activate the next three
+			platforms to get to them to work you
+			need to leave Totems on all three of
+			them, but they need to done in the right
+			order.
+			1.	Middle, Right, & Left
+		xx.	Jump over the platforms and enter the
+			Stone Tower.
+	b.	Stone Tower
+		i.	First let me say that if you skipped all of
+			the previous fairies then you should start
+			now. Not only do the Fairy Chests make
+			great Hookshot targets, but also the
+			reward is beyond imagination.
+		ii.	The next thing I have to explain is that
+			you have to complete the temple in its
+			two forms. First is the normal way and
+			then flip.
+		iii.	The up is down, and the down is up. It is
+			actually cool when you get to that point.
+			It will open new areas for you, change
+			old ones, and just make the place look
+			cool.
+		iv.	This first room is open. The first thing
+			you want to do is to shoot the left eye of
+			the statue to make the first Fairy Chest
+			appear.
+			1.	Fairy 1
+		v.	This chest will make a good Hookshot
+			target later on. Now take the left door,
+			but don't bother to kill the Dragon Flies
+			around here. They will come back once
+			you leave the room.
+		vi.	This next room will require the use of
+			Totems again. There is a bomb wall
+			straight in front of you. Blow it up and
+			knock down the large crates here.
+		vii.	Now grab a small crate and leave it on
+			the switch right near the entrance.
+		viii.	Go north and leave a crate or totem on
+			that switch. To the left near the wall there
+			is a huge switch. Turn into a Goron and
+			leave a Totem on that switch.
+		ix.	Go to the right and leave another Totem
+			on that switch to make the gate rise and
+			lead to the next area.
+		x.	There is a section with some grass on it,
+			if you need some supplies cut them
+			down.
+		xi.	Now blow up the other section on the
+			floor to make a skylight. You will notice
+			it by the discolored tiles.
+		xii.	Take the stairs to the lower floor. This
+			room has a fairy near the entrance. Look
+			for the Hookshot target to the right of the
+			door. Up there is a Fairy Chest.
+			1.	Fairy 2
+		xiii.	There is a Sun Block in the back of the
+			room. Use your Mirror Shield to take
+			care of it. You should have light from the
+			opened skylight you blew up from above.
+		xiv.	There are 6 Armos here. 4 have to be
+			killed to get your first Small Key.
+		xv.	The two behind the Sun Block and the
+			two in the lava. Go across the lava as
+			Goron Link and hit them with a punch.
+		xvi.	Punch them one more time and run
+			before they explode. When they are dead
+			a chest will appear with the Small Key.
+		xvii.	Go back upstairs and unlock the door
+			near the grass opposite of the skylight.
+	     xviii.	There is a Small Key chest on the
+			opposite side of the water. Turn into a
+			Zora and dive in. Avoid the mines in the
+			water.
+		xix.	You can do a dolphin dive out of the
+			water and land on the opposite side or
+			you can get caught by the Dexi-Hand to
+			toss you up.
+		xx.	Get the chest for the Small Key. Do not
+			rush out just yet. Take a bomb and throw
+			it over the fence to make the Crystal
+			Switch flip and create a chest.
+		xxi.	Dive backs in the water kill the Dexi-
+			Hands and enter the underwater door.
+		xxii.	There is an underwater switch here at the
+			bottom of the floor surrounded by mines.
+	     xxiii.	Throw your scales at the mines to blow
+			them up and step on the switch to create a
+			Fairy Chest that is upside down.
+		xxiv.	Now go to the top onto the bridge and
+			look for the Eye Switch in ice. Fire a Fire
+			Arrow at it. That will create a chest that
+			will be accusable when the temple is
+			flipped.
+		xxv.	There is also a beam of light coming
+			from the top of the floor onto the bridge.
+		xxvi.	Aim the light with your Mirror Shield to
+			the mirror straight ahead of you. Keep it
+			there. This will capture the light and re-
+			shine it for you.
+	     xxvii.	After about 10-15 seconds it is fully
+			charged, run over and light up the Sun
+			Block to make the path clear for the
+			Compass.
+			1.	This also makes a shortcut to the
+				first room.
+	    xxviii.	Now go to the other side and open the
+			locked door with the Small Key.
+		xxix.	This room has several fairies and the
+			mirrors that you dealt with before.
+		xxx.	First turn into a Goron and punch the
+			pillar down to make the sunbeam appear.
+		xxxi.	You will need to take some time to
+			charge the mirrors and the black boes will
+			do what ever they can to stop you.
+			1.	Put on the Stone Mask to make
+				sure they won't bother you.
+	     xxxii.	Now use it to hit the last Sun Switch on
+			the right side to make a Fairy Chest
+			appear. It is behind the center pillar of
+			mirrors.
+			1.	Fairy 3
+	    xxxiii.	There are 3 mirrors in the center of the
+			room. You will need to charge a series of
+			them, but first lets get rid of the Sun
+			Block to get the second Fairy Chest.
+	     xxxiv.	Aim the sunbeam to the right mirror and
+			wait for it to charge and then run to it and
+			aim that light to the Sun Block. Inside is
+			the Fairy Chest.
+			1.	Fairy 4
+		xxxv.	Go back to the sunbeam and aim it to the
+			left mirror and then wait for it to charge.
+	     xxxvi.	Now run to the mirror and aim it to the
+			other mirror on the far left wall. Keep the
+			beam there until it stops coming from
+			that mirror and run to the next mirror.
+	    xxxvii.	The beam will not last as long as it did
+			before you aim it quickly to the Sun
+			Block in the back of the room. Exit
+			through the door to the next area.
+			1.	If you mess up or fail then try
+				again. It takes several times to get
+				it right.
+	   xxxviii.	This room is actually kind of fun. You
+			will need to turn into Deku Link and take
+			the Deku Flower into the air.
+	     xxxix.	Turn to the left and enter the alcove to
+			find a Fairy Chest.
+			1.	Fairy 5
+		xl.	Drop to the bottom, but as a Goron,
+			otherwise you will burn in the lava.
+		xli.	Towards the entrance is a Goron Switch
+			that needs to be pounded on. This will
+			make a ring of fire disappear over the
+			foot switch.
+		xlii.	You need to Goron Roll around the
+			corner dodging all of the obstacles before
+			the fire starts up again and hit the switch
+			to make a Fairy Chest appear on the
+			platform above.
+	     xliii.	Go back to the beginning and climb the
+			ladder and take the Deku Flower. Here is
+			where the fun begins.
+		xliv.	Pop out and fly straight for the vent and it
+			will give you a push higher into the air.
+		xlv.	Go around the corner and take the next
+			vent and fly around the next corner.
+		xlvi.	This gets tricky; there is a Real
+			Bombachu there that will attack you if
+			you hit the sides.
+	     xlvii.	If you hit him he will be gone making it
+			easier for you to make it next time.
+	    xlviii.	Keep flying to the next vent and onto the
+			platform. Take the Fairy Chest now that
+			you can reach it.
+			1.	Fairy 6
+		xlix.	Go through the door to the next area and
+			the Sub Boss.
+	c.	Stone Tower; Sub Boss
+		i.	Garo Master
+			1.	This Garo is a lot different that
+				the ones before. He can quickly
+				recover when you block with his
+				shield.
+			2.	The best way to get him is to do a
+				back flip when he strikes. Then
+				jump slash. He will teleport so be
+				on guard.
+			3.	As a reward you will get the Light
+				Arrow.
+		ii.	Light Arrow
+			1.	This is more useful than in Oot.
+				This time it is a lot more useful.
+			2.	You can dissolve Sun Blocks and
+				activate Sun Switches with not
+				sunbeams.
+		iii.	Take your new prize and head through
+			the south door and continue through to
+			the next one.
+		iv.	This room has an Eyegore. He will ignore
+			you at first, but head up to him and he
+			will become active.
+		v.	Shoot a Light Arrow in his eye to stun
+			him and then hit him again with another
+			Arrow or Hookshot.
+		vi.	Repeat a few times and you will get a
+			fairy.
+			1.	Fairy 7
+		vii.	Go back to the entrance via the Song of
+			Soaring and head back to the room with
+			the switches and go through the next
+			room.
+		viii.	This is the room with the water and the
+			Sun Blocks and where you got the second
+			Small Key.
+		ix.	If you threw the bomb over the edge to
+			hit the crystal switch on the opposite
+			platform while you in the here before
+			there should be a chest on this side of the
+			room.
+		x.	 If there is hit the Sun Switch with a
+			Light Arrow to dissolve it and take the
+			Fairy Chest.
+			1.	Fairy 8
+		xi.	If you forgot to do it then swim across
+			and then throw the bomb over and go
+			around and get the chest.
+		xii.	Go back to the entrance and stand in the
+			middle platform that has the Sun Switch
+			in front of it. Hit the Sun Switch with the
+			Light Arrow to create an upside down
+			Fairy Chest.
+		xiii.	Now go back outside so you will be on
+			the trio of the platforms that you created
+			to enter.
+		xiv.	This is the time to go and refill on Magic.
+			You will need plenty of Magic here and
+			mainly in the Boss Room, so fill up those
+			Empty Bottles.
+		xv.	Below the entrance is an odd looking
+			symbol with a red orb in the center.
+		xvi.	Hit it with a Light Arrow to make the
+			temple flip upside down.
+			1.	Garo Master; "Make the Heaven
+				and the Moon switch places with
+				the Earth."
+			2.	The temple is flipped but the
+				rooms are in the same order.
+				Think of looking at a mirror
+				facing the top of the temple. The
+				left to the left and the right is still
+				right.
+	d.	Stone Tower; Inverted
+		i.	Enter the temple. If you hit the Sun
+			Switch while the temple was right side up
+			you should see a chest in front of the
+			Boss's Teleport platform. Open it to find
+			a Fairy.
+			1.	Fairy 9
+		ii.	Your next destination is the right room.
+			This room has 3 fairies and none of them
+			are east to get.
+		iii.	Turn into Deku Link and jump off the
+			edge and land on the vent that will take
+			you up. Fly straight across to the alcove
+			with the fairy in a bubble.
+			1.	Fairy 10
+		iv.	Now jump off the edge and shoot a Light
+			Arrow at the Sun Switch near the
+			entrance. This will make a Fairy Chest
+			appear, but upside down. We will get to
+			this one later.
+		v.	Turn into Deku Link and jump on the
+			vents and fly to the east side and then
+			step onto the silver footswitch and leave
+			a Totem as Link.
+		vi.	Now jump onto the other vent and fly to
+			the farthest one that goes to the ceiling.
+		vii.	Ride it up and go to the wall above the
+			entrance and get the Fairy Chest that was
+			previously surrounded by fire.
+			1.	Fairy 11
+		viii.	Now go to the entrance to the next room.
+			It is at the top of the room in the west
+			corner surrounded by mines.
+		ix.	This room is a little complicated. There
+			are 2 of the emblems you saw at the
+			entrance to the temple.
+		x.	If you shoot these emblems then the
+			room and the room only will rotate like
+			the temple did.
+		xi.	This first room all you need to do is shoot
+			the emblem and roll over the lava as a
+			Goron.
+		xii.	This room is a little harder. This is a little
+			tricky. You need to pull the block in the
+			room to the edge of the elevated floor and
+			then shoot the emblem to make the room
+			reverse allowing you to move it again.
+		xiii.	You need to repeat this until you get to
+			the hole in the opposite corner of the
+			room to make the door open.
+	e.	Stone Tower; Sub Boss II
+		i.	Wizrobe IV
+			1.	This time is the final time you
+				have to fight him in a temple, but
+				not the last time you have to fight
+				him.
+			2.	Find a corner and stay there and
+				shoot him with some Light
+				Arrows until he is dead, only 4-5
+				shots!
+		ii.	Now Hookshot up to the Fairy Chest that
+			appeared. Open it and take the final fairy
+			that you can get right now.
+			1.	Fairy 12
+		iii.	Now take the stairs. There is a huge pit in
+			front of you, turn into a Deku and dive in
+			and fly over to the other side.
+		iv.	Now dive into that flower and fly into the
+			alcove on your left facing the pit.
+		v.	Put on your Stone Mask and those little
+			stomping guys will leave you alone.
+		vi.	Look for the footswitch in the back of the
+			alcove and leave a Totem and then get
+			the chest that contains the Small Key.
+		vii.	Return back to the exit and rolling jump
+			over to the platform and open the door.
+		viii.	This is where it gets hard this area.
+			Before you start to fly shoot the mines
+			with an Arrow to knock them into each
+			other to make them blow up.
+		ix.	Dive into the flower and take it to the
+			mines you just blew up and then dive into
+			that flower and fly to the other side again.
+			Go through the bridge and into the next
+			room to the final sub boss.
+	f.	Stone Tower; Sub Boss III
+		i.	Gomess
+			1.	This one is a little harder than the
+				previous ones. He is undead and
+				the Light Arrow is their worst
+				enemy.
+			2.	He is cloaked in bats, but when
+				you shoot him with the Light
+				Arrow they will scatter.
+			3.	Now run up and jump slash or
+				slash at him as much and as fast
+				as you can. When he strikes use
+				your shield or jump back.
+		ii.	After he is dead collect the Boss Key
+			from the cage and exit the room.
+		iii.	Go across the bridge and then shoot the
+			mines clearing that Deku Flower and fly
+			to it, and fly back to the entrance that you
+			came in from before.
+		iv.	Do not go through the door, but there is a
+			small path on the side that leads to a
+			door.
+		v.	There is a Death Armos here that can get
+			in the way, if you can put on the Stone
+			Mask and jump across, but sometimes he
+			blocks you path. You need to shoot him
+			with a Light Arrow and attack him after
+			to kill him.
+		vi.	Step on the switch to make a Fairy Chest
+			appear upside down and Hookshot over
+			to it.
+		vii.	There is an Eyegore here that is like the
+			previous one. Shoot him with a Light
+			Arrow and then repeat it, he won't fall
+			this time around.
+		viii.	After you beat him you will get a chest
+			with a very useful, now anyway, but
+			wasteful mask.
+		ix.	Giant' Mask
+			1.	This mask will allow you to grow
+				20X your normal size, but ONLY
+				in Twinmold's Lair.
+		x.	Go into the door collecting any pots or
+			boxes along the way. This room seems a
+			little bit more difficult, but it pretty easy.
+		xi.	Shoot the Crystal Switch to make the
+			upside down and Hookshot over to it.
+		xii.	Then Hookshot to the target on the
+			ceiling and collect any hearts below you.
+		xiii.	Open the door to the Boss Chamber and
+			stock on any items in the room before
+			you fall down the hole.
+	g.	Stone Temple; Boss
+		i.	Twinmold
+			1.	They are pretty simple to kill, but
+				the hard part is the size.
+			2.	Put on the Giant's Mask to make
+				you grow. You will be 20X your
+				size and an even match for
+				Twinmold, but your Magic Bar
+				will decrease as you stay in this
+				form.
+			3.	You can only hurt the two
+				monsters if you hit them on their
+				heads and tails. They will come
+				out of the ground around your
+				location.
+			4.	If you need Magic lure them to
+				the stone blocks and return to
+				normal size to pick up the items.
+			5.	If you still run out of Magic you
+				can stay small and kill them.
+			6.	Stand in the center and shoot
+				arrows at their heads and tails
+				only when they are close.
+		ii.	When they are dead you will get the
+			Twinmold's Sacred Mask, but there is
+			more to do so don't play the Song of
+			Time.
+		iii.	You need to collect 3 more fairies.
+		iv.	Play the Song of Soaring and then go to
+			the Stone Towers Temple.
+		v.	Make sure it is right side up now so that
+			you can get the fairies.
+		vi.	The first one is in the first room inside
+			the Fairy Chest.
+			1.	Fairy 13
+		vii.	Go to the left door and then place the
+			Totems and the boxes on the switches so
+			the door will open.
+		viii.	Take the right door and then dive into the
+			water to get the Fairy Chest as a Zora.
+			1.	Fairy 14
+		ix.	Now go through the underwater tunnel on
+			the right side into the next room and go
+			onto the bridge.
+		x.	Go north to the next room with the tons
+			of mirrors. Go north through that room to
+			the room with the Lava and Vents.
+		xi.	Go across as Deku Link like before and
+			go into the next room, and again through
+			that room.
+		xii.	This is the room with the one long rafter
+			in the middle of the room and here is the
+			final Fairy Chest.
+			1.	Fairy 15; Final Fairy.
+		xiii.	Play the Song of Soaring and then the
+			Song of Soaring again to take you back to
+			Ikana Canyon.
+	h.	Ikana Canyon; Fairy Fountain "="
+		i.	The Fountain is just below the entrance
+			to the Stone Tower, the one IN the
+			Canyon.
+		ii.	Inside return the Stray Fairies and get the
+			most precious sword of the game.
+		iii.	Great Fairy's Sword
+			1.	This Sword is actually an item.
+				You need to assign it to "C" and
+				then use that "C" button to attack.
+			2.	It will stay out so you can jump
+				slash with it, but blocking only
+				makes you crouch down.
+			3.	It is the most powerful item of the
+				game and worth all of the work.
+			4.	No more Fairy Fountains!
+XIX.	Extra Stuff
+	a.	Ikana Canyon VI
+		i.	Play the Song of Time if time is low and
+			return to the canyon.
+		ii.	Dive into the water below and head to the
+			left into the cavern above the water.
+	b.	Ikana Canyon; Secret Shrine "*"
+		i.	Inside is another Garo that is offering to
+			give you a small test of skill. You need
+			the Light Arrow to participate in the
+			games.
+		ii.	You need to shoot a Light Arrow above
+			the door to open it and you need at last 16
+			Heart Containers before you can play, but
+			it is free to do it!
+		iii.	Room I; Garo Master
+			1.	There is a Garo Master like in the
+				Stone Tower.
+			2.	Wait for him to attack, jump back,
+				and strike like before.
+		iv.	Room II; Wort
+			1.	Like before Hookshot his looser
+				parts and swipe at them with your
+				new sword.
+			2.	When you clear enough to open a
+				spot for the eye then shoot him in
+				the eye and attack.
+		v.	Room III; Wizrobe
+			1.	This is the last time you have to
+				fight him, really, unless you need
+				to do a temple again.
+			2.	Stand in a corner and take him out
+				with your new Light Arrows.
+		vi.	Room IV; Lizalfos
+			1.	They are SO simple with your
+				Fairy Sword so take them down in
+				a few swipes of your sword.
+		vii.	You not only get a Heart Piece for
+			beating all 4 rooms you get 100 Rupees
+			for clearing each room!
+			1.	This is a good moneymaker.
+XX.	Face the Skull Kid
+	a.	Clocktown
+		i.	The Skull Kid is actually the Imp that
+			you may have heard of in Grandma's
+			stories with the All Night Mask.
+			1.	Just a small tidbit that might help.
+		ii.	PREPARE!
+			1.	Get all your Empty Bottles filled
+				with Blue Magic.
+			2.	Get all of the Arrows, Deku Nuts,
+				Bombs, Bombachu, and any other
+				items you need.
+			3.	Store all of your money in the
+				Bank.
+		iii.	Play the Song of Double Time until it is
+			the night of the Final Day.
+		iv.	Do the Deed Trading Game to get the
+			spot in front of the tower and then fly up
+			there and wait for midnight and the
+			opening of the tower.
+	b.	Clocktown; Clocktower
+		i.	Go up the tower and face Skull Kid. He is
+			still stubborn as ever refuses to stop.
+		ii.	Play the Oath to Order to call forth the 4
+			Spirits of the Sacred Masks, the 4 Giants.
+		iii.	They will hold the Moon and Skull Kid
+			will pass out, but the Mujara Mask has
+			other plans.
+		iv.	Just as you think you won the mask will
+			discard of Skull Kid and challenge Link
+			to come to the Moon and face him, before
+			the Giant's lose their grip and drop the
+			Moon. Follow Mujara's Mask into the
+			portal to the Moon.
+XXI.	The Finale; Mujara's Mask
+	a.	Moon
+		i.	The Moon is a lot different that you
+			think. It is a peaceful plain with 5
+			different kids with 5 different masks on.
+		ii.	Talk to each of them and they will want
+			to play a game, but they want some
+			masks first.
+		iii.	We will go in order of the temples for the
+			people, but consider what you are giving
+			up when they want the masks.
+			1.	Discard useless ones first like the
+				Postman's Hat, Giant's Mask, etc.
+			2.	Keep the Mask of Truth till last
+				for a Joke!
+		iv.	You will give some when you enter and
+			exit the section of the moon until you are
+			left with only 4 Masks.
+		v.	What you are short 1 Heart Container!
+			Well each level has 1 Heart Piece.
+		vi.	The only problem is if you skip the Heart
+			Piece you must redo the scenes to get to
+			the Moon if you exit.
+	b.	Moon; Odolwa Child
+		i.	Total Masks Wanted
+			1.	2
+		ii.	This dungeon you will be using the Deku
+			Mask to get through.
+		iii.	Dive into the Deku Flower and wait for
+			the rotating flower to come to you and
+			then pop out and land on the flower.
+		iv.	Wait until you get to the other side and
+			jump off and land on the platform to the
+			right.
+		v.	Take this flower to the next rotating
+			flower, but wait for the "Bash" flower,
+			this will send you higher and farther than
+			the other.
+		vi.	Go to the far right hand corner of the
+			room and get Heart Piece.
+		vii.	You can try to get back to the rotating
+			flower, but you may just have to start
+			over.
+		viii.	The exit is to the left and talk to the
+			Odolwa Child to exit the area.
+	c.	Moon; Goht Child
+		i.	Total Masks Wanted
+			1.	4
+		ii.	This one is actually kind of fun to do, but
+			can get complicated. Try to stay along
+			with me.
+		iii.	Turn into a Goron and take the Magic
+			Pots so that you are full. There are more
+			in the paths if you need it.
+		iv.	Goron Roll from the statues over the
+			ramp and over the gap.
+		v.	You will hit the Empty Chest to bounce
+			in a new direction, just hold the Roll
+			button.
+		vi.	Roll into the next Empty Chest and you
+			will go over several more gaps until you
+			get to the next Empty Chest and jump
+			over that gap and STOP!
+		vii.	Go across the bridge and avoid the target
+			shaped platform, unless you want to go
+			back to the beginning.
+		viii.	Go over the next bridge and go to the
+			back of this ramp and start to roll again,
+			but this time you need to sort of turn
+			around the corner and then over the
+			bridge then STOP.
+		ix.	Walk the rest of the way to get some
+			Green Magic Pots if you need them and
+			start to roll again once you get to the
+			bridge on the other side.
+		x.	Start again and don't stop while you hit
+			the Empty Chest and go over the final
+			ramp to the Heart Piece.
+		xi.	Now go south and then start to roll and
+			STOP! Go over the bridge and start to
+			roll right behind the warp spot and go
+			over to the gap to the exit.
+	d.	Moon; Gyorg Child
+		i.	Total Masks Wanted
+			1.	6
+		ii.	This one is pretty simple, but hard. You
+			need to turn into Zora Link and then go
+			into the water.
+		iii.	There are tubes here that have connection
+			to each other and there is one with the
+			Heart Piece and one with the exit.
+		iv.	It is VERY easy to try to go one place
+			and end up in another, so make sure you
+			get the Heart Piece first!
+		v.	To get the Heart Piece take the right
+			tunnel and then take the first left then the
+			next left and then the next left.
+			1.	Easy right, wait and see!
+		vi.	To get to the exit you need to take the left
+			tunnel and then take the second right.
+	e.	Moon; Twinmold Child
+		i.	Total Masks Wanted
+			1.	8
+				a.	No more Masks Left!
+		ii.	This is the first one where you have to
+			actually battle monsters so warm up that
+			Fairy Sword.
+			1.	The other thing is if you see a
+				Gossip Stone they will tell you
+				where some masks are, but the
+				only thing is some of them you
+				already had to have to get here!
+			2.	The other thing is one tells you
+				where to find the Mask of Truth,
+				ok if you say so buddy!
+		iii.	The first three rooms are simple they
+			contain a Lizalfos, then a Garo Master,
+			and an Iron Knuckle.
+		iv.	After you get to the final room Hookshot
+			to the chest and open it and enter the
+			door.
+		v.	When you fight the Iron Knuckle you
+			will not be able to get to the ledge!
+		vi.	There should be a small crack in the wall
+			on the right side. Open the chest and get
+			some Bombchus and aim them for the
+			crack in the wall.
+		vii.	If your aim is right you will crack it open
+			and hit the switch for the ladder to
+			appear.
+		viii.	This next one is a lot hard. The crack is
+			on the ceiling this time, so take aim and
+			hope for the best.
+		ix.	If you air directly for it, the Bombchu
+			will over shoot it's target. So stand in
+			once corner and aim for the other.
+			1.	This may not work so try different
+				angles.
+		x.	When you get it go into the next room
+			and then the next for the final Heart Piece
+			of the game and the exit.
+	f.	Moon II
+		i.	Go back to the Moon and all of the
+			Sacred Children are gone, but one
+			standing by the tree.
+		ii.	Talk to him and he will tell you he wants
+			masks too, but you have no more, but he
+			will give you one as a token of
+			friendship!
+		iii.	Fierce Deity's Mask
+			1.	This Masks is the most powerful
+				Transformation Mask in the
+				game.
+			2.	When you beat the game you
+				keep this mask with you as well
+				as get all of the other masks back.
+			3.	There is only one problem. It only
+				works in Boss Rooms and there is
+				only 1 other Boss Room besides
+				the final one that it is of use.
+				a.	Odolwa!
+			4.	If you want to beat the game
+				fairly then don't use this mask,
+				stay regular Link.
+		iv.	You will now be transported to the Final
+			Boss' Room, Mujara!
+	g.	Mujara's Lair
+		i.	Again if you want to challenge the game
+			then don't use your new Fierce Deity's
+			Mask.
+		ii.	Mujara's Mask; Form I
+			1.	There are a total of 4 forms of the
+				mask, each one harder than the
+				last.
+			2.	He is simple to hurt, shoot arrows
+				at it or swipe it with your sword if
+				you can reach.
+			3.	After a few hits is will transform
+				into a more deadly form.
+		iii.	Mujara's Mask; Form II
+			1.	This time the other Sacred Masks
+				will come off of the wall and start
+				trouble.
+			2.	You can take them out with a few
+				arrow shots for good or a swipe
+				with your sword.
+			3.	It may be a good idea to get rid of
+				them ASAP.
+			4.	Mujara also starts to breath fire at
+				you that can become a pain in the
+				royal duff.
+			5.	You can use your Mirror Shield
+				as regular Link to avoid this.
+			6.	Attack with your sword and
+				arrows again.
+		iv.	Mujara's Mask; Form III
+			1.	This time it grows arms and legs
+				and is very fast.
+			2.	You can use Arrows to take him
+				down fast or go over to him and
+				hit him with the Deity's Sword if
+				you can catch him.
+			3.	If you want to the Deku form can
+				be helpful. His spins can dodge
+				his attacks and take him down
+				when he is on the ground.
+		v.	Mujara's Mask; Form IV
+			1.	This is the final and most deadly
+				form. His arms are like Whips
+				and can take you out at distances,
+				so shooting Arrows is pretty hard,
+				but necessary if you are Link.
+			2.	Z Target is your best friend.
+				Shoot Arrows while it is on or
+				Jump Slash with your sword if
+				you see an opening.
+			3.	When it is down go after it with
+				your strongest sword and start off
+				with a Jump Slash and followed
+				up with a series of swipes.
+		vi.	If you are successful the evil will exit
+			Mujara's Mask allowing you to take it
+			peacefully.
+XXII.	Finale
+	a.	Happy Mask Salesman
+		i.	The Mask will be returned to him as he
+			wanted and he thanks you for your help.
+	b.	Friends Again
+		i.	The 4 Giants are grateful for your help
+			and forgive Skull Kid for his
+			mischievous.
+		ii.	The Fairies forgive Skull Kid for the
+			treatment he gave to them and they
+			become friends again.
+		iii.	As a token of friendship they leave a
+			drawing of Link and the rest of the gang.
+		iv.	Congratulations you saved a World and
+			had an adventure of a lifetime.
+		v.	This was a hard game and you deserve
+			congratulations!
+XXIII.	Secrets & Mysteries
+	a.	Mask Salesman
+		i.	He is a very odd man and what's with the
+			scenes skipping while he changes places?
+		ii.	If you go behind him you will see several
+			masks that you can't collect, but one is
+			Mario Mask!
+			1.	Sorry Luigi!
+	b.	Akido Nuts
+		i.	Why aren't they called Deku Bushes!
+			They use their flowers!
+	c.	Epona
+		i.	How does Epona get out of the fence or
+			the boulders when you play the Epona
+			Song?
+		ii.	Why does Romani have the same song as
+			Malon's?
+	d.	Location, Location, Location?
+		i.	How does Link get home and where is
+			this world!
+	e.	More Questions
+		i.	Do you have any theories or more
+			questions? E-Mail me and I may post
+			them into the Walkthrough when I do
+			some updates.
+
+This walkthrough was made by David Zabroski.
+Any attempt to Plagiarize my work will be dealt with.
+If you would like to post this walkthrough, or any
+other walkthrough made by me, must be approved by me
+at:
+Locke1978@hotmail.com
+
+If you visit one web site for RPG games visit:
+Http://www.DragonwarriorReturns.com
+Dragon Warrior Returns
+
+If you visit two, then go to:
+Http://www.ZeldaPower.com
+Zelda Power
+This is the one site I go to for all the information
+concerning Zelda.
+
+
+

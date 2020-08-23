@@ -1,0 +1,169 @@
+                 **************************************
+                 *       The Chocobo Manifesto        *
+                 *              ver 1.0               *
+                 *           by Nick Adams            *
+                 **************************************
+                 *  Send Input or Requests for Newer  *
+                 *   Versions to adamsnb@muohio.edu   *
+                 **************************************
+
+ Feel free to use or distribute this guide, but please don't change it,
+            or use it without giving me credit for my work.
+
+========================================================================
+*Preface*
+
+  If you're like me, you spent a lot of time looking for a reliable cho-
+cobo breeding guide somewhere on the web. In an attempt to save somebody
+some time, I've written a guide that actually works. Follow this to the
+letter, and you'll get a Gold chocobo with minimal irritation. If you
+find it helpful, write me at adamsnb@muohio.edu and say so.
+
+========================================================================
+*Why Should I?*
+
+  It's not necessary to breed chocobos to win the game, but it's a cool
+side-quest, plus each special type of chocobo (Green, Blue, Black, and
+Gold) gives you access to a new cave with special materia, including the
+ultimate Summon materia. Green, Black, and Gold chocobos also enable you
+to reach the Forest of the Ancients (near Cosmo Canyon) without defeat-
+ing the Altema Weapon.
+
+========================================================================
+*Needed Materia*
+
+  First off, it's much easier to get a gold chocobo once you reach disk
+3. Here's why: when you return to Midgar at the end of disk 2, once you
+reach the tunnels that look like subway tunnels, go all the way down.
+This will take a while, but it's worth it. At the end of the road you
+will find the W-Item materia, which will make your chocobo breeding much
+easier. Trust me!
+  Also, it helps to have your Chocobo Lure materia mastered. If you use
+it to fill an extra space on your armor or weapon during the whole game,
+this is no problem.
+
+========================================================================
+*Chocobo Hunting*
+
+  Before you start hunting, buy some stalls at the stable. I recommend
+getting all six stalls (10,000 gil per). When you catch a chocobo it'll
+be kept in the fenced area outside. You can keep up to four out here for
+free, but you won't know what rating they have until you move them in-
+side to the stalls.
+  Actually, the chocobo hunting part shouldn't take you very long.
+You'll eventually need three different chocobos to achieve your goal.
+You need to get the first two right away:
+
+1) A Great Female chocobo from the tracks near Mideel.
+2) A Good Male chocobo from the tracks SE of Gold Saucer. Be careful;
+    there are several types of chocobos here, but you MUST have a Good
+    chocobo.
+3) Eventually, you will also need a Wonderful Male chocobo from the
+    tracks on the North Continent.
+
+**Once you catch these birds, be sure to give them names which clearly
+  indicate their rating and gender.
+
+========================================================================
+*Greens*
+
+  Next, go to the Chocobo Sage's house. It's a lone house in a small
+valley on the North Continent. Talk to him and purchase two Sylkis
+Greens, the best greens he has. If you're interrested in hearing all
+that the sage has to say, leave and come back periodically. He'll remem-
+ber everything bit-by-bit.
+  Now you should fly to anywhere with weak enemies. Make sure to remove
+any Counter Attack materia your characters might be wearing, as you'll
+want to leave one enemy alive.
+  Here's where the W-Item comes into play. Using W-Item, select the
+Sylkis Greens and give them to an enemy. For the second item, also
+select the Sylkis Greens, but instead of giving them to an enemy, hit X
+to cancel. This will increase the number of greens you have by one! Con-
+tinue to select them, then cancel (O,X,O,X,...) until you have 99 of
+them, then kill the last enemy.
+  Get used to this procedure: it's a good idea to feed 90 Sylkis Greens
+to each chocobo that you plan to breed. It might be overkill, but it
+works. Your chocobos will now be maxed out in all areas: Speed, Endur-
+ance, Intelligence, and Cooperation. This, coupled with racing parents
+to S Class (explained below) phenomenally increases the chances of get-
+ting the chocobo you want, as well as making the babies stronger and
+better.
+
+**If you don't want to use the W-Item procedure because you consider it
+  cheating, that's your choice, but it takes a lot of money to buy 99
+  Sylkis Greens. A good way to get enough cash is to sell off a couple
+  of mastered All materia.
+
+========================================================================
+*Chocobo Racing*
+
+  This part is time consuming, but it makes breeding so much easier! Go
+to the stables and feed the soon-to-be-parent 90 Sylkis Greens. Next go
+to the Chocobo Square at Gold Saucer. Talk to Ester (standing to the 
+left) and register the chocobo. You'll  start off in C Class, but every
+time you win three races (I recommend the short race), you'll go up a
+class. After going through C, B, and A Classes, you'll reach S Class. I
+HIGHLY recommend feeding all your parent chocobos 90 Sylkis Greens then
+racing them up to S Class before using them for breeding.
+
+**Racing is made MUCH easier if you hold down L1, L2, R1, and R2 the
+  whole time. This will keep your stamina meter from being drained so
+  quickly while dashing, and actually refill while running normally.
+
+========================================================================
+*Nuts*
+
+  When you breed chocobos, you have to use a nut. This nut determines
+the type of the offspring. As you will be breeding a total of four cho-
+cobos, you'll need four nuts:
+
+1) Carob Nuts: You'll need three of these. You could buy these from the
+    Chocobo Sage, but it's cheaper to steal them from Vlakorados. To do
+    this, go to the grassy area south of the excavation site on the
+    North Continent. Wander around and eventually you'll fight a red
+    dinosaur-type creature. Steal from him to obtain the Carob Nut. Make
+    sure to do this three times.
+2) Zeio Nut: You'll only need to get one of these. To do so, go to the
+    small, forested island in the NE corner of the map. Wander around in
+    the small forest here and you'll fight Goblin, a small creature with
+    boxing gloves. Successfully steal from him to obtain the Zeio nut.
+
+========================================================================
+*Breeding*
+
+  You're finally ready to breed chocobos! Now that you know the basics,
+this part is easy.
+
+1) After feeding 90 Sylkis greens to both your Great Female and your
+    Good Male, and racing them both up to S Class, save your game. Now
+    go into the stables and tell the boy that you want to breed them. 
+    When he asks which type of nut to use, select a Carob Nut. This will
+    result in a Green or Blue chocobo (probably Green). If it doesn't,
+    load your game, but it SHOULD work. Make note of this baby's gender.
+    Feed it 90 Sylkis Greens and race it up to S Class as well.
+2) After racing your new chocobo up to S Class, its parents should be
+    able to mate again (if not, try getting into the first materia cave
+    or going through the Ancient Forest near Cosmo Canyon if you got a
+    Green chocobo [To take your new chocobo to another continent, go to
+    the stables tell the boy that you want to ride him. Once on the
+    world map go into the airship as normal; when you get off, you'll be
+    on the chocobo. When you're finished, just ride it back into the
+    stables.]). Save your game and mate the original parents, again
+    using a Carob Nut. This time you should get the opposite color and
+    opposite gender chocobo (if you originally got a Green Female you
+    should now get a Blue Male, etc.). If you don't, load your game and
+    try again, but you shouldn't have to. Feed this baby 90 Sylkis
+    Greens and race it up to S Class.
+3) When your Green and Blue chocobos are at S Class and are able to
+    mate, couple them and use yet another Carob Nut. Make sure to save
+    your game first, and load it if you don't get a Black Female. If you
+    do, feed it 90 Sylkis Greens and race it up to S Class (sound
+    familiar?). Also do this with the Wonderful Male chocobo that you
+    caught. It is impossible to get a gold chocobo without racing your
+    Wonderful Male up to S Class!
+4) Mate your black chocobo with the Wonderful Male using the Zeio nut to
+    get a Gold chocobo. Once again, save beforehand and load it if you
+    fail, but you should be okay. Congratulaions! You're now the proud
+    owner of a Gold chocobo!
+
+========================================================================

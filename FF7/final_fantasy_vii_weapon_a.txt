@@ -1,0 +1,166 @@
+Final Fantasy VII
+How to defeat the Emerald and Ruby weapons
+By Johannes Haglund (j.haglund@swipnet.se)
+Version 1.1
+
+Granted, this is just one of the many stategies you can use
+to defeat the weapons, but in my opinion, it's the best, 
+because you don't have to be all that powerful (from level 
+40 or so and up is enough), and it's a pretty easy strategy
+. The only this you'll need is time, since it'll take 
+several hours to get all the stuff you need. As a side note
+, I can tell you that when I first defeated the weapons, I 
+did it by brute force. All my characters was level 90+, and
+I had three (3) Mime materias. I actually managed to defeat 
+Emerald weapon without the Underwater materia! If you want 
+a challenge, why don't you try that too, huh?
+
+REQUIRED MATERIA
+----------------
+HP Plus (4 or 5 at level 2 or higher)
+MP Plus (1 or 2 at level 2 or higher)
+Magic Plus (level 4 or higher)
+HP Absorb
+Phoenix
+Quadra Magic
+Mimic
+Knights of the Round (KOR)
+Enemy Skill
+Final Attack
+Bahamut ZERO (BZ)
+W-Summon
+Underwater (Emerald only)
+
+REQUIRED ITEMS
+--------------
+Mystile armor (can be replaced by Aegis armor)
+Enhance Sword (can be replaced by Ultima Weapon)
+Ribbon
+Sprint Shoes (2)
+Turbo Ether (2, can be replaced by Elixirs)
+
+PREPARATIONS
+------------
+You should get the above materia and items as soon as 
+possible, and wear the materia at all times, to allow them 
+to grow to the required levels. To get all of the required 
+materia, you'll need to get the gold chocobo. I will not 
+get into that here, so look somewhere else for info on how 
+to raise chocobos. You should begin to do this as soon as 
+possible, so you don't have to wait around too long for the
+chocobo. You also should get the Big Guard enemy skill. To 
+get it, go to the beach at Costa del Sol, and use 
+Manipulate on the Beach Plugs, and use Big Guard on 
+yourself. Just be sure that you have the Enemy Skill 
+materia equipped.
+
+RUBY WEAPON
+-----------
+Ruby Weapon can be found in the desert around the gold 
+saucer. You should fight this guy first, because he's a lot
+easier than Emerald. Oh, and by the way, SAVE before the 
+battle!
+
+Characters (Equipped items and materia):
+
+Cloud (Mystile armor, Enhache Sword, Ribbon, HP Absorb 
+linked to KOR, Mimic, W-Summon, Magic Plus, Bahamut ZERO 
+linked to Quadra Magic, Final Attack linked to Phoenix, and
+the rest of the materia slots filled with HP and MP Plus)
+
+Any other character with high speed (Sprint Shoes, Enemy 
+Skill)
+
+The battle:
+
+The first this you should do is cast Big Guard with the 
+character with the Enemy Skill materia. Then you hope that 
+Cloud isn't the one who Ruby whirlsands away. If he is, 
+just reset the game and try again until he's the one left. 
+Then start your attack by casting Bahamut ZERO twice. BZ 
+will be cast five times, eight if Quadra Magic is at level 
+two or higher. You won't probably do any serious damage to 
+Ruby, but that's not the point. The point is to get him to 
+stick his tentacles in the ground. At this time you MUST 
+have at least 250 MP left, if not, use a Turbo Ether or 
+Elixir to boost you up. Now cast KOR twice, once at the 
+tentacles and once at Ruby himself. If KOR is at level one,
+it will only be cast once, on the tentacles, but that's okay
+. Since you've got a lot of magic power, thanks to Magic 
+Plus, the tentacles will probably be destroyed, and because
+you've got KOR linked with HP Absorb, you'll be healed to 
+full health too. After this, just use Mimic every turn 
+until Ruby goes belly up. Every turn, you'll cast KOR twice
+for zero MP, and get healed to full health after each KOR. 
+You don't have to worry too much about Ruby's 
+counterattacks, because thanks to the Mystile armor, he'l 
+miss most of the time, and then you'll get healed by KOR. 
+Just keep mimicing, and you'll kill Ruby in no time.
+
+EMERALD WEAPON
+--------------
+Emerald Weapon swims around in the sea just outside Junon. 
+Use the submarine to find him. And once again, SAVE 
+goddammit!
+
+Characters (Equipped items and materia):
+
+Cloud (Final Attack linked to Phoenix, Mimic, Sprint Shoes,
+Magic Plus (to get Magic power to 225), MP Plus (Enough to 
+boost your MP to 550), and fill the rest of the slots with 
+HP Plus)
+
+Any character with high Magic power (Quadra Magic linked to
+Bahamut ZERO, HP Absorb linked to KOR, W-Summon, Sprint 
+Shoes, MP Plus (enough to get the MP to at least 800), and 
+the leftover Magic Pluses)
+
+Any other character (Underwater)
+
+The battle:
+
+Start off with the character with BZ and KOR cast first a 
+BZ and then a KOR. Then have Cloud use Mimic. The first 
+character will cast BZ four times, and KOR once, and get 
+healed by KOR. Then Cloud will do the same thing. Don't do 
+anything with the third character, just wait for it to be 
+Cloud's turn again, and use Mimic again, then repeat the 
+procedure. Just skip everyone except Cloud, and have Cloud 
+use Mimic. Don't worry about the other characters getting 
+killed, just keep mimicing. Sooner or later, Emerald will 
+use Aire Tam Storm on you, and you'll die. Just before you 
+die, however, you'll use Final Attack and cast Phoenix. Not
+only will you do damage to Emerald, but everyone will be 
+brought back to life with full health. Now use the second 
+character to cast KOR twice, then mimic with Cloud. 
+Continue to mimic with Cloud, and Emerald should be dead in
+a few turns.
+
+WHERE TO GET THE REQUIRED ITEMS AND MATERIA
+-------------------------------------------
+HP Plus, MP Plus (Cosmo Canyon)
+Magic Plus (Zango Valley, start of disc 2)
+HP Absorb (Wutai, in a hidden chest in the house with the 
+cats)
+Phoenix (Condor Mountain)
+Quadra Magic (In one of the caves that can be accessed by 
+the gold chocobo)
+Mimic (In one of the caves that can be accessed by the gold
+chocobo)
+Knights of the Round (In one of the caves that can be 
+accessed by the gold chocobo)
+Enemy Skill (Floor 68 of Shinra HQ, Ancient City, Chocobo 
+Sage's house)
+Final Attack (Gold Saucer, Special Battle)
+Bahamut ZERO (Cosmo Canyon)
+W-Summon (Gold Saucer, Battle Square)
+Underwater (Junon Underwater Reactor, use Morph on Ghost 
+ship, and give the Guidebook you recive to the man in Kalm)
+Mystile armor (Midgar, before the fight with Hojo)
+Enhance Sword (Junon)
+Sprint Shoes (Gold Saucer, can be won at the Chocobo races)
+
+VERSION HISTORY
+---------------
+1.0 - First ever version
+1.1 - Just some minor corrections.

@@ -1,0 +1,244 @@
+* Super Mario World Two: Yoshi's Island FAQ\Help Guide *
+Author: Jdude84
+E-Mail: Jdude84@hotmail.com
+Version: 1.5 (FINAL)
+
+----------------------------------------------------------------------
+Version History
+
+1.5
+
+July 31st, 1999 - Started This FAQ, Everything's New!
+
+November 16th, 1999 - In an attempt to make this worth reading, i added a boss 
+guide which should help a bit, and i also re-formatted the faq to look a bit 
+better IMO. Final Version
+
+----------------------------------------------------------------------
+
+-Contents-
+1) Tips And Tricks
+2) Game Genie Codes
+3) Boss Guide
+4) Credits
+5) Legal Stuff
+6) End
+
+----------------------------------------------------------------------
+1) Tips And Tricks
+----------------------------------------------------------------------
+
+Bearded Yoshi 
+At the title screen press: UP, UP, UP, DOWN, LEFT, RIGHT. Yoshi will have a 
+beard and be wearing sneakers. 
+Submitted by Ronald Lopez
+
+Bonus Games 
+To play the bonus games at any time, hold Select and press X, X, Y, B, A on the 
+map screen. A menu will appear with all of the mini-battles, two of which can be 
+played against another person. 
+
+Bonus Levels 
+At the end of every world there are two question mark boxes. When you get a 100 
+on every level on that world those two levels will appear. 
+Submitted by Steve Meyer (SMeyer9861@Aol.com)
+
+Extra Lives on World 1-7 
+For nearly unlimited lives in world 1, try this: 
+
+Grab one of those baddies that roll up in a ball. 
+When you get to a point where you see the middle ring, don't go to it. Instead, 
+go to the other side of the pipe that you just went pass. 
+When shyguys start coming out the pipe, spit the ball out. 
+Grab the ball before it stops rolling. Repeat the same process over and over 
+until you gain some men. 
+If you wait until the ball stops you'll have to do the process again. The same 
+thing goes if you destroy the ball and you'll have to grab another one. 
+Another problem is if you're not standing on the right spot. If you're not, the 
+ball will go over the pipe instead of bouncing back and forth between the pipe 
+and the stuff you can destroy with your eggs or by ground pound. 
+
+Submitted by Michael Moran
+Extra Lives on World 4-1 
+To gain all the lives you want, try this: 
+
+On Stage 4-1 (with at least 3 eggs [maximum 5 eggs]), grab a shell. But do not 
+make a egg out of it. 
+When you get to a point where there's two tunnels with piranha plants, kill the 
+plants with the eggs. 
+Stand on the tunnel facing the pipe with the shyguys jumping out. 
+Make sure that the shyguys are jumping out the tunnel. Then spit the shell out. 
+The shell should go back and fourth between the shyguy pipe and the pipe that 
+you're standing on killing the shyguys coming out the pipe. 
+Be careful, because if a shyguy is standing too close to a pipe and the shell 
+hits it, the shell and the shyguy will be destroyed. 
+
+Find a Hidden Beanstalk 
+When you are on level 1-7 at the end after you have gone through the tunnel, 
+there is a log. Go to the top tip of the log and jump. Then a bouncey ball will 
+come out. Jump on that and you will go up. Then go to the left and roll the 
+rock. A question mark will appear hit that and you will go up a beanstalk. 
+
+Hidden Door 
+In Sluggy the Unshaven's Fort, go in the door at your left at the start. Next, 
+use a POW or ? bubble item. A door will appear. Go through it to recieve a 
+secret code! 
+Submitted by Timothy Karplus (pak4@cornell.edu)
+
+Raphael's Train 
+On level 5-8, most people cannot get 100 points because they're missing a flower 
+and a few red coins. To find these, get to the second rotating wooden beam, and 
+jump in the gap between the beam and solid ground. You'll find a train room. 
+Hold Y to accelarate, and drive around the tracks to collect a flower and some 
+red coins. 
+Submitted by Timothy K. (andy@penelope.bio.cornell.edu)
+
+----------------------------------------------------------------------
+2) Game Genie Codes
+----------------------------------------------------------------------
+
+C2EE-649F       Infinite lives
+C23F-ADDD       Star timer doesn't decrease when hit
+D9B7-0023       Start with 5 lives
+DCB7-0023       Start with 10 lives
+FBB7-0023       Start with 25 lives
+74B7-0023       Start with 50 lives
+17B7-0023       Start with 99 lives
+DC36-010D       Continue with 5 lives
+FB36-010D       Continue with 10 lives
+7436-010D       Continue with 25 lives
+1736-010D       Continue with 50 lives
+1736-010D       Continue with 99 lives
+1D26-AFA1       Power-ups don't get used up
+D98A-AF7B       Red !'s stay on for over twice as long
+DB8A-AF7B       Red !'s stay on for over four times as long
+5E8A-AF7B       Red !'s stay on for a very, very long time
+C2C8-A465       After using the magnifying glass, hidden items are always 
+revealed
+CB69-006D + 3069-00AD                   All levels are completed with 100 points
+CB8A-64D5 + 108A-6405 + 3C8A-6465       Always score 100 points
+
+----------------------------------------------------------------------
+3) Boss Guide
+----------------------------------------------------------------------
+
+World 1-4 
+The start of the easy bosses begin! Here you need to hit the big dope
+with 6 eggs, and simply move around to avoid him jumping on you. If you
+run out of eggs the eggplant nearby can assist you.
+
+World 1-8
+VERY Similar to the before boss, six hits again, only this time yellow
+slime guys fall form the ceiling trying to hit you, which you in turn,
+can eat for ammo. Very simple, if the first boss was easy.
+
+World 2-4
+Here you battle a ghost, and as we all know from the days of mario, a
+ghost will 'dissapear' if you look at it. So, look away, and bank an egg
+at the guy. He gets bigger and bigger so watch out, you can also use the
+bats for ammo. 5 hits will dipose of him.
+
+World 2-8
+Strangely, this is the easiest boss in the game, and you don't even need
+eggs! All you have to do is push it off the cliff before it pushes you off.
+It's you against two shy guys, so you know this is an easy fight.
+
+World 3-4
+This is fun, but yes, easy. You are INSIDE a frog's throat, and you have to
+hit the little ball at the top. Simply dodge the incoming food, turn the shy
+guys into eggs, and instand ammo. Eight hits will make lil' froggy croak!
+
+World 3-8
+Very similar to the boss in 2-4. Here you must his a pihrana plant THREE times
+on the band-aid on it's naval. Use the water skimming trick you learn earlier in
+the game.
+
+World 4-4
+This is pathetic. Here you face 2 huge kirby like creatures, slam them to make
+smaller creatures, those to make them even smaller, etc, etc. Really sad, as 
+they
+don't attack, just walk around.
+
+World 4-8
+Kinda fun, really easy. You need to hit this turtle 3 times before he'll crack.
+To hit him, hit him 3 times with an egg to flip him on his backside. Then, slam
+him once, which is a 'hit'. Repeat three times to win. Also, bounce on his small
+head and he will cough out eggs.
+
+World 5-4
+Yawn, do i really have to write this up? Ok, there is an eggplant nearby for 
+eggs,
+and you have to repeatadly hit the blubber guy until his heart is exposed, which 
+you
+must then hit. Repeat this 3 times, and he's dead. Oh well, there's always 
+bowser...
+
+World 5-8
+Ahh there is nothing more fun than killing an pudgy, ugly crow on a small globe.
+Nintendo IS creative, that's for sure. All you have to so is pound posts in so
+they appear on the other side, and hit Rapheal. This is fun, but easy, as usual.
+Oh well...
+
+World 6-4
+Another easy one. Here you need to destroy the blocks over the lava with eggs,
+therefore causing the big tin can to fall in. Really simple, especially since
+you've made it this far!
+
+Final Boss - Baby Bowser
+Bowser is divided into three stages, and presents a small challenge thankfully!
+
+Stage 1
+The easiest stage, here bowser takes 3 hits. You must slam the ground to make it
+go up and down, making bumps, that hit the baby king. Three times and it's onto
+the second stage.
+
+Stage 2
+Now bowser is REALLY big and really mad. He will throw rocks on the platform you 
+are on, making it really small. Get the eggs that float around, and hit him. It
+takes a while to get used to the different aiming, but you shouldn't have too 
+much
+trouble. After a few hits, it's onto the final stage!
+
+Stage 3
+Now he's really pissed, and moves even FASTER. If that isn't enough, he throws 
+MORE
+rocks, making the platform you are\were on virtually non-existant. Hitting him 
+is 
+the same, only you have MUCH less time as he is quicker, and you have to be VERY
+careful not to fall off the minute platforms. After a bit of this you'll win, 
+and 
+get to watch the cheesy ending, oh well, it was a cheesy game!
+
+----------------------------------------------------------------------
+4) Credits
+----------------------------------------------------------------------
+
+Gamesages.com - Copied Tips From Their Site.
+
+world-of-nintendo.com - Copied Game Genie Codes From Their Site.
+
+me - I wrote this very short FAQ.
+
+----------------------------------------------------------------------
+5) Legal Stuff
+----------------------------------------------------------------------
+
+You may not reproduce this faq in any way, shape, or form. Reproduction of this 
+FAQ without my consent is prohibited, this document is copyright 1999, all 
+rights reserved. The most updated version can ALWAYS be found at 
+http://www.gamefaqs.com if you are reading this FAQ from another site, and have 
+a question be SURE to check the one out at GameFAQs first before you ask. For 
+you site owners out there wondering if you can use my FAQ just e-mail me with 
+your name, e-mail, web URL, and where you found this FAQ. I'll probably give you 
+permission to use it, so don't hesitate to mail me.
+
+----------------------------------------------------------------------
+6) End
+----------------------------------------------------------------------
+
+So bye now...go see some of my other FAQs! they are all gound at 
+http://www.gamefaqs.com
+
+
+                                        ©1999 Jdude84
+

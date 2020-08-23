@@ -1,0 +1,44 @@
+7 - 
+	- 4 invaders [Zeta Hydrae], [Toriga]
+	- Capital [Shang Tsae], queue 2 invaders, fill rest with fighters
+	- 1 fighter [Toriga] (wait for [Zeta Hydrae] conquest)
+	- Queue 1 fighter in [Toriga], replenish as needed.
+	- After [Toriga], send invaders back to capital
+	- They'll be back shortly before 2nd invader is ready. Head all 6 to [Delta Rhogana]. Stay for repairs afterwards
+	- 1 fighter to [Delta Rhogana]
+	- Invaders conquer [Rukbat], [Hades]. (optional: [Proxima], [Ross 128]). Avoid engaging. Stay in [Hades]
+	- Spread fighters over border systems and chokepoints, specially [Rukbat]. Keep Queueing at Capital
+	* Hades must be conquered before 5 minutes left for bonus
+	
+
+8 - Blackguard
+	- 6 left  invaders: 3 [Elnath], 3 [Outeria] (extreme left, top and bottom)
+	- 6 right invaders: to enemy capital, invading each enemy system: [Congretos], [Rotanev], [Sargas]
+	- 2 fighters [Delphi 118] (left border, down).
+	- 2 fighters [Socunda Capuli] (right border, down)
+	- 4 queued Battle Stations
+
+	* Invaders do NOT engage. Fighters might need to go up and down for early enemies.
+	* If early enemies come from top, juggle fighters or restart. Ok if they don't slow invaders or block supplies.
+	* After enemy capital is conquered, no enemies will spawn
+
+	- Left invaders up, invading enemy systems up to the resources: [Algirae Nova], [Theta]
+	- Right invaders back down, split to invade extreme right systems: [Shakasi], [Hades]
+
+	* 0 loses (1-hp invaders might skip some battles), 0 transports stolen, ~8:40 (1:20 left for bonus)
+
+9 -
+	- Gather all fleets at [Sanhella]
+	- Fighters go [Cygnus] destroy Battle Station
+	- Invaders go when Fighters are ~2/3 the way
+	- Destroyers go straight to [Antares 3] at the same time as Invaders
+	- Fighters support Siege afterwards
+	* Under 5 minutes.
+
+10 -
+	- Invaders to right: small system and repair system
+	- Queue 5 fighters
+	- Fighter to big neutral (neutral ship)
+	- Destroyer to all systems that are not resources or strategic
+	- Invade up resources and spread fighters. Never leave a system without 1-2 fighters
+	- When all 6 fighters ready, go enemy capital. Use destroyer

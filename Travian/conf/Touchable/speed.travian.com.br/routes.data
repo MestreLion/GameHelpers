@@ -1,0 +1,5 @@
+true,true,true,110770,25725,0,false,false,false,true,90,OVER_PERC
+true,true,true,25725,110770,0,true,true,true,true,30,OVER_PERC
+true,true,true,118744,110770,0,true,true,true,false,60,OVER_PERC
+true,true,true,125176,110770,0,true,true,true,true,40,OVER_PERC
+true,true,false,110770,136450,0,true,true,true,true,5000,UNDER_AMOUNT

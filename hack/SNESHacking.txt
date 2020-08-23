@@ -1,0 +1,217 @@
+      This original document was written by:
+
+      Tony Hedstrom    t_hedstrom@yahoo.com
+
+     http://www.angelfire.com/games2/codehut/
+
+
+This document explains how to hack a Super Nintendo
+(SNES) game ROM.  When I say "hack", I mean that you
+will be able to change a SNES ROM (or game) to
+permanently include the effects of most Game Genie 
+codes!  Which means that every time that you play the
+game that you hacked, you would get the effects of the
+GG codes, but you wouldn't have to enter any GG codes! 
+
+One good use for this is if you are using an emulator
+that doesn't support Game Genie codes.
+
+The method that I describe here should work on most
+games and with most Game Genie codes, but there may
+be some exceptions.
+
+It's also a very good idea to make a copy of the ROM
+before you make any changes, just in case.
+
+Here is a list of what you'll need:
+
+1) A copy of SNES9x (a SNES emulator).  You must use
+   SNES9x for this method.  You can find the latest
+   version of SNES9x at: zophar.net
+
+2) The ROM of the game you want to hack.
+
+3) A hex editor (I use Hex Workshop v 2.54).  You can
+   get a free trial version of Hex Workshop at:
+   http://www.bpsoft.com/
+
+4) A copy of ggconvc (which is a Game Genie to hex
+   conversion program).  You can get a copy of it from
+   my website (in the "Download" section): 
+   http://www.angelfire.com/games2/codehut/
+
+
+All right, now that you have everthing you need, lets
+get started....
+
+The first thing we need to do is to figure out if the
+game is a "LoROM" game, or a "HiROM" game. The easiest
+way to find out is to start playing the game with the
+SNES9x emulator.  When you load the game and it first
+starts, look at the bottom of the screen and it will
+tell you if it is a LoROM, or a HiROM game. 
+
+Since LoROM games, and HiROM games each need different
+methods to hack the ROM, I will use two different
+explanations.  If you have a LoROM game, keep reading,
+but if you have a HiROM game, then skip over this next
+section and find the section for HiROM games.
+
+====================================================
+   LoROM games
+====================================================
+
+For this example, I will be using a Game Genie code I
+made for Super Mario All-Stars.  The Game Genie code 
+is: DD86-6F80.  The code lets you have multi-jump
+ability in the Lost Levels part of the game. 
+
+What we want to do is to convert the Game Genie code
+into a ROM address, then we can go to that ROM address
+and change the value there to the value of the Game
+Genie code.
+
+Enter the Game Genie code into the Game Genie to hex
+conversion program (ggconvc).  For this example, we 
+will use our All-Stars multi-jump code (from above).
+When we enter DD86-6F80 into the conversion program,
+it will show you a hex code, but ignore the hex code
+for now.  After you enter in your Game Genie code,
+press the "Show 64k" buttom.  You will see 2 sets of
+numbers appear to the right.  Write down the lower
+(bottom) number.  The number should have a colon (:)
+in it.  In our example, the number is C6B286:00.
+
+When you do the hex math (below), ignore the last two
+digits of the number (the 2 digits to the right of
+the colon).  So C6B286:00 becomes C6B286.  But make
+sure you have those 2 digits written down, because you
+will need them a little later on (in this example, the
+2 digits are 00).
+
+Next, subtract $C00000 (hex) from the number you wrote
+down.  You can use the Windows calculator to do the 
+hex math for you.  So in this example, we get:
+C6B286 - C00000 = 06B286.
+
+Now, add $200 (hex) to the number.  So we get:
+06B286 + 200 = 06B486. This is the correct ROM address!
+
+Write this number down, along with the 2 digits from
+the original number you wrote down (the 2 numbers from
+the right of the colon).  So the two sets of numbers
+we now have (in this example) are: 06B486 and 00.  The
+first number (06B486) is the ROM address, and the
+second number (00) is the value that we are going to
+change the ROM address to.
+
+NOTE: Instead of subtracting $C00000 and then adding
+$200, you can save a step by just subtracting $BFFE00.
+I show it in 2 seperate steps because hex math is a
+little confusing to some people.
+
+Next, open the game ROM (in this example, it's Super
+Mario All-Stars) with your hex editor.  Find the 
+address that you wrote down (in this example, it's
+06B486). 
+
+Now, change the value at that address (in this example,
+it's F4) to the value that you have written down (in
+this case, it's 00).  So we just changed the value at
+06B486 from F4 to 00.
+
+Make sure you make a back-up copy of your ROM before
+you make any changes, just in case something goes wrong.
+
+Now, if you play your hacked copy of Super Mario All-
+Stars on any emulator, Mario (or Luigi) will always have 
+multi-jump (only on the "Lost Levels" part of the game)
+all of the time, without having to use any Game Genie
+codes!
+
+This method may not work on every LoROM game, or with
+every Game Genie code, but it should work on most.
+
+
+====================================================
+   HiROM games
+====================================================
+
+For this example, we will be using a code I made for
+Seiken Densetsu 3 (Secret of Mana 2).  The code is:
+FB78-8065 and it changes Duran's Vitality from 5 to 25.
+
+What we want to do is to convert the Game Genie code
+into a ROM address, then we can go to that ROM address
+and change the value there to the value of the Game
+Genie code. 
+
+Enter the Game Genie code into the Game Genie to hex
+conversion program (ggconvc).  For this example, we
+will enter FB78-8065.  The conversion program gives us
+a hex code: D13EB2:19.  Write this number down.
+
+The first part of the code (D13EB2) is the address, 
+and the second part of the code (19) is the value.
+
+We need to modify the address part of the code before
+we can use it.  Here's how:
+
+First, we need to subtract $C00000 (hex) from the
+address.  So here's what we get (in this example):
+D13EB2 - C00000 = 113EB2.
+
+You can use the Windows Calculator to do the hex math
+for you.
+
+Next, we need to add $200 (hex).  Here's what we get:
+113EB2 + 200 = 1140B2.  This is the right ROM address!
+
+Write this number down along with the value part of
+the code (which was 19).  So (in this example) we have
+the ROM address: 1140B2, and the value: 19.
+
+NOTE: Instead of subtracting $C00000 and then adding
+$200, you can save a step by just subtracting $BFFE00.
+I show it in 2 seperate steps because hex math is a
+little confusing to some people.
+
+Next, open the game ROM (in this example, it's Seiken
+Densetsu 3) with your hex editor.  Find the address 
+that you wrote down (in this example, it's 1140B2). 
+
+Now, change the value at that address (in this example,
+it's 05) to the value that you have written down (in
+this case, it's 19).  So we just changed the value at
+1140B2 from 05 to 19.
+
+Make sure you make a back-up copy of your ROM before
+you make any changes, just in case something goes wrong.
+
+Now, whenever you play a game with your hacked ROM, the
+change will always be there, without having to enter 
+any Game Genie codes!  In our example, if you start a
+new game of Seiken Densetsu 3, Duran's Vitality is
+increased from 5 to 25 (without any Game Genie codes).
+
+This method may not work on every HiROM game, or with
+every Game Genie code, but it should work on most.
+
+
+Well, that's it.  I hope this helped some.  If you
+have any questions, email me at:
+
+     Tony Hedstrom    t_hedstrom@yahoo.com
+
+    http://www.angelfire.com/games2/codehut/
+
+
+
+
+=====
+Tony Hedstrom
+Visit the Code Hut at:
+http://www.angelfire.com/games2/codehut/
+
+
+.

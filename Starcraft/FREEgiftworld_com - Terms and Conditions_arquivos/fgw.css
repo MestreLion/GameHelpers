@@ -1,0 +1,84 @@
+BODY {
+	MARGIN-TOP: 0px; FONT-SIZE: 9pt; MARGIN-LEFT: 0px; COLOR: #000; MARGIN-RIGHT: 0px; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND-COLOR: #ccc
+}
+FORM {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+#main {
+	MARGIN: 0px auto; WIDTH: 775px; BACKGROUND-COLOR: #fff
+}
+#welcome {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; COLOR: #366; PADDING-TOP: 5px
+}
+#content {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; PADDING-BOTTOM: 25px; PADDING-TOP: 20px
+}
+A:link {
+	COLOR: #222
+}
+A:visited {
+	COLOR: #222
+}
+A:active {
+	COLOR: #f00
+}
+A:hover {
+	COLOR: #f00
+}
+A.hilite:link {
+	COLOR: #39c
+}
+A.hilite:visited {
+	COLOR: #39c
+}
+A.hilite:active {
+	COLOR: #f00
+}
+A.hilite:hover {
+	COLOR: #f00
+}
+H1 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 0px; COLOR: #1246d7
+}
+H1.poph1 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 24pt; MARGIN-BOTTOM: 0px; COLOR: #f00
+}
+H2 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN-BOTTOM: 0px; COLOR: #333; FONT-FAMILY: Tahoma, arial, helvetica, sans-serif
+}
+H2.poph2 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 18pt; MARGIN-BOTTOM: 0px; COLOR: #333; FONT-FAMILY: Tahoma, arial, helvetica, sans-serif
+}
+H3 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; MARGIN-BOTTOM: 0px; COLOR: #39c
+}
+H4 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; MARGIN-BOTTOM: 0px; COLOR: #069
+}
+UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-RIGHT: 60px
+}
+LI {
+	MARGIN-BOTTOM: 5px
+}
+.table39c_w {
+	PADDING-BOTTOM: 3px; BORDER-LEFT: #6cf 1px solid; PADDING-TOP: 3px
+}
+.table39c_c {
+	PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.table39c_e {
+	BORDER-RIGHT: #6cf 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.table6cf {
+	BORDER-RIGHT: #6cf 1px solid; BORDER-TOP: #6cf 1px solid; MARGIN-TOP: 7px; MARGIN-BOTTOM: 7px; BORDER-LEFT: #6cf 1px solid; BORDER-BOTTOM: #6cf 1px solid
+}
+.error {
+	COLOR: #f00
+}
+.strike {
+	COLOR: #f00; TEXT-DECORATION: line-through
+}
+.offer {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 0px auto; BORDER-LEFT: #999999 1px solid; WIDTH: 220px; PADDING-TOP: 5px; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #fff
+}

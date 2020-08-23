@@ -1,0 +1,4704 @@
+Final Fantasy II Walkthrough
+Version 4.2 by Amar Kishan on 8/17/01
+amar_kishan@hotmail.com
+-------------------------------------------------------------------------
+The latest version of this FAQ can be found at:
+http://www.gamefaqs.com
+------------------------------------------------------------------------
+i.) INTRODUCTION
+This is a complete walkthrough for Final Fantasy II (NES). If you have
+anything to add, just contact me at: amar_kishan@hotmail.com.  I hope you
+enjoy the guide.  If you wish to use this guide for any purposes (other
+than use for help), please email me first.  This guide is not to be
+reproduced in anyway without my permission first.  This guide is copyright
+2000-2001 Amar Kishan.
+-------------------------------------------------------------------------
+ii.) FORMAT
+This guide covers several things in a particular format, which is
+useful to know in order to use the guide.
+
+Walkthrough Format:
+Chapter: (Name)
+Section: (A,B,C, etc.): Name of place
+Enemies: (name of enemies)
+Treasures: (If any)
+Boss: (If any)
+
+Boss Format:
+Name of Boss:
+Hp/Mp
+Weakness:
+Reward:
+Attacks: Name
+Strategy:(how to kill it)
+
+Bestiary Format:
+Monster [Full Name]
+HP:
+MP:
+Attack Eff: Status effects caused by physical attacks
+Weakness:
+Reward: Items/Gil obtained
+Special:
+Location:
+X: Weapon point value
+-------------------------------------------------------------------------
+iii.) VERSION HISTORY
+
+Version 4.2
+- Corrected the character names
+- Changed parts of the format
+
+Version 4.1
+- Fixed two minor mistakes
+
+Version 4.0
+- Finished Bestiary
+
+Version 3.6
+- Added Hit% for several weapons
+- Analysis of weapon types added
+
+Version 3.5
+- Inn Price, Weapon Skill, and Magic Skill formulae added
+- Found the Giant enemy, added Giant section
+- Fixed information about the Thread, Rune Axe
+
+Version 3.2
+- Updated Various Stuff
+- More monsters in the Bestiary
+
+Version 3.1
+- Added Masmune Room/Astral Plane
+- Changed Armor/Weapon/Shield/Magic format; now contains better info
+- Found out that the Blood Sword deals extra damage to MegaBehemoths
+- Fixed Black Magic Spell List names and locations
+
+Version 3.0 (2/10/01)
+- Added Bestiary
+- Added Formulae
+- Added Peninsula South of Altea
+- Updated FAQ
+- Minor editing
+
+Version 2.5 (1/18/01)
+- Added information on evade
+- Added "FAQ"
+- Added "Light Warriors"
+- Updated "Theory on Aura"
+- Fixed more "9"s that had become "2"s
+- Attempted to fix the formatting
+
+Version 2.0 (1/11/01)
+- Attempted to fix the formatting (YET AGAIN)
+- Updated "Pandemonium"
+- Updated "Weapons"
+
+Version 1.9 (1/10/01)
+- Attempted to fix the formatting (AGAIN)
+- Updated "Walkthrough"
+
+Version 1.8 (1/08/01)
+- Attempted to fix the formatting
+- Updated "Items"
+
+Version 1.7 (1/06/01)
+- Added "Rows"
+- Attempted to fix the formatting
+- Tried to fix all the "9"s that were changed to "2"s
+
+Version 1.6 (1/05/01)
+- Updated "Format"
+- Updated "Pandemonium"
+- Minor editing
+
+Version 1.5 (1/02/01)
+- Added "Game Basics"
+- Added "Theory on Aura"
+- Added "FFII in FFIX!?"
+- Added "Keywords"
+- Updated "Mysidia's Bookcase"
+- Updated "Credits/Disclaimer"
+- Updated "Key Items"
+- Updated "White Magic"
+
+Version 1.0 (12/23/00)
+- Initial Version
+-------------------------------------------------------------------------
+iv.) TABLE OF CONTENTS
+
+i.) Introduction
+
+ii.) Format
+
+iii.) Version History
+
+iv.) Table of Contents
+
+I.) Game Basics
+A.) Game Controls
+B.) The Menu
+C.) Battle System
+D.) Status Ailments
+E.) Building Your Characters
+F.) Rows
+
+II.) Walkthrough
+1.) CHAPTER I: THE REBELLION'S NEW HOPE: Beginning to the Semite Cave
+2.) CHAPTER II: THE WARSHIP: Bofsk to the Warship
+3.) CHAPTER III: REBEL FLAME: Dist to Reclaiming Phin, Side-Mysidia
+4.) CHAPTER IV: THE SEALED POWER: Catacombs to Tower of Mysidia
+5.) CHAPTER V: THE FALL OF AN EMPIRE: Whirlwind to Paramekia Castle
+6.) CHAPTER VI: REVENGE: Jade to the End
+
+III.) Armor
+
+IV.) Weapons
+
+V.) Shields
+
+VI.) Magic
+
+VII.) Items
+
+VIII.) Characters
+
+IX.) Keywords
+
+X.) Statistics
+
+XI.) Formulae
+
+XII.) Secrets/Misc
+
+XIII.) FAQ
+
+XIV.) Bestiary
+
+XV.) Credits/Disclaimer
+-------------------------------------------------------------------------
+I.) GAME BASICS
+-------------------------------------------------------------------------
+A.) Game Controls
+-------------------------------------------------------------------------
+
+Final Fantasy II was made for the Nintendo Entertainment System (NES).
+The available buttons are A,B, Select, Start, and the control pad (up,
+down, left, right). A: On the field, it will search the square you are
+facing. In battle and in the menu, it confirms a selection. B: Cancels any
+selected action, closes windows. Start: Opens the menu on the map or in
+the field, pauses in battle Select: In the field or on the map, allows you
+to change the positions of your characters. B and Select: Opens the World
+Map (must have the Ring item first).
+
+-------------------------------------------------------------------------
+B.) The Menu
+-------------------------------------------------------------------------
+
+By hitting start on the map or in the field, you'll open up the menu
+screen. There are several sub-sections of the menu: Item, Magic, Equip,
+Stats, and Save.
+
+1.) Item: Allows you to use the items that you've acquired. Note that some
+items can't be used in the field.
+
+2.) Magic: Allows you to use the magic that you've acquired. Note that
+some items can't be used in the field.
+
+3.) Equip: Allows you to equip weapons, shields, armor, helms, gauntlets,
+and items. You can only equip two items at a time.
+
+4.) Stats: Allows you to view the statistics of your characters: Agl, Hit
+Points, Int, Magic Points, M. Pwr, Pwr, Soul, Vit, Weapon Skill, Att, Def,
+Hit%, Evad, and M. Def.
+
+5.) Save: Allows you to save your game.  This can only be used on the
+world map. You can have a max of four saved games.
+
+-------------------------------------------------------------------------
+C.) Battle System
+-------------------------------------------------------------------------
+
+Battles in FFII are turn based.  As the battle opens, you'll have four
+options: Attack, Run, Magic, and Item.  If you choose to attack, then you
+choose a target that the character will attack.  If you choose to run, the
+character will try to run (could you guess?).  If you choose to use Magic,
+you'll have to choose a spell and a target.  Note that you can select all
+foes and all of the party. Finally, if you choose to use an item, you can
+use your two items and whatever is equipped in your right and left hands.
+Pretty simple, eh?  The game ends when all of your party is dead or
+petrified.
+
+-------------------------------------------------------------------------
+D.) Status Ailments
+-------------------------------------------------------------------------
+
+1.) These Status Ailments last even after Battle is finished.
+
+Poison: At the end of each turn in battle or with each step on the map, a
+poisoned character will lose HP.  Cure it with an Antidote or the spell
+Heal (Lv.1).
+
+Dark: Darkness lowers hit percentage, causing complete misses or just a
+lower number of hits.  Cure it with an EyeDrop or the spell Heal (Lv.1).
+
+Curs: Curse lowers attack and defense. Cure it with a Crucifix or the
+spell Heal (Lv.2).
+
+Dumb: Dumbfounded prohibits spell casting.  Cure it with an EchoScn or the
+spell Heal (Lv.3).
+
+Frog: Frog lowers attack and defense and prevents you from using magic or
+items. Cure it with a MaidKiss or the spell Heal (Lv.4).
+
+Ston: Stone prohibits action.  Cure it with a G. Needle or the spell Heal
+(Lv.5).
+
+Dead: Death prohibits action.  Cure it with a FenixDn, at a Shrine, or
+with the spell Heal (Lv.6).
+
+2.) Battle only Status Ailments
+These Status Ailments are cured after battle or randomly during the
+battle.
+
+Conf: Confusions causes you to lose control of your characters actions.
+The character will act randomly.
+
+Hold: Paralysis prohibits action.
+
+Mini: Mini lowers attack and defense.
+
+Mute: Silence prevents spell casting.
+
+Sleep: Sleep prevents action.
+
+-------------------------------------------------------------------------
+E.) Building Your Characters
+-------------------------------------------------------------------------
+
+Final Fantasy II was the debut of a new status system.  There are no
+levels; characters progress in ways reflecting their actions in battle.
+For example, if Frioniel attacks 100 times, he'll gain a weapon skill
+level, allowing him to hit 1 more time in battle.  If he casts a spell 100
+times, he'll gain a magic skill level, improving the effectiveness of the
+spell. If he loses over half his HP, he'll gain more HP; the same goes
+with MP. In this fashion, characters are built up.  See the Tricks section
+for some tricks on how to gain statistics faster and the Statistics
+section for more info.
+
+-------------------------------------------------------------------------
+F.) Rows
+-------------------------------------------------------------------------
+In FFII, there are two rows: the front row and the back row.  Characters
+in The back row can only be hit by magic attacks (unless everyone in the
+front row is dead).  The same goes for enemies.
+
+=========================================================================
+II.) WALKTHROUGH
+=========================================================================
+CHAPTER I: THE REBELLION'S NEW HOPE
+=========================================================================
+A.) Altea
+Enemies: DkKnight, LegEater, Hornet, Goblin
+Treasures: Potion
+Boss: None
+=========================================================================
+You'll be given the chance to name four characters.  There is no default
+option, but the names are, in the order that you'll name them, Frioniel,
+Leonheart, Maria, and Guy.  As the game starts, you are immediately thrown
+into a fight against 4 DkKnights. Your party will be wasted quickly, so
+don't even try to put up a fight. Frioniel will awake in Altea after a
+short dialogue between Hilda, the Princess of Phin, and Ming-Wu, Phin's White
+Mage.  Apparently, your group was escaping Phin as the Paramekian empire
+was invading it. You were ambushed on your way out. Once Frioniel awakes,
+he steps outside and re-unites with Guy and Maria. Leonheart has yet to be
+found, unfortunately. Your party then seeks audience with the Princess.
+Listen to her speech, then learn the password Wild Rose. Repeat it back
+to her and she will suggest that you search for Leonheart in Phin.
+
+You're now free to head for Phin, but I suggest talking to the townsfolk
+and rebels to learn what's going on. After talking to the King, who's
+wounded, head down the stairs and grab the Potion. Be sure to talk with
+Paul, Gordon, and Tobul (disguised as the old man in the weapons shop).
+Now, head for the armor shop and buy a Buckler, three Leather Gauntlets,
+and two Leather Helmets.  Give Guy a Leather Helmet, Buckler, and Leather
+Gauntlet. Give your other Leather Helm to Frioniel, and give him a Leather
+Gauntlet too. Maria has to get stuck with the leftovers, no Helmet for her
+just yet=). Hit select and move Maria to the back row. You should have
+some gil left, but not enough to buy anything. It's time to earn some
+cash, and gain some skill levels while you're at it.
+
+After exiting the town, wander around, butchering the Hornets,
+LegEaters, and Goblins that attack you.  Right now, your hit% is
+probably terrible; well, it is terrible. This goes especially for the
+Bow, which is not only weak, but pretty innacurate.  Although many
+players choose to equip Maria with Canes, Knifes, or Javelins rather
+than Bows, I believe that Bows are the best of the choices.  Although
+finding a 'good' bow will take a while, once you get one, you'll see the
+bonus of being be able to attack forcefully and not fear retaliation.
+Canes are typically good for their 'as item' powers, which can be used
+whether the item is equipped or not.
+
+
+I would recommend building Frioniel's Sword and Shield skill level to at
+least level 4.  Also do this for Maria's Bow level.  This will prove
+very useful, and give you an extra edge in the beginning.  Once you get
+the money, buy Maria a Cure Spell and a Leather Helmet.  Once that's
+finished, head north to Gatea. At Gatea, you'll want to purchase the
+Leather Armor for Maria, at a rather hefty price of 100 gil. It's worth
+it, though.  Now, head for Phin, a bit north of Gatea (across the lake).
+
+=========================================================================
+B.) Phin
+Enemies: Captain, LegEater, Hornet, Goblin
+Treasures: Potionx3, Ring
+Boss: None
+=========================================================================
+
+In Phin, take care to avoid the "citizens."  They are really soldiers of
+the empire that will decimate your party mercilessly.  Instead, walk north
+and go one pace further than the wall.  Move east, then south, around the
+wall, and enter the pub.  In the pub, go talk to the bar tender.  Say
+Wild Rose, and he'll tell you that Scott, Prince of Kashuon, is dying.
+Follow the secret passage to Scott's bed, and talk to him.  Say White
+Rose, and Scott will give you a Ring.  He wants you to tell his brother,
+Gordon, to have pride in his abilities.  He also wishes you to inform the
+King that Phin was only captured because Duke Borgan betrayed the rebels,
+and is now an Imperial General (you'll cross swords with him soon enough).
+Scott then perishes, after mentioning Hilda.
+
+Take the Ring, and open the three treasure chests for Potions. Head back
+to Altea. Show the Ring to Gordon on your way to the Hideout (not
+needed, but improves the story a little). Inside, talk to Hilda. She'll
+beg you to find the legendary Mithril, thus allowing the Rebels to be
+better equipped.  Learn the keyword Mithril, and repeat it to her.
+She'll now mention the Warship, a terrifying Imperial weapon that's
+being built in Bofsk.  Learn Warship, and recite it back to her.  She'll
+tell you that it's even better than Cid's Airship.  Cid, by the way, was
+the Captain of Phin's White Knights, and is now a transport pilot.  Ming-Wu
+says he'll accompany you on your quest for Mithril, and brings along his
+Canoe. Talk to the rebels; one of them will tell you that Josef in
+Salamando may know the whereabouts of the Mithril.  Talk to the King,
+and he'll issue a death sentence on Borgan (right, like he has any power
+anyway). Now, you can head for Palm, a town northeast of Altea, by means
+of Canoe, but you should wait.  Before you leave, you might want to buy
+Fire, Ice, and Bolt for Maria and Ice, Bolt, and Cure for Guy.  This
+will cost you 2400 gil, so be patient->It's worth it. Also, give Ming-Wu's
+Copper Armor to Frioniel, and give Frioniel's Leather Armor to Ming-Wu.
+
+Now that you have Ming-Wu, you might stand a chance against Mysidian enemies.
+If you have a reasonably strong Bolt and Fire spells and reasonably high
+HP, walk around on the tip of the peninsula south of Altea.  The enemies
+here are from later in the game.  If you're lucky, you'll run into Mallows
+and Puddings.  Use the select-cancel trick (see secrets section B) here,
+and when you're done, blast the Mallows with Bolt and Puddings with Fire.
+Use Ming-Wu to Safe and Cure the party.
+
+=========================================================================
+C.) The Mithril Mine
+Enemies: Soldier, Goblin, G.Goblin, Balloon, Slime, Zombie, LandTrtl
+Treasures: Potionx2, EyeDrop, 261 Gil, Fire, Exit, Mithril
+Boss: Sargeant
+=========================================================================
+
+Once you have the Canoe, you're free to row northeast from Altea and
+follow the short trail to Palm, a small town.  There's nothing of real
+worth in Palm as of yet, though there is some new armor.  If you want, get
+a Copper Gauntlet for Guy and Maria.  Talk to the pirate near the entrance
+and he'll take you to Poft for a small price of 32 Gil.  Poft doesn't
+offer much in terms of weaponry or armor either, but it does have an
+airship service.  In the pub, talk to Cid's attendant, she'll offer to fly
+you to various locations: Bofsk, Salamando, Semite, and Kashuon.  Since
+you may be making some hefty purchases, I suggest walking east of Poft to
+Bofsk, rather than flying there. On a side note, mention the Warship to
+Cid to get his "professional" opinion on the craft.
+
+Bofsk has been occupied by the Empire (it's teeming with Imperial
+soldiers) and its citizens are being forced to construct the mighty
+Warship (that huge thing in the valley northwest of Bofsk). The commander
+standing in the middle of the town is the Dark Knight, a new villain hired
+by the Empire to oversee the Warship's construction. In the southwest
+corner is an Imperial commander that's actually a spy, but he can't help
+you since the Dark Knight is present.  Go to the armory and buy Silver
+Armor for Frioniel, Maria, and Guy. Give the Copper Armor back to Ming-Wu, and
+sell the Leather Armor.  The Bronze equipment isn't worth the gil it
+costs, mainly because the defense boost is paltry.
+
+Head back to Poft, and this time go northwest to Salamando.  This town has
+also been occupied by the empire; much of the population has been forced
+to mine Mithril in the cave behind Semite Falls (The Mithril you want is
+there).  You can talk to Josef in the northeast house, who asks you if you
+are Imperial spies (really, who would admit to being a spy?). Ask him
+about the Warship and Airship and he will pass you off for fools. Ask him
+about the Mithril and he'll tell you that it's being mined in the cave
+behind Semite Falls. Say Wild Rose to him and he'll poke fun at the
+rebels for getting kids to do their work.  Once you're done interrogating
+Josef, go to the Weapon's Shop and buy a Long Sword for Frioniel and a Long
+Bow for Maria.  Sell the Broad Sword and Bow. Buy the Battle Axe for Guy,
+and give his old Axe to Ming-Wu. Sell the Cane. Rest at the inn, if you need
+it, and then head out west until you reach a river/lake, and then paddle
+your way to the small cave.  Save, and enter the Semite Cave.
+
+Get the treasure in the northwest for 10 gil, then head to the southeast
+for 200 gil.  Head west to the stairwell (southwest corner). On the
+second floor, get the EyeDrop from the northwest treasure, then head up
+the north path for a Potion.  Grab the second Potion from the southeast
+and head the easternmost of three doors. You can go south for a 1 gil
+fortune, then head east for 50 gil (that's more like it).  Take the
+easternmost door to enter a room full of miners, including Paul. Nellie,
+standing next to Paul, is Josef's daughter. She's a hostage of the
+Empire. Talk to Paul and he'll agree to free the slaves and return to
+Salamando. However, he informs you that he, a master thief, could not
+find the Mithril. Head east to the staircase. On the fourth floor, be
+sure to get the spell Fire from the north treasure chest. Give it to
+Guy.  The exit is in the southeast.  If you happen to run into Slimes in
+this area, blast them with Maria's Ice Spell for a quick
+victory...physical attacks are useless (just as they were on Mallows and
+Puddings, the big brothers of Slimes, which you may have fought south of
+Altea). On the fifth floor, head past the door to the northeast corner.
+Open the treasure chest to get the Exit spell. However, LandTrtl shows
+up to reclaim what's his. He has 140 hp, and is weak to Ice.  Have
+Frioniel attack, have Maria cast Ice, Guy cast Ice (if he doesn't have
+it, attack), and have Ming-Wu cast Safe on the party. If anyone is badly
+hurt, have Ming-Wu heal them.  The LandTrtl should die quickly. Give Exit
+to Maria. Now return to the door and head inside.  Heal up, then talk to
+the Imperial Sargeant guarding the Mithril.
+
+-------------------------------------------------------------------------
+Sargeant
+Hp: 140 Mp: 5
+Weakness: None
+Reward: 200 Gil, Mithril Axe, Mithril Helm, Mithril Armor, Mithril Bow
+Attacks: Bow3, Physical Attack
+Strategy: Have Frioniel and Guy attack.  Maria should either cast Ice or
+Fire, whichever is at a higher level.  Ming-Wu should first Safe the party,
+then cast Dispel. From there, he can attack and cure when necessary.
+Although the Sargeant is pretty tough, he'll go down soon if you cure
+weaker character.
+-------------------------------------------------------------------------
+
+*Note: The Sargeant doesn't always drop the Mithril equipment.*
+
+Grab the Mithril, then cast Exit.  Cure Maria (as Exit drains hp).  Save,
+and head back to Salamando.  There, Josef will give you information about
+the Warship and Airship.  Head back to Altea via Poft and Palm.
+
+=========================================================================
+CHAPTER II: THE WARSHIP
+=========================================================================
+A.) Bofsk
+Enemies: Soldiers, G.Goblins, LegEaters, VmpThorns, Balloon
+Treasures: Long Sword, Long Bow, Pass
+Boss: None
+=========================================================================
+
+In Altea, show the Mithril to Gordon (not necessary, but if you like to
+see him belittle his own worth=)).  Head upstairs and show it to Hilda,
+who will tell you to take it to Tobul immediately.  So, head for the
+weapons shop and give the Mithril to the Old Man.  Now the Altean Weapon
+and Armor shops carry Mithril equipment, a lot more powerful than the
+previous armor and weapons. Definitely get the Mithril Sword and Shield
+for Frioniel.  You also want to get the Mithril Axe (if you don't have it)
+and Mithril Shield for Guy.  Everyone (but Ming-Wu) should get a nifty
+Mithril Helm.  If you have enough cash, get Mithril Gauntlets for Frioniel,
+Guy, and Maria.  If you want, give the Battle Axe to Ming-Wu, and sell the
+Axe.  Head back to Hilda. She'll tell you that the Dark Knight was called
+back to Paramekia on assignment, so Borgan was placed in control at Bofsk.
+Borgan's security is lax, and Hilda believes that her spies can now help
+you sabotage the Warship. Basically, you're to go to Bofsk and either
+destroy the Warship or delay its construction.
+
+Head to Palm (buy the Mithril Bow here if you don't have it!), then Poft,
+and then walk (or fly) to Bofsk. At Bofsk, you're now free to talk with
+the townspeople.  You'll learn that you need a Pass to board the Warship,
+which is surely going to attack Palm, Poft, and Altea.  You'll also learn
+that Borgan is a corrupt moron. With that in mind, talk to the spy in the
+southwest corner of town.  Tell him "Wild Rose" and he'll tell you to
+reach the Warship via the sewers. So head for the sewers, which are
+accessed by the little stairs. Take the left path to grab a Long Sword
+(not good at this point, but you can sell it for cash). Follow the
+straight forward path, grabbing the Long Bow in the southwest. The stairs
+are in the southeast. The second floor is even more simple than the
+first=).  Take the right path and follow it until you reach...the Dark
+Knight!? Apparently, he would never leave until his work was done.  He
+informs you that the Rebellion will be crushed by the completed Warship.
+He then departs, followed by Borgan, who calls you a "spoony guy."  You
+automatically follow them outside and watch the Warship take off. Quickly
+go back inside the Sewers and head east.  Take the door, grab the Pass and
+step onto the pentagram.  You'll find yourself standing outside of Bofsk.
+Head back inside to sell your Long Sword and Bow. Also, talk to the
+townspeople for some information on the towns attacked.
+
+When you're ready, head to Poft. You should notice that half the people
+of Poft were killed in the attack. Head to the Pub and talk to Cid.  Ask
+him about the "Airship."  He'll tell you that it runs off the "Sun
+Flame." The Sun Flame?  Ask him about the Sun Flame, and he'll tell you
+that enough Sun Flame in an engine will cause an explosion (Guess how
+the Warship will be destroyed). Hitch a boat ride back to Palm. Lots of
+people died here too, including the "sleaze" that was hitting on Maria.
+The Empire must pay... Head to Altea, and go to the hideout.  Most of
+the refugees fled there after the Warship's attacsk.  Un-equip Ming-Wu,
+then talk to Hilda. Ming-Wu will leave the party and will try to help the
+King. Hilda will beg you to find a way to destroy the Warship.  Ask her
+about the Sun Flame.  She'll say that its on the first floor of Kashuon,
+and you'll tell her that it can be used to destroy the Warship.  So, you
+need to get the Sun Flame. But to open the gates of Kashuon, you'll need
+the Goddess Bell, hidden somewhere to the north.  Go talk to Ming-Wu, and
+ask him about the Sun Flame. He'll mention the Fire Festival of Kashuon,
+and that you must get the EgilTorch to carry the Sun Flame.  Now, ask
+the King about the Sun Flame. Finally, he'll mention the Goddess Bell
+(and you can actually learn the keyword this time!!!). Learn it, and say
+it back to him, Ming-Wu, and Hilda. Hilda will tell you that Josef in
+Salamando may know the whereabouts of this bell.  Guess where you're
+going next?
+
+=========================================================================
+B.) The Snow Cave
+Enemies: Snowman, Icicle, Ghoul, Zombie, Shadow, DeathHead, DualHead,
+Grenade, G.Goblin, Goblin, Balloon
+Treasures: IceSled, 250 gil, Battle Axe, Antidote, Mithril Cane, Ice Wind,
+Potionx2, Ice, Mithril Lance, Ancient Sword, Silver Armor, Goddess Bell
+Bosses: Adamanti, Borgan
+=========================================================================
+
+Head back to Salamando and talk to Josef.  He'll join your party if you
+mention the Goddess Bell to him.  He'll also tell you that the only way to
+get onto to Snow Field is by using the Ice Sled, which Josef hid in the
+Semite Cave. Head for the Semite Cave and go to the Ice Block on the first
+floor.  Check the corner to the northeast of the ice block and you'll get
+the Ice Sled. Head for the Snow Field entrance northwest of Salamando and
+head east until you reach the Snow Cave.  On the first floor, grab the
+northwest chest for 100 gil and the southeastern one for 150 gil.  The
+exit is straightforward and easy to find. The second level has no
+treasure, so take the stairs.  From the entrance of the third floor, head
+northwest for an IceWind.  Take the northeast stairs to enter a treasure
+room.  Grab the Battle Axe (southeast), Antidote (center), and Mithril
+Cane (northwest). The Mithril Cane is guarded by Grenades (4-5) who are
+easily defeated by physical attacks.  Head back to the main room of the
+third floor. The exit of the third floor is in the southwest corner. Take
+the Potion in the northwest and head east to get Ice. You can get another
+Potion in the south-center. Finally, grab the Mithril Javelin from the
+southeast corner.  The fifth floor is also easily tractable, be sure to
+get the Ancient Sword (guarded by a Shadow and two Ghouls) in the
+southwest corner of the room and the Mithril Shield in the northwest. The
+Ancient Sword has terrible accuracy, I personally didn't equip it over the
+Mithril Sword.  Still, the weapon sells for a good price.
+
+Take the southeastern door to enter a lake-like area.  You can try to
+talk to the wandering beavers, but you won't understand them at all. For
+some odd reason, Guy can understand the leader beaver (the guy in the
+northwest corner).  Ask him about the Goddess Bell and he'll tell you
+that the right wall is fake.  So, head through the fake right wall.
+Follow the path until you reach a grotto with a treasure chest in the
+center.  Pop it open for a suit of Silver Armor, which you should give
+to Josef.  Give Josef the IceWind item you were saving from earlier in
+the Cave.  Then talk to the beast in front of the plaque, the Adamanti.
+
+-------------------------------------------------------------------------
+Adamanti
+Hp: 450 Mp: 0
+Weakness: Ice
+Reward: 500 Gil
+Attacks: Physical Attack
+Strategy: Frioniel should attack, while Guy and Maria cast Ice.  Josef
+should use the IceWind, then attack.  Thankfully, the Adamanti is not
+strong enough to kill any one character in one blow, so you always have
+the chance to Cure.
+-------------------------------------------------------------------------
+
+After cracking the Adamanti's shell, examine the Plaque to get the Goddess
+Bell. Now, follow the path through the door (you'll end up on floor 1).
+Before going down the staircase to the exit, heal your characters.  Then
+follow the stairs downwards until you run into Borgan, who valiantly
+attacks you.
+
+-------------------------------------------------------------------------
+Borgan
+Hp: 240 Mp: 20
+Weakness: None
+Reward: 400 Gil
+Attacks: Physical Attack
+Strategy: For an Imperial General, Borgan is a joke.  Hack him to
+pieces, magic won't help.  I killed him in 1 turn->he's VERY easy.
+-------------------------------------------------------------------------
+
+After butchering Borgan, de-equip Josef (though he only has Leather and
+Silver equipment, money is money).  Then head down the stairs.  A boulder
+will start to follow, and your party will run.  Josef throws himself
+against the boulder, and though Guy pleads for him to run, you're forced
+to escape at the cost of Josef's life. Despite your grief, you have to
+complete the mission, or Josef's death will be meaningless (yes, it's a
+classic line). Head back to Salamando to rest.  The man in the upper left
+corner talks about a race of birds, called Chocobos, which live south of
+Kashuon.  This will be important a little bit later. Sell everything you
+got in the Snow Cave(that you're not using) except the Mithril Javelin and
+Josef's equipment.
+
+You can now head back to the Rebel Hideout, where you'll be told to head
+for Kashuon, or you can head for Kashuon yourself. I recommend going to
+Altea and buying Cure for Frioniel.
+
+To reach Kashuon, you have two options.  You can of course fly there, or
+you can walk (I advise the latter).  Head southeast of Bofsk, and follow
+the path until you see a gap in a mountain range with forest near it.
+Head to the center of the circle this mountain range forms, and you'll
+see Kashuon surrounded by another mountain range.  Save, and head inside.
+
+=========================================================================
+C.) Kashuon
+Enemies: Ogre, WzOgre, Adamanti, LandTrtl, Shadow, Ghoul, Ghast, Wraith,
+Mine, Balloon, WereRat, LegEater, VmpThrn, Goblin, G.Goblin, DesAngel,
+Soldier
+Treasures: Cure, 300 gil, Gold Shield, Mithril Sword, Were Cane, Mithril
+Axe, Antidote, EchoScn, EyeDrop, Gold Armor, EgilTrch, SunFlame
+Boss: R.Soul
+=========================================================================
+
+Upon entering, you can see the Sun Flame in the center of the entrance
+area. Unfortunately, it won't be that easy...you need the EgilTrch to
+move the blasted thing.  Use the Goddess Bell on the locked door north
+of the Sun Flame. Head inside.  You'll meet Prince Gordon (remember
+him?) here. Apparently, he tried to get the Sun Flame himself but
+couldn't fight the monsters.  He has 64 HP  and no spells.  Give him
+Cure, the Mithril Javelin, and any better armor you have.  He sucks, and
+may die several times...but he is someone to take extra hits, so keep
+him around.  In the southeast corner of this area is another Cure
+booklet, give it to Frioniel.  The exit is in the southwest corner.  Head
+east on the second floor and grab the 300 gil.  The exit is on the path.
+ The third floor is a bit convoluted, so take the second path and grab
+the Gold Shield in the southwest corner. It's guarded by WereRats, which
+Guy and Frioniel can kill in one hit. The fourth floor is full of rooms,
+but the northeastern room (the one that's facing a hall, slightly north
+of the other room) holds some great treasure: Were Cane, Mithril Axe,
+Mithril Sword.  Give the Were Cane to Gordon. Leave the treasure room
+and progress to the stairwell. The next floor is disturbingly inhabited
+by Adamantis, blast them with Ice, just as you did in the Snow Cave. Go
+to the northeast room on the fifth floor for an Antidote, EchoScn, and
+EyeDrop. Grab the Gold Armor from the middle. Finally, take the exit to
+the sixth and final floor.  Make sure that you have enough mp to cure
+the party forfour turns and make sure that you have full hp.  Then, talk
+to the R.Soul blocking the path to the torch.
+
+-------------------------------------------------------------------------
+R.Soul
+Hp: 540 Mp: 35
+Weakness: None
+Reward: 100 Gil
+Attacks: Fire8, Bolt8, Ice8, Aero8, Physical Attack
+Strategy: This boss is pretty tough.....A lot tougher than most others.
+He'll blast your whole party with level 8 Ice, Fire, Aero, and Bolt spells
+which do considerable damage at this point in the game.  To make matters
+worse, elemental spells heal him, so you have to stick with physical
+attacks (which frequently miss).  Have Maria cure the entire party and Guy
+cure a damaged person while Frioniel and Gordon attack the beast. After 4
+turns, R.Soul will run out of mp, and will be forced to attack you
+physically.  He frequently misses, so this is your chance to finish him.
+It'll take 3 or 4 more turns, but the R.Soul will die.
+-------------------------------------------------------------------------
+
+Head north and grab the EgilTrch from the chest.  Cast Exit, and save,
+cure, whatever.  Now head back inside Kashuon and go up to the Sun Flame.
+Use the EgilTrch on the Sun Flame to obtain the powerful fire. Now head
+back outside Kashuon.  You'll see the Warship persuing an airship and
+ultimately catching it (the ship being attacked is obviously Cid's airship).
+
+Walk directly south of Kashuon and you'll enter a forest/grassy
+clearing. You'll see a white bird moving around. Catch it and you'll get
+a Chocobo. Step outside and mount the Chocobo. Head to Bofsk (or any
+other town), and rest up, sell excess equipment, make some space in your
+inventory.
+
+=========================================================================
+D.) The Warship
+Enemies: Soldier, Mage, Panther, Stunner, WereRat, Eagle, Ghoul, Ghast,
+Wraith, Shadow, Sargeant
+Treasures: 400 gil, Sleep Sword, Potionx2, Blind Bow, Thief Gauntlet,
+Trident, Gouche Dagger, Ice Shield, Giant Helmet
+Boss: None
+=========================================================================
+
+*Note: You need not head back to Altea, though it will tell you where the
+Warship has landed.  Since you have this walkthrough, you won't need
+that.*
+
+In Altea, you'll learn that Cid had flown Hilda to greet you at Kashuon,
+but the Warship intercepted them and have Cid and Hilda as prisoners.  How
+are you going to get on the Warship now that Cid's Airship is gone???
+Well, the Warship needs to refuel, and the Rebels believe that it landed
+somewhere north of Phin.  Well, not only did it land north of Phin, it
+landed in the most remote and isolated location in the world (well,
+almost).  Open up your world map and scroll north of Phin.  The warship is
+parked on that peninsula stretching for miles. Don't even try to walk
+there unless your really strong or need a lot of gil...still, it's not
+worth it.  Instead, return to the Chocobo forest and head south from
+Kashuon.  You'll soon see the Warship parked, with its entrance ramp
+extended.  Dismount, save, and head inside.
+
+You can only go a couple of steps before you meet an Imperial soldier who
+asks for a Pass.  Give him the Pass you found in the Bofsk Sewers, and
+head east to the stairwell flanked by two soldiers.  Don't talk to anyone
+in the Warship, other than Hilda and Cid, or you'll have to fight a
+Captain (more than a match for you at this point).  After descending the
+stairs, head east through the false wall (directly west of the treasure)
+to get into the cell.  Open the treasure chest for the Sleep Sword, which
+is guarded by Sargeants, Soldiers, and Mages.  Kill the Soldiers, then
+Mages, then Sargeants.  Give Frioniel the Sleep Sword, as it *ACTUALLY*
+puts some enemies to sleep. Head back to the entrance level. Head up the
+stairs in the northwest and grab the treasure chest for 400 gil. Ignore
+all the rooms along this catwalk, they are empty.  Follow the path until
+you have the chance to go down and head to the northeastern room.  From
+here, descend into another important area.  Get the two Potions in the
+southeastern corner.  Also get the Blind Bow in the southwest and the
+Thief Gauntlet in the South.  Give the Blind Bow to Maria and the Thief
+Gauntlet to Frioniel.  You should be able to see Hilda and Cid in a cell.
+Head over there, and push the gratings twice ("talk" to them) to fully
+destroy the bars.  Talk to Cid and he'll tell you that he'll escort Hilda
+outside.  That said, head back up to the first floor of the Warship.  This
+time, follow the path all the way until the stairs, and head to the
+southeast exit.  Follow this simple level to the exit (ignore those
+captains wandering around under the grating). The third floor is full of
+treasure, so head to the northeastern corner to see four treasure chests.
+Get the West one for a Trident, the second to West one for a Gouche
+Dagger, and the east one for a Giant Helm. Give the Giant Helm to Frioniel.
+The remaining treasure chest holds the Ice Shield, but is guarded by
+a Gigas and a Soldier.  The Soldier is a piece of cake, the Gigas is not.
+Don't bother with this treasure chest, just go to the next level.  Proceed
+through the straight forward levels (the maze area, where paths are
+guarded by Captains, is easily tractable by going to the outer path
+first).  Once you reach the Engine, examine it and use the SunFlame.  It
+will begin to explode and the Dark Knight will show up, warning you that
+it's not over yet.  Why is that voice so familiar?  Who could the Dark
+Knight be??  You'll automatically exit the Warship and fly off in Cid's
+Airship just as the Imperial weapon explodes.
+
+=========================================================================
+CHAPTER III: REBEL FLAME
+=========================================================================
+A.) Dist: Land of the Dragoons
+Enemies: Shadow, Wraith, LandTrtl, Adamanti, WzOgre, Ogre, GrOgre,
+Gigas, Stlctite, Ghoul, Ghast, Revenant, DualHead, Soul, G.Soul
+Treasures: Curse, Stone, Stop, 30 gil, Pendant, Egg, Potion, Flame Bow,
+Knight Armor, ElderIQ, Heart, Mithril Helmet, Mithril Armor, Magic Cane,
+Mirror, Mithril Gauntlet, DrgnBean
+Boss: Chimerax3
+=========================================================================
+
+You'll land outside of Altea.  Sell all excess weapons but the Gouche
+Dagger. De-equip Gordon, keeping his Mithril stuff for Raila, your next
+fourth party member.  Head to the rebel headquarters and you'll learn that
+the king is dying. Head for his room, and he'll tell Gordon to take over
+the Rebellion, Ming-Wu to unlock the sealed power, and you to go to Dist and
+get the friendship of the dragoons.  So, you now have your mission.  Head
+to the throne room and talk to Gordon. You'll learn that Dist was invaded
+by the Empire recently. Learn the keyword Dragoon and say it back to him.
+He'll say that the Dragoon's had a Hiryuu that will be of use.  Learn the
+word Hiryuu, and head out.  You can learn from townsfolk that Dist is on
+an isolated island to the east of Altea.  You can also pay a visit to
+Hilda, who says Huhu.  What's with that? Forget it, and head for Palm.
+Upon entering, talk to the other pirate (Raila) and she says she's heading
+for Dist and wants to travel with you.  Maria smells a rat, but Guy quells
+her fears and you agree.  Exit Palm and you'll see the ship docked a bit
+east of the town.  Go board it, and it'll start sailing south.  Then, in
+the middle of the ocean, it'll stop.  Raila and some pirates will surround
+you, asking you to surrender your possessions.  You'll be thrown into a
+fight with 8 pirates.  This fight is incredibly easy, as the Pirates do
+from 0-10 damage and frequently miss.  It takes three turns to beat these
+guys, maybe four. When it's finished, Raila will join you, bringing her
+ship with her. Finally, you sail the far seas of FF2j...YES!!!
+
+First thing's first, give Raila all of Gordon's equipment.  You may have
+noticed (or not) that Raila has two weapons equipped, but only attacks
+with the one in her left hand, because she's left handed.  So put her
+shield in her right hand and weapon in her left hand.  There is only one
+other character in the game like this, so you can't get confused =). Sell
+her excess equipment, and give her Goldpin Helm to Maria. Now's a great
+time to head for Mysidia, not located on the map.  From Altea, sail
+southeast until you pass through the strait in between the land areas (on
+the map it looks like a long finger).  Sail west now until your ship
+reaches the mouth of a river.  Canoe up the river for a little bit, then
+head east towards the mountain range.  You should see a town around the
+area. If you run into Mallows and Puddings, beware that physical attacks
+don't hurt them. Blast the Mallows with Bolt and the Puddings with Fire.
+Upon entering Mysidia, you can visit the weapons and armor shops (which
+have some of the best equipment in the game), or the magic shop.  First,
+buy a Thief Gauntlet for Raila, Maria, and Guy (Frioniel should have the
+one you got in the Warship).  Also, get an Ice Shield for Frioniel, Guy,
+and Raila. Finally, get Knight Armor for everyone.  At the weapons shop,
+get the Ice Bow for Maria and the Ogre Axe for Guy. Decked out with this
+awesome equipment, the rather tough Dist Cave will become a piece of cake.
+ If you want, swing by the Magic Shop to take a look at their Holy and
+Change spells, though I doubt you'll want it right now.  This may prove
+costly, but it's worth it.
+
+When you're done in Mysidia, sail to Bofsk, and rest up. Now, sail
+directly east of Bofsk to Dist, the land of the Dragoons.  Walk to the
+castle and enter. You'll see a boy, who runs from you.  Follow the path he
+was blocking. You'll see him again, and he'll say that he'll tell his mom
+about you. Well, follow him again.  You can see him and his mom standing
+in front of a door.  Before talking with them, get all the treasure in
+Dist Castle.  On the second floor, get the Cottage from the northwest,
+then head to the southwest stairs.  Get the FenixDn.   Take the stairs to
+the third floor.  Grab the Unicorn from the southeast chest, then work
+towards the eastern room.  Get Stone, Curse, and Stop.  Curse is pretty
+good, as for Stone and Stop you may want to sell them or give them to
+Frioniel. Go to the northeast room to get a load of treasures: ElderIQ,
+Heart, Winged Sword, G.Needle, Eyedrop, Antidote, Crucifix, and an
+EchoScn. Unlike the Ancient and Sleep Swords, the Winged Sword has a
+decent hit%. Equip it immediately.  Make sure you have two spaces in your
+inventory, then head for the two citizens of Dist Castle. Elina, the
+mother, will say that her husband, the last Dragoon, died; the Dragoons
+are finished. Ask here about the Hiryuu and she'll say that she can't
+communicate with the only remaining Hiryuu, which was poisoned by the
+Empire. She'll say that you need a Dragoon's pendant to do that.  Try
+talking to the Hiryuu and you'll see her point.
+
+Exit the castle and head north to the Dist Cave. From the entrance,
+simply head east, grab the 30 gil, and descend the staircase.  Talk to
+the skeleton to get the Pendant. Head back to Dist.  Go talk to the
+Hiryuu, who will give you an Egg to plant in the Spring of Life (in the
+Dist Cave).  When asked, he'll tell you that a Dragoon named Richard
+left to look for Ultima before the Empire attacked, and may still be
+alive.  Talk to Elina for some info about the Spring of Life (not
+needed), then head out, save, and check your stats. Make sure that
+everyone has at least 400 hp, Maria has at least 50 mp, and Frioniel has
+a sword skill level of 9. To build up weapon skills, wander around the
+Dist Island; the monsters here give more weapon points than in previous
+areas.
+
+When you're set, head back to the Dist Caves. There are three
+stairwells on the first floor of the Dist Cave.  The northeast one leads
+to the Pendant.  The southeast stairs lead to the Spring of Life. The
+Southwest stairs lead to the Knight Armor, Flame Bow, and other
+treasures, not integral. Since you already have the Knight Armor and the
+Ice Bow (which is better than the Flame Bow), you need not take the
+southwest stairs. I'll give you the directions anyway, as you may need
+the gil after your..."ambitious" purchases in Mysidia.  So, take the
+southwest stairs. On your way to the stairs, grab the Potion. Proceed to
+level three (northwest exit to level four) and then four.  The Knight
+Armor, guarded by an Adamanti, is in the southeast.  The Flame Bow is in
+the northwest, the ElderIQ in the northeast and the Heart in the
+Southwest.  Either hike back up or Exit and re-enter the cave. Either
+way, take the southeastern stairs this time. Get the Mithril Helmet
+(easternmost passage), the Mithril Armor (Second), and the Magic Cane
+(third).  The Magic Cane is guarded by G.Souls which can easily be taken
+by your newfound weapons. Take the southwest stairs (the southeast
+stairs will ultimately net you a Mithril Gauntlet and a Mirror (not
+really worth it). On the third floor, be careful to avoid the bridge
+(Which falls to an area you may have passed on your trek to the Knight
+Armor).  On level four, get the DrgnBean (an okay attack item).  At the
+four-door wall, take the door second from the east. Heal up, then talk
+to the fiends blocking the path to the Spring of Life. It's a pack of
+Chimeras, rather easily defeated.
+
+-------------------------------------------------------------------------
+Chimerax3
+Hp: 640 Mp: 80
+Weakness: None
+Reward: 600 Gil
+Attacks: Fire7, Physical Attack
+Strategy: Though conceivably hard, the Chimeras are just a weaker R.Soul.
+They pack less magic power, a weaker spell, and are fighting tougher
+characters.  To balance it out, there is more than one Chimera. However,
+take them out one at a time (everyone hits one) and they will die in
+three, maybe four turns.  Plus, your Ice Shields should be protecting you
+against their fire magic, so it should be an easy fight.
+-------------------------------------------------------------------------
+
+With the Chimeras vanquished, head to the Spring and use the Egg.  With
+The mission accomplished, cast Exit.  When passing Dist, you can swing buy
+The Castle and learn that the Hiryuu has died. What's in store for the
+Dragoons?? Head back to Altea.
+
+=========================================================================
+B.) The Arena
+Enemies: Column, DualHead, DualZomb, Revenant, Flower, Spectre. Captain,
+Sargeant, Sorcerer, Wizard, Ray, Antlion
+Treasures: Antidote, Cottage, Ether, Elixir
+Bosses: Q. Lamia, Behemoth
+=========================================================================
+
+Upon entering Altea, head for the rebel hideout.  Avoid the southeast
+room, for now.  You'll learn that Hilda has been acting very strangely
+lately. Gordon will ask you to find out what's wrong. Save, de-equip
+Raila, and head for the southeast room.  Talk to Hilda, who'll crawl into
+bed and ask Frioniel to join her.  The rest of the party will leave, though
+Raila is suspicious. Frioniel goes to the bed, then realizes that it's not
+Hilda at all, but the Queen Lamia. The party joins you as you battle the
+monster.
+
+-------------------------------------------------------------------------
+Q. Lamia
+Hp: 1290 Mp: 370
+Weakness: None
+Reward: 10000 Gil
+Attacks: Wink9, Blnk16, Physical Attack
+Strategy: This fight is supposed to be hard, and if you didn't go and get
+superior  equipment, it would've been (look, I like saying that okay?).
+Now, you have  three  good attackers (okay, mainly Frioniel and Guy) and
+Raila (de-equipped) as a semi-magician (bolt). So, cast Bolt  with Raila
+and hammer the Q. Lamia with Frioniel, Guy, and Maria. The thing will die
+in two turns, or at most four.  However, there is a rogue possibility that
+your attackers will all be confused, in which case...ouch. But still, the
+boss is quite easy.
+-------------------------------------------------------------------------
+
+After the battle, Raila will tell you to never trust a female.  A
+messenger will arrive bearing bad news: The emperor is hosting a
+tournament at Paramekia. The winner will receive as a prize Princess
+Hilda.  Gordon will rush in, asking to help you rescue the Princess.
+Raila leaves to help train the Rebel Army, and Gordon joins.  Give him
+all of Raila's equipment, then sniff around for info. Apparently, the
+tournament will not be held at Paramekia Castle, but at the Arena.  Both
+are located in harsh territory. The Arena is located next to a forest
+blocked to the east by a mountain range and to the west by a desert.
+It's overshadowed by the dark citadel of Paramekia Castle.  You
+should've seen this on your way to the Warship. You'll also learn that
+the Rebellion is planning a sneak attack on the Emperor while you get
+the Princess back.  Well, I'm fairly sure you know where to go. Sail to
+Poft and fly to Kashuon. Grab the Chocobo from the forest and head south
+into the desert.  Save in front of the Arena and head inside. Follow the
+very, very complicated path to the courtyard and head up to the
+Emperor's throne.  He'll tell you to fight for the Princess, and a
+Behemoth will crawl out of the grating and attack you. This is the first
+REAL boss in FFII, it's a shame that he's a piece of cake.
+
+-------------------------------------------------------------------------
+Behemoth
+Hp: 1620 Mp: 0
+Weakness: None
+Reward: 0 Gil
+Attacks: Physical Attack
+Strategy: Hammer him with your weapons, magic is useless.  He's too weak
+to kill anyone in three turns (except Gordon) and it only takes three
+turns to defeat him. His physical attacks do about 200 damage-> your
+attacks should do that or more.
+-------------------------------------------------------------------------
+
+After defeating the Behemoth, you'll talk to the Emperor, who reveals that
+he recognized you (it's not like you made any attempt to mask your
+identity anyway).  He'll vanish, and two Captains and the Dark Knight will
+appear. They'll throw you in prison. When you come to, "talk" to the bars.
+Paul will appear, sneaking up to the white cloaked Imperial guarding your
+cell. He'll kill the Imperial and free you, as a gesture of thanks for
+saving him in Semite Cave (he hates owing favors). What're you waiting
+for? It's time to get the hell out of here. You can get an Antidote in the
+southeast (not worth it) and a Cottage, Ether, and Elixir in the east room
+(worth it). Head up the stairwell to the second level.  Move around the
+wall until you can see the Princess in her cell (and you are to the east
+of her). There is a fake wall here, so go through it.  De-equip Gordon,
+then free the Princess.  She'll leave with Gordon.  Now follow the path to
+surface in the southwest corner of the Arena. Exit, save, and trek north
+to the forest south of Kashuon (Chocobo Forest). Along the way you'll
+fight Antlions and Rays, which are not very hard to kill but may require
+several turns.  When you get the Chocobo, ride it back to Poft. Rest at
+the inn, then sail your ship south to Altea.
+
+=========================================================================
+C.) The Rebels Strike Back
+Enemies: Captain, Sorcerer, Wizard, Sargeant, Soldier, Stunner
+Treasures: None
+Boss: Gotus
+=========================================================================
+
+A messenger in Altea will tell you that the Rebels are going to invade
+Phin And set up camp west of Gatea.  Head northwest to that orange tent.
+You'll find it swarming with rebels beseeching you to help them capture
+Phin while monsters swarm about causing havoc.  Gordon tells you to leave
+no survivors. So, head for Phin. This is not as fun as it may seem.  Your
+goal is not to wander around the town of Phin butchering the Imperial
+Captains.  You just need to defeat the commanding Imperial Officer,
+Commander Gotus. So head to the castle and walk straight to the throne
+room, ignore the treasure.  Raila will join again, so equip her. Heal up,
+then talk to Gotus (who has a great dialogue, right?).
+
+-------------------------------------------------------------------------
+Gotus
+Hp: 2000 Mp: 80
+Weakness: None
+Reward: 2000 Gil
+Attacks: Hast6, Drink, Physical Attack
+Strategy: Depending on how Gotus decides to play, this fight can be
+anywhere from incredibly easy to mildly difficult. Gotus can greatly
+enhance his attack by using a Bacchus Wine.  This casts Drink on him,
+raising his attack power. His haste spell increases the number of hits he
+deals.  With both increased attack and increased hits, he'll pose a
+serious threat to your party. Otherwise he'll only hit for 100-350 damage.
+It should take little more than two turns to destroy him.  If he does use
+the stat-enhancing spells/items, cure whoever he attacks with your fastest
+character, as there is a great chance that he'll attack that same
+character again the next turn.
+-------------------------------------------------------------------------
+
+With Commander Gotus defeated, Phin Castle is turned over to the rebels.
+Now, all the monsters are gone and you are free to roam the castle.
+
+=========================================================================
+CHAPTER IV: THE SEALED POWER
+=========================================================================
+A.) Catacombs
+Enemies: Revenant, Ghast, Wraith, Column, Stunner, Sucker, Changer, Brain,
+Mantis, Adamanti, WzOgre, GrOgre, G.Chimera
+Treasures: 4000 Gil, Potionx5, Giant Gauntlet, Aura, Were Cane, Gold
+Shield, Gold Armor, Quartz Armor, Knife, EyeDrop, Clothes, Flame Shield,
+Thread, Fang, Flame Armor, Blood Sword, Orhacon Dagger, W.Mask
+Boss: None
+=========================================================================
+
+Talk to Hilda and Gordon, who'll tell you to retrieve the sealed power
+Ultima. From Hilda, learn Mysidia.  Say it back to her to learn about
+Ultima, the sealed magic.  Again, say the keyword back to her.  She'll
+mention the masks, which you need to learn.  Now, ask her about the Masks
+and she'll tell you that one is hidden in Phin and can be found using the
+chant Ekume. She doesn't know where to use the chant though. Ask Gordon
+about Ekume, and he'll tell you to ask Paul (good idea, for once).
+
+You'll want to return to the castle and take all the loot, so go there
+before buying any new equipment. On the first floor, get the 1000 gil in
+the northeast, another 1000 gil in the northwest, and 2000 gil in the
+north. Head up through the southeast stairs.   Go into the next area.  In
+the northeast room are three spells: Toad, Break, and Death. Now, head
+back to the first floor and take the center staircase. There's a Potion to
+the west which is guarded by Ghasts, Stunners, Revenants, and
+Wraiths...not really worth it.  From the Potion, head east through a false
+wall and get the Giant Gauntlet.  Give it to someone who doesn't have a
+Giant Helmet. The Spell Aura is to the east, and is guarded by Sorcerers
+and Sargeants. The Spell isn't very good, but can be sold. Pass through a
+false wall a bit south and west of Aura and head northwest to the Were
+Cane.  Now, head into the throne room and go to the northeast corner of
+the room.  Talk to the walls, one will give you the option of saying
+Ekume.  Say it, and pass through the wall. Follow the path down until you
+reach and area where you can see the rest of the cast (you can see grass
+to the east.  A part of the east wall is fake, pass through it and
+carefully head south.  Now pass west through a false wall in this region,
+and head for the treasure room. Grab the Gold Shield, Quartz Armor, and
+Gold Armor.  Now, exit through the grass and head to Phin Town.  Sell the
+Were Cane, Gold Armor, and Quartz Armor. Make sure everyone is rested. You
+can ask Paul about Ekume, and he'll tell you to look in the northeast
+corner of the room (you already knew that, though).
+
+Head for the passage in Phin Castle.  This time, keep going down the
+stairs and you'll end up in Catacombs. The first floor is inhabited by
+Revenants, Ghasts, Wraiths, and Stunners, so there is nothing to worry
+about.  You can get a Knife in the Southeast, an Eyedrop in the
+northwest, and Clothes in the northeast.  The exit is near the Clothes in
+the northeast. The second floor is inhabited by Suckers, Changers, and
+Brains: new yet easy to kill enemies. You can get a Potion northeast of
+the entrance, another Potion in the southwest, and a MaidKiss in the
+northwest.  Again, the exit is in the northeast. The only monster on the
+third floor is the Mantis, which is actually pretty strong. You can get a
+Potion in the southeast, a Thread in the northwest, and the Flame Shield
+in the southwest.  Give this Shield to Frioniel.  Head for the northwest
+exit. The foes on the fourth floor are Adamantis, GrOgres, WzOgres, and
+Columns. They give quite a bit of gil and occasionally drop Blink, Ice,
+and Blind. Get the Blood Sword in the northeast, which is guarded by
+Ghasts, Spectres, Revenants, and Wraiths. After butchering the Undead,
+you'll get what is quite possibly the best weapon in the game.  It is
+completely useless until the final boss, to which the sword deals
+tremendous damage. So, equip on Frioniel as an item, not as a sword.  Now
+get the Flame Armor in the Northeast and give it to Frioniel. Also, there
+is a Fang in the southeast.  Take the southeastern exit to the fifth
+floor. In the southeast, get the Orhacon Dagger. It's guarded by
+G.Chimeras, who are only a little stronger than the Chimeras you butchered
+in Dist.  Give the Orhacon to Raila. Head northeast.  You'll eventually
+come to a wall with six doors, take the door second from the east. Proceed
+up the steps and get the W.Mask, then head north and exit through the
+pentagram. You can ask Hilda and Gordon about what to do next: they'll
+tell you to sniff around in Mysidia for clues.  So, head for Mysidia.
+
+=========================================================================
+B.) B. Mask Cave
+Enemies: Mallow, Jelly, DualHead, DualZomb, WereRat,Stunner, Tusk, G.Toad
+Treasures: EyeDrop, Xpotionx2, Ether, Threadx2,Aerox2, Blindx2, Garlic,
+1000 gil,  FenixDn, EarthDrm, Valiumx2,DeathGod, Sleep, B.Mask
+Boss: BigHorn
+=========================================================================
+
+In Mysidia (which you've visited before), you'll learn that you need the
+two masks and a crystal rod to unseal the Tower of Mysidia and thus obtain
+the ultimate magic, Ultima.  One person will tell you to place the White
+Mask on the goddess statue, so go ahead and do that (the goddess statue
+he's talking about is the one that can be accessed by stairs).  Finally,
+you'll learn that the Black Mask was hidden somewhere on an island cave.
+Well, when you were sailing here, you did notice that small, isolated
+island, right? That's the Black Mask Cave.  Before heading there, swing by
+the magic shop. You'll want to get Change and Holy for your three main
+characters.
+
+When your done, head for the B. Mask Cave. You can get the EyeDrop in the
+southeast, the two Xpotions (one in the northeast, one in the northwest),
+an Ether in the south and a Thread in the southwest.  Take the western
+exit. On the second floor, there's a Valium in the northwest, an Aero
+spell in the northwest, a Blind Spell in the southeast and southwest, and
+another Aero spell in the south.  There are also two staircases here.  The
+northwest staircase will lead you to the Mask Village, a small town
+inhabited by mask-wearing freaks.  One of them sells an EarthDrm, Ruby
+Armor, Demon Axe, and Demon Lance.  None of these items are
+extraordinarily good, so I don't think you should go there.  But if you
+want to go there, there is a Thread on the floor directly below the
+southwest staircase (east). Proceed to the fourth floor and the fifth
+floor will be the Mask Village. If you choose (rather wisely) to not waste
+your time with the Mask Village, take the center staircase on the second
+floor.  Get the Garlic in the south and head for the stairs.  The fourth
+floor has a 1000 gil chest in the northeast. There are four staircases on
+the fourth floor (not counting the initial entrance).  The southeast
+staircase will take you through two levels, taking you to a secluded area
+of the seventh floor  The treasures have two Valiums and an EarthDrm
+(guarded by Tusks and a G.Toad).  Retrace your way back to the fourth
+floor and take the southwest staircase.  You'll get a FenixDn here, it's
+guarded by Shadows, Wraiths, and Ghasts.  This time, take the northwest
+staircase.  Procure the DeathGod from the center. Finally, take the one
+remaining staircase, the northeast one.  Get Sleep in the northeast, then
+go to the west.  You'll have to face BigHorn, the guardian of the BMask.
+
+-------------------------------------------------------------------------
+BigHorn
+Hp: 1140 Mp: 0
+Weakness: None
+Reward: 1000 Gil
+Attacks: Physical Attack
+Strategy: At 1140 hp, this boss is a joke.  You might have fought him
+around Mysidia.  The simplest way to kill him is to attack him every turn.
+He should die on the third turn, or sooner.
+-------------------------------------------------------------------------
+
+Grab the BMask and warp out of the cave.  Head back to Mysidia.
+
+=========================================================================
+C.) Mysidian Cave
+Enemies: Brain, Coctrice, Molbor, Sucker, Changer, Spectre, Wraith, Ghast,
+Pudding, Mallow, Jelly, Soul, R.Soul, Flier, P.Toad
+Treasures: Goldpin Helm, Black Armor, Flame Javelin, Power Cane, Ice Bow,
+Ogre Axe, G. Needle, FenixDn, SilentB, Potionx5, Mini, Aspil, Drain,
+CrystRod
+Boss: None
+=========================================================================
+
+You'll learn that the CrystRod is buried in the Mysidian Cave.  The cave
+is east of Mysidia, enclosed in a mountain range (don't worry, you can
+still get in on foot).  Rest up, sell your excess items, and head for the
+cave.
+
+Dock your ship near the desert and make your way north to the cave. Get
+the Goldpin Helm in the north and give it to Frioniel.  Give the Black
+Armor you can find in the southeast to Maria.  Head to the exit, which is
+blocked by a doppelganger of Frioniel.  Remember, the Black Mask is
+supposed to go on a drone?  Use the Black Mask on the doppelganger and
+he'll vanish. Head through the exit he was blocking. On the second floor,
+there's a Power Cane in the north and a Flame Javelin in the northwest. To
+reach the Flame Javelin, you'll have to walk through a fake wall.  Now,
+head to the exit and descend to the third floor.  Here you can grab an Ice
+Bow in the northwest (again, there's a fake wall) and an Ogre Axe in the
+southeast.  The Ogre Axe is protected by Bombs, which are easy in a nearly
+obscene way.  Head to the exit and the fourth floor.  The fourth floor
+doesn't have any worthwhile treasure.  You can get a G.Needle, SilentB,
+and FenixDn in the center room (you can buy the FenixDn and G.Needle, and
+the SilentB sucks) and a Potion in the northeast (Potions are long
+outdated).  Head to the fifth floor. The fifth floor actually contains
+some good treasure.  In the northeast you'll find Drain (it's protected by
+Ghosts, slightly stronger than Spectres).  Of the  five treasures
+protected by the fake wall, the eastern one is the best (Mini), the rest
+are Potions.  When you're done, head to the northeast room (a bit annoying
+to find the path to the stairs, but it's linear).  The room contains
+Aspil, Drain, and the CrystRod.
+
+Once you have the CrystRod, warp outside and head back to Altea (don't go
+near the crescent bay with a tower in it).  Heal up, rest, sell excess
+items, and de-equip Raila.  Now, head for that crescent bay.  As you enter
+the crescent, tidal waves will wash over your ship and you'll awaken in
+strange area, with Raila nowhere to be seen.
+
+=========================================================================
+D.) Leviathan
+Enemies: SeaDrgn, ElecFish, MantaRay
+Treasures: Spiral Helm, Power Armor, Power Gauntlet, Diamond Shield, Earth
+Sword
+Boss: Worm
+=========================================================================
+
+This area, which in reality is the stomach of Leviathan, is fairly easy To
+navigate, yet contains enemies that actually put up a fight.  The Colored
+liquid is not water, but stomach acid.  You'll lose 1 HP for step inside
+the liquid, but no monsters will challenge you there.  Grab the Spiral
+Helm and give it to Guy.  Head north, and get the power armor in the
+northeast corner. Give it to Maria.  Take the northwest exit. You'll
+arrive in a town built by victims of Leviathan.  Supposedly, the Leviathan
+protects the seal by consuming those who have Crystal Rods. You'll also
+learn that there is a boat on the third floor, but no one has defeated the
+monster guarding it yet.  (Of course, you'll have to defeat the beast).
+There is a man blocking your path, show him a CrystRod and he'll join,
+introducing himself as Richard the Dragoon. Richard is pretty good, but he
+has no spells.  With Richard, head through the northwest exit.  The
+southeast treasure contains the Diamond Shield and is protected by R.
+Souls (remember the guy in Kashuon?).  Now that you are MUCH stronger,
+just smack them to hell in one hit. Give the Diamond Shield to Frioniel and
+the Flame Shield to Richard. Now get the Earth Sword from the northeast
+corner.  Give it to Frioniel. Finally, head west and attack the beast.
+
+-------------------------------------------------------------------------
+Worm
+Hp: 2000 Mp: 0
+Weakness: None
+Reward: 2000 Gil
+Attacks: Physical Attack
+Strategy: The Worm hits for 150-350 damage, which is pretty good. However,
+you should also hit 250-350 damage, and all four of your characters should
+be attacking. The Worm should fall in four or five turns, maybe three.
+-------------------------------------------------------------------------
+
+After killing the Land Worm, get on the boat to find yourself at the mouth
+of the crescent bay.
+
+=========================================================================
+E.) Tower of Mysidia
+Enemies: Spectre, Revenant, Basilisk, L.Molbor, DvFlower, Chimera, Mallow,
+Pudding, Flower, Mantis, VmpGirl, Imp, Werewolf, Gigas, Bomb, BigHorn,
+Flier, Basilisk
+Treasures: Canex3, WhtRobe, Flame Shield, Flame Bow, Flame Javelin, Flame
+Helm, Flame Sword, Flame Armor, Ice Armor, Ice Shield, Ice Gauntlet, Ice
+Javelin, Ice Sword, Potion, Evil Cane, Unicorn, Thread, Shoes, Flare,
+Eggtimer, Crucifix, BlkRobe, Ultima
+Bosses: F. Gigas, I. Gigas, T. Gigas, Dragon
+=========================================================================
+
+The Tower of Mysidia can be extremely annoying and challenging.  I would
+recommend going in with everyone over 1700 hp (preferably 2000). Your
+Three main character should have 150 max MP or higher (at least if they
+have mediocre magic abilities, that is).  You should also have an Aero
+spell of level 5 or higher.  Sound hard?  Well, it's actually not that
+difficult to dramatically increase your stats.  Simply walk around Altea
+and cast Change (on level 3 or higher) on Goblins, Leg Eaters, and
+Hornets.  Doing so will cause an increase in HP, MP, VIT, SOUL, and M.PWR.
+See the tricks section for more info.  I would also recommend having a
+character with Level 5 or higher Heal, so you can cure petrifaction.  If
+you want, you can also head to Dist or Phin with Richard in your party for
+some added dialogue.
+
+When you're ready, head for the Tower of Mysidia. The first floor has four
+treasures, only one actually worth getting. There is a Cane in the
+northeast, northwest, and southeast corners that I suggest you ignore.
+Instead, get the WhtRobe from the north area (walk through the fake wall).
+Take the central stairs to level two. Get the Flame Shield from the
+northwest. You can get a Flame Bow and a Flame Javelin in the northeast,
+but considering you already have an Ice Bow and none of your characters
+are using Javelins (or are they?) it's not necessary to get them. To
+actually reach the exit, take the southwestern path.  Take the
+southeastern exit to level three. This floor is covered in steaming lava
+which behaves like Leviathan's stomach acid.  Head for the western door
+and take it to enter a new area.  Here, get the Flame Sword in the
+northeast (give it to Frioniel and give the Earth Sword to Richard). Also
+get the Flame Armor in the northeast and the Flame Helm in the northwest.
+I usually give the Flame Armor to Richard, and give the Flame Helm to
+Maria (since Guy already has a Spiral Helm, if not give it to Guy). It
+doesn't really matter who has it, as long as somebody does. When you take
+the northern door, it'll lead you to a staircase blocked by a mage. Heal
+up, then speak with the mage, who becomes the Fire Gigas.
+
+-------------------------------------------------------------------------
+F. Gigas
+Hp: 1800 Mp: 240
+Weakness: Ice
+Reward: Flame Sword, Flame Armor
+Attacks: Fire12, Rock9, Physical Attack
+Strategy: The F.Gigas only hits for about 300 damage, while you can rack
+up 700 max damage to him per turn.  If you have strong Ice spells (lv.8
+and above), blast this sucker with them.  He'll go down pretty fast.
+-------------------------------------------------------------------------
+
+If the F.Gigas dropped a Flame Sword or Armor, give it to Richard.  If
+not, don't worry, you'll get a better sword and another suit of armor soon
+enough . The fourth floor is suddenly cold, a contrast from the molten
+lava below.  You can get an Ice Shield in the northwest, an Ice Gauntlet
+in the southwest, and some Ice Armor in the southeast.  Go ahead and give
+the Ice Gauntlet to Frioniel.  Give the Ice Armor to any character for whom
+the defense is better (probably the guy who has the Power Armor).  The
+western staircase will lead you to the Ice Javelin.  Whether you choose to
+get it or not, head to the northeastern staircase. This level is covered
+in freezing water which behave like the lava.  Make sure to get the Ice
+Sword to the east for Frioniel.  Head to the door.  Heal up, and speak to
+the mage, the Ice Gigas.
+
+-------------------------------------------------------------------------
+I. Gigas
+Hp: 2000 Mp: 240
+Weakness: Fire
+Reward: 1000 gil
+Attacks: Ice12, Rock9, Physical Attack
+Strategy: Though considerably tougher than the Fire Gigas, the I.Gigas is
+still fairly easy. Attack with everyone, or use Fire8+ spells.  He should
+be taking 300-500 damage a turn, making this a short battle.
+-------------------------------------------------------------------------
+
+The sixth floor looks more like the earlier floors of the tower. There's a
+Potion in the northeast corner that you should ignore. Instead, follow the
+Path leading southwest.  Be sure to get the Evil Cane from the chest.
+Equip it as a battle item on Richard.  Head through the door and to the
+seventh floor. You can get a Unicorn in the north (center), Shoes in the
+northeast corner, and a Thread in the south (center).  When you're
+finished, head for the western room. Heal up, and talk to the mage, who
+becomes the terrifying Thunder Gigas.
+
+-------------------------------------------------------------------------
+T. Gigas
+Hp: 2500 Mp: 370
+Weakness: Aero
+Reward: 1000 gil
+Attacks: Bolt12, Rock9, Physical Attack
+Strategy: Unlike his brothers, the Thunder Gigas is actually challenging.
+Have Frioniel attack as usual, or if he has a level 5+ Aero spell, use
+that. Maria should cast Aero5+, and Guy should heal. Richard, who has the
+Evil Cane, should use it as an item.  It casts Aero16 on a random target
+(e.g., I used it at this boss and the cane cast Aero16 on the Emperor). If
+it connects with the T.Gigas, it will do massive damage (700+).  Follow
+this strategy and the T.Gigas will eventually die.
+-------------------------------------------------------------------------
+
+With that beast killed, head up to the 8th floor.  Be sure to get Flare
+from the northeast treasure.  Flare is guarded by Gotus and a DvFlower
+(what the hell is an Imperial Commander doing here?) that die easily and
+sometimes drop a Ripper Knife.  The exit is the door below Flare. The
+water on this floor is not harmful, so enemies can attack you in it. Get
+the Eggtimer to the east and the Crucifix to the southwest. Now, head to
+the northeast treasure chest.  It's guarded by a Dragon that is basically
+the I.Gigas on steroids. If you feel up to the fight, heal up and open the
+chest for BlkRobe armor.
+
+-------------------------------------------------------------------------
+Dragon
+Hp: 2500 Mp: 140
+Weakness: Fire
+Reward: 10000 gil
+Attacks: Ice16, Physical Attack
+Strategy: The Dragon is the first of four Dragons that guard treasure in
+FF2. His Ice16 spell will hit for 100-200 damage to all, and his physical
+attack will do 300-400 damage.  This is the last boss in the Tower of
+Mysidia, so hit him with high end Fire spells (if you have any) or just
+plain attacks.  He'll die eventually, without taking too much of a toll on
+the party.
+-------------------------------------------------------------------------
+
+Give the BlkRobe to Frioniel or Guy.  Then head to the northwestern terrace
+And take the door second to west. Head north and talk to Ming-Wu, who says
+he'll give his best shot to destroy the seal.  In doing so, he dies.  Head
+through the door that Ming-Wu gave his life to open.  You'll enter a room
+with five crystals in it.  The southeastern one raises your agility, the
+northeastern one raises your intelligence, the northwestern one raises
+your soul, the southwestern one raises your strength, and the center one
+gives you the sealed magic, Ultima (Give it to Maria when you get a
+chance). You'll be warped outside the tower, the sealed magic in hand.
+
+=========================================================================
+CHAPTER V: THE FALL OF AN EMPIRE
+=========================================================================
+A.) Whirlwind
+Enemies: Coctrice, Gotus, DvFlower, Corpse, Captain, Lamia, Bomb, Gigas,
+Golem, Wizard
+Treasures: Hiryuu, Ripper Knife, Poison Axe, Diamond Helmet, Diamond
+Gauntlet, Defense Sword, Diamond Armor, WindFlut
+Bosses: General, G.Dragon, Emperor
+=========================================================================
+
+In your absence, the Emperor used his magic to summon a Whirlwind that
+began ravaging the lands. It destroyed Poft, Palm, Gatea, and Altea.  It
+has also attacked Phin, killing almost everyone. The whirlwind has thrown
+everyone trying to attack it out to sea, and if you try to enter it on
+foot you'll be ripped apart.  What to do?  Head for Phin Castle. You can
+see that Raila has made it back safe and sound.  Learn Whirlwind from
+Hilda or Gordon and recite it back to them.  They'll hint at a solution to
+entering the Whirlwind.  Ask Hilda about the Hiryuu and she'll say the
+Pendant can bring out the light of our mirror.  Head to the Hall of
+Mirrors (southwest staircase on first floor of Phin, then northwest).  Use
+the Pendant at the Mirror and you'll see the Hiryuu egg hatch.  The Hiryuu
+will fly right through the windows of Phin castle and approach you.  The
+Hiryuu and Dragoon are re-united again, and its time to kill the Emperor
+(who's inside the Whirlwind). You also have the Hiryuu Flute item now,
+which can be useful. First, say Whirlwind to Paul and he'll tell you to
+check near the bed. There is a fake wall to the east of his bed that leads
+to 8 treasure chests. They are the Black Armor, Ruby Armor, Thief
+Gauntlet, Quartz Armor, Elixir, Goldpin Helm, Silver Armor, and Blood
+Sword.  Keep the Blood Sword (you should also have the one you found in
+the Catacombs), as it will be useful for the final battle.  Now, sell all
+your excess junk and useless battle items like Thread and Valium, if
+you've got any of those.
+
+Rest up, and head for the Whirlwind directly northeast of Phin. On the
+first floor, take the northeast staircase for now.  Get the Ripper Knife
+in the northeast and continue onwards.  On the third floor, get the Poison
+Axe in the southwest chest and give it to Guy. Head back to the first
+floor. Take the northwest exit this time.  Pass through level two, then on
+level three take the north staircase.  Get the Diamond Helm from the
+northeast and the Diamond Gauntlet from the northwest.  Head back to the
+third floor, this time taking the southwest staircase.  Take the southern
+staircase on the fourth floor.  Get the Defense Sword in the southeast and
+give it to Frioniel (give the Ice Sword to Richard).  Then, go to the
+southwest treasure chest and prepare to fight a General for the Diamond
+Armor.
+
+-------------------------------------------------------------------------
+General
+Hp: 1800 Mp: 0
+Weakness: None
+Reward: 2000 gil, Diamond Gauntlet, Rune Axe
+Attacks: Physical Attack
+Strategy: He hits for 500 damage, but he's outnumbered. Just attack him
+mercilessly and he'll die.
+-------------------------------------------------------------------------
+
+Now head back to the fourth floor and take the southeast staircase. Head
+up to level 6, and go to the northeast corner.  Heal up, then prepare to
+fight the G.Dragon for a WindFlut.
+
+-------------------------------------------------------------------------
+G.Dragon
+Hp: 3000 Mp: 190
+Weakness: Bolt
+Reward: 10000 gil, Fang
+Attacks: Mist16, Physical Attack
+Strategy: If you have high end Bolt spells (lv.5+) throw them at this
+fiend. If not, attack him, making  sure to designated a healer that can
+undo his physical attacks (500 damage) and his repeated Mist16 attacks
+(100-200 damage to the party). His defense is a lot stronger than that of
+the Dragon in the Tower of Mysidia, so although he only has 500 more hp,
+it'll take several more turns to defeat this one (barring a good Bolt
+spell).
+-------------------------------------------------------------------------
+
+Now head through the door, heal up, and go into the courtyard.  The
+Emperor will tell you not to waste his time and call a squadron of Corpses
+on you. Kill them, and he'll call yet another one.  Finally, he'll take
+you on himself (of course, with bodyguards).
+
+-------------------------------------------------------------------------
+Emperor (with 2 Corpses and a Golem)
+Hp: 1290 Mp: 190
+Weakness: None
+Reward: None
+Attacks: Slow9, Barr8, Bolt10, Blnk8, Physical Attack
+Strategy: Kill the two Corpses first, then butcher the Golem.  Have
+someone ready to cast Cure on the party in the case of serious double
+teaming (the Golem and Corpses may attack the same party member).  The
+Emperor himself will die in two hits.
+-------------------------------------------------------------------------
+
+After defeating him, the emperor will say he's immortal, yet somehow he'll
+die and you return to Phin, victorious.
+
+=========================================================================
+B.) Paramekia
+Enemies: DvFlower, Skull, Golem, DkKnight, General, Gotus, Amoeba, Lamia,
+VmpGirl, StGolem, Coctrice, Mantis, Flower
+Treasures: Diamond Armor, Garlic, Eggtimer, Knife, Buckler Shield, Bolt
+Javelin, Heart, Valium, Magic Cane, Greed Cane, Evil Cane, Sun Sword,
+Elixirx3,WindFlut, Hellfire
+Boss: Shade
+=========================================================================
+
+Upon hearing news of the Emperor's death, celebrations begin in Phin. They
+Are interrupted, however, when a messenger arrives saying that the Dark
+Knight has crowned himself emperor.  Not only that, but the Dark Knight
+is....Leonheart! You have to head for Paramekia to and either convince him
+to join you or kill him.  The only problem is, Paramekia is surrounded by
+mountains and cannot be accessed by foot or water.  Head into Phin and go
+to Paul's house.  He'll tell you that Cid is in pretty bad shape.  Go talk
+to Cid, and you can tell that he's dying.  The Whirlwind caught him and
+tore him up pretty badly.  He tells you to look after his Airship, then
+dies. Now you know how to get into Paramekia, don't you?  Head for Poft
+and board the Airship there.
+
+You can now go anywhere in the world, but your destination is Paramekia,
+the dark castle overlooking the Arena southeast of Kashuon. Position your
+shadow over the highest part of the castle and land. You'll appear near
+the top of the castle, so follow the path. Unfortunately, you'll be thrown
+to the first floor. NOTE: The General enemies possess very valuable
+treasure.  They have Diamond Gauntlets (which are very good) and rarely,
+Rune Axes.  There is only supposed to be one Rune Axe in the game, which
+you'll find later on, but if you can get that super-powerful weapon
+earlier, there's nothing wrong, is there?  In addition, Gotus enemies drop
+Bacchus, an item that boosts attack power and is helpful during tough boss
+fights.  Try to have at least one for Frioniel's use at the final boss,
+though having more is not a bad idea. Get the Diamond Armor to the west,
+and give it to Guy.  There is a Garlic in the southwest that I don't think
+you'll want to get, it's pretty bad.  If you want another Eggtimer, take
+the eastern staircase on the first floor. Follow the path for this
+mediocre battle item.   That done (or not), take the southern stairs.
+Here, you could get a Knife in the southeast and a Buckler Shield in the
+northeast, but there's no point at all to get those items.  What's up with
+putting basic equipment in later dungeons!? Follow the linear path to the
+third floor. The southwest treasure chest contains the valuable Bolt
+Javelin, which is guarded by Shade.
+
+-------------------------------------------------------------------------
+Shade
+Hp: 3000 Mp: 240
+Weakness: Cure
+Reward: None
+Attacks: Deth8, Curs8, Physical Attack (Curse)
+Strategy: Have your primary curing characters cast cure on Shade if they
+have level 6 or higher cure magic, it'll hit for 250-300 damage.  Guy's
+Rune Axe will do 900 points of damage, so if he's your curing character,
+just use him to attack. Frioniel and Richard should attack. Hopefully his
+death spell won't obliterate your party, and he'll die within 10 turns.
+-------------------------------------------------------------------------
+
+Head to the southeast exit.  The fourth floor contains some basic items;
+there's a Heart in the southeast and a Valium in the west.  The southwest
+room contains three canes, the Magic, Greed, and Evil Canes. Those in
+hand, make your way to the northeast exit. The fifth floor has two
+stairwells, not counting the entrance.  Take the northern one.  The
+powerful Sun Sword in the southwest is guarded by a Q.Lamia and several
+Krulls.  Stay alert for their confusion/paralysis spells and you'll be
+fine.  Give the Sun Sword to Frioniel, and give the Defense Sword to
+Richard.  Go on to the sixth floor. Take the three Elixirs from the
+southwest room and return to the fifth floor. This time, take the
+southwest stairs.  Head through the sixth and seventh floors.  On the
+eight floor, ignore the central area for now and make your way to the
+northwest corner.  Get the HellFire and WindFlut. De-equip Richard
+completely, and head to the center area.  Head up and talk to Leonheart.
+Maria will try to persuade him to join you, but he's been blinded by
+power.  He says that the world is now his, but is cut off by a familiar
+voice-the Emperor's!  Back from the dead, he tells Leonheart that his
+mission is to make the world a living hell.  He begins to attack you, but
+Richard holds him off while you fly off on the Hiryuu.  You can see
+Paramekia change into a dark, hellish castle, Pandemonium.
+
+=========================================================================
+CHAPTER VI: REVENGE
+=========================================================================
+A.) The Sea of Jade
+Enemies: Sphinx, Abysworm, G.Molbor, Dragon, Salamndr, Mantis, VmpLady,
+IceLiz, M.Sucker, G.Dragon
+Treasures: XCalibr, Hellfirex2, Icewind, Diamond Cane, CatClaw Knife, Rune
+Axe, Fang, Aegis Shield, Holy Lance, Dragon Armor, Xpotionx2, Defense
+Gauntlet
+Bosses: B.Dragon, Behemoth, R.Dragon
+=========================================================================
+
+In Phin, you'll learn that the undead Emperor has resurrected the
+root of all evil, the castle of hell, Pandemonium.  Unlike Paramekia,
+Pandemonium cannot be accessed by air.  However, legends tell of a back
+road, Jade, through which demons travel to reach the world from
+Pandemonium. Learn the keyword Jade and say it to Raila, Hilda, and
+Gordon.  Gordon tells you that something like that may exist south of
+Kashuon...which is where the portal is.  First, equip Leonheart.  He's
+left-handed, so put the Flame Shield in his right hand.  Give him the
+Defense Sword.  Head for Dist. There, talk to Elina and say Dragoon.
+She'll tell you that there are too many memories in Dist, and that she
+wants to move on to another town.  But first, she gives you the XCalibr,
+the supreme treasure of the Dragoons. Then Elina and her kid vanish for
+good.  Give the XCalibr to Frioniel and give his Sun Sword to Leonheart.
+Now, head to Mysidia and get Leonheart Change, Holy, Cure, Fire, Ice,
+Bolt, Life, and Heal.  It's time to build up some stats, so go to an early
+dungeon and change the enemies(the Bofsk Sewers or Semite Cave). All of
+your characters should have at least 4000, preferably 5000 HP and your
+mages should have 300 mp or more.  You should all have Weapon Skill levels
+of 16, except for Leonheart (as that would take a long time to build-he
+should have at least level 9 sword skill though).
+
+When you're ready, head for Jade, which is far east of Mysidia (to the
+west of the narrow strait a large distance south of Kashuon).  It looks
+like a blue circle, as it is the Sea of Jade. You'll enter a watery area,
+the first floor of Jade. Jade, for reasons unbeknownst to me, is packed to
+the brim with treasure. On the first floor, you'll be able to grab the
+Hellfire from the southwest and the Diamond Cane from the northeast.
+However, as you probably don't use Canes, you can either pass up this
+treasure chest, or grab it and sell it...your choice.  Head for the
+staircase and descend to the second floor. In the northeast you can snatch
+an Icewind, coupled with a Hellfire in the Northwest.  To the southwest
+you'll find the CatClaw Knife, which is dutifully protected by the
+B.Dragon, which sometimes drops the Dragon Armor and Holy Javelin, two
+great treasures.  Don't worry if this B.Dragon doesn't drop them,
+though.  You can also fight more later on (yes, they actually become
+random encounters).  This is the best way to get three suits of Dragon
+Armor (the R.Dragon drops it, but is tougher).
+
+-------------------------------------------------------------------------
+B.Dragon
+Hp: 3500 Mp: 240
+Weakness: Posion (Aero)
+Reward: 10000 Gil, Dragon Armor, Holy Javelin, Fang
+Attacks: Bolt16, Physical Attack
+Strategy: Blast this guy with high level8+ Aero spells or Tnad13 from
+the WindFlut. Have Guy, Leonheart, and Frioniel attack, while Maria casts
+black magic and cures after an occasional Bolt16.  The monstrous foe
+hardly ever poses a severe threat, since you should be racking up
+1000-2000 damage on it per turn.
+-------------------------------------------------------------------------
+
+After butchering or avoiding the Bolt Dragon, head to the staircase and go
+to the third floor. To the Northeast is a treasure you'll definitely want:
+the Rune Axe (unless you got it already from the Generals in Paramekia, in
+which case you can pass this up).  The Rune Axe is guarded by the Behemoth
+(MegaBehemoth), who isn't as hard as he looks.  First, equip the Blood
+Sword on Frioniel and Leonheart, since the MegaBehemoth takes a lot of
+damage from the weapon.
+
+-------------------------------------------------------------------------
+Behemoth [MegaBehemoth]
+Hp: 5000 Mp: 0
+Weakness: None
+Reward: 0 Gil, Yoichi Bow, Power Gauntlet, Power Armor, Spiral Helmet
+Attacks: Physical Attack
+Strategy: The quickest way to beat this foe is with your weapons.
+Surprisingly, the Behemoth does not have an excellent defense, as one
+would imagine.... Rather, his Magic Defense is substantially higher.  Just
+hack him to pieces, since the Blood Sword does about 4200 damage on this
+foe.
+-------------------------------------------------------------------------
+
+Equip Guy with the Rune Axe.  It's interesting to note that there is a
+magic shop behind the waterfall here, on the eastern side.  You can buy
+some decent spells, such as Flare, Death, Haste, and Berserk.  Get Flare
+for your characters that don't have it yet.  You can also sell the items
+that you won't need, ex. CatClaw Knife.  My question: what's this salesman
+doing here?  I might be wrong, but for a portal that opens every, oh, lets
+say 500-1000 years, inhabited by demons, business must suck.  Head to
+staircase and the next level. In the northwest, snatch the Fang (if you
+want it), then head for the north room. Ignore the treasure chest in the
+Northeast for now. In the room, you'll want to get the Aegis Shield, the
+Dragon Armor, and the Holy Javelin. Head back to the main area of the 4th
+floor.  Proceed to the Northeast.  Its time to slay the last Dragon. Equip
+the IceWind on Maria, then open the treasure for a Yoichi Bow.
+
+-------------------------------------------------------------------------
+R.Dragon (Red Dragon)
+Hp: 5000 Mp: 450
+Weakness: Ice
+Reward: 10000 Gil, Dragon Shield, Holy Javelin, Shoes, Dragon Armor
+Attacks: Fire16, Physical Attack
+Strategy: High end Ice spells would not hurt, but you need not drain your
+mp here. Have your weakest attacker, probably Maria, blast the Dragon with
+an IceWind.  In the meanwhile, your attackers should hack away at the foe.
+Though harder than the B.Dragon (and the Dragon and G.Dragon), he should
+go down within 6 turns.
+-------------------------------------------------------------------------
+
+Give Maria the Yoichi Bow, and then head towards the staircase. Near the
+entrance to the fifth floor is a sign telling you that Hell is near.
+(Thanks for the directions, pal.  And by the way, who paid you to put the
+sign there?) Anyway, grab the two Xpotions (northwest and northeast), you
+may need them later.  Also grab the Defense Gauntlet (though it's not much
+better than your current equipment; hopefully everyone already had Diamond
+Gauntlets). Head for the sixth floor. There is really nothing on the sixth
+floor, so head straight for the terrace are, where you'll be warped to
+Pandemonium Castle.
+
+=========================================================================
+B.) Pandemonium
+Enemies: Lamia, Q.Lamia, WolfDevl, BstDemon, MtGolem, DthRider, DvMantis,
+Krull, DvFlower, G. Molbor, IceLiz, B. Dragon, R. Dragon, MegaBehemoth,
+I.Gigas, F.Gigas, T.Gigas, Bomb, Worm, Salamndr, IceLiz, Giant
+Treasures: Ether, EyeDrop, Masmune Sword, Genji Gauntlet, Genji Helmet,
+Genji Armor, Ribbon Helmet, ElderIQ, HellFire, DrgnBean
+Bosses: Z.Borgan, Tiamat, Satan, Asteroth, Emperor
+=========================================================================
+
+There is no treasure on the first floor, and don't try to walk into the
+Gates (they look like a row of doors).  Just follow the normal path to the
+exit. On the second floor, you can pick up on Ether to the north as you
+again follow the path.  It's interesting to note that packs of Lamias,
+Q.Lamias, and Krulls drop Ribbon Helms, a heavily guarded treasure later
+in the castle. The third floor of Pandemonium is still straightforward,
+but you can grab some EyeDrops if you want in the Southwest.  There's a
+passage in the center of an L shaped hallway which leads to the EyeDrops.
+The fourth floor, however, is quite different from the others.  It has
+four doors, each leading to a convoluted passage with a treasure in it.
+First, take the westernmost door.  Follow the passage.  You'll see a
+treasure, but don't open it just yet. Instead, follow the path for a while
+longer.  You'll have to walk through a wall or two on the way as you
+progress northeast, so don't pass that off as a bug in the game.  These
+walls will eventually lead you to another room with a treasure.  Snatch
+the Masmune sword, and give it to Frioniel.  Give Leonheart Frioniel's
+XCalibr.  Armed with the Masmune, it's time for you to do some treasure
+hunting.
+
+*The Masmune's room contains some tough monsters, the MegaBehemoth,
+B.Dragon, and R.Dragon.  These monsters also drop powerful treasure, but
+you might want to reserve the treasure hunting spirit until you get some
+better armor.*
+
+Trace your way back to the first treasure.  Open it for a Genji
+Gauntlet. Zombie Borgan, however, doesn't want you to keep that...it's
+time to put that idiotic Imperial to rest, for good.
+
+-------------------------------------------------------------------------
+Z. Borgan
+Hp: 2500 Mp: 370
+Weakness: Fire, Cure
+Reward: 2000 Gil
+Attacks: Flar16, Physical Attack (Paralysis)
+Strategy: With the Masmune in hand, this fight should be a piece of cake.
+Have Frioniel use the Masmune to Hast11 the party, and have everyone else
+attack. Unless you are very unlucky, and Z. Borgan manages to paralyze
+your big attackers (Leonheart and Frioniel), this fight shouldn't last over
+3 rounds, I killed him in two hits.
+-------------------------------------------------------------------------
+
+Give the Genji Gauntlet to Maria. Now, progress to the second room from
+the west.  Follow the path to the northwest, where you'll find a treasure
+chest, and make sure you have good weapons equipped.  Open the treasure
+chest to get the Genji Helmet and fight Tiamat.
+
+-------------------------------------------------------------------------
+Tiamat
+Hp: 5000 Mp: 450
+Weakness: None
+Reward: 10000 Gil
+Attacks: Fire16, Bolt16, Mist16, Ice16, Physical Attack(Poison)
+Strategy: This is not a magic fight, since Fire, Bolt, Mist, Ice, and Aero
+heal Tiamat. Theoretically, Flare and Ultima will hurt him, but that would
+waste precious MP.  Instead, Hast11 everyone with Frioniel, have Maria as a
+reserve Healer, and butcher Tiamat with relentless physical attacks. Do it
+fast, as Tiamat's elemental spells can rack up some heavy hp loss.
+-------------------------------------------------------------------------
+
+Now take the easternmost door. In the north is a treasure chest guarded by
+Satan.  Open it for the Genji Armor, then prepare to kill the devil.
+
+-------------------------------------------------------------------------
+Satan
+Hp: 5000 Mp: 450
+Weakness: None
+Reward: 10000 Gil
+Attacks: Fire16, Flar16, Chrm16, Blnk16, Dspl16, Ston16, Physical
+Attack(Poison)
+Strategy: Again, this is not a magic fight.  Rather than waste mp on
+Ultima or Holy, begin attacking immediately.  This time, its not worth it
+to use the Masmune with Frioniel, because Beelzebub can induce crippling
+status effects on your entire party if you wait too long.
+-------------------------------------------------------------------------
+
+Go to the second door from the east.  Follow the path until you see a
+Treasure chest.  This chest contains the Ribbon, a fairly strong helmet.
+It Offers protection against status effects and elemental attacks, but
+lacks in defense. However, this treasure is guarded by Asteroth,
+the incredibly difficult Dark Lord.  If you are up to the challenge, that
+is, have over 2500 hp for every character (not max, current) and suitable
+mp, then you can try it.  In my opinion, the ArchAngel is harder than the
+last boss, and the equipment he has is not worth the fight; you can get
+the same helm if you keep beating up Krulls and Q.Lamias.  It's your
+choice.
+
+-------------------------------------------------------------------------
+Asteroth
+Hp: 7000 Mp: 540
+Weakness: None
+Reward: 10000 Gil
+Attacks: Aero16, Blnd16, Dran16, Fire16, Physical Attack
+Strategy: Use Frioniel's Masmune to Hast11 the party.  Ultima with Maria,
+and attack with Guy and Leonheart. The next turn, attack with Frioniel and
+Leonheart.  If needed, heal with Guy, else attack.  If Maria doesn't need
+to heal, cast Ultima. If you are lucky, Asteroth won't physically
+attack you or blind Frioniel.
+-------------------------------------------------------------------------
+
+With Asteroth slaughtered (or avoided), your party has gained the last of
+The great treasures of Pandemonium.  With the exception of several items
+to Be procured along the path to the final boss, you've gotten everything
+the Dungeon has to offer.  Now, you're faced with an important decision:
+exit the dungeon, save, stock up on ethers/elixirs, etc., or move on to
+face the final boss. Yes, trekking through Jade and Pandemonium again will
+be boring and arduous. But it would be better than having to reclaim all
+the treasure again if you, say, lost to the final boss. Anyway, I exited
+and recuperated...others may choose differently. After defeating Asteroth,
+head to the warp in the south corner of the room.  The fifth floor is
+straightforward, as is floor six.  On floor six grab the ElderIQ in the
+north.  On the seventh floor, treat yourself to a Hellfire in the
+southeast and a DrgnBean in the northwest.  From here, move on to the 8th
+floor.  The warp is in the southwest corner.
+
+On floor nine lurks the Emperor, reborn from hell. This Astral Plane also
+is home to R.Dragons, B.Dragons, MegaBehemoths, T.Gigases, I.Gigases,
+F.Gigases, and Bombs. Don't get to close to him, or the battle with start.
+Instead, pause, and check your equipment:
+
+EQUIPMENT CHECK 1: NO BLOOD SWORDS
+*Frioniel should have the Masmune Sword equipped, along side an Aegis
+Shield, Genji Armor, Diamond Helmet, Diamond Gauntlets, Bacchus, and an
+Elixir.  He should have over 5000 hp, a level 16 sword and shield skill
+level.
+
+*Maria should have the Yoichi Bow, Ice Shield, Diamond Armor, Diamond
+Helmet, Genji Gauntlet, and 2 Elixirs. She should have over 4000 hp and
+300 mp, an Ultima of level 12 or higher, and a Cure of level 11 or higher.
+
+*Guy should have the Rune Axe, Diamond Shield, Diamond Armor, Diamond
+Helmet, Diamond Gauntlet, and 2 Elixirs. He should have over 5000 hp and
+300 mp, and a Cure spell of level 11 or higher.
+
+*Leonheart should have the XCalibr Sword, Flame Shield, Diamond Armor,
+Flame Helmet, Diamond Gauntlet, a Bacchus, and 2 Elixirs. He should have
+over 4500 hp, a level 10 sword and shield skill level.
+
+EQUIPMENT CHECK 2: 1 OR 2 BLOOD SWORDS
+*Frioniel should have the Blood Sword equipped, along side an Aegis Shield,
+Genji Armor, Diamond Helmet, Diamond Gauntlet, Bacchus Wine, and an
+Elixir.
+
+*Maria should have the Yoichi Bow, Diamond Armor, Diamond Helmet, Genji
+Gauntlet, and 2 Elixirs.
+
+*Guy should have the Rune Axe, Diamond Shield, Diamond Armor, Diamond
+Helmet, Diamond Gauntlet, a Masmune and an Elixir.
+
+*Leonheart should have the XCalibr Sword, Flame, Diamond Armor, Genji
+Helmet, Diamond Gauntlet, a Bacchus, and an Elixir.
+
+EQUIPMENT CHECK 3: OPTIMAL EQUIPMENT
+*Frioniel should have the Blood Sword equipped, along side an Aegis Shield,
+Genji Armor, Genji Helmet, Genji Gauntlet, Bacchus Wine, and an Elixir.
+
+*Maria should have the Yoichi Bow, Genji Armor, Genji Helmet, Genji
+Gauntlet, and 2 Elixirs.
+
+*Guy should have the Rune Axe, Dragon Shield, Genji Armor, Genji Helmet,
+Genji Gauntlet, a Masmune and an Elixir.
+
+*Leonheart should have the XCalibr Sword, Dragon Shield, Genji Armor,
+Genji Helmet, Genji Gauntlet, a Bacchus, and an Elixir.
+
+When you are ready, go ahead and talk to him.  Get ready...
+
+-------------------------------------------------------------------------
+*FINAL BOSS: EMPEROR*
+Hp: 10000 Mp:???
+Attacks: Meteo1, Blnd16, Curs16, Dspl16, Flar16, Slow16, Physical Attack
+
+*Strategy 1: No Blood Swords* This strategy may be a little risky in the
+sense that it puts your main attacker, Frioniel, out of the picture or two
+rounds, but it is also a nearly insurmountable method of defeating the
+Emperor.  Here's how it goes:
+
+(1) Frioniel uses the Masmune to cast Hast11 on the party. Maria uses the
+Yoichi Bow to Bsrk3 the party. Guy attacks the Emperor Leonheart uses the
+a Bacchus
+
+(2) Frioniel uses the Bacchus to enhance his attack. Maria casts Ultima12
+or higher on the Emperor, or Cures the party (after Meteo), or Cures a
+single character that's been attacked Guy attacks the Emperor, or Cures a
+single character that's been attacked. Leonheart attacks the Emperor, uses
+an Elixir if it fits the situation.
+
+(3) On turn three, Frioniel attacks, uses an Elixir if necessary (though
+that will severely hinder the regicide process).  The rest of the party
+repeats the above strategy. Frioniel's attack should do 2400+ damage.
+
+Up to this point, the Emperor, if everyone could attack, should have
+suffered 1800 damage.  The point? It should take 5 turns, including the
+initial one, to defeat this foe.
+
+*Strategy 2: 2 Blood Swords*
+(1) Frioniel uses the Bacchus, Maria uses the Yoichi Bow to cast Bsrk3, Guy
+uses the Masmune to cast Hast11, and Leonheart uses the Bacchus
+
+(2) Everyone attacks. Frioniel should kill the Emperor in one hit (for me,
+he did 11728 damage, displayed as 1728).
+-------------------------------------------------------------------------
+
+Sit back and watch a well-earned but not too great ending.
+
+-------------------------------------------------------------------------
+III.) ARMOR
+-------------------------------------------------------------------------
+
+-------->ARMOR<--------
+
+CLOTHES
+Defensive Power: 1
+Bonus: None
+Price: 20
+Location: Bought in Altea
+
+LEATHER
+Defensive Power: 2
+Bonus: None
+Price: 100
+Location: Bought in Gatea
+
+COPPER
+Defensive Power: 3, +5% Magic Defense
+Bonus: None
+Price: 200
+Location: Bought in Salamando
+
+SILVER
+Defensive Power: 10
+Bonus: None
+Price: 400
+Location: Bought in Bofsk
+
+MITHRIL
+Defensive Power: 10, +5% Magic Defense
+Bonus: None
+Price: 400
+Location: Bought in Altea (after Tobul receives Mithril)
+
+GOLD
+Defensive Power: 15. +5% Magic Defense
+Bonus: Increases protection against Aero and Mist
+Price: 2500
+Location: Bought in Phin
+
+RUBY
+Defensive Power: 15, +5% Magic Defense
+Bonus: Nullifies Fire damage
+Price: 800
+Location: Bought in the Mask Village
+
+KNIGHT
+Defensive Power: 22, +5% Magic Defense
+Bonus: None
+Price: 5000
+Location: Bought in Mysidia
+
+QUARTZ
+Defensive Power: 22, +5% Magic Defense
+Bonus: Nullifies Ice damage
+Price: 1000
+Location: Bought in Phin
+
+POWER
+Defensive Power: 25. +5% Magic Defense
+Bonus: +10 Attack
+Price: 50
+Location: Found in Leviathan, Won from MegaBehemoth
+
+FLAME
+Defensive Power: 22, +5% Magic Defense
+Bonus: Strong against Ice attacks
+Price: 10000
+Location: Found in the Catacombs, Won from F.Gigas
+
+WHTROBE
+Defensive Power: 30, +21% Magic Defense
+Bonus: +10 Soul
+Price: 5000
+Location: Found in the Tower of Mysidia
+
+BLKROBE
+Defensive Power: 35, +21% Magic Defense
+Bonus: +10 Int
+Price: 5000
+Location: Found in the Tower of Mysidia, Won from T.Gigas
+
+ICE
+Defensive Power: 36, +5% Magic Defense
+Bonus: Strong against Fire attacks
+Price: 10000
+Location: Found in the Tower of Mysidia
+
+BLACK
+Defensive Power: 40, +5% Magic Defense
+Bonus: None
+Price: 2500
+Location: Found in the Mysidian Cave
+
+DIAMOND
+Defensive Power: 43, +5% Magic Defense
+Bonus: Strong against Bolt attacks
+Price: 20000
+Location: Found in the Whirlwind
+
+DRAGON
+Defensive Power: 50, +5% Magic Defense
+Bonus: None
+Price: 65000
+Location: Found in Jade, Won from R.Dragons and B.Dragons
+
+GENJI
+Defensive Power: 75, +10% Magic Defense
+Bonus: None
+Price: 30000
+Location: Found in Pandemonium, Won from Giants
+
+-------->HELMETS<--------
+
+LEATHER
+Defensive Power: 1
+Bonus: None
+Price: 80
+Location: Bought in Altea/Gatea
+
+Bronze
+Defensive Power: 2
+Bonus: None
+Price: 200
+Location: Bought in Palm/Poft/Bofsk
+
+MITHRIL
+Defensive Power: 4, +5% Magic Defense
+Bonus: None
+Price: 300
+Location: Bought in Altea (after Tobul receives Mithril)
+
+GIANT
+Defensive Power: 6, +5% Magic Defense
+Bonus: +5 Attack
+Price: 600
+Location: Bought in Phin
+
+RIBBON
+Defensive Power: 10, +21% Magic Defense
+Bonus: Nullifies status ailments
+Price: 10000
+Location: Found Pandemonium, Won from Q.Lamias/Krulls
+
+GOLDPIN
+Defensive Power: 11, +10% Magic Defense
+Bonus: None
+Price: 600
+Location: Found in the Mysidian Cave
+
+SPIRAL
+Defensive Power: 12, +5% Magic Defense
+Bonus: +10 Attack
+Price: 50
+Location: Found in Leviathan, Won from MegaBehemoth
+
+FLAME
+Defensive Power: 13, +5% Magic Defense
+Bonus: Strong against Ice attacks
+Price: 1000
+Location: Found in the Tower of Mysidia
+
+DIAMOND
+Defensive Power: 17, +5% Magic Defense
+Bonus: Strong against Bolt attacks
+Price: 5000
+Location: Found in the Whirlwind
+
+GENJI
+Defensive Power: 30, +10% Magic Defense
+Bonus: None
+Price: 20000
+Location: Found in Pandemonium, Won from Giants
+
+
+------->GAUNTLETS<--------
+
+LEATHER
+Defensive Power: 1
+Bonus: None
+Price: 50
+Location: Bought in Altea/Gatea
+
+BRONZE
+Defensive Power: 3
+Bonus: None
+Price: 300
+Location: Bought in Palm/Poft/Bofsk
+
+MITHRIL
+Defensive Power: 6, +5% Magic Defense
+Bonus: None
+Price: 800
+Location: Bought in Altea (after Tobul receives Mithril)
+
+POWER
+Defensive Power: 12, +5% Magic Defense
+Bonus: +10 Attack
+Price: 5000
+Location: Found in Leviathan, Won from MegaBehemoth
+
+THIEF
+Defensive Power: 15, +5% Magic Defense
+Bonus: +10 Agility
+Price: 1000
+Location: Bought in Mysidia
+
+GIANT
+Defensive Power: 15, +5% Magic Defense
+Bonus: +10 Attack
+Price: 2000
+Location: Bought in Mysidia
+
+DEFENSE
+Defensive Power: 18, +21% Magic Defense
+Bonus: None
+Price: 5000
+Location: Found in Jade
+
+ICE
+Defensive Power: 20, +5% Magic Defense
+Bonus: Strong against Fire attacks
+Price: 5000
+Location: Found in the Tower of Mysidia
+
+DIAMOND
+Defensive Power: 25, +5% Magic Defense
+Bonus: Strong against Bolt attacks
+Price: 8000
+Location: Found in Whirlwind, Won from Generals
+
+GENJI
+Defensive Power: 45, +10% Magic Defense
+Bonus: None
+Price: 20000
+Location: Found in Pandemonium, Won from Giants
+
+-------------------------------------------------------------------------
+IV.) WEAPONS
+-------------------------------------------------------------------------
+
+In Final Fantasy 2j, there are seven kinds of weapons your characters can
+use. Each character can use any weapon s/he pleases.  However, once you
+start using one kind of weapon, you're better off sticking to it. Each
+time you use a weapon, or more precisely, each time you choose "Fight",
+you gain 1 weapon skill point.  After 100 points are gained, the character
+gains a weapon skill level.  As the skill level goes up, your character
+will deal more damage by hitting the enemy more times. The max skill
+level, 16, will allow your characters to hit the enemy 16 times.  Note: 16
+is not the maximum number of hits one of your characters can do, since a
+hasted character with Lv. 16 weaponry can deal up to 20 hits or more. To
+quickly build weapon levels, select fight, cancel, then select fight
+again.  This works for the first three characters; to get the fourth
+character to a high weapon level, get into lots of fights, and prolong
+them, allowing the fourth character to attack ten times per fight.  After
+10 fights, they should gain 1 level.  Different enemies yield different
+exp points per hit, based on your weapon level.
+
+
+The seven weapons you can use are axes, bows, canes, fists, javelins,
+knives, and swords.  If you don't have a bow equipped, then you can't hit
+the enemy from the back row, unless you use magic.  I usually equip my
+characters in this fashion: Frioniel-Swords, Maria-Bows, Guy-Axes,
+Leonheart-Swords.  NPCs can be equipped with whatever suits them best or
+the most powerful weapon on hand (in most cases, the former is the better
+choice).
+
+1.) Axes: Axes are physically stronger than swords for the majority of the
+game, since high-powered Axes can be bought early on, whereas high-power
+swords are usually found.  The strongest Axe is the fourth strongest
+weapon in the game.
+
+2.) Bows: Bows are useful since they allow attack without fear of
+retaliation.  However, equipping a character with a Bow means no Shield
+can be equipped.  This means that the character will have minimum agility,
+making them slow.  Natural HP growth will also be smaller.  The strongest
+Bow is the fourth most powerful weapon in the game, and has a very useful
+"in-battle" use.
+
+3.) Canes: Canes are good for their "as item" uses and are also decent
+weapons.  However, they are weaker than Bows and do not provide protection
+from physical attacks.  The strongest Cane is the fifth strongest weapon in
+the game.
+
+4.) Fists: Fists are the most accurate weapons in the game, and are also
+the cheapest.  Fist attack power increases by 8 per level of Fist above
+1, so with Pwr. 99 and Fist level 16, the attack power of the
+Fists is 169 (second strongest in the game).  However, if you have a
+Shield equipped, the character will attack with the Shield and gain
+experience for the Shield only.  So, to maximize Fist power, you can't
+have Shields equipped.
+
+5.) Javelins: Javelins are fairly strong, but like Canes they are not as
+effective as Bows on the longterm scale.  The strongest Javelin is the
+fifth most powerful weapon in the game.
+
+6.) Knives: Knives are very accurate, but are also incredibly weak.  Their
+low cost and accuracy do not make up for their lack of solid power.  The
+strongest Knife is the sixth strongest weapon in the game.
+
+7.) Swords: Swords are very accurate and powerful.  Basically, they are
+the most powerful weapons in the game.  The strongest Sword is the
+strongest weapon in the game and also has a very useful "as item" use.
+
+------->AXES<--------
+
+AXE
+Attack: 10
+Hit%: -20%
+Bonus: None
+Price: 500
+Location: Bought in Gatea/Palm/Poft
+
+BATTLE
+Attack: 15
+Hit%: -35%
+Bonus: None
+Price: 800
+Location: Bought in Salamando
+
+MITHRIL
+Attack: 22
+Bonus: None
+Price: 2000
+Location: Bought in Gatea/Palm/Poft (after Tobul receives Mithril)
+
+DEMON
+Attack: 27
+Bonus: None
+Price: 10000
+Location: Bought in the Mask Village
+
+OGRE
+Attack: 58
+Bonus: None
+Price: 15000
+Location: Bought in Mysidia
+
+POISON
+Attack: 76
+Bonus: Poisons the target.  Very effective against Bolt based enemies.
+Price: 20000
+Location: Found in the Whirlwind
+
+RUNE
+Attack: 96
+Bonus: Casts Fog6 on all enemies when used as an item in battle.  Rarely
+works.
+Price: 50000
+Location: Found in Jade, Won from Generals
+
+------->BOWS<--------
+
+BOW
+Attack: 1
+Hit%: -30%
+Bonus: None
+Price: 150
+Location: Bought in Gatea/Palm/Poft
+
+LONG
+Attack: 9
+Hit%: -40%
+Bonus: None
+Price: 250
+Location: Bought in Salamando, Found in Bofsk Sewers
+
+MITHRIL
+Attack: 13
+Bonus: None
+Price: 1000
+Location: Bought in Palm/Poft (after Tobul receives Mithril)
+
+BLIND
+Attack: 25
+Bonus: Blinds the enemy (dark status)
+Price: 3000
+Location: Found in the Warship
+
+FLAME
+Attack: 42
+Bonus: Very effective against Ice based foes.
+Price: 5000
+Location: Bought in Mysidia
+
+ICE
+Attack: 56
+Bonus: Very effective agains Fire based foes.
+Price: 5000
+Location: Bought in Mysidia
+
+YOICHI
+Attack: 90
+Bonus: Casts Bsrk3 when used as an item in battle
+Price: 25000
+Location: Found in Jade, Won from MegaBehemoths
+
+------->CANES<--------
+
+CANE
+Attack: 4
+Bonus: None
+Price: 250
+Location: Bought in Altea
+
+MACE
+Attack: 9
+Bonus: None
+Price: 500
+Location: Bought in Palm/Poft
+
+MITHRIL
+Attack: 16
+Bonus: None
+Price: 1500
+Location: Bought in Altea (after Tobul receives Mithril)
+
+WERE
+Attack: 28
+Bonus: None
+Price: 3000
+Location: Bought in Phin
+
+MAGIC
+Attack: 40
+Bonus: Casts Bolt5 when used as an item in battle
+Price: 5000
+Location: Found in the Dist Cave
+
+POWER
+Attack: 53
+Bonus: None
+Price: 8000
+Location: Bought in Mysidia
+
+EVIL
+Attack: 64
+Bonus: Casts Aero16 when used as an item in battle.  The Evil Cane's
+Aero16 does not necessarily hit a foe. It can hit a party member, a foe,
+or any character in the game.  When it does hit someone not even in the
+fight, there is no effect.
+Price: 10000
+Location: Found in the Tower of Mysidia, Won from T.Gigas
+
+GREED
+Attack: 78
+Bonus: Drains the target's MP at times.
+Price: 12000
+Location: Found in Paramekia
+
+DIAMOND
+Attack: 90
+Bonus: None
+Price: 15000
+Location: Found in Jade
+
+
+------->JAVELINS<--------
+
+JAVELIN
+Attack: 6
+Bonus: None
+Price: 300
+Location: Bought in Altea/Gatea
+
+SPEAR
+Attack: 11
+Bonus: None
+Price: 500
+Location: Bought in Bofsk
+
+MITHRIL
+Attack: 18
+Bonus: None
+Price: 1500
+Location: Bought in Altea/Poft (after Tobul receives the Mithril)
+
+TRIDENT
+Attack: 30
+Bonus: None
+Price: 5000
+Location: Bought in Phin
+
+DEMON
+Attack: 42
+Bonus: None
+Price: 10000
+Location: Bought at the Black Mask Village
+
+FLAME
+Attack:54
+Bonus: Very effective against Ice based foes.
+Price: 15000
+Location: Bought in Mysidia
+
+ICE
+Attack: 66
+Bonus: Very effective against Fire based foes.
+Price: 20000
+Location: Found in the Tower of Mysidia
+
+BOLT
+Attack: 78
+Bonus: Very effective against Poison based creatures.  Casts Bolt16 when
+used as an item in battle.
+Price: 30000
+Location: Found in Paramekia, Won from DthRiders
+
+HOLY
+Attack: 90
+Bonus: Casts Holy8 when used as an item in battle, but then is destroyed.
+Price: 40000
+Location: Found in Jade, Won from B.Dragons or R.Dragons
+
+------->KNIVES<--------
+
+KNIFE
+Attack: 3
+Bonus: None
+Price: 150
+Location: Bought in Altea
+
+DAGGER
+Attack: 7
+Hit%: -15%
+Bonus: None
+Price: 400
+Location: Bought in Poft/Bofsk
+
+MITHRIL
+Attack: 14
+Bonus: None
+Price: 800
+Location: Bought in Altea (after Tobul receives the Mithril)
+
+GOUCHE
+Attack: 32
+Bonus: None
+Price: 1500
+Location: Found in the Warship
+
+ORHACON
+Attack: 50
+Bonus: None
+Price: 3000
+Location: Found in the Catacombs
+
+RIPPER
+Attack: 62
+Bonus: None
+Price: 8000
+Location: Found in the Whirlwind
+
+CATCLAW
+Attack: 86
+Bonus: None
+Price: 12000
+Location: Found in Jade
+
+------->SWORDS<--------
+
+BLOOD
+Attack: 0
+Bonus: Drains the enemy's hp, giving the HP to the user.  Incredibly
+effective against MegaBehemoths and the final boss.
+Price: 8000
+Location: Found in the Catacombs, Found in Paul's storage area
+
+BROAD
+Attack: 8
+Hit%: -20%
+Bonus: None
+Price: 400
+Location: Bought in Altea
+
+LONG
+Attack: 13
+Hit%: -30%
+Bonus: None
+Price: 600
+Location: Bought in Bofsk/Salamando.  Found in Bofsk Sewers.
+
+MITHRIL
+Attack: 20
+Hit%: -30%
+Bonus: None
+Price: 1800
+Location: Bought in Altea/Palm/Poft (after Tobul receives Mithril)
+
+ANCIENT
+Attack: 25
+Bonus: Adds Curse status to the target
+Price: 2500
+Location: Found in the Snow Cave
+
+SLEEP
+Attack: 30
+Bonus: Puts the enemy to Sleep.
+Price: 4000
+Location: Found in the Warship
+
+WINGED
+Attack: 42
+Bonus: None
+Price: 5000
+Location: Bought in Phin
+
+EARTH
+Attack: 52
+Bonus: None
+Price: 10000
+Location: Found in Leviathan
+
+FLAME
+Attack: 63
+Bonus: Very effective against Ice based monsters.
+Price: 10000
+Location: Found in the Tower of Mysida, Won from the F.Gigas
+
+ICE
+Attack: 72
+Bonus: Very effective against Fire based monsters.
+Price: 8000
+Location: Found in the Tower of Mysidia, Won from the I.Gigas
+
+DEFENSE
+Attack: 78
+Bonus: None
+Price: 20000
+Location: Found in the Whirlwind
+
+SUN
+Attack: 83
+Bonus: None
+Price: 25000
+Location: Found in Paramekia
+
+XCALIBR
+Attack: 100
+Bonus: None
+Price: 130000
+Location: After Richard's death at Paramekia, talk to Elina in the Castle
+of Dist.  Tell her "Dragoon" to recieve the sword. Dropped by Giants.
+
+MASMUNE
+Attack: 150
+Bonus: Casts Hast11 on the party when used as an item in battle.
+Price: 80000
+Location: Found in Pandemonium
+
+-------------------------------------------------------------------------
+V.) SHIELDS <explanation courtesy of Alex Jackson>
+-------------------------------------------------------------------------
+
+Shields level up like weapons do, but function in an entirely different
+way. Shields play a large role in determing evasion capabilities.  Each
+shield has a raw evade rating, which is listed below.  The shield's total
+contribution to your evade rating is (level of shield)(raw evade rating).
+Fore example, if you have a level 16 Aegis Shield, its total contribution
+towards your evade would be 16x20%, which is 320% (listed as 99%).
+
+BUCKLER
+Raw Evade Rating: 8%
+Bonus: None
+Price: 50
+Location: Bought in Altea/Gatea
+
+BRONZE
+Raw Evade Rating: 10%
+Bonus: None
+Price: 200
+Location: Bought in Palm/Poft
+
+MITHRIL
+Raw Evade Rating: 12%
+Bonus: None
+Price: 500
+Location: Bought in Altea (after Tobul recieves Mithril)
+
+GOLD
+Raw Evade Rating: 14%
+Bonus: Added strength against Aero, Mist, and other poison based attacks.
+Price: 1000
+Location: Bought in Phin
+
+ICE
+Raw Evade Rating: 14%
+Bonus: Added strength against Fire based attacks.
+Price: 5000
+Location: Bought in Mysidia, Found in the Warship
+
+FLAME
+Raw Evade Rating: 14%
+Bonus: Added strength against Ice based attacks.
+Price: 5000
+Location: Found in the Catacombs
+
+DIAMOND
+Raw Evade Rating: 14%
+Bonus: Added strength against Bolt based attacks.
+Price: 8000
+Location: Found in Leviathan
+
+DRAGON
+Raw Evade Rating: 18%
+Bonus: None
+Price: 15000
+Location: Won from R.Dragon.  If you can't get it in Jade, fight the
+R.Dragon again in the Masmune Room or Astral Plane.
+
+AEGIS
+Raw Evade Rating: 20%
+Bonus: Decreases chance of getting petrified.
+Price: 40000
+Location: Found in Jade
+
+-------------------------------------------------------------------------
+VI.) MAGIC
+-------------------------------------------------------------------------
+
+-------->BLACK MAGIC<--------
+
+Black magic is empowered by its caster's intelligence, and thus is more
+Powerful for characters with high Int.  Black magic is generally
+classified as attack and status ailment magic, but there are some support
+black magic spells.  You can identify black magic by the purplish-color
+orb that appears when you cast it.
+
+AERO
+Description: Causes poison damage to the target.  Very effective against
+bolt-base enemies, such as the T.Gigas and B.Dragon.
+Price: 2000
+Location: Found in the Black Mask Cave
+
+ASPIL
+Description: Drains MP.  Useful agains M.Suckers in Jade, if they get to
+you first.
+Price: 15000
+Location: Found in the Mysidian Cave
+
+AURA
+Description: Changes the color of the target, thus giving them special
+attributes.  See special magic and theory on Aura.
+Price: 15000
+Location: Found in Phin Castle
+
+BERSERK
+Description: If the target is a foe, then the foe will only attack,
+abandoning magic.  If the target is an ally, that ally recieves a boost in
+strength.
+Price: 10000
+Location: Jade
+
+BLIND
+Description: Causes darkness status, thus lowering hit%.
+Price: 4000
+Location: Found in the Black Mask Cave
+
+BOLT
+Description: Causes thunder/lightning/sky damage.  Effective against
+poison based enemies, like Mallows and the G.Dragon.
+Price: 400
+Location: Bought in Altea
+
+BREAK
+Description: Causes Stone status to the target
+Price: 10000
+Location: Found in Phin Castle
+
+CHARM
+Description: Causes confusion
+Price: 10000
+Location: Won from Sorcerer, Wizard, F.Gigas
+
+CURSE
+Description: Causes curse status to the target
+Price: 8000
+Location: Found in the Castle of Dist.
+
+DEATH
+Description: Kills the target.
+Price: 10000
+Location: Bought in Jade
+
+FIRE
+Description: Causes fire damage.  Effective (obviously!) against ice
+based creatures, like the I.Gigas, and the Dragon.
+Price: 400
+Location: Bought in Altea
+
+FLARE
+Description: Causes damage (not sure if its Fire damage, I think it is).
+Price: 40000
+Location: Bought in Jade, Found in the Tower of Mysidia
+
+HASTE
+Description: Allows the target to hit more times.
+Price: 20000
+Location: Bought in Jade, Won from Sorcerer and Wizard enemies.
+
+ICE
+Description: Deals ice damage to the enemies.  Effective against fire
+based creatures (of course), like F.Gigas and R.Dragon.
+Price: 400
+Location: Bought in Altea
+
+SLEEP
+Description: Causes the target to 'sleep.'
+Price: 8000
+Location: Found in the Black Mask Cave.
+
+STONE
+Description: Causes the target to turn to Stone (stone status).
+Price: 8000
+Location: Found in the Castle of Dist.
+
+STOP
+Description: Ceases the target's ability to act.
+Price: 8000
+Location: Found in the Castle of Dist.
+
+TOAD
+Description: Causes Toad status to the target.
+Price: 10000
+Location: Found in Phin Castle.
+
+-------->WHITE MAGIC<--------
+
+White magic is cast from the soul, and thus will have more power for
+characters with high Soul ratings.  White magic is generally classified as
+support and healing magic, but can also cause damage.  White magic is
+identified by the green orb that appears when you cast it.
+
+ANTI
+Description: Removes targets MP
+Price: 1500
+Location: Bought in Salamando
+
+BARRIER
+Description: Provides defensive boosts, see special magic section.
+Price: 8000
+Location: Bought in Mysidia
+
+BLINK
+Description: Raises evade %
+Price: 400
+Location: Bought in Palm/Poft
+
+CHANGE
+Description: Switches HP/MP with target.  Extremely useful spell.
+Price: 8000
+Location: Bought in Mysidia
+
+CURE
+Description: Restores HP
+Price: 200
+Location: Bought in Altea/Palm/Poft
+
+DISPEL
+Description: Removes target's defenses.  See special magic section.
+Price: 3000
+Location: Bought in Phin
+
+EXIT
+Description: Kills the target in battle.  When used in a dungeon, it warps
+you to the exit, at the cost of HP.
+Price: 1500
+Location: Bought in Salamando
+
+FEAR
+Description: Increases the chance that your enemies will flee from battle.
+Price: 800
+Location: Bought in Bofsk
+
+FOG
+Description: Causes 'Dumb' status to the target.
+Price: 3000
+Location: Bought in Phin
+
+HEAL
+Description: Removes status ailments as level progresses.  See special
+magic section.
+Price: 800
+Location: Bought in Bofsk
+
+HOLY
+Description: Causes massive damage to the enemy.
+Price: 20000
+Location: Bought in Mysidia
+
+LIFE
+Description: Revives the target.  Works poorly until level 3 or 4.
+Price: 1500
+Location: Bought in Salamando
+
+MINI
+Description: Lowers the attack and defense of the target by imposing mini
+status.
+Price: 3000
+Location: Bought in Phin
+
+MUTE
+Description: Causes "Silence" status to the target.
+Price: 800
+Location: Bought in Phin
+
+PEEP
+Description: Increases the chance of a succesful 'run' attempt.
+Price: 800
+Location: Bought in Bofsk
+
+SAFE
+Description: Increases defense from physical attacks.
+Price: 400
+Location: Bought in Palm/Poft
+
+SHELL
+Description: Increases magic defense.
+Price: 400
+Location: Bought in Palm/Poft
+
+SLOW
+Description: Lowers the number of hits that the target can make.
+Price: 3000
+Location: Bought in Phin
+
+ULTIMA
+Description: Causes damage.  Very powerful compared to other spells at
+lower levels, but is not much stronger at Lv.16 then Flar16 or Aero16.
+Price: 2
+Location: Found in the Tower of Mysidia
+
+WALL
+Description: Nullifies magical attacks.
+Price: 8000
+Location: Bought in Mysidia
+
+X-ZONE
+Description: Removes foe from battle.  If it's used on the field, it takes
+you one floor closer to the exit of the dungeon.
+Price: 1500
+Location: Bought in Salamando
+
+-------->ENEMY MAGIC<--------
+
+Some forms of magic can only be used by enemies.  These are listed below.
+
+BLAST
+Caster: Krull
+Description: Causes Hold status.
+
+BOW
+Caster: Imperial Class enemies, DesAngel
+Description: Causes physical damage.  Basically an attack that can be used
+from the back row.
+
+EXPLODE
+Caster: Bomb Class enemies
+Description: Sacrifices all HP to damage the target.  Used only when the
+Bomb class enemy is provoked (i.e. attacked).
+
+GAZE
+Caster: Basilisk, Coctrice
+Description: Causes Stone.
+
+METEO
+Caster: Emperor
+Description: Causes damage to the party.
+
+ROCK
+Caster: Gigas class enemies
+Description: Causes physical damage.
+
+WAVE
+Caster: SeaDrgn
+Description: Causes ice damage.
+
+WINK
+Caster: Lamia Class
+Description: Causes confusion.
+
+-------->SPECIAL MAGIC<--------
+
+The spells Aura, Heal, Barrier, and Dispel gain new abilities for each
+level they gain.  Barrier level 16, for example, will offer Ice, Crt. Hit,
+Posion, Death, Bolt, Soul, and Fire Defense, while Barrier level 1 will
+only offer Ice defense.  Below is a list of this progression.
+
+LEVEL:  AURA         HEAL              BARRIER          DISPEL
+1       White Aura   Rmvs Dark/Poison  Ice Def    				  Ice defense down
+2       Yellow Aura  Rmvs Curse        Critical Hit Def Body defense down
+3       Green Aura   Rmvs Dumb         Poison Def       Poison defense down
+4       Black Aura   Rmvs Toad         Death Def        Prot defense down
+5       Blue Aura    Rmvs Stone        Bolt Def         Bolt defense down
+6       Orange Aura  Rmvs Death        Soul Def         Soul defense down
+7       Red Aura                       Fire Def         Fire defense down
+8                                                       Change defense down
+
+-------->THEORY ON AURA<--------
+
+Below is my theory on how Aura works.  As Aura gains levels, it changes
+your character's color.  Below are what I think the colors do (you may
+notice that they corrolate with the levels of Barrier/Dispel):
+
+White Aura: Turns a character white, giving them Ice elemental attack.
+
+Yellow Aura: Turns a character yellow, giving them more Critical Hit
+chance.
+
+Green Aura: Turns a character green, giving them Poison status attack.
+
+Black Aura: Turns a character black, giving them Death status attack.
+
+Blue Aura: Turns a character blue, giving them Bolt elemental attack.
+
+Orange Aura: Turns a character orange, giving them Soul elemental attack.
+
+Red Aura: Turns a character red, giving them Fire elemental attack.
+
+-------------------------------------------------------------------------
+VII.) ITEMS
+-------------------------------------------------------------------------
+A.) Store-Bought Items
+-------------------------------------------------------------------------
+All item stores sell the same items, with the notable exception of the
+Mask Village.  The following items can be bought in stores.
+
+ITEM:       COST:  FUNCTION:
+Antidote    200    Removes Poison
+Cottage     5000   Used on the World Map to heal all MP and HP of the Party
+Crucifix    1000   Removes Curse
+EarthDrm*   8000   Casts Quake1 on all foes
+EchoScbn    2000   Removes Mute/Dumb
+Elixir      50000  Restores all HP and MP for a single character
+Ether       2500   Recovers MP
+EyeDrop     100    Removes Dark
+FenixDn     5000   Removes Death
+G.Needle    2500   Removes Stone
+MaidKiss    2500   Removes Frog
+Potion      50     Recovers HP (Cure1)
+XPotion     500    Recovers HP (Cure3)
+*The EarthDrm can only be bought at the Mask Village.
+
+-------------------------------------------------------------------------
+B.) Battle Items
+-------------------------------------------------------------------------
+Many of the items you'll find can only be used in battle.  These items
+either function as support or attack items.  All store bought items can be
+used in battle as well.  The listed locations are the first places that
+you can find the items.
+
+ITEM:       COST:     LOCATION:           FUNCTION:
+Bacchus     600       Won from Gotus      Raises attack power
+DeathGod    8000      B.Mask Cave         Casts Fear10 on all foes
+DrgnBean    600       Dist Cave           Casts Mist16 on all foes
+EarthDrm*   8000      Mask Village        Casts Quake1 on all foes
+Eggtimer*   600       Tower of Mysidia    Casts Stop8 on all foes
+ElderIQ     10000     Dist                Increases Intelligence
+Fang        1000      Catacombs           Casts Chrm16 on all foes
+Garlic      100       Josef               Damages the enemies
+Heart       10000     Dist                Increases Soul
+HellFire    300       Paramekia           Casts Fire5 on all foes
+Hiryuu**    N/A       Phin                Casts Fire7 on all foes
+IceScyth    500       Ming-Wu                Casts Shel16 on user
+IceWind     1000      Snow Cave           Casts Ice16 on all foes
+Mirror      1000      Dist Cave           Casts Wall16 on user
+Shoes       800       Tower of Mysidia    Casts Hast8 on user
+SilentB     3000      Mysidian Cave       Casts Mute16 on all foes
+Thread      500       Catacombs           Casts Slow9 on all foes
+Unicorn     1000      Dist Cave           Casts Peep16 on the party
+Valium      800       B.Mask Cave         Casts Slep16 on all foes
+WindFlut*   8000      Whirlwind           Casts Tnad13 on all foes
+*These items can be used more than once.
+**The Hiryuu Flyte has infinite uses.
+
+-------------------------------------------------------------------------
+C.) Key Items
+-------------------------------------------------------------------------
+Throughout your quest you'll find several key items that you can't sell or
+discard. These items are necessary to further the plot, and may also have
+important secondary uses.
+
+ITEM:              FUNCTION:
+B.Mask             One of three items needed to unseal the Tower of Mysidia
+Canoe              Allows you to cross or journey on rivers
+CrystRod           One of three items needed to unseal the Tower of Mysidia
+Egg                Hatches a Hiryuu
+EgilTrch           Allows you to carry the SunFlame
+G.Bell             Allows you to unseal Kashuon
+Hiryuu             Allows you to ride the Hiryuu to enter the Whirlwind*
+Mithril            Allows weapon and armor shops to make Mithril equipment
+Pass               Allows you to board the Warship
+Pendant            Allows you to speak with Hiryuus
+Ring               Allows you to see the World Map, progresses the quest
+SunFlame           Allows you to destroy the Warship
+W.Mask             One of three items needed to unseal the Tower of Mysidia
+*The Hiryuu Flute need not be used to call the Hiryuu; if you have it in
+your inventory, a Hiryuu will come when you need it.
+
+-------------------------------------------------------------------------
+VIII.) CHARACTERS
+-------------------------------------------------------------------------
+A.) Party Members
+-------------------------------------------------------------------------
+
+Frioniel: The hero of Final Fantasy II, he escapes from Phin with his
+friends Maria, Guy, and Leonheart.
+
+Maria: Frioniel's friend and Leonheart's sister.
+
+Guy: Frioniel's friend.
+
+Ming-Wu: A talented magician in the service of Phin, Ming-Wu is the first person
+to join your party on your quest to retrieve the Mithril.
+
+Josef: The mayor of Salamando, Josef is very familiar with his
+surroundings. He hates the empire and would gladly help you crush them,
+but unfortunately his daughter Nelly has been captured by the Empire.
+
+Gordon: The Prince of Kashuon and Scott's younger brother, Gordon is a
+coward who does not believe in his abilities.  Perhaps he will be given a
+chance to prove his worth one day.
+
+Raila: A pirate who beguiles travelers into thinking she is a ferryman,
+Raila is a good friend and loyal to her allies.
+
+Richard: The last surviving Dragoon of Dist, Richard set out to find the
+spell Ultima and crush the Empire.
+
+Leonheart: Frioniel's friend and Maria's brother, Leonheart wasn't found
+after your party was ambushed while escaping Phin.  Much later in the
+game, he returns to aid you in the final battle.
+
+-------------------------------------------------------------------------
+B.) Allies
+-------------------------------------------------------------------------
+These characters will help you throughout your quest, giving you items or
+advice.
+
+Hilda: The Princess of Phin, Hilda took over the Rebellion after the King
+was mortally wounded during the Rebel's flight from Phin. She usually
+provides you with information for your next quest.
+
+The King: The King of Phin stood up to the Emperor by organizing a
+Rebellion. The Rebels were betrayed and Phin was lost, and during the
+Empire's attack on Phin the King was mortally injured.  He still can give
+your party Valuable information on what your next task is.
+
+Scott: The Prince of Kashuon and Hilda's fiance, Scott was also injured
+when the Empire attacked Phin but was unable to escape.  Rumor has it that
+he's still hiding in Phin.
+
+Tobul: The Rebellion's blacksmith, Tobul is greatly skilled.  He can make
+you great weapons and armor provided he has the Mithril.
+
+Cid: The Captain of Phin's White Knights, Cid is also a greatly skilled
+engineer.  He manufactured an Airship, which he now sells charter flights
+for.
+
+Paul: A master thief who only steals for the Empire.  He always returns
+favors, so if you help him he'll help you.
+
+Nelly: Josef's daughter.
+
+Beaver Chieftain: He helps you find the Goddess Bell.
+
+Elina: The husband of Richard's best friend, she and her son were the
+only survivors of the Empire's attack on Dist.  She'll give you
+information on your quest to find the Hiryuu.
+
+-------------------------------------------------------------------------
+C.) Foes
+-------------------------------------------------------------------------
+
+These characters work for the Empire of Paramekia, a power-hungry nation
+that seeks to dominate the world.  But is that all the fiendish empire
+wants?
+
+General Borgan: Once a Duke of Phin, he betrayed the Rebels in exchange
+for the position of Imperial General.
+
+Commander Gotus: The Imperial Commander who captured Phin.
+
+The Dark Knight: The Emperor's right hand, the Dark Knight appeared
+shortly after the conquest of Phin and began to enforce his emperor's will
+upon the captured citizens of Bofsk.
+
+The Emperor: The Emperor of Paramekia, who seeks to dominate the world. He
+opened the gates of hell and summoned monsters to crush the rebellion. But
+is power his only goal, or is something else in store for the world?
+
+-------------------------------------------------------------------------
+IX.) KEYWORDS
+-------------------------------------------------------------------------
+Throughout the course of FFII, you'll need to learn several keywords to
+further the plot and/or gather information about the next quest.  Listed
+below are the keywords in order of appearance.
+
+KEYWORD:           LOCATION:
+Wild Rose          Hilda, in Altea
+Mithril            Hilda, in Altea
+Warship            Hilda, in Altea
+Airship            Hilda, in Altea
+SunFlame           Cid, in Poft
+Goddess Bell       King, in Altea
+Dragoon            Gordon, in Altea
+Hiryuu             Gordon, in Altea
+Mysidia            Hilda, in Altea
+Ultima             Hilda, in Altea
+Mask               Hilda, in Altea
+Ekume              Hilda, in Altea
+Whirlwind          Hilda, in Altea
+Jade               Hilda, in Altea
+
+-------------------------------------------------------------------------
+X.) STATISTICS
+-------------------------------------------------------------------------
+There are two kinds of statistics in FFII, raw statistics and function
+statistics. They are listed below.  For more information, see the Building
+Your Characters and Tricks sections.
+
+-------------------------------------------------------------------------
+A.) Raw Statistics
+-------------------------------------------------------------------------
+
+Agl: Agility determines how fast a character completes an action and
+Determines evasion. It can be increased by evading attacks (i.e. equipping
+a shield).
+
+Hit Points: Hit Points determine the amount of damage a character can take
+before dying.  They are increased by losing over 1/2 your HP in a battle.
+
+Int: Intelligence determines the power of black magic spells.  To raise
+it, simply cast a black magic spell several times in one fight (5-100
+times, depending on the enemy and the magic's skill level).
+
+Magic Points: Magic Points determine the number of magic spells a
+character can cast.  They are increased by losing over 1/2 your MP in a
+battle.
+
+M.Pwr: Magic Power determines the amount of Magic Points gained after a
+battle, provided that the criteria outlined above has been met.
+
+Magic Skill Level: The amount of damage that a spell does and its
+effectiveness is determined by the spell's magic skill level.  To raise it
+one level, cast the spell 100 times.
+
+Pwr: Power determines the amount of damage a characters physical attacks
+will do.  To increase Pwr, attack several times in a battle (from 5-100
+times, depending on the enemy and weapon skill level).  Frequently, an
+increase in weapon level comes hand in hand.
+
+Soul: Soul determines the power of white magic spells.  To raise Soul,
+cast white magic several times in one fight (5-100 times, depending on the
+enemy and the magic's skill level).  It frequently increases with a Cane
+Weapon level up.
+
+Vit: Vitality determines HP gains and M. Pwr.  To raise Vit, lose a lot of
+HP in a fight.
+
+Weapon Skill: This determines the amount of hits that your weapon
+inflicts.
+
+-------------------------------------------------------------------------
+B.) Function Statistics
+-------------------------------------------------------------------------
+
+Att: Attack determines the amount of damage your character can inflict on
+An enemy.
+
+Def: Defense determines the amount of damage an enemy's physical attack
+can do to you.
+
+Evad: Evade determines your ability to dodge an enemy's physical attack.
+
+Hit %: Hit Percent determines the chance that your attack will hit the
+enemy. The left number represents how many hits you can make, and the
+right Number represents the chance that they will connect.
+
+M.Def: Magic Defense determines your ability to resist Magic.  It is
+affected by vitality and magic power.  The left number represents how many
+magical attacks will be ineffective (in a given battle) and the right
+number determines the chance of evading those magical attacks.
+
+-------------------------------------------------------------------------
+XI.) FORMULAE
+-------------------------------------------------------------------------
+
+There are several important formulae in this game.  Here is a partial list
+of them.
+
+Inn Price: (.25)H + M
+H: HP lost
+M: MP lost
+
+Weapon Skill Points gained: U-L+X
+U is the number of times the weapon is used
+L is the level of the weapon
+X is a pre-determined constant for a set of monsters [See bestiary]
+
+Evade Rate: Agl + (R)(x) + (L)(y) - A
+R is the evade rate of the right hand weapon
+L is the evade rate of the left hand weapon
+x is the skill level of the right hand weapon
+y is the skill level of the left hand weapon.
+A is the sum of the evade rates of the armor the character has.
+
+Hit% = (Power+80) + W
+W is the raw weapon hit % (I've yet to get all of this data, but I'm
+pretty sure this formula is right).
+
+-------------------------------------------------------------------------
+XII.) SECRETS/TRICKS/MISC
+-------------------------------------------------------------------------
+A.) Change Trick
+-------------------------------------------------------------------------
+
+Change is the most powerful spell in the game.  Level it up as soon as you
+can To level 5 or higher.  Then, begin to cast it on weak enemies like
+Goblins. The point?  Well, a Goblin has 6 HP and 0 MP.  Switching stats
+with one will cause HP, VIT, SOUL, MP, and M. PWR increases.  IMHO, this
+is MUCH more effective then beating up your own characters.
+
+-------------------------------------------------------------------------
+B.) Weapons/Magic Skills Made Easy
+-------------------------------------------------------------------------
+
+Weapon and Magic Skill points are awarded each time you select a target to
+attack or each time you select a target to cast magic on.  So, if you
+select Fight, pick a target, cancel, and repeat, you'll gain 1 (A) point.
+The same goes with magic. Each enemy will give you a certain number of (B)
+points per attack made on them.  The number of (B) points acquired in
+relation to your (A) points determines how many skill points you get after
+the fight. The moral? Weapons will easily level to 4, stay stagnant, then
+level up to 2, stay stagnant, then level up to 16.  So, whenever you sense
+the monsters will give you skill points, simply pull the trick 100 times
+to get a skill level. *Note: By going to advanced dungeons early, you may
+get slightly higher sword levels then suggested above.*
+
+-------------------------------------------------------------------------
+C.) Blood Sword <Courtesy of Yoichi>
+-------------------------------------------------------------------------
+
+There are two Blood Swords in Final Fantasy 2.  Blood Swords have 0 attack
+power, and are useless for the majority of the game.  However, the Blood
+Swords do incredible amounts of damage to the final boss. I've killed the
+last boss in one hit with the Blood Sword, so it's a good idea to keep
+both Blood Swords ready for the last foe.
+
+-------------------------------------------------------------------------
+D.) Mysidia's Bookcase
+-------------------------------------------------------------------------
+
+The northeastern book case in the southwestern Mysidian house (wow that
+sounds weird) contains a book case that holds some interesting
+information. It responds to many keywords, giving you the background
+information on SunFlame, Goddess Bell, etc.  They are listed below: Jade:
+When Pandemonium First terrorized our land, demons used Jade as a transit
+between worlds.
+
+Mask: Both masks will be utilized on the path to finding the Rod of
+legend. The White Mask's destiny lies with a maiden of solid stone...Black
+with the likeness of a drone.
+
+Ultima: Long ago, the sacred mages created a strong spell to contain
+Pandemonium.  They sealed the ultimate magic in a giant tower, fearing its
+power afterwards.
+
+Mysidia: Mages from long ago knew the power of Ultima.  The magic they
+created was so strong, they feared they themselves would ruin the world by
+fighting over its power.  So they formed Mysidia as a haven and migrated
+there in peace.
+
+Hiryuu: Hiryuus were trained to fight for the Dragoons.  They can carry
+many people and items.
+
+Dragoon: The tower of Dist used to be a den of Hiryuus.  One Knight by the
+name of Haan spent 30 years to retain friendship with the Hiryuus. He
+became the first Dragoon.
+
+Goddess Bell: Long ago, a wealthy king ordered an unbreakable lock,
+because his treasure had often been stolen.  The first lock was broken in
+a day.  The second lock was broken in two days.  But, the third lock was
+never broken.  The King hid the only known key, now known as the Goddess
+Bell, deep within an icy cave.  The Bell's sweet sound can open any lock.
+
+Sun Flame: In a time before castles or countries a star fell upon the land
+where Kashuon exists now.  One man harnessed the burning core of the star.
+He created an altar and worshipped it there.  As humanity progressed, a
+castle was built around it as a sign of power.
+
+Airship: Such is the way technology flows...If society keeps progressing,
+magic will one day die out.
+
+Mithril: This magical metal can be found deep within the earth.
+
+-------------------------------------------------------------------------
+E.) FFII in FFIX!?
+-------------------------------------------------------------------------
+
+1.) The Story of Joseph <Courtesy of Bob the Almighty> At one point in
+FFIX, you'll have to piece together the Story of Joseph. Here it is:
+
+"Beginning: Once upon a time, 33 small countries fought together against
+an empire. One day, a rebel troop visited a man named Joseph, who lived
+this his daughter. Owing a debt to the troop, he gladly accepted their
+plea for help. They headed for a cavern in the snow field.
+
+Cooperation: With Joseph's help, the troop defeated the Adamantoise in the
+snow field cavern and acquired the Goddess Bell they needed to enter the
+empire's castle.
+
+Silence: On their way home, they fell into a trap set by a traitor. Joseph
+gave his life to save the troop. The troop left without telling Joseph's
+daughter, Nelly, about the tragedy.
+
+Historian's explanation (Hero): Although Joseph's death was not reported
+to his daughter, the manner of his death speaks for itself. This is the
+story of a true hero.
+
+Historian's explanation (Human): The fact that they didn't report Joseph's
+death to his daughter was indicative of their guilt for failing to protect
+him. In the end, heroes are also human." ****** Hero outcome: Ramuh: Let
+me ask you one thing... How come you chose 'Hero' for the conclusion?
+
+Garnet: People follow a person who keeps on track. That's why I think a
+hero who acts in a straightforward manor is remembered for generations.
+
+Ramuh: ...I want to know what you think, in your own words.
+
+Garnet: Me...? I ran away from my country, but I haven't forgotten about
+my people...
+
+Ramuh: ...Your soul is very tense right now. Maybe you'll begin to relax
+once I become your eidolon...
+
+Garnet: Thank you.
+
+Ramuh: There are many paths. Remember that you alone choose the path on
+which you walk. ***** Human outcome: Ramuh: Let me ask you one thing...
+How come you chose 'Human' for the conclusion?
+
+Garnet: People pass down stories of other people to whom they feel an
+affinity. The people in the story had flaws, as we all do. That is why
+they became heroes in the people's mind.
+
+Ramuh: ...I want to know what you think, in your own words.
+
+Garnet: Me...? I ran away from my country, but I haven't forgotten about
+my people...
+
+Ramuh: ...Your soul is very tense right now. Maybe you'll begin to relax
+once I become your eidolon...
+
+Garnet: Thank you.
+
+Ramuh: There are many paths. Remember that you alone choose the path on
+which you walk."-FFIX
+
+2.) Ming-Wu <Courtesy of Bob the Almighty>
+
+There, that was pretty interesting, eh? But there is another interesting
+reference to FFII in IX. In Gizamaluke's Grotto, you can obtain the Holy
+Bell Key Item (which in itself is similar to the Goddess Bell).  If you
+look at the text on the bell, you'll see this quote from Philosopher Minu
+(Minu being a translation of Ming-Wu): "We seek the meaning of life
+because we are mortal."
+
+-------------------------------------------------------------------------
+F.) LIGHT WARRIORS
+-------------------------------------------------------------------------
+
+After capturing Phin from Commander Gotus, take a trip around the town.
+One person will say: "WARRIORS, REVIVE THE POWER OF THE ORBS!", a quote
+from Final Fantasy.  Guy'll tell him to shut up afterwards.  He disappears
+after the Whirlwind incident.
+
+-------------------------------------------------------------------------
+G.) PENINSULA SOUTH OF ALTEA
+-------------------------------------------------------------------------
+
+Just like Final Fantasy's 'Peninsula Northeast of Pravoka', FFII has an
+area early in the game where powerful monsters appear.  If you walk
+directly south of Altea until you reach the tip of the peninsula, and then
+walk around.  You can face advanced Mysidian enemies, like Puddings,
+Mallows, and Brains here, which is a good way to build up your weapon
+levels, if you survive.
+
+-------------------------------------------------------------------------
+H.) MASMUNE ROOM/ASTRAL PLANE
+-------------------------------------------------------------------------
+
+Both of these areas are home to some tough enemies (the Astral Plane is
+the final floor of Pandemonium). This is a good place to go hunting for
+extra suits of Dragon Armor and extra Dragon Shields. You may also luck
+out and get a Yoichi Bow from the MegaBehemoths lurking around.  If you
+want to be optimally equipped, and missed the Dragon Armor or Shield, this
+is the only way to get extra sets.
+
+-------------------------------------------------------------------------
+I.) GIANTS
+-------------------------------------------------------------------------
+
+Giants are probably the rarest enemy in the game, but they also have the
+best equipment to drop.  They are located on the orange floor of
+Pandemonium castle, in the northeast courtyard.  They appear relatively
+often if you hang around in that area, but I've never fought them
+elsewhere (even on that floor).  Giants usually attack for about 500-1500
+damage, then run away.  Occasionally, they'll use Mist16 on the whole
+party.  The real secret is that when you beat them, they drop all three
+Genji Armors and XCaliburs (not in the same battle, obviously).
+Basically, if you want to get the best stuff in the game, kill these guys.
+
+-------------------------------------------------------------------------
+XIII.) FAQ
+-------------------------------------------------------------------------
+
+Here you'll find answers to frequently asked questions. They are basically
+paraphrased versions of emails I receive or questions that I bet I'll
+recieve.
+
+Q. Can I change the order of the characters? Like switch Guy with Frioniel?
+A. No, you can only change their row.
+
+Q. What's the deal with magic!? Ultima sucks, I mean, what the hell? I
+take the trouble to level it up to max, and it deals 500 damage?  Geez.
+A. The only times i really recommend leveling up spells are: Aero for the
+T.Gigas (before the Tower of Mysidia), Change for stat-building, and Heal
+for the annoying status effects before/in the Tower of Mysidia. Though
+having the high level elemental spells can come in handy too; Fire8 at the
+I.Gigas or Dragon, Bolt8 at the G.Dragon, and Ice8 at the F.Gigas and
+R.Dragon. Haste is an awesome spell but you'll eventually get the Masmune
+which has Hast11. Berserk is good but the Yoichi Bow has Berserk3, and
+Flare or Holy are not really worth it.  As you said, they deal max 500-900
+damage to enemies where you'd think magic could help.
+
+Q. What's going on with those battle items? They suck worse than magic!
+A. Yeah, battle items are definitely useless, with a few notable
+exceptions. Bacchus Wine is good, the Hiryuu Flute can be useful
+(infinite uses), and the high-level elemental attacks (Earth Drum, Wind
+Flute, Ice Wind) can come in usefull at some bosses.  The Eggtimer is only
+useful if you want to stop annoying enemies before they use spells like
+Death.  If I were you, i would sell all other battle items.
+
+Q. Hey, how come it says "Soul up" and "Pwr up" while I already have 99 of
+those attributes?
+A. It just does that...for really no apparent reason, I guess.  You may
+have noticed weapons level going up, even though you're already at 16.
+Same deal.
+
+Q. So you're telling me that only Swords, Axes, and Bows are useful as
+weapons?
+A. Yes=).  Despite the general uselessness of magic, you'll still need one
+powerful mage.  It's advisable that you keep that mage character in the
+back row, out of harms way.  Now, for them to attack, they need a bow.  As
+for Swords and Axes, they are the most powerful weapons in the game, and
+are fairly accurate.
+
+Q. How about Fists, Spears, Knives, and Canes?
+A. Canes are only good for their "as-item" uses, such as Aero16 from the
+Evil Cane.  Knives are the weakest of the weapons.  Spears are strong, but
+not stronger than axes or swords.  Knives just aren't very good. As for
+fists, you'll have a good hit% and high power, but, again, it's easier to
+attain high power through other weapons.
+
+Q. Is it possilbe to do a solo quest?
+A. Yes.  Once you gain control of your characters, give the Axe to
+Frioniel. Sell Guy and Maria's equipment, and get the Leather Helm for
+Frioniel. Kill Maria and Guy off in a battle, and don't revive them. The
+excess money you have should be used to buy Fire and Cure for Frioniel.
+Next, get his weapon skill level up to 3 or 4, the hard way.  In addition,
+you should shoot for Lv.2 Cure or Fire.  Proceed with the game until you
+get Ming-Wu. Give the Copper Armor to Frioniel, and sell everything else Ming-Wu
+has [kill Ming-Wu off in a battle].  Now comes the hard part.  Build up
+Frioniel's Hp to 200+ and his Mp to 50+, at least.  Buy both Bolt and Ice
+for Frioniel, and level them up to level 2.  Now, take the time to gather
+14400-15000 gil, which I guarantee will take a while, and buy at least
+8-10 potions (use the items spaces that the dead guys have for extra
+space).
+
+Head to Poft, where you can either fly to Kashuon for 400 gil or conserve
+money and make the long trek there.  From Kashuon, head to the Chocobo
+Forest and ride to Mysidia (southwest of Altea-quite a distance).
+
+Here, buy the Knight Armor, Thief Gauntlet, and Change spell for Frioniel.
+Sell his old armor.  The hardest part is making the trek, by foot, back to
+safety at Altea.  Blast Puddings with Fire and Mallows with Bolt.  Once
+there, cast Change on the Goblins, building your HP and MP greatly (you'll
+probably need change level 5+ for a 80%+ chance).  When you need to refill
+hp/mp, rest at the Inn (if you have financial trouble, try fighting harder
+enemies on the peninsula directly south of Altea).  Keep building
+Frioniel's HP/MP until he has over a 1000 or so HP and 100 MP.
+
+When you feel ready, beat up the enemies on the peninsula south of Altea
+for cash and weapon skill.  Once you get over 21000 gil, head back to
+Mysidia and buy the Ogre Axe and Ice Shield.  With the Ogre Axe in hand, you're
+set for a long time.  Use the Ogre Axe to garner cash you can use to rest
+at the inn while repeating the Change trick.  Use this trick until you are
+5000+ Hp and 500+ Mp.  With this, you're set for the game.
+
+My only suggestions for Jade/Pandemonium is to level up the Blood Sword to
+lv 10+ as soon as possible.  Also, only get the Masmune and potentially
+the Ribbon treasures. Yes, it will take a long time to get the initial
+21000 gil, and even more time to get a lot of HP, but then gradually less
+time to get more gil for the Ogre Axe/Ice Shield, and even less time
+breezing through the first half of the game, not even needing to get the
+treasures.
+-------------------------------------------------------------------------
+XIV.) BESTIARY
+-------------------------------------------------------------------------
+The reward section is not focused on gil, but on the items that monster
+may drop.  However, for some bosses, I included gil as well.
+
+100Eye
+HP: 1140
+MP: 300
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Chrm16, Slow16, Ston16
+Location: World Map (after Tower of Mysidia)
+
+AbysWorm
+HP: 1290
+MP: 370
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Tnad13
+Location: Jade
+
+Adamanti
+HP: 450
+MP: 0
+Attack Eff: None
+Weakness: Ice
+Reward: ???
+Special: None
+Location: Snow Cave, Kashuon, Dist, Catacombs
+
+Amoeba
+HP: 1140
+MP: 0
+Attack Eff: Poison
+Weakness: None
+Reward: ???
+Special: None
+Location: Paramekia, Jade
+
+Antlion
+HP: 370
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map (Deserts)
+
+Asteroth
+HP: 7000
+MP: 540
+Attack Eff: None
+Weakness: N/A
+Reward: 10000 gil
+Special: Aero16, Blnd16, Dran16, Fire16
+Location: Pandemonium
+
+Balloon
+HP: 20
+MP: 10
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Blast
+Location: Semite Cave, Bofsk Sewers, Snow Cave, Kashuon
+
+Basilisk
+HP: 750
+MP: 140
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Gaze
+Location: Tower of Mysidia
+
+B.Dragon [Bolt Dragon]
+HP: 3500
+MP: 240
+Attack Eff: None
+Weakness: Aero, Mist
+Reward: Dragon Armor, Fang, Holy Javelin, Evil Cane
+Special: Bolt16
+Location: Jade, Pandemonium
+
+Behemoth (Blue)
+HP: 1620
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Arena
+
+Behemoth (Yellow) [MegaBehemoth]
+HP: 5000
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: Power Armor, Power Gauntlet, Yoichi Bow, Spiral Helm, DeathGod
+Special: None
+Location: Jade, Pandemonium
+
+BigHorn
+HP: 1140
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Black Mask Cave, Tower of Mysidia
+
+Blade
+HP: 870
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: World Map (Paramekia Desert, Sea of Jade)
+
+Bomb
+HP: 640
+MP: 0
+Attack Eff: None
+Weakness: Bolt
+Reward: ???
+Special: Blast
+Location: Mysidian Cave, Tower of Mysidia, Whirlwind, Pandemonium
+X: 7
+
+Borgan
+HP: 240
+MP: 20
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Snow Cave
+
+Brain
+HP: 240
+MP: 100
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Chng4, Fog6
+Location: Catacombs, Mysidian Cave
+
+BstDemon [Beast Demon]
+HP: 1000
+MP: 140
+Attack Eff: Poison
+Weakness: N/A
+Reward: ???
+Special: Bolt10, Dspl16, Fog6, Stop8
+Location: Pandemonium
+X: 8
+
+Bucaneer
+HP: 80
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map (Seas)
+
+Captain
+HP: 750
+MP: 30
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Bow3 (ranged attack)
+Location: Phin Town, Arena, Phin Castle, Whirlwind, World Map
+
+Changer
+HP: 140
+MP: 80
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Change4
+Location: Catacombs, Mysidian Cave
+
+Chimera
+HP: 640
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Fire7
+Location: Dist Cave
+
+Coctrice
+HP: 370
+MP: 0
+Attack Eff: Stone
+Weakness: N/A
+Reward: ???
+Special: Gaze
+Location: Mysidian Cave, Whirlwind, Paramekia Castle, World Map
+
+Column
+HP: 970
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Arena, Catacombs
+
+Corpse
+HP: 600
+MP: 0
+Attack Eff: Poison
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Whirlwind
+
+DeathHead
+HP: 45
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Snow Cave
+
+DesAngel [Descended Angel]
+HP: 30
+MP: 10
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Bow3, Slep4
+Location: Kashuon
+
+DkKnight [Dark Knight]
+HP: 1140
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: First Fight, Paramekia
+
+Dragon
+HP: 2500
+MP: 140
+Attack Eff: None
+Weakness: Fire
+Reward: Fang, Icewind, WindFlut, Ice Bow, Genji Gauntlet
+Special: Ice16
+Location: Tower of Mysidia, Jade
+
+DthRider [DeathRider]
+HP: 1290
+MP: 0
+Attack Eff: None
+Weakness: Fire
+Reward: Ether, Ribbon, Bolt Javelin
+Special: None
+Location: Pandemonium
+X: 7
+
+DualHead
+HP: 80
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Snow Cave, Dist, Arena, B.Mask Cave
+
+DualZomb [Dual Zombie]
+HP: 300
+MP: 0
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Arena, B.Mask Cave
+
+DvFlower [Devil Flower]
+HP: 1140
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: Antidote, Valium
+Special: None
+Location: Tower of Mysidia, Whirlwind, Paramekia, Pandemonium
+X: 8
+
+DvMantis [Devil Mantis]
+HP: 1290
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Fire16
+Location: Pandemonium
+X: 8
+
+Eagle
+HP: 140
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Warship, World Map (Seas)
+
+ElecFish
+HP: 540
+MP: 90
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Bolt8
+Location: Leviathan
+
+Emperor
+HP: 1290
+MP: 190
+Attack Eff: None
+Weakness: N/A
+Reward: None
+Special: Barr8, Blnk8, Bolt10, Slow9
+Location: Whirlwind
+
+Emperor
+HP: 10000
+MP: ???
+Attack Eff: None
+Weakness: N/A
+Reward: None
+Special: Blnd16, Curs16, Dspl16, Flar16, Meteo1, Slow16
+Location: Pandemonium
+
+F.Gigas [Fire Gigas]
+HP: 1800
+MP: 240
+Attack Eff: None
+Weakness: Ice
+Reward: 1000 gil, Flame Sword, Flame Armor, Charm
+Special: Fire12, Rock9
+Location: Tower of Mysidia, Pandemonium
+X: 7
+
+Flier
+HP: 750
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Mysidian Cave, Tower of Mysidia
+
+Flower
+HP: 540
+MP: 0
+Attack Eff: None
+Weakness: Fire
+Reward: ???
+Special: None
+Location: Arena, Tower of Mysidia, Paramekia
+
+Fiend
+HP: 750
+MP: 300
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Fire16,Ston16
+Location: World Map (after Tower of Mysidia), Jade
+
+GChimera [Green Chimera]
+HP: 750
+MP: 140
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Fire7
+Location: Catacombs
+
+G.Dragon [Green Dragon]
+HP: 3000
+MP: 190
+Attack Eff: None
+Weakness: Bolt
+Reward: Fang
+Special: Mist16
+Location: Whirlwind, Jade
+
+General
+HP: 1800
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: 1000 gil, Rune Axe, Diamond Gauntlets
+Special: None
+Location: Whirlwind, Paramekia
+
+G.Goblin [Great Goblin]
+HP: 10
+MP: 5
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Bow1
+Location: Semite Cave, Bofsk Sewers, Snow Cave Kashuon
+
+Ghast
+HP: 100
+MP: 30
+Attack Eff: Hold
+Weakness: Cure, Fire
+Reward: ???
+Special: Blnd4
+Location: Kashuon, Warship, Dist Cave, Catacombs, Mysidian Cave
+
+Ghost
+HP: 540
+MP: 140
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: Curs8, Mini7, Ston16
+Location: Mysidian Cave
+
+Ghoul
+HP: 60
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Snow Cave, Kashuon, Warship, Dist Cave
+
+Giant
+HP: 3500
+MP: 200
+Attack Eff: None
+Weakness: N/A
+Reward: XCalibur, Genji Gauntlet, Genji Helmet, Genji Armor
+Special: Mist16, Flees often
+Location: Pandemonium
+X: 8
+
+Gigas
+HP: 750
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Warship, Dist Cave, Tower of Mysidia
+
+G.Molbor [Green Molbor]
+HP: 1290
+MP: 0
+Attack Eff: Confusion, Hold, Mini, Mute, Poison, Sleep
+Weakness: None
+Reward: ???
+Special: None
+Location: Jade, Pandemonium
+
+Goblin
+HP: 6
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map (near Altea), Phin, Semite Cave, Kashuon
+
+Golem
+HP: 1620
+MP: 0
+Attack Eff: Sleep
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Whirlwind
+
+Gotus
+HP: 2000
+MP: 80
+Attack Eff: None
+Weakness: N/A
+Reward: 200 Gil, Bacchus
+Special: Bacchus, Hast6
+Location: Phin Castle, Whirlwind, Paramekia
+
+Grenade
+HP: 60
+MP: 10
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Blast
+Location: Snow Cave
+
+GrOgre [Green Ogre]
+HP: 300
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Dist Cave, Catacombs
+
+G.Soul [Green Soul]
+HP: 360
+MP: 60
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Cure6
+Location: Dist Cave
+
+G.Toad [Green Toad]
+HP: 300
+MP: 0
+Attack Eff: Poison
+Weakness: Ice
+Reward: ???
+Special: None
+Location: B.Mask Cave
+
+Hornet
+HP: 6
+MP: 0
+Attack Eff: Poison
+Weakness: N/A
+Reward: None
+Special: None
+Location: Phin, Bofsk, World Map (near Altea)
+
+I.Gigas [Ice Gigas]
+HP: 2000
+MP: 140
+Attack Eff: None
+Weakness: Fire
+Reward: 1000 gil, Ice Sword
+Special: Ice12, Rock9
+Location: Tower of Mysidia, Pandemonium
+
+IceLiz [Ice Lizard]
+HP: 1000
+MP: 190
+Attack Eff: None
+Weakness: Fire
+Reward: ???
+Special: Ice16
+Location: Jade, Pandemonium
+
+Icicle
+HP: 60
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Snow Cave
+
+Imp
+HP: 300
+MP: 100
+Attack Eff: Poison
+Weakness: None
+Reward: ???
+Special: Chrm16
+Location: Tower of Mysidia
+
+Jelly
+HP: 45
+MP: 6
+Attack Eff: None
+Weakness: Fire, Ice
+Reward: ???
+Special: None
+Location: B.Mask Cave, Mysidian Cave
+
+KilrFish [Killer Fish]
+HP: 100
+MP: 0
+Attack Eff: None
+Weakness: Bolt
+Reward: ???
+Special: None
+Location: World Map (Seas)
+
+Krull
+HP: 1000
+MP: 300
+Attack Eff: None
+Weakness: N/A
+Reward: Ribbon, Diamond Armor
+Special: Blast
+Location: Paramekia, Pandemonium
+
+Lamia
+HP: 1000
+MP: 60
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Wink6
+Location: Whirlwind, Pandemonium
+X: 7
+
+LandTrtl [Land Turtle]
+HP: 140
+MP: 0
+Attack Eff: None
+Weakness: Ice
+Reward: 200 gil
+Special: None
+Location: Semite Cave. Kashuon, Dist Cave
+
+LegEater
+HP: 6
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Phin, Bofsk, Kashuon, World Map (near Altea)
+
+L.Molbor [Land Molbor]
+HP: 1000
+MP: 0
+Attack Eff: Hold, Poison
+Weakness: N/A
+Reward: Elixir
+Special: None
+Location: Tower of Mysidia, World Map (after Tower of Mysidia)
+
+Mage
+HP: 80
+MP: 30
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Blnd4, Bolt5, Bsrk3, Fire5, Ice6
+Location: Warship
+
+Mallow
+HP: 100
+MP: 45
+Attack Eff: Poison
+Weakness: Bolt
+Reward: ???
+Special: None
+Location: B.Mask Cave, Mysidian Cave, Tower of Mysidia
+
+MantaRay
+HP: 870
+MP: 0
+Attack Eff: None
+Weakness: Bolt
+Reward: ???
+Special: None
+Location: Leviathan
+
+Mantis
+HP: 750
+MP: 0
+Attack Eff: None
+Weakness: Ice
+Reward: ???
+Special: None
+Location: Catacombs, Tower of Mysidia, Paramekia, Jade
+
+MantKing [Mantis King]
+HP: 1140
+MP: 0
+Attack Eff: None
+Weakness: Ice
+Reward: ???
+Special: None
+Location: World Map (after Tower of Mysidia)
+
+Mine
+HP: 190
+MP: 30
+Attack Eff: None
+Weakness: Bolt, Fire
+Reward: ???
+Special: Blast
+Location: Kashuon
+
+Molbor
+HP: 750
+MP: 0
+Attack Eff: Hold
+Weakness: Bolt
+Reward: ???
+Special: None
+Location: Mysidian Cave
+
+M.Sucker
+HP: 750
+MP: 300
+Attack Eff: Dumbfound
+Weakness: Ice
+Reward: ???
+Special: Aspl10, Dran16
+Location: Jade
+
+MtGolem [Metal Golem]
+HP: 2000
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Pandemonium
+X: 7
+
+Ogre
+HP: 100
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Kashuon, Dist Cave
+
+Panther
+HP: 190
+MP: 0
+Attack Eff: Poison
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Warship, World Map (after Tower of Mysidia)
+
+Pirate
+HP: 45
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: Fight before betting Raila
+
+P.Toad
+HP: 450
+MP: 0
+Attack Eff: Poison
+Weakness: Ice
+Reward: ???
+Special: None
+Location: Mysidian Cave
+
+Pudding
+HP: 370
+MP: 80
+Attack Eff: Poison
+Weakness: Fire
+Reward: ???
+Special: None
+Location: Mysidian Cave, Tower of Mysidia
+
+QueenBee
+HP: 30
+MP: 0
+Attack Eff: Poison
+Weakness: N/A
+Reward: None
+Special: None
+Location: World Map (Near Kashuon, Phin, Salamando)
+
+Q.Lamia [Queen Lamia]
+HP: 1290
+MP: 370
+Attack Eff: Poison
+Weakness: N/A
+Reward: 10000 gil, Ribbon, Goldpin Helmet
+Special: Blnk16, Wink9
+Location: Altea, Pandemonium
+X: 7
+
+Ray
+HP: 450
+MP: 0
+Attack Eff: Hold
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map (Deserts)
+
+R.Dragon [Red Dragon]
+HP: 5000
+MP: 450
+Attack Eff: None
+Weakness: Ice
+Reward: Dragon Armor, Dragon Shield, Holy Javelin, Fang, Shoes
+Special: Fire16
+Location: Jade, Pandemonium
+
+Revenant
+HP: 240
+MP: 0
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Dist Cave, Arena, Catacombs, Tower of Mysidia
+
+R.Soul [Red Soul]
+HP: 540
+MP: 30
+Attack Eff: None
+Weakness: N/A
+Reward: 100 gil
+Special: Aero8, Bolt8, Fire8, Ice8
+Location: Kashuon, Mysidian Cave
+
+Salamandr [Salamander]
+HP: 1290
+MP: 300
+Attack Eff: None
+Weakness: Ice
+Reward: ???
+Special: Fire16
+Location: Jade, Pandemonium, World Map (after Tower of Mysidia)
+
+SandWorm
+HP: 1290
+MP: 190
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Quake1
+Location: Paramekia Desert (after Tower of Mysidia)
+
+Sargeant
+HP: 140
+MP: 5
+Attack Eff: None
+Weakness: N/A
+Reward: 200 gil, Mithril Bow, Mithril Axe, Mithril Armor, Mithril Helm
+Special: Bow3
+Location: Semite Cave, Warship, Arena, Phin Castle
+
+Satan
+HP: 5000
+MP: 450
+Attack Eff: Poison
+Weakness: N/A
+Reward: 10000 gil
+Special: Blnk16, Chrm16, Dspl16, Fire16, Flar16, Ston16
+Location: Pandemonium
+
+Shade
+HP: 3000
+MP: 240
+Attack Eff: Curse
+Weakness: Cure, Fire
+Reward: None
+Special: Curs8, Deth8
+Location: Paramekia
+
+SeaDragn [Sea Dragon]
+HP: 870
+MP: 80
+Attack Eff: None
+Weakness: Bolt
+Reward: ???
+Special: Wave8
+Location: Leviathan
+
+SeaSnake
+HP: 300
+MP: 0
+Attack Eff: None
+Weakness: Bolt
+Reward: ???
+Special: None
+Location: World Map (Seas)
+
+Shadow
+HP: 45
+MP: 0
+Attack Eff: Darkness
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Snow Cave, Kashuon, Warship, Dist Caves
+
+Skull
+HP: 640
+MP: 300
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: Ice12, Ston16
+Location: Paramekia
+
+Slime
+HP: 10
+MP: 0
+Attack Eff: Poison
+Weakness: Ice
+Reward: ???
+Special: None
+Location: Semite Cave
+
+Snowman
+HP: 45
+MP: 0
+Attack Eff: None
+Weakness: Fire
+Reward: ???
+Special: None
+Location: Snow Cave
+
+Soldier
+HP: 45
+MP: 10
+Attack Eff: None
+Weakness: Bow3
+Reward: ???
+Special: None
+Location:
+
+Sorcerer
+HP: 140
+MP: 60
+Attack Eff: None
+Weakness: N/A
+Reward: Haste, Drain, Aura, Charm
+Special: Chrm6, Deth6, Dran8, Fire8, Hast6, Ice8, Ston6
+Location: Arena, Phin Castle, World Map (after Tower of Mysidia)
+
+Soul
+HP: 20
+MP: 80
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Fire5
+Location: Dist Cave, Mysidian Cave
+
+Spectre
+HP: 300
+MP: 100
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: Break6, Ice8, Slep6
+Location: Arena, Mysidian Cave, Tower of Mysidia
+
+Sphinx
+HP: 1140
+MP: 370
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Dspl16, Fire16
+Location: Jade, Pandemonium
+
+Sprinter
+HP: 30
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map
+
+StGolem [SteelGolem]
+HP: 1800
+MP: 240
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Stop8
+Location: Paramekia
+
+Stlctite [Stalactite]
+HP: 240
+MP: 0
+Attack Eff: None
+Weakness: Aero
+Reward: ???
+Special: None
+Location: Dist Cave
+
+Stunner
+HP: 100
+MP: 0
+Attack Eff: Hold
+Weakness: None
+Reward: ???
+Special: None
+Location: Warship, Phin Castle, Catacombs, B.Mask Cave
+
+Sucker
+HP: 300
+MP: 0
+Attack Eff: Aspil
+Weakness: Ice
+Reward: ???
+Special: None
+Location: Catacombs, Mysidian Cave
+
+T.Gigas [Thunder Gigas]
+HP: 2500
+MP: 370
+Attack Eff: None
+Weakness: Aero, Mist
+Reward: 1000 gil
+Special: Bolt12, Rock9
+Location: Tower of Mysidia, Pandemonium
+
+Tiamat
+HP: 5000
+MP: 450
+Attack Eff: Poison
+Weakness: N/A
+Reward: 10000 gil
+Special: Bolt16, Fire16, Ice16, Mist16
+Location: Pandemonium
+
+Tusk
+HP: 300
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: B.Mask Cave
+
+VmpGirl [Vampire Girl]
+HP: 540
+MP: 100
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: Wink6
+Location: Tower of Mysidia, Paramekia
+
+VmpLady [Vampire Lady]
+HP: 1140
+MP: 140
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: Ice12, Slep16, Wink9
+Location: Jade
+
+VmpThorn [Vampire Thorn]
+HP: 40
+MP: 0
+Attack Eff: Poison
+Weakness: N/A
+Reward: ???
+Special: None
+Location: Bofsk, Kashuon, World Map (near Altea)
+
+Wererat
+HP: 60
+MP: 0
+Attack Eff: Poison
+Weakness: None
+Reward: ???
+Special: None
+Location: Kashuon, Warship, B.Mask Cave
+
+Werewolf
+HP: 540
+MP: 0
+Attack Eff: Poison
+Weakness: None
+Reward: ???
+Special: None
+Location: Tower of Mysidia
+
+Wizard
+HP: 250
+MP: 190
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Aspl8, Drab8, Flar10, Stop8, Toad7, XZon7
+Location: Arena, Phin Castle, Whirlwind
+
+WolfDevl [Wolf Devil]
+HP: 900
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: ???
+Special: Chrm16, Curs8, Fire11, Warp9
+Location: Pandemonium
+X: 8
+
+Worm
+HP: 2000
+MP: 0
+Attack Eff: None
+Weakness: N/A
+Reward: 2000 gil
+Special: None
+Location: Leviathan, Pandemonium
+
+Wraith
+HP: 60
+MP: 0
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Kashuon, Warship, Dist Cave, Catacombs, Mysidian Cave
+
+WzOgre
+HP: 140
+MP: 20
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: Blnd4, Blnk3, Ice5, Slep4
+Location: Kashuon, Dist Cave, Catacombs
+
+Yeti
+HP: 20
+MP: 0
+Attack Eff: None
+Weakness: None
+Reward: ???
+Special: None
+Location: World Map
+
+Z.Borgan [Zombie Borgan]
+HP: 2500
+MP: 370
+Attack Eff: Hold
+Weakness: Cure, Fire
+Reward: 2000 gil
+Special: Flar16
+Location: Pandemonium
+
+Zombie
+HP: 30
+MP: 0
+Attack Eff: None
+Weakness: Cure, Fire
+Reward: ???
+Special: None
+Location: Semite Cave, Bofsk Sewer, Snow Cave
+-------------------------------------------------------------------------
+XV.) CREDITS/DISCLAIMER
+-------------------------------------------------------------------------
+
+Alex Jackson: Answered my questions about how evade and shields work, and
+pointed out that Aero and Mist were Poison, not wind, elemental spells.
+Also pointed out that M. Pwr effects the MP gained, not the power of
+spells.
+
+Bob the Almighty <bob_the_almighty@hotmail.com>: Provided the "Story of
+Joseph" and the "Ming-Wu" sections.
+
+BowieKnife <Bowie_Knife@hotmail.com>: Provided the Weapon/Magic skill
+formulae.
+
+Brian Epstein <brian@vup.com>: Provided the Inn price formula.
+
+Chris Johnson <cj4u17@hotmail.com>: Pointed out that the Rune Axe's Fog6
+works, albeit rarely.
+
+Isaac Sherman <huperzoevs@mac.com>: Pointed out that my Thread information
+was messed up.
+
+Marc-André Harbec <wolfmah@hotmail.com>: Some enemy information.
+
+NeoDemiforce: Translation allowed most of the weapons, armor, enemy, and
+boss names.
+
+Squaresoft: Making this great game.
+
+<StevenH8ter@aol.com>: Character names
+
+Yoichi <Yoichi@world-of-nintendo.com>: Pointed out that the Blood Sword
+does massive damage to the Emperor, and some info on shields.
+
+Disclaimer: This guide is copyright 2000-2001 Amar Kishan, and Final
+Fantasy II is copyright 1988 Squaresoft.  This guide is not official. Do
+not distribute or upload at all without my permission.  This guide cannot
+be reproduced in any way without my permission.

@@ -1,0 +1,1806 @@
+     _____  _  _     ____  _     _  _____   _   _  _  _     _
+    /  _  \| || |   |  __|| \   | ||_   _| | | | || || |   | |
+    | | |_|| || |   | |   |  \  | |  | |   | | | || || |   | |
+    | \___ | || |   | |_  |   \ | |  | |   | |_| || || |   | |
+    \___  \| || |   |  _| | |\ \| |  | |   |  _  || || |   | |
+     _  \ || || |   | |   | | \   |  | |   | | | || || |   | |
+    | |_| || || |__ | |__ | |  \  |  | |   | | | || || |__ | |__
+    \_____/|_||____||____||_|   \_|  |_|   |_| |_||_||____||____|
+                _         _   ___     _        _   _   __
+               | \  |    / \ | | |   / \  | |  |  | \ |
+               | |  |    | |   |     | |  | |  |  | | |_
+               |_/  |    | |   |     | _  | |  |  | | |
+               |    |    | |   |     | |  | |  |  | | |
+               |    |__  \_/   |     \_/  \_/  _  |_/ |__
+
+                               VERSION 2          
+          AN EXPLANATION OF THE COMPLETE PLOT OF SILENT HILL
+              Uncopyrighted material 2000 President Evil
+
+=======================================================================
+1.         Table of Contents
+=======================================================================
+Chapters
+1.         Table of Contents
+2.         Updates
+3.         Introduction
+4.         Topic 1: Alessa and Cheryl 
+5.         Topic 2: Silent Hill
+6.         Topic 3: Harry, Dahlia's Pawn
+7.         Topic 4: Paging Dr. Kauffman
+8.         Topic 5: Lisa
+9.         Topic 6: Cybil Possessed
+10.        Topic 7: The Endings
+11.        Frequently Asked Questions
+12.        Credits
+
+You can always find the newest version of this guide at the following 
+locations on the web:
+      GameFAQs                   - www.gamefaqs.com
+      Silent Hill Sanitarium     - www.dark-legacy.org/silent-hill
+
+NOTE: Silent Hill 2 is covered in a separate document. This file covers
+only the first game, Silent Hill by Konami.
+            
+=======================================================================
+2.         Updates
+=======================================================================
+March 1, 1999 - Version 1.1, posted at GameFAQs.com and at Central Silent
+                Hill.
+April 1, 1999 - Version 1.2, Added Updates and FAQ section. Added to 
+                Credits Section.
+April 19, 1999- Version 1.3, Cleaned out FAQ section. Added logo at the 
+                top. Added Analysis section to formally state my opinon.
+January, 2000 - Version 2, Supplemental guide to first version.
+Sept. 12, 2000 - Updated contact and where to find info.
+January, 2001 - Updated contact and where to find info. Corrected minor
+                typos and deleted some extraneous sentences. Updated 
+                FAQ section.
+
+=======================================================================
+3.         Introduction
+=======================================================================
+The first version of this guide was a very in-depth study of the game
+Silent Hill by Konami. It described the entire plot and then attempted
+to explain it. Due to the continuously high volume of emails I continue
+to receive regarding the plot, I consider the first version to be a 
+failure. I am not putting myself down, nor is this a personal problem.
+There just comes a time when an author must evaluate whether or not his 
+work achieved the goal for which the entire project was conceived. The
+first version fulfilled several smaller goals that I had in mind, but
+it did not achieve all that I desire from a full Plot Guide to Konami's
+second greatest game. (Metal Gear rules!!!) In this new version, I 
+believe I have attained the goals I should have been striving for in 
+the first place. This is not about self-criticism, nor is this about
+contempt for those who're still in the dark even after reading my guide.
+Truly, I do appreciate all the email I have received regarding Silent 
+Hill and this guide. This is merely an attempt at personal and 
+professional growth.
+
+Also, I have grown a great deal as a guide author. This is mainly due to
+my recent good fortune to become a freelance strategy guide author for 
+the illustrious BradyGames. You can pick up copies of my guides for 
+Resident Evil 3: Nemesis and SaGa Frontier II at any store that 
+specializes in videogames.
+
+My experience with BradyGames taught me three things about guides: They
+should be concise and to the point, easily referenced, and the player 
+should be able to read the guide before OR after playing the game and 
+not have the plot ruined. So how do you write a plot guide that doesn't
+give away the plot?!?!??!
+
+The Silent Hill Plot Guide has now been completely rewritten so that it
+only covers topics that are left unanswered when you finish the game.
+Players who have finished the game will know exactly what parts and 
+characters of the game the guide is referring to. For those who haven't
+played the game yet, this guide offers points to look for in the game,
+so that you are not confused while you are playing it. I will admit that
+in describing characters and certain events, this guide still gives 
+away some major plot elements. But people who've played the game don't 
+care, and people who haven't will probably be able to enjoy the game 
+better than the hundred of people who've emailed me in frustration, 
+"I've finished Silent Hill. What the hell was THAT all about?!?!?!?"
+
+To see the original version of this guide, please come to my website,
+listed above. There's also a "runthru" that's very cool to look at as 
+well.
+
+=======================================================================
+4.         Topic 1: Alessa and Cheryl
+=======================================================================
+The answer to the most frequently asked question about the plot of 
+Silent Hill, and the first thing that occurs in the game, concerns the
+disappearance of Cheryl. Where is Cheryl, and who is Alessa?
+
+The answer, for all its complexities, is that Alessa IS Cheryl!!! (Just
+like Darth Vader IS Luke's father.) This revelation at the end of the 
+game threw me for a loop too, but it is clearly stated by Dahlia at the
+end. To figure this out, you have to start with the ending and think 
+backward through the last hour or so of the game.
+
+At the end, Harry enters a dark area inhabited by three others: Dahlia,
+a person wrapped from head to toe in bandages and seated in a wheelchair,
+and the girl Alessa, seated on the floor. When Harry demands to know 
+where Cheryl is, Dahlia replies that Cheryl is sitting RIGHT IN FRONT OF
+HIM, that she has been there all along. The girl seated on the floor has 
+been seen throughout the entire game. She IS Cheryl. Harry has been 
+running into Cheryl through the entire game. So why didn't she ever 
+talk to him, let him know who she really was? 
+
+Because Cheryl never really existed. In fact, neither did Alessa. Both
+of the girls are only conjurations of Dahlia's cult. See, the cult
+wanted to bring their lord Samael to the mortal world, so that he 
+could take control of the universe. But for the cult to benefit they
+would have to be able to control Samael. The only way to do this was
+to summon Samael into an unborn fetus, a child that the cult could 
+raise and teach to control its powers, all for the benefit of the cult,
+of course. Dahlia conceived the child somehow, with the help of Dr.
+Kaufmann. (He either inseminated her, or had intercourse with her. 
+Eeeuuggh!!!!) But when the child was born, only half of Samael's Dark
+Soul had been summoned into the child. To prove this, I will refer to 
+two ghostly flashbacks of sorts that Harry is witness to on his way to 
+the final confrontation with Dahlia and the two Alessas.
+
+The scene prior is the one that I believe occured first. Alessa and 
+Dahlia are struggling in an upstairs area of Dahlia's house, seen 
+previously only from an exterior shot in the intro sequence. (Yes,
+the house where Cheryl seems to be trapped.) Alessa refuses to do
+what Dahlia says. Dahlia wants Alessa to use her latent powers for 
+Dahlia's evil interests. Alessa is not cooperating with the cult's
+interests. She only wants to be a normal kid, with a normal mother.
+Somehow, this reveals to Dahlia that in order to summon the other half
+of Samael, she must have another child. This is how there are two 
+children. 
+
+What happened to the first Alessa? Think back to the scene Harry
+witnesses in the Hospital basement. The cult members are all standing
+around the horribly burned child. One of the members has some kind of
+perception that tells him that only half of the Dark Soul is contained
+in the child. The cult has failed, temporarily. Burning the child has
+placed it into a coma, where the power within can be tapped by the cult,
+but only in a minimal basis. This is when Dahlia begins to reveal that
+she knows how to summon the second part of the Dark Soul. But the 
+scene cuts away. They burned Alessa on purpose!!! The fire that Lisa 
+refers to in one of her scenes, which she says consumed half of Silent
+Hill and put an end to the cult activities in town, occured seven 
+years ago. Cheryl is seven years old. Alessa looks like she's a teen-
+ager, about fourteen maybe. In the second flashback, she looks like she's
+about seven.
+
+So let's add it all up, starting from the beginning. Fourteen years before
+the events of the game, in neither Silent Hill that exists in the game, 
+but the REAL one, Dahlia and the cult performed a ritual to summon their
+dark God Samael into material form. This way, they could control him, and
+together they would all rule the cosmos. Nice plan. Then they performed 
+a ceremony similar to the one you can read about in Ira Levin's Rosemary's
+Baby. (Hence, the street named Levin St.) But the ceremony only conjured a
+child that contained half the soul of their dark god, and so it only
+remained dormant within the child. That child was Alessa. For seven
+years, the cult and Dahlia tried fruitlessly to teach the stubborn 
+child to tap into the power she carried, and to come to terms with her
+true purpose for living. The girl continued to refuse. So the cult locked
+her in her bedroom, and set fire to Dahlia's house. This is the fire that
+spread, and nearly burned up half the town, which Lisa refers to. Every-
+one in town knew that Dahlia had a little girl, but the story was that 
+she died in the fire. The cult knew that the power within the girl's body
+would prevent her from dying. The cult members thought that by doing 
+this, they would be able to use the power within Alessa without having to 
+coax her into compliance. This is when the scene in the hidden rooms in
+the hospital basement occurs. The cult realizes something that Dahlia has
+known for some time, that Alessa only contains half of the Dark Soul of
+Samael. The power can be used now that Alessa can't get in the way, but
+it is very weak because it is only half there. This is when Dahlia 
+begins to reveal her idea to the cult, the one she'd had previously, 
+about conceiving a second child. So the ritual was performed again, and
+the second child was born. It contained the second half of the Dark
+Soul, and this is Cheryl, essentially. So you've got two identical 
+creatures, containing two halves of a Dark Soul. Since both girls 
+share the same dormant soul, both girls are the same girl, in essence.
+
+This is why Cheryl disappears. When she and Harry crash, notice how the
+jeep seems to go right through Alessa???? Think of it in metaphor. 
+This symbolizes Cheryl crashing into herself, her REAL self. Also, 
+think of the fact that there are two Alessas at the end of the game
+as being a metaphor for there being two halves of the Dark Soul. So
+there was metaphysically only one girl, conjured one half at a time.
+Two half-girls, two half-Dark Souls. One demon god. Samael. It's a
+metaphysical equation written across the entire game. It has taken
+me almost a full year, but I have cracked it.
+
+Why does Cheryl, who now appears as Alessa throughout the game, conjure
+such horrible monsters to try to kill the man who raised her and
+loved her for seven years? This will be answered in the Topic 3: Harry,
+Dahlia's Pawn. 
+
+The only other question I have left to answer is, how did Dahlia lose
+the second child? How did Harry and his wife find her on the roadside
+during one of their vacations in Silent Hill? The answer I will give
+involves the videotape item found in the Darkside Hospital and the 
+scene of Lisa and Kaufmann fighting, which occurs in the intro movie,
+but never in the game. When finally viewed without static, the
+videotape reveals that Lisa was the nurse forced by Dr. Kaufmann to 
+care for Alessa after the fire. The horror of the situation was too
+much for Lisa to bear. But she was forced to go on, since her Diary
+indicates that she was addicted to White Claudia, a drug manufactured
+by the cult to bring the citizens and tourists of Silent Hill under
+their power, to make them do what they wished. Lisa's videotape appears
+to be shot in Alessa's very room, where she was confined for many
+long years in burning torment. She knew that Kaufmann and his creepy
+cult friends were somehow involved. Now the theory that I can easily 
+form from all this information, and the only one that makes sense, is
+that somehow, Lisa realized that her patient was Dahlia's daughter,
+burned alive. When Dahlia produced a second child, Lisa would have 
+surely assumed that the second child was also in danger. Being the
+truly caring person that we see throughout the game, she finally 
+stands up to Kaufmann (as seen in the cinema) and takes the child.
+Perhaps she only got as far as the highway, before she fell victim to
+her drug addiction, and turned back. Rather than take the child 
+back, perhaps she figured it was a lesser fate to be abandoned on the
+side of the road than to be left in the clutches of the evil cult. I'll
+bet anything that Lisa is one of the townspeople who died under strange
+circumstances, as mentioned in the article clipping Harry finds as well
+as by Lisa herself. So why doesn't she remember any of this when she 
+talks to Harry? Because the Lisa that Harry meets is only her ghostly
+memory, created by what Alessa remembers of her. And Alessa, being 
+trapped in her hospital room deep under the Hospital, wouldn't know
+about Lisa's abduction of the second child, or of Harry's finding and
+raising the girl, or of Lisa's fate. For more explanation on why Lisa
+isn't the REAL Lisa, refer to Topic 5: Lisa.
+
+=======================================================================
+5.         Topic 2: Silent Hill
+=======================================================================
+The next question posed to me most often is, why does Silent Hill keep
+going back and forth between the snowy, misty town and the dark,
+treacherous one? What is real, and what is false, here?
+
+First of all, let's all admit it, Silent Hill is a town in a videogame,
+it is not real, per say.
+
+Now let's approach the subject from an abstract view, for the rest of
+this guide. Let's explore Silent Hill as if it WERE real. How would 
+such a situation occur? Why is the game so mysterious and vague in
+many aspects of the plot?
+
+The developers had to be vague, since the ESRB would never allow a 
+game with blatant satanistic elements to be published in the continental
+US. So the story had to be left vague on purpose, only hinted at, to 
+give the reader the clues they need to figure out the basics. The
+problem is, the plot is broken down into clues that must be deciphered
+by the player. And your average videogame player is 10-26, which means
+that half of them are going to have a rough time putting the fragmented
+pieces together. So the final product is a game that not only has many
+puzzles, but the entire game is one big puzzle. So now, hopefully you
+get the impression that I am attempting only to solve the big puzzle.
+
+Am I wrong? Is there another explanation that is more plausible?
+
+The only explanation that makes any sense, if you sit down and analyze
+the whole thing for a few hours, is this: the developers have a very deep
+love of the more irreverent aspects of American television programs and
+films. Take for instance the streetnames of the town. This is a dead
+giveaway. All the names refer to various sci-fi and horror authors, and
+also to the bandmembers of KISS, Sonic Youth, etc. The intro is also
+another clue. All the cross-fading between scenes we have yet to see, 
+and scenes that've already occured. The whole intro is like watching 
+the beginning of an episode of the short-lived David Lynch TV series
+Twin Peaks. The viewer wonders, what will happen to Harry this week on
+"Silent Hill". What new and strange events will occur this episode? What
+new insights will be revealed? How will it all end this time? Will 
+Harry finally escape from the tragic loop he seems to be stuck in?
+
+So all these irreverent influences on the game, where did they come
+from? Read, watch and listen to the works of the people who are 
+referred to in the game. Many of the streetnames refer to authors 
+and artists who are the favorites of the developers, obviously. For
+instance, as previously explained, the whole conceiving-a-demon-in-a-
+child element was taken from Ira Levin's novel, Rosemary's Baby. And
+his last name is a street name in the game. Richard Bachman is the
+pseudonym of Stephen King, and we all know what a great horror writer
+he is. But a couple of years ago, King release a title called The
+Regulators under his old pseudonym. If you read this novel, you will
+understand that the ability of a child to conjure a world all his 
+own and physically draw other people into it, is a major theme that
+has been drawn from the novel and used in the game. Read the other
+authors' works, and try to figure out what influence they had on the
+game. I can also tell you that Carl Sagan subscribed to and wrote
+about the theory that there are infinite worlds layered on top of one
+another. He expanded this from one of Einstein's theories, that time
+exists in layers, and that one might be able to puncture through the
+layers to a previous time, or to a world that never existed. Sagan
+concludes that in this case, there would be infinite worlds, all 
+derived from the possiblities of the decisions of each individual. Say
+that you make a choice. According to Sagan, there exists, somewhere in 
+time, an alternate universe where you made a different choice, and the
+entire world is different because of it. 
+
+I will also add two other references which I feel are obvious in the
+game, but are not referenced to by author names. One is the film
+Jacob's Ladder, in which Tim Robbins is a character dealing with
+weird and sometimes nightmarish shifting realities, exactly like
+Harry Mason in the game. Also, the existence of a Misty or White
+Silent Hill versus a Dark or Black Silent Hill reminds me of the
+concept of alternate universes from Twin Peaks, where they were 
+named "The White Lodge" and "The Black Lodge".
+
+Even if you don't understand right now, keep the above perspective in
+mind as you continue to read. It will help clarify things and allows 
+me to be less redundant, more concise.
+
+The town of Silent Hill would seem to be caught between two worlds.
+One is the world where it is foggy all the time, a light snow is 
+falling in the middle of the summer tourist season, and monsters
+are crawling out of the mist. (And no, the mist is not there as a 
+convenient way to help the game render more easily!!! Look at games
+like Tomb Raider and Shadow Man, which have similar game engines, and 
+you can see almost miles away. The developers wanted to promote a 
+spooky and mysterious atmosphere!!!)Strange events have occured before
+the game starts. The whole town has been sealed off by what looks like
+cooling magma, and certain streets have been cut off by large, 
+impassable chasms. This the world where you can easily get around with
+the help of the tourist map, using the streetnames which are easily 
+visible on all the streetsigns at every intersection. This is the 
+world where you always meet Dahlia. This is also where you find clues
+and are told where to search next. Make note of that for later.
+
+Then there is the other world of Silent Hill, which takes over from
+time to time. This is a world of utter darkness, a world where it is
+raining, not snowing. The Mark of Samael can be seen cropping up with
+greater and greater frequency. The only way to get around is with the
+help of a flashlight, and there seems to be alot more monsters hunting
+you. This world shows signs that it is quickly decaying. Before long, 
+the paved streets are replaced with iron mesh platforms, which seem to 
+be standing over a bottomless void. Buildings and areas, which seemed 
+perfectly normal, now shows signs of interior and sometimes exterior 
+decay. Frightening and gigantic monstrosities seek to destroy Harry. 
+This is the world where you will meet a nurse named Lisa, and you will
+also see a young girl named Alessa from time to time. Make note of that
+for later.
+
+Misty Silent Hill fades into Dark Silent Hill. And Dark Silent Hill 
+returns to Misty Silent Hill when one of the gigantic boss monsters
+is defeated. So what does this shifting between worlds mean?
+
+Let us assume, since there are monsters and strange things in both
+Silent Hills, that NEITHER version of the town seen in the game is 
+the REAL Silent Hill. Both are metaphysical recreations of the real
+town populated by monsters and such. So then let's say that there is
+a real world, where there is a REAL Silent Hill. What happened to it?
+My answer would be that it is still there. So we are dealing with 
+three Silent Hills, Misty SH, Dark SH, and Real SH. 
+
+What power conjures these fake Silent Hills? Since Dahlia always appears
+in Misty SH, it is safe to assume that she somehow controls Misty SH.
+Since Alessa only appears in Dark SH, she somehow controls Dark SH. How?
+In Alessa's case, it is obvious. She has half of a power within her that
+if united, could take over the entire physical universe. If the second
+girl was somehow able to tap into the power of the first, then the united
+power would reasonably be all that you need to conjure an entire world.
+If Dahlia possessed such a power, she would be able to tear away 
+Alessa's world and find the second girl, easily.
+
+So the only logical answer is simple. Alessa has conjured a fake Silent
+Hill to hide herself in, so that Dahlia does not find her. But Dahlia
+is crafty. She has an arcane device called the Flauros, which can bend
+alternate universes. She says as much when she tells Harry at the Church
+that he just needs to follow the path through the darkness, as 
+illuminated by the Flauros. Since the Flauros has the power to subdue 
+alternate universes, Dahlia can use it to subdue Alessa. Problem for
+Dahlia is, Alessa has hidden herself so deeply in this alternate world
+that she cannot get close enough to the girl to use the Flauros without
+Alessa sensing her, and getting that much further away. Dahlia needs to
+stay relatively hidden herself, yet somehow get the Flauros close to
+Alessa so that it can work. This is where Harry becomes Dahlia' pawn
+in the game. In seeking to find Cheryl, he is really looking for 
+Alessa. This is perfect for Dahlia, and this is why Harry is brought
+into Alessa's conjured universe.
+
+So let's sum up what we've got so far: Alessa conjures an alternate
+Silent Hill to hide in. How better to hide than in a dense fog, with
+many streets blocked off by deep schisms? So now, Dahlia can't get to
+Alessa. But she has a device which can alter or affect the world that
+Alessa is hiding in. She can conjure herself into it, but like I said,
+Alessa controls this world, and would know where Dahlia is at all times.
+So Dahlia forms a plan to use Harry, Alessa's surrogate father, to get
+the Flauros close enough to Alessa so that the device can subdue the
+girl and dismantle her world.  She needs a pawn, what appears to be an
+insignificant person, who she can move across this supernatural chess
+board and checkmate Alessa. So she uses the Flauros to physically draw
+Harry into Alessa's world. This is not the real Harry though, but Harry
+doesn't know that. Thus if Harry THINKS he is dying in Alessa's world, 
+he dies in the real world. We see this evidenced in the Bad Ending, 
+where Harry dies in the wreckage of his jeep, where he has been all 
+along. But the Harry that exists in Alessa's world is still a mental 
+manifestation of the real Harry. So he can act and affect objects in 
+this world, since he has been 'programmed' into it by Dahlia. If you 
+don't quite get what I'm saying in this theory about Harry in the game
+not being the real Harry, rent the movie The Matrix. You'll quickly
+see what I mean.
+
+Alessa becomes aware that Harry has been brought into this world. So she 
+brings on a scary dark side, where she changes Silent Hill into a 
+Hellish nightmare world in the hopes that Harry will not want to 
+proceed. But Harry doesn't know what is going on, he is just looking
+for his daughter. He continues on. So Alessa generates monsters that
+overwhelm and kill Harry's form. No problem. Dahlia simply regenerates
+Harry in a safer area, the cafe. If you still don't know where I'm 
+getting this, see The Matrix. This may go on an infinite amount of 
+times. In fact, the ending of the game may not be the ending. 
+
+Think about it. If Alessa and Dahlia are engaged in a tug-of-war over
+this conjured reality, where each of them have the power to bend that
+false reality to some degree, then even when the false reality falls
+apart during the Good+ Ending, Alessa could simply conjure it all up
+again, and Dahlia could 'hack' into it again using the Flauros, just as
+she did before. Thus you, the player, are trapped in a no-win situation.
+You can never win the game, because you were never the player. You have
+been played. How do I substantiate this? By the endings, and the ensuant
+replay games. But now we're getting into another topic. Go to Topic 7: 
+The Endings to read more along these lines, if you don't already under-
+stand what I meant.
+
+Things should be clicking for you as I discuss the issues. The point
+of this topic has been to define the world you are playing in in 
+Silent Hill, and I have explained as best I can.
+
+=======================================================================
+6.         Topic 3: Harry, Dahlia's Pawn
+=======================================================================
+In the struggle between Dahlia and her daughter, Alessa, Harry is the 
+pawn Dahlia is using to checkmate Alessa. Why Harry, specifically? Why
+doesn't Dahlia just go find and regain control over Alessa herself?
+
+The answer was unclear to me for a long time. But as I continued to 
+think of the game in the metaphysical sense, I think I've come up with
+a solid answer. Think of the game you are playing as a game within a 
+game. Your game is about running around, collecting keys and items, 
+learning what you can about where to go next, and getting there without
+getting killed. Your game is contained within a larger, more meta-
+physical game between Dahlia and Alessa. Think of it as a chessmatch,
+Alessa on one side Dahlia on the other. Both are moving their pieces
+across the board toward each other. But Alessa is the one who created
+the board, so she has ALL the pieces. Her advancement across the board
+is signified by the Mark of Samael. Dahlia has only two pieces, herself 
+and the Flauros. The Flauros is the piece she needs to checkmate Alessa
+with, but Alessa controls all the other pieces on the board, the
+monsters throughout the game. As Dahlia tries to penetrate Alessa's
+defenses, Alessa loses pieces here and there. But Alessa can conjure
+more pieces, and play can go on infinitely. Dahlia uses the Flauros
+to create a new piece, and uses the soul of a man who was Alessa's
+unknowing surrogate father for seven years. She hides her Flauros
+piece inside of the Harry piece. This allows her to move Harry,
+without actually being on the board herself. Thus, she is free to
+conjure weapons and items that will help Harry. She also creates
+images of Cheryl in danger that will spur him on, make him want to
+find her that much faster, when the person he is really seeking is
+Alessa all along. With the weapons and items left in weird and 
+illogical places, Harry is able to remove Alessa's pieces from the 
+board, and continue moving before she has time to regenerate new
+ones. Alessa generates the Lisa piece, from her memories of the 
+dead nurse. She uses this piece to try to block Harry's moves, but
+Harry has the determination to find his daughter. If Harry is 
+removed from the board, or dies, the whole game just starts over again.
+But when Harry checkmates Alessa with the Flauros, Dahlia is able to
+move in and take the piece that represents Alessa. This is why the
+conjured world of Silent Hill goes suddenly out of control, and why
+Lisa attacks Harry instead of only trying to block him. Then Dahlia 
+turns the board around, since Alessa is no longer in control, and
+reunites the two girls into the one being they were meant to be.
+The piece that is Dahlia is consumed by the intensity of the magic,
+but she is laughing, indicating that she is not really there at all,
+but controlling the board from outside. When Harry squares off 
+against Alessa or Samael and wins, he is only removing another
+piece from the board and doesn't realize it. The truth is, Alessa
+and Dahlia both lose, yet they both exist outside this board that
+I'm talking about. So all they have to do, is start another game.
+This is when Harry regenerates in the cafe in a Next Fear game.
+
+So why did Dahlia use Harry? Because he was a surrogate father to Cheryl
+for seven years, who was really Alessa. Dahlia perhaps hopes that Alessa
+will have enough love or sympathy for Harry that she won't wipe him off
+the map. Tough luck, though. Alessa alters her conjured Silent Hill, so 
+that Harry is forced to travel horrifying areas, and pierce a terrible
+darkness. The girl conjures horrible and weird monsters to stop Harry,
+hoping that the man will give up in some way. But he does not. So she 
+uses a majority of her power to force Harry to meet giant and powerful
+monsters, more terrifying than the rest. But because all Alessa'a 
+attention is bent toward this conjuration, she cannot prevent Dahlia
+from aiding Harry. Thus, he is able to find weapons, placed within
+the conjured world by Dahlia, no doubt, which help him to dispel 
+Alessa's creations. Thus, Alessa's attention is consumed by her 
+attempts to stop or kill Harry, while Dahlia is able to provide Harry 
+with the items he needs to destroy Alessa's creations.
+
+To what end? Harry finally admits to Cybil that Cheryl is not his real
+daughter, that he and his wife found her on the side of the road seven
+years ago. He never told Cheryl. Either that, or he never had a chance.
+It is only then, when he is ready and willing to admit his fault in 
+the whole affair, that Cheryl appears to him. But she appears in her
+true form, as Alessa, so Harry doesn't understand that she has 
+allowed him to find her. Who knows what would have happened, had the
+Flauros not kicked into action right there? Maybe Alessa, touched by
+her father's final honesty, was prepared to tell him the nature of 
+what was going on? This would make sense, as to why she allows herself
+to be found by Harry. Perhaps she had something to say, but was cut 
+short by the abrupt intervention of the Flauros, which subdues her 
+powers.
+
+So why doesn't the world Alessa has conjured fall apart, right there?
+My guess is that the Flauros somehow is able to bind Alessa's will to
+it, so that Dahlia, who controls the Flauros, now controls Alessa. If
+that's the case, then she most likely controls the power within Alessa
+as well. But the conjured world does fall apart, to some degree. Notice
+how Harry suddenly finds himself back in the hospital with Lisa? See
+how twitchy and weird Lisa has suddenly become? Notice how the 
+layout of the hospital, which the player was able to fully explore
+earlier, has suddenly become rearranged? Elements from the entire 
+game are evident, but in new and twisted ways. Suddenly, Harry is
+going down into the basement of the Hospital, when before, the door
+wouldn't even open. In the basement, he finds himself in a class room
+from the Midwich Elementary School!!! The world is indeed coming apart,
+as Alessa is slowly losing control of it, and of herself.
+
+Caught in circumstances that he never truly begins to understand, 
+Harry loses his daughter, again. Thus, Harry never achieves a truly
+happy ending, only what passes for one. This is due to his limited 
+understanding of the events transpiring. Thus, Harry's perspective
+becomes ours, and the only way to set Harry free of this never-ending
+nightmare chess match is to quit playing Silent Hill. Strange, neh?
+Thus, Harry's role in the entire game is defined. What the player 
+thinks of as the hero, the protagonist, the man who's going to get to
+the bottom of all this and explain everything, never does. The most
+startling revelation of Silent Hill is that the hero has been working
+for the wrong side all along. He is NOT the hero, he is nothing but a
+pawn. And therefore, so is the player. We've all been duped, and it is
+Konami who is cackling madly at us all.
+
+So how does Harry get out of this situation, this never-ending loop in
+time and space? He may never be able to. The answer may reside in 
+another character in the game, an outsider of sorts. I'm talking about
+Cybil. Yes, indeed. If there's going to be a sequel to Silent Hill, a
+very good idea for one would be to play the exact same game from a 
+different perspective, of one who's not looking for a daughter or 
+loved one, but for a doctor with an extremely dirty nose. Cybil 
+explores other parts of Silent Hill while Harry is reliving events
+planned by Alessa and Dahlia. In this, she is an outsider, and she
+may be able to get to the bottom of everything. Harry is Dahlia's 
+pawn, and thus he has no power to alter the main events taking place, 
+nor to stop the never-ending loop he's stuck in.
+
+=======================================================================
+6.         Topic 4: Paging Dr. Kauffman
+=======================================================================
+What is Dr. Kauffman's involvement in all of this? What is the nature
+of his concoction, Aglaophotis? Why does he resist helping Harry, when
+it seems to be his intention to stop Dahlia, all along?
+
+Kaufmann is perhaps the most puzzling figure in the game. So little is
+known about his involvement in the events which transpire during the
+adventure. I'm not totally sure why he's even present in the game. If my
+theory about neither Silent Hill being real is true, then what variable 
+is Kaufmann in the equation? Maybe by sorting out the pieces of this
+part of the puzzle, I'll be able to figure this out, right here. So 
+let's start at the beginning, and recap everything we know about 
+Kaufmann.
+
+Harry first meets Kauffman in the hospital. Kauffman has been shooting
+and killing Alessa's monsters, trying to make sense of the situation
+he's been drawn into. When he is discovered by Harry, he tries to shoot
+him. This is because Kauffman probably realizes that everything is not
+real. He says as much to Harry when he starts pointing out the 
+characteristics of the phenomenon. How does he realize that Harry is 
+real? Maybe it's something that Harry says or does, or maybe it's the
+way Harry pleads not to be shot. Notice how Kaufman abruptly says he
+has things to do and leaves, when he finds out that Harry is looking
+for his daughter? Perhaps Kaufmann is as confused about his presence
+in the conjured world as we are. Maybe the true importance of this 
+scene lies in the fact that Kaufmann is starting to put all the 
+pieces together.
+
+So what's in the briefcase, Doctor? At the end of the game, we see
+Kaufmann pull the Aglaophotis out of his bag, and throw it at Alessa.
+But previously, Harry discovered this weird mixture hidden in the gas
+tank of a motorcycle, parked in the garage of the Motel. So does 
+Kaufmann have the Aglaophotis in the briefcase during the Hospital 
+scene? My answer is no, since Harry finds it spilled on the floor of 
+the good Doctor's office. This leads me to believe that Kaufmann had
+come to the Hospital to get the sample of the Aglaophotis out of his 
+desk. Something happened, and the glass bottle was spilled. Now, 
+Kaufmann has to make his way over to the Motel, where he has a backup 
+sample stashed.
+
+Harry encounters Kaufmann next at Annie's Bar. Kaufmann is being 
+attacked by what looks like a Teddy Bear from Hell, and Harry saves 
+him. Kaufmann is thankful, but his business presses him onward. When
+Harry finds the Aglaophotis in the gas tank of the motorcycle, as I 
+previously mentioned, Kaufmann finds Harry and takes the sample. His
+gruff answer to Harry's queries is to "stop screwing around" and to 
+"take care of business". Kaufmann is next seen in a weird flashback 
+moment, when it is Harry who is experiencing Alessa's flashback, in a
+sense. Kaufmann, Dahlia and two others stand over the burned and 
+bandaged form of Alessa. The powers of the Dark Soul have slipped 
+through their fingers. Dahlia comes up with an answer. Then Kaufmann 
+appears at the end of the game, in the Good+ or Good Endings, which
+I'll get to in a moment.
+
+So what is Kaufmann doing? If we add all these pieces up, plus a few 
+other facts that I have yet to mention, we'll see that Kaufmann is one
+crooked dude. I'm sure most of you suspected that, but let's try to get
+to the truth and find out just HOW crooked he is. Lisa mentions that
+there was some cult activity in Silent Hill seven years ago. From the
+"flashback", we can determine that Kaufmann was part of the cult that 
+Lisa mentions. Dahlia was also a part of this cult, and so were two 
+others. Why don't the two others appear in the game? Because I don't 
+think Alessa had ever seen them before. She only heard their voices,
+as they stood around her hospital bed. That's why the man standing at
+the head of the bed has no face. Alessa knew who Kaufmann and Dahlia
+were, that's how they are so well represented. Anyway, to continue:
+Kaufmann is in with this cult for personal status and power. He is 
+the director of the Hospital, since it is in the Director's Office
+that we see Kaufmann's Aglaophotis spilt. He most likely attained 
+this position through the cult's influence. We've already discussed
+that the goal of the cult was to summon the blind hebrew archangel,
+Samael, into the body of an unborn fetus. Thus, the cult could raise
+and teach the child to do what they want, and therefore be able to 
+rule the world through the power contained in the child, which they
+would control. But the child proved uncontrollable, and Dahlia 
+burned Alessa alive. The girl was unable to die because of the power
+her body contained, but because of the wounds, the power went dormant.
+Then, Dahlia reveals her plan to have a second child by the same
+means as the previous ritual, and it would contain the rest of the
+power of their dark god. Meantime, Alessa needs to be kept someplace
+safe. Dahlia's house is gone at this point, burned down in the fire.
+Since Kaufmann is the director of the Hospital, he can keep Alessa in
+a basement storage room, seal off the entrance, and keep her a secret
+for many, many years. Only problem is, Alessa's wounds will never heal,
+and the bandages have to constantly be changed. Alessa needs around-
+the-clock care, and Kaufmann needs a nightwatchman. This is where 
+Lisa comes in.
+
+Now I have to diverge a bit, to bring Lisa into the whole sordid
+affair. One of the ways the cult gained status in the town was to
+create an entire drug-smuggling operation. The drug that they were
+manufacturing and selling, to locals and tourists alike, was produced
+from a flower that was indigenous to the region called White Claudia.
+Now they probably passed this stuff off as some other drug, like 
+Heroin or Cocaine. But the difference with this drug is that it was
+often used in magical rituals, and had hallucinogenic properties. Thus,
+once the drug was introduced into someone's system, that person was
+able to be affected or commanded by the cult. Kaufmann and Dahlia had
+an entire drug operation going in the resort area, so that the drug
+could be given to the tourists. This brings up a question for me, which
+I hope one of you will answer: Wasn't Harry a tourist, and had visited
+here many times in the past? Had he been given the drug, or had he 
+bought some?
+
+An e-mail I get over and over on this one is that Harry is really 
+hopped up on White Claudia this whole time, and is hallucinating 
+everything. I don't think this is true, since too much of the game
+makes too much sense, especially in a very deep way. It's not 
+something a hallucinating drug-user would come up with, it's far too
+complex. But it certainly is an interesting theory to entertain, I just
+stopped entertaining it, is all. No, Silent Hill is ABOUT SOMETHING, we
+just have to figure out what.
+
+To continue investigating Kaufmann: He and Dahlia are described in the 
+journal kept by the convenience store manager, which is found by Harry.
+The drugs were dropped off by Kaufmann and Dahlia, and picked up by 
+another. Harry finds the drugs in the store safe, so Kaufmann is 
+obviously not after the drugs. And the purpose of using White Claudia in
+the drugs and selling them to the tourists was to try to spread the 
+influence of the cult. This way, when Samael's power was made manifest 
+through the girl Alessa, a whole world of uninitiated followers would 
+suddenly do the cult's bidding.
+
+This wasn't an invisible operation. The local police were investigating 
+it (as Harry discovers at the Police Station), and Cybil's department in
+Brahms was also investigating, independently. But no leads could be 
+gained in the case, since everyone involved wouldn't say anything. Any
+officers who investigated too well ended up the victims of bizarre
+heart-attacks and deaths. The cult had a perfect money-making operation,
+and no one would mess with it for fear of retaliation.
+
+As Lisa's Diary describes, she was addicted to Kaufmann's drug. 
+Naturally, she became the only one Kaufmann could use to care for Alessa.
+Her drug addiction prevented her from doing anything about Alessa. 
+There's a scene in the intro of the game where Lisa and Kaufmann are 
+fighting. I'll bet anything that this is the last that the real Lisa
+was ever seen or heard from. Kaufmann and the cult probably caused her
+an "accident" or an overdose at some point after that. It seems that
+Lisa was ready to make trouble for the cult, if in fact she wasn't the
+one to abduct the second child from Dahlia and leave it on the side of 
+the road for Harry to find.
+
+When Harry returns to Silent Hill, and the second child remembers who
+she is and creates a false reality to hide in, how does Kaufmann get
+sucked into that? As the videotape confession of Lisa proves, the 
+nurse had some regrets and feelings about Alessa. I'm sure that Alessa
+appreciated the sentiments, and was angered at Kaufmann for using the
+poor nurse in such a way. Alessa probably wants revenge for Lisa, as
+is evidenced when she conjures up the fake Lisa to drag Kaufmann down
+to Hell at the end of the game. So she has dragged Kaufmann into this
+nightmare world so that he will be killed, just as Dahlia dragged 
+Harry into this nightmare world to be her pawn. That is the only 
+answer that makes any sense to me. I will continue to read and 
+think about the hundreds of emails I get to the contrary, however.
+
+What in the world is the Aglaophotis? Well, you got me. It seems to
+serve dual purposes, and doesn't seem to be very well thought out, 
+in my opinion. But here's what is clear, if we add up everything I've
+brought up thus far: Kaufmann is trapped in Alessa's conjured world,
+so that she can have revenge for Lisa's death, at some point. At first,
+when Harry first meets him, Kaufmann really doesn't know what is going
+on. I believe him when he says that he fell asleep, and woke up in this
+situation. Harry is also unconscious, and probably so is Cybil, so that
+is how they all got pulled into this conjured world. (That's why 
+there was no body at Cybil's crash site, when Harry passed it.) But 
+Kaufmann is more informed than either Cybil or Harry, so he should be
+able to put the pieces together right away. The cult was attempting to
+gain control of the universe by channeling a power into a young girl's 
+body. The pact was that the cult would control the child, and thus the
+universe, together. But Lisa abducted the second child, containing the
+other half of the dark soul, and the cult's work was ruined. It's 
+possible that the cult even disbanded. But then the second child is 
+returned to Silent Hill, and the reunited power conjures a fake reality
+full of monsters and mist to hide in. As an added bonus, Alessa pulls 
+Kaufmann into this fake world, so that she can kill him when the time 
+is right, for what he did to Lisa. When Kaufmann sees the strange things
+going on around him, he has to realize that somehow, the power has 
+broken loose from its dormancy. When Harry tells him that his daughter
+is missing, Kaufmann must realize that the second child has been 
+returned to the town, and that she is causing all of this. The 
+Aglaophotis, according to how Kaufmann attempts to use it in the end, 
+must be some kind of supernatural concoction that takes control of a
+person's mind. Thus, Kaufmann was attempting to get his Aglaophotis
+sample to use on Alessa, when something unknown happened. Either he
+was attacked by a monster and dropped it, or Dahlia had gotten there
+before him and smashed the sample, so that Kaufmann wouldn't be able
+to use it. But Kaufmann kept a backup at the Motel, in case Dahlia
+ever turned on him. Smart man. The problem for Kaufmann is, Harry finds
+Alessa much faster, and the Flauros allows Dahlia to take control of 
+Alessa and the power inside her. Needless to say, Kaufmann feels that 
+Dahlia is attempting to screw him over, in the nicest way I can put it. 
+By what he says at the end, he's certain that Dahlia intends to control
+the entity within Alessa all by herself. Maybe the Doctor is just 
+paranoid, and maybe not. He hurls it at Alessa in an attempt to usurp 
+the control of Dahlia over the the entity within Alessa. But what happens
+instead is, Samael's power breaks free of the Aglaophotis. United, the 
+power cannot be contained by the mixture. Only, Samael has to manifest 
+in order to break free. That's why Alessa transforms at the end of the 
+Good or Good+ ending (Kaufmann appears in both). When Samael is 
+dispatched forcibly by Harry, and Alessa returns to her natural form, 
+she conjures her version of Lisa to return and drag Kaufmann off. To a
+fate worse than death, we can imagine.  
+
+So I think I've pretty much nailed down why Kaufmann is in the game, 
+and what he is doing throughout. What a loser!
+
+=======================================================================
+7.         Topic 5: Lisa
+=======================================================================
+Lisa is perhaps the most tragic character of Silent Hill. She is really
+nice to Harry when he meets her in the Dark Silent Hill Hospital. But
+she serves a higher purpose in the game (or should I say, a Lower 
+purpose). 
+
+The only time Harry meets Lisa is in the Dark version of Silent Hill.
+She is in the Dark version of the room Harry first met Kaufmann in. If
+we agree that Alessa is in control of the Dark version of Silent Hill, 
+as I've stated in previous Topics, then that means that Lisa must be
+under her control as well. But to what end?
+
+Previous Topics have discussed Harry's purpose in the game due to
+Dahlia's manipulations of Alessa's conjured world. He is Dahlia's 
+pawn, her Trojan Horse, sent to find the girl he thinks is his 
+daughter, but is really Alessa, who is trying to hide from Dahlia.
+Along the way, Alessa must figure some part of this out, and keeps 
+plunging the conjured world into darkness and decay, featuring awful
+creatures that should cause Harry to pause in continuing his search for 
+her. But he loves the girl he thinks is his daughter, and keeps chasing 
+her. Lisa is Alessa's OTHER strategy for stopping Harry. Lisa is nice to 
+Harry and concerned for his safety. If he continues searching, he won't
+be safe. If he leaves Lisa, she won't be safe. She displays terror and
+anguish at being left alone by Harry. Truly, she doesn't want him to 
+continue searching. This is actually what Alessa wants. 
+
+Notice how these scenes with Lisa happen almost as dreams. Harry is 
+suddenly "awakened" from each one of them. The first time he meets
+Lisa is after searching the entire Darkside Hospital. When Harry
+meets Lisa in the Darker side of the room he met Kaufmann in, he gets
+to know and like the young nurse (as do we all). Abruptly, in the
+middle of the conversation, Harry wakes up in the Misty Silent Hill
+version of the room he met Kaufmann in. The last time Harry was in this
+version of Silent Hill, he was in an elevator going between floors.
+So how did he get back here? 
+
+Simple. Dahlia used the power of the Flauros to manipulate the conjured
+world. Thus, Dark Silent Hill Hospital becomes Misty Silent Hill 
+Hospital. Now that we're back in Dahlia's territory, she steps in and 
+gives Harry some further guidance. Thus, Dahlia knew that Harry was
+being persuaded to give up the search and stay with Lisa, and she 
+stepped in to salvage the situation for herself. Notice how she's
+kinda angry with Harry?
+
+This sort of thing continues throughout the game, with Lisa appearing
+and disappearing, continually failing to keep Harry from persuing
+his quest to find his daughter. But once Harry confronts Alessa with
+the Flauros, and Dahlia regains control of her daughter, Harry wakes up
+in the room Lisa is always in. But now, Lisa is kinda twitchy and 
+aggitated. She doesn't seem to have any control over herself. That's 
+because she NEVER HAD ANY. She has been controlled by Alessa this whole
+time, and now that Alessa is no longer in control of the conjured 
+world, Lisa begins to revert to being the same as the other conjured
+creatures. She runs away from Harry, who she has been programmed to 
+be nice to, this whole time. But now that her programming has gone 
+haywire, she begins bleeding uncontrollably and goes after Harry. He 
+then uncovers her diary, in which she confesses to be a drug addict. 
+She didn't want to go back to the hospital, because she was creeped out
+by her undying patient. But she needed the drug, which was why she had
+to go back to the Hospital. Who was at the Hospital, who was supplying
+her with the drugs? Kaufmann. Who was in charge of the Hospital, and
+the patient kept secret in the sealed-off basement. Kaufmann. Who is 
+Lisa seen arguing with at the beginning of the game? Kaufmann. 
+
+Then there's the videotape, with Lisa's confession. If such a tape 
+ever existed, then Kaufmann and the cult surely would have killed Lisa
+for taping a confession. (Notice how the tape has blood on it???) Lisa
+showed signs of compassion for Alessa, and horror at her situation. She
+also threatens to do something about it, toward "them". So this leads
+me to believe that Lisa knew that Kaufmann was involved in something 
+weird involving this child and a cult that Kaufmann was in. If by chance
+she ever caught site of Kaufmann and Dahlia together, which is highly 
+probable, then she probably figured out for herself that her patient was
+related to Dahlia. The fact that Alessa's body was kept locked away in 
+the Hospital basement goes to show that Kaufmann and Dahlia were trying
+to hide her. That must mean, to Lisa, that they had something to do with
+the girl's unfortunate situation.
+
+Then one day, maybe Lisa hears that Dahlia has had another child. It's
+a small town, so it's possible that word gets around. Lisa can't bear
+to think that they might do the same to another child as what she's
+seen that they did to Alessa. So if there is one person in the game
+who might've stolen the second child from Dahlia and left it by the
+side of the road for some strangers to find, it was Lisa. She's the
+only one with any compassion in the situation.
+
+Now here's the thing: These events had to have occured seven years ago.
+Kaufmann surely would've been able to figure out who abducted the 
+child. Maybe this is when he tries to confront Lisa in the Hospital
+corridor, only to have her throw wild accusations in his face. After
+all the other people that the cult silenced, they certainly wouldn't
+have let Lisa live, after that.
+
+So I'm thinking that Lisa was most likely killed seven years ago. The
+Lisa who appears in the game is only Alessa's fondest memories of her
+caregiver. Remember, the tactic is to keep Harry in the Hospital, to 
+convince him to stop searching. Only a really nice person could do 
+that, and the only nice person Alessa has ever known is Lisa. So I
+believe that the Lisa who appears throughout the game is only an
+enhanced construct of Alessa's. Yet at the core, she is just like all
+the other psychotically mutating nurses and doctors in the Darkside
+Hospital. She is a monster, but under Alessa's control, she takes on
+the form and aspect of the horribly burned girl's former caregiver.
+
+When Alessa loses control of the conjured world, she also loses 
+control of her Lisa. Dahlia is probably in control of everything in
+the game at this point, so Lisa is suddenly reprogrammed to attack
+Harry. The conflicting controls are probably what cause her to go 
+berserk. I think that when we see Lisa begin to bleed from every
+pour, not only is it in homage to the '70's horror film The Fury,
+but it is a metaphor that the Lisa facade is falling apart.
+
+=======================================================================
+8.         Topic 6: Cybil Possessed
+=======================================================================
+Cybil is the police officer from Brahms, the next town over. Harry
+first sees her on her motorcycle, speeding toward Silent Hill. She's
+responding to a call to see what is happening there. Previously, all 
+communications to the town were cut off, and the neighborly Brahms 
+police force became concerned. Cybil has been investigating other 
+matters in Silent Hill previously, so probably she was the best 
+candidate to investigate the communications failure. Cybil passes
+Harry and Cheryl as they are driving to Silent Hill for a vacation,
+and she and Harry seem to make some eye contact during the intro. The
+intro then makes it seem as if some few minutes have passed, and then
+Harry passes Cybil's wrecked motorcycle. Her body is not seen. Because
+Harry is looking for the officer, he turns around just a moment too
+late to see the figure we would later identify as Alessa, standing in
+the middle of the road.
+
+Harry next meets Cybil in the Silent Hill Cafe. Previously, he has had 
+a strange experience, which he thinks is a dream. He "dreamed" that he
+was chasing Cheryl through the streets of Silent Hill, and that the 
+world transformed into a nightmare. He found himself running from 
+murderous dwarven creatures, all carrying butcher knives. He was closed
+in with them and they stabbed him until he died. But then Harry wakes up
+in the Cafe, as if from a nightmare. Cybil Bennet walks into view, and
+introduces herself.
+
+In the scene that follows, Harry comes to the conclusion that he 
+was dreaming. After talking to Cybil, he finds out that parts of 
+his dream were somewhat accurate; The misty town seems deserted,
+and a light snow is falling, out of season. All the radios don't
+work, and all the exits from town have been cut off. So while 
+Harry was unconscious, Cybil has been doing some investigating of her
+own, it seems. She leaves Harry in the Cafe with her gun, and tells 
+him to be careful. 
+
+So what is Cybil doing here? Well, I'm not completely sure. I do know 
+that in the structure of a normal drama, Cybil would be considered the
+classic "Confidant", a character who's main purpose in the narrative 
+is to allow the main character to question the situation of the plot,
+and together they reason it all out. The problem in Silent Hill is,
+Cybil does not seem to experience the same things that Harry does. This
+makes it impossible for them to sort out what is happening to Harry.
+When they next meet, in Dahlia's Antique Shop, Harry learns that Cybil
+is not experiencing the menacing "other world" that he has experienced. 
+
+The fact that she denies it needs to be addressed for a moment, because
+when this situation occurs, it is indeed dark outside. This seems to 
+confuse many players, "How can she deny it when she's FRICKIN STANDING 
+IN IT!?!?!?!" The difference is, this is not yet the Dark Silent Hill.
+This is only Misty Silent Hill, at "night". When the player pilots 
+Harry out of the Antique Shop, it is indeed dark and there are monsters
+about. But the streets are still streets, the buildings are still 
+pretty normal, and there is snow falling, not rain. When Harry leaves
+the Town Centre, after encountering the Larvae, yes, that is Dark Silent
+Hill!
+
+I hope I cleared that up for many of you, and that maybe a few light
+bulbs and bells went off. I hope that they are going off all the
+while you are reading this. But if not, you'll be given the chance to
+get further answers. Don't worry, I won't leave you... IN THE DARK!
+
+So now, to return to Cybil's purpose in the game. She is a Confidant,
+but not a perfect one. The conversations between her and Harry do let
+us know that whatever Harry is experiencing, this "Dark Silent Hill"
+as it were, it is only happening to him. This reinforces the whole
+Alessa/Dahlia powerstruggle theory, and that Harry is the pawn in 
+the entire milieu. Since Cybil is not experiencing Dark Silent Hill,
+she would seem to have no use in the struggle between Dahlia and her
+daughter. Why, then, is Cybil even here???
+
+Is it because Cybil just happened upon the situation, as Cheryl was
+returning to Silent Hill and gradually remembering who she really
+was? Did the officer get sucked into this situation by accident???
+Maybe so, even though Cybil is later used against Harry. The officer
+spends most of the game as a normal person, and as Harry's ally. Only
+after Cybil assists Harry, by telling him that she saw a young girl
+crossing the lake, does Cybil become important in the power struggle
+between Dahlia and Alessa. By giving away Alessa's hiding place in the
+conjured world, Cybil has focused Harry on where he needs to search.
+Up till this point in the game, he has been searching entirely the
+wrong areas. But Cybil has provided assistance to Harry, and that 
+makes the officer an inconvenience to Alessa. Soon afterward, Alessa
+takes control of Cybil by attacking her with a parasite, to be 
+discussed later. 
+
+Cybil follows Harry through the concealed tunnel in the Antique Shop,
+to the altar where Samael was worshipped regularly by the cult. But
+Harry has been sucked into Dark Silent Hill by Alessa. Previously,
+she had been investigating near the town lake, and saw a young girl
+walking on the air across the water, toward the Resort area. This 
+was most likely Cheryl, in Alessa's form. So SHE HAS seen something
+weird, but just doesn't know how to process it, maybe. Harry uses this
+to question Lisa about the Resort area, and finds an alternate route
+to the Resort through the Silent Hill sewer system. If Lisa is under
+Alessa's control, why does she give Harry this valuable information, 
+which leads Harry to Alessa? I don't know, I find it to be a plothole
+in the game, if all my other theories are to be accepted. 
+
+Cybil is next seen in the same sewer system, looking around a corner 
+in a frightened manner. Something hits her from behind and knocks her 
+to the ground. Whatever it was, it caused alot of red liquid to 
+splatter. What happened to Cybil???
+
+This is the question that I have to be the most vague about 
+answering. The only affirmative answer is, "I don't know". And 
+neither can any of you, because not even Cybil herself can explain 
+it later. What we all do know happens, is that Cybil is somehow
+"possessed", or taken control of, by the dark forces of Silent Hill.
+With blood-filled eyes, Cybil goes after Harry in a slow and creepy
+manner, and begins shooting at him. She moans and bends over several 
+times. If Harry runs far enough away, she won't pursue him. Several
+times, Cybil turns, as if to show Harry the red patch on her back. 
+These behaviors are quite a bit like those exhibited by the evil 
+doctors and nurses in the Dark Alchemilia Hospital, who all had strange
+humps on their backs, containing wriggling shapes.
+
+Now the player has the choice of either fighting to the death with 
+Cybil, in which case she dies and Harry laments, or if the player is
+extremely keen(and I mean EXTREMELY KEEN) they might attempt to prevent
+Cybil's death by curing her, using the medicine scooped off of the floor
+of Kaufmann's office. This second method causes Cybil to collapse, and
+a smoking parasite of some kind crawls out of her back.
+
+So how did Cybil become possessed? Obviously in the previous cinema,
+where we saw the parasite slam into her back. Many have written to me
+since the publication of the Silent Hill Plot Guide, addressing this
+issue. Many seem to feel that Kaufmann uses the Aglaophotis to turn
+Cybil into this. I do not agree. Where, then, did this THIRD 
+Aglaophotis sample come from? And please don't email me with your 
+imaginative extrapolations, saying "Well, there's plenty of parts of the
+town we don't get to see, where Kaufmann might have other stashes of 
+Aglaophotis". Fine, if you want to believe that, don't let me stop you.
+However, I will stick to what is presented in the game. 
+
+Something... something UNSEEN attacks Cybil. This much is clear to me. 
+Something smashes into her back with a either a great enough force to 
+cause her blood to splatter, or with such a splatter that it goes 
+everywhere. What I will accept is that the spine, in the back, is 
+depicted in this game several times as the doorway to possession. Mother
+Alessa (the full-grown version of Alessa seen only at the end of the 
+game, in the white gown)is possessed by Samael. Samael rises out of 
+Alessa, through her back. This is the same as all the doctors and nurses
+of the Hospital, controlled by the parasites squirming around in their 
+backs. 
+
+Were these the actual staff of the hospital, at one time? Perhaps. I
+certainly do think so, for myself. I think Alessa had to suck ALL of the
+staff into her nightmare world, just to draw Kaufmann in as well. When
+she had drawn them all in, she asserted control over all but Kaufmann
+by creating parasites that attacked and "possessed" all the staff.
+Then, she transformed one of these possessed creatures into the likeness
+of her old nurse, Lisa. 
+
+Along these lines, I will assess that while trying telepathically to 
+remind Cheryl of who she was, that Samael accidentally allowed Cybil to
+slip into the conjured world. And like everyone else who was 
+accidentally drawn into this world, one of Alessa's parasites finally
+seeks out Cybil and takes her over. Now, Cybil becomes another of 
+Alessa's tools to stop Harry, and maybe the most powerful one yet, 
+since Harry has recently become acquainted with the cop and has sided
+with her. Only when Harry twists "possessed" Cybil around and uses the
+Aglaophotis on her back is Cybil reclaimed from the clutches of evil. 
+The next time we see the Aglaophotis used is when Kaufmann hurls it at
+Mother Alessa, and Samael then pours out of her back. 
+
+So the purpose of the Aglaophotis seems to be that it can extract the 
+demonic element in possession of any person in the game. My only
+problem with this is that you can't use the Aglaophotis on any of the 
+Doctors and nurses at the Hospital, and you can't use it on Alessa 
+yourself during a Bad Ending (an ending in which Kaufmann does not 
+appear, and Harry must fight and defeat only Mother Alessa). This gives
+me some pause in fully endorsing this theory, but then I remind myself
+that it's just a videogame, and not everything is planned for. Plus, 
+this is the only near-conclusive theory I can attain from what is 
+presented in the game.
+
+Now I will recapitulate from what has been previously stated to make
+my assertions regarding Cybil and her role in the game clear:
+
+1. Cybil is drawn into the conjured world by accident. As an incidental
+and unimportant piece in the chessmatch between Dahlia and Alessa, she
+does not experience the same shifting-reality experience that Harry
+has. She is free to explore on her own, and incidentally catches sight
+of Alessa, telling Harry where he can find her.
+
+2. Perhaps because Cybil helps Harry draw closer to Alessa, Alessa
+creates a parasite that possesses Cybil, just like she did previously
+to everyone else who was accidentally drawn into the conjured world.
+Now, Cybil is under Alessa's control.
+
+3. Alessa positions "possessed" Cybil to fight Harry. But in a + ending
+scenario, Harry thinks to use the medicine from Kaufmann's office on
+her. This causes the supernatural parasite to be extracted from Cybil's
+back. 
+
+4. True to form, the Aglaophotis extracts the demon Samael from Alessa,
+but probably not with the results the doctor expected. Samael is freed
+momentarily to wreak havoc on the universe.
+
+Well, I admit it's not the most conclusive part of this analysis, but
+I have basically explained Cybil's role in the entire game as best I 
+can, using the skills I was trained to use in years of Plot Analysis,
+while studying Dramatic Structure in my screenwriting classes at 
+college. 
+
+=======================================================================
+9.         Topic 7: The Endings
+=======================================================================
+What confuses most players is that Silent Hill does not wrap itself up
+at the end in a nice, tight little package with a bow, like most other
+games. Not everything is explained, and the player is left to question
+what actually occurred during the game. This is usually the case for 
+most players, even after replaying the game enough to get all five 
+endings to the game.
+
+So let's examine these endings, to find out what happens.
+
+THE BAD ENDING
+This is what occurs in the final area if you did not use the Aglaophotis
+on Cybil, and if you did not find Kaufmann's stash at the Motel. Harry
+is in a conjured version of what seems to be Dahlia Gillespie's house,
+on the second floor. After experiencing another psychic image from
+Alessa, he runs downstairs. This room is very similar to the
+Dark Midwich Elementary School Boiler Room, where Harry encountered 
+the Lizard. But now, the room is inhabited by three others. They are,
+from left to right: Dahlia; Alessa #1, seated in a wheelchair, burned
+from head to toe and wrapped in dirty bandages; and finally, Alessa 
+#2, who was Harry's adopted daughter Cheryl for the past seven years. 
+Harry demands to see Cheryl, and Dahlia explains to him that Alessa
+#2 IS Cheryl. Then Dahlia magically combines the two girls into one
+being, whom I call the Mother Alessa since Dahlia proclaims, "My 
+daughter will be the mother of a god!" The Mother Alessa bears the
+full and vibrant power of the demon contained within her, Samael.
+She releases her power now, and destroys Dahlia. Then, she tries
+to destroy Harry. Harry runs around and shoots her until she dies.
+Then he collapses to the floor, sobbing in grief. Alessa's fake
+world crumbles around him. Then the credits begin to roll, but the 
+best is yet to come. With this ending only, a song with lyrics plays.
+In all the other endings, we get to see bloopers of sorts, featuring
+the CG-rendered cast messing up scenes from the intro and the game, 
+and acting all kinds of silly. But not in the Bad Ending. This time,
+there is only credits scrolling over darkness, and the sad song
+playing. After the credits, there is one last shot. Harry is still
+seated in his crashed jeep. Blood runs from a wound on his forehead.
+He is dead.
+
+THE BAD + ENDING
+This is what occurs in the final area if you used the Aglaophotis on
+Cybil, but you did not find Kaufmann's stash at the Motel. Harry is
+in a conjured version of what seems to be Dahlia Gillespie's house,
+on the second floor. After experiencing another psychic image from
+Alessa, he runs downstairs. This room is very similar to the
+Dark Midwich Elementary School Boiler Room, where Harry encountered 
+the Lizard. But now, the room is inhabited by four others. They are,
+from left to right: Dahlia; Alessa #1, seated in a wheelchair, burned
+from head to toe and wrapped in dirty bandages; Alessa #2, who was
+Harry's adopted daughter Cheryl for the past seven years; and finally,
+Cybil, who's somehow beaten Harry here, and has her gun trained on
+Dahlia. Dahlia uses her power to knock Cybil away. Now Harry steps
+forward. He demands to see Cheryl, and Dahlia explains to him that 
+Alessa #2 IS Cheryl. Then Dahlia magically combines the two girls 
+into one being, whom I call the Mother Alessa since Dahlia proclaims, 
+"My daughter will be the mother of a god!" The Mother Alessa bears the
+full and vibrant power of the demon contained within her, Samael.
+She releases her power now, and destroys Dahlia. Then, she tries
+to destroy Harry. Harry runs around and shoots her until she dies.
+Then he collapses to the floor, sobbing in grief. Alessa's fake
+world crumbles around him. Then the credits begin to roll, but there is
+yet a final shot afterwards. Cybil gets up, and limps over to Harry. She
+grabs him, shakes him, and finally slaps him to bring him around. 
+"Harry," she yells. "Go!" 
+
+THE GOOD ENDING
+This is what occurs in the final area if you did not use the Aglaophotis
+on Cybil, but you did find Kaufmann's stash at the Motel. Harry is in
+a conjured version of what seems to be Dahlia Gillespie's house, on the
+second floor. After experiencing another psychic image from Alessa, he
+runs downstairs. This room is very similar to the Dark Midwich
+Elementary School Boiler Room, where Harry encountered the Lizard. But
+now, the room is inhabited by three others. They are from left to right,
+Dahlia, Alessa #1, seated in a wheelchair, burned from head to toe and
+wrapped in dirty bandages, and finally, Alessa #2, who was Harry's
+adopted daughter Cheryl for the past seven years. Harry demands to see
+Cheryl, and Dahlia explains to him that Alessa #2 IS Cheryl. Then
+Dahlia magically combines the two girls into one being, whom I call the
+Mother Alessa since Dahlia proclaims, "My daughter will be the mother of
+a god!" The Mother Alessa bears the full and vibrant power of the demon
+contained within her, Samael. But now, Dr. Kaufmann enters the room.
+He is quite certain that Dahlia has betrayed him, that she assumed 
+control of the power within Alessa for herself. He produces the medicine
+he took from Harry in the Motel garage, which Dahlia identifies with 
+some horror on her part to be "Aglaophotis". Kaufmann hurls the liquid
+at Alessa. The substance causes the giant, winged demon, Samael, to be
+extracted from Alessa. The demon turns on Dahlia, and destroys her 
+form. Then, the demon tries to destroy Harry. Harry runs around and
+shoots the monster until it screams in agony, the scream of a young
+girl. Behind him, the monster that Alessa had disguised as her former
+nurse, Lisa, rises out of the floor. She sneaks up behind Kaufmann and
+grabs him, dragging him down through the floor, to a fate we can
+safely assume to be worse than death. Harry turns to Mother Alessa,
+who has collapsed on the floor. The conjured world is crumbling around
+them. Alessa produces a small bundle containing an infant, and gives
+it to Harry. She then points to a bright light off in the distance.
+Harry runs. After the credits roll and are done, a final shot occurs.
+Harry emerges from the conjured world, and finds himself running down
+the highway at night. He is carrying the small baby. He stops, looks
+around. His expression is one of confusion and anger.
+
+THE GOOD + ENDING
+This is what occurs in the final area if you used the Aglaophotis on Cybil 
+and you found Kaufmann's stash at the Motel. Harry is in a conjured
+version of what seems to be Dahlia Gillespie's house, on the second
+floor. After experiencing another psychic image from Alessa, he runs
+downstairs. This room is very similar to the Dark Midwich Elementary
+School Boiler Room, where Harry encountered the Lizard. But now, the
+room is inhabited by three others. They are from left to right, Dahlia,
+Alessa #1, seated in a wheelchair, burned from head to toe and wrapped
+in dirty bandages, and finally, Alessa #2, who was Harry's adopted
+daughter Cheryl for the past seven years. Harry demands to see Cheryl,
+and Dahlia explains to him that Alessa #2 IS Cheryl. Then Dahlia
+magically combines the two girls into one being, whom I call the Mother
+Alessa since Dahlia proclaims, "My daughter will be the mother of a
+god!" The Mother Alessa bears the full and vibrant power of the demon
+contained within her, Samael. But now, Dr. Kaufmann enters the room.
+He is quite certain that Dahlia has betrayed him, that she assumed 
+control of the power within Alessa for herself. He produces the medicine
+he took from Harry in the Motel garage, which Dahlia identifies with 
+some horror on her part to be "Aglaophotis". Kaufmann hurls the liquid
+at Alessa. The substance causes the giant, winged demon, Samael, to be
+extracted from Alessa. The demon turns on Dahlia, and destroys her 
+form. Then, the demon tries to destroy Harry. Harry runs around and
+shoots the monster until it screams in agony, the scream of a young
+girl. Behind him, the monster that Alessa had disguised as her former
+nurse, Lisa, rises out of the floor. She sneaks up behind Kaufmann and
+grabs him, dragging him down through the floor, to a fate we can
+safely assume to be worse than death. Harry turns to Mother Alessa,
+who has collapsed on the floor. The conjured world is crumbling around
+them. Alessa produces a small bundle containing an infant, and gives
+it to Harry. She then points to a bright light off in the distance.
+Cybil gets up, and the two of them run for the light. After the credits
+roll and are done, a final shot occurs. Harry and Cybil stand in the
+same spot Harry and his wife stood at seven years ago. Harry picks up
+the baby in the bundle from off the ground. Cybil plays with the baby,
+and there is a look of happiness exchanged between Harry and Cybil.
+Now here's the strange thing, when you start up a new game and watch
+the intro, the scene with Harry and his wife finding the baby has been
+replaced with the same scene, with Cybil instead of Harry's wife. And
+it will remain this way through every subsequent game, no matter which
+ending you get.
+
+THE UFO ENDING
+During a Next Fear game, a replay of Silent Hill, Harry might be
+able to find a new item called the Channeling Stone at the Convenience
+Store near the beginning of the game. As the game progresses, access 
+the inventory menu and Use the Channelling Stone at the following
+areas:
+
+     1. The rooftop of the Midwich Elementary School
+     2. In the courtyard of the Hospital, right before going to fight
+        the Giant Moth.
+     3. In the parking lot of the Motel
+     4. In the cabin of the Boat, right after Dahlia leaves.
+     5. At the top of the Lighthouse, after Alessa disappears.
+
+With each use of the Channeling Stone, Harry will see more and more
+UFOs in the sky, for a greater duration each time. When the stone is
+used at the top of the Lighthouse, the UFO Ending suddenly occurs. The
+UFOs land, and Harry approaches them. Aliens emerge from the UFOs, and
+Harry waits for them to speak. But they say nothing. In confusion, 
+Harry apologizes, awkwardly. Then he asks, "Say, have you seen a little
+girl, about seven, short black hair-" One of the aliens whips out a 
+Konami Hyper Blaster (a real lightgun product, usable with the Sony
+PlayStation) and fries Harry with it. They pick up the stunned and 
+groaning man, drag him into the spaceship and zip off. Then, the credits
+roll, but like the introduction at the beginning of a Star Wars film.
+The theme music is really weird, like a twelve year old is playing with
+a synthesizer, and some guy keeps repeating "Silent Hill, Silent Hill!"
+Very humorous!!!
+
+So what does it all mean? In my opinion, you have to experience and
+add up ALL the endings in order to understand what happens. And even
+then, any player can only interpret for him- or herself. 
+
+When I add all the endings together, I noticed a great many things.
+The notes that I made helped me to interpret the entire plot of the
+game, and to create this guide.
+
+All of the endings are unsatisfactory, in that the nature of the power
+held by Alessa and the real plot of the game are not explained. In this
+much, I agree with everyone. Why would the developers spend a small
+fortune on the development, packaging, and marketing of a game, when
+it fails to have a tell-all, conclusive ending? 
+
+If we look at the works that inspired the game to start with, the 
+answer is clear. How do we know what works inspired the game? The 
+streets of Silent Hill are all named after famous authors and musicians.
+Many of these authors have put forth works which have themes and 
+situations adapted directly into the story of Silent Hill. A list of all
+the works that I agree have had an influence on the plot of Silent Hill
+follows:
+
+1. The Regulators, a novel by Richard Bachman (Stephen King's pseudonym)
+A young child is possessed by a powerful and irreverent evil, which
+materializes the child's toys into reality, and turns an entire
+neighborhood upside down. Life-sized versions of the toys invade the
+streets, and anyone standing outside is killed. Those who are left
+cannot call for help or leave the neighborhood, because the evil
+entity has sucked them all into a conjured world, from which there
+is no escape but to play this thing through.
+
+2. Rosemary's Baby, a novel by Ira Levin, a film by Roman Polanski
+Rosemary and her actor husband, Guy, move into a swanky and expensive
+apartment in Manhattan. Their elderly and intrusive neighbors, the
+Castavetes, are actually the leaders of a Satanic Coven. Guy makes a 
+pact with Roman, the leader, to get a lead role in a very promising
+Broadway play. In return, the Coven is allowed to summon Lucifer, who
+impregnates a drugged Rosemary with the Antichrist. Rosemary tries to
+get away, but the conspiracy reaches so deeply that she cannot. She 
+gives birth to the child, and eventually accepts that she is the mother
+of the Son of Satan, and to make the best of it.
+
+3. Phantoms, a novel by Dean Koontz
+Two sisters are en route to a small town. When they arrive, the entire
+place seems deserted. Then they stumble across the corpses of several
+people, who all seemed to have died suddenly of some sort of virus.
+Others seem to have been butchered so suddenly that they were stopped
+in the middle of menial tasks. Arming themselves, the girls suddenly run
+across a Sheriff and his two deputies. These men are from the next
+town over, investigating what is going on in town after the local 
+Sheriff called them for backup. They hear screams coming from a local
+inn, where seven guests were previously registered, but only one
+body is found. After searching the entire premises, they find words
+written in red lipstick on a bathroom mirror, "The Ancient Enemy by
+Timothy Lyte". Suddenly, the body they found is missing. They return
+to the sheriff's station, and attempt to radio back to their town.
+But the transmission is cut off by terrible interference. They are 
+suddenly attacked by a large, mothlike creature, who kills one of 
+the deputies. This is where most of the simularities to Silent Hill
+ends. The rest of the story is about an ancient creature, who has
+fed every couple hundred years on a small town or village, causing
+the whole population to mysteriously disappear. Roanoke Island in
+Virginia, and an ancient Aztec city are two instances. This thing
+wants Timothy Lyte, and expert on mass disappearances, to come to
+the town and see it, to tell the world to submit to its appetite. 
+
+4. Something Wicked This Way Comes, a novel by Ray Bradbury
+The novel relates the tale of an evil carnival that comes to a small
+town, in the fall, out of season. Two young boys discover by accident
+that the carnival people and their devious leader, Mr. Dark, are luring
+several townsfolk into giving up their souls and becoming slaves to the 
+carnival. The carnival's main attraction is a carousel, much like the
+one that appears in Silent Hill, except that those who ride on this one
+are aged or made younger, depending on the direction the ride is 
+spinning. Several instances occur where Mr. Dark is able to convince 
+the boys that they are someplace that they are not, and that they are
+being attacked by spiders that don't exist. These are the only 
+simularites that I notice between the two plots.
+
+5. The Midwich Cuckoos, a story by John Wyndam
+This classic science fiction/horror tale is the basis of the Village 
+of the Damned films, in which children have terrible powers to alter 
+reality and attack adults. The Midwich Elementary School in Silent Hill
+proudly steals its name from Wyndam's book.
+
+6. Sphere, a novel by Michael Crichton
+Another Crichton work that may be an influence on Silent Hill is the
+famous Jurassic Park, in which dinosaurs roam the planet once again.
+I only mention this due to the pterodactyl-like flying demons in the
+game, maybe they were influenced by the book. But even more of an
+influence on the game, I feel, is the novel Sphere, which just recently
+became a movie. This story plays with reality and the reader's head in
+ways that remind me of Silent Hill. Also, one of the main concepts of 
+the book involves thought becoming reality, no matter how illogical
+those thoughts may be. Monsters are generated simply because one person
+unknowingly wills them into being. This is how I developed my theory 
+that Alessa is controlling reality in Silent Hill with her mind, and 
+that she is generating all the monsters in the game sheerly out of pure
+thought. Notice how, when the monsters are killed, they fade away after
+some time? I've seen it happen!!! Just back away from any enemy you 
+kill, until it is lost in fog or darkness. Count to three, and then run 
+back to it. You might catch a glimpse of the dead enemy fading away.
+This fading of monsters happens in Sphere as well.
+
+7. Hell House, a novel by Richard Matheson
+Matheson Street in the game is named after the author of many horror,
+sci-fi, and mystery novels. Matheson also wrote classic episodes of
+Star Trek and The Twilight Zone. Needless to say, reality is not a 
+firm concept in any of his works, and irony in the situation of 
+characters is mainstay. This is especially true in Hell House, where
+a team of paranormal detectives travels to a notorious house to 
+investigate. Upon first arriving, they discover a secret room which
+seems to have been used for Satanic rituals, and the sacrifice of
+living children, many of whom seemed to be burned to death. But things
+are not what they seem. Luckily for Matheson readers, the author is
+a bit more generous about explaining things at the end. I strongly 
+suggest that all Silent Hill lovers read this book, you should be able
+to find it at the library, or a book collector's shop. You also might 
+enjoy his other work, I Am Legend, which was the basis of the film 
+Omega Man, starring Charlton Heston.
+
+And there are plenty others, from the other authors reference to in the
+game by name. Here are some works which I personally feel were influences 
+on the game, but are not referenced to directly in Silent Hill:
+
+1. Jacob's Ladder, a film by Adrian Lynne
+This is a truly disturbing film, and it's obvious to me, and most Silent
+Hill players who view it, that it was a big, BIG influence on the game.
+Tim Robbins plays a Vietnam veteran who was exposed to some kind of
+nasty gas during a fire-fight in the jungles. Now he is a postal worker
+in the states, but he has some severely disturbing flashbacks, and some
+very hellish hallucinations involving demons. The big question is, what
+part of his experience is reality? One sequence involves Robbins' 
+character, named Jacob, being forcibly wheeled into a hospital against
+his will. As he is taken on a gurney further into the hospital, the 
+doctors and patients take on disturbing and twisted shapes. The walls
+are covered with chainlink fencing and mesh, and everywhere there are
+bloodstains and rust. The setting is quite visually similar to what is
+encountered in Dark Silent Hill. We find out at the end of the film
+that NONE of what has been seen was real. This helped me to form the 
+theory that neither Misty Silent Hill nor Dark Silent Hill are the 
+Real Silent Hill.
+
+2. Twin Peaks, a television series created by David Lynch.
+Twin Peaks involved alot of weird and unexplainable events connected
+to the murder of a local high school girl named Laura Palmer. The
+main plot of the show, during its first season, revolved around the 
+attempts of FBI Special Agent Dale Cooper and local sherrif Harry S.
+Truman to figure out who murdered Laura Palmer. The only good clues in 
+the case were of a metaphysical nature, mostly derived from Agent
+Cooper's strange dreams. Eventually, Cooper and Truman learned that the
+murderer was Laura Palmer's own father, who acted under the influence 
+of a demonic entity known as "Killer Bob". This evil spirit possessed
+Leland Palmer since he was a young boy, and only manifested 
+occasionally, like a second personality. Leland had no knowledge of Bob
+or what the entity caused him to do. Killer Bob hailed from a place
+called the Black Lodge, an alternate reality that Agent Cooper had
+visited many times in his dreams. In tracking down a deranged FBI 
+agent named Windam Earl, Cooper was forced to enter the Black Lodge
+and confront Bob, among other entities. After Cooper was found 
+unconscious in the woods, he began acting strangely. The very last
+shot of the series showed Cooper slamming his head into a bathroom
+mirror, causing himself to bleed. Laughing hysterically, he began
+making fun of things he had said previously, while pretending to be
+Agent Cooper. You see, Killer Bob had taken possession of Agent Cooper.
+This much was not clearly explained, or spoon-fed to the viewers, and
+many had trouble understanding what had occured. I myself had to watch
+this episode several times before I understood. Seems like the makers
+of Silent Hill devised their ending along the same lines. Notice also
+how the intro is kinda like the opening of a television series? The
+viewer is shown clips that they may have seen and clips that are yet to
+come. (Even if you've played the game five times, you still haven't
+seen all the clips in the intro.) The theme music is very experimental,
+and the music that occurs in the game, (low, quiet, ominous, more noise
+than music) is very similar to the music of Angelo Badalementi during
+some of the more disturbing parts of Twin Peaks. Also, Twin Peaks was 
+chock full of irreverent humor, which may explain the inclusion of the
+hilarious yet offbeat UFO Ending. I consider Twin Peaks, which I watched
+enthusiastically from its premiere to its closure, to be all the warm-up
+I needed to be able to tackle the plot of Silent Hill.
+
+Now that we've got all that information under our belts, I feel a 
+little safer trying to explain my interpretations of the endings to the
+game. Listed hereafter are the several theories that I entertain, 
+regarding the meaning of the endings of Silent Hill.
+
+THE "IT'S ALL IN HARRY'S MIND" THEORY
+The developers went to some lengths to make the Bad Ending Stand out
+from the rest. This much is clear, in that there are no "bloopers"
+during the credits, and there is a ballad that is played. After the
+unique credits are concluded, a shot of Harry in his jeep, dead. 
+
+I think that these occurances have been highlighted by the developers to
+hint that this is the most important ending, and maybe the most telling.
+The implication is that Harry has been in his jeep this whole time,
+teetering between life and death, witness to images of heaven and hell.
+Viewers of the film Jacob's Ladder will recognize this concept right 
+away. I'm going to go ahead and spoil the ending of that film, so that
+my concept of the ending can be illustrated better. I would suggest that
+any of you who want to view that film, and don't want it spoiled, rent
+it before you read any further.
+
+In the end of Jacob's Ladder, we learn that none of what Jacob has 
+experienced has been real. He has never even left Vietnam. All of what
+he has experienced has happened only in his mind, as he fell in and out
+of consciousness. Previously, we saw how Jacob was seriously wounded in
+the jungle during a fire-fight. The events of the entire film are only
+the hallucinations that he has while dying. He must make amends with 
+his past, forgive himself for the death of his son, in order to save
+his soul from the horrors of Hell. His hallucinations vary between
+nightmarish visions, full of demons, and moments of bliss, where he 
+has survived the war and lives a peaceful life. All of the 
+hallucinations that Jacob experiences occur while he is being extracted
+by helicopter from the jungle and flown to a medical base, where 
+doctors operate on him to try to save his life. In the end, Jacob makes
+peace with himself, and with death, and goes into the heavenly light. 
+The doctors who tried to save his life finally give up, and Jacob dies
+on the operating table, where he has actually been for most of the film.
+
+The Bad Ending, and the way that it is highlighted, say to me that none
+of what has happened during the game is real. What is real is that Harry
+has been in a car accident, and that the events of the game are no 
+more than his guilt-ridden hallucinations before death. Perhaps at one 
+point, he regained consciousness just enough to become aware that Cheryl
+was gone. I think his hunt for her, throughout the game, is really a 
+metaphor for his inability to forgive himself. He's going to die, and
+he never got to tell Cheryl that she wasn't his real daughter. 
+
+What is the meaning of the other endings, then? In the Bad+ Ending, 
+Harry has rescued Cybil, and therefore has the opportunity to confess 
+his sins to her, not telling Cheryl that he wasn't her real father. In
+this manner, perhaps the true purpose of Cybil's existance in the game
+is revealed. She is Harry's confessor, his priest, and therefore, his
+angel. Hence, Cybil is beautiful and kind. She becomes evil when Harry
+is still reluctant to admit his guilt. But she is returned to angelic
+status so that Harry can confess what he feels to be his major sin. But
+these are both still the Bad Endings, and for good reason. Notice that
+at the end of both, there is no exit tunnel, with a light at the end.
+The game ends with Harry being stuck in the Dark conjured world, and 
+flames are raining down upon him. If Harry has admitted his guilt, then
+why is he confined to Hell at the end of the game? I think it is 
+because he has failed to cause the circumstances that allow the demon
+to be extracted from his daughter. Thus, at the end of the game, when
+Harry kills the woman who represents his own daughter, he has failed
+to see her as anything but a monster and the bane of his existence.
+Sometimes, when people can't admit something to the people they love,
+they begin to see those people in a resentful fashion. Hence, Harry
+resented his daughter in real life because he couldn't admit the truth
+to her. 
+
+So in the hallucinatory world within his mind as he lay dying, Harry
+must not only admit that he was wrong not to tell his daughter, whatever
+her real name may be, that he wasn't her real father, but he must also
+stop resenting her for it. Thus, when the demon is extracted from 
+Harry's daughter, and he defeats it, this is all a metaphor for Harry
+finally being able to admit his wrong and conquer his own inner demon, 
+who was not his daughter, but another entity all along. Only then is 
+the long tunnel with the light at the end available for Harry to run
+to. Only then does Harry achieve everlasting peace and a final 
+happiness. Otherwise, he condemns himself to Hell, and the entire
+game has only been a metaphor for the choice he has had to make. He
+has experienced Hell, and maybe Heaven, just like Jacob did in the
+film that I have compared it to.
+
+Seem a little deep? Watch the film, Jacob's Ladder, and then see if
+this theory makes any sense.
+
+But this leaves out the final shots of the other three endings. What
+are their secret meanings? If we hold the previous theory up, then the
+other endings are merely Harry's mental explorations of all the possible
+outcomes. If he confesses his guilt and stops seeing his daughter as
+his personal demon, then he goes to Heaven and is finally happy with 
+his angel, Cybil. If he doesn't confess his guilt, but still quits
+casting his daughter as his demon, then he still gets to go to 
+Heaven, but it's a much emptier place. If he confesses his guilt, but
+still resents his daughter for his own crimes, he is condemned. And if
+he does neither, then he becomes aware that he has died and committed
+himself to an eternity of grieving over his mistakes.
+
+THE "TWILIGHT ZONE" THEORY
+Many episodes of the television series The Twilight Zone, including
+one written by referenced author Richard Matheson, related the tales
+of individuals who are stuck in limbo, doomed to repeat the same events,
+never realizing from one repetition to another that they are stuck in
+a continuous loop of time. My other theory about the meanings of the
+endings of Silent Hill are drawn from this plot formula.
+
+Remember the theory I stated previously that the whole game is a game
+within a game, a chessmatch between Dahlia and Alessa, with Harry as
+the pawn? Here is where that theory comes into play. If nothing in the
+game is real, but has all been set up by a girl with supernatural
+powers, who in turn controls everything about this reality, then she
+must also exist somewhere outside this reality, in order to control it.
+Thus, we have Alessa, burned to a crisp, wrapped from head to toe in
+bandages, lying in a hospital bed in the basement of the Hospital, 
+througout the whole game. She conjures the illusion that there is 
+someone standing in the middle of the road, so that Harry has an 
+accident. The appearance of Alessa reminds Cheryl who she really is,
+thus the expression on her face is not just of horror, but of the horror
+of recognition. After the crash, maybe she gets out of the jeep, leaves
+the dying man who pretended to be her father all these years, and goes
+to find her other half. When the two are reunited, the power that has
+lain dormant within both of them is also united. But there is danger,
+that the evil mother of the girls will seek to find them, to regain
+control over them and the power they contain. So they use their power
+to conjure an alternate reality, in which they can hide. Dahlia must
+enter this reality in order to find the girls and reclaim them, but
+the girls have total control over the conjured world. They mentally
+generate demons and monsters to stop Dahlia, to kill her. Dahlia
+comes up with a plan, to use the man who in reality is about to die.
+Instead, she uses a magic device called the Flauros to alter the
+conjured world, to "program" Harry into it, so that he will carry
+the Flauros to Alessa, where it will take control of the conjured
+world from her.
+
+Now let's step back and examine this model. We have two worlds,
+the Real Silent Hill and the Conjured Silent Hill. Alessa is no 
+longer in the real world, she is only in the conjured one. Dahlia
+is in the real world, and can only mentally project herself into
+the conjured world. And then there's Harry, who is unconscious in
+his wrecked car, dying from his injuries. But he doesn't know it.
+So Dahlia magically inserts the essence, or mental spirit, of Harry
+into the conjured world. She makes him think that he has awoken in
+Silent Hill and his daughter is missing. Harry loves his daughter,
+in spite of the fact that he's never told her that she's not really
+his. Dahlia knows that Harry will be driven to find Cheryl, who is
+really the active and capable second half of Alessa.
+
+Alessa must sense that Harry has been brought into the conjured world
+by Dahlia, and she probably figures out that the purpose is to find 
+her. Her main motive is to hide from Dahlia, and Harry never told her
+the truth anyhow. So she alters the world she's created so that it's
+dark and scary. Then she generates little demons that quickly overcome
+and kill Harry.
+
+But remember, this is only a magical projection of Harry. The real 
+Harry is still comatose in his wrecked jeep. So Dahlia merely starts
+over. She reinserts Harry at a safer spot, so that he can get a better
+grip on what is happening in the conjured world. To help him do this,
+Dahlia inserts Cybil in this world as well. The cop doesn't remember
+that she also wrecked near Silent Hill, and that she is also comatose
+somewhere on the highway. She thinks she is in Silent Hill, and that
+she needs to go for help. What causes her to give Harry her gun? 
+Perhaps she never does. After all, she shows up with another gun later,
+where did she get that one? Maybe Dahlia, working her magic on the 
+conjured world, only makes it SEEM like Cybil gave Harry a gun. At 
+least that way, he would be able to fight through the monsters Alessa
+was hiding behind. Dahlia then generates more weapons, and sets them
+in Harry's "path", so that he will be able to thwart Alessa's creations.
+This "path" is generated by Dahlia's device, the Flauros. As soon as
+Harry has proven himself capable of handling and dispatching Alessa's
+monsters, Dahlia projects herself into the conjured world and gives
+Harry the Flauros. She needs him to keep searching for Cheryl, who is
+really Alessa. Whenever he begins to falter in the quest, Dahlia
+takes control of the conjured world and kicks his butt back into gear.
+Alessa continues to run from Harry, in spite of his being her loving
+surrogate father for seven years. Alessa knows that Dahlia is using 
+him to get to her, and also he never told her that she wasn't really
+his daughter. Perhaps Alessa has trouble forgiving him for that. So 
+she devises a trap to make him sorry. She takes control of his new 
+friend, Cybil, and turns her against him. Harry is forced to either 
+kill her or cure her. If he kills her, then perhaps Alessa becomes 
+sorry for how she has anguished Harry. If he saves Cybil, he finally
+admits that he should have told Cheryl that he wasn't her real father.
+Either way, Alessa allows Harry to find her. The Flauros automatically 
+kicks into action and strikes Alessa down. At this point, Dahlia gains
+control over Alessa and the conjured world. Harry winds up in a horribly
+disorganized and rearranged version of the Hospital where Alessa's first
+half was kept. As he is travelling through it, the ghostly scenes he is
+witness to are mental cries of help from Alessa. When he finds Dahlia
+and the two Alessas, Dahlia tells him that Alessa is his daughter.
+Harry is in disbelief at this. Whether or not he accepts that Alessa
+was his daughter is dependent on whether or not he sees the demon
+Samael get extracted from Alessa. The extraction depends on whether 
+or not Kaufmann was able to get his sample of Aglaophotis back. 
+Remember, the "path" of the Flauros is laid out for Harry, NOT Kaufmann.
+In order for Kaufmann to be able to reach the Aglaophotis, Harry must 
+forge the path over there first. If Harry failed to show up at the Motel
+then Kaufmann was never able to get his Aglaophotis, then Harry will 
+never see it used on Alessa, and he will never see the demon as a 
+separate entity from her. Only when the demon is separated from Alessa
+and Harry gets the chance to kill it, then and only then has Harry 
+truly accepted that Alessa was not the evil behind all of this, that
+she was probably his daughter. Then and only then will Alessa allow
+Harry to pass on, into the Light, into happiness. Of course, this
+doesn't turn out the way Dahlia wanted. If you remember the model as
+I have set it up, the Dahlia that is burned up at the end is only a
+mental projection of Dahlia, projecting herself into the conjured 
+world. That's why she isn't screaming as she's burned up. She's 
+laughing, she can't actually die in the conjured world. So if things
+haven't turned out her way, perhaps she is able to "reset" everything,
+just as she was able to when Harry was killed the first time by 
+Alessa's demons. So if things don't go her way, all she has to do is
+start over. This is signified in many ways. The scene with Cybil 
+replacing Harry's wife in the scene indicates a certain repetetiveness
+in the events of Harry's life. Suddenly, he finds himself on the side
+of the road, scooping up a strange baby, admiring it with a woman he
+thinks rather fondly of. They take the baby home to Harry's house. 
+Maybe they raise it together. In a few years, maybe they forget about
+what happened in Silent Hill, and they start vacationing there again.
+Maybe Cybil develops a strange illness and dies, leaving Harry to
+raise the child alone. And maybe, one night seven years later, when
+Harry is returning to Silent Hill for a planned vacation with his
+daughter, a figure will step out into the middle of the road.
+
+Or maybe Dahlia resets the conjured world, so that Harry wakes up in
+the Cafe again, with no memory of how things turned out the previous
+time around. After all, this is how the next game you play starts. Not
+at the crash site, but in the Cafe, where everything was reset to
+the first time.
+
+So what you're left with is an eternal struggle, where a dying man is
+drawn into a situation over and over, with no memory of the previous
+times he's lived out these exact same events. Doomed to search for a 
+daughter that he lost through dishonesty, exploring every possible 
+outcome of this stalemate chessmatch between two players with the
+supernatural powers to control alternate universes. Welcome to the
+neverending nightmare of Harry Mason, age 35. A writer who just wanted
+a simple vacation with his adopted daughter, but instead, he took a
+wrong turn, into the Twilight Zone.
+
+=======================================================================
+10.        Frequently Asked Questions
+=======================================================================
+Hopefully, The Silent Hill Plot Guide, Version 2, has put all your
+questions and confusion to rest. If it is not, feel free to post a 
+message at the Silent Hill Sanitarium forums hosted at The Dark Legacy
+Network:
+
+                  http://www.dark-legacy.org/forums
+
+I will not reply directly to email regarding this guide anymore. (It's 
+time to move on with my life!!!) If you have a good question or a good
+point about this guide, then I will post it in this section and try to
+answer it. I've written this guide to the best of my 
+abilities, and I refuse to rewrite it over and over in responses to the
+hundreds of emails I receive. Just try reading the guide again!!! 
+
+The one question I have not tried to answer here, out of all the emails
+I get, is this one:
+
+QUESTION:
+Is it true that there might be another ending, where Harry finds Cheryl?
+ANSWER:
+Maybe there once was, in a previous, unreleased version of the game.
+There are certain pieces of evidence and certain messages that Harry
+receives when he tries to pick up certain items or examine certain
+areas, which would indicate that they might some use at some point. 
+Alas, these items can never be picked up, and all hope of finding a 
+hidden sixth ending as a result is lost. My thanks go out to an 
+individual who posted a theory at my board that has cleared all this
+up. When Silent Hill was first announced, press releases indicated that
+there would be two playable characters with different scenarios, like
+Resident Evil 2. But we all know that the retail version has only one
+playable character, Harry. Evidently, Cybil was originally intended to
+be a playable character, and maybe another side of the story was viewed
+from her perspective. Items that Harry has "no use for right now" may
+have been essential in Cybil's adventure. But Cybil's scenario was not
+completed or it was scrapped, and not all the clues were taken out of
+Harry's scenario.
+
+I have exhausted every possibility of finding another, more conclusive
+ending. I even created a forum at my personal page for a while called 
+"Silent Hill Workshop", where myself and a team of volunteers attempted
+every trick in the book to find it. We even applied gameshark codes to 
+certain situations, but to no avail. So I am content with the theory
+that another scenario for Cybil was once planned, which would have tied
+up the loose ends in the story and made use of certain objects Harry
+cannot use. But when this scenario was scrapped, the developers left 
+Silent Hill largely incomplete and confusing, and thus the need for 
+this plot guide arises. 
+
+=======================================================================
+11.        Credits
+=======================================================================
+Special thanks to the following:
+
+To KCET, for making one of the greatest horror experiences ever, 
+and I mean it. SILENT HILL is scarier than any horror movie in 
+Theaters or on video right now. Let's hope some Hollywood exec's 
+are taking notes....
+
+To Victor Quimson at Konami, for replying to my ridculous demands
+for an advance copy of the game and for answering all my questions
+before and after the game's release.
+
+To Ashley Jhonen, for being nice enough to post my completely
+overwritten Resident Evil Thesis on his website, a cool and 
+somewhat dour Resident Evil site at:
+http://members.tripod.com/~Bad_Ass_Barry/newevil.html
+and for requesting that I write this and for all his support.
+
+To "Chris Redfield", webmaster of the Central Silent Hill website
+at: silenthill.evil-online.com , also for asking for this treatment.
+Where ARE you, buddy?
+
+To "buttcaptain" for his weird e-mails, containing the strangest
+jokes I've ever read, and for being kind enough to read my synopsis
+only partially contained herein and explaining how Carl Sagan's 
+theories apply to the story of SILENT HILL.
+
+To Gunsmith, author of the SILENT HILL Walkthrough at 
+www.gamefaqs.com and many other sites, for replying to my 
+whiny e-mails and trying to help me find the stupid katana.
+
+To everyone who e-mailed me with every kind of question 
+imaginable and forced me to update this guide.
+
+To everyone who sent me really nice letters complimenting me
+on this guide and thanking me for writing it. Thanks to your
+encouragement, I will definitely write more guides. Keep an
+eye out for them.
+
+To BradyGames, for giving me fantastic games to write guides for. 
+Find my offical strategy guides for games such as The Bouncer, Onimusha:
+Warlords and Zone of the Enders at your favorite gamestore.
+
+SPECIAL THANKS to my wife, Laura, whom I love very deeply and who
+has read everything I've written and corrected all my grammar and
+spelling mistakes. If she were trapped in Silent Hill, not 6000 Winged
+Demons could keep me away.
+
+And thank YOU, for reading this.
+
+Due to personal abuse and viruses received at my personal email as 
+a result of posting my email address in this FAQ, I will not accept
+personal email about it any longer. The only way to contact me is 
+through a The Silent Hill Sanitarium's messageboards. Copy and paste 
+the following URL address into your browser, and go there with any 
+questions or comments you have:
+
+              http://www.dark-legacy.org/silent-hill
+
+Coming Soon: The Zone of the Enders Official Strategy Guide, published
+by BradyGames! Yee-hah!

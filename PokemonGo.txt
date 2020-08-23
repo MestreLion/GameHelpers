@@ -1,0 +1,165 @@
+LEGENDARIES
+=======================================
+
+Zapdos (Electric / Flying)
+--------------------------
+	GROUND type: x0.5 (paired with GRASS, ELECTRIC, DRAGON: x0.3; WATER, FLYING: x0.7)
+	ROCK or ICE attack: x1.4 (but NOT GROUND! x0.7)
+
+	Tyranitar (DARK/ROCK)	93%	54%	39%	76%
+		Bite (DARK)
+		Stone Edge
+
+	Rhydon (GROUND/ROCK)	82%	52%	41%	74%
+		Rock Smash (FIGHTING)
+		Stone Edge
+
+	Golem (GROUND/ROCK)	78%	58%	31%	69%
+		Rock Throw
+		Stone Edge / Rock Blast
+
+	Sudowodo (ROCK)		62%	50%	27%	58%
+		Rock Throw
+		Stone Edge / Rock Slide
+	
+	Magcargo (ROCK/FIRE)	51%	53%	20%	52%
+		Rock Throw
+		Stone Edge
+
+Lugia (Flying / Psychic)
+--------------------------------
+	Good Moves: DARK, ICE, ELECTRIC, GHOST, ROCK (x1.4)
+	Bad moves : FIGHTING, GROUND (x0.5); GRASS, PSYCHIC (x0.7)
+
+	IF DRAGON:
+		Good Types: FAIRY (x0.5); STEEL (x0.7)
+		Bad Types : DRAGON (x1.4)
+
+	IF PSYCHIC:
+		Good Types: DARK (x0.5); STEEL, PSYCHIC (x0.7)
+		Bad Types : FIGHTING, POISON (x1.4)
+
+	IF FLYING:
+		Good Types: ROCK, STEEL, ELECTRIC (x0.7)
+		Bad Types : BUG, GRASS (x1.4)
+
+	IF WATER:
+		Good Types: WATER, GRASS, DRAGON (x0.7)
+		Bad Types : GROUND, ROCK, FIRE (x1.4)
+
+	Always GOOD: STEEL, DARK, FAIRY, PSYCHIC, ELECTRIC
+
+
+	Tyranitar (DARK / ROCK): if not WATER
+		DARK, ROCK
+
+	Zapdos (ELECTRIC / FLYING)
+
+	Gyarados (FLYING / WATER): if WATER
+		DARK
+
+
+TYPES
+=======================================
+
+B	(B)ug
+K	Dar(k)
+D	(D)ragon
+E	(E)letric
+Y	Fair(y)
+H	Fig(h)ting
+F	(F)ire
+L	F(l)ying
+T	Ghos(t)
+S	Gras(s)
+G	(G)round
+I	(I)ce
+N	(N)ormal
+P	(P)oison
+@	Psychic
+R	(R)ock
+M	Steel
+W	(W)ater
+
+
+@	Psychic
+B	(B)ug
+D	(D)ragon
+E	(E)letric
+F	(F)ire
+G	(G)round
+H	Fig(h)ting
+I	(I)ce
+K	Dar(k)
+L	F(l)ying
+M	Steel
+N	(N)ormal
+P	(P)oison
+R	(R)ock
+S	Gras(s)
+T	Ghos(t)
+W	(W)ater
+Y	Fair(y)
+
+
+DEFENDERS
+=======================================
+
+- Blissey 98
+	NORMAL
+	15/14/15 - 97.8%
+	Zen Headbutt (PSYCHIC)	 12
+	Dazzling Gleam (FAIRY)	120	2 bars
+	OPTIMAL DEFENSE - 1A
+
+- Dragonite 91
+	DRAGON / FLYING
+	12/15/14 - 91.1%
+	Dragon Tail (DRAGON)
+	Hurricane (FLYING)
+	GREAT OFFENSE - 2A
+	GOOD  DEFENSE - 2B
+
+- Tyranitar 82
+	DARK / ROCK
+	13/10/14 - 82.2%
+	Bite (DARK)
+	Cruch (DARK)
+	GREAT OFFENSE - 2A
+	POOR  DEFENSE - 4C
+
+
+BEST AGAINST
+==================
+
+Exeggutor (GRASS / PSYCHIC)
+---------------------------
+Vulnerable to: BUG, DARK, GHOST, FIRE, ICE, POISON, and FLYING
+Resistant to : PSYCHIC, Electric, GRASS, GROUND, WATER, FIGHTING
+
+Usual Moves  : PSYCHIC
+Weak against :
+Strong againt:
+
+Good attackers:
+	Gengar (but vulnerable to PSYCHIC)
+	Flareon
+	Charizard
+	Pinsir
+	Houndoom
+	Typhlosion
+	Arcanine
+
+Rhydon
+---------------------------
+
+Good attackers:
+	Vaporeon
+
+
+Gyarados (WATER / FLYING)
+----------------------------------
+
+Good attackers:
+	Jolteon
+

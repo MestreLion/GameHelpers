@@ -1,0 +1,371 @@
+Updates:
+10/01/2000 Uncertain bit 4 of byte 0 clarified. Mystery bit 7 of byte 4 added.
+Byte 2 speculation added. Information on numerous effect subroutines added.
+Added spell visual effect information. Added hardcode notes.
+09/03/2000 Header added, info on elemental/status table added, some info on
+byte 01 added.
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+Spell names are 6 bytes long. Table is from 78B00 to 78CAF. Each spell also
+has an entry in a table starting at 799A0 specifying its effects in battle.
+Table entries are 6 bytes long. One of the six bytes has a different meaning
+depending on what subroutine the spell uses (which determines the basic effect
+of the spell: damage based on caster's hp, damage based on target's max hp, 
+raise from the dead, etc.) First, the fixed meaning bytes:
+
+byte 00:
+    bits 0-4: casting time
+    bits 5-7: targetting type
+        000 N/A
+        001 one ally
+        010 all allies
+        011 one/all ally/enemy (defaults to ally)
+        100 one enemy
+        101 one ally/enemy
+        110 all enemies
+        111 one/all ally/enemy (defaults to enemy)
+byte 02: unknown (chance of the attack to hit, perhaps?)
+byte 03:
+    bits 0-6: what effect subroutine is called when the spell is cast
+        00 base X mult damage (Fire1, Fire2, Fire3, Ice-1, Ice-2, Ice-3,
+            Lit-1, Lit-2, Lit-3, Nuke, Meteo, etc.)
+        01 base X mult damage + HP leak (White, Virus, Big Bang, Pollen,
+            Digest)
+        02 cure (Cure1, Cure2, Cure3, Cure4, Asura 5A, Asura 5B)
+        03 reduce to single-digit HP (Weak 27, Weak 72, Storm)
+        04 drain HP (Drain)
+        05 drain MP (Psych)
+        06 status: various, does not affect spirits, undead, or machines
+        07 status: sleep or paralyze (Hold, Sleep, Pin, Tongue, Entangle, Gas)
+        08 image (Blink, Image)
+        09 wall (Wall)
+        0A life (Life1, Life2, Asura 5C)
+        0B heal (Heal 12, Heal 93)
+        0C form-changing status (Piggy, Size, Toad)
+        0D protect (Armor)
+        0E shell (Shell)
+        0F slow/haste (Slow, Fast, DullSong)
+        10 dispel (Dummy 0C)
+        11 stop (Stop, Magnet)
+        12 peep (Peep)
+        13 escape (Exit, Smoke)
+        14 damage based on caster's HP (Bomb 4E, Mist 56, Tornado, Blizzard,
+            Laser, Wave, FireBomb, Lit-Bolt, etc.)
+        15 MP restore (Ether1, Ether2)
+        16 HP/MP restore (Elixir, Dummy BE)
+        17 damage + poison (Venom, Poison)
+        18 damage + status as per effect 06 (Dummy 4F)
+        19 damage + status as per effect 07 (Mage 50)
+        1A (Sylph 57)
+        1B (Odin 58)
+        1C pointless extra pointer to effect 1D
+        1D count (Count)
+        1E damage: fraction of target's max HP (Blaze, Big Wave, Fire, etc.)
+        1F slow petrify (Ray, Petrify)
+        20 (Gaze)
+        21 (Bluster)
+        22 (Slap)
+        23 (Blast)
+        24 (Hug)
+        25 explode (Explode A0, Fission)
+        26 (Reaction)
+        27 restore 1/10 target's HP(Remedy 84)
+        28 as per effect 18, but status is irregardless of creature type
+        29 "summon" a monster (Alert, Call)
+        2A remove various positive status (Blk.Hole, Disrupt 73)
+        2B attack based on physical attack power (Needle, Counter)
+        2C restore 1/3 target's HP (Absorb)
+        2D do nothing, but can trigger a reflex (Dummy 8E)
+        2E increment invincibility counter (Dummy A9)
+        2F decrement invincibility counter (Dummy AA)
+        30 revive monster (Recover, AC Remedy, 8F Vanish)
+        31 user dies, next monster is brought in(Dummy AD)
+        32 end a battle (Dummy AE)
+        33 unknown (Search)
+        34 remove egg status (Hatch)
+        35 regardless of target, something is done to adult Rydia - not sure
+            what (y)
+        7E no game statistic effect; audiovisual effect only
+        7F nothing (Sight, Warp)
+    bit 7: unknown
+byte 04:
+    bits 0-6: elemental damage/status code
+    bit 7: unknown
+byte 05:
+    bits 0-6: MP cost
+    bit 7: ignore walls
+
+And next, the variable meaning byte:
+
+byte 01: attack power
+    effect subroutines 00-02, 17: base power divided by 4 (exception: Big
+        Bang?)
+    effect subroutine 0F: number to add to speed modifier
+    effect subroutine 14: reciprocal is the portion of caster's hp to use as
+        the base power
+    effect subroutine 1E: reciprocal is the portion of target's hp to use as
+        damage
+    various others: status duration? Armor, Shell, Stop, Magnet, and
+        Count have these (=0A for Count, hmm...) maybe others too?
+
+Visual effects are not specified here. Instead, they are specified in a table
+from 7A250 to 7A54F. The table starts with entry 01, not 00. Table entries
+have 4 bytes:
+
+byte 00: palette number. spell palettes are located at 74D00. each consists of
+    8 colors
+bytes 01-02: unknown
+byte 03: effect subroutine
+
+There is some hard-coding affecting the call magic effects (4D to 5D); I don't
+know exactly how this works.
+
+Audio effects are not specified here. I don't know where they are.
+
+The spell effect data follows
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+00            A0 00 63 7F 00 00
+01 {40}Hold   A1 00 D5 87 0D 05
+02 {40}Mute   E2 00 DA 86 12 06
+03 {40}Charm  A1 00 C1 86 0B 0A
+04 {40}Blink  20 00 32 08 0B 08
+05  Armor     60 01 42 8D 00 09
+06  Shell     60 01 42 8E 00 0A
+07 {40}Slow   E1 08 46 0F 00 0E
+08 {40}Fast   21 FD 32 0F 00 19
+09 {40}Bersk  21 00 B2 06 0A 12
+0A {40}Wall   20 00 4B 09 0D 1E
+0B {40}White  A3 55 63 01 85 2E
+0C {40}Dummy  A1 00 C6 10 00 0C
+0D {40}Peep   A0 00 E3 12 00 81
+0E {40}Cure1  61 04 64 02 00 03
+0F {40}Cure2  61 0C 64 02 00 09
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+10 {40}Cure3  61 24 64 02 00 12
+11 {40}Cure4  60 48 64 02 00 28
+12 {40}Heal   22 00 50 0B 00 14
+13 {40}Life1  20 00 CB 8A 00 08
+14 {40}Life2  22 00 D0 8A 00 34
+15 {40}Size   E4 00 B2 8C 14 06
+16 {40}Exit   00 00 64 13 00 8A
+17 {40}Sight  00 00 00 7F 00 02
+18 {40}Float  41 00 64 06 0E 08
+19 {3F}Toad   E3 00 B2 8C 15 07
+1A {3F}Piggy  E6 00 8A 8C 13 01
+1B {3F}Warp   00 00 64 7F 00 04
+1C {3F}Venom  E1 00 DA 17 90 02
+1D {3F}Fire1  E1 04 64 00 81 05
+1E {3F}Fire2  E3 10 64 00 81 0F
+1F {3F}Fire3  E4 40 64 00 81 1E
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+20 {3F}Ice-1  E1 04 64 00 82 05
+21 {3F}Ice-2  E3 10 64 00 82 0F
+22 {3F}Ice-3  E4 40 64 00 82 1E
+23 {3F}Lit-1  E1 04 64 00 83 05
+24 {3F}Lit-2  E3 10 64 00 83 0F
+25 {3F}Lit-3  E4 40 64 00 83 1E
+26 {3F}Virus  E0 20 64 01 80 14
+27 {3F}Weak   A2 00 CB 83 80 19
+28 {3F}Quake  C2 32 64 00 00 9E
+29 {3F}Sleep  E3 00 B2 87 0C 0C
+2A {3F}Stone  E2 00 9E 86 16 0F
+2B {3F}Fatal  A5 00 BC 86 17 23
+2C {3F}Stop   A2 0A D0 91 15 0F
+2D {3F}Drain  A3 05 64 04 87 12
+2E {3F}Psych  A5 04 64 05 87 00
+2F {3F}Meteo  CA C8 64 00 05 E3
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+30 {3F}Nuke   A0 64 64 00 80 32
+31 {41}Imp    A0 00 00 7E 00 81
+32 {41}Bomb   A0 00 00 7E 00 8A
+33 {41}Dummy  A2 00 00 7E 00 8F
+34 {41}Mage   A0 00 00 7E 00 92
+35 {41}Chocb  A3 00 00 7E 00 87
+36 {41}Shiva  C4 00 00 7E 00 9E
+37 {41}Indra  C4 00 00 7E 00 9E
+38 {41}Jinn   C4 00 00 7E 00 9E
+39 {41}Titan  C5 00 00 7E 00 A8
+3A {41}Mist   C3 00 00 7E 00 94
+3B {41}Sylph  A1 00 00 7E 00 99
+3C {41}Odin   C2 00 00 7E 00 AD
+3D {41}Levia  C3 00 00 7E 00 B2
+3E {41}Asura  41 00 00 7E 00 B2
+3F {41}Baham  C3 00 00 7E 00 BC
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+40  Comet     C0 14 64 00 00 94
+41  Flare     A0 1E 64 00 00 0A
+42  Flame     C2 14 64 00 81 8F
+43  Flood     C2 1E 64 00 82 94
+44  Blitz     C2 28 64 00 83 99
+45  Smoke     40 00 64 13 00 8A
+46  Pin       A0 00 CB 87 0D 05
+47  Image     00 00 63 88 00 86
+
+Enemy special attack names are 8 bytes long. Table is from 78CB0 to 78FE0.
+They share the battle effects and visual effects table with normal spells
+(coming immediately after the normal spells).
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+48 Dummy      A0 07 5A 00 00 00 rod
+49 Dummy      40 03 64 02 00 00 cure staff
+4A Dummy      20 00 4B 8B 19 00 silver staff
+4B Dummy      20 00 4B 8B 21 00 staff
+4C Dummy      A0 0A 5A 00 00 80 dancing knife
+4D Imp        80 01 32 00 00 81
+4E Bomb       80 01 64 94 80 8A
+4F Dummy      80 00 B2 18 16 8F
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+50 Mage       80 0C E4 19 0D 92
+51 Chocobo    80 05 64 00 00 87
+52 Shiva      C0 0A 64 00 02 9E
+53 Indra      C0 0A 64 00 03 9E
+54 Jinn       C0 0A 64 00 01 9E
+55 Titan      C0 14 64 00 00 A8
+56 Mist       C0 01 64 94 00 94
+57 Sylph      80 0F 64 1A 00 99
+58 Odin       C0 00 80 1B 00 AD
+59 Leviatan   C0 23 64 00 80 B2
+5A Asura      40 14 64 02 00 B2
+5B Asura      40 1E 64 02 00 B2
+5C Asura      40 00 E4 8A 00 B2
+5D Bahamut    C0 3C 64 00 00 BC
+5E W.Meteo    C0 C8 64 00 05 80
+5F Dummy      00 00 00 00 00 00
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+60 Dummy      00 00 00 00 00 00
+61 Gaze       A0 00 E4 20 00 00
+62 Bluster    A0 00 E4 21 80 00
+63 Slap       A0 00 E4 22 80 80
+64 Powder     A0 00 E4 06 91 80
+65 Glance     A0 00 E4 06 8B 80
+66 Charm      A0 00 E4 06 0B 80
+67 Tongue     A0 00 E4 07 0C 80
+68 Curse      A0 00 E4 06 0F 80
+69 Ray        A0 00 E4 1F 16 80
+6A Count      A0 0A E4 1D 00 00
+6B Beak       A0 00 E4 06 96 00
+6C Petrify    A0 00 E4 1F 16 80
+6D Blast      A0 00 E4 23 8D 00
+6E Hug        A0 00 E4 24 16 00
+6F Breath     A0 00 E4 06 38 00
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+70 Whisper    A0 00 E4 0C 13 80
+71 Entangle   A0 00 E4 07 0D 80
+72 Weak       A0 00 E4 03 00 80
+73 Disrupt    C0 00 64 2A 00 80 same effect as Blk.Hole; name not shown. used
+                                by Zeromus until you use the Crystal on him.
+74 ColdMist   C0 02 E4 00 82 80
+75 Explode    C0 08 E4 00 81 80
+76 DullSong   C0 08 E4 0F 80 80 name not shown
+77 Hold Gas   C0 00 E4 06 0D 80
+78 Gas        A0 00 E4 07 0C 80
+79 Poison     C0 02 E4 17 90 80
+7A Maser      A0 0A E4 1E 80 80
+7B Vanish     A0 00 64 06 17 80 instant kill
+7C Demolish   A0 00 E4 06 97 80 instant kill
+7D Blk.Hole   C0 00 64 2A 00 80
+7E Dancing    A0 00 E4 06 0A 00 name not shown
+7F Disrupt    A0 00 64 06 97 00 instant kill
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+80 Storm      C0 00 E4 03 00 80
+81 Magnet     A0 32 E4 11 15 00
+82 Reaction   00 00 64 26 00 80
+83 Hatch      00 00 64 34 00 80
+84 Remedy     20 00 64 27 00 80
+85 Absorb     00 00 64 2C 00 80
+86 Heal       40 00 00 0B 18 80
+87 Big Bang   C0 32 E4 01 00 80
+88 Vampire    A0 06 64 01 00 80
+89 Digest     A0 0F 64 01 00 00
+8A Pollen     C0 03 E4 01 00 80
+8B Crush      A0 00 E4 06 97 80
+8C Alert      00 00 64 29 00 80
+8D Call       00 00 64 29 00 80
+8E Dummy      00 00 00 2D 00 80 order other monsters to do something
+8F Vanish     00 00 64 30 00 80 recover all own HP
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+90 Search     A0 00 64 33 00 80
+91 Fission    C0 00 64 25 80 80
+92 Retreat    00 00 64 06 17 80
+93 Heal       C0 00 64 0B 33 80
+94 Beam       A0 0A 64 1E 80 00
+95 Globe199   A0 FF E4 00 80 80
+96 Fire       C0 05 64 1E 81 80
+97 Blaze      C0 04 64 1E 82 80
+98 Blitz      A0 02 64 1E 83 80
+99 Thunder    C0 04 64 1E 83 80
+9A D.Breath   C0 04 64 1E 81 80
+9B Big Wave   C0 04 64 1E 80 80
+9C Blizzard   C0 19 64 14 82 80
+9D Wave       C0 19 64 14 80 80
+9E Tornado    C0 14 64 14 80 80
+9F Laser      A0 05 E4 14 80 00
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+A0 Explode    A0 01 64 25 80 80
+A1 Quake      C0 14 64 00 00 80
+A2 Emission   C0 05 64 00 81 00
+A3 Heat Ray   C0 0F 64 00 81 80
+A4 Glare      A0 5A E4 00 81 80
+A5 Odin       C0 28 E4 00 80 80
+A6 MegaNuke   C0 FF 64 00 80 00
+A7 Needle     A0 00 E4 2B 80 80
+A8 Counter    A0 00 E4 2B 80 80
+A9 Dummy      00 00 64 2E 00 80 increment invincibility counter
+AA Dummy      00 00 64 2F 00 80 decrement invincibility counter
+AB Recover    00 00 00 30 00 80
+AC Remedy     00 00 64 30 00 80
+AD Dummy      00 00 00 31 00 80 user dies, next monster is brought in
+AE Dummy      00 00 00 32 00 80 end a battle
+AF Dummy      00 00 00 7E 00 80
+
+S# Spell name 00 01 02 03 04 05 Notes
+-- ---------- -- -- -- -- -- -- -----
+B0 y          00 00 64 35 00 80
+B1            00 00 00 7E 00 80
+B2            00 00 00 7E 00 80
+B3            00 00 00 7E 00 80 Anna appears
+B4            00 00 00 7E 00 80 Edward/Tellah appear
+B5            00 00 00 7E 00 80 Palom/Porom appear
+B6            00 00 00 7E 00 80 Yang/Cid appear
+B7            00 00 00 7E 00 80 Golbez/FuSoYa appear
+B8            00 00 00 7E 00 80 images disappear
+B9            00 00 00 7E 00 80
+BA            C1 00 64 0A 00 80 Life on all enemies; used in final battle to
+                                revive party
+BB            00 00 00 7E 00 80
+BC            40 14 64 00 00 80 Some damage to all allies
+BD            C1 F8 64 0F 00 80 Super-haste on all enemies
+BE            C0 00 64 16 00 80 Restore all HP/MP to all enemies
+BF            00 00 64 7E 00 80
+
+For all entries past BF, all six bytes of the effect table are 0 (and the name
+all FFs/spaces). However, these "spells" aren't unused (and therefore
+available for the creation of new spells); bytes greater than BF have special
+meaning to the attack sequence executor.

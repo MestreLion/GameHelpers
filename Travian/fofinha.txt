@@ -1,0 +1,79 @@
+PRIORIDADES:
+- oasis 08, 10, 11, 12, 13
+- tropas em todas (menos 8 e 10)
+- campos e predios das crops (8 e 10)
+- campos e predios da 7, 12 e 13
+- senador 4 e 5
+- mansao 15 na 5 (oasis madeira)
+- upgrade espioes 3
+- campos capital
+
+
+OASIS:
+09: vale ocupado (3|106)
+10 (15): vale ocupado (3|102)
+08 (15): vale abandonado (0|76)
+
+
+ALDEIAS
+http://speed.travian.com.br/spieler.php?uid=7835
+http://speed.travian.com.br/spieler.php?uid=10965
+http://speed.travian.com.br/spieler.php?uid=3670
+
+01. Rihanna
+- COMPLETA
+
+02. Chris Brown (CAPITAL)
+- ferro 14
+- barro 14
+
+
+03. Mariah Carrey
+- cavalaria 20
+- muralha 20
+- embaixada 20
+
+
+04. Britney Spears
+- armazem 20
+- celeiro 20
+- muralha 20
+- ferreiro -> embaixada
+
+05. Nelly Furtado
+- fa 20
+- muralha
+
+
+06. Shakira
+- fa 20
+- armazem
+- celeiro
+- muralha
+- embaixada
+
+07. Madonna
+- campos
+- armazem
+
+08. Bob Marley (CROP)
+- campos
+
+09. Angelica
+- ep 20
+- fa
+
+10. Xuxa (CROP)
+- campos
+
+11. Mara Maravilha
+- ep
+
+12. Beyonce
+
+
+13. Eliana
+- Moinho
+- Padaria
+- EP
+- Campos

@@ -1,0 +1,1885 @@
+                                                        SNS-ZL-USA
+
+                               THE LEGEND OF
+                                  ZELDA
+                            A LINK TO THE PAST
+
+                            INSTRUCTION BOOKLET
+
+______________________________________________________________________________
+
+                            THE LEGEND OF ZELDA (R)
+                           -A LINK TO THE PAST (tm)-
+
+                            The Legend of Hyrule (Introduction) ..... 3
+                            1. Before Starting the Game ............. 9
+                            2. Viewing the Main & Sub Screens ...... 11
+                            3. Using the Controller ................ 13
+                               * Control Pad
+                                 = Moving Your Character ........... 14
+                               * A Button = Action ................. 15
+                               * B Button = Swonging the Sword ..... 17
+                               * Y Button = Using Items ............ 19
+                               * X Button
+                                 = Viewing Map Screens ............. 21
+                            4. Heroic Equipment .................... 23
+                            5. Ending and Saving the Game .......... 25
+                            6. Life and Magical Power .............. 27
+                            7. Lore of Hyrule ...................... 29
+                            8. Dungeon Knowledge ................... 31
+                            9. Item Inventory ...................... 37
+                           10. The Legend Begins ................... 42
+                           11. A Brief Bestiary of Hyrule .......... 44
+
+                                2
+______________________________________________________________________________
+
+                        The Legends of Hyrule
+                        ---------------------
+To set the stage for this adventure of the legendary Hero of Hyrule, it
+will be informative to delve into the Triforce myth, an ancient epic
+about the creation of the world that is still believed in the land of
+Hyrule. Every culture has such myths and theories about the creation
+of their worlds, and it can be beneficial and entertaining to examine
+them in detail, for they often affect the present day social structure.
+The legends say the mythical gods of Hyrule had as their chosen
+people the Hylia. These ancient people left scrolls that are the
+primary source of the legends.
+
+----------------------- The Creation Of Hyrule -------------------------------
+According to the Hylian scrolls, the mythical gods descended from a
+distant nebula to the world and created order and life. The
+God of Power dyed the mountains red with fire and created land. The
+God of Wisdom created science and wizardry and brought order to
+nature. And the God of Courage, through justice and vigor, created life
+- the animals that crawl the land and the birds that soar in the sky.
+After the gods had finsihed their work, they left the world, but not
+before creating a symbol of their strength, a golden triangle known as
+the Triforce. A small but powerful portion of the essence of the gods
+was held in this mighty artifact, which was to guide the intelligent life
+on the world of Hyrule.
+
+Although it was an inanimate object, the Triforce had the power to
+bestow three titles which gave the person who received them great
+powers: "The Forger of Strength", "The Keeper of Knowledge", and
+"The Juror of Courage". From its hiding place in the so-called Golden
+Land where the Gods placed it, the Triforce beckoned people from the
+
+                                3
+______________________________________________________________________________
+
+outside world to seek it in the hope that someone worthy of these
+titles would find it.
+With their magic infused blood, the Hylian people were endowed with
+psychic powers and skill in wizardry. It was also said that their long,
+pointed ears enabled them to hear special messages from the gods, so
+they were heldin high esteem by many people in Hyrule. Their
+descendants settled in various parts of the world and passed on their
+knowledge and magical lore to all people. But in its passing, the lore
+was often distorted or lost altogether.
+
+----------------------- Gates To The Golden Land -----------------------------
+In Hyrule, there are many Hylian buildings which are mentioned
+repeatedly in the legends. These buildings, which now lie in ruin, pale
+shadows of their former splendor, are closely tied to the Triforce.
+Some were even said to house the Triforce...
+
+If it were only a symbol of the gods, the Triforce would be coveted by
+many. But a verse from the Book of Mudora (a collection of Hylian
+legends and lore) made the Triforce even more desirable:
+
+                        In a realm beyond sight,
+                        The Sky shines gold, not blue.
+                        There, the Triorce's might
+                        Makes mortal dreams come true.
+
+Many aggressively searched for the wish-granting Triforce, but no one,
+not even the Hylian sages, was sure of its location; the knowledge
+had been lost over time. Some said the Triforce lay under the desert,
+
+                                4
+______________________________________________________________________________
+
+others said it was in the cemetary in the shadow of Death
+Mountain, but no one ever found it. That yearning for the Triforce
+soon turned to lust for power, which in turn led to the spilling of
+blood. Soon the only motive left among those searching for the
+Triforce was pure greed.
+
+One day, quite by accident, a gate to the Golden Land of the Triforce
+was opened by a gang of thieves skilled in the black arts. This land
+was like no other. In the gathering twilight, the Triforce shone from
+its resting place high above the world. In a long running battle, the
+leader of the thieves fought his way past his followers in a lust for the
+Golden Power. After vanquishing his own followers, the leader stood
+triumphant over the Triforce and grasped it with his blood- stained
+hands. He heard a whispered voice: "If thou has a strong desire or
+dream, wish for it..." And in reply, the roaring laughter of the brigand
+leader echoed across time and space and even reached the far-off land
+of Hyrule. The name of this king of thieves is Ganondorf Dragmire,
+but he is known by his alias, Mandrag Ganon, which means Ganon
+of the Enchanted Thieves.
+
+------------------------- The Imprisoning War --------------------------------
+I do not know what Ganon wished for from the Triforce. However, in
+time evil power begain to flow from the Golden Land and greedy men
+were drawn there to become members of Ganon's army. Black clouds
+permanently darkened the sky, and many disasters beset Hyrule. The
+lord of Hyrule sent for the Seven Wise Men and the Knights Of
+Hyrule, and ordered them to seal the enterance to the Golden Land.
+
+The Triforce, being an
+inanimate object, cannot
+judge between good and evil.
+Therefore, it could not know
+that Ganon's wishes were
+evil; it merely granted them.
+Suspecting that Ganon's
+power was based on the
+Triforce's magic, the people of
+Hyrule forged a sword
+resistant to magic which
+could repulse even powers
+granted by the Triforce. This
+mighty weapon became known
+as the blade of evil's bane, or
+the Master Sword. It was so
+powerful that only one who
+was pure of heart and strong
+of body could wield it. As the
+Seven Wise Men searched for
+a valient person to take up
+the Master Sword, ganon's
+evil army swarmed from the
+
+                                5
+______________________________________________________________________________
+
+tainted Golden Land into Hyrule and attacked the castle. The wise
+men and the Knights Of Hyrule combined forces to wage war on this
+evil horde.
+
+The Knights took the full brunt of the fierce attack, and although they
+fought courageously many a brave soul was lost that day, However,
+their lives were not lost in vain, for they bought precious time for the
+Seven Wise Men to magically seal ganon in the Golden land. All of
+Hyrule rejoiced at the victory that upheld peace and order over
+Ganon's evil and chaos. Thsi war, which had claimed many lives,
+became known as the Imprisoning War in stories told in later
+centuries.
+
+------------------------ The Coming of The Wizard ----------------------------
+Many centuries have passed since the Imprisoning War. The land of
+Hyrule healed its wounds and the people lived in peace for a long
+time. Memories of the vicious Imprisoning War faded over the
+generations...
+
+So it is no surprise that no one was prepared for the new disasters
+that have recently struck Hyrule. Pestilence and drought,
+uncontrollable even by magic, revaged the land. The king of Hyrule,
+after counsel with his sages, ordered an investigation of the
+Imprisoned Dark World (as the Golden land had come to be knowsn)
+but the wise men's seal was apparently intact. he offered rewards for
+anyone who could find the source of these troubles. In answer to
+these summons a stranger named Agahnim came and quelled the
+disasters witha previously unseen form of magic. As a reward, the
+king gave him a new position as chief advisor and heir to the Seven
+
+                                6
+______________________________________________________________________________
+
+masses proclaimed him their hero. Peace had returned to Hyrule... or
+had it?
+Of late, rumors have traveled their whispering path with alarming
+frequency. Rumors saying Agahnim now rules the country with his
+magic... Rumors of strange magical experiments in the castle tower at
+night... The people of Hyrule were gripped by dread.
+
+----------------------------- Prologue ---------------------------------------
+One night, a girl's voice awakens you from your sleep.
+
+She telepathically pleads.
+
+You jump out of bed not knowing whether the voice was part of a
+dream or reality. Upon leaving your bed, you find your uncle, who
+should be fast asleep at this time, preparing to go out, girded for
+battle.
+
+"I'll be back by moring," he says as he departs. "Don't leave the
+house."
+
+You watch him leave with the family sword in hand and shield on arm.
+This night is like no other... Who is Zelda? Where had your uncle
+gone and for what reason?
+
+And so, on an ill-fated night, a new chapter in the legend of Hyrule's
+hero begins- a new chapter in The Legend of Zelda!
+
+                                7
+______________________________________________________________________________
+
+--------------------------------
+Your Quest As The Legendary Hero
+--------------------------------
+
+The Golden land of the Triforce has
+becoe a Dark World corrupted by
+Ganon's evil wishes. However, this is
+not enough for Ganon; he also wants to
+make Hyrule, the Light World, his own.
+To do this, he needs to break the Seal
+Of The Seven Wise Men.
+
+But he cannot do this with his power
+alone. He must also use the life force of
+the descendants of the Seven Wise Men.
+With Agahnim the wizard as his pawn,
+this is about to become a reality (thus
+the late night experiments in the castle
+tower...).
+
+                                You, as the legendary Hero of
+                                Hyrule, must enter the Dark
+                                World on a quest to save the
+                                maidens that Agahnim has sent
+                                there. The aim of the game is
+                                to solve the many mysteries
+                                and adventures that await you
+                                along the way to rescuing the
+                                maidens, defeating Ganon,
+                                and returning peace to
+                                Hyrule.
+
+                                8
+______________________________________________________________________________
+
+----------------------------------
+1. Before Starting the Game
+----------------------------------
+To begin your quest, insert the Game
+Pak into the Super Nintendo
+Entertainment System (R) and turn the
+power ON. The title screen shown on
+the right will be displayed, followed by
+the story introduction. Press the A, B, X,
+Y, or START button to display the screen
+below.
+
+----------------------------------
+* PLAYER SELECTION SCREEN
+----------------------------------
+
+                The Game Pak can save data for up to
+                three players. When you first start playing
+                the game, select any one of the three files
+                (as displayed on the left), and input your
+                name. First, move the faerie cursor using
+                the Control Pad or SELECT button, then
+                press the A, B, X, Y or START Button.
+
+                Next, input your name at the Register Your
+                Name Screen. Move the cross hairs using
+                the Control Pad to select the letters of
+                the alphabet, and press the A, B, X or Y
+                button to input the letter. Finally, place the
+                cross hairs on END or press the START
+                Button to input the name. Up to six letters
+                can be input. Now the player's picture,
+                name and Heart Containers (which
+                represent the amount of life-force you have)
+                are displayed in the Player Select Screen.
+                Select this file again to start the game.
+                From now on, data will be saved in this file
+                during the game. (See page 25 for more
+                details about saving your game.)
+
+                                9
+______________________________________________________________________________
+
+----------------------------------
+* ERASE PLAYER
+----------------------------------
+When you want to start a new game but all
+three files have data in them, you have to
+erase the data in one fo the files. Select
+ERASE PLAYER on the Player Select
+screen to display the message "WHICH
+PLAYER DO YOU WANT TO ERASE?"
+Noe select a file that you no longer need.
+If you have changed your mind, select
+"QUIT." If you really do want to delete the
+file, select "ERASE THIS PLAYER." Remember, once you select
+"ERASE THIS PLAYER" the data cannot be recovered.
+
+----------------------------------
+* COPY PLAYER
+----------------------------------
+When you want to transfer one player's
+data to another file, select COPY PLAYER
+to display the message "WHICH?". Select
+the file you want to copy. Next, the
+message "TO WHICH?" will be displayed,
+so select the file you want to copy to.
+Select "COPY OK" to transfer, or "QUIT"
+to leave the file as is. Remember that if
+you copy to a file that already has data in
+it, you will replace the data in the target file.
+
+                                10
+______________________________________________________________________________
+
+----------------------------------
+2. Viewing the Main & Sub Screens
+----------------------------------
+This game is played using two types of screens: the Main Screen
+and the Sub Screen.
+
+============================== MAIN SCREEN ===================================
+                 This is the screen where the action takes place.
+
+                   (2)   (3) (4) (5) (6)
+                    |     |   |   |   |
+             -------|-----|---|---|---|-----------------------------
+             |  _   __                        ------- LIFE ------- |
+(1)--------- | | | |__|  000  00  00  1  [*][*][*]   ------------------- (7)
+             | |_|                                                 |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             |                                                     |
+             -------------------------------------------------------
+
+(1) Magic Meter   This green meter shows how much Magic Energy you
+                  have. (See page 27.)
+
+(2) Item Display     This box displays the item that you currently have
+                     ready to use. Press the Y Button to active the item
+                     shown here.
+
+(3) Rupees           This shows how many Rupees (the currency of Hyrule)
+                     you have. You can have up to 999 rupees.
+
+(4) Bombs            This shows how many bombs you have. You start off
+                     with the ability to carry 10 bombs.
+
+(5) Arrows           This shows how many arrows you have. (these are the
+                     ammunition for the Bow). You start off with the ability
+                     to carry 30 arrows. If you do not have the Bow, you
+                     cannot use arrows, but you still can carry them.
+                     * You can raise the maximum amount of bombs and arrows
+                     you can carry during the game.
+
+(6) Small Key        This is the key that opens doors in the dungeons.
+                     Small keys can only be used in the dungeon they are
+                     found in. (See page 35.)
+
+(7) Heart Containers This displays the extent of your life-force with Heart
+                     Containers. If you are hurt, your Heart Containers will
+                     empty. If all your Heart Containers are empty, the
+                     game ends. (See page 28.)
+
+                                11
+______________________________________________________________________________
+
+============================= SUB SCREEN =====================================
+Press the START button to switch to this screen when you
+want to change the item you have ready or check your status.
+When you use the Sub Screen, the action will be temporarily
+paused. Press the START Button again to return to the game.
+
+           -------------------------------------------------------
+           |  -----ITEM------------------  --------------------  |
+           |  |                         |  |              ---------- (2)
+           |  |  Y                      |  |    BOOMERANG     |  |
+           |  |                         |  --------------------  |
+     (1) ---------                      |  --------------------  |
+           |  |                         |  |    PENDANTS      |  |
+           |  |                         |  |                  |  |
+           |  |                         |  |       [*]    ---------- (4)
+           |  |                         |  |     [ ] [ ]      |  |
+           |  ---------------------------  --------------------  |
+           |  ----DO---------------------  --------------------  |
+           |  | A                       |  | EQUIPMENT        |  |
+           |  |   LIFT .2   READ   TALK |  |              ---------- (5)
+     (3) -------- PULL      RUN    SWIM |  |------------------|  |
+           |  |                         |  | DUNGEON ITEM     |  |
+           |  |                         |  |              ---------- (6)
+           |  ---------------------------  --------------------  |
+           -------------------------------------------------------
+
+(1) ITEM Window    The Y Button-controlled items you discover
+                   during the game are shown in this window. Use
+                   the cursor to select the item you want to use.
+                   (See page 20.)
+
+(2) Item Name      The name and picture of the item currently
+                   ready for use shows in this window.
+
+(3) DO Window      This window teels you what actions you can
+                   perform with the A Button.
+
+(4) Pendants       When you defeat the evil master of a dungeon,
+                   you will receive a Pendant or some other
+                   special item. This window keeps track of how
+                   many Pendants you have. (You will have to
+                   collect something different in the Dark World.)
+                   You must collect all of these items to finish the
+                   game and restore peace to Hyrule.
+
+(5) Equipment      This window tells you the status of your
+                   weapons, shield and armor. (See page 23.)
+
+(6) Dungeon Items/ Each dungeon has a unique set of treasures: a
+    Broken Hearts  Map, a Compass and a Big Key. If you find
+                   them, they are displayed here while you are
+                   inside the dungeon. (See page 32.) If you
+                   outside, it will show how many Pieces of Heart
+                   you have collected. (See page 28.)
+
+                                12
+______________________________________________________________________________
+
+----------------------------------
+2. Viewing the Main & Sub Screens
+----------------------------------
+
+Control Pad     Player Movements
+-------------------------------------------------------------------------
+With the Control Pad you can move your character in eight directions
+including up and down stairs. This also moves the cursor.
+
+SELECT Button   Ending a game
+---------------------------------------------------------------------------
+The SELECT Button lets you end the game and save data. (See page 26.)
+
+START Button    Selecting Items
+---------------------------------------------------------------------------
+Press the START Button to switch to the Sub Screen. You can then select
+items to be used with the Y Button or check the status of your equipment.
+(See page 20.)
+
+X Button        Viewing the Maps
+---------------------------------------------------------------------------
+Press the X Button to view the overworld map or dungeon map. (See
+page 21.)
+
+A Button        Holding and Running
+---------------------------------------------------------------------------
+The A Button can be used for a variety of actions, including picking up
+objects, running, talking, swimming, reading, grasping, and opening chests.
+(See page 15.)
+
+B Button        Swinging the Sword
+---------------------------------------------------------------------------
+The B Button lets you swing the sword to attack enemies. This button also
+confirms choices made on the Player Select screen and Game Over screen.
+(See page 17.)
+
+Y Button        Using Items
+---------------------------------------------------------------------------
+The Y Button activates various items for attack, defense, magic and
+movement. (See page 19 & 37.)
+
+See the explaination of each button for details.
+
+                                13
+______________________________________________________________________________
+
+---------------------------------------
+The Control Pad * Moving Your Character
+---------------------------------------
+                The Control Pad moves your
+                character on the screen. There are
+                many hidden secrets in the land of
+                Hyrule, so you will have to search
+                every nook and cranny to find
+                everything.
+
+-----------------------------------------------
+* Walking
+-----------------------------------------------
+Your character will walk in the direction that
+the Control Pad is pressed. He can walk
+in eigth directions: up, down, left, right, and
+at all four angles in between.
+
+-----------------------------------------------
+* Leaping Down
+-----------------------------------------------
+It is possible to leap off ledges in the
+overworld and dungeons as long as there is
+no obstacle at the edge. Leaping down is
+often a short cut and is the only way to
+reach some areas.
+Walk to the edge
+and press the
+Control Pad in the
+direction you want
+to leap.
+
+-----------------------------------------------
+* Pushing
+-----------------------------------------------
+Some blocks and stone statues in the
+dungeon can be pushed around. Move your
+character next to the block or statue you
+want to move, and press the Control pad
+in the direction that you want to push the
+object.
+
+                                14
+______________________________________________________________________________
+
+---------------------------------------
+A Button * Action
+---------------------------------------
+                        There are seven types of action that
+                        can be performed with the A button.
+                        the main ones are as follows.
+
+-----------------------------
+* Running and Hitting Objects
+-----------------------------
+If there are no obstacles directly in front of you,
+hold down the A Button for about one second
+to make the player run (in four directions only.)
+When the player is running he will automatically
+draw his sword. Press the Control Pad in a
+different direction to stop running.
+NOTE: You can only run if you are wearing the
+      Pegasus Shoes. (See page 17.)
+
+                        If you run into certain walls, you may make a break
+                        them down, and if you crash into objects such as
+                        trees, hidden things might fall from the branches.
+
+-----------------------------
+* Lifting and Throwing
+-----------------------------
+Position your character next to the object you want
+to pick up and press the A Button. Press either
+the A or B Button to make the player throw the
+object (four directions only). If the object hits an
+enemy, it will cause the enemy damage.
+
+At the beginning of the game, you can only pick
+up bushes and pots, but during the game you
+can increase your strength and pick up large
+boulders and other objects. Note that you
+cannot use the sword or other items when
+holding an object. (See page 24.)
+
+-----------------------------
+* Opening (Treasure Chests)
+-----------------------------
+If you find a treasure chest, position your character
+in front of it and press the A Button to open it.
+If you open a chest, the treasure inside is yours.
+
+                                15
+______________________________________________________________________________
+
+---------------------------------------------
+* Swimming
+---------------------------------------------
+If you find Zora's Flippers, you can swim.
+Hold down the Control pad in the
+direction you want to make your character
+swim and press either the A, B, or Y Button.
+When you are swimming, you cannot use
+the sword or any of the items.
+
+---------------------------------------------
+* Talking
+---------------------------------------------
+If you approach a villager and press the A
+Button, you can hear what they have to say.
+If the message is long, you can press the
+A, B, X or Y Button to make the rest of the
+message appear quickly.
+
+---------------------------------------------
+* Reading
+---------------------------------------------
+Face the signs and monoliths and press the
+A Button to read the letters written on them.
+Also press the A Button to listen to the
+elder's telepathic message that comes from
+the magical Corner Stone of the dungeon
+
+----------------------------------------------------------------------
+* Grasping and Pulling
+----------------------------------------------------------------------
+Touch an object and press against it with the Control pad while
+holding the A Button to grasp it. Then press the Control pad in the
+opposite direction to pull the object. Of course, you cannot pull
+everything, but you can certainly try pulling objects in the dungeons,
+like levers and statues.
+
+----------------------------------------------
+| The actions available using the A Button   |
+| are displayed in the DO WIndow of the      |
+| Sub Screen. Check the actions in this area |
+| during the game when you are not sure of   |
+| the available actions. Note that RUN and   |
+| SWIM will be displayed when you receive    |
+| the Pegasus Shoes and Zora's Flippers.     |
+| Lift will change to LIFT.2 and LIFT.3      |
+| when you increase your lifting strength.   |
+----------------------------------------------
+
+                                16
+______________________________________________________________________________
+
+---------------------------------------
+B Button * Swing the Sword
+---------------------------------------
+                        Swordsmanship will serve you well in
+                        defeating the many enemies you
+                        encounter. The more sword techniques
+                        you master, the better you will be able
+                        to deal with the many monsters you
+                        will meet.
+
+---------------------------------
+* Normal Sword Blows
+---------------------------------
+Press the B Button to swing the
+sword. The faster you press the B
+Button, the more rapidly you will
+swing your sword.
+
+---------------------------------
+* Whirling Blade Technique
+---------------------------------
+Hold down the B Button for about two
+seconds to focus your power in the
+blade. Once the sword is charged,
+you can release the B Button at any
+time to execute a whirling attack that
+will affect any enemies nearby. This
+awesome attack can be used to attack
+an enemy standing behind you.
+
+---------------------------------
+* Dashing Attack
+---------------------------------
+When you have the Pegasus shoes
+you can run with your sword drawn. If
+enemies happen to be standing in
+front of you, you can hit them as you
+run past. Hold down the A Button for
+a second to build up speed, then
+you're off!
+
+                                17
+______________________________________________________________________________
+
+--------------------------------------------
+* Sword At The Ready
+--------------------------------------------
+If you hold down the B Button, you will hold
+your sword in a ready position. You can
+then use the Control Pad to move your
+character in any direction. If you come upon
+an object your sword can cut, such as a
+bush, you will automatically mow it down.
+Try this with a row of bushes.
+
+--------------------------------------------
+* Beam Attack
+--------------------------------------------
+When your sword's power level is two or
+more and all your Heart Containers are full,
+you can launch a beam from the tip of the
+blade. This bolt of energy can be used to
+attack enemies at a distance. (See page 23.)
+
+                                        If no button is pressed, your
+                                        character will have his shield
+                                        ready. You can use the shield
+                                        to protect yourself from a frontal
+                                        attack such as arrows fired by
+                                        the enemy. (The shield will not
+                                        protect you from all attacks.)
+
+                                18
+______________________________________________________________________________
+
+---------------------------------------
+Y Button * Using Items
+---------------------------------------
+                The items you have collected can be
+                used by pressing the Y Button. (See
+                the item explanations on pages 37 and
+                41 for details.)
+
+-------------------------- Use Your Items Carefully! -------------------------
+-------------------------------------------
+* Flute
+-------------------------------------------
+What is the myserious power of the Flute's
+music? Once you have found the Flute
+Boy's avian friend, you can use the Flute
+to summon him to take you to eight
+different locations in Hyrule.
+
+Once you have found the Flute Boy's bird,
+play the Flute and you will see the screen
+on the right. Press the Control Pad to
+select a number from 1 to 8 for the place
+you want to go, then press either the A, B,
+X or Y button to go there.
+
+--------------------------------------------------------
+The Staff of Byrna and the Magic Cape (See page 40 & 41)
+--------------------------------------------------------
+Press the Y Button to activate the Staff of
+Byrna or the Magic Cape. Press the Y
+Button again to deactivate the items. Both
+of these items use Magic Power in
+proportion to the amout of time they are
+used. If you use all of your Magic Power,
+the items will automatically deactivate.
+
+        --------------------------------------------------------------
+        | If you have already used all your Magic Power, or you have |
+        | an insufficient amount, these items cannot be used.        |
+        --------------------------------------------------------------
+
+                                19
+______________________________________________________________________________
+
+--------------------------- How to Select Items ------------------------------
+You can select an item for use with the Y Button in the ITEM Window
+of the Sub Screen.
+
+        -----------------------------------------
+        | Press the START Button to see the     |
+        | Sub Screen and then use the           |
+        | Control Pad to move the circular      |
+        | cursor in the ITEM Window to select   |
+        | the item you want. The item you       |
+        | select will appear in the top right   |
+        | corner of the screen. Press the START |
+        | Button again to return to the Main    |
+        | Screen.                               |
+        -----------------------------------------
+
+---------------------------------------------
+* How to Select Bottles
+---------------------------------------------
+It is possible to collect four Magic Bottles.
+If you want to use the conents of a bottle,
+you have to select the bottle you want.
+Align the cursor with the bottle in the Item
+Selection window to display the screen
+shown below.
+------------------------------------------------------------------------------
+| -------------------------------------------------------  | The bottle      |
+| |  -----ITEM------------------  --------------------  |  | currently       |
+| |  |                         |  |       [  ] ------------| selected and    |
+| |  |  Y                      |  |      BOTTLE      |  |  | the name of its |
+| |  |                         |  --------------------  |  | contents will   |
+| |  |                         |  --------------------  |  | be displayed in |
+| |  |                         |  |                  |  |  | this window.    |
+| |  |                         |  |                  |  |                    |
+| |  |                         |  |      [  ]        |  |  | All of your     |
+| |  |                         |  |                  |  |  | bottles are     |
+| |  ---------------------------  |      [  ] -------------| shown in this   |
+| |  ----DO---------------------  |                  |  |  | window. Press   |
+| |  | A                       |  |      [  ]        |  |  | Up or Down on   |
+| |  |   LIFT .2   READ   TALK |  |                  |  |  | the Control Pad |
+| |  |   PULL      RUN    SWIM |  |      [  ]        |  |  | to align the    |
+| |  |                         |  |                  |  |  | cursor with the |
+| |  |                         |  |                  |  |  | bottle you want |
+| |  ---------------------------  --------------------  |  | to select.      |
+| -------------------------------------------------------                    |
+|                                                                            |
+| * If you do not want to select a bottle, press Left or Right on the        |
+| Control Pad to move the cursor back to the ITEM WIndow.                    |
+------------------------------------------------------------------------------
+
+                                20
+______________________________________________________________________________
+
+---------------------------------------
+X Button * Viewing Map Screens
+---------------------------------------
+                The automatic mapping feature will
+                help you explore Hyrule by showing
+                your current position and your next
+                destination.
+
+---------------------------- Close Up Map Screen -----------------------------
+If you press the X Button when you are in
+the overworld, your immediate surroundings
+will be displayed from an overhead view.
+You can scroll to another portion of the map
+by pressing any direction on the Control
+Pad.
+
+                                21
+______________________________________________________________________________
+
+                                        Switch
+                                        between the
+                                        two maps
+                                        using the L
+                                        and R buttons.
+
+---------------------------- Complete Map Screen -----------------------------
+If you press the X button again from the Close Up Map Screen, you
+can view the Complete Map of Hyrule.
+
+a symbol representing your character
+and your next destination (usually a
+dungeon) flash on the Map screens.
+When you are not sure where to go
+next, take a look at the Map screens,
+and head for the recommended place. If
+you use the Magic Mirror, the warp
+point you created will also be shown on
+the Map Screens.
+
+You can also view the same Map
+Screens in the Dark World. Hyrule (the
+Light World) and the Dark World look
+alike but have subtle differences. Find
+the difference between the two maps,
+and you can solve many mysteries of
+both worlds. From the Complete Map
+Screen, press the X Button once again
+to return to the Main Screen. Press the
+L or R button to switch between the
+Close Up and Complete Maps. Note
+that when you are in the dungeons, you
+can view the dungeon map by pressing
+the X Button. (See page 33.)
+
+* You cannot view the Map Screens
+when you are in a house or a cave.
+
+                                22
+______________________________________________________________________________
+
+----------------------------------
+4. Heroic Equipment
+----------------------------------
+
+Your character can become
+stronger by finding and using
+magical equipment. It is essencial
+to be well armed for attack and
+defense when taking on the many
+powerful enemies you will
+encounter.
+
+                -------------------------------------------------
+                * Sword
+                -------------------------------------------------
+                The sword has four potential levels of power.
+                You can see what level your sword is currently
+                at by looking at the number next to the sword
+                symbol on your Sub Screen. Your first goal is to
+                obtain the Master Sword, which is power level
+                two.
+
+                -------------------------------------------------
+                * Shield
+                -------------------------------------------------
+                The shield has three potential levels of power.
+                Your first shield can only fend off the enemy's
+                arrows, spears and rocks. If you improve your
+                shield or find a better one, you can defend
+                yourself against different attacks.
+
+                -------------------------------------------------
+                * Armor
+                -------------------------------------------------
+                You start off wearing a suit of green cloth which
+                hardly protects you at all. During your adventure,
+                you will find the Blue Mail and the Red Mail.
+                These suits of armor reduce damage from
+                enemy attacks by 25% and 50% respectively.
+
+                                23
+______________________________________________________________________________
+
+                -------------------------------------------------
+                * Pegasus Shoes
+                -------------------------------------------------
+                This magic footwear has been handed down by
+                the family of one of the Seven Wise Men. If you
+                wear these shoes, you can run incredibly fast.
+                You will get the Pegasus Shoes from the iwse
+                men Sahasrahla.
+
+                -------------------------------------------------
+                * Power Glove and Titan's Mitt
+                -------------------------------------------------
+                If you wear these gloves, you can pick up
+                objects such as rocks that you cannot lift
+                with your bare hands. If you can get your hands in
+                these gloves, try lifting a few things.
+
+                -------------------------------------------------
+                * Zora's Flippers
+                -------------------------------------------------
+                These Flippers belong to Zora the man-fish,
+                whose domain is the wet blue yonder. They are
+                a necessity - you cannot swim without them (If
+                you try swimming without the Flippers you will
+                be returned to land). To get through this
+                adventure, you must get your feet wet, so find
+                the Flippers as soon as possible.
+
+                -------------------------------------------------
+                * Moon Pearl
+                -------------------------------------------------
+                People who enter the Dark World are
+                transformed into a shape that reflects what is in
+                their hearts. You can prevent this by obtaining
+                the Moon Pearl, which protects its bearer from
+                the power of the Triforce.
+
+                                24
+______________________________________________________________________________
+
+----------------------------------
+5. Ending and Saving the game
+----------------------------------
+
+                If all of your Hearts are empty (from damage
+                taken from enemy attacks, etc) your game will
+                be over. When the game is over, you can
+                select one of the following three commands:
+
+---------------------------  Save and Continue -------------------------------
+Use this command at the game's end if you want to save your
+progress and continue playing. The starting points when restarting
+the game are as follows:
+
+        -------------------------------------------------------------------
+        | Game Over Location              | Restart Location              |
+        -------------------------------------------------------------------
+        | Dungeons and sewers of Hyrule   | The halfway point between the |
+        | Castle (up to rescuing Zelda    | dungeon and the sewer         |
+        |                                 | passageway                    |
+        -------------------------------------------------------------------
+        | Out and about in Hyrule (after  | * Player's House              |
+        | rescuing Zelda)                 | * Sanctuary                   |
+        |                                 | * The Mountain Cave           |
+        |                                 | (select one of these three)   |
+        -------------------------------------------------------------------
+        | Out and about in the Dark World | The Dark World pyramid        |
+        -------------------------------------------------------------------
+        | In the dungeons                 | The dungeon entrance          |
+        -------------------------------------------------------------------
+
+        * If you select the Mountain Cave, the game will start inside of the
+          cave with the old man on Death Mountain.
+
+------------------------------- Save and Quit ---------------------------------
+
+Use this command when you want to save a game and quit (the
+game will return to the title screen). Note that if you use this
+command when your game ends in the dungeon, you will not restart
+the game at the entrance to the dungeon, as it would if you used the
+save and continue command. (NOTE: The location of any warp points
+created by the Magic Mirror will not be saved.)
+
+                                25
+______________________________________________________________________________
+
+--------------------------- Continue without Saving --------------------------
+Use this command to continue the
+game without saving your
+possessions (the data saved in
+your character's file will not be
+changed.) This allows you to
+essentially try again.
+
+* If you want to alter your selection
+from the save status, press the
+RESET Button.
+
+* In all of these cases, when you restart the saved game later, your
+Hearts will only be from 50% to 70% full (when you have four or
+more Heart Containers.)
+
+        ------------------------------------------------------------
+        |                       Press the SELECT Button to end the |
+        |       SELECT          game (save the game).              |
+        |                                                          |
+        ------------------------------------------------------------
+
+If you have to stop the game suddenly, or you have exhausted your
+magical power or items and are unable to deal with the enemy at
+hand, press the SELECT Button to bring up the option to stop the
+game and save it.
+
+When you press the SELECT Button, the
+screen on the right will be displayed.
+Select Save and Quit using the
+Control Pad, and press either the A, B,
+X, or Y Button to return to the title
+screen. You can also use this screen to
+pause the game. Select Continue Game
+to resume play.
+
+        -----------------------------------------------------------------
+        | If you run out of Magic Power in a dungeon, you can return to |
+        | the dungeon entrance using the Magic Mirror, so think about   |
+        | what is best before using the Save and Quit command.          |
+        -----------------------------------------------------------------
+
+                                26
+______________________________________________________________________________
+
+---------------------------- Restoring Life ----------------------------------
+You can refill Heart Containers that have
+been lost in battle by finding small hearts.
+Each small heart refills a Heart Container.
+Small hearts sometimes appear when you
+defeat an enemyand can also be found in
+bushed and pots. Also, if you can capture
+one of the little faerie that inhabit Hyrule,
+you will get seven hearts. If you find the
+elusive faerie Queen, she will restore all
+your lost hearts. During a long adventure, it
+is a good idea to  remember where faeries
+live!
+
+----------------------- Restoring Magical Power ------------------------------
+You can restore Magic Power, which is used
+to power different magic items, by finding
+Magical Decanters. These Magical
+Decanters come in two sizes, big and small.
+A big Decanter completely restores one eighth
+of your magic meter. As with small hearts,
+you can also get these from enemies you
+defeat. During the game, you can set the
+level of Magic Power consumption at 50%,
+effectively doubling the amount of Magic
+Power you have.
+
+                                27
+______________________________________________________________________________
+
+---------------------------- The Magic Shop ----------------------------------
+You can restore life and magical power by
+using magic potions. The Magic Shop in the
+north east of Hyrule sells a variety of such
+potions, but you cannot buy them unless
+you have a bottle to carry them in.
+
+---------------------------
+* Green Potion:   60 rupees
+---------------------------
+This completely restores your Magic Power.
+
+---------------------------
+* Red Potion:    120 rupees
+---------------------------
+This refills your Heart Containers.
+
+---------------------------
+* Blue Potion:   160 rupees
+---------------------------
+This completely rstores both hearts and
+Magic Power.
+
+-------------------- Heart Containers and Pieces Of Hearts -------------------
+At the start of a game, your character has only three Heart
+Containers, but you can find many more during your adventures. You
+will find one of these Heart Containers in Sanctuary, and you will
+receive the others one by one as you defeat the dungeon keppers.
+Pieces of Heart Containers are hidden all over Hyrule. If you collect
+four Pieces of Heart, you will gain one full heart Conatiner. if you
+manage to collect all the Heart Containers, you will have 20 hearts in
+your life gauge.
+
+------------------------------------------------------------------------------
+|                                                   You can see how          |
+|                                                   many Pieces Of           |
+|     Heart Container    =    Piece Of Heart X 4    Heart you have on        |
+|                                                   the Sub Screen.          |
+------------------------------------------------------------------------------
+
+                                28
+______________________________________________________________________________
+
+----------------------------------
+7. Lore Of Hyrule
+----------------------------------
+Hyrule is full of ancient secrets and unusual life forms. No one
+should venture into its wilderness without some preparation, so read
+some background lore before you set out on your adventure.
+
+------------------------------------------
+* Bushes
+------------------------------------------
+You will find Rupees and Hearts hidden
+away in these bushes. Cut them down or
+pull them up to reveal the hidden items.
+
+------------------------------------------
+* Rupees
+------------------------------------------
+The pople of Hyrule use precious stones
+called Rupees as currency. There are three
+different kinds of Rupees:
+
+Green rupee = 1 rupee
+Blue rupee = 5 rupees
+Red rupee = 20 rupees
+
+------------------------------------------
+* Shop
+------------------------------------------
+In this store in the southeast of Hyrule you
+will find the Red Potion of Life, Hearts and
+Bombs for sale. When you have some
+spare Rupees to spend, you should drop
+into the shop and take a look. Rumor has it
+there is a similar shop in the Dark World.
+
+* The Fortune Teller's House
+You can talk to the Fortune Teller to have
+your furtune read. This information can give
+you an idea of what to do next. You should
+have your fortune read as many times as
+possible. The cost of each session changes
+with the mood of the Fortune Teller. (The
+Fortune Teller will also heal your woundes as
+an extra bonus.)
+
+                                29
+------------------------------------------------------------------------------
+
+------------------------------------------
+* Smithy's Shop
+------------------------------------------
+The blacksmith lives just a little to the east
+of Kakariko Village. With his metal-working
+skill he can improve even the mighty
+Master Sword. However, he cannot do it
+himself, and his partner is now missing...
+
+------------------------------------------
+* Pond Of Happiness
+------------------------------------------
+The Mysterious Pond is located in the
+middle of Lake Hylia. Each time you visit,
+you should throw a few Rupees into the
+pond. Over time they will add up, and
+eventually the fountain will bring you
+happiness.
+
+------------------------------------------
+* Whirlpool Waterways
+------------------------------------------
+There are six magical whirlpools in the
+rivers and lakes which connect three warp
+waterways. If you dive into one of the
+whirlpools, you will surface soemwhere in a far away
+body of water. You can make use of these
+watery short-cuts once you have Zora's
+Flippers.
+
+------------------------------------------
+* Magical Warp Tiles
+------------------------------------------
+There are eight magical tiles which are
+entrances to the Dark World that was
+sealed by the Wise Men long ago. Most of
+these are hidden under objects like
+boulders. You must find these in order to
+go to places in the Dark World where you
+could not normally go.
+
+-------------------------------------------------------------
+| Once you have overthrown the wizard Agahnim, you can also |
+| enter the Dark World from the entrance of Hyrule Castle.  |
+-------------------------------------------------------------
+
+                                30
+------------------------------------------------------------------------------
+
+----------------------------------
+8. Dungeon Knowledge
+----------------------------------
+To restore peace to Hyrule, you cannot
+avoid fighting in the dungeons. If you
+clear all of the dungeons of evil and win
+the Triforce, you will be recognized as
+the true legendary Hero of Hyrule.
+
+An evil dungeon keeper lurks in the dark
+recesses of each labyrinth. When you
+defeat it, you will receive a Pendant of
+Virtue or a Crystal. You need to obtain
+three Pendants before you can wield the
+Master sword. And one of the missing
+maidens is trapped inside each of the
+Crystals.
+
+--------------------------------------------------------------------------
+| To simplify things, I will refer to such places as the underground     |
+| labyrinths, the tower, and the inside of the sanctuary, as "dungeons". |
+--------------------------------------------------------------------------
+
+--------------------------------------------
+* Pendant
+--------------------------------------------
+There are three Pendants: one carved with
+the Crest of Courage, another with the
+Crest of Power, and the third with the Crest
+of Wisdom.
+
+--------------------------------------------
+* Crystal
+--------------------------------------------
+Finding seven Crystals is your
+goal in the Dark World.
+
+                                31
+______________________________________________________________________________
+
+------------------- The Treasure Chest and Dungeon Items ---------------------
+In each dungeon you will find many treasure chests with Rupees and
+other things inside of them. The map, compass and big key are also
+hidden in the treasure chests. You can only remove the contents of a
+treasure chest once. Each dungeon also
+contains a big treasure chest that contains
+a special item. In some cases, these items
+will be necessary to get to through later
+dungeons. In any event, special
+items will help you at some
+point later in the game. Be
+sure to find them!
+
+-------------------------------------------
+* Map
+-------------------------------------------
+The dungeon map shows the layout of all the
+rooms in the dungeon and your current
+position.
+
+-------------------------------------------
+* Compass
+-------------------------------------------
+The compass points out the location of the
+evil master of the dungeon.
+
+-----------------------------------------
+| There is no compass in Hyrule castle. |
+-----------------------------------------
+
+-------------------------------------------
+* Big Key
+-------------------------------------------
+You will need the big key to open certain
+dungeon doors and the big treasure chest.
+
+-------------------------------------------------------------------
+|                             If you find one of these dungeon    |
+|                             items, it will be displayed here on |
+|                             the Sub Screen.                     |
+| * If you open the big treasure chest, its location will also be |
+| shown on the dungeon map.                                       |
+-------------------------------------------------------------------
+
+                                32
+______________________________________________________________________________
+
+------------------- How to View the Dungeon Map Screen -----------------------
+Press the X Button to view the Dungeon
+Map Screen. The dungeons are
+complicated so if you get lost take a good
+look at the map. Proceed with caution as
+you make your way through these places.
+
+ ----------------------------------------------------------------------------
+ |                                                                          |
+ |   The left window of the Dungeon              -------------------------  |
+ |   Map Screen shows how many floors            |          MAP          |  |
+ |   there are in the dungeon. A                 |                       |  |
+ |   detalied layout of each floor can be        |                       |  |
+ |   found in the right window of the            |       ------------    |  |
+ |   Dungeon Map Screen. If there are            |       |   2F     | () |  |
+ |   more than three floors to the               |       ------------    |  |
+ |   dungeon, use Up and Down on the             | (L)-> |   1F     |    |  |
+ |   Control Pad to scroll to the floor          |       ------------    |  |
+ |   you want. The left window also              |                       |  |
+ |   shows you which floor your                  |                       |  |
+ |   character and the dungeon keeper            |                       |  |
+ |   are on. The skull symbol                    |                       |  |
+ |   representing the dungeon keeper             |                       |  |
+ |   will not be displayed until you have        |                       |  |
+ |   found the compass.                          |                       |  |
+ |                                               |                       |  |
+ |                                               -------------------------  |
+ |                                                                          |
+ |   *Places which have no dungeon keeper, like the caves of                |
+ |   Death Mountain, do not have Dungeon Map Screens.                       |
+ ----------------------------------------------------------------------------
+                                33
+______________________________________________________________________________
+
+------------------------------------------------------------------------------
+|   This right screen usually shows only the rooms you have                  |
+|   already explored. If you find the map item, however, rooms               |
+|   that you have not yet been in will be displayed. The brackets            |
+|   on the Dungeon Map Screens are for easy identification of                |
+|   your character's position. The red frame indicates the area              |
+|   that is directly above or below the white frame that the player          |
+|   is inside. (The steps are not displayed inside the dungeon               |
+|   cells.)                                                                  |
+|                                                                            |
+|                                                                            |
+|      Skull Symbol                                                          |
+|   Dungeon Master's Lair                                                    |
+|          |                                                                 |
+|    ------|----------------------------------                               |
+|    |     | | ------------------------------------- Dark Blue               |
+|    |       | |     |       |       |       |     Unexplored Rooms          |
+|    |    (S)| |     |       |       |       |                               |
+|    ------|---|-----***---***----------------                               |
+|    |    [D]| |     *       *       |       |                               |
+|    |     | |       |       |       |       |                               |
+|    |    [D]-[D]-[D]-[.] _______________________   Yellow Mark              |
+|    ----------------***---***----------------        Stairs                 |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    -----------------------------------------                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    -----------------------------------------                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+| 2F |       |       |       |       |       |                               |
+|    -----------------------------------------                               |
+|                                                                            |
+|    -----------------------------------------                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    |       |       |       |       |       |                               |
+|    -----------------------------------------                               |
+|    |       |       |    [-] ------------------------ Flashing Mark         |
+|    |       |       |     | |       |       |         Your Current Position |
+|    |       |       |[.    ]|       |       |                               |
+|    --------------------|--------------------                               |
+|    |       |[ ]-[ ]|[     ]-[ ]-[ ]|       |                               |
+|    |       | |  [ ]|[     ]-[ ]  | |       |                               |
+|    |       |[ ]-[ ]|[  = --------------------------- Big Red Mark          |
+|    --------------|-----|-----|--------------         Big Treasure Chest    |
+|    |       |    [ ]-[     ]-[ ]-[ ]|       |                               |
+|    |       |    [ ]|[     ]|     | |       |                               |
+|    |       |    [ ]|  [ ]  |     | |       |                               |
+|    --------------------|---------|----------                               |
+|    |       |       |[     ]|     | |       |                               |
+|    |       |       | | | | |     | |       |                               |
+| 1F |       |       |[  #  ]|     | |       |                               |
+|    --------------------|---------|----------                               |
+|                        |         |                                         |
+|           Arrow Mark ---         ------------------ Light Blue             |
+|          Dungeon Entrance                           Explored Rooms         |
+|                                                                            |
+|-----------------------------------------------------------------------------                                34
+
+                                34
+______________________________________________________________________________
+
+------------------------- Dungeon Contraptions -------------------------------
+The dungeons are complicated places full of powerful enemies.
+Added to this there are traps and mysteries that will give you a
+headache.
+
+----------------------------------------------
+* Pots
+----------------------------------------------
+These are scattered throughout the dungeons.
+These pots come in handy, because you can
+pick them up and throw them at the enemy
+to cause damage. You can also find hearts
+in some pots, and some hold arrows and
+bombs (note that the contents of a used pot
+will not be replaced until you leave the
+dungeon.) Also, some pots hide switches
+that open doors.
+
+----------------------------------------------
+* Keys and Doors
+----------------------------------------------
+If rooms are divided by a locked door, you
+will need that door's key. There are two
+types of keys, small keys and big keys.
+Small keys can only be used once, but the
+big keys can be used as many times as you
+like. (The keys of one dungeon cannot be
+used in another dungeon). On top of all this,
+there are dead-end doors and doors that
+can only be opened by switches.
+
+----------------------------------------------------------------------
+* Fragile Walls
+
+Walls and floors with cracks in them can be knocked down with
+bombs. You can also try to knock down such walls with a dash
+attack. If you knock down a wall, you can sometimes get into the next
+room.
+----------------------------------------------------------------------
+
+                                35
+______________________________________________________________________________
+
+---------------------------------------------
+* Crystal Switches
+---------------------------------------------
+In the dungeons there are blue and orange
+blocks with rise and fall into the floors.
+These will often block your path. Strike the
+Crystal Switch with your sword or some
+other weapon to make the blocks retract.
+When the Crystal Switch is red, the orange
+blocks will retract. When the Crystal Switch
+is blue, the blue blocks will retract.
+
+ ------------------------------------------------------------------------
+ |  All of the blue and orange blocks in the dungeon react in this way. |
+ ------------------------------------------------------------------------
+
+* Manholes
+
+There are many pitfalls and chasms in the dungeons which typically
+do not have fences around them. If you stray off the path and fall into
+a pit, you will sustain damage and return to the entrance of the room.
+There are also manholes (see below) in the dungeons. If you fall into
+one of these, you will drop through to the floor below, but you will not
+sustain damage.
+
+         Hole with black bottom         Hole with visible bottom
+         Sustain damage and             No damage, but drop to
+         return to entrance             the floor below
+
+The dungeons are full of crazy contraptions and perplexing puzzles.
+You ae bound to come across some danger sooner or later, but
+come what may, you must explore and conqueur these places.
+
+                                36
+______________________________________________________________________________
+
+----------------------------------
+9. Item Inventory
+----------------------------------
+The many items which you control with the Y
+Button are very important to success in your
+quest. Collect them from helpful people or
+find them in the dungeons. If you learn the
+capabilities of all the items and discover the
+best places to use them, you will no doubt
+quicken the restoration of peace to Hyrule.
+The item names in green are items that
+consume Magical Power.
+
+                --------------------------------
+                * Lantern               [MAGIC]
+                --------------------------------
+                This is the first ite you are likely to find in your
+                adventure. The lantern lights the torches in the
+                dungeons and brightens the dungeon rooms. It
+                consumes Magic Power to light the torches, and
+                they go out after a time.
+
+                --------------------------------
+                * Boomerang
+                --------------------------------
+                If you hit an enemy with this, it will be stunned
+                for a short time (some enemies will sustain
+                damage when hit by the boomerang). The
+                boomerang can also retrieve distant Rupees and
+                Hearts.
+
+                --------------------------------
+                * Bomb
+                --------------------------------
+                A bomb blast will damage enemies and knock
+                holes in some walls, but it will also damage your
+                character if he is too close to the blast. The
+                bomb's fuse will burn for about two seconds,
+                and up to two bombs can be set at a time. You
+                can also pick up a bomb you have placed and
+                throw it before it explodes (be careful!).
+
+                                37
+______________________________________________________________________________
+
+                --------------------------------
+                * Bottle
+                --------------------------------
+                You can put many things in a bottle and keep
+                them for use at a later point in the game. You
+                can get up to four bottles, which are vital to your
+                success on a long adventure. Obtain these
+                bottles as soon as your can.
+
+                --------------------------------
+                * Bug Collecting Net
+                --------------------------------
+                There are bugs and other things hidden away in
+                the bushes and trees. If you time it right, you
+                can catch them with this net and store them in
+                bottles to use later on. You should definately try
+                to catch many things with this item.
+
+                --------------------------------
+                * The Book of Mudora
+                --------------------------------
+                The monoliths left by the Hylian people are
+                inscribed with ancient script. If you find an
+                inscription that you cannot read, use this book
+                and its meaning will become clear.
+
+                --------------------------------
+                * Bow
+                --------------------------------
+                The bow is a powerful weapon that can be found in
+                the first palace, but you need arrows to use it. Arrows
+                sometimes appear when you defeat an enemy
+                and sometimes they are hidden in pots. These is
+                a rumor that somewhere in Hyrule you can obtain
+                a silver bow and arrow of even greater strength.
+
+                --------------------------------
+                * Mushrooms
+                --------------------------------
+                These sweet tasting, strange smelling
+                mushrooms are an ingredient for making Magical
+                Power. You can find these while wandering in
+                the Lost Woods.
+
+                                38
+______________________________________________________________________________
+
+                --------------------------------
+                * Magical Powder        [MAGIC]
+                --------------------------------
+                This Magical concoction hasu npredictable
+                effects on certain things. Try sprinkling it on a
+                bush to cause a strange chemical reaction. Its
+                effect on other living things is said to be even
+                stranger
+
+                --------------------------------
+                * Magical Mirror
+                --------------------------------
+                You can use this mirror to escape from the dark
+                World to the Light World. The portal that is
+                created can also be used as a gate back into the
+                Dark World. But be warned. If the place where
+                you reappear in the Light World is a place where
+                you cannot normally go (such as inside a wall)
+                you will be forced back into the Dark World.
+                Note that the mirror will also return you to the
+                entrance when used in the dungeon. The
+                Magical Mirror cannot be used in a house or cave.
+
+                --------------------------------
+                * Magic Hammer
+                --------------------------------
+                Use this hammer to pound stakes and other
+                obstacles into the ground. The magic hammer is
+                also effective against some enemies, but it is
+                best used in conjunction with another weapon.
+
+                --------------------------------
+                * Hook Shot
+                --------------------------------
+                This device consists of a long chain with a hook
+                on the end. You can fling the hook into a tree,
+                pot or treasure chest and then pull yourself to
+                the location of the hook by reeling in the chain.
+                This will enable you to cross holes in the ground
+                or other such obstacles. The Hook Shot can also
+                be used as a weapon.
+
+                --------------------------------
+                * Shovel
+                --------------------------------
+                Use this to dig holes in the ground. You cannot
+                dig in some surfaces. You need this shovel to
+                find the Flute.
+
+                                39
+______________________________________________________________________________
+
+                -------------------------------
+                * Flute
+                -------------------------------
+                A lonely lad will give you the Flute, which plays
+                a beautiful but slightly sad melody. When you
+                are granted it, be sure to fulfil the request made
+                of you. If you have the Flute, it will make your
+                long and difficult journey a lot easier.
+
+                --------------------------------
+                * Ice Rod                [MAGIC]
+                --------------------------------
+                You can use this magic wand to launch a sub-
+                zero blast of air which will quick freeze most
+                enemies. Weaker enemies will be destroyed by
+                this weapon, and even stronger enemies might
+                become solid blocks of ice.
+
+                -------------------------------
+                * Fire Rod              [MAGIC]
+                -------------------------------
+                This rod spits out a ball of fire that will sear
+                most enemies to a crisp. Some enemies are
+                especially vunerable to fire, so use the Fire Rod
+                wisely. The Fire Rod can also be used like the
+                lantern to light torches, but from a distance.
+
+                -------------------------------
+                * Staff of Somaria      [MAGIC]
+                -------------------------------
+                This mystic staff creates blocks formed of pure
+                magic power. These blocks can be thrown or
+                pushed on to the enemy to cause damage. (Power
+                blocks disintegrate if they touch an enemy five
+                times.) if you strike a magic block with the Staff,
+                it will shatter and the fragments will damage
+                enemies nearby. You will need this Staff to get
+                through the Turtle Rock dungeon in the Dark
+                World.
+
+                                40
+______________________________________________________________________________
+
+                -------------------------------
+                * Staff of Byrna        [MAGIC]
+                -------------------------------
+                The beam from this staff surrounds and protects
+                you from all damage. Press the Y button again
+                to deactivate the wand. Note that this item
+                consumes Magical Power in proportion to how
+                long it is used.
+
+                -------------------------------
+                * Magic Cape            [MAGIC]
+                -------------------------------
+                Your character will turn invisible when he wears
+                this Magic Cape. While hidden from the
+                enemies' view, you can attack them without
+                taking damage. Although the cape is a useful
+                item, it will consume Magic Power while you are
+                using it.
+
+ --------------------------- Magic Medallions -------------------------------
+
+                -------------------------------
+                * Bombos                [MAGIC]
+                -------------------------------
+                Only the Hero breaing the Master Sword can
+                retrieve this medal. The magic of this medallion
+                sets off explosive forces around you which
+                engulf the enemy in flames.
+
+                -------------------------------
+                * Ether                 [MAGIC]
+                -------------------------------
+                The Ether Medallion charges your sword with a
+                cold chill that freezes the surrounding enemy.
+                The Ether MEdallion has the same effect as the
+                Ice Rod but it works against all the enemies on
+                the screen.
+
+                -------------------------------
+                * Quake                 [MAGIC]
+                -------------------------------
+                If you drive your sword into the ground when you
+                have this medallion, the aearth will come to life
+                and shake violently. Such an attack and the fear
+                it creates are bound to affect the enemy.
+
+        ---------------------------------------------------------------
+        | All magic medallions consume magical force, so keep a close |
+        | eye on your Magic Meter when you use them.                  |
+        ---------------------------------------------------------------
+
+                                41
+______________________________________________________________________________
+
+10. Your Quest Begins...
+-----------------------------------
+With the knowledge you have gained so far,
+you should be ready for your quest. But if
+you still have any doubts, what follows is a
+message for the legendary Hero of Hyrule
+(which you may yet become) from the
+Hylian Book Of Mudora.
+"We prophets of the Hylia know what your
+future holds. Listen carefully...
+
+"The legend begins in your very
+own house. You have just been
+awakened by Zelda's voice.
+Follow your uncle as he sets out
+in the direction of the castle.
+Somewhere at the perimeter of
+the castle there is an
+underground entrance. You will
+have to search for it.
+
+"Using the sword and shield you
+receive from your uncle, you can
+set about rescuing Zelda. Don't
+miss the boomerang hidden in
+the castle. If you defeat the soldiers and
+free Zelda from the prison, you can escape
+with her along a secret passageway and
+head for a magical study called Sanctuary.
+
+"If you make it to Sanctuary, listen carefully
+to what the Sage and Zelda have to say.
+Now, you should know what you have to do.
+From here on, the places you have to go to
+will be displayed as symbols on the map. It
+is probably a good idea to keep an eye on
+the map while progressing. Start by going to
+Kakariko Village and picking up the information
+that is waiting for you there. You can also
+find some items in this village.
+
+                                42
+______________________________________________________________________________
+
+"When you find the elder, he will tell
+you that you need the three pendants
+of Virtue before you can claim the
+Master Sword. You will find the
+Pendants in the Eastern Palace, the
+Desert Palace and the Tower Of Hera.
+Defeat the masters of these dungeons
+to win the Pendants. The dungeons
+are complicated and full of formidable
+adversaries. Keep an eye on the map
+and be on the lookout for trouble as
+you advance through the dungeons.
+And when you are in the dungeons, it
+is imperative that you find the bow,
+Power Glove and Moon Pearl.
+
+"When you have the three Pendants,
+you will be able to wield the Master
+Sword which  sleeps in the Lost
+Woods. If you have the Master Sword,
+you should head for Hyrule Castle to
+do battlewith Agahnim the wizard.
+
+"Agahnim will use powerful sorcery
+against you, but if you truly
+understand the strength of the Master
+Sword, you can defeat him. When
+you take hold of the Master sword, try
+to recall the words of the elder. At
+this point, your destiny grows cloudy...
+The rest of the legend is yours to
+write!"
+
+                                43
+______________________________________________________________________________
+
+----------------------------------
+11. A Brief Bestiary Of Hyrule
+----------------------------------
+Here, in the last part of this tome, I will introduce you to a few of the
+adversaries in this adventure. However formidable these creatures
+may seem, they are bound to have weak points. Discover their
+weaknesses to make your attacks more effective.
+
+Stalfos Knight
+----------------------------------------
+The skeletal warrior is stationed in the
+Ice Palace. Even if you hit him with
+your sword, he always seems to come
+back to life. You will need some other
+weapon to deal this warrior the final
+blow.
+
+                                Ball and Chain Trooper
+                                ----------------------------------------
+                                Agahnim controls all of Hyrule
+                                Castle's soldiers, including this
+                                strong and skilled fighter. He guards
+                                Zelda's cell and other important
+                                areas of the Castle and attacks with
+                                a whirling ball and chain.
+
+Gibdos
+----------------------------------------
+This bandage swarthed menace is
+indeed powerful. It can withstand
+repeated blows from the sword without
+even slowing down. However, it is
+rumored that it cannot stand fire.
+
+                                44
+______________________________________________________________________________
+
+Geldman
+----------------------------------------
+This sand-man lives beneath the
+shifting desert sands. He will jump
+out at you from the sand and strike
+at you unexpectantly.
+
+                                Hinox
+                                ----------------------------------------
+                                This super strong monster is rumored to
+                                inhabit the Dark World. Although he is
+                                amazingly strong, he cannot withstand the
+                                very bombs he throws. Aim for the eye
+                                if you want to find his weak point.
+
+Snap Dragon
+----------------------------------------
+This strange creature was created as
+a result of a mad alchemist's plant
+experiments. He uses his tooth-filled
+maw to snap at anything that gets in
+his way as he hops about.
+
+                                Helmasaur
+                                ----------------------------------------
+                                The tooth, armored head of this small
+                                saurian can easily withstand sword blows.
+                                Your best chance is to attack him from
+                                behind.
+
+Wizzrobe
+----------------------------------------
+This wizard appears and disappears
+using his magic. You can only damage
+him only while he is visible. The
+Wizzrobe attacks using magical
+beams of energy.
+
+                                45
+______________________________________________________________________________
+"The Legend of Zelda: A Link to the Past Instruction Manual"
+Converted to ASCII text by FM2000 on 10/10/97
+Warranty info omitted
+cassanit@lightlink.com
+
+  ------------------------------------------------------------------------
+Return to the Manual Archive

@@ -1,0 +1,2968 @@
+------------------------------------------------------------------------------
+***********************************DARK CLOUD*********************************
+------------------------------------------------------------------------------
+
+Weapons Guide
+By: Expert / The_Expert_47 (Andrew Ziel)
+Email: expert_47 (at) hotmail.com
+Version: 3.14
+
+These sites have permission to have all of my guides on them:
+
+Geocities.com/the_expert_47/ (My site.)
+Gamefaqs.com
+IGN.com
+Neoseeker.com
+SuperCheats.com
+Gamez.com
+Cheats.de
+
+If you find this guide, or portions of it any where else please email me.
+Thanks!
+
+On Gamefaqs, SuperCheats, and Gamez my name is Expert.
+On IGN and Neoseeker my name is The_Expert_47.
+On Cheats.de it credits my work direclty to Andrew Ziel.
+
+Other than the email above you can contact me at:
+MSN - expert_47 (at) hotmail.com
+Yahoo - the_expert_47
+
+---------------------------
+*****Table Of Contents*****
+---------------------------
+ 
+ -Introduction
+  -Search Tip
+  -Dark Cloud Hint
+ -Weapons
+  -How To Build Up Weapons
+  -The Basics
+   -Basic Stats
+   -Elemental Stats
+   -Anti. Stats
+  -Abilities
+   -Canceling Abilities
+   -Durable
+   -Stopping Default Abilites
+   -Finding Weapons With Abilites
+  -Evolution
+  -Stats
+  -Max Attack / Magic
+  -Locations
+   -You Can Help
+  -Gifts
+  -Buying
+  -Seller's Guide
+  -Descriptions
+  -Abs / Attachment Slots
+  -Top Stat Synths
+  -Leveling Up Tips
+   -Making Synths / Build Up Weak Weapons
+   -Building Your Main Weapon
+   -Where Should I Level Up?
+   -Take Care Of Your Weapons!
+ -Attachments
+  -Full Profiles
+  -Buying
+  -Receiving From Enemies
+  -Chart
+ -Ending Remarks
+ -Credits
+ -Copy Right
+
+----------------------
+*****Introduction*****
+----------------------
+The purpose of this guide is to tell you all about the 103 weapons in 
+Dark Cloud. I have divided the guide into sections to make it easier to 
+locate the information you are seeking. This guide also contains 
+an attachment section, so you can find out all the information on the 
+attachments of Dark Cloud. Well, here it goes.
+
+----------
+Search Tip
+----------
+Remember, to find something faster hit Ctrl F. Using this method
+you can search for the information on a certain Weapon faster.
+
+---------------
+Dark Cloud Hint
+---------------
+Hint: Extra Lives
+
+Equip Revival Powders as Active Items. That way if you die on a 
+Limited Zone Floor or if you don't have any Stand In Powers left 
+you won't be forced to leave the Dungeon and loose half your money. 
+When you do die with a Revival Powder equipped then the enemies 
+will pause and the message "Revival Powder Used" will appear. 
+After you hit X the fight will continue. You may not notice 
+the message appearances if you were in the middle of an attack 
+and just were button-mashing X.
+
+----------------------------------------------------------------------------
+********************************Weapons*************************************
+----------------------------------------------------------------------------
+
+---------------------------------
+*****How To Build Up Weapons*****
+---------------------------------
+
+Ok, over the course of helping a lot of people with Dark Cloud I've come
+to notice something; some people do not really know how to make build
+up their weapons. It's not that they are dumb by any means, it's just for
+some reason or another the tutrial's information iluded them. Well, lucky
+for all of those people I put a lot of "*" next to this, so hopefully they
+won't miss it this time. Shall we begin?
+
+When you go to the weapons section on the menu you can view all the weapons
+you have at that time. Once you select one you will notice that there is an
+option called Build Up. (Note: This will not appear on base weapons or weapons
+that are a final evolution.) Once you select this option you can scroll
+through the Basic, Elemental, and Anti stats for that weapons with R1 and L1.
+You notice the stat in Red? Those are the stats that must be increased in
+order to Build Up that weapon into a more powerful, advanced form.
+
+How to upgrade those stats? That's simple. Once a weapon is at full abs, or
+you have a Power Up Powder the option Upgrade will appear on the weapons
+screen. That is the key. However, just upgrading your weapon will rarly, if
+ever get it to the point where it can be build up. Like I said before you
+must increase the stats in Red, all of them including Elements and Antis.
+
+To go about raising stats you need up put on attachments before you select
+the option Upgrade. If attachments are present on the weapon when this
+option is selected than they are permenently absorbed into that weapon.
+Once you absorb enough attachments that increase a certain stat in Red
+it's requirement for the next build will be met and it will turn White,
+just like all the other stats that you do not need to rise and once all
+that stats are White the options Build Up will start to flash and that
+means you are ready to go to next weapon form.
+
+-For information on attachments see the: "Attachments: section
+-For information on the best way to Build Up your weapons check out
+the: "Leveling Up Tips" section along with any other section you
+need to utalize in order to create your ultimate weapon.
+-For information on Building Up the special swords in the Mardan Eins
+line check out the 3rd Note under Toan's weapons in the "Evoltion" section.
+
+--------------------
+*****The Basics*****
+--------------------
+In Dark Cloud you rely on your weapon for survival, so it is important 
+that it is very strong and can overcome any situation or monster you 
+encounter. That means having the right stats on your weapon. The stats 
+for weapons in Dark Cloud are as follows:
+
+-----------
+Basic Stats
+-----------
+-Attack (At) = How much attack power the weapon possesses.
+-Endurance (Ed) = The higher this stat is the less WHP you lose with 
+                  every hit / shot.
+-Speed (Sp) = The more speed the weapon has determines how fast after a 
+              combo / shot you can start attacking again, or how fast 
+              you can shoot again.
+-Magic (Mg) = How much magic power the weapon possesses. The higher it 
+              is the more affective your element will be.
+-Weapon Health Power (WHP) = This, along with endurance determines how 
+                             many hits / shots your weapon can deliver before 
+                             it breaks.
+
+---------------
+Elemental Stats
+---------------
+-Fire (Fe) = How high the Fire rating is on your weapon. Use Fire to 
+             damage Ice Monsters.
+-Ice (Ic) = How high the Ice rating is on your weapon. Use Ice to 
+            damage Fire Monsters.
+-Thunder (Th) = How high the Thunder rating is on your weapon. Use 
+                Thunder to damage Wind Monsters.
+-Wind (Wi) = How high the Wind rating is on your weapon. Use Wind to 
+             damage Thunder Monsters.
+-Holy (Ho) = How high the Holy rating is on your weapon. Use Holy to 
+             damage the Undead, Mummies, and Evil Monsters.
+
+-----------
+Anti. Stats
+-----------
+-Dragon (Dr) = Increases damage done to reptilian monsters.
+-Undead (Ud) = Increases damage done to the undead.
+-Marine (Ma) = Increases damage done to marine monsters.
+-Rock (Rk)   = Increases damage done to rock monsters.
+-Plant (Pt)  = Increases damage done to plant monsters.
+-Beast (Bt)  = Increases damage done to animal monsters.
+-Sky (Sy)    = Increases damage done to flying monsters.
+-Metal (Ml)  = Increases damage done to metal monsters.
+-Mimic (Mc)  = Increases damage done to Mimics and King Mimics.
+-Mage (Mg)   = Increases damage done to mages and witches.
+
+So, using this information and your own common sense you can find the 
+easiest way to defeat every monster in Dark Cloud.
+
+-------------------
+*****Abilities*****        
+-------------------
+Some weapons in Dark Cloud carry abilities on them that can make the 
+over all dungeon experience easier and more rewarding, and then there 
+are a few that make it harder and less rewarding, you'll want to stay 
+away from these. Also there are some abilities that cancel each other 
+out. In this section you will find out all about the abilities and how 
+to obtain them.
+
+First the list of all the abilities and a description of what they do.
+
+-Quench = It makes the overall process of getting thirsty in a dungeon 
+          slower. It is the opposite of Thirst.
+
+-Thirst = It makes the overall process of getting thirsty in a dungeon 
+          faster, but every time you kill an enemy you get a drop of water on 
+          your thirst meter refilled. It is the opposite of Quench.
+
+-Big Bucks = Whenever you kill an enemy that drops gilda with a weapon 
+             that has Big Bucks on it the amount of gilda it drops will be 
+             greater. It is the opposite of Poor.
+
+-Poor = Whenever you kill an enemy that drops gilda with a weapon that 
+        has Poor on it the amount of gilda it drops will be less. It is 
+        the opposite of Big Bucks.
+
+-Durable = It makes the WHP lost per hit / shot less. It is the 
+           opposite of Fragile.
+
+-Fragile = It makes the WHP lost per hit / shot greater. It is the 
+           opposite of Durable.
+
+-Drain = Every time you hit / shoot an enemy you receive a portion of 
+         the damage dealt to heal yourself. It is the opposite of Heal.
+
+-Heal = You gain 1 HP once every couple of seconds. It is the opposite 
+        of Drain.
+
+-Steal = When hitting / shooting an enemy with a weapon that has the 
+         Steal ability it is possible to steal items from them.
+
+-Stop = A weapon that possesses this ability can sometimes stop an 
+        enemy dead in its tracks the same way a Throbbing Cherry can.
+
+-Poison = A weapon that possesses this ability can sometimes poison an 
+          enemy the same way a Poisonous Apple can.
+
+-Critical = A weapon that possesses this ability has the chance to kill 
+            an enemy in one blow.
+
+-Abs Up = It multiplies the Abs received from defeating an enemy by 
+          1.5.
+
+This is a list of the weapons that carry these abilities:
+
+-Ability       Weapon             Character
+
+-Quench        Kitchen Knife        Toan
+-Thirst        Sand Breaker         Toan
+-Big Bucks     Big Bucks Hammer     Goro
+-Poor          Trial Hammer         Goro
+-Drain         Drain Seeker         Toan
+-Heal          Angel Shooter        Xiao
+-Steal         Bandit Slingshot     Xiao
+-Steal         Bandit's Ring        Ruby
+-Stop          Antique Sword        Toan
+-Poison        Scorpion             Ungaga
+-Critical      5 Foot Nail          Ungaga
+-Abs Up        Trial Hammer         Goro
+
+The abilities Durable and Fragile are random. They can be on any weapon 
+that you buy or find, so it doesn't really do you any good if I told 
+you what weapons I have found them on, as if you found that weapon the 
+chances are it would not be on it. Good luck finding Durable!
+
+Note: Synths are not character specific. You can have a synth from a
+weapon for Ruby and attach it onto a weapon for Toan, as an example.
+This means all you people that want all the good abilites on one weapon,
+you are in luck, as you can do that. However you can't have both Drain
+and Heal as they are opposites. You can have at most nine abilities on
+a weapon.
+
+---------------------------
+****Canceling Abilities****
+---------------------------
+Ok so the abilities that cancel each other out, or opposites as they 
+are commonly called are:
+
+Quench - Thirst
+Big Bucks - Poor
+Durable - Fragile
+Drain - Heal
+
+Canceling out abilities can be confusing for some people, so I will 
+explain it as simple as I can. Now lets say you want Abs Up on your 
+weapon, but you don't want Poor, which comes with Abs Up on the Trial 
+Hammer. To get rid of Poor you must put the Trial Hammer synth onto a 
+weapon that already has Big Bucks. Now, when you put it on, both Big 
+Bucks and Poor will disappear as they cancel each other out, leaving 
+Abs Up on instead. But, after you officially absorb the synth of the 
+Trial Hammer, in other words upgrade with it on, Big Bucks will 
+reappear and Abs Up will still be on the weapon. So basically it is 
+like this: Whenever canceling out abilities, with the corresponding 
+opposite, the one that was on the weapon in the first place will stay 
+and the one on the synth will disappear after the upgrade.
+
+-------------
+***Durable***
+-------------
+Finding Durable can be a difficult thing to do. However over the past
+couple years at the Help Centers I have had two individuals come to me
+with brillant ways of getting this ability. Their ways are the same, at
+the core, but they explained them differently. I'll give you their
+explanations and then sum it up in my own words. The words under their
+headings are their own, and I have not altered them.
+
+---------------
+Lee Eric Kirwan
+---------------
+No weapon consistently has durable. In other words,
+a particular weapon can have durable, but not always
+have it.
+
+I decided to buy and sell weapons alot out of
+randomness, and it seems that quick buying doesn't
+'refresh' a weapon you buy. What I mean is, when I
+was quick buying kitchen knives, I didn't get any
+durable through over 40 knives, then I normally
+bought a knife out of randomness, and then quick
+bought the rest of the 8, and found the 8 I quick
+bought all had durable... I believe the quickest
+way of getting durable, at a large cost of gilda,
+is to drag kitchen knives from the shop to your
+inventory, check it out, repeat until your weapon
+inventory for Toan is full, check the weapons, sell
+any that doesn't have durable (quick sell if you like),
+then normally buy the knives again. If you don't want
+quench along with durable, then use the slightly more
+expensive gladius.
+
+If you'd like to know, I did normally buy (not using
+[triangle] to quick buy) 16 gladius before getting two
+of them with durable. I'm not sure if any weapons
+would get durable more often than others, though...
+
+Anyway, I'll try telling about what I did in greater
+detail... As I said, quick buying doesn't refresh,
+so I did get 8 knives in a row with durable and
+quench, but I didn't mention that when I was buying
+a bunch of gladius', I was buying one at a time,
+normally, then backing out after one purchase, checking,
+then going back into shop to trade a gladius for another
+gladius. This was for the first 11 gladius of the 16 I
+mentioned. Then, at the last five, I just bought them
+without leaving the shop, and the second and fourth ones
+I bought that time had durable. I wonder if it is truly
+refreshed, or if it cycles between two gladius', where
+both are randomly determined, each time you look at what
+the shop has... Just speculating...
+I also wonder, if each time you visit the shop, the first
+weapon you buy would ever get Durable...
+
+-------
+Jekyll2
+-------
+Expert - I made an interesting discovery, and as this will probably
+be my last post on this board I thought I'd tell you so that you can
+pass it on to anyone else who needs to know in the future as you
+most frequently answer people's questions. Anyway, do you
+remember that I was trying to get durable weapons by buying a
+lot of cheap weapons? Well, it turns out that if you buy multiple
+weapons of the same type at one time using the triangle button to
+quick buy, then the game considers all of these weapons to be
+identical in terms of their random abilities. In other words, I was
+buying 4 kitchen knifes and 4 gladius swords at a time, and I
+bought 4 gladius at the same time which ALL had the durable ability.
+The random abilities are assigned before you even buy the sword
+instead they are assigned when you go into the shopping screen.
+Therefore, you can get multiple durable weapons all at once if you
+use the quick buy feature and are moderately lucky and patient.
+
+--------
+My Words
+--------
+Here is a way that others have found useful in getting Durable.
+This has my own twist on it of course.
+-Get a lot of Gilda.
+-Save the game in Queens.
+-Go to Jack's Weapon Shop.
+-Ok this is where it gets a bit complicated. I'll try to explain it:
+ When you Quick Buy weapons they are all exactly the same. So, we
+ can take advantage of this. If you Quick Buy X amount of Kitchen
+ Knives and the first one had Durable then all of the others will
+ also have Durable. So, simply go in and quick buy Kitchen Knives.
+ When you can't carry any more exit out of the shop and check their
+ status. If they have Durable then you are all set. If they don't
+ go to the next step.
+-Now you have some options. You can reset or you can keep going
+ back into the shop and quick buying and selling until you have
+ no more money left. The choice is yours.
+-Stop when you are satisfied with the results.
+
+Don't forget, there is the old fashion way of finding Durable:
+Go out there and look!
+
+-------------------------------
+***Stopping Default Abilites***
+-------------------------------
+There are some weapons out there that come with abilities that you
+just are not going to want. However, if you go with certain weapon
+paths then you will defaultly get certain abilities on you weapons.
+Now, this can create a problem. Where this is most evident is
+undoubtedly the Angel Shooter with Heal. See the Angel Shooter is
+the only weapon that evolves directly into the Angel Gear which
+is Xiao's best ultimate weapon. Now, while Heal is considered a
+"Good" ability it really doesn't hold a candle to Drain, it's
+counterpart. So, for the people that want to make everything on
+her weapon as good as possible you will need to find a way for the
+Angel Shooter not to gain Heal. (This happens when you evolved into
+it from a Divine Beast Title.) For a while now I have had a hypothosis
+on how to do this, and it was indeed confirmed not to long ago by
+an avid Dark Cloud player, Lee Eric Kirwan. Here are his words on
+the situation:
+
+---------------
+Lee Eric Kirwan
+---------------
+Also, having Drain on a Divine Beast Title as you Build it Up to an
+Angel Shooter becomes a weapon with nether Heal or Drain. Tossing in
+an extra Powerup Powder shows the Heal ability stays away.
+
+So, I suppose that you can have an Angel Gear with Drain. I just
+decided to toss a few powerful Synthspheres and Powerup Powders
+into a Matador, and check the result. Seems Ange Gear doesn't
+redundantly have Heal, so you're just wasting one Drain for a
+heal-less Angel Gear.
+
+--------
+My Words
+--------
+In order to keep the weapon you are evolving into from having it's
+default ability simply have the opposite of that ability on before
+you build up into the weapon. However this also brings up the point
+that if you can't evolve into the weapon you are simply stuck with
+the abilites it comes with. If you find weapons with bad abilites,
+just sell them. In the case of the Trial Hammer see the section
+above on Canceling Out Abilites. Now, there is no drawback to having
+the abilities with no opposite, as they are all good to have anyway.
+This includes: Steal, Stop, Poision, Critical, and Abs Up. So, now
+we are left with the abilities: Quench/Thirst, Big Bucks/Poor
+Drain/Heal. My advice is to refer to the section about once again
+for the Trial Hammer and it's Poor/Abs Up mix. Also I would say
+to just avoid the Sand Breaker and Thirst, unless you like that
+ability better than Quench, and some people do. (See the descriptions
+of the abilities above.) Besides, although the Sand Breaker evolves
+into the Antique Sword which has Stop, you will find more than
+enough Antique Sword without evolution. That leaves us with Drain/Heal.
+Drain is better, it just is. Heal is only on Xiao's Angel Shooter as
+I said before. This means that it is in your way of an Angel Gear
+with Drain. So to fix it: Just make sure that before you have your
+Divine Beast Title evolve into an Angel Shooter, it already has
+Drain on it. This will have a nulling affect on the Angel Shooter's
+defualt Heal ability and leave you with a neutral weapon. Then
+whenever another Drain Seeker (The weapon with Drain.) is provided
+for you then just put that on the Angel Shooter/Gear to have a great
+slingshot without Heal, making it that much better!
+
+---------------------------------------
+*****Finding Weapons With Abilites*****
+---------------------------------------
+It’s pretty random where you find any weapon, let alone weapons
+with abilities, but here is a list where I would suggest searching
+for them.
+
+-Kitchen Knife - Buy from Jack in Queens.
+-Antique Sword - Demon Shaft / Gallery of Time
+-Drain Seeker - Demon Shaft / Gallery of Time
+-Bandit Slingshot - Anywhere after Floor 8 of the Divine Beast Cave.
+-Big Bucks Hammer - Buy from Jack in Queens.
+-Trial Hammer - Wise Owl Forest Floors after 9 and Shipwreck Floors before 9.
+-Bandit's Ring - Anywhere after Floor 9 of the Shipwreck.
+-5 ft. Nail - Anywhere after Floor 9 of the Sun & Moon Temple and before
+ Floor 8 of the Moon Sea.
+-Scorpion - Anywhere after Floor 9 of the Sun & Moon Temple.
+
+The places with the highest percentage to find weapons for a certain
+character are the levels after you get them up to the levels where you
+get the next character. However, some weapons, like the Drain Seeker
+for example are too powerful to find in the first 7 levels of the
+Divine Beast Cave, so I put where I tend to find the most of them.
+
+Also, weapons with Durable can be anywhere because there is no set weapon
+that always has Durable. However, do remember, it tends to be very rare!
+
+-------------------
+*****Evolution*****
+-------------------
+
+In Dark Cloud your weapons, after they get strong enough can evolve 
+into more powerful forms. This section will show you the evolution 
+paths that weapons can take in this game. If a weapon can evolve into 
+more than one form the one that is listed in the second slot under 
+Build Up in the game will be listed second. At the end of every 
+characters evolution chart I will list the final weapons in 
+alphabetical order, showing the max attack then on the other side 
+of the dash the max magic. If you want to see the max attack and 
+magic for all the weapons go to the Max Attack / Magic section 
+later in the guide. Well, here it goes.
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+[-Base Weapon - Dagger-]
+
+Baselard        - Sax / Shamshir
+Crysknife       - Small Sword / Sand Breaker
+Gladius         - Small Sword / Chopper
+Kitchen Knife   - Chopper / Sax
+
+Bone Rapier     - Evilcise
+Buster Sword    - Claymore
+Chopper         - Choora / Dusack
+Sand Breaker    - Antique Sword
+Sax             - Dusack
+Serpent Sword   - Tsukikage / Evilcise
+Shamshir        - Dusack
+Small Sword     - Tsukikage
+
+Antique Sword   - Brave Ark
+Choora          - Heaven's Cloud / Maneater
+Claymore        - Cross Hinder
+Dusack          - Brave Ark / 7 Branch Sword
+Evilcise        - Drain Seeker
+Macho Sword     - Aga's Sword / Cross Hinder
+Tsukikage       - Heaven's Cloud
+Wise Owl Sword  - Lamb's Sword
+
+7 Branch Sword  - Atlamilla Sword
+Aga's Sword     - Atlamilla Sword
+Brave Ark       - Dark Cloud
+Cross Hinder    - Big Bang
+Drain Seeker    - Dark Cloud
+Heaven's Cloud  - Dark Cloud
+Lamb's Sword    - Atlamilla Sword
+Maneater        - Atlamilla Sword
+Mardan Eins     - Mardan Twei
+Sun Sword       - Big Bang
+
+Atlamilla Sword - Chronicle Sword
+Big Bang        - Sword Of Zeus
+Dark Cloud      - 7th Heaven
+Mardan Twei     - Arise Mardan
+
+Final Weapons
+
+7th Heaven      - 240 / 110
+Arise Mardan    - 250 / 120
+Chronicle 2     - 350 / 200
+Chronicle Sword - 260 / 150
+Sword Of Zeus   - 199 / 176
+
+Notes: There are only one Serpent Sword, Macho Sword, Sun Sword, Mardan 
+Enis and Chronicle 2 in the game. That means there is only one Aga's 
+Sword as the Macho Sword is the only weapon that evolves into Aga's 
+Sword. There are also only one Mardan Twei and Arise Mardan because 
+there is only one Mardan Eins.
+
+Notes: To get the Chronicle 2 you must beat the Black Knight Pendragon 
+on the 100th floor of the Demon Shaft.
+
+Notes: The only way to get a Mardan Eins is to catch a Mardan Garyan, 
+and then you have to buy it for 2500 fishing points. To build it up to 
+Mardan Twei you have to catch 25 more Mardans and then to build the 
+Mardan Twei up to the Arise Mardan you need to catch 15 more Mardans.
+I have been told that these figures, according to other people may be
+too high, but these are the ones I will list until they are officially
+proven wrong as I would rather have you shoot too high and be given
+a suprise than shoot too low and get angry. There are also other theories
+of how these blades Build Up, but this is the most commonly accepted
+idea and will be listed until it's officially wrong.
+
+Notes: The Lamb's Sword changes its appearance and stats when it goes 
+into "Wolf Mode". It does this when it gets low on WHP.
+
+Notes: Evolving the Serpent Sword into the Tsukikage could end up
+loosing you 2 Attack. The max Attack for the Serpent Sword is 70
+and for the Tsukikage it is 68.
+
+-----------------
+Xiao's Slingshots
+-----------------
+[-Base Weapon - Wooden Slingshot-]
+
+Bandit Slingshot   - Hardshooter / Double Impact
+Bone Slingshot     - Flamingo
+Steel Slingshot    - Hardshooter
+
+Flamingo           - Dragon's Y
+Hardshooter        - Double Impact / Matador
+
+Double Impact      - Divine Beast Title
+Dragon's Y         - Divine Beast Title
+Matador            - Divine Beast Title
+
+Divine Beast Title - Angel Shooter
+
+Angel Shooter      - Angel Gear
+Steve              - Super Steve
+
+Final Weapons
+
+Angel Gear  - 256 / 103
+Super Steve - 130 / 80
+
+Notes: Steve and Super Steve both talk when locked onto an enemy. There 
+stats aren't very good, but they are supposed to just be fun weapons 
+anyway.
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+[-Base Weapon - Mallet-]
+
+Frozen Tuna      - Turtle Shell
+Steel Hammer     - Plate Hammer
+
+Big Bucks Hammer - Magical Hammer / Gaia Hammer
+Plate Hammer     - Magical Hammer
+Trial Hammer     - Gaia Hammer
+Turtle Shell     - Magical Hammer / Battle Axe
+
+Battle Axe       - Satan's Axe
+Magical Hammer   - Gaia Hammer / Last Judgment
+
+Gaia Hammer      - Tall Hammer
+Last Judgment    - Tall Hammer
+Satan's Ax       - Inferno
+
+Final Weapons
+
+Inferno     - 350 / 300
+Tall Hammer - 260 / 200
+
+Notes: Evolving the Frozen Tuna into the Turtle Shell could end up
+loosing you 25 Magic. The max Magic for the Frozen Tuna is 50
+and for the Turtle Shell it is 25.
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+[-Base Weapon - Gold Ring-]
+
+Thorn Armlet     - Platinum Ring
+
+Bandit's Ring    - Crystal Ring / Pockleful
+Platinum Ring    - Crystal Ring / Fairy's Ring
+
+Crystal Ring     - Goddess's Ring / Satan's Ring
+Pockleful        - Fairy's Ring
+
+Fairy's Ring     - Destruction Ring
+Goddess's Ring   - Athena's Armlet
+
+Athena's Armlet  - Secret Armlet
+Destruction Ring - Mobius Ring
+Satan's Ring     - Mobius Ring
+
+Final Weapons
+
+Mobius Ring   - 99  / 250
+Secret Armlet - 155 / 300
+
+Notes: Evolving the Thorn Armlet into the Platinum Ring could end up
+loosing you 10 Attack. The max Attack for the Thorn Armlet is 60
+and for the Platinum Ring it is 50.
+
+Notes: Evolving the Pockleful into the Fairy's Ring could end up
+loosing you 25 Magic. The max Magic for the Pockleful is 70
+and for the Fairy's Ring it is 45.
+
+---------------
+Ungaga's Lances
+---------------
+[-Base Weapon - Fighting Stick-]
+
+5 ft. Nail  - Scorpion / Partisan
+Halberd     - Scorpion
+Javelin     - De Sanga / Partisan
+
+De Sanga    - Cactus
+Partisan    - Cactus
+Scorpion    - Mirage / Cactus
+
+Cactus      - Terra Sword
+Mirage      - Terra Sword / Hercule's Wrath
+
+Mirage      - Terra Sword / Hercule's Wrath
+Terra Sword - Babel's Spear
+
+Final Weapons
+
+Babel's Spear   - 321 / 80
+Hercule's Wrath - 256 / 50
+
+Notes: The Mirage is listed twice because it is the only weapon that 
+evolves strait into Hercule's Wrath, but it also evolves into the Terra 
+Sword which evolves into Babel's Spear.
+
+-------------
+Osmond's Guns
+-------------
+[-Base Weapon - Machine Gun-]
+
+Jackal       - Blessing Gun / Swallow
+Snail        - Blessing Gun / Hexa Blaster
+
+Blessing Gun - Skunk
+Swallow      - G Crusher
+
+Skunk        - Hexa Blaster
+
+Hexa Blaster - Supernova
+G Crusher    - Star Breaker
+
+Final Weapons
+
+Star Breaker - 120 / 45
+Supernova    - 256 / 128
+
+Note: Osmond has two main weapon types, the machine guns and the laser 
+guns. There is also a third group, the flamethrower type, but these 
+eventually turn into a laser type anyway. The machine guns include: 
+Jackal, Swallow, G Crusher and the final machine gun, the Star Breaker. 
+The laser guns include:  Snail, Hexa Blaster and the final laser gun, 
+the Supernova. The flamethrower types are the Blessing Gun and the 
+Skunk. The machine gun types have lower max stats than the laser guns, 
+but make up for it with a faster rate of fire. That would explain why 
+the Star Breaker, an ultimate weapon has lower max stats then the Hexa 
+Blaster, which isn't even an ultimate weapon.
+
+Notes: Evolving the Snail into the Blessing Gun could end up
+loosing you 9 Attack. The max Attack for the Snail is 65
+and for the Blessing Gun it is 56.
+
+Notes: Evolving the Snail into the Blessing Gun could end up
+loosing you 25 Magic. The max Magic for the Snail is 55
+and for the Blessing Gun it is 30.
+
+---------------
+*****Stats*****
+---------------
+In this section you can find all the starting stats for the weapons you 
+can obtain in any ways besides evolution in Dark Cloud. You can also use 
+these stats to figure out how to build up to one of these weapons.
+However, in the cases of some of the weapons, the stats listed here and
+the stats required to reach that weapon through evolution vary. So, to
+use this section the best, use it more as an outline, not as a 100%
+accurate graph. The  weapons are listed in the order in which they
+appear on the evolution chart.
+
+Key
+
+At - Attack
+Ed - Endurance
+Sp - Speed
+Mg - Magic
+WP - Weapon Health Power
+Fi - Fire
+Ic - Ice
+Th - Thunder
+Wi - Wind
+Ho - Holy
+Dr - Dragon
+Ud - Undead
+Ma - Marine
+Rk - Rock
+Pt - Plant
+Bt - Beast
+Sy - Sky
+Ml - Metal
+Mc - Mimic
+Mg - Mage
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name     -  At Ed Sp Mg  WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Dagger          -  6  30 70 2   48 0  0  0  4  0  0  0  0  0  0  4  0  0  0  0
+
+Baselard        -  8  20 60 4   40 6  0  0  0  0  0  0  0  0  0  0  10 0  0  0
+Crysknife       -  12 25 70 8   55 0  0  0  0  8  0  5  0  0  0  5  5  0  0  0
+Gladius         -  10 32 60 6   45 0  0  0  0  5  0  15 0  0  0  0  0  0  0  0
+Kitchen Knife   -  5  22 80 0   30 0  8  0  0  0  0  0  33 0  0  0  0  0  0  0
+
+Bone Rapier     -  15 20 80 30  30 0  5  0  0  0  0  0  0  0  0  0  0  0  0  0
+Buster Sword    -  24 40 50 0   57 0  0  0  0  0  0  10 0  0  0  10 0  10 0  10
+Chopper         -  30 40 50 15  57 0  0  10 0  0  0  10 0  0  0  10 0  10 0  10
+Sand Breaker    -  28 20 70 14  40 0  10 0  10 12 0  0  0  0  0  8  0  10 0  8
+Sax             -  26 40 50 15  57 0  0  10 0  0  0  0  0  0  10 0  0  0  10 0
+Serpent Sword   -  22 48 60 8   45 0  0  14 12 0  21 0 12  0  23 24 23 0  0  0
+Small Sword     -  20 33 80 36  30 0  8  10 10 0  0  0  33 0  0  0  0  0  0  0
+Shamshir        -  20 30 70 6   32 0  0  8  0  0  0  0  0  0  0  0  10 0  0  0
+
+Antique Sword   -  37 39 50 25  58 6  0  0  0  20 20 8  0  10 0  0  0  0  10 0
+Choora          -  39 44 80 28  30 0  8  0  0  0  0  0  0  0  0  0  0  0  0  20
+Claymore        -
+Dusack          -
+Evilcise        -
+Macho Sword     -  43 52 50 20  53 0  0  0  0  0  0  0  0  8  0  12 0  0  35 0
+Tsukikage       -  40 20 70 34  70 0  10 20 10 0  0  0  0  0  0  8  0  20 0  8
+Wise Owl Sword  -  30 22 70 12  50 0  0  0  16 0  0  0  0  0  12 12 0  0  0  12
+
+7 Branch Sword  -  65 40 80 35  30 20 20 20 20 20 0  0  0  0  0  0  0  0  0  0
+Aga's Sword     -  60 60 50 30  58 6  0  0  0  8  20 23 20 20 20 20 20 20 20 20
+Brave Ark       -  60 75 80 20  70 30 0  0  0  40 0  34 0  38 0  0  30 25 0  18
+Cross Hinder    -  68 40 60 21  50 10 10 10 0  30 30 0  0  35 0  0  0  15 20 0
+Drain Seeker    -  50 40 60 55  50 30 30 35 30 0  0  0  0  30 0  30 25 0  0  10
+Heavens's Cloud -
+Lamb's Sword    -  45 44 70 20  65 0  0  20 0  20 0  0  0  0  30 35 35 0  0  0
+Maneater        -  55 40 50 55  57 0  0  10 0  0  0  10 0  0  0  10 0  10 0  55
+Mardan Eins     -  50 50 50 50  58 5  5  5  5  5  10 8  10 10 0  0  0  0  10 0
+Sun Sword       -  50 46 60 30  50 30 0 35  0  0  30 30 0  30 0  0  0  15 0  10
+
+Atlamilla Sword -
+Big Bang        -
+Dark Cloud      -
+Mardan Twei     -
+
+7th Heaven      -
+Arise Mardan    -
+Chronicle 2     - 199 99 89 110 99 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50
+Chronicle Sword -
+Sword Of Zeus   -
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name       - At Ed Sp Mg WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Wooden Slingshot  - 4  40 43 0  48 0  0  0  0  0  0  0  0  0  0  0  8  0  0  0
+
+Bandit Slingshot  - 30 38 48 0  46 0  0  0  12 0  0  5  0  0  0  0  12 0  0  5
+Bone Slingshot    - 8  20 58 0  40 0  0  0  0  0  0  12 0  0  0  0  5  0  0  0
+Steel Slingshot   - 14 40 43 0  48 0  0  0  0  0  0  0  0  5  0  0  5  5  0  0
+
+Flamingo          -
+Hardshooter       - 35 50 70 0  50 0  0  0  0  0  5  0  0  20 0  5  12 20 0  0
+
+Double Impact     - 40 50 60 0  45 0  0  0  0  0  0  0  8  0  0  0  12 0  0  12
+Dragon's Y        -
+Matador           - 42 50 60 0  45 30 0  10 0  0  30 0  8  0  0  0  12 0  0  30
+
+Divine Beast Title-
+
+Angel Shooter     -
+Steve             - 16 48 50 0  50 11 0  0  0  0  0  0  0  30 0  0  0  0  20 0
+
+Angel Gear        -
+Super Steve       -
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - At Ed Sp Mg WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Mallet           - 20 30 30 0  41 0  0  0  0  0  0  0  0  5  0  0  0  0  5  0
+
+Frozen Tuna      - 22 20 40 10 80 0  20 0  0  0  0  0  18 0  0  0  0  0  0  0
+Steel Hammer     - 25 40 20 0  50 0  0  0  0  0  0  0  0  12 0  0  0  10 10 0
+
+Big Bucks Hammer - 40 35 30 14 55 0  0  0  0  0  0  0  0  0  0  0  0  0  15 0
+Plate Hammer     -
+Trial Hammer     - 20 10 48 25 65 0  0  0  0  0  0  0  0  20 0  0  0  0  20 0
+Turtle Shell     - 36 40 45 0  55 0  30 0  0  0  0  0  0  0  0  0  0  0  18 0
+
+Battle Axe       - 65 45 45 0  55 0  0  0  0  0  0  0  0  15 0  0  0  0  30 30
+Magical Hammer   - 62 34 45 25 55 30 20 15 5  30 0  0  0  5  0  0  0  0  18 20
+
+Gaia Hammer      - 77 10 48 25 65 0  0  0  10 0  0  0  0  50 0  0  0  0  26 0
+Last Judgment    - 99 45 48 55 65 10 10 10 10 10 0  45 0  0  0  0  0  20 25 20
+Satan's Axe      -
+
+Inferno          -
+Tall Hammer      -
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - At Ed Sp Mg WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Gold Ring        - 10 40 65 20 45 15 0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Thorn Armlet     - 50 40 65 35 67 15 10 10 10 10 0  0  0  0  0  0  0  0  0  0
+
+Bandit's Ring    - 12 40 67 25 48 0  0  0  18 0  0  0  0  0  0  0  0  0  0  0
+Platinum Ring    - 17 40 66 40 55 0  20 0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Crystal Ring     - 38 40 64 55 53 0  0  0  0  20 0  0  0  0  0  0  0  0  0  0
+Pockleful        - 35 40 69 55 50 0  0  0  10 20 0  0  0  0  0  0  0  0  0  0
+
+Fairy's Ring     - 35 40 69 65 54 0  0  0  15 20 0  0  0  0  0  0  0  0  0  0
+Goddess's Ring   - 38 40 58 60 62 10 10 26 10 55 0  30 0  0  0  0  0  0  0  30
+
+Athena's Armlet  -
+Destruction Ring - 50 40 65 65 67 30 30 30 30 10 0  0  0  30 0  0  0  30 0  0
+Satan's Ring     - 40 40 44 60 70 55 25 48 48 0  30 0  0  0  0  0  0  0  30 0
+
+Mobius Ring      -
+Secret Armlet    -
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     -  At Ed Sp Mg WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Fighting Stick  -  35 20 65 0  48 0  0  0  5  0  0  0  0  0  0  0  0  0  0  0
+
+5 ft. Nail      -  40 45 90 0  60 0  0  10 18 0  0  0  0  8  5  0  0  0  8  5
+Halberd         -  44 28 75 0  52 0  10 0  15 0  0  0  0  0  0  8  5  8  0  0
+Javelin         -  38 25 70 0  52 8  0  0  12 0  0  0  0  5  8  0  0  0  0  0
+
+De Sanga        -  46 35 74 0  52 0  0  25 17 0  0  0  25 0  0  0  0  0  0  8
+Partisan        -  55 45 90 0  60 0  0  10 18 0  0  0  0  8  8  0  0  0  12 8
+Scorpion        -  50 35 78 0  58 10 0  0  21 0  12 8  8  0  0  8  8  12 0  0
+
+Cactus          -  70 45 90 0  60 0  35 0  35 0  0  0  0  8  8  0  0  0  8  8
+Mirage          -  63 45 77 10 72 45 0  0  20 0  16 16 16 0  0  16 16 16 0  0
+
+Terra Sword     - 120 50 75 22 74 30 20 30 30 2  0  0  0  16 16 0  0  0  16 16
+
+Babel's Spear   -
+Hercule's Wrath -
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name      - At Ed Sp Mg WH Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg
+
+Machine Gun      - 22 30 55 0  50 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Jackal           - 30 35 65 8  58 0  0  0  0  0  3  3  3  3  3  3  3  3  3  3
+Snail            - 34 50 60 10 45 5  5  5  5  5  0  0  0  0  0  0  0  0  0  0
+
+Blessing Gun     - 34 50 60 10 45 15 15 15 15 15 0  0  0  0  0  0  0  0  0  0
+Swallow          - 48 55 66 20 55 0  0  0  0  0  6  6  6  15 6  6  6  6  12 6
+
+Skunk            - 48 55 66 20 55 25 25 25 25 25 0  0  0  0  0  0  0  0  0  0
+
+Hexa Blaster     - 64 40 77 55 68 39 39 39 39 39 0  0  0  0  0  0  0  0  0  0
+G Crusher        - 50 60 60 25 68 0  0  0  0  0  8  8  8  30 8  8  8  35 8  8
+
+Star Breaker     -
+Supernova        -
+
+
+----------------------------
+*****Max Attack / Magic*****
+----------------------------
+This section contains the max attack and magic values for all the weapons 
+in Dark Cloud. It will go in the same order as the evolution charts.
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name      - Max Attack - Max Magic
+
+Dagger           - 25         - 24
+
+Baselard         - 26         - 25
+Crysknife        - 40         - 38
+Gladius          - 37         - 36
+Kitchen Knife    - 30         - 15
+
+Bone Rapier      - 55         - 62
+Buster Sword     - 65         - 35
+Chopper          - 65         - 43
+Sand Breaker     - 68         - 45
+Sax              - 65         - 41
+Serpent Sword    - 70         - 55
+Small Sword      - 60         - 60
+Shamshir         - 60         - 39
+
+Antique Sword    - 77         - 47
+Choora           - 74         - 55
+Claymore         - 68         - 45
+Dusack           - 78         - 45
+Evilcise         - 80         - 75
+Macho Sword      - 68         - 54
+Tsukikage        - 68         - 70
+Wise Owl Sword   - 55         - 50
+
+7 Branch Sword   - 99         - 65
+Aga's Sword      - 95         - 80
+Brave Ark        - 95         - 60
+Cross Hinder     - 110        - 60
+Drain Seeker     - 99         - 85
+Heavens's Cloud  - 102        - 85
+Lamb's Sword     - 80         - 60
+Maneater         - 99         - 63
+Mardan Eins      - 70         - 65
+Sun Sword        - 110        - 58
+
+Atlamilla Sword  - 155        - 101
+Big Bang         - 170        - 95
+Dark Cloud       - 145        - 99
+Mardan Twei      - 99         - 99
+
+7th Heaven       - 240        - 110
+Arise Mardan     - 250        - 120
+Chronicle 2      - 350        - 200
+Chronicle Sword  - 260        - 150
+Sword Of Zeus    - 199        - 176
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name        - Max Attack - Max Magic
+
+Wooden Slingshot   - 28         - 10
+
+Bandit Slingshot   - 50         - 10
+Bone Slingshot     - 35         - 10
+Steel Slingshot    - 35         - 10
+
+Flamingo           - 55         - 18
+Hardshooter        - 70         - 18
+
+Double Impact      - 88         - 30
+Dragon's Y         - 85         - 55
+Matador            - 90         - 30
+
+Divine Beast Title - 140        - 70
+
+Angel Shooter      - 182        - 99
+Steve              - 60         - 30
+
+Angel Gear         - 256        - 103
+Super Steve        - 130        - 80
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - Max Attack - Max Magic
+
+Mallet           - 35         - 10
+
+Frozen Tuna      - 55         - 50
+Steel Hammer     - 65         - 14
+
+Big Bucks Hammer - 80         - 30
+Plate Hammer     - 89         - 30
+Trial Hammer     - 77         - 40
+Turtle Shell     - 78         - 25
+
+Battle Axe       - 125        - 55
+Magical Hammer   - 120        - 80
+
+Gaia Hammer      - 165        - 90
+Last Judgment    - 150        - 85
+Satan's Axe      - 199        - 222
+
+Inferno          - 350        - 300
+Tall Hammer      - 260        - 200
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - Max Attack - Max Magic
+
+Gold Ring        - 35         - 43
+
+Thorn Armlet     - 60         - 46
+
+Bandit's Ring    - 38         - 55
+Platinum Ring    - 50         - 65
+
+Crystal Ring     - 80         - 88
+Pockleful        - 66         - 70
+
+Fairy's Ring     - 66         - 45
+Goddess's Ring   - 95         - 128
+
+Athena's Armlet  - 128        - 220
+Destruction Ring - 99         - 99
+Satan's Ring     - 95         - 128
+
+Mobius Ring      - 99         - 250
+Secret Armlet    - 155        - 300
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     - Max Attack - Max Magic
+
+Fighting Stick  - 55         - 20
+
+5 ft. Nail      - 79         - 30
+Halberd         - 80         - 20
+Javelin         - 85         - 20
+
+De Sanga        - 110        - 20
+Partisan        - 95         - 30
+Scorpion        - 99         - 30
+
+Cactus          - 155        - 30
+Mirage          - 150        - 40
+
+Terra Sword     - 220        - 66
+
+Babel's Spear   - 321        - 80
+Hercule's Wrath - 256        - 50
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name  - Max Attack - Max Magic
+
+Machine Gun  - 32         - 15
+
+Jackal       - 55         - 25 
+Snail        - 65         - 55
+
+Blessing Gun - 56         - 30
+Swallow      - 72         - 30
+
+Skunk        - 72         - 55
+
+Hexa Blaster - 128        - 90
+G Crusher    - 99         - 35
+
+Star Breaker - 120         - 45
+Supernova    - 256         - 128
+
+-------------------
+*****Locations*****
+--------------------
+
+Well, this section contains the locations of the weapons in the game. For
+every character the display will be a little different, as some characters
+can only get weapons in certain dugeons. If I list a dungeon that I have 
+found it in it could have been obtained through a regular Treasure Chest 
+or from a Happpy Clown. If I haven't found a weapon in a ceratin dungeon or 
+just don't remember it, as I only recorded locations on one of my six games, 
+I will just leave a blank. It doesn't mean you can't find it there. It will 
+be in the same order as everything else, the evolution order. Also if I have 
+it as a gift or buyable, look in the corrosponding sections to get a more 
+detailed description on its where abouts. Here it goes.
+
+Key
+
+DB - Divine Beast Cave
+WO - Wise Owl Forest
+SH - Shipwreck
+SM - Sun and Moon Temple
+MS - Moon Sea
+GT - Gallery of Time
+DS - Demon Shaft
+GF - Gift
+BY - Buy
+EV - Evoltion
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name     - DB - WO - SH - SM - MS - GT - DS - GF - BY - EV -
+
+Dagger          - -    -    -    -    -    -    -    No   No   No
+
+Baselard        - Yes  Yes  Yes  -    -    -    -    No   No   No
+Crysknife       - Yes  Yes  Yes  -    Yes  Yes  Yes  No   No   No
+Gladius         - Yes  Yes  Yes  Yes  -    -    -    No   Yes  No
+Kitchen Knife   - Yes  Yes  Yes  -    -    -    -    No   Yes  No
+
+Bone Rapier     - Yes  Yes  Yes  Yes  -    -    -    No   No   No
+Buster Sword    - Yes  Yes  Yes  Yes  -    -    Yes  Yes  No   No
+Chopper         - Yes  Yes  Yes  Yes  Yes  -    -    No   No   Yes
+Sand Breaker    - -    Yes  Yes  Yes  Yes  -    -    No   No   Yes
+Sax             - Yes  Yes  Yes  Yes  Yes  -    -    No   No   Yes
+Serpent Sword   - -    -    -    -    -    -    -    Yes  No   No
+Small Sword     - Yes  Yes  Yes  Yes  -    -    -    No   No   Yes
+Shamshir        - Yes  Yes  Yes  Yes  Yes  -    -    No   No   Yes
+
+Antique Sword   - -    Yes  -    Yes  Yes  Yes  Yes  No   No   Yes
+Choora          - Yes  Yes  -    Yes  -    -    -    No   No   Yes
+Claymore        - -    -    -    Yes  -    -    -    No   No   Yes
+Dusack          - -    -    -    Yes  -    -    -    No   No   Yes
+Evilcise        - -    -    -    -    -    -    -    No   No   Yes
+Macho Sword     - -    -    -    -    -    -    -    Yes  No   No
+Tsukikage       - -    Yes  -    Yes  -    -    -    No   Yes  Yes
+Wise Owl Sword  - -    -    -    -    -    -    -    No   Yes  No
+
+7 Branch Sword  - -    -    -    -    -    Yes  Yes  No   No   Yes
+Aga's Sword     - -    -    -    -    -    -    Yes  No   No   Yes
+Brave Ark       - -    -    -    -    -    Yes  Yes  No   No   Yes
+Cross Hinder    - -    -    -    -    -    Yes  Yes  No   No   Yes
+Drain Seeker    - -    -    -    -    -    Yes  Yes  No   No   Yes
+Heavens's Cloud - -    -    -    -    -    -    -    No   No   Yes
+Lamb's Sword    - -    -    -    -    -    Yes  Yes  No   No   Yes
+Maneater        - -    -    -    -    -    Yes  Yes  No   No   Yes
+Mardan Eins     - -    -    -    -    -    -    -    No   Yes  No
+Sun Sword       - -    -    -    -    -    -    -    Yes  No   No
+
+Atlamilla Sword - -    -    -    -    -    -    -    No   No   Yes
+Big Bang        - -    -    -    -    -    -    -    No   No   Yes
+Dark Cloud      - -    -    -    -    -    -    -    No   No   Yes
+Mardan Twei     - -    -    -    -    -    -    -    No   No   Yes
+
+7th Heaven      - -   -     -    -    -    -    -    No   No   Yes
+Arise Mardan    - -   -     -    -    -    -    -    No   No   Yes
+Chronicle 2     - -   -     -    -    -    -    -    Yes  No   No
+Chronicle Sword - -   -     -    -    -    -    -    No   No   Yes
+Sword Of Zeus   - -   -     -    -    -    -    -    No   No   Yes
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name        - DB - WO - SH - SM - MS - GT - DS - GF - BY - EV -
+
+Wooden Slingshot   - -    -    -    -    -    -    -    No   No   No
+
+Bandit Slingshot   - Yes  Yes  Yes  -    Yes  Yes  Yes  No   No   No
+Bone Slingshot     - Yes  Yes  Yes  Yes  Yes  Yes  Yes  No   Yes  No
+Steel Slingshot    - Yes  Yes  Yes  -    Yes  -    Yes  No   No   No
+
+Flamingo           - -    -    -    -    -    -    -    No   No   Yes
+Hardshooter        - -    -    Yes  Yes  Yes  -    Yes  No   No   Yes
+
+Double Impact      - -    -    -    Yes  Yes  Yes  Yes  Yes  No   Yes
+Dragon's Y         - -    -    -    -    -    -    -    No   No   Yes
+Matador            - -    -    -    -    -    -    -    No   Yes  Yes
+
+Divine Beast Title - -    -    -    -    -    -    -    No   No   Yes
+
+Angel Shooter      - -    -    -    -    -    -    -    No   No   Yes
+Steve              - Yes  Yes  Yes  Yes  Yes  Yes  Yes  No   No   Yes
+
+Angel Gear         - -    -    -    -    -    -    -    No   No   Yes
+Super Steve        - -    -    -    -    -    -    -    No   No   Yes
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - WO - SH - SM - MS - GT - DS - GF - BY - EV -
+
+Mallet           - -    -    -    -    -    -    No   No   No
+
+Frozen Tuna      - Yes  Yes  Yes  Yes  Yes  -    Yes  No   No
+Steel Hammer     - Yes  -    Yes  -    -    -    No   No   No
+
+Big Bucks Hammer - -    -    -    -    -    -    Yes  Yes  No
+Plate Hammer     - -    -    -    -    -    -    No   No   Yes
+Trial Hammer     - -    Yes  -    -    -    -    No   No   No
+Turtle Shell     - Yes  Yes  Yes  Yes  Yes  Yes  Yes  No   No
+
+Battle Axe       - -    Yes  Yes  Yes  Yes  Yes  Yes  No   Yes
+Magical Hammer   - Yes  Yes  -    Yes  -    Yes  No   Yes  Yes
+
+Gaia Hammer      - -    -    -    -    Yes  -    No   No   Yes
+Last Judgment    - Yes  Yes  Yes  Yes  Yes  Yes  No   No   Yes
+Satan's Ax       - -    -    -    -    -    -    No   No   Yes
+
+Inferno          - -    -    -    -    -    -    No   No   Yes
+Tall Hammer      - -    -    -    -    -    -    No   No   Yes
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - SH - SM - MS - GT - DS - GF - BY - EV -
+
+Gold Ring        - -    -    -    -    -    No   No   No
+
+Thorn Armlet     - Yes  -    Yes  -    -    No   No   No
+
+Bandit's Ring    - Yes  Yes  Yes  Yes  Yes  No   No   No
+Platinum Ring    - Yes  -    Yes  -    Yes  Yes  Yes  Yes
+
+Crystal Ring     - -    Yes  -    Yes  Yes  No   No   Yes
+Pockleful        - Yes  Yes  -    -    -    No   No   Yes
+
+Fairy's Ring     - -    Yes  Yes  -    Yes  No   Yes  Yes
+Goddess's Ring   - -    Yes    -    -  Yes  No   No   Yes
+
+Athena's Armlet  - -    -    -    -    -    No   No   Yes
+Destruction Ring - -    -    -    Yes  Yes  No   No   Yes
+Satan's Ring     - -    -    -    Yes  Yes  No   No   Yes
+
+Mobius Ring      - -    -    -    -    -    No   No   Yes
+Secret Armlet    - -    -    -    -    -    No   No   Yes
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     - SM - MS - GT - DS - GF - BY - EV -
+
+Fighting Stick  - -    -    -    -    No   No   No
+
+5 ft. Nail      - Yes  Yes  Yes  Yes  No   No   No
+Halberd         - -    Yes  Yes  Yes  No   No   No
+Javelin         - Yes  -    Yes  Yes  No   No   No
+
+De Sanga        - Yes  Yes  Yes  Yes  No   No   Yes
+Partisan        - -    Yes  Yes  Yes  No   No   Yes
+Scorpion        - -    Yes  Yes  Yes  No   Yes  Yes
+
+Cactus          - -   -     Yes  Yes  No   No   Yes
+Mirage          - -   -     -    -    Yes  No   Yes
+
+Terra Sword     - -   Yes   Yes  Yes  No   No   Yes
+
+Babel's Spear   - -   -     -    -    -    -    Yes
+Hercule's Wrath - -   -     -    -    -    -    Yes
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name  - MS - GT - DS - GF - BY - EV -
+
+Machine Gun  - -    -    -    No   No   No
+
+Jackal       - Yes  Yes  Yes  No   Yes  No
+Snail        - Yes  Yes  Yes  No   Yes  No 
+
+Blessing Gun - -    Yes  Yes  No   Yes  Yes
+Swallow      - Yes  Yes  -    No   No   Yes
+
+Skunk        - -    Yes  Yes  No   No   Yes
+
+Hexa Blaster - -    Yes  Yes  No   No   Yes
+G Crusher    - -    Yes  Yes  No   No   Yes
+
+Star Breaker - -    -    -    No   No   Yes
+Supernova    - -    -    -    No   No   Yes
+
+------------------
+***You Can Help***
+------------------
+If you have a location that I don't have listed in the guide, then feel
+free to contact me via email or IM and tell me about it. You will get
+credit for your find in the Credits section.
+
+---------------
+*****Gifts*****
+---------------
+
+From time to time in Dark Cloud some people will reward you
+with gifts of weapons. This section contains all the weapon
+gifts you can get in the game as gifts, who gives them to 
+you and how and where you can get them. They are listed by 
+which area you get them in, going by the order you get to 
+them in the game. Some areas don't have weapon gifts, so 
+they will just be skipped.
+
+----------------
+Matataki Village
+----------------
+Serpent Sword - Trent    - Connect the river to him.
+Frozen Tuna   - Gob      - Complete his house.
+Turtle Shell  - Couscous - When you complete his house, take the third choice.
+Battle Axe    - Trent    - Get Matataki Village 100% in all 3 catagories 
+                           of Georama.
+
+------
+Queens
+------
+Big Bucks Hammer - Jack   - Have Ruby as an ally when you go
+                            to the competion event for Jack's Shop.
+Platinum Ring    - Jack   - Have Ruby as an ally when you go 
+                            to the competion event for Jack's Shop.
+Macho Sword      - Wilder - Get Queens 100% in all 3 catagories of Georama.
+
+-----------
+Muska Lacka
+-----------
+Buster Sword  - Enga  - Complete his house.
+Sun Sword     - Toto  - Complete his house.
+Double Impact - Zabo  - Complete his house.
+Mirage        - Cheif - Get Muska Lacka 100% in all 3 catagories of Georama.
+
+-----------
+Demon Shaft
+-----------
+Chronicle 2 - "Reward" - Defeat the Black Knight Pen Dragon on the
+                         100th floor of the Demon Shaft.
+
+----------------
+*****Buying*****
+----------------
+
+This is a listing of all the weapons you can buy in Dark Cloud.
+They are listed by which area you can buy them in, and at which shop 
+and for how much you can do so, going by the order you get to them 
+in the game. Some areas don't have buyable weapons, so they will just
+be skipped. Remember that the weapons you can buy at fishing spots 
+are bought with Fishing Points, not Gilda.
+
+----------------
+Matataki Village
+----------------
+Wise Owl Sword - Wise Owl Shop - 2500
+
+------
+Queens
+------
+Kitchen Knife    - Jack's Weapon Shop - 400
+Gladius          - Jack's Weapon Shop - 500
+Bone Slingshot   - Jack's Weapon Shop - 400
+Big Bucks Hammer - Jack's Weapon Shop - 1000
+Platinum Ring    - Jack's Weapon Shop - 600
+
+------------
+Yellow Drops
+------------
+Jackal - Ledan's Item Shop - 3000
+Snail  - Ledan's Item Shop - 1500
+
+-------------
+Fishing Spots
+-------------
+Tsukikage      - 1100
+Matador        - 1400
+Magical Hammer - 1800
+Fairy's Ring   - 1300
+Scorpion       - 1400
+Blessing Gun   - 1500
+Mardan Eins    - 2500
+
+------------------------
+*****Seller's Guide*****
+------------------------
+
+In this section you will find how much you can sell every
+weapon in Dark Cloud for. Remember if you have attachments
+on a weapon when you go to sell it then the attachments
+selling price will be added to the weapons selling cost.
+These are the selling prices when there are no attachments
+on the weapons. They are in the familair evolution listing.
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name     - Selling Price
+
+Dagger          - No
+
+Baselard        - 75
+Crysknife       - 175
+Gladius         - 125
+Kitchen Knife   - 100
+
+Bone Rapier     - 1
+Buster Sword    - 250
+Chopper         - 225
+Sand Breaker    - 230
+Sax             - 250
+Serpent Sword   - 500
+Small Sword     - 200
+Shamshir        - 125
+
+Antique Sword   - 200
+Choora          - 248
+Claymore        - 625
+Dusack          - 235
+Evilcise        - 1
+Macho Sword     - 600
+Tsukikage       - 500
+Wise Owl Sword  - 625
+
+7 Branch Sword  - 500
+Aga's Sword     - 1
+Brave Ark       - 750
+Cross Hinder    - 375
+Drain Seeker    - 1
+Heavens's Cloud - 750
+Lamb's Sword    - 750
+Maneater        - 375
+Mardan Eins     - 1
+Sun Sword       - 750
+
+Atlamilla Sword - 1
+Big Bang        - 1
+Dark Cloud      - 1
+Mardan Twei     - 1
+
+7th Heaven      - 1
+Arise Mardan    - 1
+Chronicle 2     - 1
+Chronicle Sword - 1
+Sword Of Zeus   - 1
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name        - Selling Price
+
+Wooden Slingshot   - No
+
+Bandit Slingshot   - 150
+Bone Slingshot     - 100
+Steel Slingshot    - 90
+
+Flamingo           - 125
+Hardshooter        - 225
+
+Double Impact      - 250
+Dragon's Y         - 300
+Matador            - 150
+
+Divine Beast Title - 1
+
+Angel Shooter      - 1
+Steve              - 250
+
+Angel Gear         - 225
+Super Steve        - 1
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - Selling Price
+
+Mallet           - No
+
+Frozen Tuna      - 100
+Steel Hammer     - 125
+
+Big Bucks Hammer - 250
+Plate Hammer     - 212
+Trial Hammer     - 50
+Turtle Shell     - 212
+
+Battle Axe       - 200
+Magical Hammer   - 175
+
+Gaia Hammer      - 225
+Last Judgment    - 375
+Satan's Axe      - 1
+
+Inferno          - 1
+Tall Hammer      - 1
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - Selling Price
+
+Gold Ring        - No
+
+Thorn Armlet     - 75
+
+Bandit's Ring    - 100
+Platinum Ring    - 150
+
+Crystal Ring     - 175
+Pockleful        - 100
+
+Fairy's Ring     - 200
+Goddess's Ring   - 180
+
+Athena's Armlet  - 1
+Destruction Ring - 300
+Satan's Ring     - 350
+
+Mobius Ring      - 1
+Secret Armlet    - 1
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     - Selling Price
+
+Fighting Stick  - No
+
+5 ft. Nail      - 75
+Halberd         - 250
+Javelin         - 200
+
+De Sanga        - 300
+Partisan        - 425
+Scorpion        - 375
+
+Cactus          - 450
+Mirage          - 500
+
+Terra Sword     - 1
+
+Babel's Spear   - 1
+Hercule's Wrath - 1
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name  - Selling Price
+
+Machine Gun  - No
+
+Jackal       - 750
+Snail        - 375
+
+Blessing Gun - 850
+Swallow      - 850
+
+Skunk        - 1000
+
+Hexa Blaster - 1625
+G Crusher    - 1375
+
+Star Breaker - 1
+Supernova    - 1
+
+----------------------
+*****Descriptions*****
+----------------------
+
+In Dark Cloud the game gives a description about every weapon. In this
+section you can find that description. Remember the game does not always
+use proper English. I may sometimes capitalize a lower case for them, 
+but I never add words or letters. They are listed in evoltion order.
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name     - Description
+
+Dagger          - Fairly easy to use. Default weapon.
+
+Baselard        - A big single-edged sword with long reach. Easy to use.
+Crysknife       - Stylet with magical power.
+Gladius         - Light wt. double-edged sword. Fairly high attack power.
+Kitchen Knife   - Low attack power but causes major damage to water monsters.
+
+Bone Rapier     - Made of bone. Ability unknown.
+Buster Sword    - Double-edged powerful sword.
+Chopper         - Light and easy to use dagger.
+Sand Breaker    - Made of desert sand. Asorbs water.
+Sax             - Easy to use single-handed sword.
+Serpent Sword   - Sword with absolute power over snakes. Extremly rare.
+Small Sword     - Light abd easy to use sword.
+Shamshir        - Characterized by its curved edge. Light and easy to use.
+
+Antique Sword   - Sword of antiquitey. Made a long time ago.
+Choora          - A dagger with pretty pattern on it.
+Claymore        - Big and double-handed. Heavy and powerful.
+Dusack          - Unique single-hand sword. Cuts well.
+Evilcise        - Single-edged sword with magical power.
+Macho Sword     - Sword with muscle power. Arming it makes you exercise.
+Tsukikage       - Sword with sacred power of moon beam.
+Wise Owl Sword  - Legendary sword made by Wise Owl's artisan.
+
+7 Branch Sword  - Ancient sword with mysterious power.
+Aga's Sword     - Sword owned by the legendary hero Aga.
+Brave Ark       - Legendary treasure that was revived after many years.
+Cross Hinder    - Very powerful double hand treasure sword.
+Drain Seeker    - Feared magic sword. Absorb health power.
+Heavens's Cloud - Belongs to Katanas. Has the strongest potential.
+Lamb's Sword    - Timid. Sword like a lamb. Appears to be weak but...
+Maneater        - Fearful sword that eats human souls.
+Mardan Eins     - Sword dwelled in by Lucky Mardan Garayan.
+Sun Sword       - Legendary sword with power to cut through darkness.
+
+Atlamilla Sword - Sword that inherited Atlamilla, the legendary gem.
+Big Bang        - Star energy is condensed and creates sword's energy.
+Dark Cloud      - Magical sword with the power of darkness.
+Mardan Twei     - Sword dwelled in by Lucky Mardan Garayan.
+
+7th Heaven      - Beautiful sword. Tears the heavens.
+Arise Mardan    - Sword dwelled in by Lucky Mardan Garayan.
+Chronicle 2     - Proof of subjugation. Demon Shaft.
+Chronicle Sword - Worlds crumble before its might.
+Sword Of Zeus   - Zeus' sword with unlimited ability.
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name        - Description
+
+Wooden Slingshot   - Slingshot made by carving wood. Default weapon.
+
+Bandit Slingshot   - Sometimes you can steal items for monsters with this.
+Bone Slingshot     - Slingshot made of bone. A bit fragile.
+Steel Slingshot    - Slingshot made of steel. Looks heavy.
+
+Flamingo           - Unique slingshot shaped like a bird.
+Hardshooter        - Launches powerful shot but a bit fragile.
+
+Double Impact      - Allows shooting two bullets at the same time.
+Dragon's Y         - Slingshot with dragon's power.
+Matador            - Slingshot made of ox horn. Very powerful.
+
+Divine Beast Title - Having this gives you the title of Divine Beast.
+
+Angel Shooter      - Angel's slingshot. Looks cute but ultra powerful.
+Steve              - Myserious talking slingshot. Nobody knows its true color.
+
+Angel Gear         - Magnum slingshot. Unmaginable power.
+Super Steve        - Powerful mysterious slingshot, Steve.
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - Description
+
+Mallet           - Light weight and easy to use. Default weapon.
+
+Frozen Tuna      - Frozen like a rock. You can't eat it. Use it as a weapon.
+Steel Hammer     - Hammer made of steel. A little heavy but powerful.
+
+Big Bucks Hammer - Magical hammer. Stroking it makes you rich.
+Plate Hammer     - Hammer made of steel plate. Light.
+Trial Hammer     - Blood adn sweat hammer w/ warriors soul.
+Turtle Shell     - Hammer made of turtle shell.
+
+Battle Axe       - Cut any enemy into half with a single stroke. A hunters must.
+Magical Hammer   - Hammer with magical power. Makes attribute attack effective.
+
+Gaia Hammer      - Strongest hammer with the power of Gaia.
+Last Judgment    - Helluva strong hammer. Loved by the gate keeper of Hell.
+Satan's Axe      - Ax used by dreadful Satan of Hell.
+
+Inferno          - Great hammer with Hell's fire.
+Tall Hammer      - Hammer with the fearful power generated my monstrous curse.
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - Description
+
+Gold Ring        - Expensive golden armlet. Default weapon.
+
+Thorn Armlet     - Armlet made of thorns.
+
+Bandit's Ring    - Nice armlet that steals items from enemy during attack.
+Platinum Ring    - Durable armlet with pretty strong magical power.
+
+Crystal Ring     - Expensive ring made of precious crystal.
+Pockleful        - Bracelet that honor dwarf of forest.
+
+Fairy's Ring     - Legendary armlet made by fairies.
+Goddess's Ring   - Armlet blessed by goddess.
+
+Athena's Armlet  - Armlet with the sacred power of goddess Athena.
+Destruction Ring - Armlet of darkness with power that can destroy everything.
+Satan's Ring     - Ring with fearful spell made by Satan.
+
+Mobius Ring      - Armlet absorbs power from infinite space and time.
+Secret Armlet    - Braclet sealed with the origin of everything.
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     - Description
+
+Fighting Stick  - A stick used in combat by desert warriors. Defaut weapon.
+
+5 ft. Nail      - Cursed lance. A stab may finish off enemy.
+Halberd         - Powerful lance with axe blade.
+Javelin         - Light weight and easy to use lance.
+
+De Sanga        - Light-weight and easy to use forked lance.
+Partisan        - Lance with sharp and thick blade.
+Scorpion        - Lance with poisoned blade. Puts enemy in poison state.
+
+Cactus          - Pole weapon w/ cactus ball. Smashes enemy.
+Mirage          - Legendary lance made by ancient desert people.
+
+Terra Sword     - Strongest lance made by fairies of Terra.
+
+Babel's Spear   - Sacred lance that slashes even time.
+Hercule's Wrath - Legendary lance with dreadful destructive power.
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name  - Description
+
+Machine Gun  - A powerful blazing gun. Default weapon.
+
+Jackal       - Upgraded machine gun.
+Snail        - Gun made of shell. Fires magic bolts.
+
+Blessing Gun - Device emits magical attribute. Attacks various ways.
+Swallow      - Enhanced machine gun. Light and easy to use.
+
+Skunk        - Upgraded Blessing Gun. Spell emiting device.
+
+Hexa Blaster - Powerful beam cannon that emits magical energy.
+G Crusher    - Emits powerful shot. Great destructive power.
+
+Star Breaker - Machine gun weapon. So powerful that it breaks stars.
+Supernova    - Strongest beam-type weapon. Filled with space power.
+
+--------------------------------
+*****Abs / Attachment Slots*****
+--------------------------------
+
+This section contains a listing of how many attachment slots a weapon has
+and the starting number of Abs. They are listed in evoltion order.
+
+-------------------------
+Toan's Swords and Daggers
+-------------------------
+
+Weapon Name     - Abs - Attachment Slots
+
+Dagger          - 32  - 2
+
+Baselard        - 40  - 2
+Crysknife       - 45  - 3
+Gladius         - 40  - 2
+Kitchen Knife   - 50  - 2
+
+Bone Rapier     - 50  - 2
+Buster Sword    - 60  - 4
+Chopper         - 60  - 2
+Sand Breaker    - 68  - 2
+Sax             - 60  - 3
+Serpent Sword   - 50  - 3
+Small Sword     - 70  - 3
+Shamshir        - 70  - 2
+
+Antique Sword   - 50  - 3
+Choora          - 50  - 2
+Claymore        - 68  - 3
+Dusack          - 68  - 3
+Evilcise        - 60  - 2
+Macho Sword     - 70  - 3
+Tsukikage       - 68  - 3
+Wise Owl Sword  - 65  - 3
+
+7 Branch Sword  - 50  - 3
+Aga's Sword     - 50  - 3
+Brave Ark       - 85  - 2
+Cross Hinder    - 90  - 3
+Drain Seeker    - 90  - 4
+Heavens's Cloud - 90  - 2
+Lamb's Sword    - 92  - 2
+Maneater        - 60  - 3
+Mardan Eins     - 66  - 3
+Sun Sword       - 90  - 4
+
+Atlamilla Sword - 70  - 3
+Big Bang        - 80  - 3
+Dark Cloud      - 93  - 3
+Mardan Twei     - 45  - 3
+
+7th Heaven      - 68  - 3
+Arise Mardan    - 45  - 3
+Chronicle 2     - 125 - 5
+Chronicle Sword - 125 - 3
+Sword Of Zeus   - 90  - 3
+
+-----------------
+Xiao's Slingshots
+-----------------
+
+Weapon Name        - Abs - Attachment Slots
+
+Wooden Slingshot   - 40  - 2
+
+Bandit Slingshot   - 40  - 2
+Bone Slingshot     - 40  - 3
+Steel Slingshot    - 40  - 2
+
+Flamingo           - 65  - 3
+Hardshooter        - 65  - 3
+
+Double Impact      - 65  - 3
+Dragon's Y         - 65  - 3
+Matador            - 65  - 3
+
+Divine Beast Title - 80  - 3
+
+Angel Shooter      - 80  - 4
+Steve              - 58  - 3
+
+Angel Gear         - 92  - 3
+Super Steve        - 90  - 3
+
+-----------------------
+Goro's Hammers and Axes
+-----------------------
+
+Weapon Name      - Abs - Attachment Slots
+
+Mallet           - 40  - 2
+
+Frozen Tuna      - 40  - 2
+Steel Hammer     - 40  - 2
+
+Big Bucks Hammer - 58  - 2
+Plate Hammer     - 58  - 2
+Trial Hammer     - 65  - 3
+Turtle Shell     - 58  - 2
+
+Battle Axe       - 65  - 3
+Magical Hammer   - 60  - 2
+
+Gaia Hammer      - 65  - 3
+Last Judgment    - 65  - 4
+Satan's Axe      - 78  - 3
+
+Inferno          - 99  - 4
+Tall Hammer      - 78  - 3
+
+------------------------
+Ruby's Rings and Armlets
+------------------------
+
+Weapon Name      - Abs - Attachment Slots
+
+Gold Ring        - 40  - 2
+
+Thorn Armlet     - 67  - 3
+
+Bandit's Ring    - 40  - 2
+Platinum Ring    - 56  - 2
+
+Crystal Ring     - 56  - 2
+Pockleful        - 50  - 3
+
+Fairy's Ring     - 67  - 3
+Goddess's Ring   - 67  - 3
+
+Athena's Armlet  - 78  - 3
+Destruction Ring - 67  - 3
+Satan's Ring     - 67  - 3
+
+Mobius Ring      - 78  - 3
+Secret Armlet    - 67  - 3
+
+---------------
+Ungaga's Lances
+---------------
+
+Weapon Name     - Abs - Attachment Slots
+
+Fighting Stick  - 45  - 2
+
+5 ft. Nail      - 56  - 3
+Halberd         - 45  - 2
+Javelin         - 45  - 2
+
+De Sanga        - 45  - 3
+Partisan        - 56  - 3
+Scorpion        - 56  - 3
+
+Cactus          - 56  - 3
+Mirage          - 70  - 3
+
+Terra Sword     - 70  - 4
+
+Babel's Spear   - 80  - 3
+Hercule's Wrath - 80  - 3
+
+-------------
+Osmond's Guns
+-------------
+
+Weapon Name  - Abs - Attachment Slots
+
+Machine Gun  - 38  - 3
+
+Jackal       - 58  - 3
+Snail        - 38  - 4
+
+Blessing Gun - 38  - 4
+Swallow      - 58  - 3
+
+Skunk        - 58  - 4
+
+Hexa Blaster - 69  - 4
+G Crusher    - 69  - 3
+
+Star Breaker - 80  - 3
+Supernova    - 90  - 3
+
+-------------------------
+*****Top Stat Synths*****
+-------------------------
+
+Have you ever needed a lot of one stat to get that weapon to the next build
+and you knew a gem wouldn't cut it? Then go with a synth sphere. This section
+contains the weapons that has the highest base stat in evey catagory. NOTE:
+The Chronicle 2 is not included in the rankings for highest stats because I
+would never recomend making it into a synth sphere. The top three are listed,
+but if there is a tie then more will be listed.
+
+Attack    - Terra Sword      - 120 
+            Last Judgment    - 99
+            Gaia Hammer      - 77
+
+Endurance - Brave Ark        - 75
+            Aga's Sword      - 60
+            Machine Gun      - 60
+            G Crusher        - 60
+
+Speed     - 5 ft. Nail       - 90
+            Partisan         - 90
+            Cactus           - 90
+
+Magic     - Fairy's Ring     - 65
+            Destruction Ring - 65
+            Goddess's Ring   - 60
+            Satan's Ring     - 60
+
+Fire      - Satan's Ring     - 55
+            Mirage           - 45
+            Hexa Blaster     - 39
+
+Ice       - Hexa Blaster     - 39
+            Cactus           - 35
+            Drain Seeker     - 30
+            Turtle Shell     - 30
+            Destruction Ring - 30
+
+Thunder   - Satan's Ring     - 48
+            Hexa Blaster     - 39
+            Drain Seeker     - 35
+            Sun Sword        - 35
+
+Wind      - Satan's Ring     - 48
+            Hexa Blaster     - 39
+            Cactus           - 35
+
+Holy      - Goddess's Ring   - 55
+            Brave Ark        - 40
+            Hexa Blaster     - 39
+
+Dragon    - Cross Hinder     - 30
+            Sun Sword        - 30
+            Matador          - 30
+            Satan's Ring     - 30
+
+Undead    - Last Judgment    - 45
+            Brave Ark        - 34
+            Sun Sword        - 30
+            Goddess's Ring   - 30
+
+Marine    - Kitchen Knife    - 33
+            Small Sword      - 33
+            De Sanga         - 25
+
+Rock      - Gaia Hammer      - 50
+            Brave Ark        - 38
+            Cross Hinder     - 35
+
+Plant     - Lamb's Sword     - 30
+            Serpent Sword    - 23
+            Aga's Sword      - 20
+
+Beast     - Lamb's Sword     - 35
+            Drain Seeker     - 30
+            Serpent Sword    - 24
+
+Sky       - Lamb's Sword     - 35
+            Brave Ark        - 30
+            Drain Seeker     - 25
+
+Metal     - G Crusher        - 35
+            Destruction Ring - 30
+            Brave Ark        - 25
+
+Mimic     - Macho Sword      - 35
+            Battle Axe       - 30
+            Satan's Ring     - 30
+
+Mage      - Maneater         - 55
+            Matador          - 30
+            Battle Axe       - 30
+            Goddess's Ring   - 30
+
+--------------------------
+*****Leveling Up Tips*****
+--------------------------
+
+This section just contains tips you can use to help you to become better
+at managing your weapons.
+
+1.) Making Synths / Build Up Weak Weapons
+Let's face it, when you have a weak weapon or are trying to make
+a Synth Sphere you don't want to go back to an easier dungeon
+just to do so. So, what are you to do? The answer is share the
+Abs. This is a simple trick with not to many rules. The basic
+idea is this: Kill an enemy. Now before the enemy fades away press
+Triangle and switch to the weapon you want to get the Abs. Now
+exit out and when then the enemy fades away the weapon that is now
+equiped will get the Abs instead of the weapon that killed it. Now
+go back and equip your strong weapon again and repeat the process
+until you have a Synthable weapon or the weapon is strong enough
+for you to use to defend yourself. Now there are two things that
+you should know. First the bad: You can't switch chracters. The
+Abs won't transfer if you kill it with Toan and switch to Ungaga,
+or any character set up for that matter. However, with this you
+can just make a synth with a good character and put it on a weaker
+one anyway. The second thing is good: If you have the special Abs
+Up on the weapon that kills the monster the weapon you actually
+gets the Abs will still reap those benifits. Cool huh?!? Ok, well
+this is the easist way to upgrade weapons you don't really want
+to use.
+
+2.) Building Your Main Weapon
+When leveling up your main weapon you should really only use
+Synth Spheres and Gems. In some odd cases you will use regular
+attachments. These cases would include: The stat is 6 or less away
+from being maxed out, or you know you only need 6 or less in a
+stat in order for it to be ready for the next upgrade. Other than
+these times you should only use Synth Spheres and Gems on you main
+weapon. Your main weapon is, your stongest weapon for a character
+that you will be building up and evolving for use in much of the
+game. Now you may ask what am I to do in the begining of the game
+when I don't have enough Gems to fill up all my attachment slots?
+Well that is when, just like anytime in the game, you make Synth
+Spheres. Just take a decent weapon and upgrade it to +5. Now along
+the way you can put on regular attachments on this weapon, but it's
+usually only worth it if the weapon already had a decent base for
+that stat already, such as putting Anti-Marine attachments on a
+Kitchen Knife as it's Anti-Marine base is already 33. Now, when
+you have a synth, just get some gems and absorb them all onto
+your main weapon and then use it again until you have full Abs
+and are ready to repeat the Synth Sphere Makeing/Gem Gathering
+Process. Useing this method makes for the least amount of time
+you have to put into a weapon because the attacments you are
+using are all much better than regular ones. With the proper
+Synth Spheres and Gem selection you can get to the next build
+for any weapon in 7 levels or less.
+
+3.) Where Should I Level Up?
+There are a few good places that really stand out when it comes
+to leveling up your weapon. One is of course the bonus dungeon
+the Demon Shaft. The last 20 levels in this place provide a very
+good Ab flow, not to mention the fact that the  backfloor key;
+Crystal Eyeball is very common. This is a good place to level
+up on your second+ game as it becomes availble right when you
+get to Dark Heaven Castle. However, on your first game if you
+want to level up before the Final Battle the Gallery Of Time
+works well also. Try doing the later floors of course. However,
+my favorite place to level up is the Shipwreck Floor 14, the
+Backfloor. Why? For one you can buy the backfloor key; Flapping
+Fish and an Ice Block to keep it fresh from Ruty of Queens for
+a combined cost of 200 Gilda. Now once in the back you have Masks
+that are super easy to defeat that give 24 Abs each. Also there
+is always the chance of getting Gems and maybe some Power Up
+Powders. And if you want more bang for your buck just leave and
+go back in. The enemys will have respawned. Of course collecting
+the Treasure in the front is also recomended. Also Floor 10 of
+the Wise Owl Forest is a great place also, it's just that the
+backfloor key for that place is not super common or buyable so
+I would still recomend the Shipwreck. Ok, all these areas are top
+notch places to level up your weapons! 
+
+
+Recently I got a suggestion from camster about putting in places
+to level up in that are not just the "super" areas but in more
+areas, even the Divine Beast Cave. So, here is a list of the best
+places to level up in every dungeon in the game:
+
+--Divine Beast Cave--
+Front: #11 & #13 = 57 Abs
+Back: #12 = 64 Abs
+
+--Wise Owl Forest--
+Front: #16 = 105 Abs
+Back: #10 = 192 Abs
+
+--Shipwreck--
+Front: #17 = 155 Abs
+Back: #14 = 192 Abs
+
+--Sun And Moon Temple--
+Front: #17 = 174 Abs
+Back: #5 & #17 = 192 Abs
+
+--Moon Sea--
+Front: #14 = 191 Abs
+Back: #11 = 240 Abs
+
+--Gallery Of Time--
+Front: 225 Years Ago = 237 Abs
+Back: The Back Floor Key to the Gallery of Time is the
+Flapping Duster. However, in the American version of the
+game you won’t find it. Unfortunately when they were translating
+the game and all that good stuff it was accidentally left out.
+On the plus side, we did get the Demon Shaft and the Japanese
+did not. As a side note, I hear you can get the Flapping Duster
+with a GameShark or a similar device. I don’t have one of these
+myself, but that is what I hear.
+
+--Demon Shaft--
+Front: #81, #84, #88, #89, #92, #93, #94, #95 = 525 Abs
+Back: #81-#99 =  ~ 531 Abs
+
+Like I described in the paragraph above however, these are the 3 I
+would choose above all else:
+
+--Shipwreck--
+Back: #14 = 192 Abs
+(It Has A Buyable Back Floor Key)  
+
+--Demon Shaft--
+Front: #81, #84, #88, #89, #92, #93, #94, #95 = 525 Abs
+Back: #81-#99 = They have an average of 531 Abs
+(It Has A Very Common Back Floor Key)
+
+--Wise Owl Forest--
+Back: #10 = 192 Abs
+(It Has A Fairly Common Back Floor Key) 
+
+
+This is a contribution from Lufusol, regarding the back floor
+of Level 17 of the Sun & Moon Temple. It is taken straight
+from his email, so is in his own words:
+
+--------------------------------------------------------
+Hi Andrew,
+
+First I want to thank you for your helpful FAQ.  I
+have a comment regarding the "Where Should I Level
+Up?" section.  I think Level 17 of the Sun & Moon
+Temple deserves MUCH more notice as a great place to
+level, --as long as you have a fairly powerful
+synthsphere with the "steal" ability--:
+
+1) As your FAQ already mentions, the enemies give
+great ABS in both front and back rooms.
+
+2) You don't need to bring repair powders - Steel
+Golems provide them (via stealing), and the front room
+is full of them.
+
+3) You don't need to bring water or food.  There is
+almost always a pool in the front map (or both!).  If
+someone gets hurt just switch allies until you can
+reach the health spot.  Check the map for a pool
+before wasting a key on the back room - once you use
+it you can stay down there literally for hours.  
+
+3) It's easy to beat the slow monsters within an inch
+of their lives with Xiao, Ruby or Osmond (having the
+synthsphere+steal equipped) and then switch weapons
+(or characters) to finish the job and collect tons of
+ABS.  
+
+In the back room, Xiao or Osmond are best because the
+blue dragons rarely shoot ice at these characters, but
+for some reason they shoot constantly at Ruby.
+
+4) You will steal tons of ice gems from the Blue
+Dragons, and can use them to get various Breaker
+attachments (stone, metal, dragon, and mimic I
+believe) right there on the same level.
+
+The only thing you need to bring are lots of Dran's
+Feathers (atleast 6!) and other attachment items.  It
+gets very tedious if you can't run around quickly.
+
+Please consider noting this in your FAQ... I have made
+a lot of progress in a (relatively) short time from
+this one level, even though the keys are rare.
+
+Again, thanks a lot, your FAQ has been an invaluable
+reference for upgrading!
+--------------------------------------------------------
+
+4.) Take Care Of Your Weapons!
+This is the easiest thing to do: Use at least 1 of your Active
+Items slots as a place to put an Auto-Repair Powder. Although
+you should be using a regular one when your weapon gets to
+12-20 WHP left, this is just a safe fall back incase you forget.
+I think you would rather have it there than loose your Chronicle
+Sword you have spent hours upgrading dissapear beofore your eyes,
+wouldn't you?!? I think so.
+
+Also all default weapons CAN break and when they do their stats
+reset to the starting ones. They can break, they just don't
+disappear. The Serpent Sword, after the dual with the Killer
+Snake is breakable.
+
+Like I said though, lucky for you, and every other Dark Cloud
+player they have items called Repair Powders and more importantly
+Auto-Repair Powders! So, in order to keep your Weapons safe just
+follow this mini-guide:
+
+-Set an Auto-Repair Powder as an Active Item.
+-Then make sure you have an extra or two in your Item Bag.
+-Now, make sure you have 2-5 Repair Powders with you are all times.
+-Try as hard as you can to use a normal Repair Powder when
+your weapon gets to 20-12 WHP depending on the monsters you
+are fighting and your weapons Durability.
+-You can do it, I believe in you!
+
+
+---------------------------------------------------------------------------
+************************************Attachments****************************
+---------------------------------------------------------------------------
+
+If you just upgrade a weapon without attachements on it won't get much
+stronger. You need attachments on in order to upgrade it's stats so
+you can build it up to the next form. This sections purpose is to tell
+you all about the attahments in Dark Cloud
+
+-----------------------
+*****Full Profiles*****
+-----------------------
+
+This is from my Items Guide. It has all the information about every
+attachment in Dark Cloud.
+
+For all the attachments I will give the following information. The 
+description the game gives of the attachment (remember the game doesn't 
+always use proper English), this will always be the first dash, and my 
+description of the attachment, which will be the second dash. I will also 
+give the price at which you can buy the attachment if you can buy it and the 
+price at which you can sell the attachment. Well I guess I'll start now, 
+here it goes.
+
+-Attack 1, 2, 3
+-Increases weapon attack power.
+-It adds 1, 2, or 3 Attack to your weapon.
+-Buy: 300 (1)
+-Sell: 150 (1,2,3)
+
+-Endurance 1, 2, 3
+-Makes it harder to break a weapon.
+-It adds 1, 2, or 3 Endurance to your weapon.
+-Buy: 260 (1)
+-Sell: 130 (1,2,3)
+
+-Speed 1, 2, 3
+-Weapons speed bar fill up faster.
+-It adds 1, 2, or 3 Speed to your weapon.
+-Buy: 260 (1)
+-Sell: 130 (1,2,3)
+
+-Magic 1, 2, 3
+-Increases effect of attributes.
+-It adds 1, 2, or 3 Magic to your weapon.
+-Buy: 300 (1)
+-Sell: 150 (1,2,3)
+
+-Fire
+-Gives weapons the fire attribute.
+-It adds 3 Fire to your weapon.
+-Buy: 300
+-Sell: 150
+
+-Ice
+-Gives weapons the ice attribute.
+-It adds 3 Ice to your weapon.
+-Buy: 300
+-Sell: 150
+
+-Thunder
+-Gives weapons the thunder attribute.
+-It adds 3 Thunder to your weapon.
+-Buy: 300
+-Sell: 150
+
+-Wind
+-Gives weapons the wind attribute.
+-It adds 3 Wind to your weapon.
+-Buy: 300
+-Sell: 150
+
+-Holy
+-Gives weapons the holy attribute.
+-It adds 3 Holy to your weapon.
+-Buy: 300
+-Sell: 150
+
+-Dragon Slayer
+-Increases damage to dragons and reptiles.
+-It adds 3 Dragon to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Undead Buster
+-Undead monsters, zombies and mummies.
+-It adds 3 Undead to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Sea Killer
+-Increases damage to marine monsters.
+-It adds 3 Sea to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Stone Breaker
+-Increases damage to rock monsters.
+-It adds 3 Rock to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Plant Buster
+-Increases damage to plant monsters.
+-It adds 3 Plant to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Beast Buster
+-Increases damage to animal monsters.
+-It adds 3 Beast to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Sky Hunter
+-Increases damage to flying monsters.
+-It adds 3 Sky to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Metal Breaker
+-Increases damage to metal monsters.
+-It adds 3 Metal to your weapon.
+-Buy: 50 FP
+-Sell: 150
+
+-Mimic Breaker
+-Increases damage to mimics.
+-It adds 3 Mimic to your weapon.
+-Buy: 50 FP
+-Sell: 150
+
+-Mage Slayer
+-Increases damage to witches.
+-It adds 3 Mage to your weapon.
+-Buy: 300 - 50 FP
+-Sell: 150
+
+-Synth Sphere
+-Attachment with capability of (weapons name).
+-It is a status broken weapon.
+-Buy: No
+-Sell: 1
+
+-Amethyst
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Ice, 10 Dragon, 10 Mage.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Aquamarine
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Ice, 10 Sea, 10 Sky.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Diamond
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Metal and 5 to all other anti.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Emerald
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Magic, 10 Dragon, 10 Plant.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Garnet
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 5 Attack, 10 Fire, 10 Rock, 10 Beast.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Opal
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Endurance, 10 Metal, 10 Mage.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Pearl
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Endurance, 10 Thunder, 10 Undead.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Peridot
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 5 Attack, 10 Holy, 10 Plant, 10 Beast.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Ruby
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Speed, 10 Fire, 10 Mimic.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Sapphire
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Magic, 10 Wind, 10 Sky.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Topaz
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 5 Attack, 10 Speed, 10 Undead, 10 Sky.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Turquoise
+-Gem can be attached to weapon.
+-A gem that gives your weapon: 10 Ice, 10 Rock, 10 Mimic.
+-Buy: 3000 - 100 FP
+-Sell: 600
+
+-Sun
+-Gem can be attached to weapon.
+-A unique gem. It gives: 10 Attack, 10(all elements), 3(all anti.)
+-Buy: No
+-Sell: 1000
+
+----------------
+*****Buying*****
+----------------
+
+This is a listing of where you can buy attachments in Dark Cloud.
+The shops are listed in which area they are located, going by the 
+order you get to them in the game. Also listed is the price at which
+you can buy the attachment. Some shops don't have attachments, so 
+they will just be skipped. Remember that the attachments you can buy 
+at fishing spots are bought with Fishing Points, not Gilda. This has
+mainly been taken from my Items Guide also, just I only put in the
+information about attachments.
+
+
+-------------------------------
+Gaffer's Buggy - Norune Village
+-------------------------------
+-This is what Gaffer will sell if you have Pike in his house when you
+go to the ending event for Gaffer's Buggy.
+
+-Attack 1  -300
+-Endurance 1 - 260
+-Fire - 300
+-Ice - 300
+-Thunder - 300
+-Wind - 300
+-Holy - 300
+-Dragon Slayer - 300
+
+-If you have the other version of Gaffer's Buggy then he doesn't sell
+any attachments.
+
+--------------------------------
+Wise Owl Shop - Matataki Village
+--------------------------------
+-Plant Buster - 300
+
+---------------------
+Suzy's Store - Queens
+---------------------
+-Suzy's Store - To get this name when she says, " The name Suzy's, 
+it's not quite right is it?" Choose "Is it?" as your response and she 
+will keep the name Suzy's Store.
+
+-This version of Suzy's Store does not sell attachments. But I would
+still pick it. Why? To answer this I will use an exert from my Items
+Guide:
+
+---------------------------------------------------------------------
+***I would choose this as the name you want because after Rando 
+leaves then this would be the only shop that sells Holy Water. While 
+Holy Water might not seem so great, the other 3 choices for the store 
+name will all result in having items for sale that you can buy in 
+other places. So even though it is only Holy Water it is still one 
+more different item that you can buy. One more thing is that in no 
+matter what one of the 4 you choose they will all have the 3 waters 
+and the Stamina Drink and no other shop sells the Stamina Drink.***
+---------------------------------------------------------------------
+
+------------------
+Freshen Up Washery 
+------------------
+-To get this choose, "No it's not quite right", 
+and then Freshen Up.
+
+-Attack 1  -300
+-Endurance 1 - 260
+-Speed 1 - 260
+-Magic 1 - 300
+
+-----------------
+Warrior's Washery 
+-----------------
+-To get this choose, "No it's not quite right", 
+and then Fighting.
+
+-Sea Killer - 300
+-Mage Slayer - 300
+-Undead Buster - 300
+
+---------------
+Miracle Washery 
+---------------
+-To get this choose, "No it's not quite right", and 
+then Magical.
+
+-Fire - 300
+-Ice - 300
+-Thunder - 300
+-Wind - 300
+-Holy - 300
+
+----------------------
+Joker's Store - Queens
+----------------------
+-Fire - 300
+-Ice - 300
+-Thunder - 300
+-Wind - 300
+-Holy - 300
+-Sea Killer - 300
+-Mage Slayer - 300
+
+--------------------------------
+Brooke's Item Shop - Muska Lacka
+--------------------------------
+-Wind - 300
+-Stone Breaker - 300
+-Sky Hunter - 300
+
+-----------------
+Ledan's Item Shop
+-----------------
+To open this shop, go into the Moon Factory and it will show a cut 
+scean and Ledan will open the gate to the Moon Sea for you and then he 
+will open his shop.
+
+-Beast Buster - 300
+
+------------------------------------------
+Fairy King's Gem Shop - Dark Heaven Castle
+------------------------------------------
+-Garnet - 3000
+-Amethyst - 3000
+-Aquamarine - 3000
+-Diamond - 3000
+-Emerald - 3000
+-Pearl - 3000
+-Ruby - 3000
+-Peridot - 3000
+-Sapphire - 3000
+-Opal - 3000
+-Topaz - 3000
+-Turquoise - 3000
+
+-------------------------------------------------
+Fairy King's Attachment Shop - Dark Heaven Castle
+-------------------------------------------------
+-Attack 1  - 300
+-Endurance 1 - 260
+-Speed 1 - 260
+-Magic 1 - 300
+-Dragon Slayer - 300
+-Undead Buster - 300
+-Sea Killer - 300
+-Stone Breaker - 300
+-Plant Buster - 300
+-Beast Buster - 300
+-Sky Hunter - 300
+-Mage Slayer - 300
+
+--------------------------------
+Fishing Store - Any Fishing Spot
+--------------------------------
+-Dragon Slayer - 50 FP
+-Undead Buster - 50 FP
+-Sea Killer - 50 FP
+-Stone Breaker - 50 FP
+-Plant Buster - 50 FP
+-Beast Buster - 50 FP
+-Sky Hunter - 50 FP
+-Metal Breaker - 50 FP
+-Mimic Breaker - 50 FP
+-Mage Slayer - 50 FP
+-Garnet - 100 FP
+-Amethyst - 100 FP
+-Aquamarine - 100 FP
+-Diamond - 100 FP
+-Emerald - 100 FP
+-Pearl - 100 FP
+-Ruby - 100 FP
+-Peridot - 100 FP
+-Sapphire - 100 FP
+-Opal - 100 FP
+-Topaz - 100 FP
+-Turquoise - 100 FP
+
+----------------------------
+***Receiving From Enemies***
+----------------------------
+
+This section was suggested by DeMatt. He said that he found it
+usefull getting attachments through using Items to kill enemies.
+Now, if you have read the Leveling Up section you know that I
+personally look down on using Regular Attachments most of the
+time. (Please note that I am NOT saying that DeMatt frequently
+uses regular attachments.) However, in those rare cases where
+I do use Regular Attachments, which you can see in the Leveling
+Up Tips section it's nice to have the right kind availible.
+Although I always have enough money to just buy them, there are
+the two: Metal and Mimic which can only be bought with Fising
+Points, and I don't condone using Fishing Points to buy
+anything other than Gems and the Mardan Eins. So, how do you get
+these attachments? Well, as the title says you receive them from
+enemies. But in order to do this you need to defeat them with
+an item. Now, the item only needs to strick the final blow, it
+does not need to do all the damage, so if you want you can lower
+it's health by other means such as Posion or direct weapon damage.
+Anyway, if you finish the monseter off with an Item it will most
+of the time, not all of the time, drop an Attachment. So, basically
+this section is going to describe the easiest way to get these
+attachments. I've picked the easiest enemy that gives each one,
+so although there are more than likely more, these are the monsters
+that I feel are the easiest to defeat.
+
+Dragon Slayer = Dragon = Divine Beast Cave
+Undead Buster = Skeleton Soldier = Divine Beast Cave
+Sea Killer = Opar = Divine Beast Cave
+Stone Breaker = Statue = Divine Beast Cave
+Plant Buster = Canibal Plant = Wise Owl Forest
+Beast Buster = Dasher = Divine Beast Cave
+Sky Hunter = Crescent Baron = Moon Sea
+Metal Breaker = Pirate's Chariot = Shipwreck
+Mimic Breaker = Mimic = Divine Beast Cave
+Mage Slayer = Sunday (& Friends) = Wise Owl Forest
+
+Just as a side note: Running through the Divine Beast Cave's first couple
+floors and using your projectiles is a good way to make Gilda. You will
+get more money for selling Attachment than Bombs and such and even if
+you use some and don't get and attachment you will still make a profit
+in the long run.
+
+---------------
+*****Chart*****
+---------------
+
+This is just a chart showing what atachment gives what to a weapon. 
+It is useful if you don't want to read the descriptions of the 
+attachments.
+
+Key
+
+At - Attack
+Ed - Endurance
+Sp - Speed
+Mg - Magic
+Fi - Fire
+Ic - Ice
+Th - Thunder
+Wi - Wind
+Ho - Holy
+Dr - Dragon
+Ud - Undead
+Ma - Marine
+Rk - Rock
+Pt - Plant
+Bt - Beast
+Sy - Sky
+Ml - Metal
+Mc - Mimic
+Mg - Mage
+
+Attachment    - At Ed Sp Mg Fi Ic Th Wi Ho Dr Ud Ma Rk Pt Bt Sy Ml Mc Mg 
+
+Amethyst      - -  -  -  -  -  10 -  -  -  10 -  -  -  -  -  -  -  -  10
+Aquamarine    - -  -  -  -  -  10 -  -  -  -  -  10 -  -  -  10 -  -  -
+Diamond       - -  -  -  -  -  -  -  -  -  5  5  5  5  5  5  5  10 5  5
+Emerald       - -  -  -  10 -  -  -  -  -  10 -  -  -  10 -  -  -  -  -
+Garnet        - 5  -  -  -  10 -  -  -  -  -  -  -  10 -  10 -  -  -  -
+Opal          - -  10 -  -  -  -  -  -  -  -  -  -  -  -  -  -  10 -  10
+Pearl         - -  10 -  -  -  -  10 -  -  -  10 -  -  -  -  -  -  -  -
+Peridot       - 5  -  -  -  -  -  -  -  10 -  -  -  -  10 10 -  -  -  -
+Ruby          - -  -  10 -  10 -  -  -  -  -  -  -  -  -  -  -  -  10 -
+Sapphire      - -  -  -  10 -  -  -  10 -  -  -  -  -  -  -  10 -  -  -
+Topaz         - 5  -  10 -  -  -  -  -  -  -  10  - -  -  -  10 -  -  -
+Turquoise     - -  -  -  -  -  10 -  -  -  -  -  -  10 -  -  -  -  10 -
+Sun           - 10 -  -  -  10 10 10 10 10 3  3  3  3  3  3  3  3  3  3
+Attack 1      - 1  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Attack 2      - 2  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Attack 3      - 3  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Endurance 1   - -  1  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Endurance 2   - -  2  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Endurance 3   - -  3  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Speed 1       - -  -  1  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Speed 2       - -  -  2  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Speed 3       - -  -  3  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Magic 1       - -  -  -  1  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Magic 2       - -  -  -  2  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Magic 3       - -  -  -  3  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Fire          - -  -  -  -  3  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+Ice           - -  -  -  -  -  3  -  -  -  -  -  -  -  -  -  -  -  -  -
+Thunder       - -  -  -  -  -  -  3  -  -  -  -  -  -  -  -  -  -  -  -
+Wind          - -  -  -  -  -  -  -  3  -  -  -  -  -  -  -  -  -  -  -
+Holy          - -  -  -  -  -  -  -  -  3  -  -  -  -  -  -  -  -  -  -
+Dragon Slayer - -  -  -  -  -  -  -  -  -  3  -  -  -  -  -  -  -  -  -
+Undead Buster - -  -  -  -  -  -  -  -  -  -  3  -  -  -  -  -  -  -  -
+Sea Killer    - -  -  -  -  -  -  -  -  -  -  -  3  -  -  -  -  -  -  -
+Stone Breaker - -  -  -  -  -  -  -  -  -  -  -  -  3  -  -  -  -  -  -
+Plant Buster  - -  -  -  -  -  -  -  -  -  -  -  -  -  3  -  -  -  -  -
+Beast Buster  - -  -  -  -  -  -  -  -  -  -  -  -  -  -  3  -  -  -  -
+Sky Hunter    - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  3  -  -  -
+Metal Breaker - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  3  -  -
+Mimic Breaker - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  3  -
+Mage Slayer   - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  3
+Synth Sphere  - ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?  ?
+
+------------------------
+*****Ending Remarks*****
+------------------------
+
+If you have any information I forgot you can send it to the email 
+listed at the top of the guide. Put the subject as Dark Cloud, that way I 
+will read it faster. Also if I made any mistakes you can do the same thing. 
+You will get credit for the information you submit if I put it in the guide. 
+Also if there is anything you want to see in the guide that's related to 
+weapons then feel free to send me your ideas. I am thinking about putting
+in a Full Profile section for weapons that has all the information from
+the previous sections about a weapon all in one place. If you would like
+to see this or anything relating to weapons in Dark Cloud send me an email.
+Well, thanks for reading it, I hope it helped.
+
+-----------------
+*****Credits*****
+-----------------
+
+This is list of people I want to thank.
+-All the sites this is on, for hosting it.
+-Shawn, my best friend for watching me play Dark Cloud and a bunch of other
+ games for hours on end.
+-MrMan9879 for being my best online friend and the 2 locations:
+ Gallery of Time: Steve, Frozen Tuna
+-Qactuar for finding the base stats of Aga's Sword (Although after he found
+ them through evolution Xelio found an Aga's Sword, and those are the
+ stats listed now.), noteing a typo in on the Machine Gun's Endurance and
+ the 15 locations:
+ Divine Beast Cave: Sax
+ Wise Owl Forest: Choora, Tsukikage, Turtle Shell
+ Shipwreck: Baselard
+ Sun And Moon Temple: Sand Breaker, Dusack
+ Moon Sea: Thorn Armlet, Snail, Swallow
+ Gallery Of Time: Battle Axe, Destruction Ring, Satan's Ring
+ Demon Shaft: Antique Sword, Hexa Blaster
+-JungleJim for the 22 locations:
+ Wise Owl Forest: Magical Hammer
+ Shipwreck: Kitchen Knife
+ Sun and Moon Temple: Shamshir, Goddess Ring
+ Moon Sea: Magical Hammmer, Platinum Ring, Partisan, Choora, Sand Breaker, 
+           Steel Slingshot, Last Judgement, Double Impact, Antique Sword, 
+           Crysknife
+ Gallery Of Time: Cross Hinder, Crysknife, Snail, Bone Slingshot
+ Demon Shaft: 7 Branch Sword, Steve, Skunk, Jackal
+-Xelio for contributing the base stats of Aga's Sword and for the
+ 1 location:
+ Demon Shaft: Aga's Sword
+-Terrorsmurf for the base stats of the Choora.
+-Lee Eric Kirwan for the Durable strategy and confirmation on the idea
+ about an Angel Shooter with Drain instead of Heal.
+-Jekyll2 for the Durable strategy.
+-Lufusol for contributing to the "Where Should I Level Up?" section.
+-Edoardo Montingelli for the following information on the Thorn Armlet:
+ In-Game Description, Number Of Attachment Slots, Selling Price, and
+ conformation on its' stats.
+-Andy Black for the 19 locations:
+ Shipwreck: Magical Hammer, Bandit Slingshot, Battle Axe, Turtel Shell, 
+            Buster Sword, Last Judgement
+ Sun And Moon Temple: Crystal Ring, De Sanga
+ Moon Sea: Bandit Slingshot, Shamshir, Chopper, Fairy's Ring, Scorpion, 
+           Turtle Shell, Battle Axe
+ Gallery Of Time: Turtle Shell, Bandit's Ring, Partisan, Jackal Halberd
+-Darth Mom for telling me that I was consistently misspelling Mardan Eins 
+ and for the 2 locations:
+ Shipwreck: Pockleful
+ Sun And Moon Temple: 5 Ft. Nail
+-Fr0869 for telling me that Crecent Barons gave Sky Hunters when killed
+ by a projectile.
+-Lockness73 for also telling me that Crecent Barons gave Sky Hunter
+ attachments when killed by a projectile.
+-Daniel Bird for noteing a typo in the Abilites Section.
+-Sebastien Marien for noteing a typo in the Max Attack/Magic section.
+-Zeik56 for noteing the lose of Attack when evolving the Serpent Sword
+ into the Tsuikikage.
+-CheatWiz for the 10 locations: 
+ Wise Owl Forest: Bandit Slingshot 
+ Shipwreck: Bone Rapier, Sand Breaker
+ Sun and Moon Temple: Bone Slingshot, Hardshooter, Steve, Frozen Tuna, 
+                      Tutrle Shell, Javelin
+ Moon Sea: Bone Slingshot
+-FreddyP for the 3 locations:
+ Divine Beast Cave: Choora, Small Sword, Buster Sword
+-Manga for the 2 locations:
+ Wise Owl Forest: Antique Sword
+ Shipwreck: Steve
+-Sonic Y Tail for the 2 locations:
+ Gallery of Time: Maneater, Double Impact
+-Drazar86 for the 2 locations:
+ Shipwreck: Bandit's Ring
+ Gallery of Time: 5 Ft Nail
+-SixDays for the 1 location:
+ Moon Sea: Steve
+-Robbie for the 1 location:
+ Gallery of Time: Scorpion
+-Moth Of Doom for the 1 location:
+ Sun And Moon Temple: Bandit's Ring
+-Dragenit for the 1 location:
+ Sun And Moon Temple: Claymore
+-Ryan Knight for the 1 location:
+ Wise Owl Forest: Last Judgment
+-Tcharleyd for the Starting Abs for the Thron Armlet.
+-camster for the suggestion to elaborate on places to Level Up
+ your Weapons.
+-DeMatt for the suggestion on adding a section about finding
+ attachments.
+-WaveMiX for the suggestion on adding a section that explains
+ the very basics of building up weapons.
+
+--------------------
+*****Copy Right*****
+--------------------
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
+
+If you want this guide on your site send me an email. I will more
+than likely say it is okay as long as you have the whole thing and
+give me the credit for writing it.
+
+Copyright 2005 Andrew Ziel {Expert / The_Expert_47}

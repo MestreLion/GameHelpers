@@ -1,0 +1,312 @@
+Game exclusives
+
+FireRed
+023	Ekans   	Poison
+024	Arbok   	Poison
+043	Oddish  	Grass	Poison
+044	Gloom   	Grass	Poison
+045	Vileplume	Grass	Poison
+054	Psyduck 	Water
+055	Golduck 	Water
+058	Growlithe	Fire
+059	Arcanine	Fire
+090	Shellder	Water
+091	Cloyster	Water	Ice
+123	Scyther 	Bug	Flying
+125	Electabuzz	Electric
+
+LeafGreen
+027	Sandshrew	Ground
+028	Sandslash	Ground
+037	Vulpix  	Fire
+038	Ninetales	Fire
+069	Bellsprout	Grass	Poison
+070	Weepinbell	Grass	Poison
+071	Victreebel	Grass	Poison
+079	Slowpoke	Water	Psychic
+080	Slowbro 	Water	Psychic
+120	Staryu  	Water
+121	Starmie 	Water	Psychic
+126	Magmar  	Fire
+127	Pinsir  	Bug
+
+
+Vulpix
+20%	15-18	Route 8
+10%	18,20	Route 7
+15%	30,32	Pokémon Mansion
+
+Bellsprout
+25%	12-14	Route 24, 25
+25%	13-16	Route 5, 6
+20%	19,22	Route 7
+35%	22-26	Route 12, 13, 14, 15
+30%	30,32	Cape Brink (One Island)
+20%	31	Bond Bridge (Three Island)
+10%	30	Berry Forest (Three Island)
+
+Weepinbell
+Routes 12, 13, 14, and 15, Berry Forest, Bond Bridge, Cape Brink, Water Path
+
+Slowpoke
+Celadon City (surfing)
+Routes 4, 10, 11, 12, 13, 19, 20, 21, 24, Water Labyrinth, Resort Gorgeous, Memorial Pillar, Green Path, Outcast Island, Tanoby Ruins, Pallet Town, Cerulean City, Vermilion City, Cinnabar Island, One Island, Five Island, Trainer Tower (Super Rod)
+Routes 6, 22, 23, 25, Viridian City, Fuchsia City, Four Island, Cerulean Cave, Safari Zone (surfing and Super Rod)
+Treasure Beach, Kindle Road, Bond Bridge, Five Isle Meadow, Ruin Valley, Water Path (tall grass and Super Rod)
+Cape Brink, Berry Forest (tall grass, surfing, and Super Rod)
+Seafoam Islands, Icefall Cave (walking, surfing, and Super Rod)
+Canyon Entrance (tall grass) 
+
+Slowbro
+Cerulean Cave and Berry Forest (surfing)
+Seafoam Islands and Cape Brink (tall grass/walking and surfing)
+Cinnabar Island (Super Rod) 
+
+Staryu
+Pallet Town, Cinnabar Island, Vermilion City, Vermilion Harbor, One Island, Five Island, Icefall Cave (Super Rod) 
+
+Magmar
+Mt. Ember
+
+Pinsir
+Safari Zone, Rocket Game Corner
+
+Mt. Moon
+Helix Fossil
+
+Route 4
+Sandshrew	25%	6, 8, 10, 12
+Lv 6 (10%)
+Lv 10 (10%)
+Lv 8 (4%)
+Lv 12 (1%)
+
+Route 11
+Sandshrew	40%	12, 14, 15
+Lv 14 (20%)
+Lv 12 (15%)
+Lv 15 (5%)
+
+Route 9, 10
+Sandshrew	25%
+Lv 11 (10%)
+Lv 15 (10%)
+Lv 13 (4%)
+Lv 17 (1%)
+
+Route 8
+Sandshrew [LG]	20%
+Lv 17 (15%)
+Lv 19 (5%)
+
+Route 23
+Sandshrew	20%
+Lv 32 (10%)
+Lv 34 (10%)
+
+Cinabar Island
+Omanyte	(revive Helix Fossil)
+
+Sandslash	 5%
+Lv 44 (5%)
+
+Victory Road 1F/3F
+Sandslash	 5%
+Lv 44 (5%)
+
+Victory Road 2F
+Sandslash	 5%
+Lv 46 (5%)
+
+
+
+ 27 Sandshrew
+	 25%	11 - 17	Route 10
+	 40%	12 - 15	Route 11
+	 25%	 6 - 12	Route 4
+	 20%	17 - 19	Route 8
+	 25%	11 - 17	Route 9
+	 20%	32 - 34	Route 23
+
+ 28 Sandslash
+	  5%	44 - 44	Route 23
+	  5%	44 - 44	Victory Road - 3F
+	  5%	46 - 46	Victory Road - 2F
+	  5%	44 - 44	Victory Road - 1F
+
+ 37 Vulpix
+	 10%	18 - 20	Route 7
+	 20%	15 - 18	Route 8
+	 15%	30 - 32	Pokémon Mansion - B1F
+	 15%	30 - 32	Pokémon Mansion - 3F
+	 15%	30 - 32	Pokémon Mansion - 2F
+	 15%	30 - 32	Pokémon Mansion - 1F
+
+ 69 Bellsprout
+	 35%	22 - 26	Route 12
+	 35%	22 - 26	Route 13
+	 35%	22 - 26	Route 14
+	 35%	22 - 26	Route 15
+	 25%	12 - 14	Route 24
+	 25%	12 - 14	Route 25
+	 25%	13 - 16	Route 5
+	 25%	13 - 16	Route 6
+	 20%	19 - 22	Route 7
+	 10%	30 - 30	Berry Forest
+	 30%	30 - 32	Cape Brink
+	 20%	31 - 31	Bond Bridge
+	 10%	44 - 44	Water Path
+
+ 70 Weepinbell
+	  5%	28 - 30	Route 12
+	  5%	28 - 30	Route 13
+	  5%	30 - 30	Route 14
+	  5%	28 - 30	Route 15
+	 20%	35 - 35	Berry Forest
+	 15%	36 - 38	Cape Brink
+	 10%	36 - 36	Bond Bridge
+	  5%	48 - 48	Water Path
+
+ 79 Slowpoke
+	 99%	 5 - 40	Celadon City [surf]
+	  1%	25 - 35	Cerulean City [super-rod]
+	  1%	25 - 35	Cinnabar Island [super-rod]
+	  5%	15 - 35	Fuchsia City [super-rod]
+	100%	20 - 40	Fuchsia City [surf]
+	  1%	25 - 35	Pallet Town [super-rod]
+	  1%	25 - 35	Route 10 [super-rod]
+	  1%	25 - 35	Route 11 [super-rod]
+	  1%	25 - 35	Route 12 [super-rod]
+	  1%	25 - 35	Route 13 [super-rod]
+	  1%	25 - 35	Sea Route 19 [super-rod]
+	  1%	25 - 35	Sea Route 20 [super-rod]
+	  1%	25 - 35	Sea Route 21 [super-rod]
+	  5%	15 - 35	Route 22 [super-rod]
+	100%	20 - 40	Route 22 [surf]
+	  1%	25 - 35	Route 24 [super-rod]
+	  5%	15 - 35	Route 25 [super-rod]
+	100%	20 - 40	Route 25 [surf]
+	  1%	25 - 35	Route 4 [super-rod]
+	  5%	15 - 35	Route 6 [super-rod]
+	100%	20 - 40	Route 6 [surf]
+	  4%	15 - 25	Seafoam Islands - B4F [super-rod]
+	  4%	30 - 40	Seafoam Islands - B4F [surf]
+	 10%	32 - 32	Seafoam Islands - B4F
+	  4%	15 - 25	Seafoam Islands - B3F [super-rod]
+	  4%	30 - 40	Seafoam Islands - B3F [surf]
+	 20%	30 - 32	Seafoam Islands - B3F
+	 40%	30 - 32	Seafoam Islands - B2F
+	 40%	29 - 31	Seafoam Islands - B1F
+	 55%	26 - 33	Seafoam Islands - 1F
+	  4%	15 - 25	Cerulean Cave - B1F [super-rod]
+	 65%	40 - 60	Cerulean Cave - B1F [surf]
+	  5%	15 - 35	Cerulean Cave - 1F [super-rod]
+	 65%	30 - 50	Cerulean Cave - 1F [surf]
+	  1%	25 - 35	Vermilion City [super-rod]
+	  5%	15 - 35	Viridian City [super-rod]
+	100%	20 - 40	Viridian City [surf]
+	  5%	15 - 35	Route 23 [super-rod]
+	100%	20 - 40	Route 23 [surf]
+	  4%	15 - 35	Safari Zone - Area 3, west [super-rod]
+	100%	20 - 40	Safari Zone - Area 3, west [surf]
+	  4%	15 - 35	Safari Zone - Area 2, north [super-rod]
+	100%	20 - 40	Safari Zone - Area 2, north [surf]
+	  4%	15 - 35	Safari Zone - Area 1, east [super-rod]
+	100%	20 - 40	Safari Zone - Area 1, east [surf]
+	  4%	15 - 35	Safari Zone - middle [super-rod]
+	100%	20 - 40	Safari Zone - middle [surf]
+	  1%	25 - 35	S.S. Anne [super-rod]
+	  5%	15 - 35	Berry Forest [super-rod]
+	 95%	 5 - 40	Berry Forest [surf]
+	  5%	31 - 31	Berry Forest
+	  1%	25 - 35	Icefall Cave - waterfall [super-rod]
+	  5%	41 - 41	Icefall Cave - waterfall
+	  5%	15 - 35	Icefall Cave - entrance [super-rod]
+	 30%	 5 - 35	Icefall Cave - entrance [surf]
+	  5%	41 - 41	Icefall Cave - entrance
+	  1%	25 - 35	Kindle Road [super-rod]
+	  5%	34 - 34	Kindle Road
+	  1%	25 - 35	Treasure Beach [super-rod]
+	  5%	31 - 31	Treasure Beach
+	  5%	15 - 35	Cape Brink [super-rod]
+	 95%	 5 - 40	Cape Brink [surf]
+	  5%	31 - 31	Cape Brink
+	  1%	25 - 35	Bond Bridge [super-rod]
+	  5%	31 - 31	Bond Bridge
+	  1%	25 - 35	Resort Gorgeous [super-rod]
+	  1%	25 - 35	Water Labyrinth [super-rod]
+	  1%	25 - 35	Five Isle Meadow [super-rod]
+	  5%	41 - 41	Five Isle Meadow
+	  1%	25 - 35	Memorial Pillar [super-rod]
+	  1%	25 - 35	Outcast Island [super-rod]
+	  1%	25 - 35	Green Path [super-rod]
+	  1%	25 - 35	Water Path [super-rod]
+	  5%	41 - 41	Water Path
+	  5%	15 - 35	Ruin Valley [super-rod]
+	  5%	41 - 41	Ruin Valley
+	  1%	25 - 35	Trainer Tower [super-rod]
+	  5%	41 - 41	Canyon Entrance
+	  1%	25 - 35	Tanoby Ruins [super-rod]
+	  1%	25 - 35	One Island [super-rod]
+	  5%	15 - 35	Four Island [super-rod]
+	 30%	 5 - 35	Four Island [surf]
+	  1%	25 - 35	Five Island [super-rod]
+
+ 80 Slowbro
+	  4%	25 - 35	Cinnabar Island [super-rod]
+	  1%	35 - 40	Seafoam Islands - B4F [surf]
+	 15%	32 - 34	Seafoam Islands - B4F
+	  1%	35 - 40	Seafoam Islands - B3F [surf]
+	 15%	32 - 34	Seafoam Islands - B3F
+	 10%	32 - 34	Seafoam Islands - B2F
+	  5%	33 - 35	Seafoam Islands - B1F
+	 35%	50 - 65	Cerulean Cave - B1F [surf]
+	 35%	40 - 55	Cerulean Cave - 1F [surf]
+	  5%	35 - 40	Berry Forest [surf]
+	  5%	35 - 40	Cape Brink [surf]
+	  5%	37 - 40	Cape Brink
+
+ 89 Muk
+	  5%	34 - 34	Pokémon Mansion - B1F
+	  5%	32 - 32	Pokémon Mansion - 3F
+	  5%	32 - 32	Pokémon Mansion - 2F
+	  5%	32 - 32	Pokémon Mansion - 1F
+
+ 99 Kingler
+	  4%	25 - 35	Pallet Town [super-rod]
+	  4%	25 - 35	Sea Route 19 [super-rod]
+	  4%	25 - 35	Sea Route 20 [super-rod]
+	  4%	25 - 35	Sea Route 21 [super-rod]
+	  4%	25 - 35	Icefall Cave - waterfall [super-rod]
+	  4%	25 - 35	Kindle Road [super-rod]
+	  4%	25 - 35	Treasure Beach [super-rod]
+	  4%	25 - 35	Bond Bridge [super-rod]
+	  4%	25 - 35	Resort Gorgeous [super-rod]
+	  4%	25 - 35	Water Labyrinth [super-rod]
+	  4%	25 - 35	Five Isle Meadow [super-rod]
+	  4%	25 - 35	Memorial Pillar [super-rod]
+	  4%	25 - 35	Outcast Island [super-rod]
+	  4%	25 - 35	Green Path [super-rod]
+	  4%	25 - 35	Water Path [super-rod]
+	  4%	25 - 35	Trainer Tower [super-rod]
+	  4%	25 - 35	Tanoby Ruins [super-rod]
+	  4%	25 - 35	One Island [super-rod]
+	  4%	25 - 35	Five Island [super-rod]
+
+120 Staryu
+	 40%	15 - 25	Cinnabar Island [super-rod]
+	 40%	15 - 25	Pallet Town [super-rod]
+	 40%	15 - 25	Vermilion City [super-rod]
+	 40%	15 - 25	S.S. Anne [super-rod]
+	 40%	15 - 25	Icefall Cave - waterfall [super-rod]
+	 40%	15 - 25	One Island [super-rod]
+	 40%	15 - 25	Five Island [super-rod]
+
+126 Magmar
+	  5%	38 - 40	Mt. Ember
+
+127 Pinsir
+	  1%	28 - 28	Safari Zone - Area 1, east
+	  4%	23 - 23	Safari Zone - middle
+
+

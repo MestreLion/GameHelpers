@@ -1,0 +1,459 @@
+GT-? - Galera da Toca™ [0,0]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-1   DKnight   23,43   27,39   14   810
+    GT-1   domtupam   27,8   28,62   7   781
+    GT-1   Fabyo   27,02   29,67   14   625
+    GT-1   LasNoches   38,21   41,5   8   761
+    GT-1   lipeaf   29,53   30,78   7   683
+    GT-1   lucas12   37,59   41,46   9   655
+    GT-1   tinholu   32,45   38,59   9   641
+    GT-1   Zodiac   36,62   42,81   6   745
+    GT-2   cmaiaDF   35,51   42,49   15   813
+    GT-2   Engenheiro   14,04   20,78   6   701
+    GT-2   FLR   25   38,76   12   694
+    GT-2   gui alves   25,32   30,69   10   692
+    GT-2   Joper   35,85   43,94   15   864
+    GT-2   Lady Killer   15,81   21,35   9   645
+    GT-2   Larry   20,81   24,97   7   748
+    GT-2   Rui Santos   15,13   21,81   17   681
+    GT-2   v3ry   10   14,99   14   656
+    GT-2 ACD   baltazar   1   15,01   5   666
+    GT-2 ACD   Minazinha   40,8   42,27   7   690
+    GT-3   darkgothic   12,04   15,27   8   726
+    GT-4   MaKeVeLi   32,56   37,95   6   642
+    GT-B   henrychuck   34,83   42,94   9   759
+    GT-B   Legolas_Lycan   40,22   41,95   5   823
+    GT-B   updown   37,01   45,93   9   838
+    GT-C   VALETE   41,4   42,52   5   782
+    GT-D   penelope   20,62   22,37   7   641
+    GT-D   Sherlock132004   17,2   27,16   5   695
+    GT-E   Andre Sales   19,85   28,35   20   740
+    GT-E   aviyu   40   44,74   9   835
+    GT-E   B3STA   21,93   27,44   15   629
+    GT-E   Exchange   29,07   39,72   21   802
+    GT-E   ferdinando1821   41,68   46,08   11   682
+    GT-E   junior-pucsp   39,12   47,42   13   707
+    GT-E   Pneo26 Puc   40,5   46,59   7   883
+    GT-E   Surtagem   35,51   39,42   15   813
+    GT-E   thmp   8,49   24,51   7   824
+    GT-E   tigrejunior   2   17,93   12   862
+    GT-F   Simon Katabrok   24,19   36,73   10   798
+    GT-H   Medonho   40,16   42,25   9   853
+    GT-I   Faelz1n   31,14   35   5   665
+    GT-J   paulista99   22,2   23,73   5   632
+    GT-J   Spellbreaker   18,44   21,36   7   726
+    GT-K   BigFish   16,64   24,07   15   727
+    GT-K   Euzinho   19,24   22,64   10   877
+    GT-K   GoNaDoTRoFiNa   38,47   46,08   14   734
+    GT-K   pegasusalado   22,14   28,71   25   771
+    GT-K   sandro13   14,76   21,28   10   905
+    GT-K   vaspp   22,47   25,07   6   938
+    GT-L   Constantinus II   37,59   38,8   8   712
+    GT-L   dO.Ob   11,66   30,26   14   875
+    GT-L   glaucito   14,32   29,14   8   844
+    GT-L   Legionario   27,31   31,11   11   891
+    GT-L   Leonardo   32,2   36,04   8   863
+    GT-L   Reiner   27,02   34,98   17   781
+    GT-L   river raid   6,08   11,21   19   698
+    GT-L   ViniKing   29,12   31,77   7   744
+    GT-L   Zé da Roça   26,91   33,76   8   639
+    GT-M   fog1   32,25   34,85   11   605
+    GT-M   karlaum   29,15   36,42   11   675
+    GT-W   rico.t   34,13   40,98   9   778
+
+
+
+GT-E - Galera da Toca™ [75,0]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-A   sergio jr   27,51   29,77   11   642
+    GT-B   ezequiel jr   37,95   39,53   5   899
+    GT-B   Hoshi   36   38,34   9   610
+    GT-B   jack matador   17,2   26,78   12   732
+    GT-B   Jaldemir   35   38,16   6   679
+    GT-B   Kav   36,88   45,09   6   751
+    GT-B   lorgon   24,41   26,18   7   664
+    GT-B   thanus   33,02   42,6   9   604
+    GT-B   updown   16   28,72   10   729
+    GT-C   VALETE   48,02   48,62   5   782
+    GT-D   lord.marcelo   19,92   24,5   7   616
+    GT-D   nox   22,83   34,81   7   711
+    GT-D   Rafalanche   22,2   23,54   5   716
+    GT-E   B3STA   31,89   37,14   5   927
+    GT-E   bonapel   14,14   17,73   9   747
+    GT-E   Crusher   9,22   13,36   14   881
+    GT-E   Dark   20,59   31,9   22   779
+    GT-E   Galo Doido   26,91   35,88   19   961
+    GT-E   HeroGT   3,16   25,69   10   860
+    GT-E   idelber   26   29,84   22   694
+    GT-E   Ilheus   17,72   25,54   12   936
+    GT-E   ImperioGT   7,07   11,99   31   933
+    GT-E   junior-pucsp   31,14   41,11   21   668
+    GT-E   maxwell   29,15   33,68   17   787
+    GT-E   PacificadorGT   23,26   40,89   13   850
+    GT-E   pantcrator   10,77   20,36   15   754
+    GT-E   Pegaso_pt   13,15   21,78   17   794
+    GT-E   Pneo26 Puc   27,8   39,96   16   860
+    GT-E   SeverO   7,28   20,9   23   812
+    GT-E   Surtagem   47,01   48,84   8   835
+    GT-E   tonh8   27,66   33,45   17   909
+    GT-E   Xarada   1,41   4,26   22   883
+    GT-H   BiZiNhOoO   26,4   37,48   11   787
+    GT-H   Drakov   3,61   7,23   8   707
+    GT-H   Medonho   33,84   37,1   9   853
+    GT-H   Nadhia   7,28   28,09   5   662
+    GT-H   ninbus1   34,93   39,28   6   615
+    GT-J   elclobo   25   32,25   18   671
+    GT-K   AAM7   23,02   24,9   13   730
+    GT-K   Andregguum   46,96   48,45   5   744
+    GT-K   Dekar   44,38   47,76   12   808
+    GT-K   GoNaDoTRoFiNa   25,02   30,5   19   766
+    GT-L   bigornada   3   19,14   17   859
+    GT-L   Constantinus II   44,38   45,88   8   712
+    GT-L   Corleone   19,24   20,72   8   763
+    GT-L   Dr House   36   42,19   7   865
+    GT-L   FedaFergus   9,85   11,98   6   692
+    GT-L   feracutia   30,07   36,19   10   809
+    GT-L   Leonardo   36,01   42,6   7   925
+    GT-L   Maldição   13,15   38,06   16   727
+    GT-L   mateusrq   46,39   48,83   6   631
+    GT-M   APOLLO   25,5   26,63   6   643
+    GT-M   correard   43,91   46,41   5   740
+    GT-M   xavaster   42,72   44,27   12   693
+
+
+
+GT-? - Galera da Toca™ [225,0]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-A   jack tequila   14,76   16,88   10   622
+    GT-A   kiva   6,08   12,21   13   647
+    GT-A   Mugen   2,24   4,3   8   740
+    GT-E   Kisi_Dalt   3,61   7,31   9   712
+    GT-E   Soneca   12,08   15,88   20   635
+    GT-K   Bartozaum   34,06   44,32   11   834
+    GT-K   Boça   26,87   29,86   12   737
+    GT-K   CaOk_Marcel   24,7   30,14   5   676
+    GT-K   marguerita   24,19   31,3   11   685
+    GT-M   FaGú!!!   24,35   26,2   6   602
+
+
+
+GT-? - Galera da Toca™ [-225,0]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-2   Pukka-Plordc   34,48   37,72   6   795
+    GT-5   Arcangell   27,66   29,66   6   713
+    GT-8   Guh s2   40,25   44,49   11   674
+    GT-I   s.l.b.   16,55   27,06   9   701
+
+
+
+GT-? - Galera da Toca™ [-75,0]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-1   fabianoarkanjo   15,81   23,87   9   881
+    GT-1   fbi.cs   19,42   23,91   10   718
+    GT-1   lipeaf   47,07   48,6   5   737
+    GT-1   lucas12   40,31   42,79   9   655
+    GT-1   pokaposk   12,81   14,48   5   701
+    GT-1   Uatila   26,93   38,04   11   654
+    GT-2   azgard.metal   7,28   22,54   6   644
+    GT-2   Brazileiro   47,2   49,02   8   816
+    GT-2   cmaiaDF   41,11   45,57   13   808
+    GT-2   cR_Dinho_rLz   18,87   36,48   15   785
+    GT-2   danielaraujorj   39   44,82   15   779
+    GT-2   Daut   36,14   44,77   9   684
+    GT-2   Pukka-Plordc   21,19   34,11   10   835
+    GT-2   Siber   43,57   46,34   7   605
+    GT-2   trovao branco   30,81   40,37   14   734
+    GT-2 ACD   Minazinha   35,11   36,42   7   690
+    GT-3   Falcão_coroa   6,08   10,09   18   636
+    GT-3   FreddyInsano   26,08   30,45   11   777
+    GT-3   pelanka me   24,7   31,63   13   670
+    GT-3   pppxd   4,24   11,06   9   877
+    GT-4   MaKeVeLi   38,83   41,43   5   708
+    GT-4   natan44   23,77   27,04   8   614
+    GT-4   poeta   39,7   45,02   5   758
+    GT-6   soulman   30,41   32,16   5   840
+    GT-8   Lupino   32,89   40,45   7   640
+    GT-8   marinara   36,06   43,32   9   793
+    GT-E   BANA   9,22   21,73   12   744
+    GT-F   ali hassam olei   35,51   47,02   6   617
+    GT-F   Anjos Negros   20,62   26,4   7   654
+    GT-F   ardakaygusuz   17,49   35,87   18   805
+    GT-F   Bang   23,02   27,64   8   713
+    GT-F   GMASSA   36,67   43,68   11   711
+    GT-F   lisbon   37,8   43,93   17   748
+    GT-F   Simon Katabrok   37,34   40,39   9   821
+    GT-F   tepe   41   44,75   11   701
+    GT-F   Vahini   47,42   48,83   5   874
+    GT-I   duck   27,78   44,03   6   717
+    GT-W   couto   19,03   33,26   9   726
+    GT-W   doido é doido   36,67   41,53   6   776
+    GT-W   Julius Caesar   45,61   47,81   7   744
+    GT-W   rangelr   39,05   44,99   18   711
+    GT-W   rico.t   27,59   40,92   13   821
+    GT-W   The War Factory   31,14   33,61   7   670
+    GT-W   Uriah Heep   15,03   19,22   8   838
+
+
+
+GT-? - Galera da Toca™ [0,75]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-A   apipino   7   7,84   5   705
+    GT-A   gaunt   10,77   13,78   7   771
+    GT-B   charllie   33,12   38,17   12   801
+    GT-B   henrychuck   38,95   43,98   10   727
+    GT-B   kutisque21   36,4   38,85   9   766
+    GT-B   mautrix   28,84   36,54   12   682
+    GT-B   PanZzer   9,22   20,74   6   723
+    GT-B   sponja   22,8   28,1   8   659
+    GT-B   TrickXPipe   25,5   36,29   15   738
+    GT-B   vidaloka   31,62   41,46   9   787
+    GT-D   ed7   26,17   37,56   10   728
+    GT-D   kiki   21,21   40,18   7   636
+    GT-E   aviyu   29,73   33,56   9   835
+    GT-E   ChuckNorris GT   29,21   41,15   19   930
+    GT-E   Exchange   15,13   32,43   27   794
+    GT-E   FalconGT   5,66   16,19   20   710
+    GT-E   ferdinando1821   33,84   39,6   14   738
+    GT-E   HeroGT   19,31   34,89   7   865
+    GT-E   KueraGT   13,6   25,12   19   740
+    GT-E   Lord.Coyote   48,33   49,24   7   745
+    GT-E   micaelos   10,2   19,25   21   906
+    GT-E   poiatti   38,48   44,97   9   655
+    GT-E   thmp   24,6   41,28   5   843
+    GT-H   Fuser   17,89   24,88   10   660
+    GT-H   Maximus   7,07   8,62   13   708
+    GT-H   papa   28,02   31,02   8   748
+    GT-J   electro   24,04   30,04   10   675
+    GT-J   enfermeira   23,71   28,72   9   760
+    GT-J   pyvi6   20,62   24,57   9   763
+    GT-J   RazielBr   19,92   22,67   5   761
+    GT-K   boizin   43,57   44,72   5   660
+    GT-K   gonzo23   5   28,65   13   673
+    GT-K   guilhermeMZ   36,25   41,48   16   767
+    GT-K   Maskills   36,88   43,86   11   780
+    GT-K   Savulski   37,22   41,46   9   626
+    GT-K   Xis   37,58   38,83   6   649
+    GT-L   Arian   8,54   12,49   8   683
+    GT-L   glaucito   43,46   46,92   5   843
+    GT-L   iran_maiden   4,12   9,25   14   658
+    GT-L   Kuru   24,76   27,8   8   672
+    GT-L   raios   21,93   27,75   14   800
+    GT-L   ROCCO   18,11   26,19   19   635
+    GT-L   St Jorge   25,06   32,95   11   609
+    GT-L   Zé da Roça   40,02   44,28   5   646
+    GT-M   fog1   39   40,37   11   605
+    GT-M   karlaum   35,36   39,39   11   675
+    GT-M   Oscar Alho   26,48   29,5   7   780
+    GT-M   rubup   22,47   27,89   7   696
+    GT-M   stephany   7,21   14,13   12   634
+    GT-S   Lapo   43,05   44,35   6   614
+    GT-TEAM   TeamGT   0   10,96   12   766
+
+
+
+GT-? - Galera da Toca™ [0,225]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-D   SeRiALkiLLeR_06   43,86   44,77   6   633
+    GT-L   edulink   19,1   27,93   13   684
+    GT-M   gelokosmico   7,07   12,22   8   780
+
+
+
+GT-? - Galera da Toca™ [0,-225]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-2 ACD   kurosaky   42,05   43,54   6   618
+    GT-3   Prize   24,08   25,24   6   705
+    GT-F   flasjc   36,25   42   11   618
+    GT-F   ImperadorII   34,18   40,31   11   871
+    GT-Y   Tuala   26,83   30,86   5   678
+
+
+
+GT-? - Galera da Toca™ [0,-75]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-1   bope2   9   13,16   6   913
+    GT-1   butekento   33,02   40,14   10   741
+    GT-1   camaradas   31,32   37,74   12   642
+    GT-1   Crisc   34,66   37,26   8   993
+    GT-1   EXTREME LIFE   27,89   31,88   13   730
+    GT-1   Haku   40   43,59   13   696
+    GT-1   kabu   25,06   29,78   6   676
+    GT-1   super girl   24,84   38,76   7   872
+    GT-1   tinholu   38,48   41,39   7   673
+    GT-2   dandy   28,18   32,59   13   821
+    GT-2   daniloqr   23,35   37,64   15   637
+    GT-2   Demander   28,64   37,67   8   638
+    GT-2   eu_voltei   18,87   30,12   15   717
+    GT-2   FLR   36,4   38,91   10   675
+    GT-2   gui alves   40,11   44,26   8   732
+    GT-2   Joper   29,68   40,54   13   848
+    GT-2   lcs   42,05   46,18   13   633
+    GT-2   tarcisio   11,18   19,63   12   619
+    GT-2 ACD   Vivi   30,23   32,41   5   730
+    GT-3   cova da moura   38,12   41,97   6   623
+    GT-3   helice   41,11   43,54   8   644
+    GT-3   INVICTUS   43,83   46,24   5   753
+    GT-3   lag   21,54   34,33   12   606
+    GT-3   tissot   35,78   43,07   7   638
+    GT-3   veiobricio   42,49   45,33   6   862
+    GT-3   Zé Cabra   35,36   43,36   12   692
+    GT-3   ZEUS.OP   27,66   31,41   13   802
+    GT-4   mataka   40,85   41,72   7   652
+    GT-8   Dr. Doom   41,11   42,23   7   668
+    GT-I   joca78   44,6   47,87   10   619
+    GT-I   Raphael_carioca   19   42,94   8   706
+    GT-W   Daimon   38,6   40,67   7   891
+    GT-W   danielspeed   31,32   37,33   11   686
+    GT-W   Digones   24,7   27,5   9   624
+    GT-W   gatomestre   40,5   47,7   9   785
+    GT-W   Insaneman   26,48   35,88   13   792
+    GT-W   JCS   30,02   39,86   10   719
+    GT-W   leozim   40,25   42,94   9   661
+    GT-W   Maradona   10,77   23,41   7   692
+    GT-W   Milo   14,87   23,6   21   773
+    GT-W   MisterX   47,04   48,74   9   706
+    GT-W   rafa.osti   24,41   43,12   11   690
+    GT-W   Rainha Violeta   21   38,68   10   793
+    GT-W   RaphaelBr4   17,46   22,35   5   815
+    GT-W   ZORRO   17,89   25,08   8   752
+
+
+
+GT-? - Galera da Toca™ [125,125]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-A   istambul   45,69   48,05   7   654
+    GT-A   StratusFortes   2,24   43,39   11   677
+    GT-A   strikinina   34   39,2   5   705
+    GT-B   acid   25,5   30,84   8   603
+    GT-B   AMJ   16,16   25,25   12   635
+    GT-B   endi   39,82   42,52   11   732
+    GT-B   GM ROBERTO   41,23   45,34   15   601
+    GT-B   Guto17   17,72   37,22   14   751
+    GT-B   K.O   1   27,6   11   823
+    GT-B   Lord Fire   39,05   41,65   12   750
+    GT-B   M1gu3l B   37,59   39,86   11   622
+    GT-B   Mataserix   38,21   45,64   5   691
+    GT-B   ronark   17,49   24,33   9   637
+    GT-B   Viriato   44,18   46,07   9   733
+    GT-B   zarak   14,56   26,46   9   740
+    GT-C   deathproof   46,1   47,73   8   680
+    GT-C   faisca   11,05   39,9   9   668
+    GT-C   STARS   42,8   44,7   6   709
+    GT-C   Truco Memo   15,13   23,14   10   671
+    GT-D   bje   17,2   28,14   11   828
+    GT-D   didopo77   2,83   39,68   7   658
+    GT-D   Dipp   17,2   28,27   20   683
+    GT-D   Mehul   20,62   26,42   7   615
+    GT-D   Titio   1,41   37   25   715
+    GT-D   TOMAR   3,16   29,33   7   614
+    GT-E   aqua   5,1   12,58   28   901
+    GT-E   bicho_toido   42,95   47,1   15   794
+    GT-E   ChuckNorris GT   25   30,43   13   830
+    GT-E   DeusGT   32,65   45,57   7   903
+    GT-E   hum de esparta   37,01   41,99   16   755
+    GT-E   Pneo26 Puc   41,05   44,78   7   836
+    GT-E   SeverO   40,31   41,59   7   783
+    GT-H   Hellvigox   35   38,69   8   658
+    GT-H   rederik   37,34   39,79   6   619
+    GT-J   _Fly_   5,1   26,19   15   861
+    GT-J   Abreu-coelho   38,01   46,4   11   711
+    GT-J   acmdinis   4,12   14,85   29   758
+    GT-J   alladar   37,12   38,34   5   602
+    GT-J   DGB   1,41   6,97   30   763
+    GT-J   Jert   20,62   28,37   17   804
+    GT-J   renancuevas   24,04   41,3   12   742
+    GT-K   aisha_amonrá   36,88   42,37   17   623
+    GT-K   ClaustS01   31,58   37,42   8   688
+    GT-K   dosítio   41,44   44,41   9   677
+    GT-K   erhoo   8,54   17,39   15   763
+    GT-K   Objetivo   21,47   24,37   11   688
+    GT-K   Shadowkina   38,21   40,09   8   894
+    GT-K   v&a   8,25   38,42   8   722
+    GT-K   vaspp   38,01   43,31   12   743
+    GT-K   W.ESTERMINADOR   19,72   27,98   18   736
+    GT-L   andrecarioca   43,57   45,67   7   837
+    GT-L   Orix   27,46   31,34   13   876
+    GT-L   pimentaforte   36,62   41,92   13   680
+    GT-M   Menina   42,15   44,68   9   822
+    GT-M   Pedrinho   45,19   46,98   11   668
+
+
+
+GT-? - Galera da Toca™ [-125,125]
+
+Código: Selecionar tudo
+
+
+
+GT-? - Galera da Toca™ [125,-125]
+
+Código: Selecionar tudo
+
+
+
+GT-? - Galera da Toca™ [-125,-125]
+
+Código: Selecionar tudo
+    alianca   jogador   aldeia mais proxima   media p/ WW   qtde aldeias   media pop
+    GT-1   __Xplod__   7   16,75   12   730
+    GT-1   _willian_   40,05   41,04   5   791
+    GT-1   khayashi   1,41   4,83   8   749
+    GT-1   luis.imy   19,65   31,25   11   708
+    GT-1   ricardo_sampaio   1   19,33   15   683
+    GT-1   The Sim   47,42   48,52   5   633
+    GT-2   Jani   40,05   46,44   14   752
+    GT-2 ACD   paulo_pits   27,66   36,57   12   696
+    GT-3   Escorpião   38,18   44,23   8   657
+    GT-3   Lekoo   38,21   42,11   7   701
+    GT-3   pppxd   29   36,78   11   755
+    GT-3   Walant   38,29   41,56   15   605
+    GT-4   2net   25   32,34   6   626
+    GT-4   Br4zZilL   44,78   46,04   5   754
+    GT-4   Brother   39,92   42,31   5   717
+    GT-4   F0FA0   13,89   31,2   11   691
+    GT-4   fehinsano   35,61   38,23   6   685
+    GT-4   ttfc   22,63   30,48   10   614
+    GT-6   biuds   36,07   42,87   7   711
+    GT-6   Fadisp_Boy   7,21   18,68   9   681
+    GT-6   thi.salla   4,24   12,32   6   785
+    GT-F   jeff_inho13   46,23   48,07   6   675
+    GT-F   Nightmare Mel   44,28   46,28   9   638
+    GT-F   Sir_Dracon   18,11   31,89   17   700
+    GT-F   xfiless   32,76   37,57   11   684
+    GT-I   cabrita   25,81   35,17   14   686
+    GT-I   Calciatore   13   20,03   6   725
+    GT-I   carolas   29,02   34,57   10   662
+    GT-I   fabiojls   1   32,39   12   681
+    GT-I   furns   21,02   24,26   14   691
+    GT-I   juninhosbs   25,3   27,44   6   634
+    GT-I   olivera   42,06   44,75   6   633
+    GT-I   rodriguestete   16,03   27,28   12   706
+    GT-I   torpedo   6,32   10,22   12   666
+    GT-W   gutoinsano   31,89   37,38   6   642
+    GT-W   Taj Mahal   3,61   41,78   11   885
+    GT-Y   Giullian   19,24   34,25   12   682
+    GT-Y   L3GU1N0   20,1   28,24   8   649
+    GT-Y   Tiziu20   18,25   26,08   7   740
+    GT-Y   Veeegos   34,23   35,82   5   774
+
+

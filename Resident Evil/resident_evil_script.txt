@@ -1,0 +1,4970 @@
+                                Resident Evil 1 Script
+         for Resident Evil, Resident Evil: Directors' Cut, Resident Evil
+                   PC Version, and Resident Evil : Saturn Version.
+                             Transcripted by Dave Schmidt
+
+                                     Release 1.0
+                                        
+
+*PURPOSE OF THIS FAQ*
+------------------------------------
+
+This FAQ has been written in order to provide a complete reference
+of what has been said by the characters in the Resident Evil world. 
+In finding continuity errors and the like, what the characters say is
+extremely important. But because the first Resident Evil has so many
+different alternate paths, many people never see many of the scenes
+within this game. Also, some people may not own the game, and want
+to be filled in on what happened within the first game. This FAQ and a
+File FAQ would fill them in on the Storyline of RE1 somewhat near 100%.
+It also tries to help reveal what events lead to which scenes later on, a 
+topic which some FAQs still aren't totally clear on. This guide tries to be
+as clear as possible, telling what is needed to see each scene (unless it is
+a scene that is always seen; I speak more of the alternate path scenes.).
+I will also eventually be covering the PC version of Resident Evil, with its
+"Totally Uncut" cinemas and scenes, since these are things that most 
+console gamers may never see. So welcome, into the realm of survival
+horror... Resident Evil. By the way, if you find any other cinemas that you
+feel should be included in this FAQ, feel free to email me at 
+aquasharkd@hotmail.com and tell me about it. Or just talk about Resident
+Evil theories. Now on the the FAQ...
+
+*TERMINOLOGY USED IN THIS FAQ*
+-----------------------------------------------------
+
+Text enclosed in *(   )* denotes action going on.
+Text enclosed in [  ] denotes this text is actually displayed on the screen.
+Any text behind one of the characters' names (such as Wesker: ....)
+denotes that character speaking.
+
+*FAQ HISTORY*
+------------------------
+November 4, 2002 – FAQ finally submitted to GameFAQs.
+
+July 2, 2000 - FAQ almost totally finished. 
+
+*TABLE OF CONTENTS*
+------------------------------------
+
+Resident Evil (Standard)
+--------------------------------
+
+I. Jill Valentine
+   A. The Mansion
+      1. Opening FMV
+      2. Inside the Mansion
+      3. The Dining Room
+      4. Mysterious Puddle
+      5a. Zombie CGI
+        a. Zombie Attack 1
+      5b. Zombie Attack 2 (Semi-Secret)
+      6. Search for Wesker
+         a(O). Cerberus CGI
+      (O). Ceiling Trap
+      7a. Barry in Terrace
+      7ba. Barry in Main Hall 1f
+      7bb. Barry in Main Hall 2f
+      8. Researcher's Will Event
+      9. Moonlight Sonata
+      10. Meet Richard
+      11a. Richard Dies
+      11b. Richard is Dead
+      12. Meet Yawn the Giant Snake
+      13a. "Get me Serum"
+      13b. Jill Faints
+   B. The Dormitory (Guard House)
+      1(P). Radio Transmission #1
+      2. Draining the Pool CGI
+      3. Muffled Conversation
+      4(P). Encounter With Barry
+      5(P). Neptune CGI
+      6a. VJolt on Root
+      6b. Barry to the Rescue
+      7. Reunite with Wesker
+      8(P). Radio Transmission #2
+   C. Return to the Mansion
+      1. Hunter CGI
+      2. Snake Confrontation
+      3a. Meet With Barry A
+      3b. Meet With Barry B
+      4. Zombie CGI #2
+   D. The Underground Tunnels
+      1. Trust Barry?
+        a. Yes-Yes
+        b. Yes-No
+        c. No-Yes
+        d. No-No
+      2a. Meet Enrico A
+      2b. Meet Enrico B
+      3(P). Barry Dies #1
+   E. The Umbrella Lab
+      1. Draining the Fountain CGI
+      2. Slideshow
+      3(P). Meet with Chris
+      4a. Rejoin with Barry 1
+      4b. Rejoin with Barry 2
+      5a. Wesker Conversation 1
+      5b. Wesker Conversation 2
+      5c. Wesker Conversation 3
+      6. Tyrant CGI
+      7a. Wesker's Death
+      7b. No! Not Barry!
+      8(P). Warning Announcement
+      9a(P). Save Chris 1
+      9b(P). Save Chris 2
+      10(P)a. Barry Dies #2 (No Chris)
+      10(P)b. Barry Dies #2 (With Chris)
+      11a. Barry's Rush
+      11b. Barry and Chris's Rush
+      12. Radio Transmission #3
+      13a. Chris's Encouragement
+      13b. Barry's Encouragement
+      13c. Survivors' Encouragement
+      14a(P). Return of Tyrant
+      14b(P). Helicopter Pickup
+      15(P). Brad's Gift
+      16(P). Death of A Tyrant
+      ENDINGS
+      17a. Ending A-Jill
+      17b. Ending B-Chris & Jill
+      17c. Ending C-Barry & Jill
+      17d. Ending D-Chris, Barry, & Jill
+      18a. Credits without Pictures
+      18b. Credits with Pictures
+      19(P). Tyrant Lives...
+      20. Jill Epilogue Picture
+      21(P). Rocket
+      22(P). Special Key
+      
+II. Chris Redfield
+    A. The Mansion
+       1. Opening FMV
+       2. Inside the Mansion
+       3. Zombie CGI
+       4. Searching for Wesker
+       (O). Cerberus CGI
+       5a. Meet Rebecca #1
+           a. Yes
+           b. No
+       5b. Meet Rebecca #2
+           a. Get Richard Serum
+           b. Let him die
+       6a. Maestro Rebecca #1
+       6b. Maestro Rebecca #2
+       7a. Answer Yes
+       7b. Answer No
+       8. Moonlight Sonata
+       9. Meet Yawn the Giant Snake
+       10a. Chris Collapses
+       10b. Rebecca's help
+       10c. Get Serum
+   B. The Dormitory (Guard House)
+       1(P). Radio Transmission #1
+       2. Draining the Pool CGI
+       3a. Chris vs. Plant 42
+       3b. Rebecca Helps Out Again
+           a. Afterwards w/o Radio
+           b. Afterwards w/ Radio
+       4. Reunite with Wesker
+       5(P). Radio Transmission #2
+   C. Return to the Mansion
+       1(P). Look! A Radio!
+       2. Hunter CGI
+       3a. Save Rebecca #1!
+       3b. Save Rebecca #2!
+       4a. 1f Hunter Confrontation
+             a. Arrive Quickly
+             b. Save Her
+             c. Run Away
+       4b. 2f Hunter Confrontation
+             a. Save Her
+             b. Run Away
+       5. Yawn's Return
+       6. Zombie CGI #2
+   D. The Underground Tunnels
+       1. Meet Enrico
+   E. The Umbrella Lab
+       1. Draining the Fountain CGI
+       2. Slideshow
+       3(P). Meet with Jill
+       4a. Rejoin Rebecca #1
+       4b. Rejoin Rebecca #2
+       5a. Wesker Conversation 1
+       5b. Wesker Conversation 2
+       6. Tyrant CGI
+       7. Wesker's Death
+       8(P). Rebecca Lives!
+       9(P). Triggering System
+       10a(P). Rescue Jill #1
+       10b(P). Rescue Jill #2
+       11. Radio Transmission #3
+       12a. Jill's Encouragement
+       12b. Rebecca's Encouragement
+       12c. Survivors' Encouragement
+       13a(P). Return of Tyrant
+       13b(P). Helicopter Rescue
+       14. Brad's Gift
+       15. Death of a Tyrant
+       ENDINGS
+       16a. Ending A-Chris
+       16b. Ending B-Chris & Jill
+       16c. Ending C-Chris & Rebecca
+       16d. Ending D-Chris, Jill & Rebecca
+       17a. Credits without Pictures
+       17b. Credits with Pictures
+       18(P). Tyrant Lives...
+       19. Chris Epilogue Picture
+       20(P). Rocket
+       21(P). Special Key 
+      
+Resident Evil : Director's Cut/ PC Version
+
+       1. Uncut Intro  *(Not finished)*
+       2. Uncut Zombie FMV #1
+       3. Forest Speyer's Return
+       4. Violent Ending *(Not finished)*
+
+Resident Evil : Saturn Version
+
+       1. Second Tyrant in Lab *(Not finished)*
+
+
+
+*RESIDENT EVIL SCRIPT*
+------------------------------------
+
+
+I. Jill Valentine
+-----------------
+A. The Mansion
+--------------
+Scene 1. Opening FMV
+[1998 July]
+[Raccoon Forest]
+*(Background is a cloudy sky...)*
+Chris: Alpha Team is flying around the forest zone, situated in northwest
+Raccoon City, where we're searching for the helicopter of our compatriots
+Bravo Team, who disappeared during the middle of our mission.
+[Background Talk:
+Wesker: Chris, you haven't found it?
+Chris: No, I haven't found it yet.]
+
+*(Changes to picture of Newspaper--"Raccoon Times--Bizarre murders committed
+in Raccoon City." Then to "HORROR IN RACCOON! MORE VICTIMS DEAD." Then to 
+"STARS (Special Tactics And Rescue Service) sent to save Raccoon City.", with
+ a map of the mountains around Raccoon City.)*
+
+Chris: Bizarre murder cases have recently occured in Raccoon City. There are
+outlandish reports of families being attacked by a group of about 10 people.
+Victims were apparently eaten. Bravo Team went to the hideout of the group,
+and disappeared. 
+
+*(Changes to the cloudy sky once again--but a plume of smoke rises above a 
+field with tall grass...)*
+
+Jill: Look, Chris!
+
+*(Changes to Alpha Team walking through the tall grass. They all stop.)*
+
+Chris: It was Bravo Team's helicopter. Nobody was in it. But strangely, most
+of the equipment was still there. However, we soon discovered why.
+
+*(View of an evil-looking dog-face, complete with growl noises... View 
+switches to Jill and Chris, scouting together... View switches to Joseph,
+scouting alone. He raises his hand and tries to grab his team's attention.)*
+
+Joseph: Hey! Come here!
+
+*(Dogs open their drool-covered mouths and growl a bit. View changes back to
+Joseph, who carefully reaches down and discovers a severed hand, still
+desperately clutching a pistol. He screams and drops it. The dogs bolt over
+to him, and the camera zooms in on his terrified eyes as he is ripped apart.
+Chris, then the duo of Barry and Wesker, turn to look.
+It then switches for a while between the dogs' open mouths and Joseph's own
+open mouth, screaming desperately. Jill's face is then seen.)*
+
+Jill: Joseph!
+
+*(A dog charges at Chris, who fires off a few shots from his pistol at it. 
+Jill then runs, firing off two shots at the creatures. Three pistol shots
+then hit the ground, evidently missing their target. Wesker then shoots 
+twice at the creatures while running.)*
+
+Wesker: Hwuh! Waah!
+
+*(Barry then gets one shot off with his Colt Python. What is left of Alpha
+team then stops, noticing their helicopter is taking off.)*
+
+Chris: No! Don't go!
+
+*(The helicopter flies off into the horizon, leaving the team standing there.
+The dogs then continue their pursuit, leaving Alpha running again. Chris
+shoots one of the dogs twice, causing it to groan in pain. Wesker shoots, and
+then Chris says...)*
+
+Chris: Jill! Run for that house!
+
+*(After two more pistol shots from Chris, we see a view of an old-looking
+mansion... And another of the dog's mouth.)*
+
+[Cast]
+[Chris Redfield]
+*(Shots of Chris: Turning around in surprise, being skeptical, and shooting
+his pistol)*
+
+[Jill Valentine]
+*(Jill pops a clip into her Beretta, readies it, and looks at the camera.)*
+
+[Barry Burton]
+*(Barry spins around the chamber on his Colt Python, readies it, holds it up,
+and looks at the camera.)*
+
+[Rebecca Chambers]
+*(Rebecca tightens her bandanna and gives the camera a smile.)*
+
+[Albert Wesker]
+*(Wesker slicks his hair back, crosses his arms, and looks cooly at the 
+camera.)*
+
+[RESIDENT EVIL]
+
+[They have escaped into the mansion, where they thought it was safe. 
+Yet---]
+
+Scene 2. Inside The Mansion
+*(Wesker, Barry, and Jill stand in a huge ornate-looking main hall.)*
+
+Barry: What is this?
+
+Wesker: Wow, what a mansion!
+
+*(Jill turns to face Wesker.)*
+
+Jill: Captain Wesker, where's Chris?
+
+*(Jill runs toward the door.)*
+
+Wesker: Stop it! Don't open that door!
+
+Jill: But Chris is--
+
+*(A gunshot is heard. All turn to look in its direction.)*
+
+Barry: What is it?
+
+Wesker: Maybe it's... Chris... (pauses) Now, Jill--Can you go?
+
+Barry: I'm going with you. Chris is our old partner, ya know.
+
+Wesker: Okay. Let me handle this.
+
+*(Barry and Jill nod and walk towards the door on the west...)*
+
+Wesker: Stay alert!
+
+*(Barry and Jill exit.)*
+
+Scene 3. The Dining Room
+*(Barry and Jill enter a lavish-looking Dining Room.)*
+
+Barry: A dining room...
+
+*(Barry proceeds to walk to the other end of the room.)*
+
+Scene 4. Mysterious Puddle
+
+*(Barry kneels down near the emblem fireplace.)*
+
+Barry: What? What is this? 
+
+*(Jill walks over.)*
+
+Jill: What is it?
+
+Barry: Blood. (pauses) Jill, see if you can find any other clues. I'll be
+examining this. (looks down) Hope this is not Chris's blood...
+
+Scene 5a. Zombie CGI
+
+*(We see a man wearing a green jacket who has a bald, white, diseased-looking
+head. He is crouched over another man, apparently eating the poor soul. He
+takes a soft bite, then a loud one, which causes a puddle of blood to ooze 
+out over the carpet. The zombie then slowly turns his head to look at you
+with his cataracted blue eye and bloody lips...)*
+
+Scene 5a-a. Zombie Attack 1
+
+*(Jill heads back out to the dining room. She runs over to Barry.)*
+
+Jill: Barry?
+
+*(The door opens. Barry turns to look at the zombie emerging from it.)*
+
+Barry: What is it?
+
+Jill: Watch out! It's a monster! (begins to back away from the approaching
+zombie)
+
+Barry: Let me take care of this.
+
+*(Barry fires his Colt Python 3 times into the zombie's head, popping it on
+the last shot. The body falls to the floor with a thump. Barry then walks
+over to its corpse and looks down at it.)*
+
+Barry: What IS it?
+
+Jill: Kenneth was killed too; maybe by this creature... (pause) Anyway, let's
+report this to Wesker.
+
+*(Barry nods. The room is exited.)*
+
+Scene 5b: Zombie Attack 2 (Semi-Secret)
+
+*(Jill exits the dining room once without investigating. She returns to the
+main hall to find Wesker.)*
+
+Wesker: Investigate if you hear any gunfire.
+
+*(Jill acknowledges him and returns to the dining room. She attempts to leave
+again. The camera view switches to Barry. He stands up from his crouch.)*
+
+Barry: Lost courage already? It's not like you... (returns to crouching)
+
+*(Jill investigates the old grandfather clock, then goes to talk to Barry. 
+Scene 4 is then played out. Once she turns to exit, and runs back to the main
+hall, the door to the Tea Room opens. )*
+
+Jill: Who is it?
+
+*(A zombie lurches out and shambles toward Jill. Barry notices and points his
+Colt Python toward it.)*
+
+Barry: Hey, you, stop! (pauses as the zombie gets closer to Jill) Run, Jill!
+He's insane!
+
+*(Barry fires three shots into the zombie, popping its head on the last one.
+He walks over near Jill and the corpse. Barry crouches down.)*
+
+Barry: What the hell?
+
+Jill: Let's report this to Wesker!
+
+*(Barry gets up and they exit.)*
+
+Scene 6: Search for Wesker
+
+*(Barry and Jill enter the Main Hall.)*
+
+Barry: Wesker! (pause) Help me look for him, Jill. And don't leave this hall
+for the time being.
+
+*(Jill nods and procceeds to search behind the staircase as Barry walks 
+around. She turns back to speak with Barry.)*
+
+Barry: Find anything, Jill?
+
+Jill: (shaking her head) Nothing. What is this all about? I can't figure it
+out at all.
+
+Barry: Beats me, too.
+
+Jill: Now it's Wesker's time to disappear! I don't know what's going on.
+
+Barry: Well, it can't be helped. Let's search for him seperately. (Jill nods)
+I'll check the dining room again. 
+
+Jill: Okay. I'll try the door on the opposite side.
+
+Barry: This mansion is gigantic. We could get into trouble if we get lost. We
+should start from the first floor, okay? And... Jill, here is a lockpick. It
+might be handy if you, the master of unlocking, take it with you. (Jill nods)
+
+*(She walks over, and Barry places the lockpick in her hand.)*
+
+Jill: Thanks. Maybe I'll need it.
+
+*(Barry nods and runs toward the dining room door. He stops midway, and
+starts to talk to Jill)*
+
+Barry: Listen, if something happens, let's meet up in this hall. 
+
+*(Jill salutes him.)*
+
+Barry: This time, I'll be there.
+
+*(He exits.)*
+
+   a.(O) Cerberus CGI
+
+*(As Jill opens the main hall door, a dog with half of the skin on its head
+torn off sticks its head inside the room and growls. Jill shuts it quickly.)*
+
+(O). Ceiling Trap
+
+*(After taking the shotgun, Jill returns to the small anteroom. Strangely,
+she hears a *click* come from the doors. The ceiling then begins to descend
+on her! After walking around for a while, she stops.)*
+
+Jill: Hey, what's going on? 
+
+*(The camera switches to Barry in the hall. He pounds on the door while 
+saying...)*
+
+Barry: Jill? Is that you, Jill? What happened?
+
+*(Camera back on Jill)*
+
+Jill: (frightened) Barry? Help me, please. The door won't open! (pause) 
+Quick!
+
+Barry: Stay away from the door, Jill. I'm gonna kick this door down!
+
+*(Barry kicks the door open.)*
+
+Barry: Hurry! This way!
+
+*(Jill runs out, and the ceiling trap descends down to the floor. They are
+now in the greenish hallway.)*
+
+Jill: Oh, Barry!
+
+Barry: That was too close. You were almost a Jill sandwich.
+
+Jill: (giggles) You're right! Barry, thanks for saving my life. (pause)
+But, Barry, didn't you say you were going back to the dining room to do some
+research? Why on earth are you here?
+
+Barry: Uh, I just had something I wanted to check. Now, let's get back to
+searching for the lost captain and Chris, shall we?
+
+*(Barry begins to walk off)*
+
+Jill: Thank you, Barry.
+
+Barry: Yeah, yeah...
+
+*(He leaves.)*
+
+Scene 7a. Barry in Terrace
+
+*(2f Terrace. As Jill enters, Barry pulls his gun on her. He retracts it as
+he sees who it is. Jill looks shocked.)*
+
+Barry: Jill! (nervous chuckle) Don't scare me. 
+
+Jill: That's what I was going to say. Aren't you supposed to be going over 
+the first floor, Barry?
+
+Barry: Yeah, you're right. But just take a look at THIS! 
+
+*(Barry motions at Forest Speyer's corpse. It has been pecked open to the
+ribs, and is missing strips of flesh at some places. Barry and Jill walk
+over to it.)*
+
+Barry: It's Forest. Oh my God...
+
+*(Switches to a close-up of the corpse.)*
+
+Jill: (turns away) It's awful! 
+
+Barry: I'm going to find out what caused Forest's death. (kneels) It looks
+like he was killed by a crow, or something... Can you look around the first
+floor, Jill?
+
+Jill: (pauses) Okay.
+
+*(She turns away and begins to walk)*
+
+Barry: Hey, Jill... This must've been Forest's. You don't have a weapon; take
+this with you. 
+
+*(Barry gets up and gives the Bazooka to her. He then goes back to the 
+corpse.)*
+
+[Extra click: Talk to Barry again. He will shake his head and say:]
+
+Barry: I can't believe...
+
+Scene 7ba. Barry In Main Hall 1f (Note: Must have the Chemical in your
+inventory and come back to the main hall; not having seen scene 7a.)
+
+*(Main Hall. First floor.)*
+
+Jill: Barry!
+
+*(They walk over to each other.)*
+
+Barry: Jill! What's going on? Any clues?
+
+Jill: No, but something's wrong with this house.
+
+Barry: Whoah! This hall is dangerous. Maybe it's better to secure our escape
+route first. There must be a back door somewhere... Let's try to find *it*
+first, shall we?
+
+Jill: (nods) Okay, let's separate again. (turns)
+
+Barry: Just a moment! I've found something. 
+
+Jill: What is it?
+
+Barry: It's a weapon; it's really powerful, especially against living things.
+Better take it with you.
+
+Jill: But how about you, Barry?
+
+Barry: (raises his Colt Python) I have THIS!
+
+Jill: Thank you. I'll take this then. (walks over and collects the Acid
+Rounds)
+
+*(The two then salute each other, and Barry runs back into the dining room.)*
+
+Scene 7bb. Barry in Main Hall 2f (Note: Must have the Chemical in inventory
+and come back to Main Hall 2f, not seeing Scene 7a.)
+
+*(Main Hall; 2nd Floor)*
+
+Jill: Barry!
+
+*(They walk over to each other.)*
+
+Barry: Jill! What's going on? Any clues?
+
+Jill: No, but something's wrong with this house.
+
+Barry: Whoah! This hall is dangerous. Maybe it's better to secure our escape
+route first. There must be a back door somewhere... Let's try to find *it*
+first, shall we?
+
+Jill: (nods) Okay, let's separate again. (turns)
+
+Barry: Just a moment! I've found something. 
+
+Jill: What is it?
+
+Barry: It's a weapon; it's really powerful, especially against living things.
+Better take it with you.
+
+Jill: But how about you, Barry?
+
+Barry: (raises his Colt Python) I have THIS!
+
+Jill: Thank you. I'll take this then. (walks over and collects the Acid
+Rounds)
+
+*(The two then salute each other, and Barry runs back into the dining room's
+second floor.)*
+
+Scene 8. Researcher's Will Event (Note: This scene will only happen if you go
+to the room containing the Will after you've seen Barry on the Terrace, and
+before you go see Richard.)
+
+*(Researcher's Room. Jill enters to find Barry standing by a desk. He turns
+around, startled.)*
+
+Barry: Is that you, Jill?
+
+*(She salutes him and walks over.)*
+
+Jill: What's going on? How come you look so scared?
+
+Barry: Look at this. (holds out his hand)
+
+*(Jill walks over and gets the file from him. It reads:
+
+RESEARCHER'S WILL
+<PAGE>
+It's a letter.
+The top of the letter is missing.
+The remaining says...
+<PAGE>
+Yes, I'm infected.
+I did everything I could, but I
+could only delay the progress by
+a few days.
+The most frightening thing is,
+that I forget more about you by
+the day.
+
+So I chose a peaceful death,
+rather than becoming the living
+dead.
+<PAGE>
+Within an hour, I will have
+entered my eternal sleep.
+I do hope you'll understand my
+decision...
+
+Good Bye and Forever Yours,
+
+             Martin Crackhorn
+<END>
+
+Barry: What do you think of it?
+
+Jill: I've been thinking something is wrong with this house.
+
+Barry: Right.
+
+*(Jill looks at the file again.)*
+
+Jill: Hey... What is this? There's a page missing.
+
+Barry: Yeah, I thought about that too. Perhaps that was the most important
+part.
+
+*(Barry then leaves the room. He salutes Jill, who returns the salute; then
+he exits.)*
+
+Scene 9: Moonlight Sonata
+
+*(Jill uses the Music Notes on the Piano. It says [It's "Moonlight Sonata."]
+She plays the piece beautifully. Then a secret trap door opens.)*
+
+Scene 10: Meet Richard
+
+*(Marble Hallway; 2f. Jill walks into the room to see someone lying on the
+floor. She walks over to him. It's Richard Aiken from the Bravo Team!)*
+
+Jill: Richard! What happened? (kneels down by Richard's side)
+
+Richard:  Oh Jill... This house... is... dangerous... There are... terrible
+demons... Ouch! 
+
+Jill: You're wounded! What kind of demon attacked you?
+
+Richard: It was a huge... snake... and also... poisonous. Ugh...
+
+Jill: Poisonous? Oh no... Richard, hold on!
+
+Richard: There is Serum... (pause) Oh no, I should've brought some with me.
+
+Jill: No problem. I'll go and get it.
+
+Richard: Thanks.
+
+*(Jill then runs out of the room.)*
+
+[Extra Click: Talk to Richard again. He will say...]
+
+Richard: Be careful... (Jill nods.)
+
+Scene 11a. Richard Dies (Note: You must return to Richard in under 15 minutes
+to see this cinema.)
+
+*(Marble Hallway; 2f. Jill returns with the Serum. She kneels down by Richard
+once again.)*
+
+Jill: Here's the Serum. Richard, hold on! I'll give you a shot now. 
+
+*(She administers the Serum to Richard.)*
+
+Richard: Jill, here's... my radio... you should... keep it... I'm...
+
+*(He stops moving as blood comes out of his huge wound on his shoulder.)*
+
+Jill: No! Richard!
+
+Richard: Jill... be careful... Uhh... Uh...
+
+*(Richard extends his arm out to Jill, and then he moves no more. He is 
+dead. Jill shakes her head and leaves the room.)*
+
+Scene 11b. Richard is Dead (Note: To get this cinema, you must NOT return to
+Richard with the Serum for 15-20 minutes.)
+
+*(Marble Room, 2f. Jill kneels down by Richard. The message [Richard is 
+dead.] appears. Jill shakes her head. Sad music plays. She doesn't get the
+radio.)*
+
+Scene 12: Meet Yawn the Giant Snake
+
+*(2f Attic. After approaching the middle of the room, a huge snake slides out
+of a hole in the room's rear. It hisses three times, and proceeds to attack
+Jill.)*
+
+*(After shooting it so many times, the snake begins to shiver and proceeds to
+slide back into the hole it first came from, leaving Jill free to collect the
+Moon Crest.)*
+
+Scene 13a: "Get me Serum" (Note: You must be poisoned by the snake and have
+seen cinema 7a.)
+
+*(Jill exits from the 2f Attic. After walking a few steps, she begins to hold
+her head.)*
+
+Jill: (weakly) Am I poisoned? Give me the Serum...
+
+*(Scene ends.)*
+
+Scene 13b: Jill Faints (Note: You must be poisoned by the snake and have 
+seen either cinema 7ba or 7bb.)
+
+*(Jill exits from the 2f Attic. After walking a few steps, she begins to 
+stagger. She leans up against the wall, kneels, and stands up again.)*
+
+Jill: Am I poisoned? Give me the Serum...
+
+*(Jill collapses on the floor. A few seconds later, a door opens, and a man
+in black gloves is seen. She reawakens in the 1f West Save Room and slowly
+gets up.)*
+
+Jill: (yawns) (sleepily) Barry..? (awake) Barry?
+
+*(Scene ends.)*
+
+B. The Dormitory (Guard House)
+------------------------------
+Scene 1(P). Radio Transmission #1 (Note: You must have the radio to see this
+cinema.)
+
+*(In the first area of the Garden. After killing all the dogs, Jill's Radio 
+will begin to beep. She turns it on.)*
+
+Brad: This is Brad. STARS Alpha Team, please respond! What the hell? Is 
+nobody out there?
+
+Jill: (into radio) Brad. This is Jill.
+
+Brad: This is Brad... STARS Alpha Team... Bravo Team... It doesn' matter.
+Anybody... Answer me... This is Brad(fades out)
+
+Jill: Brad? Brad?
+
+*(Scene ends.)*
+
+Scene 2. Draining the Pool CGI
+
+*(After Jill uses the Square Crank, a CGI begins. A rusty metal plate raises
+up, allowing the water to drain out over the opposite side.)*
+
+Scene 3. Muffled Conversation (Note: You must have heard cinema 7a to see 
+this scene.)
+
+*(Dormitory hallway near the #002 Door. Jill stands near, listening.)*
+[Voices are heard from the other side of the door.]
+
+Barry: It can't be true! I've been told a different story.
+
+(pause)
+
+Barry: But it's not necessary for you to destroy STARS!
+
+(pause)
+
+Barry: What about my family?!?
+
+(pause)
+
+Barry: So everything depends on me... Huh?
+
+*(End Scene. You can either choose to enter or not enter. It will affect
+which cinemas you see later on.)*
+
+[Extra : Here is the true conversation... Wesker is in this conversation, but
+is muffled out. Unmuffled, it says...]
+
+Barry: It can't be true! I've been told a different story.
+
+Wesker: Hey, there is nothing we can do. The situation has changed.
+
+Barry: But it's not necessary for you to destroy STARS!
+
+Wesker: It's not my intention! It's Umbrella's. I can't help it.
+
+Barry: What about my family?!?
+
+Wesker: I will guarantee their safety.
+
+Barry: So everything depends on me... Huh?
+
+Scene 4(P): Encounter With Barry (Note: You see this scene if you enter the
+room after hearing the muffled conversation.)
+
+*(Dormitory; Room 002. As she enters, Jill looks around and then walks down
+the hallway, running into Barry.)*
+
+Barry: Hi, Jill.
+
+Jill: Uh, hi, Barry. I, I heard someone talking.
+
+Barry: So you heard it too... I think I'm getting old. It seems that talking
+to myself is becoming a habit.
+
+Jill: Talking to yourself? Barry, something must have happened to you. Am I
+wrong? You sound strange.
+
+Barry: Well, it seems I made you worry. But don't. Maybe I have been a 
+nervous wreck since all of these strange things started happening. Well,
+I think I'll go out and get some fresh air for a change.
+
+*(Barry walks by Jill.)*
+
+Barry: I told ya, don't worry... I'll just go and get some fresh air... and
+be eaten by a monster!
+
+*(Barry exits. Jill holds out her hand as if to stop him. Scene ends.)*
+
+Scene 5(P): Neptune CGI (Note: You must always run to the right in the Broken
+Aquarium room to see this CGI.)
+
+*(As Jill nears the door to the Control Room, the camera view switches to
+something underwater. It seems to be swimming at a rather fast speed. We then
+see Jill from the creature's viewpoint, oblivious to the thing that is 
+coming up behind her...)*
+
+Scene 6a. V-Jolt on Root
+
+*(Jill walks up to Plant 42's root. It says "It looks like a giant plant 
+root." Jill takes out the V-Jolt and uses it on the root. A yellow steam 
+begins to come from the point of contact, and as Jill waves goodbye, the
+root begins to shrink in size and turns brown. It stops contracting and
+stiffens up when it is about half of its original size. When Jill walks up
+to it now, it says "It's withered.")*
+
+Scene 6b. Barry to the Rescue (Note: To see this scene, you must have seen
+either cinema 7ba or 7bb, or not step in after hearing Barry's muffled
+conversation. You must also not use the V-Jolt.)
+
+*(Plant 42 Room. As Jill shoots Plant 42, its tentacles fall off. Once a few
+have fallen off, it contracts into a smaller ball. As it opens back up into
+its original size, one of the tentacles grabs out and snatches Jill up. Barry
+then walks in.)*
+
+Barry: What the hell is this?
+
+Jill: Barry! 
+
+Barry: Jill!
+
+*(Barry then walks up to Plant 42 and begins to fire his flamethrower at it.
+It begins to burn. It throws Jill to the ground, and dies burning, its purple
+remains falling into a puddle on the floor.)*
+
+Jill: You saved me!
+
+Barry: Yeah...
+
+Jill: That was close! Thanks, Barry.
+
+Barry: Don't mention it. What a monster! I can't believe--What the hell is
+this place, anyway?
+
+[Extra Click: Talk to Barry again, and he'll say...]
+
+Barry: Okay, I'm gonna stay in the Soldier's Area and take a look around.
+Though I'm sure there are still things in that other mansion as well. Anyway,
+let's start searching seperately.
+
+Jill: Okay.
+
+Scene 7. Reunite With Wesker
+
+*(Dormitory Hallway. Gunshots can be heard. Jill follows the sound to find
+Wesker shooting bees.)*
+
+Jill: Wesker!
+
+Wesker: Jill... so you're safe.
+
+Jill: That's what I was going to say. Where on earth have you been? You
+disappeared from the hall all of a sudden.
+
+Wesker: I'm sorry, but I have my reasons. Perhaps you guys have met them?
+It was all I could do to protect myself against those... strange creatures.
+
+Jill: Is that right? Anyway, it's good to see you're safe.
+
+Wesker: Jill, our first priority is to get out of here.
+
+Jill: Yes, you're right.
+
+Wesker: Now there are a lot of rooms in that mansion that we can't get into
+because they're locked up. I have been looking around for clues...
+
+Jill: Okay, I'll go to the other house and see if I can find any clues.
+
+Wesker: Will you do that? I'm counting on you.
+
+*(Wesker walks away. Scene ends.)*
+
+8(P). Radio Transmission #2 (Note: Must have Radio to see this cinema.)
+
+*(Outside the Dormitory entrance, in the Garden. The radio beeps. Jill turns
+it on.)*
+
+Brad: This is Brad. I know you can't answer me, but somehow, give me a sign.
+
+Jill: (into radio) This is Jill. Brad? (angry moan) It's broken...
+
+C. Return to the Mansion
+------------------------
+
+Scene 1. Hunter CGI
+
+*(After returning inside the mansion, primarily the room that leads to the
+terrace path right before exiting the mansion, the view switches. Something
+seems to be pursuing Jill! It quickly climbs the ladder near the elevator in
+the Courtyard, runs toward the shed (which has no door), runs into it, opens 
+the door, runs through the terrace, and grasps the handle into the next 
+room... *CGI ENDS* Jill turns around to see a Hunter calmly walking through
+the door...)*
+
+Scene 2. Snake Confrontation
+
+*(Jill is in a big, sparsely furnished room with a tile floor. The only 
+objects in the room are a fireplace, a piano, and a small table-and-chair
+set. Jill walks over to the piano. As she begins to check it, the huge snake
+previously encountered in the attic slides out of the fireplace! It seems to
+be scarred from its last encounter with Jill, seeing that in some places its
+muscle is showing. It hisses, recognizing her. It strikes at Jill, but she
+dodges just in time, with the snake's strike caving in a section of the
+floor. The battle begins...)*
+
+Scene 3a. Meet with Barry A
+
+*(After killing the snake, it dissolves into a pile of purple goo. Jill then
+investigates the hole the snake made. It says "It's too dark to see 
+anything." Barry then enters the room. Jill gets up from her investigating
+crouch. Barry walks over to the hole and crouches down.)*
+
+Barry: Jill, have you found anything interesting?
+
+Jill: Yes, but I can't see very well.
+
+Barry: How about going down to check by yourself? I have a rope here.
+
+Jill: Oh, do you? Well then I'll try to go down using the rope.
+
+Barry: Wait. 
+
+*(Barry tosses the rope down into the hole. Jill climbs down. But once she is
+down, the rope falls!)*
+
+Jill: Hey, what's going on?
+
+*(Camera switch to Barry up above)*
+
+Barry: Now I've done it! Sorry, Jill, wait. I'll go and get another rope.
+
+*(He exits. Camera switch back to Jill)*
+
+Jill: Barry? Barry!
+
+(Note: You can now either head down into the basement or wait for Barry. If
+you don't wait, Barry will die in the Lab area.)
+
+*(Jill waits. Camera switch to Barry, who returns to the room. Camera
+switches back to Jill.)*
+
+Barry: Hey, are you there, Jill? Grab the rope!
+
+*(Camera switches back to Barry, who throws it down the hole. Jill climbs
+it. Both are now in the Piano Room.)*
+
+Barry: I'm sorry, Jill.
+
+Jill: I didn't know THAT was going to happen.
+
+Barry: Sorry. I was really careless.
+
+Jill: Are you okay, Barry? Maybe you're getting tired.
+
+Barry: No, I'm alright. Don't worry. (pause) Jill, I've found something!
+
+*(Jill walks over and takes it from him. It reads...)*
+
+<BEGIN>
+PASS NUMBER
+<PAGE>
+*(picture of pass number scrawled
+on piece of paper. It says...)*
+Pass No.
+8108310
+<END>
+
+Jill: Thank you. I'll take this then.
+
+*(Barry leaves the room.)*
+
+Scene 3b. Meet with Barry B
+
+*(After killing the snake, it dissolves into a pile of purple goo. Jill then
+investigates the hole the snake made. It says "It's too dark to see 
+anything." Barry then enters the room. Jill gets up from her investigating
+crouch. Barry walks over to the hole and crouches down.)*
+
+Barry: Jill, have you found anything interesting?
+
+Jill: Yes, but I can't see very well.
+
+Barry: How about going down to check by yourself? I have a rope here.
+
+Jill: Oh, do you? Well then I'll try to go down using the rope.
+
+Barry: Wait. 
+
+*(Barry tosses the rope down into the hole.)*
+
+Barry: Yeah, Richard gave this to me. The radio is a keepsake from him.
+
+Jill: Richard... *(She takes the Radio.)*
+
+Barry: This is more useful to you than me. Ready to go? *(Jill nods. Then
+Jill climbs down. But once she is down, the rope falls!)*
+
+Jill: Hey, what's going on?
+
+*(Camera switch to Barry up above)*
+
+Barry: Now I've done it! Sorry, Jill, wait. I'll go and get another rope.
+
+*(He exits. Camera switch back to Jill)*
+
+Jill: Barry? Barry!
+
+(Note: You can now either head down into the basement or wait for Barry. If
+you don't wait, Barry will die in the Lab area.)
+
+*(Jill waits. Camera switch to Barry, who returns to the room. Camera
+switches back to Jill.)*
+
+Barry: Hey, are you there, Jill? Grab the rope!
+
+*(Camera switches back to Barry, who throws it down the hole. Jill climbs
+it. Both are now in the Piano Room.)*
+
+Barry: I'm sorry, Jill.
+
+Jill: I didn't know THAT was going to happen. 
+
+Barry: Sorry. I was really careless.
+
+Jill: Are you okay, Barry? Maybe you're getting tired.
+
+Barry: No, I'm alright. Don't worry. (pause) Jill, I've found something!
+
+*(Jill walks over and takes it from him. It reads...)*
+
+<BEGIN>
+PASS NUMBER
+<PAGE>
+*(picture of pass number scrawled
+on piece of paper. It says...)*
+Pass No.
+8108310
+<END>
+
+Jill: Thank you. I'll take this then. 
+
+*(Barry leaves the room.)*
+
+Scene 4. Zombie CGI #2
+
+*(Jill is in the Basement Kitchen. She approaches the door in the far corner.
+*CGI START* Zombie viewpoint. He walks down the stairs slowly, making
+squelching noises with each step. As he reaches the bottom, he struggles with
+the doorknob, finally managing to get it open. His rotten hand is seen...
+*CGI END* Jill backs off as the zombie walks through the door...)*
+
+D. The Underground Tunnels
+--------------------------
+
+Scene 1. Trust Barry?
+
+*(The second Underground Passageway. As Jill enters, Barry is there. He turns
+around to face her.)*
+
+Barry: Oh, Jill. What good timing. A moment ago I heard someone's voice
+coming from this hall. Let's go together, since it's dark, and we can't see
+very well.
+
+(Note: Now you must make two choices that will affect the outcome of
+your game.)
+
+Scene 1a. Yes-Yes
+
+[Will you go with him? YES]
+
+Jill: Okay, let's go.
+
+Barry: Okay. Then I'm gonna cover you. Let's hurry! *(Jill looks down.)*
+Hey, are you alright? I can go first if you want me to.
+
+[Do you want him to go first? YES]
+
+Jill: Oh, yes, please. I'm a little nervous.
+
+Barry: I understand. It may be more dangerous if you come behind me. Be
+careful! *(Barry walks off. As Jill walks forward to follow him, a gunshot
+is heard.)*
+
+Jill: Barry?
+
+(Note: Here, you can either go follow him, or run out back through the door
+you entered. If you do not follow him, Barry will die in these tunnels.)
+
+*(Jill follows him into the next room. As she enters next to Barry, a Hunter
+attacks. It leaps into the air, but Barry shoots it down. He then pounds a
+round into it while it lays on the floor. It dies.)*
+
+Barry: That was too close. Let's go together.
+
+Jill: (nods) Okay, let's go!
+
+Barry: Okay, then I'm gonna cover you. Let's hurry! *(They continue. Scene
+ends.)*
+
+Scene 1b. Yes-No
+
+[Will you go with him? YES]
+
+Jill: Okay, let's go.
+
+Barry: Okay. Then I'm gonna cover you. Let's hurry! *(Jill looks down.)*
+Hey, are you alright? I can go first if you want me to.
+
+[Do you want him to go first? NO]
+
+Jill: Okay, let's go, Barry. I'm depending on you.
+
+*(They walk through the next room with little trouble. As they near the door
+to the Enrico Passage, a Hunter jumps down from across the hallway. As it
+runs toward the two, Barry shoots it twice and it dies. They proceed into the
+next room.)*
+
+Scene 1c. No-Yes
+
+[Will you go with him? NO]
+
+Jill: Barry, I...
+
+Barry: Sure, it may be dangerous. I'll go, even if I have to go by myself.
+Will you be waiting here, Jill?
+
+[Will you stay here? YES]
+
+Jill: I'm sorry.
+
+Barry: It's okay. I'm going now. *(Barry salutes her and walks off. Jill won't
+see him again until the Wesker confrontation in the lab. Barry dies
+afterwards.)*
+
+Scene 1d. No-No
+
+[Will you go with him? NO]
+
+Jill: Barry, I...
+
+Barry: Sure, it may be dangerous. I'll go, even if I have to go by myself.
+Will you be waiting here, Jill?
+
+[Will you stay here? NO]
+
+Jill: Barry, I think I'll take some other route. 
+
+Barry: I see. Yeah, maybe you should. Be careful! *(Barry salutes her and 
+walks off. As Jill walks forward, a gunshot is heard.)*
+
+Jill: Barry?
+
+(Note: Here, you can either save him, and the events described above in 1b
+will happen, or you can run away and let him die in the tunnels.)
+
+Scene 2a. Meet Enrico A
+
+*(Jill walks past the turning point of the room. Barry is also in the room.)*
+
+Enrico: Is that Jill?
+
+Jill: Is that voice Enrico's?
+
+Enrico: Yeah.
+
+Jill: You're alive!
+
+Enrico: (interrupting) Wait there! Are you with anybody, Jill?
+
+*(The camera angle changes, giving us our first glimpse of Enrico. He is
+sitting down.)*
+
+Jill: What? Oh yes. *(Barry walks over.)*
+
+Barry: Enrico! *(He walks closer to join Jill.)*
+
+Enrico: So, Barry and Jill together. 
+
+Barry: Are you alright, Enrico?
+
+Enrico: The S.T.A.R.S. are doomed. Someone is a traitor. (The camera zooms
+in on Enrico) Everything was plotted from the start by Umbrella...
+
+*(A gunshot is heard, and blood flies from Enrico's head. He cries out in
+pain, and slumps over to the ground. Barry runs over to him.)*
+
+Jill: Enrico!!
+
+*(Jill turns her head. Footsteps are heard running away...)*
+
+[Extra click: If you click on Barry, it says [Barry is investigating...]]
+
+Scene 2b. Meet Enrico B
+
+*(Jill walks past the turning point of the room.)*
+
+Enrico: Is that Jill?
+
+Jill: Is that voice Enrico's?
+
+Enrico: Yeah.
+
+Jill: You're alive!
+
+Enrico: (interrupting) Wait there! Are you with anybody, Jill?
+
+*(The camera angle changes, giving us our first glimpse of Enrico. He is
+sitting down.)*
+
+Jill: Wha, What? Oh, no; I'm alone. But why are you asking?
+
+Enrico: Listen, the S.T.A.R.S. are going to be finished soon. Someone is a 
+traitor. (Camera closeup on Enrico) Everything was plotted from the start by
+Umbrella... 
+
+*(A gunshot is heard, and blood flies from Enrico's head. He cries out in
+pain, and slumps over to the ground. Footsteps are heard from someone 
+running away. Jill turns her head.)*
+
+Jill: Enrico! Who killed him, I wonder?
+
+[Extra Click: If you click on Enrico, it'll say [He couldn't have moved 
+because of this injury... He's holding something.]]
+
+Scene 3(P). Barry Dies #1
+
+*(Jill returns to the first underground tunnel. Barry is lying on the floor.
+Jill kneels down next to him.)*
+
+Jill: What happened?
+
+Barry: Uhh... I'm really... embarrassed... I was... clumsy... 
+
+Jill: Oh, you don't have to talk. I'm going to give you first aid!
+
+Barry: Maybe... my time's come... Jill... take this... I've been cheating...
+you all... from the start... If you can... forgive me... Would you... please
+give this to my family... (Jill nods) And if you can... please... try... to
+protect them...
+
+Jill: What do you mean by that, Barry? Don't give up!
+
+Barry: Uhh... Jill... be careful of that guy... (gasps) Please... stay
+alive... (convulses, gives his last sigh, and dies)
+
+*(Jill puts her hand to her mouth and reads what Barry gave her. It says...)*
+
+<BEGIN>
+BARRY'S PICTURE
+<PAGE>
+*(picture of Barry smiling,
+holding up one of his daughters
+with his other daughter hugging
+his wife. In black and white.)*
+<PAGE>
+Barry's Picture.
+Something is written on the back
+of the picture.
+<PAGE>
+" My dearest Moira and Poly
+
+I hope you will grow up to be
+strong and beautiful women and
+help to cheer up mother.
+
+Your father will watching you
+all from heaven.
+
+                       Dad "
+<END>
+
+*(Jill stands up and salutes him. Scene ends.)*
+
+E. The Umbrella Lab
+-------------------
+
+Scene 1. Draining the Fountain CGI
+
+*(After Jill inserts the Wolf and Eagle Medals into the fountain, a CGI 
+begins. *CGI START* The camera pans around the fountain, whose
+water drains through what seems like an opening in the bottom of the
+fountain. One side of the fountain then divides in half, allowing Jill
+access to walk beyond. *CGI END*)*
+
+Scene 2. Slideshow
+
+*(Jill inserts the slides into the machine.
+Slide 01: The Umbrella logo outlined in a black rectangle is seen.
+Below it the words "Bio-Organic Weapon" appear. On the next line
+it says "Official Report". The text reads
+["Umbrella Inc."
+Bio-weapon Materials"]
+Slide 02: The top of the slide reads "MA-39 CERBERUS".
+A large picture of the zombie dog is on the left. A smaller picture 
+of its head is in the bottom-right. The text reads
+["MA-39 Cerberus"]
+Slide 03: The top of the slide reads "Fi-3 NEPTUNE".
+A large picture of the mutated shark is on the left. A close-up
+of its head is in the bottom-right corner. The text reads
+["Fi-3 Neptune"]
+Slide 04: The top of the slide reads "MA-121 HUNTER".
+A large picture of the creature is on the left. A close-up of
+its head is in the bottom-right corner. The text reads
+["MA-121 Hunter"]
+Slide 05: The top of the slide reads "T-002 TYRANT".
+A vague outline of the creature, highlighting its various
+features are on the left. In the middle-right, a bar graph
+is seen. The text reads ["T-002 Tyrant"]
+Slide 06: A blank slide.
+Slide 07: A picture of five men wearing labcoats. The left
+man has black slicked-back hair. The next man with brown
+hair is not quite looking at the camera. The next person, a
+woman, is looking at the camera with an icy stare. The 4th
+man has messy black hair. The last man has blond, slicked-
+back hair, and he is wearing sunglasses...
+*(The slides end.)*
+
+Scene 3(P). Meet with Chris (Note: You must have the 3
+passcodes, and talk to Chris prior to setting off the self-
+destruct or using the Master Key to see this scene.)
+*(Jill walks over to the prison door and tries to open it.)*
+
+Chris: Jill? Is that you, Jill?
+
+Jill: Oh Chris! You're alive!
+
+Chris: (walks over to the cell door window) Of course.
+Dammit, we're in quite a predicament, Jill.
+
+Jill: I know, Chris. Anyway, I have to open this room.
+*(She bangs on the handle twice, and moans.)* 
+It doesn't work! Well, Chris, I'll be sure to come back
+and help you soon. Will you wait here?
+
+Chris: Thanks! I'll be waiting here for you.
+
+*(Scene ends.)*
+
+Scene 4a. Rejoin with Barry 1
+
+*(As Jill activates the switch to the B4 Elevator, someone
+talks.)*
+
+Barry: Jill!
+
+*(He walks over to her.)*
+
+Barry: Jill, you're here too?
+
+Jill: Yes, you're here too?
+
+Barry: Look, uh, I lost my way.
+
+Jill: Let's get going!
+
+*(They get into the elevator.)*
+
+Scene 4b. Rejoin with Barry 2 (Note: You must have not waited for 
+Barry to bring back the rope in order to see this cinema.)
+
+*(As Jill activates the switch to the B4 Elevator, someone talks.)*
+
+Barry: Jill!
+
+*(He walks over to her.)*
+
+Barry: I was looking for you.
+
+Jill: Barry...
+
+Barry: Jill... Don't be angry. I wanted you to wait for me.
+
+Jill: Barry, don't screw up again like you did when you dropped that
+rope.
+
+*(They enter the elevator. Scene ends.)*
+
+Scene 5a. Wesker Conversation 1 (Note: You must have 
+either not waited for Barry after he dropped the rope or 
+answered No-Yes to his questions in the Underground 
+to see this cinema.)
+
+*(The two get off the elevator. Barry slows down and 
+lets Jill get ahead of them. After they turn the corner, they
+find Wesker waiting. Barry points his gun at Jill's head.)*
+
+Jill: Wesker?
+
+Wesker: You did a fine job, Barry.
+
+Jill: Just as I thought...
+
+Wesker: I think you should stay away from Barry, Jill. 
+I hear that his wife and two daughters will be in danger if he
+doesn't do everything I tell him to.
+
+Jill: You are so cruel...
+
+Wesker: Well, you don't have to worry about anything,
+because you'll be free from this world very soon, Jill.
+
+Jill: Why do you have to destroy S.T.A.R.S?
+
+Wesker: That's Umbrella's intention. This laboratory has
+been engaging in dangerous experiments, and recently
+an accident has occurred. Anyway, this disaster cannot
+be made public.
+
+Jill: That's why having S.T.A.R.S. nosing about is so
+inconvenient. So you're a slave of Umbrella now, along
+with these virus monsters.
+
+Wesker: I think you misunderstand me, Jill. To me, the
+monsters you mention mean nothing. I'm going to burn
+all of them together, with this entire laboratory. I must
+complete my mission, as ordered by Umbrella. Barry,
+go up on the ground and wait there.
+
+*(Barry begins to walk away.)*
+
+Jill: Barry!
+
+*(He hangs his head in shame and walks offscreen.)*
+
+Wesker: Barry's such a fool. He'll be under the control
+of Umbrella forever.
+
+Jill: How come both Umbrella and you can intimidate 
+him, by taking his family as hostages?
+
+Wesker: Umbrella? Well, I intimidated him, but it had 
+nothing to do with Umbrella. I just used him for my
+personal purposes, though both you and Barry seemed
+to think I was following orders from Umbrella.
+
+Jill: So you're planning something else?
+
+Wesker: If you succeeded in developing the world's most
+powerful biological weapon, what would you do? What if
+you were in charge?
+
+Jill: You must stop this now.
+
+Wesker: You're a brave girl. But if I were you, I wouldn't
+give up such a big discovery. You guys are idiots. No one
+understands its real value. 
+
+Jill: So, you're going to steal all the research?
+
+Wesker: Better yet. I'm going to show you the Tyrant.
+
+*(Wesker leads her into the next room. Wesker is pointing
+his gun at the back of Jill's head. Camera angle switches to
+that of what's inside the stasis tube. Jill takes a step back
+at what she sees... Scene ends.)*
+
+Scene 5b. Wesker Conversation 2 (Note: You must have 
+waited for Barry in the Mansion after the snake encounter
+and either answer Yes-No in the Underground, or answer
+Yes-Yes or No-No, and then go after Barry when you hear
+the gunshots.)
+
+*(The two get off the elevator. Barry slows down and 
+lets Jill get ahead of them. After they turn the corner, they
+find Wesker waiting. Barry points his gun at Jill's head.)*
+
+Jill: Wesker?
+
+Wesker: You did a fine job, Barry.
+
+Jill: Just as I thought...
+
+Wesker: I think you should stay away from Barry, Jill. 
+I hear that his wife and two daughters will be in danger if he
+doesn't do everything I tell him to.
+
+Jill: You are so cruel...
+
+Wesker: Well, you don't have to worry about anything,
+because you'll be free from this world very soon, Jill.
+
+Jill: Why do you have to destroy S.T.A.R.S?
+
+Wesker: That's Umbrella's intention. This laboratory has
+been engaging in dangerous experiments, and recently
+an accident has occurred. Anyway, this disaster cannot
+be made public.
+
+Jill: That's why having S.T.A.R.S. nosing about is so
+inconvenient. So you're a slave of Umbrella now, along
+with these virus monsters.
+
+Wesker: I think you misunderstand me, Jill. To me, the
+monsters you mention mean nothing. I'm going to burn
+all of them together, with this entire laboratory. I must
+complete my mission, as ordered by Umbrella. Barry,
+go up on the ground and wait there.
+
+*(Barry begins to walk away.)*
+
+Jill: Barry!
+
+*(He hangs his head in shame and walks offscreen.)*
+
+Wesker: Barry's such a fool. He'll be under the control
+of Umbrella forever.
+
+Jill: How come both Umbrella and you can intimidate 
+him, by taking his family as hostages?
+
+Wesker: Umbrella? Well, I intimidated him, but it had 
+nothing to do with Umbrella. I just used him for my
+personal purposes, though both you and Barry seemed
+to think I was following orders from Umbrella.
+
+Jill: So you're planning something else?
+
+Wesker: If you succeeded in developing the world's most
+powerful biological weapon, what would you do? What if
+you were in charge?
+
+Jill: You must stop this now.
+
+Wesker: You're a brave girl. But if I were you, I wouldn't
+give up such a big discovery. You guys are idiots. No one
+understands its real value. 
+
+Jill: So, you're going to steal all the research?
+
+Wesker: Better yet. I'm going to show you the Tyrant.
+
+*(He walks over behind Jill, pointing his gun at her as
+she walks forward. Suddenly, Barry steps out from 
+behind the corner and pistol-whips Wesker on the 
+back of the head. He groans and collapses onto the
+floor, unconscious.)*
+
+Jill: Barry!
+
+Barry: Sorry, Jill. 
+
+Jill: How is your family?
+
+Barry: Uh, I was listening to what you and Wesker were
+talking about. I wish I'd realized it earlier. I thought it
+must have something to do with Umbrella, ya know...
+(pause) So it's all been masterminded by him!
+
+Jill: But it's good that you know that now. Anyway, let's
+get out of this house first.
+
+Barry: Jill!
+
+Jill: Yes, what?
+
+Barry: Do you have any idea what Wesker was going to
+show you, at the back of this place?
+
+Jill: Well, he was talking about the world's most powerful
+biological weapon, called Tyrant, or something, I-I think.
+
+Barry: Do you think we could see Tyrant now?
+
+Jill: Barry, you're so optimistic.
+
+Barry: (raising his weapon) It would look bad for S.T.A.R.S.
+if we let such a dangerous creature run loose...
+
+Jill: Maybe you're right. Let's go then.
+
+*(They walk into the next room. As Jill sees the Tyrant in
+the stasis tube, she freezes. Barry looks around, sees it, and
+clutches his weapon. End scene.)*
+
+Scene 5c. Wesker Conversation 3 (Note: Barry must already
+be dead in order to see this cinema.)
+
+*(Jill walks down the hallway. She turns past the center and
+sees none other than Wesker standing there. )*
+
+Jill: Wesker?
+
+Wesker: Barry is no longer useful.
+
+Jill: Just as I thought. You are the man behind all of this.
+
+Wesker: Hah hah heh heh.
+
+Jill: Why do you have to destroy S.T.A.R.S?
+
+Wesker: That's Umbrella's intention. This laboratory has
+been engaging in dangerous experiments, and recently
+an accident has occurred. Anyway, this disaster cannot
+be made public.
+
+Jill: That's why having S.T.A.R.S. nosing about is so
+inconvenient. So you're a slave of Umbrella now, along
+with these virus monsters.
+
+Wesker: I think you misunderstand me, Jill. To me, the
+monsters you mention mean nothing. I'm going to burn
+all of them together, with this entire laboratory. I must
+complete my mission, as ordered by Umbrella.
+
+Jill: So you're planning something else?
+
+Wesker: If you succeeded in developing the world's most
+powerful biological weapon, what would you do? What if
+you were in charge?
+
+Jill: You must stop this now.
+
+Wesker: You're a brave girl. But if I were you, I wouldn't
+give up such a big discovery. You guys are idiots. No one
+understands its real value. 
+
+Jill: So, you're going to steal all the research?
+
+Wesker: Better yet. I'm going to show you the Tyrant.
+
+*(Wesker leads her into the next room. Wesker is pointing
+his gun at the back of Jill's head. Camera angle switches to
+that of what's inside the stasis tube. Jill takes a step backwards at
+what she sees... Scene ends.)*
+
+Scene 6. Tyrant CGI
+
+*(Jill is seen standing in front of a large stasis tube with a
+huge creature inside. The camera pans across its grey face
+covered with reddish veins. Its eyes are still shut... The 
+camera then switches to a view of its beating heart, which is 
+abnormally large, and outside of its chest cavity. It then
+pans to a view of its right hand, whose fingers twitch...)*
+
+Scene 7a. Wesker's Death
+
+*(Wesker talks as he makes his way over to a control
+panel.)*
+
+Wesker: Tyrant virus is a super virus; which creates a
+monster which is much stronger than human beings.
+Tyrant is the most powerful biological weapon in the
+world.
+
+Jill: You don't mean you're experimenting on... real people?
+
+Wesker: This is really beautiful. All this power will be 
+mine...
+
+Jill: For the sake of an awful creature?
+
+Wesker: Don't be upset. All weak people exist to be
+eaten.
+
+*(He then goes over to the control console and taps
+a few buttons. The stasis tube drains, and Tyrant
+begins to bash the glass, which cracks. After two
+hits, the glass shatters. The Tyrant roars and leaps
+out into a waiting stance and looks at Jill. Then,
+however, it looks at Wesker. While it's advancing on
+him, he says...)*
+
+Wesker: What? Don't come this way! (He reaches for
+the control panel, but is skewered by the Tyrant's huge
+claw.) No!!!! 
+
+*(The Tyrant drops his corpse to the floor. The Master
+Key flies out of his pocket onto the floor. Tyrant then
+turns to face Jill...)*
+
+Jill: It can't control what it does.
+
+*(She then proceeds to fight the Tyrant...)*
+
+Scene 7b. No! Not Barry!
+
+Jill: Can a creature like this really be the ultimate 
+biological weapon?
+
+Barry: Really. Wesker is a crazy man! 
+
+Jill: Tyrant is not completely developed.
+
+Barry: But we can't let it live! (looks at the panel)
+That must be the computer for monitoring this
+creature!
+
+*(Barry walks over to the control panel and begins
+tapping at the buttons. The stasis tube drains, and the
+Tyrant hits the glass with its palm, which cracks. It then
+jumps out of the tube, and roars. It stands up and looks
+at Barry.)*
+
+Barry: Damn you!
+
+*(He raises his Colt Python at the creature, but he is too
+slow. It rakes him with his huge claw hand, sending him
+collapsing onto the floor.)*
+
+Jill: (as the Tyrant looks at her) It can't control what it
+does.
+
+*(Jill confronts the Tyrant in battle and in staying away 
+from the creature and firing, she gains an easy win, as 
+the creature slowly slumps to the floor. She then returns
+to check on Barry.)*
+
+Jill: Barry? Barry!
+
+*(He slowly gets up, moaning.)*
+
+Jill: You're alive!
+
+Barry: I'm really... embarrassed... I was... clumsy.
+
+Jill: Let's get going.
+
+*(Barry nods. Scene ends.)*
+
+Scene 8(P). Warning Announcement (Note: You must
+have seen cinema 7b in order to see this cinema.)
+
+*(Barry and Jill exit the Tyrant room. As they do, they
+notice Wesker is gone.)*
+
+Jill: What happened to Wesker?
+
+*(An alarm goes off)*
+
+Voice: The Triggering System has now been activated.
+All researchers stand by to take cover immediately...
+Unlock all routes for evacuation...
+
+Barry: Wesker must've set it off... There isn't much time
+left for us...
+
+*(They run for the elevator. After they go up, Barry 
+holds up his weapon, cocks it, and runs off. End 
+Cinema.)*
+
+Scene 9a(P). Save Chris 1 (Note: You must have previously
+spoken with Chris to see this cinema.)
+
+*(Jill enters the Prison Cell. She waves to Chris.)*
+
+Chris: Oh, Jill! (runs up to Jill)
+
+Jill: Sorry for keeping you waiting!
+
+Chris: So, everything is done? 
+
+Jill: Well, almost, yes. Now let's go!
+
+*(They exit the room.)*
+
+Scene 9b(P). Save Chris 2 (Note: You must have not yet
+talked with Chris in order to see this cinema.)
+
+*(Jill enters the Prison Cell. She waves to Chris.)*
+
+Chris: Oh Jill!
+
+Jill: Oh Chris! So you're okay!
+
+*(Chris runs up to Jill.)*
+
+Chris: Yeah! You too! What happened to Wesker?
+
+Jill: Let's talk about it later. Let's get out of here!
+
+*(They exit the room.)*
+
+Scene 10(P)a. Barry Dies #2 (No Chris) (Note:
+you must have either not waited for Barry in the
+Mansion, or answer No-Yes to his question in 
+the Underground, and not have rescued Chris in
+order to see this cinema.)
+
+*(Jill enters the 2f Storage Chest Room. Barry is 
+laying to the right of the chest. She runs over to
+him.)*
+
+Barry: Hi... Jill... It's you...
+
+Jill: Barry?
+
+Barry: I'm... really embarrassed... to see you now.
+Just... just leave me. Go... go quickly.
+
+Jill: It's over, Barry. Wesker's dead.
+
+Barry: Is that so? (pause) Jill, will you do me a 
+favor? This is my last... wish. Please... give...
+this photo to my... family... Will you?
+
+Jill: Sure.
+
+Barry: Forgive me... Jill...
+
+*(He sighs his last breath and slumps over on
+the floor. Jill reaches out to him, hides her head
+in sorrow, then looks at the picture Barry gave 
+to him. It says...)*
+
+<BEGIN>
+BARRY'S PICTURE
+<PAGE>
+*(picture of Barry smiling,
+holding up one of his daughters
+with his other daughter hugging
+his wife. In black and white.)*
+<PAGE>
+Barry's Picture.
+Something is written on the back
+of the picture.
+<PAGE>
+" My dearest Moira and Poly
+
+I hope you will grow up to be
+strong and beautiful women and
+help to cheer up mother.
+
+Your father will watching you
+all from heaven.
+
+                       Dad "
+<END>
+
+*(Jill stands up. Scene ends.)*
+
+*(Extra Click : Click on Barry's corpse. It'll say...
+[He must have been attacked by those 
+monsters.] Which refers to the Chimera that 
+are downstairs.)*
+
+Scene 10(P)b. Barry Dies #2 (With Chris) (Note:
+you must have either not waited for Barry in the
+Mansion, or answer No-Yes to his question in 
+the Underground, and  you have to rescue Chris
+in order to see this cinema.)
+
+*(Jill walks into the 2f Storage Chest Room. Chris
+is kneeling next to Barry, who is sitting down 
+against the wall. Jill runs over.)*
+
+Chris: Jill!
+
+Barry: Hi... Jill... It's you...
+
+Jill: Barry?
+
+Barry: I'm... really embarrassed... to see you now.
+Just... just leave me. Go... go quickly.
+
+Jill: It's over, Barry. Wesker's dead.
+
+Barry: Is that so? (pause) Jill, will you do me a 
+favor? This is my last... wish. Please... give...
+this photo to my... family... Will you?
+
+Jill: Sure.
+
+Barry: Forgive me... Jill...
+
+*(He sighs his last breath and slumps over on
+the floor. Chris steps forward from his corner.)*
+
+Chris: My God!
+
+*(Jill reaches out to Barry, hides her head
+in sorrow, then looks at the picture Barry gave 
+to him. It says...)*
+
+<BEGIN>
+BARRY'S PICTURE
+<PAGE>
+*(picture of Barry smiling,
+holding up one of his daughters
+with his other daughter hugging
+his wife. In black and white.)*
+<PAGE>
+Barry's Picture.
+Something is written on the back
+of the picture.
+<PAGE>
+" My dearest Moira and Poly
+
+I hope you will grow up to be
+strong and beautiful women and
+help to cheer up mother.
+
+Your father will watching you
+all from heaven.
+
+                       Dad "
+<END>
+
+Jill: Let's get going, Chris. We can't stop.
+
+*(Cinema ends.)*
+
+Scene 11a. Barry's Rush
+
+*(Jill walks into the 1f of the Lab Complex. Barry is there.)*
+
+Barry: Hurry!
+
+*(They exit into the next room.)*
+
+Scene 11b. Barry and Chris's Rush
+
+*(Jill walks into the 1f of the Lab Complex. Barry and Chris are
+there.)*
+
+Barry: Hurry!
+
+*(The three exit into the next room.)*
+
+Scene 12. Radio Transmission #3
+
+*(In the Heliport passage, Jill's radio intercepts a transmission from
+Brad.)*
+
+Brad: This is Brad... Running out of fuel... If there is anyone alive, contact
+me now, okay? This is the last time... (fades out)
+
+*(End scene.)*
+
+Scene 13a. Chris's Encouragement
+
+*(Jill puts the Battery into the slot. A monster screams at the other end of
+the tunnel.)*
+
+Jill: Oh no, you must be kidding! After we've come all the way here!
+
+Chris: Ladies first! Go first, Jill!
+
+Jill: But, Chris!
+
+Chris: Give me a chance to play nice guy.
+
+Jill: Okay, I leave it up to you. See you again at the heliport.
+
+*(Jill walks into the elevator. Scene ends.)*
+
+Scene 13b. Barry's Encouragement
+
+*(The Alarm is going off. Jill puts the Battery into the slot.)*
+
+Voice: There is three minutes until explosion.
+
+*(A monster screams at the other end of the tunnel.)*
+
+Barry: Dammit! We have only one more step to go! Okay, I'll go. Jill, you
+try to contact Brad. 
+
+*(Barry raises his Colt Python at the noise)*
+
+Jill: Okay!
+
+*(Jill walks into the elevator. Scene ends.)*
+
+Scene 13c. Survivors' Encouragement
+
+*(The Alarm is going off. Jill puts the Battery into the slot.)*
+
+Voice: There is three minutes until explosion.
+
+*(A monster screams at the other end of the tunnel. Barry raises his
+Colt Python at the noise.)
+
+Jill: Oh no, you must be kidding! After we've come all the way here!
+
+Chris: Ladies first! Go first, Jill!
+
+Jill: But, Chris!
+
+Chris: Give me a chance to play nice guy.
+
+Jill: Okay, I leave it up to you. See you again at the heliport.
+
+*(Jill walks into the elevator. Scene ends.)*
+
+Scene 14a(P). Return of Tyrant (Note: You must save Barry and Chris or only 
+Barry to see this cinema.)
+
+*(Jill arrives on the heliport. She sets off a flare. After a while, Brad
+flies overhead. As he is preparing to land, the camera angle switches.
+Suddenly, something bursts through the pavement, sending hunks of gravel
+flying. The Tyrant has followed Jill here... He utters a roar and runs toward
+Jill...)*
+
+Scene 14b(P). Helicopter Pickup (Note: You must be alone or rescue only
+Chris to see this cinema.)
+
+*(Jill arrives on the heliport. She sets off a flare. After a while, Brad
+flies overhead. He has come to rescue Jill! He hovers overhead, and the screen
+fades to black...)*
+
+Scene 15(P). Brad's Gift (Note: You must save Barry and Chris or only Barry
+to see this cinema.)
+
+*(A large Rocket Launcher is thrown from the helicopter.)*
+
+Brad: It's coming! Jill, kill that monster! You're a(n) Amazon, Jill!
+
+*(End cinema.)*
+
+Scene 16(P). Death of A Tyrant (Note: You must save Barry and Chris or only
+Barry to see this cinema.)
+
+*(Jill picks up the launcher and fires it at the Tyrant. The rocket is then
+seen flying at the Tyrant through three different camera angles before it
+actually hits the Tyrant square in the chest. It explodes into small chunks--
+a claw, a hand, a head, two legs... the screen fades to black.)*
+
+ENDINGS
+-------------
+
+Scene 17a. Ending A-Jill (Note: You must save no one to get this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off into a cloudy sky. 
+ A view is seen of the Mansion complex below, which stays as it
+was when the S.T.A.R.S. discovered it. Jill is sitting alone in the back of
+the helicopter. She caresses her forehead, takes off her barret, shakes 
+her hair into place, runs her hand over her hair, and looks at the floor. The
+camera angle changes to the view from inside Raccoon Forest... we see 
+the helicopter flying away...)*
+
+Scene 17b. Ending B-Chris & Jill
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off into a cloudy sky. 
+A view is seen of the Mansion complex below, which stays as it
+was when the S.T.A.R.S. discovered it. The view switches to Jill and Chris
+inside the helicopter. Jill is resting with her head on Chris' shoulder. She
+puts her hand on Chris' leg, who puts his hand on hers. Jill looks up at him,
+but he is intensely staring out into space, wearing a stone expression on his
+face. The camera angle changes to the view from inside Raccoon Forest... 
+we see the helicopter flying away...)*
+
+Scene 17c. Ending C-Barry & Jill
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off  over a cloudy sky.
+ A view is seen of the Mansion complex below, which after a few seconds
+bursts into a red-hot ball of flame. We then see the mushroom of the explosion
+along with the helicopter flying away. It switches to a view inside the 
+helicopter. Barry seems to have his head down, looking intently at the picture
+of his family. Jill looks at him.)*
+
+Jill: Your wife?
+
+Barry: Yeah, uh, my wife and kids. (pause) Uh, they always wait up for me...
+Even (uh) today (uh) my eldest daughter... (pauses, his face twists) Aw,
+I'm sorry...
+
+Jill: Don't worry about that. I know he must still be alive...
+
+*(Changes to a view of a red-orange sunset as the helicopter flies off...)*
+
+Scene 17d. Ending D-Chris, Barry, & Jill (Note: You must save both Chris and
+Barry to get this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off  over a cloudy sky.
+ A view is seen of the Mansion complex below, which after a few seconds
+bursts into a red-hot ball of flame. We then see the mushroom of the explosion
+along with the helicopter flying away. It switches to a view inside the 
+helicopter. Jill is resting on Chris' shoulder. Chris wipes the sweat off of
+his brow, and looks at Barry, which causes him to grin. Barry is messing
+around with his Colt Python; checking the sights and the like. Chris sighs,
+and we get a view of the helicopter flying off into a reddish-orange sunset.)*
+
+Scene 18a. Credits without Pictures (Note: You must get either the Jill
+Ending or Chris/Jill Ending to see this cinema.
+
+[-CAST-]
+
+CHRIS REDFIELD------------------CHARLIE
+JILL VALENTINE-------------------INEZH
+BARRY BURTON-------------------GREGORY
+REBECCA CHAMBERS-----------LINDA
+ALBERT WESKER------------------ERIC
+JOSEPH FROST----------------------JASON
+
+[PLANNER]
+
+System Plan/ Camera Works
+KAMIYA MIDEKI
+KATO HIROKI
+KADOI KAZUNORI
+ODA KOJI
+MURATA SATOSHI
+
+Scenario
+IWAO KENICHI
+
+Event Designer
+AOYAMA KAZUHIRO
+NAKAYA TAKASHI
+YAMADA MASAAKI
+
+Background Story
+SAGA YASUYUKI
+
+[CG Team]
+
+Background Model
+MASUDA IPPEI
+NISHIKAWA SATORU
+YASUDA JUNKO
+SHIRAISHI TETSUYA
+MATSUNAMI YASUYUKI
+NABETANI KEIICHI
+FUJITA MOTOJI
+HAMADA ATSUKO
+
+Character Model/Motion
+TAKEUCHI JUN
+HAYASHI SATOMI
+
+Character Texture
+ISHIHARA YUJI
+SHIMOGAMA RYOJI
+KATAGIRI MIDEAKI
+
+[Graphic]
+
+BG-Object Texture
+NISHIDA CHIE
+KOITARASHI HIDEYUKI
+YAMAZAKI NOBUAKI
+OGAWA JUN
+HIRAOKA YASUSHI
+SUEYOSHI HIDESATO
+TAKEDA MANABU
+YAMAMOTO IPPAI
+NAKAMOTO YOSHIHIRO
+TAKEMOTO NAOMI
+
+Icon Design
+UKAI SHIZUYO
+
+Lettering
+NISHIO AYA
+
+Effect
+TESHIMA YOSHIAKI
+TSUBOTA SATOMI
+
+[SOFTWARE ENGINEER]
+System
+ANPO YASUHIRO
+
+Cockpit
+INOUE TAKAYUKI
+
+Sound System / Effect
+ISHIMARA TOMOHITO
+
+Player / Enemy
+KARATSUMA KATSUTOSHI
+KOBAYASHI HIROYUKI
+HAGIYAMA YUJI
+NIIKO SHIGEKI
+
+Event
+CHIBOSHI SYUICHIRO
+SAKATA KIYOHIKO
+OTANI NORIYUKI
+ENOMOTO TAKESHI
+
+Room Editor
+SHINGAKI HIDEKAZU
+KATAOKA MICHINORI
+MOTOZUKA HIDEAKI
+
+Movie
+WATANBE HIROAKI
+
+Authoring System
+MANOBE ATSUSHI
+HASHIMOTO TAKASHI
+SAKANO MITSUNORI
+
+Base Program
+SANO KAZUSHI
+YAMADA TAKAHIRO
+
+[DESIGN]
+Plot
+ARIMITSU TAKAHIRO
+
+Rooms
+NAKADAI YUKO
+KUWAHATA MITSURU
+NAKAYAMA KAZUKI
+
+Characters
+OHISHI ISAO
+
+Enemies
+NAKAYAMA TORU
+SHIMIZU KAZUNORI
+MATSUURA YORINAO
+
+Publicity
+HONMA MASAKO
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+[SUPERVISOR]
+KUROKAWA MASAHIKO
+
+[SPECIAL THANKS]
+WAKUTA TSUYOSHI
+SHIRAIWA TAKUYA
+OKAMURA SHIGECHI
+
+[FILM CREW]
+Producer
+NISHITANI NOBIHIRO
+
+Production Manager
+TAKANO MASANARI
+
+Director
+HOSOKI MISUMISA
+
+CG MOVIE
+NAMBA SEIJI
+
+Director of Photographer
+HARA IWAO
+
+Lighting
+AIDA TAKAHISA
+
+Make-Up
+KATO SHOKO
+
+Styling
+HARA WAKANA
+
+Casting
+TATEISHI TORU
+
+Narrator
+WARD E. SEXTON
+
+[-With Cooperation From-]
+[PRODUCTION]
+CENTER FIELD CO. LTD.
+
+[SPECIAL EFFECTS]
+GIVES CO. LTD.
+
+[POST PRODUCTION]
+VISION UNIVERSE CO. LTD.
+
+[MUSIC]
+M on M inc. / MUSIC EXPEDITION CO. LTD.
+
+[PLAN COOPERATION  F - M - C]
+
+Opening Theme
+Terror
+
+Ending Theme
+Still dawn
+
+General Producer
+FUJIWARA TOKURO
+
+Producer
+AKAHORI MASAYUKI
+
+Director
+MIKAMI SHINJI
+
+[Presented by]
+[CAPCOM]
+
+[RESIDENT EVIL]
+
+*(End Credits.)*
+
+Scene 18b. Credits with Pictures (Note: You must get either the Jill/Barry/
+Chris Ending or the Jill/Barry Ending to see this cinema.)
+
+Credits Scene 1: Scene A.2. is playing in the upper-left hand corner.
+
+[-CAST-]
+
+CHRIS REDFIELD------------------CHARLIE
+JILL VALENTINE-------------------INEZH
+BARRY BURTON-------------------GREGORY
+REBECCA CHAMBERS-----------LINDA
+ALBERT WESKER------------------ERIC
+JOSEPH FROST----------------------JASON
+
+Credits Scene 2: Scene A.5a.a. is playing in the lower-right hand corner.
+
+
+[PLANNER]
+
+System Plan/ Camera Works
+KAMIYA MIDEKI
+KATO HIROKI
+KADOI KAZUNORI
+ODA KOJI
+MURATA SATOSHI
+
+Scenario
+IWAO KENICHI
+
+Event Designer
+AOYAMA KAZUHIRO
+NAKAYA TAKASHI
+YAMADA MASAAKI
+
+Background Story
+SAGA YASUYUKI
+
+Credits Scene 3: Scene A.7a. is playing in the upper-right hand corner.
+
+[CG Team]
+
+Background Model
+MASUDA IPPEI
+NISHIKAWA SATORU
+YASUDA JUNKO
+SHIRAISHI TETSUYA
+MATSUNAMI YASUYUKI
+NABETANI KEIICHI
+FUJITA MOTOJI
+HAMADA ATSUKO
+
+Character Model/Motion
+TAKEUCHI JUN
+HAYASHI SATOMI
+
+Character Texture
+ISHIHARA YUJI
+SHIMOGAMA RYOJI
+KATAGIRI MIDEAKI
+
+Credits Scene 4: Scene A.12. Plays in the bottom-left hand corner.
+
+[Graphic]
+
+BG-Object Texture
+NISHIDA CHIE
+KOITARASHI HIDEYUKI
+YAMAZAKI NOBUAKI
+OGAWA JUN
+HIRAOKA YASUSHI
+SUEYOSHI HIDESATO
+TAKEDA MANABU
+YAMAMOTO IPPAI
+NAKAMOTO YOSHIHIRO
+TAKEMOTO NAOMI
+
+Icon Design
+UKAI SHIZUYO
+
+Lettering
+NISHIO AYA
+
+Effect
+TESHIMA YOSHIAKI
+TSUBOTA SATOMI
+
+Credits Scene 5: Scene B.6b. plays in the upper-left hand corner.
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+
+Sound Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+Credits Scene 6: Scene B.7. plays in the bottom-right hand corner.
+
+[SOFTWARE ENGINEER]
+System
+ANPO YASUHIRO
+
+Cockpit
+INOUE TAKAYUKI
+
+Sound System / Effect
+ISHIMARA TOMOHITO
+
+Player / Enemy
+KARATSUMA KATSUTOSHI
+KOBAYASHI HIROYUKI
+HAGIYAMA YUJI
+NIIKO SHIGEKI
+
+Event
+CHIBOSHI SYUICHIRO
+SAKATA KIYOHIKO
+OTANI NORIYUKI
+ENOMOTO TAKESHI
+
+Credits Scene 7: In the Underground, Jill has set off one of the rolling rock
+traps. She runs for cover and kneels down as the huge rock rolls by. In
+upper-right hand corner.
+
+Room Editor
+SHINGAKI HIDEKAZU
+KATAOKA MICHINORI
+MOTOZUKA HIDEAKI
+
+Movie
+WATANBE HIROAKI
+
+Authoring System
+MANOBE ATSUSHI
+HASHIMOTO TAKASHI
+SAKANO MITSUNORI
+
+Base Program
+SANO KAZUSHI
+YAMADA TAKAHIRO
+
+Credits Scene 8: Scene D.1b. plays in the bottom-left hand corner.
+
+[DESIGN]
+Plot
+ARIMITSU TAKAHIRO
+
+Rooms
+NAKADAI YUKO
+KUWAHATA MITSURU
+NAKAYAMA KAZUKI
+
+Characters
+OHISHI ISAO
+
+Credits Scene 9: In one of the various Lab power rooms, Jill is running around
+battling a Chimera. In upper-left hand corner.
+
+Enemies
+NAKAYAMA TORU
+SHIMIZU KAZUNORI
+MATSUURA YORINAO
+
+Publicity
+HONMA MASAKO
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+
+Sound Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+[SUPERVISOR]
+KUROKAWA MASAHIKO
+
+[SPECIAL THANKS]
+WAKUTA TSUYOSHI
+SHIRAIWA TAKUYA
+OKAMURA SHIGECHI
+
+[FILM CREW]
+Producer
+NISHITANI NOBIHIRO
+
+Production Manager
+TAKANO MASANARI
+
+Director
+HOSOKI MISUMISA
+
+CG MOVIE
+NAMBA SEIJI
+
+Credits Scene 10: Scene E.5b. plays in the bottom-right hand corner.
+
+Director of Photographer
+HARA IWAO
+
+Lighting
+AIDA TAKAHISA
+
+Make-Up
+KATO SHOKO
+
+Styling
+HARA WAKANA
+
+Casting
+TATEISHI TORU
+
+Narrator
+WARD E. SEXTON
+
+[-With Cooperation From-]
+[PRODUCTION]
+CENTER FIELD CO. LTD.
+
+[SPECIAL EFFECTS]
+GIVES CO. LTD.
+
+[POST PRODUCTION]
+VISION UNIVERSE CO. LTD.
+
+[MUSIC]
+M on M inc. / MUSIC EXPEDITION CO. LTD.
+
+Credits Scene 11: Scene E.7b. plays in the upper-right corner.
+
+[PLAN COOPERATION  F - M - C]
+
+Opening Theme
+Terror
+
+Ending Theme
+Still dawn
+
+Credits Scene 12: Scene E.9b. is played in the bottom left corner.
+
+General Producer
+FUJIWARA TOKURO
+
+Producer
+AKAHORI MASAYUKI
+
+Director
+MIKAMI SHINJI
+
+[Presented by]
+[CAPCOM]
+
+Credits Scene 13: Jill runs around the helipad with a rocket launcher. She
+dodges the Tyrant and fires the launcher at him... (In center of screen)
+
+[RESIDENT EVIL]
+
+*(Credits end.)*
+
+Scene 19(P). Tyrant Lives... (Note: You must have seen Cinema 17a or 17b
+to see this cinema.)
+
+*(Back in Raccoon Forest. As the Helicopter lifts off, a shadow can be
+seen on the ground. It is the Tyrant. It growls and gives our departing
+heroes a roar...)*
+
+Scene 20. Jill Epilogue Picture (Note: To see this, you must have saved 
+Barry. Otherwise, only a black screen showing your Total Time and Number
+of Saves will be displayed.)
+
+*(A picture is displayed of Jill in a blue room, not wearing her beret. She
+is curled up, and looks comfortable sitting on something. She is wearing
+the blue undershirt from her costume, and her beret is on her lap. Your
+Total Time and Saves are displayed here.)*
+
+Scene 21(P). Rocket (Note: You must have finished the game in under 3 hours
+in order to see this screen.)
+
+*(A rocket is fired out into the nothingness beyond the screen.)*
+
+Scene 22(P). Special Key (Note: You must have saved both Chris and Barry
+to see this screen.)
+
+*(The Dressing Room is seen, with a camera angle that shows the door to the
+closet. An ornate-looking key is shown rotating in the center of the screen.
+The text says...)*
+
+[YOU'VE GOT]
+[THE SPECIAL KEY]
+
+[FIND [CLOSET]]
+
+*(End scene.)*
+
+
+II. Chris Redfield
+----------------------
+A. The Mansion
+----------------------
+Scene 1. Opening FMV
+
+[1998 July]
+[Raccoon Forest]
+*(Background is a cloudy sky...)*
+Chris: Alpha Team is flying around the forest zone, situated in northwest
+Raccoon City, where we're searching for the helicopter of our compatriots
+Bravo Team, who disappeared during the middle of our mission.
+[Background Talk:
+Wesker: Chris, you haven't found it?
+Chris: No, I haven't found it yet.]
+
+*(Changes to picture of Newspaper--"Raccoon Times--Bizarre murders committed
+in Raccoon City." Then to "HORROR IN RACCOON! MORE VICTIMS DEAD." Then to 
+"STARS (Special Tactics And Rescue Service) sent to save Raccoon City.", with
+ a map of the mountains around Raccoon City.)*
+
+Chris: Bizarre murder cases have recently occured in Raccoon City. There are
+outlandish reports of families being attacked by a group of about 10 people.
+Victims were apparently eaten. Bravo Team went to the hideout of the group,
+and disappeared. 
+
+*(Changes to the cloudy sky once again--but a plume of smoke rises above a 
+field with tall grass...)*
+
+Jill: Look, Chris!
+
+*(Changes to Alpha Team walking through the tall grass. They all stop.)*
+
+Chris: It was Bravo Team's helicopter. Nobody was in it. But strangely, most
+of the equipment was still there. However, we soon discovered why.
+
+*(View of an evil-looking dog-face, complete with growl noises... View 
+switches to Jill and Chris, scouting together... View switches to Joseph,
+scouting alone. He raises his hand and tries to grab his team's attention.)*
+
+Joseph: Hey! Come here!
+
+*(Dogs open their drool-covered mouths and growl a bit. View changes back to
+Joseph, who carefully reaches down and discovers a severed hand, still
+desperately clutching a pistol. He screams and drops it. The dogs bolt over
+to him, and the camera zooms in on his terrified eyes as he is ripped apart.
+Chris, then the duo of Barry and Wesker, turn to look.
+It then switches for a while between the dogs' open mouths and Joseph's own
+open mouth, screaming desperately. Jill's face is then seen.)*
+
+Jill: Joseph!
+
+*(A dog charges at Chris, who fires off a few shots from his pistol at it. 
+Jill then runs, firing off two shots at the creatures. Three pistol shots
+then hit the ground, evidently missing their target. Wesker then shoots 
+twice at the creatures while running.)*
+
+Wesker: Hwuh! Waah!
+
+*(Barry then gets one shot off with his Colt Python. What is left of Alpha
+team then stops, noticing their helicopter is taking off.)*
+
+Chris: No! Don't go!
+
+*(The helicopter flies off into the horizon, leaving the team standing there.
+The dogs then continue their pursuit, leaving Alpha running again. Chris
+shoots one of the dogs twice, causing it to groan in pain. Wesker shoots, and
+then Chris says...)*
+
+Chris: Jill! Run for that house!
+
+*(After two more pistol shots from Chris, we see a view of an old-looking
+mansion... And another of the dog's mouth.)*
+
+*(We get to see the mansion's doors open and reveal an ornate-looking
+main hall. Chris speaks.)*
+
+Chris: There are only 3 STARS members left now: Captain Wesker, Jill, and 
+myself. We don't know where Barry is.
+
+[Cast]
+[Chris Redfield]
+*(Shots of Chris: Turning around in surprise, being skeptical, and shooting
+his pistol)*
+
+[Jill Valentine]
+*(Jill pops a clip into her Beretta, readies it, and looks at the camera.)*
+
+[Barry Burton]
+*(Barry spins around the chamber on his Colt Python, readies it, holds it up,
+and looks at the camera.)*
+
+[Rebecca Chambers]
+*(Rebecca tightens her bandanna and gives the camera a smile.)*
+
+[Albert Wesker]
+*(Wesker slicks his hair back, crosses his arms, and looks cooly at the 
+camera.)*
+
+[RESIDENT EVIL]
+
+[They have escaped into the mansion, where they thought it was safe. 
+Yet---]
+
+Scene 2. Inside the Mansion
+
+*(1f Main Hall. Wesker, Chris, and Jill are inside.)*
+
+Jill: I don't know what happened.
+
+Chris: Barry! Where's Barry?
+
+Wesker: Well, I'm sorry, but he's probably...
+
+Jill: No...
+
+*( A gunshot is heard from the west. Chris runs toward it.)*
+
+Jill: What is that?
+
+Chris: I'll go and check.
+
+Wesker: Okay, Jill and I will stay in the hall in case of an emergency.
+
+*(Chris begins to walk away.)*
+
+Jill: Chris... take care.
+
+*(Chris waves to her and exits.)*
+
+[Extra Click: Chris goes back into the Main Hall.]
+
+Wesker: Investigate if you hear any gunfire.
+
+*(Chris shrugs and leaves the hall.)*
+
+Scene 3. Zombie CGI
+
+*(We see a man wearing a green jacket who has a bald, white, diseased-looking
+head. He is crouched over another man, apparently eating the poor soul. He
+takes a soft bite, then a loud one, which causes a puddle of blood to ooze 
+out over the carpet. The zombie then slowly turns his head to look at you
+with his cataracted blue eye and bloody lips...)*
+
+Scene 4. Searching for Wesker
+
+*(Chris reenters the Main Hall, which is empty. He looks around, and runs
+toward the center of the Hall.)*
+
+Chris: Wesker? Jill?
+
+*(Chris runs around and looks around some more.)*
+
+Chris: What happened to Jill and Wesker?
+
+*(Scene ends.)*
+
+Optional Scene: Cerberus CGI (Note: You must check the Main Hall 1f doors
+that lead to the outside.)
+
+*(As Chris opens the main hall door, a dog with half of the skin on its head
+torn off sticks its head inside the room and growls. He shuts it quickly.)*
+
+Scene 5a. Meet Rebecca #1 (Note: You must go to the 1f West Save Room to
+see this cinema, and not have met Rebecca earlier.)
+
+*(1f West Save Room. As Chris enters, a white spray hits him.)*
+
+Chris: Whoah! What is it?
+
+*(Rebecca gets out of her defensive crouch.)*
+
+Rebecca: What? Oh! Oh no! Sorry, I didn't mean to do that.
+
+Chris: Heh ha, you must be from the Bravo Team. 
+
+Rebecca: Yes, I'm Rebecca. Rebecca Chambers. I'm a newcomer. I just joined
+the STARS Bravo Team last month. Well, I'm really sorry. Are you all right?
+
+Chris: Yes. I'm Chris Redfield, from the Alpha Team. Are you the only person
+here from the Bravo Team?
+
+Rebecca: Well, because the helicopter made a forced landing, I just ran into
+this house, anyway, but I, uh... uh...
+
+Chris: I see. There's nothing else you could've done, anyway, it's good you're
+here.
+
+Rebecca: (salutes) Yes, sir. But it's strange... I serviced the helicopter
+recently, but something went wrong with the engine. It was such a short
+flight...
+
+[Extra Click: Talk to Rebecca again and she'll say...]
+
+Rebecca: I wonder if everybody is...
+
+Scene 5a-a. Yes
+
+*(As Chris turns to leave, Rebecca speaks.)*
+
+Rebecca: Well? What should I do now? If you go out to search for the other
+members, how about letting me come with you?
+
+[Will you take Rebecca with you?]
+[Yes]
+
+Chris: Alright, let's do it!
+
+Rebecca: (salutes) Yes sir! I'll do my best. (pause) I have to prepare
+something; would you like to go ahead?
+
+*(Chris leaves; end scene.)*
+
+Scene 5a-b. No
+
+*(As Chris turns to leave, Rebecca speaks.)*
+
+Rebecca: Well? What should I do now? If you go out to search for the other
+members, how about letting me come with you?
+
+[Will you take Rebecca with you?]
+[No]
+
+Chris: It's pretty dangerous outside; let me take care of it.
+
+Rebecca: I understand. For now, I'll wait here, since there are a lot of
+chemicals in this room, and they might be useful. Well, I'll look over the 
+chemicals.
+
+*(Chris leaves; end scene.)*
+
+[Extra Click: If you exit and reenter right away, Rebecca will say...]
+
+Rebecca: Well, I'll look over the chemicals.
+
+[Semi-Extra Click: If you return a little while later, Rebecca will say...]
+
+*(Rebecca is sitting on the bed, holding her head. As Chris approaches,
+she gets up.)*
+
+Rebecca: Ah, Chris! This room is fully equipped with medical supplies. I
+can treat you, except for your major injury. Would you like me to?
+
+[Do you want me to heal your wounds?]
+
+[Yes]
+Chris: Please do something for me, temporarily.
+
+*(Screen fades to black.)*
+
+[Rebecca treats Chris.]
+
+*(Screen fades back in.)*
+
+Rebecca: Most of these medicines are from Umbrella.
+
+Chris: What's Umbrella?
+
+Rebecca: Don't you know? It's a large-scale pharmaceutical company
+based in Raccoon City.
+
+Chris: Oh, I see. And do you know how much of the medicine is useable?
+
+Rebecca: Well, probably there is enough for 2 doses.
+
+[Extra Click: Talk to Rebecca again. She'll say... (and this holds true for
+all other extra clicks afterwards in this room)]
+
+Rebecca: Chris, take care!
+
+[No]
+Chris: I'm okay, but if something happens to me, (desperately) please take
+care of me. 
+
+Rebecca: Okay. You can depend on me. But we only have enough medicine
+for 3 more doses. Excuse me, but you aren't mad at me about all that, are you?
+
+Chris: Oh, of course not. You were pretty worried, though, weren't you? Hey, 
+we're partners, aren't we? Let's work together.
+
+Rebecca: Yes, sir! I'll do my best!
+
+*(Scene ends.)*
+
+[Semi-Extra Click 2: If you go to the Main Hall, then back to the Save Room,
+Rebecca will say...]
+
+*(Rebecca is sitting on the bed, holding her head. As Chris approaches,
+she gets up.)*
+
+Rebecca: Are you alright? Want me to treat it?
+
+[Do you want me to heal your wounds?]
+
+[Yes]
+*(Screen fades to black.)*
+
+[Rebecca treats Chris.]
+
+*(Screen fades back in. Chris walks away.)*
+
+[No]
+*(Chris walks away.)*
+
+[Semi-Extra Click 3: If you go to the Main Hall, then back to the Save Room,
+Rebecca will say...]
+
+*(Rebecca is sitting on the bed, holding her head. As Chris approaches,
+she gets up.)*
+
+Rebecca: Are you alright? Want me to treat it?
+
+[Do you want me to heal your wounds?]
+
+[Yes]
+*(Screen fades to black.)*
+
+[Rebecca treats Chris.]
+
+*(Screen fades back in. Chris walks away.)*
+
+Rebecca: This is the last dose. Don't go doing reckless things anymore.
+
+[No]
+*(Chris walks away.)*
+
+*(End Extra Click.)*
+
+Scene 5b. Meet Rebecca #2 (Note: You must not see Rebecca in the 1f
+West Save Room, and also go to the Marble Hallway on the 2f.)
+
+*(As Chris turns the corner, he sees Richard Aiken from the Bravo Team
+laying on the floor, wounded. A woman is crouching over him.)*
+
+Rebecca: Who are you?
+
+Chris: I'm Chris, of Alpha Team. I've come to rescue you. Richard, what 
+happened?
+
+*(Chris runs over to his side.)*
+
+Richard: Chris... this house is too dangerous... there are terrible demons...
+(blood gushes up from a wound) Ouch!
+
+Rebecca: Richard, don't talk. He seems to have been bitten by a poisonous
+snake, but the size of the wound is abnormally large.
+
+Richard: It's not just a poisonous snake, it's a monster!
+
+Rebecca: Richard... He needs serum, but we left it in another room. 
+
+Chris: Okay, I'll go! (runs)
+
+Rebecca: Hurry, please!
+
+Chris: I will. Wait here, I'll be back soon.
+
+*(He exits; scene ends.)*
+
+[Extra Click: Talk to them again... they'll say...]
+
+Rebecca: Please, hurry!
+
+Richard: Be careful!
+
+Scene 5b-a. Get Richard Serum (Note: To see this cinema, you must return to
+Richard with the Serum within 20-30 minutes, I believe.)
+
+*(Chris reenters the room and runs over to Richard and Rebecca.)*
+
+Chris: Here's the Serum! Is he alright?
+
+Rebecca: Yes he is; thanks. Richard, hold on, I'll give you a shot now.
+
+Richard: Chris... Chris... here's a Radio... take it... 
+
+*(Richard's wounds begin to spurt blood.)*
+
+Chris: Richard! No!
+
+Rebecca: Richard!
+
+Richard: Rebecca... be careful... 
+
+*(Richard raises his hand, and suddenly goes limp. He is dead. Rebecca
+tugs at his corpse after both Chris and Rebecca shake their heads.)*
+
+Rebecca: Richard... Richard! Are you...
+
+Chris: Rebecca, it's very dangerous out here. Will you come with me?
+
+Rebecca: I... I'd like to stay here a little bit longer... 
+
+Chris: Okay, Rebecca. Can you use a gun? I'll look for the others. Protect
+yourself.
+
+*(Chris turns and runs.)*
+
+Rebecca: Chris, be careful, please!
+
+*(He turns and waves at her. Scene ends.)*
+
+[Extra Click: Talk to her again.]
+
+*(Chris kneels down by Richard's body and shakes his head.)*
+
+Rebecca: Be careful, please! 
+
+*(Chris nods and walks away.)*
+
+Scene 5b-b. Let him die (Note: You must return to the room after 20-30 
+minutes.)
+
+*(Chris reenters the room. Rebecca is gone. He investigates Richard's body.)*
+
+[Richard is dead.]
+
+*(Chris shakes his head. Scene ends.)*
+
+Scene 6a. Maestro Rebecca #1 (Note: You must have seen Rebecca in the 1f
+Save Room in order to see this cinema.)
+
+*(Chris uses the Music Notes on the Piano.)*
+
+[Chris unfortunately can't read music.]
+
+*(Chris plunks out a few notes on the piano. Suddenly the door opens.
+Rebecca waves at him.)*
+
+Rebecca: It's me, Chris.
+
+*(Chris waves back.)*
+
+Chris: Is that you, Rebecca? 
+
+*(She looks at the piano, then walks over to it.)*
+
+Rebecca: Ah, it's the Moonlight Sonata. 
+
+Chris: Can you play?
+
+*(Rebecca proceeds to play the song, but not without errors. She eventually
+gives up, clunking on the keyboard.)*
+
+Chris: Wait, what is that?
+
+Rebecca: My interpretation is off a little. Chris, may I practice for a while?
+
+*(Decision point. End scene.)*
+
+Scene 6b. Maestro Rebecca #2 (Note: You must have seen Rebecca in the 2f
+Marble Room in order to see this cinema.)
+
+*(Chris uses the Music Notes on the Piano.)*
+
+[Chris unfortunately can't read music.]
+
+*(Chris plunks out a few notes on the piano. Suddenly, the door opens.
+Rebecca waves at him.)*
+
+Rebecca: It's me, Chris. 
+
+*(Chris waves back.)*
+
+Chris: Are you all right?
+
+Rebecca: Yes. I have decided not to grieve any longer. 
+
+*(She looks at the piano, then walks over to it.)*
+
+Rebecca: Ah, it's the Moonlight Sonata. 
+
+Chris: Can you play?
+
+*(Rebecca proceeds to play the song, but not without errors. She eventually
+gives up, clunking on the keyboard.)*
+
+Chris: Wait, what is that?
+
+Rebecca: My interpretation is off a little. Chris, may I practice for a while?
+
+*(Decision point. End scene.)*
+
+Scene 7a. Answer Yes (Note: This path is no different than saying no. It just
+enacts a different cinema.)
+
+[Will you have Rebecca practice?]
+[Yes]
+
+Chris: See, just relax and play.
+
+Rebecca: Alright.
+
+*(She begins to practice. End scene.)*
+
+Scene 7b. Answer No (Note: This path is no different than saying yes. It just
+plays a halfway funny cinema.)
+
+[Will you have Rebecca practice?]
+[No]
+
+Chris: Let's go back and look for them at once.
+
+Rebecca: All right. 
+
+*(As Chris turns to exit, Rebecca is still playing on the piano.)*
+
+Chris: (scoldingly) Rebecca...
+
+Rebecca: I know, I know. But just a little longer...
+
+*(She continues practicing. End scene.)*
+
+Scene 8. Moonlight Sonata
+
+*(After looking around a bit, Chris reenters the piano room.)*
+
+Rebecca: Chris! Chris!
+
+*(He walks over to Rebecca.)*
+
+Rebecca: You like it? (Chris nods)
+
+*(Rebecca plays the song rather well.)* 
+
+Chris: Oh, that was great!
+
+*(A section of the wall slides up. Chris runs over to it.)*
+
+Rebecca: Wh, what is that?
+
+[Extra Click: Talk to Rebecca again. She'll say...]
+
+Rebecca: Chris, be careful!
+
+[Extra Click II: Talk to Rebecca after solving the Emblem puzzle. She says:]
+
+Rebecca: Chris, are you alright?
+
+*(End scene.)*
+
+Scene 9. Meet Yawn the Giant Snake
+
+*(2f Attic. After approaching the middle of the room, a huge snake slides out
+of a hole in the room's rear. It hisses three times, and proceeds to attack
+Chris.)*
+
+*(After shooting it so many times, the snake begins to shiver and proceeds to
+slide back into the hole it first came from, leaving Chris free to collect the
+Moon Crest.)*
+
+Scene 10a. Chris collapses (Note: You must have met Rebecca in the 1f Save
+Room and answered "No" to her question in order to get this cinema.)
+
+*(Chris exits from the 2f Attic. He begins to brace himself up against the
+side of the wall, and kneels down.)*
+
+Chris: Am I poisoned? Dammit, get me Serum...
+
+*(He collapses. Rebecca enters the room. The screen fades to black.)*
+
+Rebecca: Chris... Chris...
+
+*(1f West Save Room. Chris is laying on the cot. He wakes up.)*
+
+Chris: Is that you, Rebecca?
+
+Rebecca: Chris, are you alright?
+
+Chris: Uh, yeah... What happened?
+
+Rebecca: You were bitten by a poisonous snake! Are you okay?
+
+Chris: Uhh... My head is killing me...
+
+Rebecca: I think you'll be alright, because I gave you a shot; but please,
+stay out of trouble!
+
+*(Chris gets up.)*
+
+Chris: You saved my life... I owe you one.
+
+[Extra Click: Talk to Rebecca again... She'll say...]
+
+Rebecca: Chris, take care!
+
+Scene 10b. Rebecca's help (Note: You can either have seen Rebecca in the 1f
+Save Room and answered "Yes" to her question, or seen her in the 2f Marble
+Room and attempted to save Richard.)
+
+*(Chris exits from the 2f Attic. He begins to brace himself up against the
+side of the wall, and kneels down.)*
+
+Rebecca: Chris!
+
+*(Rebecca runs over to the fallen Chris.)*
+
+Chris: Am I poisoned? Dammit, get me Serum!
+
+Rebecca: I'm sure the Serum must be there! I'll be right back!
+
+*(She turns and exits.)*
+
+*(As she comes back, Chris is lying on the floor. She kneels down by him
+and gives him a shot. The screen fades to black... When it reappears,
+Chris is standing up.)*
+
+Rebecca: You alright?
+
+Chris: Yeah... What happened?
+
+Rebecca: You were bitten by a poisonous snake! Are you okay?
+
+Chris: Uhh... My head is killing me...
+
+Rebecca: I think you will be alright, because I gave you a shot; but please,
+be careful!
+
+Chris: You saved my life... I owe you one.
+
+[Extra Click: Talk to Rebecca again. She'll say...]
+
+Rebecca: I'm glad I could help!
+
+*(End scene.)*
+
+Scene 10c. Get Serum (Note: You must have taken too long to save Richard to
+see this scene.)
+
+*(Chris exits from the 2f Attic. He suddenly holds his head.)*
+
+Chris: Am I poisoned? Dammit, get me Serum!
+
+*(End cinema.)*
+
+B. The Dormitory (Guard House)
+-------------------------------------------
+
+Scene 1(P). Radio Transmission #1 (Note: You must have the Radio to see
+this scene.)
+
+*(After killing the zombie dogs in the first section of the Courtyard, Chris's
+radio beeps. He turns it on.)*
+
+Brad: This is Brad! S.T.A.R.S. Alpha Team, please respond! What the hell?
+Is nobody out there?
+
+Chris: (into Radio) This is Chris.
+
+Brad: This is Brad... STARS Alpha Team... Bravo Team... It doesn' matter.
+Anybody... Answer me... This is Brad(fades out)
+
+Chris: Damn! It's broken!
+
+*(Chris proceeds to whack the Radio with his fist. End scene.)*
+
+Scene 2. Draining the Pool CGI
+
+*(After Chris uses the Square Crank, a CGI begins. A rusty metal plate raises
+ up, allowing the water to drain out over the opposite side.)*
+
+Scene 3a. Chris vs. Plant 42 (Note: You must have seen Scene 10a or 10c to 
+get this cinema.)
+
+*(Plant 42 Room. As Chris enters, he looks at Plant 42, and walks up to it.
+The monstrous plant snatches him up with its tentacles, raises him up near
+the ceiling, and throws him into the floor hard. Chris gets up and begins to
+battle the creature...)*
+
+Scene 3b. Rebecca Helps Out Again (Note: You must have seen Scene 10b to
+see this cinema.)
+
+*(Plant 42 Room. As Chris enters, he looks at Plant 42, and walks up to it.
+The huge plant grabs him with its tentacles. Chris emits a scream of pain.
+Rebecca, who is out in the Hive Hallway, runs into the room.)*
+
+Rebecca: Chris!
+
+*(She raises her pistol at the T-virus infected plant.)*
+
+Chris: Rebecca... No... It's no use. The roots of it are in the basement. You
+could... whoah...
+
+Rebecca: Chris!
+
+Chris: Take this file with you.
+
+*(Chris throws a blue book down.)*
+
+Chris: Use the information in it... in order to make the potion... and kill
+the root. Rebecca, please...
+
+*(She kneels down and picks up the book.)*
+
+Rebecca: Chris, don't die!
+
+*(Rebecca makes the V-Jolt, and goes down to the Basement Meeting Room
+to kill the root. She walks up to Plant 42's root. It says "It looks like
+a giant plant root." Rebecca takes out the V-Jolt and uses it on the root.
+A yellow steam begins to come from the point of contact, and as she waves
+goodbye, the root begins to shrink in size and turns brown. It stops
+contracting and stiffens up when it is about half of its original size.
+When Becca walks up to it now, it says "It's withered." As she turns to leave,
+the camera switches back to Chris and Plant 42. Chris is still within its
+grasp. However, it raises Chris to the ceiling, and tosses him brutally to
+the floor. Three tentacles fall off the plant, and it contracts to a much
+smaller size. As it regains its strength, Chris begins to fight with it.
+Eventually, after all of its active tentacles fall off, it falls from the
+ceiling and becomes a pile of purple goo. Chris gets a key from the fireplace
+and leaves the room.)*
+
+Scene 3b-a. Afterwards w/o Radio (Note: You must not have the Radio to see 
+this cinema.)
+
+*(Now in the hallway, Chris meets Rebecca.)*
+
+Rebecca: Oh! I can't believe it! Are you okay?
+
+Chris: Yeah. So much for him. We got to the "root" of the problem. Saved 
+again. 
+
+*(Rebecca shakes her head and puts her hand to her face.)*
+
+Rebecca: I... just...
+
+Chris: Really, thank you.
+
+*(Rebecca turns her head away and looks at the floor.)*
+
+Rebecca: (hesitantly) You'd do the same for me, wouldn't you?
+
+Chris: (nods) I guarantee it.
+
+Rebecca: Well, Chris, this is Richard's Radio. We received communication
+from Brad at the courtyard a little while ago, but he is still flying around
+in the sky. He obviously couldn't hear our voices. Maybe his radio is broken.
+
+Chris: I see; understood. I'll keep it. We should somehow let Brad know
+we're here.
+
+*(Rebecca gives him the Radio.)*
+
+Rebecca: At the pharmaceutical room I found a little while ago, I think I will
+be able to make something...
+
+*(She walks away; stopping in the middle.)*
+
+Rebecca: Anyway, Chris, I'm glad you're safe.
+
+*(She walks to the Room. Scene ends.)*
+
+Scene 3b-b. Afterwards w/ Radio (Note: You must have the Radio to see
+this scene.)
+
+*(Now in the hallway, Chris meets Rebecca.)*
+
+Rebecca: Oh! I can't believe it! Are you okay?
+
+Chris: Yeah. So much for him. We got to the "root" of the problem. Saved 
+again. 
+
+*(Rebecca shakes her head and puts her hand to her face.)*
+
+Rebecca: I... just...
+
+Chris: Really, thank you.
+
+*(Rebecca turns her head away and looks at the floor.)*
+
+Rebecca: (hesitantly) You'd do the same for me, wouldn't you?
+
+Chris: (nods) I guarantee it.
+
+Rebecca: Well, I think I can make another potion. I'll go back to the
+pharmaceutical room I found a little while ago.
+
+*(She walks away; stopping in the middle.)*
+
+Rebecca: Anyway, Chris, I'm glad you're safe.
+
+*(She walks to the Room. Scene ends.)*
+
+[Extra click: Go to the V-Jolt Room after Rebecca walks away. She'll say...]
+
+*(Chris enters the room.)*
+
+Rebecca: This room is fully equipped with medical supplies. I
+can treat you, except for your major injury. Would you like me to?
+
+[Do you want me to heal your wounds?]
+
+[Yes]
+Chris: Please do something for me, temporarily.
+
+*(Screen fades to black.)*
+
+[Rebecca treats Chris.]
+
+*(Screen fades back in.)*
+
+Rebecca: Most of these medicines are from Umbrella.
+
+Chris: What's Umbrella?
+
+Rebecca: Don't you know? It's a large-scale pharmaceutical company
+based in Raccoon City.
+
+Chris: Oh, I see. 
+
+*(Chris walks away.)*
+
+[No]
+Chris: I'm okay, but if something happens to me, (desperately) please take
+care of me. 
+
+Rebecca: Most of these medicines are from Umbrella.
+
+Chris: What's Umbrella?
+
+Rebecca: Don't you know? It's a large-scale pharmaceutical company,
+based in Raccoon City.
+
+Chris: Oh, I see.
+
+[Extra Click: Talk to Becca again. She'll say...]
+
+Rebecca: Chris, take care!
+
+[Extra Click 2: Talk to Becca again. She'll say...]
+
+Rebecca: Are you alright? Want me to treat it?
+
+[Do you want me to heal your wounds?]
+
+[Yes]
+*(Screen fades to black.)*
+
+[Rebecca treats Chris.]
+
+*(Screen fades back in. He talks to Rebecca again. She says..)*
+
+Rebecca: Chris, be careful!
+
+*(End Cinema.)*
+
+Scene 4. Reunite with Wesker
+
+*(Chris walks into the Dormitory Hallway. Gunshots can be heard. Chris
+walks around the corner and sees Wesker shooting bees.)*
+
+Chris: Wesker!
+
+Wesker: Chris... You're alive.
+
+Chris: My words exactly. Where's Jill? Aren't you with Jill?
+
+Wesker: I'm sorry. We were attacked by a strange monster. I lost track
+of her while we were scouting around. I hope she's okay...
+
+Chris: I see. Well, it's not your fault. This place is crazy! If we stay here,
+all of us will end up dead! What should we do, Wesker?
+
+Wesker: We have to complete this mission. Whether we escape or stay
+and look for Jill, we don't have many bullets left, and we can't even 
+protect ourselves. We're still in trouble. Chris, there are a lot of locked
+rooms in that house. Check them out one more time. There must be a 
+place to hide safely. I'll look around the house a little more.
+
+Chris: Okay...
+
+Wesker: Let's get going.
+
+*(Wesker leaves the hallway. Cinema ends.)*
+
+Scene 5(P). Radio Transmission #2 (Note: You must have the Radio to
+see this scene.)
+
+*(After Chris leaves the Dormitory, his Radio beeps. He turns it on.)*
+
+Brad: This is Brad. I know you can't answer me, but somehow, give me a sign.
+
+Chris: (into Radio) This is Chris! Brad, can you hear me? Damn!
+
+*(He pounds on the Radio again. End scene.)*
+
+
+C. Return to the Mansion
+-----------------------------------
+
+Scene 1(P). Look! A Radio! (Note: You must have not gotten a Radio yet
+to see this scene.)
+
+*(1f  Courtyard Terrace Hallway. Near the doorway, Chris sees something.)*
+
+Chris: What?
+
+*(Chris kneels down next to the object.)*
+
+Chris: It must be a S.T.A.R.S. Radio! It's a little bit broken, but it might
+still be useable. I'll take it with me. 
+
+*(Chris picks it up and continues. Scene ends.)*
+
+Scene 2. Hunter CGI
+
+*(After returning inside the mansion, primarily the room that leads to the
+terrace path right before exiting the mansion, the view switches. Something
+seems to be pursuing Chris!*BEGIN CGI*  It quickly climbs the ladder near 
+the elevator in the Courtyard, runs toward the shed (which has no door), 
+runs into it, opens the door, runs through the terrace, and grasps the handle
+ into the next room with its lizardlike hand... *CGI ENDS* Chris turns around 
+to see a Hunter calmly walking through the door...)*
+
+Scene 3a. Save Rebecca #1! (Note: You see this after you kill your first
+Hunter. If you had Rebecca come with you earlier, you will not see this. It
+also occurs when you have found Rebecca on the 1st floor and told her no.)
+
+*(Begin cinema.)*
+
+Chris: Wh, what are they? M, monsters?  (pause) Rebecca! She's still in the
+house!
+
+*(End cinema.)*
+
+Scene 3b. Save Rebecca #2! (Note: You see this after you kill your first
+Hunter. If you found Richard on the 2f and let him die, you see this.)
+
+*(Begin cinema.)*
+
+Chris: What are they?
+
+*(A scream is heard upstairs.)*
+
+Chris: It's Rebecca! She must be upstairs!
+
+*(End cinema.)*
+
+Scene 4a. 1f Hunter Confrontation (Note: Same Criteria applies as Scene 3a.)
+
+Scene 4a-a. Arrive Quickly (Note: This cinema happens if you get to
+the save room very quickly. You will see a Hunter standing outside the Save
+Room, but no Rebecca. Enter the Save Room...)
+
+*(1f West Save Room. Rebecca is hiding near the bed.)*
+
+Chris: Rebecca!
+
+*(She stands up.)*
+
+Rebecca: Chris!
+
+Chris: Thank God you're safe! 
+
+Rebecca: I'm sorry that you were worried about me.
+
+Chris: We are in great danger! We must organize a search for the others,
+and get the hell outta here! Understood?
+
+Rebecca: Yes, sir!
+
+Chris: Okay, I'll go first. Proceed with your own judgement. All right, can
+you do it?
+
+Rebecca: Yes, I can! (salutes)
+
+Chris: Good luck!
+
+*(Chris turns around.)*
+
+[Extra Click: Talk to Rebecca again. She'll say...]
+
+Rebecca: Yes, sir! I'll do my best!
+
+Scene 4a-b. Save Her (Note: If you arrive slower, you will see this cinema.)
+
+*(1f West Save Room Hallway. Rebecca is on the floor, crawling backward
+away from a Hunter. It slashes her once in the shoulder and screams.)*
+
+Chris: Rebecca!
+
+*(The Hunter turns and looks at Chris. Chris then kills it and runs over to
+Rebecca.)*
+
+Chris: Rebecca!
+
+*(She stands up.)*
+
+Rebecca: Chris!
+
+Chris: Thank God you're safe! 
+
+Rebecca: I'm sorry that you were worried about me.
+
+Chris: We are in great danger! We must organize a search for the others,
+and get the hell outta here! Understood?
+
+Rebecca: Yes, sir!
+
+Chris: Okay, I'll go first. Proceed with your own judgement. All right, can
+you do it?
+
+Rebecca: Yes, I can! (salutes)
+
+Chris: Good luck!
+
+*(Chris turns around.)*
+
+[Extra Click: Talk to Rebecca again. She'll say...]
+
+Rebecca: Yes, sir! I'll do my best!
+
+Scene 4a-c. Run Away (Note: You will see this if you came slower.)
+
+*(1f West Save Room Hallway. Rebecca is on the floor, crawling backward
+away from a Hunter. It slashes her once in the shoulder and screams.)*
+
+Chris: Rebecca!
+
+*(The Hunter turns and looks at Chris. Chris then runs away. Rebecca screams.
+When he reenters the room, Rebecca lies dead with her head cut off in the
+corner. After killing the Hunter, Chris checks her corpse.)*
+
+Chris: REBECCA!!!!
+
+*(He grasps the back of his neck with both hands and falls to his knees. He
+then punches the floor.)*
+
+[Extra Click: Check Rebecca's corpse again. It'll say...]
+
+[.........]
+
+*(Scene End.)*
+
+Scene 4b. 2f Hunter Confrontation (Note: Same criteria applies as Scene 3b.)
+
+*(Chris walks into the 2f Small Library. Rebecca is on the floor, crawling
+backward away from an advancing Hunter. She screams. Chris raises his hand,
+and the Hunter turns around and gives a warning cry.)*
+
+Scene 4b-a. Save Her
+
+*(After killing the Hunter, Rebecca gets up. She raises her hand to her mouth,
+and then opens the door to the 2f East Hallway and runs away. After the door
+closes, Chris raises his hand as if to tell her to wait, and then shrugs. End
+cinema.)*
+
+Scene 4b-b. Run Away
+
+*(Chris runs outside. He hears a high-pitched scream come from the Library.
+After he reenters and kills the Hunter, he checks Rebecca's headless, bloody
+body. He kneels down and shakes his head. Scene ends.)*
+
+Scene 5. Yawn's Return
+
+*(Chris is in a big, sparsely furnished room with a tile floor. The only 
+objects in the room are a fireplace, a piano, and a small table-and-chair
+set. He walks over to the piano. As he begins to check it, the huge snake
+previously encountered in the attic slides out of the fireplace! It seems to
+be scarred from its last encounter with Chris, seeing that in some places its
+muscle is showing. It hisses, recognizing him. It strikes at Chris, but he
+dodges just in time, with the snake's strike caving in a section of the 
+floor. The battle begins...)*
+
+Scene 6. Zombie CGI #2
+
+*(Chris is in the Basement Kitchen. He approaches the door in the far corner.
+*CGI START* Zombie viewpoint. He walks down the stairs slowly, making
+squelching noises with each step. As he reaches the bottom, his rotting hand
+ struggles with the doorknob, finally managing to get it open. *CGI END* 
+Chris backs off as the zombie walks through the door...)*
+
+D. The Underground Tunnels
+----------------------------------------
+
+Scene 1. Meet Enrico
+
+*(Chris walks past the turning point of the room. He sees someone.)*
+
+Chris: Enrico!
+
+*(The camera angle changes, giving us our first glimpse of Enrico. He is
+sitting down.)*
+
+Enrico: Don't come any closer, Chris.
+
+Chris: Wait, what happened?
+
+Enrico: Double-crosser!
+
+*(Enrico raises his pistol. Chris covers his face.)*
+
+Chris: Don't!
+
+*(It looks as if Enrico wasn't pointing his gun at Chris as the camera
+zooms out, but Enrico is shot in the head. He gurgles, and falls over.)*
+
+Enrico: Hell... Umbrella...
+
+Chris: Who is it? Is someone there?
+
+*(Footsteps are heard of someone running away.)*
+
+Chris: Double-crosser? What did he mean by that?
+
+[Extra Click: Click on Enrico's corpse. It'll say...]
+
+[He couldn't have moved because of this injury...
+ He's holding something.]
+
+*(End Scene.)*
+
+E. The Umbrella Lab
+---------------------------
+
+Scene 1. Draining the Fountain CGI
+
+*(After Chris inserts the Wolf and Eagle Medals into the fountain, a CGI 
+begins. *CGI START* The camera pans around the fountain, whose
+water drains through what seems like an opening in the bottom of the
+fountain. One side of the fountain then divides in half, allowing Chris
+access to walk beyond. *CGI END*)*
+
+Scene 2. Slideshow
+
+*(Chris inserts the slides into the machine.
+Slide 01: The Umbrella logo outlined in a black rectangle is seen.
+Below it the words "Bio-Organic Weapon" appear. On the next line
+it says "Official Report". The text reads
+["Umbrella Inc."
+Bio-weapon Materials"]
+Slide 02: The top of the slide reads "MA-39 CERBERUS".
+A large picture of the zombie dog is on the left. A smaller picture 
+of its head is in the bottom-right. The text reads
+["MA-39 Cerberus"]
+Slide 03: The top of the slide reads "Fi-3 NEPTUNE".
+A large picture of the mutated shark is on the left. A close-up
+of its head is in the bottom-right corner. The text reads
+["Fi-3 Neptune"]
+Slide 04: The top of the slide reads "MA-121 HUNTER".
+A large picture of the creature is on the left. A close-up of
+its head is in the bottom-right corner. The text reads
+["MA-121 Hunter"]
+Slide 05: The top of the slide reads "T-002 TYRANT".
+A vague outline of the creature, highlighting its various
+features are on the left. In the middle-right, a bar graph
+is seen. The text reads ["T-002 Tyrant"]
+Slide 06: A blank slide.
+Slide 07: A picture of five men wearing labcoats. The left
+man has black slicked-back hair. The next man with brown
+hair is not quite looking at the camera. The next person, a
+woman, is looking at the camera with an icy stare. The 4th
+man has messy black hair. The last man has blond, slicked-
+back hair, and he is wearing sunglasses...
+*(The slides end.)*
+
+Scene 3(P). Meet with Jill (Note: You must visit with Jill in
+her cell before meeting with Wesker on the B-4 Floor.)
+
+*(Chris walks over to the Prison door and tries to open it.)*
+
+Jill: Chris!
+
+Chris: Jill!
+
+*(Jill walks over to the hole in the door.)*
+
+Jill: Chris, Wesker, he is...
+
+Chris: I know. 
+
+*(Tries door twice.)*
+
+Chris: Shoot, it doesn't open! Look, Jill; wait here, I'll save
+you. 
+
+Jill: Okay, I'll wait.
+
+*(End scene.)*
+
+4a. Rejoin Rebecca #1 (Note: You must have not seen Rebecca
+being attacked by a Hunter on the second floor.)
+
+*(Chris pushes the switch to power up the elevator. As it turns on,
+Rebecca comes.)*
+
+Rebecca: Chris!
+
+*(She runs over to Chris.)*
+
+Chris: Rebecca, you're safe!
+
+Rebecca: I saw you in the garden. I've caught up with you at last!
+
+Chris: Well, I'm glad you're all right. Don't go out alone!
+
+Rebecca: (salutes) Yes, sir!
+
+*(They walk onto the elevator. Scene ends.)*
+
+4b. Rejoin Rebecca #2 (Note: You must have  seen Rebecca
+being attacked by a Hunter on the second floor.)
+
+*(Chris pushes the switch to power up the elevator. As it turns on,
+Rebecca comes.)*
+
+Rebecca: Chris!
+
+*(She runs over to Chris.)*
+
+Chris: Rebecca, you're safe!
+
+Rebecca: I'm sorry.
+
+Chris: Well, I'm glad you're all right. Don't go out alone!
+
+Rebecca: (salutes) Yes, sir!
+
+*(They walk onto the elevator. Scene ends.)*
+
+Scene 5a. Wesker Conversation 1 (Note: Rebecca must be alive to see
+this cinema.)
+
+*(Rebecca and Chris get off the elevator. They walk until they hit a 
+corner. Wesker is holding a gun on them.)*
+
+Wesker: Chris, as my subordinate, you have wonderful talent.
+
+Chris: I would never work for a company like Umbrella... And Wesker,
+you were formally with Umbrella.
+
+Wesker: What do you mean?
+
+Chris: Since when have you been an Umbrella agent, and a traitor
+to the S.T.A.R.S.?
+
+Wesker: Now you're wrong! I was formally with Umbrella, yes; but 
+now I'm prepared to face anything, even getting rid of you vigilante
+S.T.A.R.S.!
+
+Chris: Now the worst possible situation has occured. The failure of 
+the experiment created a virus; a biological weapon, polluting the
+entire lab!
+
+Wesker: No, the worst happened with the Tyrant Virus; I lost some of
+my S.T.A.R.S. team members because of it. 
+
+Chris: You killed them with your own hands! Did you kill Enrico?
+
+Rebecca: Really?
+
+Wesker: Yeah. Like this...
+
+*(He raises his pistol and fires at Rebecca. She falls to the ground.)*
+
+Chris: Rebecca!
+
+Wesker: Don't move! If you do, I'll kill you. Chris, I have something to
+show you. Now, walk.
+
+*(They enter the Stasis Tube Room. The view is from something inside
+a tube. Wesker is pointing his gun at Chris's head. As Chris sees what's
+inside the test tube, he steps back.)*
+*(End Scene.)*
+
+Scene 5b. Wesker Conversation 2 (Note: Rebecca must be dead to see
+this scene.)
+
+*(Chris gets off the elevator and walks until he hits a corner. He then
+sees Wesker holding a gun on him.)*
+
+Wesker: Chris, as my subordinate, you have wonderful talent.
+
+Chris: I would never work for a company like Umbrella... And Wesker,
+you were formally with Umbrella.
+
+Wesker: What do you mean?
+
+Chris: Since when have you been an Umbrella agent, and a traitor
+to the S.T.A.R.S.?
+
+Wesker: Now you're wrong! I was formally with Umbrella, yes; but 
+now I'm prepared to face anything, even getting rid of you vigilante
+S.T.A.R.S.!
+
+Chris: Now the worst possible situation has occured. The failure of 
+the experiment created a virus; a biological weapon, polluting the
+entire lab!
+
+Wesker: No, the worst happened with the Tyrant Virus; I lost some of
+my S.T.A.R.S. team members because of it. 
+
+Chris: You killed them with your own hands! Did you kill Enrico?
+
+Wesker: Enrico? I'll destroy the S.T.A.R.S. myself, including you. The
+fact is, Umbrella does not know what to do with the Tyrant Virus. We
+have orders to blow up this laboratory, and it's not a bad idea. But I
+think we should save this important research... for future use. 
+
+Chris: You, you think you can disappear with such important material?
+
+Wesker: Would you like to see it? Come with me... Sorry for my lack of
+manners, but I'm not used to escorting men. Now, walk.
+
+*(They enter the Stasis Tube Room. The view is from something inside
+a tube. Wesker is pointing his gun at Chris's head. As Chris sees what's
+inside the test tube, he steps back.)*
+*(End Scene.)*
+
+Scene 6. Tyrant CGI
+
+*(Chris is seen standing in front of a large stasis tube with a
+huge creature inside. The camera pans across its grey face
+covered with reddish veins. Its eyes are still shut... The 
+camera then switches to a view of its beating heart, which is 
+abnormally large, and outside of its chest cavity. It then
+pans to a view of its right hand, whose fingers twitch...)*
+
+Scene 7. Wesker's Death
+
+Chris: Is this...?
+
+*(Wesker walks over to a control panel.)*
+
+Wesker: That's right; this is the ultimate lifeform, Tyrant!
+
+Chris: Ho ho ho ha ha ha...
+
+Wesker: Chris?
+
+Chris: Hahahahahahahahahaha....
+
+*(Wesker points his gun at Chris.)*
+
+Wesker: Stop it!
+
+Chris: Wesker, you're pitiful. This is your savior? You say this failure
+is your savior?
+
+Wesker: You can make sure yourself whether Tyrant is a failure or not.
+
+*(He then goes over to the control console and taps
+a few buttons. The stasis tube drains, and Tyrant
+begins to bash the glass, which cracks. After two
+hits, the glass shatters. The Tyrant roars and leaps
+out into a waiting stance and looks at Chris.)*
+
+Wesker: Go to hell. Jill will join you too.
+
+*(The Tyrant then turns and looks at Wesker. As it begins to advance
+on him, he says...)*
+
+Wesker: What? Don't come this way! 
+
+*(Wesker is impaled on Tyrant's huge claw.)*
+
+Wesker: No!!!
+
+*(Tyrant drops his corpse to the ground. *If Rebecca is dead, the 
+Master Key flies out of his pocket.* It then turns toward Chris.)*
+
+Chris: You can't kill me!
+
+*(He then begins his battle with the Tyrant...)*
+
+Scene 8(P). Rebecca Lives! (Note: You must have seen Cinema 5a to 
+get this scene.)
+
+*(Chris exits the Lab room. As he does, he sees Rebecca standing 
+there.)*
+
+Chris: Wow!
+
+Rebecca: Hah, it seems like this bullet-proof jacket is pretty strong!
+
+Chris: I see!
+
+Rebecca: How about Captain Wesker?
+
+Chris: He's sleeping with the ultimate failure. Hurry up, I wanna get
+outta here!
+
+*(Chris runs into the elevator. Scene ends.)*
+
+Scene 9(P). Triggering System (Note: You must have seen Cinema 5a
+to get this scene.)
+
+*(Chris and Rebecca exit from the elevator.)*
+
+Rebecca: Excuse me, Chris...
+
+Chris: What, Rebecca?
+
+Rebecca: I saw a research file in this lab. It said that a great deal of
+research on the Tyrant Virus exists right here! We should blow this
+place up!
+
+Chris: We're already into it over our heads. Rebecca, can you do it?
+
+Rebecca: Yes sir! I'll set off a triggering system for a bomb!
+
+Chris: Okay! Now we have a chance to escape! See you outside the
+house!
+
+*(Rebecca runs into the Power Room and shuts the door. Chris then
+returns to the "O" Passage in the Lab. An alarm goes off. Chris looks
+around confusedly.)*
+
+Voice: The Triggering System has now been activated. All researchers
+stand by to take cover immediately. Unlock all routes for evacuation.
+
+Scene 10a(P). Rescue Jill #1 (Note: You must have seen Jill previously
+to get this scene.)
+
+*(Chris opens the door to Jill's cell and goes inside.)*
+
+Chris: Jill! Sorry for making you wait.
+
+Jill: Chris!
+
+*(Jill runs over to Chris and embraces him.)*
+
+Jill: I knew I could trust you.
+
+Chris: Let's go! There's no need to stay.
+
+*(Chris exits the room. Scene ends.)*
+
+Scene 10b(P). Rescue Jill #2 (Note: You must have not seen Jill before
+to see this Cinema.)
+
+*(Chris opens the door to Jill's cell and goes inside.)*
+
+Chris: Jill! Are you there?
+
+*(Jill turns around and looks at Chris.)*
+
+Jill: Chris?
+
+*(She runs to him and embraces him.)*
+
+Chris: Jill, you're all right!
+
+Jill: Ahh, yes. Wesker is here... he's--
+
+Chris: Oh, I know. Anyway, let's get outta here!
+
+*(Chris exits the room. Scene ends.)*
+
+Scene 11. Radio Transmission #3
+
+*(In the Heliport passage, Chris's radio intercepts a transmission from
+Brad.)*
+
+Brad: This is Brad... I have a fuel shortage... Okay, this is the last try...
+If somebody's alive, please, send a sign... This... (fades out)
+
+*(End scene.)*
+
+Scene 12a. Jill's Encouragement 
+
+*(At the end of the tunnel, Chris puts the Battery into the slot. A monster
+screams at the other end of the tunnel.)*
+
+Jill: Let me take care of them!
+
+Chris: But--
+
+Jill: Chris, get in contact with Brad right away!
+
+Chris: Okay!
+
+*(He walks into the elevator. Jill salutes him. End scene.)*
+
+Scene 12b. Rebecca's Encouragement
+
+*(At the end of the tunnel, Chris puts the Battery into the slot. A voice 
+then speaks.)*
+
+Voice: There is three minutes until explosion.
+
+*(Rebecca runs up to Chris.)*
+
+Rebecca: I made it! I set off the triggering system to the bomb!
+
+Chris: Great! Rebecca, Brad's up in the helicopter!
+
+ *( A monster screams at the other end of the tunnel.)*
+
+Chris: Look at those monsters!
+
+Rebecca: Chris, if Brad is in the helicopter, get in contact with him by
+any means!
+
+Chris: But--
+
+Rebecca: I'll hold back the monsters!
+
+Chris: Okay, I trust you.
+
+Rebecca: Trust me!
+
+*(Rebecca waves to him as he enters the elevator. End scene.)*
+
+Scene 12c. Survivors' Encouragement
+
+*(At the end of the tunnel, Chris puts the Battery into the slot while the
+alarm is sounding. After he puts it in, a voice speaks...)*
+
+Voice: There is three minutes until explosion.
+
+*(Rebecca runs up to Chris and Jill.)*
+
+Rebecca: I made it! I set off the triggering system to the bomb!
+
+Chris: Great! Rebecca, Brad's up in the helicopter!
+
+*(A monster screams at the other end of the tunnel.)*
+
+Rebecca: Look at those monsters!!!
+
+Jill: Let me take care of them!
+
+Chris: But--
+
+*(Rebecca raises her pistol towards the noise.)*
+
+Jill: Chris, get in contact with Brad right away!
+
+Chris: Okay!
+
+*(He walks into the elevator. Jill salutes him. End scene.)*
+
+13a(P). Return of Tyrant (Note: You must have had Rebecca alive to
+see this cinema.)
+
+*(Chris arrives on the heliport. He sets off a flare. After a while, Brad
+flies overhead. As he is preparing to land, the camera angle switches.
+Suddenly, something bursts through the pavement, sending hunks of gravel
+flying. The Tyrant has followed Chris here... He utters a roar and runs
+toward Redfield...)*
+
+13b(P). Helicopter Rescue (Note: Rebecca must be dead in order to see this
+cinema.)
+
+*(Chris arrives on the heliport. He sets off a flare. After a while, Brad
+flies overhead. He has come to rescue Chris! He hovers overhead, and the
+screen fades to black...)*
+
+Scene 14. Brad's Gift
+
+*(A large Rocket Launcher is thrown from the helicopter.)*
+
+Brad: Chris! Use it! Destroy the monsters with it!
+
+*(End scene.)*
+
+Scene 15. Death of a Tyrant
+
+*(Chris picks up the launcher and fires it at the Tyrant. The rocket is then 
+seen flying at the Tyrant through three different camera angles before it 
+actually hits the Tyrant square in the chest. It explodes into small chunks--
+a claw, a hand, a head, two legs... the screen fades to black.)*
+
+ENDINGS
+-------------
+
+Scene 16a. Ending A - Chris (Note: You must have rescued no one to
+see this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off into a cloudy sky. 
+ A view is seen of the Mansion complex below, which stays as it
+was when the S.T.A.R.S. discovered it. The helicopter continues to fly...
+The view then switches to Chris inside the copter. He sighs, wipes the
+sweat off of his brow, sighs again, and leans back and stares into 
+nothingness. The view then shifts to one inside Raccoon Forest. We see
+the helicopter fly away...)*
+
+Scene 16b. Ending B - Chris & Jill (Note: You must have only rescued Jill to
+see this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off into a cloudy sky. 
+A view is seen of the Mansion complex below, which stays as it
+was when the S.T.A.R.S. discovered it. The view switches to Jill and Chris
+inside the helicopter. Jill is resting with her head on Chris' shoulder. She
+puts her hand on Chris' leg, who puts his hand on hers. Jill looks up at him,
+but he is intensely staring out into space, wearing a stone expression on his
+face. The camera angle changes to the view from inside Raccoon Forest... 
+we see the helicopter flying away...)*
+
+Scene 16c. Ending C - Chris & Rebecca (Note: You must have saved only
+Rebecca to see this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off  over a cloudy sky.
+ A view is seen of the Mansion complex below, which after a few seconds
+bursts into a red-hot ball of flame. We then see the mushroom of the explosion
+along with the helicopter flying away. It switches to a view inside the 
+helicopter. Chris is looking to his right as Rebecca stretches and yawns.)*
+
+Chris: Are you tired, Rebecca?
+
+Rebecca: Sorry, Chris... I am.
+
+Chris: You did a really good job. This case was just too weird...
+
+*(Close-up on Chris's face.)*
+
+Chris: This case was... (shakes his head slowly)
+
+*(We then get a view of the helicopter flying off into a reddish-orange
+sunset. End FMV.)*
+
+Scene 16d. Ending D - Chris, Jill & Rebecca (Note: You must have saved both
+Jill and Rebecca to see this ending.)
+
+*(A CGI begins. The helicopter flies out from the horizon, and lands in the
+Heliport; wobbling a bit as it lands. End this CGI.)*
+
+*(A new FMV begins. The helicopter flies off  over a cloudy sky.
+ A view is seen of the Mansion complex below, which after a few seconds
+bursts into a red-hot ball of flame. We then see the mushroom of the explosion
+along with the helicopter flying away. It switches to a view inside the 
+helicopter.  Jill is resting on Chris' shoulder. Chris wipes the sweat off of
+his brow, and looks at Rebecca, which causes him to grin. She is sleeping,
+and snoring a little. Chris then looks away and sighs... We then get
+a view of the helicopter flying off into a reddish-orange sunset. End FMV.)*
+
+Scene 17a. Credits Without Pictures (Note: You must have seen either Scene
+16a or 16b to see these credits.)
+
+[-CAST-]
+
+CHRIS REDFIELD------------------CHARLIE
+JILL VALENTINE-------------------INEZH
+BARRY BURTON-------------------GREGORY
+REBECCA CHAMBERS-----------LINDA
+ALBERT WESKER------------------ERIC
+JOSEPH FROST----------------------JASON
+
+[PLANNER]
+
+System Plan/ Camera Works
+KAMIYA MIDEKI
+KATO HIROKI
+KADOI KAZUNORI
+ODA KOJI
+MURATA SATOSHI
+
+Scenario
+IWAO KENICHI
+
+Event Designer
+AOYAMA KAZUHIRO
+NAKAYA TAKASHI
+YAMADA MASAAKI
+
+Background Story
+SAGA YASUYUKI
+
+[CG Team]
+
+Background Model
+MASUDA IPPEI
+NISHIKAWA SATORU
+YASUDA JUNKO
+SHIRAISHI TETSUYA
+MATSUNAMI YASUYUKI
+NABETANI KEIICHI
+FUJITA MOTOJI
+HAMADA ATSUKO
+
+Character Model/Motion
+TAKEUCHI JUN
+HAYASHI SATOMI
+
+Character Texture
+ISHIHARA YUJI
+SHIMOGAMA RYOJI
+KATAGIRI MIDEAKI
+
+[Graphic]
+
+BG-Object Texture
+NISHIDA CHIE
+KOITARASHI HIDEYUKI
+YAMAZAKI NOBUAKI
+OGAWA JUN
+HIRAOKA YASUSHI
+SUEYOSHI HIDESATO
+TAKEDA MANABU
+YAMAMOTO IPPAI
+NAKAMOTO YOSHIHIRO
+TAKEMOTO NAOMI
+
+Icon Design
+UKAI SHIZUYO
+
+Lettering
+NISHIO AYA
+
+Effect
+TESHIMA YOSHIAKI
+TSUBOTA SATOMI
+
+[SOFTWARE ENGINEER]
+System
+ANPO YASUHIRO
+
+Cockpit
+INOUE TAKAYUKI
+
+Sound System / Effect
+ISHIMARA TOMOHITO
+
+Player / Enemy
+KARATSUMA KATSUTOSHI
+KOBAYASHI HIROYUKI
+HAGIYAMA YUJI
+NIIKO SHIGEKI
+
+Event
+CHIBOSHI SYUICHIRO
+SAKATA KIYOHIKO
+OTANI NORIYUKI
+ENOMOTO TAKESHI
+
+Room Editor
+SHINGAKI HIDEKAZU
+KATAOKA MICHINORI
+MOTOZUKA HIDEAKI
+
+Movie
+WATANBE HIROAKI
+
+Authoring System
+MANOBE ATSUSHI
+HASHIMOTO TAKASHI
+SAKANO MITSUNORI
+
+Base Program
+SANO KAZUSHI
+YAMADA TAKAHIRO
+
+[DESIGN]
+Plot
+ARIMITSU TAKAHIRO
+
+Rooms
+NAKADAI YUKO
+KUWAHATA MITSURU
+NAKAYAMA KAZUKI
+
+Characters
+OHISHI ISAO
+
+Enemies
+NAKAYAMA TORU
+SHIMIZU KAZUNORI
+MATSUURA YORINAO
+
+Publicity
+HONMA MASAKO
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+[SUPERVISOR]
+KUROKAWA MASAHIKO
+
+[SPECIAL THANKS]
+WAKUTA TSUYOSHI
+SHIRAIWA TAKUYA
+OKAMURA SHIGECHI
+
+[FILM CREW]
+Producer
+NISHITANI NOBIHIRO
+
+Production Manager
+TAKANO MASANARI
+
+Director
+HOSOKI MISUMISA
+
+CG MOVIE
+NAMBA SEIJI
+
+Director of Photographer
+HARA IWAO
+
+Lighting
+AIDA TAKAHISA
+
+Make-Up
+KATO SHOKO
+
+Styling
+HARA WAKANA
+
+Casting
+TATEISHI TORU
+
+Narrator
+WARD E. SEXTON
+
+[-With Cooperation From-]
+[PRODUCTION]
+CENTER FIELD CO. LTD.
+
+[SPECIAL EFFECTS]
+GIVES CO. LTD.
+
+[POST PRODUCTION]
+VISION UNIVERSE CO. LTD.
+
+[MUSIC]
+M on M inc. / MUSIC EXPEDITION CO. LTD.
+
+[PLAN COOPERATION  F - M - C]
+
+Opening Theme
+Terror
+
+Ending Theme
+Still dawn
+
+General Producer
+FUJIWARA TOKURO
+
+Producer
+AKAHORI MASAYUKI
+
+Director
+MIKAMI SHINJI
+
+[Presented by]
+[CAPCOM]
+
+[RESIDENT EVIL]
+
+*(End Credits.)*
+
+Scene 17b. Credits With Pictures (Note: You must have seen either Scene
+17c or 17d in order to get these credits.)
+
+Credits Scene 1: Scene A.2. is playing in the upper-left hand corner.
+
+[-CAST-]
+
+CHRIS REDFIELD------------------CHARLIE
+JILL VALENTINE-------------------INEZH
+BARRY BURTON-------------------GREGORY
+REBECCA CHAMBERS-----------LINDA
+ALBERT WESKER------------------ERIC
+JOSEPH FROST----------------------JASON
+
+Credits Scene 2: Chris is walking through the 2f "C" Passage. A zombie lays
+dead on the floor. As Chris walks by, it gets up again and goes after him.
+He shoots at it with his Beretta... (In bottom-right corner)
+
+[PLANNER]
+
+System Plan/ Camera Works
+KAMIYA MIDEKI
+KATO HIROKI
+KADOI KAZUNORI
+ODA KOJI
+MURATA SATOSHI
+
+Scenario
+IWAO KENICHI
+
+Event Designer
+AOYAMA KAZUHIRO
+NAKAYA TAKASHI
+YAMADA MASAAKI
+
+Background Story
+SAGA YASUYUKI
+
+Credits Scene 3: Chris is outside in the Boiler Area. Dogs begin jumping 
+onto the walkway. He attempts to shoot them, but one of them jumps on
+top of him and begins to tear out his neck. (In upper-right corner)
+
+[CG Team]
+
+Background Model
+MASUDA IPPEI
+NISHIKAWA SATORU
+YASUDA JUNKO
+SHIRAISHI TETSUYA
+MATSUNAMI YASUYUKI
+NABETANI KEIICHI
+FUJITA MOTOJI
+HAMADA ATSUKO
+
+Character Model/Motion
+TAKEUCHI JUN
+HAYASHI SATOMI
+
+Character Texture
+ISHIHARA YUJI
+SHIMOGAMA RYOJI
+KATAGIRI MIDEAKI
+
+Credits Scene 4: Scene B. 3b. is played out in the bottom-left corner.
+
+[Graphic]
+
+BG-Object Texture
+NISHIDA CHIE
+KOITARASHI HIDEYUKI
+YAMAZAKI NOBUAKI
+OGAWA JUN
+HIRAOKA YASUSHI
+SUEYOSHI HIDESATO
+TAKEDA MANABU
+YAMAMOTO IPPAI
+NAKAMOTO YOSHIHIRO
+TAKEMOTO NAOMI
+
+Icon Design
+UKAI SHIZUYO
+
+Lettering
+NISHIO AYA
+
+Effect
+TESHIMA YOSHIAKI
+TSUBOTA SATOMI
+
+Credits Scene 5: Rebecca is near the Beehive in the Dormitory. The bees
+are swarming her. After one stings her, she pulls it off of her and throws
+it to the floor. (In upper-left corner)
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+
+Sound Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+Credits Scene 6: Scene C. 4b. is played out in the bottom-right corner.
+
+[SOFTWARE ENGINEER]
+System
+ANPO YASUHIRO
+
+Cockpit
+INOUE TAKAYUKI
+
+Sound System / Effect
+ISHIMARA TOMOHITO
+
+Player / Enemy
+KARATSUMA KATSUTOSHI
+KOBAYASHI HIROYUKI
+HAGIYAMA YUJI
+NIIKO SHIGEKI
+
+Event
+CHIBOSHI SYUICHIRO
+SAKATA KIYOHIKO
+OTANI NORIYUKI
+ENOMOTO TAKESHI
+
+Credits Scene 7: Scene C. 5. is played out in the upper-right corner.
+
+Room Editor
+SHINGAKI HIDEKAZU
+KATAOKA MICHINORI
+MOTOZUKA HIDEAKI
+
+Movie
+WATANBE HIROAKI
+
+Authoring System
+MANOBE ATSUSHI
+HASHIMOTO TAKASHI
+SAKANO MITSUNORI
+
+Base Program
+SANO KAZUSHI
+YAMADA TAKAHIRO
+
+Credits Scene 8: In the Underground, Chris is battling the Black Tiger. After
+it sprays him with its poisonous spit, Chris tries to hit it with the 
+flamethrower. (In bottom-left corner)
+
+[DESIGN]
+Plot
+ARIMITSU TAKAHIRO
+
+Rooms
+NAKADAI YUKO
+KUWAHATA MITSURU
+NAKAYAMA KAZUKI
+
+Characters
+OHISHI ISAO
+
+Credits Scene 9: In one of the various Lab power rooms, Chris is battling two
+Chimeras. After he knocks one down with the shotgun, the other one surprises
+him by jumping on his back and slashing his neck. (In upper-left corner.)
+
+Enemies
+NAKAYAMA TORU
+SHIMIZU KAZUNORI
+MATSUURA YORINAO
+
+Publicity
+HONMA MASAKO
+
+[SOUND]
+Composition / Arrangement
+TOMOZAWA MAKOTO
+KAIDA AKARI
+UEDA MASAMI
+
+Sound Design
+YAMADA IPPO
+UTSUMI HIDEAKI
+
+[SUPERVISOR]
+KUROKAWA MASAHIKO
+
+[SPECIAL THANKS]
+WAKUTA TSUYOSHI
+SHIRAIWA TAKUYA
+OKAMURA SHIGECHI
+
+[FILM CREW]
+Producer
+NISHITANI NOBIHIRO
+
+Production Manager
+TAKANO MASANARI
+
+Director
+HOSOKI MISUMISA
+
+CG MOVIE
+NAMBA SEIJI
+
+Credits Scene 10: Scene E. 5a. plays out in the bottom-right corner.
+
+Director of Photographer
+HARA IWAO
+
+Lighting
+AIDA TAKAHISA
+
+Make-Up
+KATO SHOKO
+
+Styling
+HARA WAKANA
+
+Casting
+TATEISHI TORU
+
+Narrator
+WARD E. SEXTON
+
+[-With Cooperation From-]
+[PRODUCTION]
+CENTER FIELD CO. LTD.
+
+[SPECIAL EFFECTS]
+GIVES CO. LTD.
+
+[POST PRODUCTION]
+VISION UNIVERSE CO. LTD.
+
+[MUSIC]
+M on M inc. / MUSIC EXPEDITION CO. LTD.
+
+Credits Scene 11: Scene E. 7. plays out in the upper-right corner.
+
+[PLAN COOPERATION  F - M - C]
+
+Opening Theme
+Terror
+
+Ending Theme
+Still dawn
+
+Credits Scene 12: Scene E. 10. plays out in the bottom-left corner.
+
+General Producer
+FUJIWARA TOKURO
+
+Producer
+AKAHORI MASAYUKI
+
+Director
+MIKAMI SHINJI
+
+[Presented by]
+[CAPCOM]
+
+Credits Scene 13: Chris runs around the helipad with a rocket launcher. He
+dodges the Tyrant and fires the launcher at him... (In center of screen)
+
+[RESIDENT EVIL]
+
+*(Credits end.)*
+
+Scene 18(P). Tyrant Lives... (Note: You must have seen Scene 16a or 16b in
+order to get this scene.)
+
+*(Back in Raccoon Forest. As the Helicopter lifts off, a shadow can be
+seen on the ground. It is the Tyrant. It growls and gives our departing
+heroes a roar...)*
+
+Scene 19. Chris Epilogue Picture (Note: to see this, you must have rescued
+Rebecca. Otherwise, only a black screen showing your total time and 
+number of saves will be displayed.)
+
+*(Chris is standing on a balcony with a city skyline as a backdrop. He is 
+watching a news program with Umbrella's logo in the upper-left hand
+corner of the screen. Chris is wearing his brown, leather bomber jacket.
+Your total time and number of saves are shown on this screen.
+If you have rescued Rebecca and Jill, a message will be displayed. It 
+says...)*
+
+[WHAT A TOUGH GUY !]
+[You've closed this case completely.]
+
+*(End scene.)*
+
+Scene 20(P). Rocket (Note: You must have finished the game in under 3
+hours in order to get this cinema.)
+
+*(A rocket is fired out into the nothingness beyond the screen.)*
+
+Scene 21(P). Special Key (Note: You must have saved both Jill and Rebecca
+in order to see this screen.)
+
+*(The Dressing Room is seen, with a camera angle that shows the door to the
+closet. An ornate-looking key is shown rotating in the center of the screen.
+The text says...)*
+
+[YOU'VE GOT]
+[THE SPECIAL KEY]
+
+[FIND [CLOSET]]
+
+*(End scene.)*
+
+
+*RESIDENT EVIL : DIRECTORS' CUT / PC VERSION SCRIPT*
+--------------------------------------------------------------------------
+
+(Note: I will not include the entire scenes as written above, as that would
+just be a waste of space. I will only include the scenes that differ quite
+significantly from the standard Resident Evil. Another note--due to a 
+Capcom error, Scenes 1, 2, and 4 were left out of the Directors' Cut
+Version. However, they are left intact for the PC Release of the game.)
+
+Scene 1. Uncut Intro
+
+*(Incomplete)*
+
+Scene 2. Uncut Zombie FMV #1
+
+*(We see a man wearing a green jacket who has a bald, white, 
+diseased-looking head. He is crouched over another man, 
+apparently eating him. He takes a soft bite, and then a loud one that
+causes blood to ooze out in a puddle over the carpet. A black man's
+head drops down... it's Kenneth Sullivan from the Bravo Team! The
+head then rolls over, and we see it has been eaten on one side down
+to the skull. The zombie then slowly turns his head to look at you
+with his cataracted blue eye and bloody lips...)*
+
+Scene 3. Forest Speyer's Return (Note: In Jill's case, you must not see Barry
+on the Terrace. In Chris's case, he just must come to the Terrace.)
+
+*(Chris/Jill kneels down to investigate Forest's corpse. As he/she does, it
+gets up to attack them! Forest has become a zombie! However, he is disposed of
+just as easily as any other zombie. Chris/Jill continues on...)*
+
+Scene 4. Violent Ending (Note: You must have the infinite Rocket Launcher
+in your inventory.)
+
+*(Incomplete)*
+
+*RESIDENT EVIL : SATURN VERSION SCRIPT*
+------------------------------------------------------------------
+(Note: This version is basically the same as the original Resident Evil,
+except for one major difference: in Chris's game, there is a second Tyrant
+down in the Umbrella Lab Room where the first Tyrant is encountered,
+plus the addition of a Battle Game.)
+
+Scene 1. Second Tyrant In Lab
+
+*(Incomplete)*
+
+*MISCELLANEOUS NOTES ON RESIDENT EVIL*
+--------------------------------------------------------------------
+
+- An annoying thing. Did you notice that the Tyrant's mouth is always
+opening and closing? It gets quite annoying. It even does this after you've
+killed it with the Rocket Launcher! Aargh...
+
+- Another small thing you may have missed : If you look at the cards Chris
+and Jill have in the beginning of the game on the Character Select screen,
+notice Police Chief Brian Irons from Resident Evil 2 has signed both their
+cards. Just shows you they paid attention to detail...
+
+- Just a little note: Even in Jill's Good Ending (Barry or Chris & Barry
+saved) Wesker does die. If you go back to the Power Room (The last room with
+Chimeras/Lab Monsters), his corpse is near the triggering system. In the 
+Directors' Cut Version, he is decapitated. I just thought I'd say this because
+many people aren't aware of it...
+
+- I currently have no information on the Saturn Version's Battle Game. If
+there are any new cinemas, I will be sure to include them. Soon I should have
+more Battle Game info.
+
+
+*COPYRIGHT INFO*
+----------------------------
+This FAQ is copyrighted by Dave Schmidt 2002. The work within (basically the
+actual script) is property of Capcom, Inc. All characters, monsters, the game
+Resident Evil, and other things along that line of speaking are also Capcom's
+property. If you would like to use this FAQ on your site, maybe HTMLize it
+to make it easier to navigate, just e-mail me, and I'll probably let you use
+it. Have fun trying to tie together the mysteries of the RE universe...
+
+*Faq End*

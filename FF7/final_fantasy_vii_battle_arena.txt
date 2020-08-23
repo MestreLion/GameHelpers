@@ -1,0 +1,541 @@
+     ***********************************************************
+*********************************************************************** 
+                             LUKAHN'S
+                     FF VII BATTLE SQUARE FAQ
+                           Version 0.4
+                     crescentlake@hotmail.com
+***********************************************************************
+      ***********************************************************
+***********************************************************************
+WHAT'S NEW:
+
+1/9/99
+Everything!  Just started it today.
+
+1/10/99
+Added the Secret Duel section, more handicaps, and the enemies section.
+
+1/11/99
+Added some enemy descriptions and the "forced hanicap" problem.
+
+3/30/99
+Finally updated again ^_^  Added the Low-Level Technique, more on how
+handicaps affect BP, and the Thanks section is now up.
+
+4/3/99
+Added to the "How Handicaps affect BP" section.
+
+4/4/99
+Gave a rough explanation of how hanicaps determine BP.
+Filled in more than half of the "How Hanicaps affect BP" chart.
+
+***********************************************************************
+CONTENTS:
+
+1. Battle Square
+a. what is it?
+b. before you start...
+c. into the arena
+d. terms of victory...or defeat
+
+2. General Tips
+a. suggested equipment
+b. techniques
+-1 the Mighty Technique
+-2 the Low Level Technique
+c. possible problems
+
+3. Handicaps
+a. what they do
+b. how they affect BP
+
+4. Prizes
+a. consolation
+b. trading in BP
+
+5. The Secret Duel
+a. how to access it
+b. word of warning
+c. special prizes
+ 
+6. Enemies
+a. normal battles
+b. secret duel
+
+7. Cheating Methods
+a. beat the handicap
+b. use broken materia - method 1
+c. use broken materia - method 2
+
+8. Thanks
+
+***********************************************************************
+BATTLE SQUARE:
+*************
+What Is It?:
+
+The Battle Square can be found at the Gold Saucer.  For 10 GP,  you can
+ fight a series of battles against randomly selected enemies.  You
+ won't recieve any gil, experience, or AP, but you will be awarded
+ Battle Points (BP).  You can then trade in BP for good prizes.  We all
+ like prizes, so let's go...
+
+*************
+Before You Start...
+
+This can be tough if you're not on a high enough level or improperly 
+equipped.  Make sure you have a Ribbon, at least one character's 
+ultimate weapon, and enough materia to make you deadly.  For these 
+reasons alone I don't recommend visiting the Battle Square until Disk 3
+(except when you have to to advance the plot, of course).  Also, if you
+want W-Summon and Omnislash, be prepared to stay in the Battle Arena 
+for a long time.
+
+*************
+Into the Arena:
+
+To enter the Arena, go to Battle Square and talk to the lady behind the
+counter at the right of the back of the room.  You will fight 8
+consecutive battles every time you enter the Arena.  After each round
+you will recieve the message "Great!", and your current BP will be
+displayed on the right side of the screen (you will rarely have more
+than 1000 BP before the last round of combat).  You will be asked if
+you wish to keep going, and given 2 choices: Off Course!! (it's really
+spelled that way, I didn't make a mistake), or No Way.  If you choose
+"Off Course!!", you will have to pick a handicap for the next round.
+
+You can't learn Enemy Skills in the Arena.  However, you can either 
+Morph enemies or Steal from them if you want.  When you exit, your 
+Limit will remain at the level it was before entering, even if you use 
+it during battle.
+
+*************
+Terms of Victory...Or Defeat:
+
+You will leave the Battle Arena when:
+
+You win all 8 rounds
+You quit after a round
+You are killed by your opponents
+You cast "Escape" or use an item that ends a battle
+You run away
+  
+***********************************************************************
+GENERAL TIPS:
+*************
+Suggested Equipment:
+
+I recommend using the Ultimate Weapon for whichever character you
+choose to use in the Arena, because you won't gain AP for materia
+growth anyway, so you might as well have high attack power.  The armor
+of choice is the Imperial Guard, for its high Defense power.  Of course
+, a Ribbon is ideal for the accessory.
+
+As far as materia goes, use as little as possible.  If your character
+is particularly strong, equip them with Slash-All, Enemy Skill (with 
+Big Guard learned) or Time, and perhaps a HP Plus.  That way, you'll 
+need only worry about the Break Yellow Materia handicap and the Break 
+Purple Materia handicap.  If you rely on Summons and Magic, you'll be 
+crippled if you receive the Break All Materia handicap.
+
+For a weaker character, allow some more materia, such as a strong 
+summon or Ultima, but don't expect to get the W-Summon prize with a 
+weak character.
+
+*************
+Techniques:
+
+*************
+The Mighty Technique
+
+The first round is pretty important if you want the battles ahead to go
+as smoothly as possible, because the enemies will be the weakest you 
+will face.  First, cast Big Guard or Haste, whichever you have.  This 
+will make your time meter fill up faster not just for this battle, but
+for all the upcoming battles as well.  Then dispatch your enemies with 
+a Slash-All.  You should get 10 BP for the first round every time.  
+I've never gotten anything different, but that doesn't mean it's 
+impossible.
+
+If you have a Ribbon equipped, try to time the handicap to hit an 
+abnormal status handicap (such as "Poison", "Miniature", or "Toad").
+That way you'll suffer no handicap, plus you'll get a few seconds for
+your time meter to fill up while you're covered in the orange mist
+that tries to change your status.  If not, try for the least severe
+handicap given (except Cure, as you will receive 0 BP if you do).
+
+From the second match on, you won't have to worry too much about 
+anything.  Remember to use Big Guard or Haste if you are ever slowed
+and use items to heal yourself.
+
+*************
+The Low-Level Technique
+
+Of course, the best way to solve the problem of low levels is to get
+level ups, but that can take a long time.  Here are some alterantive
+methods:
+
+1.) Transfer all the materia and the best equipment to whoever is going
+to participate in the arena.
+
+2.) Set that character's Limit level back to 1.  They will get limit
+breaks more often that way, so you should be able to save yourself a 
+few times with a stronger-than-average attack.
+
+3.) Make sure you have the appropriate Enemy Skills.  Learn Big Guard
+from the Beach Slugs near Costa Del Sol (You need to Manipulate them) 
+and White Wind in the area around Junon (I can't remember the enemy's
+name, but it's a large animal with wings).  Use Big Guard in the 
+beginning of the first battle and White Wind if you encounter any 
+status effect problems (you won't if you equip the Ribbon from the 
+Temple of the Ancients).
+
+4.) If your attacks are still weak, rely more on magic and summons, 
+but you won't get as much BP if you don't destroy your materia.
+
+5.) Don't equip unnecessary magic or summons.  I would stay away from
+them all together, if your attacks are strong enough.  Use Independent
+and Command materia as much as possible.
+
+*************
+Possible Problems:
+
+In the first round it is common to encounter a silkworm-type enemy 
+called "Jayjujayme".  Not a major threat, but he can slow you down with
+Silk.  In this case, kill the enemies and cast Big Guard/Haste in round
+2.
+
+You might encounter a small, hunched over enemy called a "Tonberry" in 
+the later rounds (6 or 7).  Kill him as quickly as possible, because 
+his Knife attack automatically kills you.  Use whatever means you have 
+to kill him before he reaches you, and don't be afraid of overkill; He 
+has over 30,000 HP.
+
+Another enemy to look out for is the "Ghost Ship".  He usually comes in
+the 8th round, and he also has the ability to instantly end you.  He 
+picks you up on his oar and throws you from the Arena.  He generally 
+doesn't use this as his first attack, so use your most powerful attacks
+and/or magic against him.  He is a much larger threat than Tonberry, 
+because you'll get way less time to defeat him.
+
+On occasion, you will be forced to accept handicaps.  These are 
+usually going to be the hardest battles you will fight, as the 
+handicaps are almost always extraordinarily hard to recover from (ie: 
+broken accessory.  If you're using a Ribbon, this can be devastating.).
+The best thing to do is continue fighting until you can't survive 
+another round, then quit.  You won't gain many BP, but it's better 
+than nothing...
+
+***********************************************************************
+HANDICAPS:
+*************
+What They Do:
+
+After each round of battle, you are asked to select your handicap from
+a slot machine containing three choices.  You'll have to pick 7 of them
+for each time you go through the battle arena.  Handicaps range from 
+physical damage to status ailments, to completely filling your HP!  
+They are as follows:  
+
+Description of icon - name of handicap - effect of handicap
+
+Poison - Poison - You become poisoned
+Frog - Toad - You become a toad
+Small Cloud - Minimum - You shrink
+Red Materia - Summon Materia is broken - you can't summon
+Yellow Materia - Command Materia is broken - you lose special commands
+Green Materia - Magic Materia is broken - you can't cast spells
+Purple Materia - Independant Materia is broken - your stats are normal 
+Blue Materia - Support Materia is broken - other materia loses support
+5 Materia - All Materia is broken - disables all materia of every color
+Ring - Accessory is broken - you loose accessory benefits
+Bag - Item command is sealed - Prevents you from using items
+Lucky 7 - Yesss!  No handicapp! - No handicap.
+Boot - 1/2 Speed - Makes your Time gauge fill half as quickly
+HP - 1/2 HP - Lowers your Max. HP by 50%
+MP - 1/2 MP - Lowers you Max. MP by 50%
+HP MP - 1/2 HP&MP - Lowers your Max HP and Max MP by 50%
+MP0 - Zero MP - Empties your MP, but you can refill it normally
+Sword - Weapon is broken - your attack strength is lowered
+Bracelet - Armor is broken - your defense is lowered
+Clock - Time X30 Damage - you take damage based on your time meter
+LV v - Down 5 levels - Your current level is lowered by 5
+LV V - Down 10 levels - Your current level is lowered by 10
+Cure - HP restored - Fills up your HP to max.
+
+*************
+How They Affect BP:
+
+I've done it!  I know how they determine how much BP you get for each
+handicap!  The only problem is, it will take some time to get all the
+information.  If anyone is willing to help, e-mail me 
+(crescentlake@hotmail.com).
+
+This is very cool, because I think I'm the first to figure it out (I've
+never heard of anyone figuring it out before).
+
+You would think that each time you get a certain handicap, your current
+BP would get multiplied by a certain number.  That's not the way it 
+works, though.  Each handicap has a different number for each round
+that gets added to your current BP.  (Example: if you select "Toad" as
+your first handicap, you will only recieve 6 BP, but if it is your 
+fifth handicap, you would recieve 130 BP.)  Here is an incomplete chart
+with each handicap's ratings.
+
+        Handicap:      1      2      3      4      5      6      7
+           Poison  --  4   -  6   -  X   -  16  -  33   - 82   - X
+             Toad  --  6   -  10  -  19  -  44  -  130  - 520  - 3069
+          Minimum  --  5   -  8   -  16  -  36  -  108  - 453  - 2940
+     Break Summon  --  37  -  X   -  X   -  X   -  X    - X    - X
+    Break Command  --  X   -  X   -  17  -  41  -  X    - X    - X
+      Break Magic  --  15  -  28  -  X   -  145 -  445  - 1755 - 9425
+Break Independent  --  X   -  X   -  X   -  99  -  X    - X    - X
+    Break Support  --  X   -  X   -  X   -  91  -  X    - X    - X
+Break All Materia  --  X   -  X   -  X   -  X   -  463  - X    - 10000
+  Break Accessory  --  10  -  18  -  X   -  X   -  X    - X    - X
+       Seal Items  --  X   -  X   -  X   -  X   -  355  - 1368 - 7200
+      No Handicap  --  7   -  7   -  7   -  7   -  7    - 7    - 7
+        1/2 Speed  --  5   -  7   -  X   -  19  -  X    - X    - X
+           1/2 HP  --  13  -  X   -  40  -  84  -  204  - X    - X
+           1/2 MP  --  12  -  20  -  36  -  73  -  173  - X    - X
+        1/2 HP&MP  --  X   -  X   -  X   -  94  -  244  - 775  - 3134
+          Zero MP  --  X   -  X   -  X   -  X   -  171  - 502  - X
+     Break Weapon  --  X   -  X   -  X   -  140 -  X    - X    - X
+      Break Armor  --  X   -  17  -  33  -  X   -  X    - 654  - X
+  Time X30 Damage  --  X   -  X   -  26  -  54  -  130  - X    - X
+    Down 5 Levels  --  5   -  8   -  13  -  X   -  X    - X    - X
+   Down 10 Levels  --  X   -  16  -  28  -  53  -  118  - 308  - 968
+       Restore HP  --  1   -  1   -  1   -  1   -  1    - 1    - 1
+
+X = I haven't recieved that handicap yet for that round.  I did all
+these last night, so there will be many more additions later.  If you
+have any that I don't have, please send them to me.
+
+***********************************************************************
+PRIZES:
+*************
+Consolation:
+
+You will always receive a "Tissue" in the normal battles.  This item is
+absolutely useless, but you can sell it for 1 gil.  Hooray!!  You'll
+be rich in no time selling these ^_^
+
+*************
+Trading in BP:
+
+After you win all 8 battles or give up, you receive a certain amount 
+of Battle Points.  These can be traded in for rare items at the machine
+to the left of the entrance.  DO NOT LEAVE THE BATTLE ARENA, or you 
+will lose all your BP.  The prizes are as follows:
+
+Disk 1
+Phoenix Down = 100
+Remedy = 200
+Mimmet Greens = 400
+Enemy Lure = 800
+Bird Wing = 1600
+S Wing = 3200
+Pre-Emptive = 6400
+Speed Plus = 12800
+Championship Belt = 32000
+Omnislash = 64000
+
+Disk 2/3
+Remedy = 100
+Enemy Lure = 250
+Right Arm = 500
+Pre-Emptive = 1000
+Regan Greens = 2000
+Speed Plus = 4000
+Stardust = 8000
+Championship Belt = 16000
+Omnislash (Limit 1) = 32000
+W-Summon (Limit 1) = 64000
+
+The only prizes you really need are Omnislash (Cloud's level 4 limit) 
+and W-Summon (Lets you summon twice in one turn).  If you want more, 
+I recommend Enemy Lure, Pre-Emptive, Speed Plus, and perhaps Stardust 
+(casts Comet 2).  So, in short, the only prizes you shouldn't get are
+the Remedy, Right Arm, Championship Belt, and the Regan Greens.  You
+can either buy these or get them from enemies.
+
+***********************************************************************
+THE SECRET DUEL
+*************
+How To Access It:
+
+To access the Secret Duel, you have to trade in enough BP for the 
+W-Summon materia and Omnislash, and you need Cloud's ultimate weapon, 
+the Ultima Weapon, which you get from Ultimate Weapon (^_^).  Cloud is
+the only party member that can participate in the Secret Duel.
+
+*************
+Word of Warning:
+
+The Secret Duel puts you up against Proud Clod with just one character.
+In this set of battles, you should equip as much materia as you would 
+against a large boss.  You might want to use Knights of the Round 
+against Proud Clod (if you have it, that is).  I don't recommend using 
+it against any of the other enemies, though, or it'll take you half an 
+hour to beat the 8 rounds.  I strongly suggest Magic Plus materia 
+whether you're using KOR or not.  This will pretty much guarantee that 
+your spells are doing all the damage they are capable of.
+
+Put on as many Counter Attacks as you have, plus Mime (if you have it).  
+That way you can mime however many counter attacks you've done.  If you
+have 4 or less Counter Attack materia, use 4X Cut instead.  If you 
+don't have 4X Cut, I feel sorry for you ^_^
+
+*************
+Special Prizes:
+
+The first time you beat all 8 battles, you will be given Final Attack 
+materia.  This will allow you to use materia you link it to when you 
+reach 0 HP right before you die.  You can hook it up to Revive or 
+Phoenix so that you will be brought back to life when you die.  It's 
+pretty much required if you want to beat Emerald Weapon.
+
+Also, you get handy "Dio's Diary" and "Dio's Autograph" consolation 
+prizes, which do absolutely nothing.  You can't even sell them :(
+
+I've read that you can also get Magic Counter materia from the Secret 
+Duel, but I've never recieved it.  I think it's just one of those 
+rumors associated with FF VII.
+
+***********************************************************************
+ENEMIES:
+*************
+Here is a list of all the enemies i have fought in the Battle arena.  
+If you know of more, please send them to me.  (Note:  If an enemy is 
+listed with a letter, there are more than one.  Each letter represents 
+another enemy.)
+
+*************
+Normal Battles:
+
+Round 1:
+Foulander A, B
+Garuda, Jayjujayme A, B
+Dual Horn A, B
+Razorweed A, B, C
+Garuda A, B, C
+
+Round 2:
+Under Lizard
+Under Lizard A, B
+Tonadu
+Slaps A, B, C, D, E
+8 eye A, B
+Acrophies
+
+Round 3:
+8 eye A, B
+ToxicFrog A, B, Jemnezmy 
+Adamantaimai
+Doorbull
+
+Round 4:
+Boundfat, Malldancer A, B, C
+Jumping A, B
+Hippogryph
+Acrophies
+Trickplay, Boundfat A, B
+Ice Golem A, B
+
+Round 5:
+Lessaloploth
+Lessaloploth A, B
+Shred A, B, Frozen Nail
+Frozen Nail A, B
+Magnade
+
+Round 6:
+Cuahl, Headbomber A, B
+Zolokalter, Headbomber A, B
+Evilhead A, B, C
+Stilva
+Headbomber A, B, C
+
+Round 7:
+Malboro
+Ironite A, B
+Gremlin A, B, C
+Blue Dragon
+Gremlin A, B, C
+Tonberry
+
+Round 8:
+Ghost Ship
+Serpent
+Sea Worm
+Ho-chu
+
+*************
+Secret Duel:
+
+Round 1 = Sea Worm
+Round 2 = Ho-chu
+Round 3 = Unknown 3
+Round 4 = Serpent
+Round 5 = Wolfmeister
+Round 6 = Behemoth
+Round 7 = Maximum Kimaira
+Round 8 = Proud Clod
+
+***********************************************************************
+CHEATING METHODS:
+*************
+Beating the Handicap:
+
+As long as you have a Ribbon, you can easily get through an entire set 
+of 8 battles with only 1 or 2, if any, handicaps.
+
+When the slot machine starts up, watch carefully for an abnormal status
+handicap.  Now keep hitting the Square button continuously.  When you 
+are holding square, the dial stops spinning.  Now all you have to do is
+ get in the position that the handicap before the one you want shows up
+.  Quickly let go of Square and hit Circle.  You should, with some 
+practice, be able to time it exactly so that you always get hit with 
+the desired handicap.  Now you won't be hit with any handicap, and when
+it tries to change your status an orangeish cloud will appear over you,
+allowing your time gauge to fill up without being attacked.  Fun, huh? 
+
+*************
+Use Broken Materia - Method 1
+
+If you have Mime materia, you can continue using materia after it is 
+broken.  If you cast any spell or summon, you can mime it after that 
+type of materia is broken.  For example, let's say you cast Ultima.  
+After that round, you select the "Magic Materia is broken" handicap.  
+If you use mime, you can continue casting Ultima.
+
+*************
+Use Broken Materia - Method 2
+
+If you link Command Counter to any Command Materia, then select the 
+"Command Materia is broken" handicap, You may still use that Command 
+when you are attacked.
+
+***********************************************************************
+This is the end of my Battle Arena FAQ, version 0.3.  Stay tuned for 
+updates, as it is nowhere near completion.  If you have anything to 
+add or a mistake to point out (or a compliment for a job well done),
+send it to crescentlake@hotmail.com
+
+Lukahn
+
+***********************************************************************
+THANKS:
+*************
+Thanks to:
+Square for making FF VII
+oniyaki@hotmail.com for asking how to beat the BA on a low level
+
+
+***********************************************************************
+BTW, if you're ever in the mood to hang out with fellow Final Fantasy 
+fans, stop by Crescent Lake at 
+
+http://www.geocities.com/TimesSquare/Labyrinth/1277/Crescent.html
+
+or search for Crescent Lake on the Yahoo! search engine.

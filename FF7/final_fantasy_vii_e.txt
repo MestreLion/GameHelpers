@@ -1,0 +1,2370 @@
+Final Fantasy VII General FAQ
+Version 1.0
+By LightRanma@aol.com
+Copyright 1999
+
+--------------------------------------------------------------------------------
+----
+
+-----------------
+TABLE OF CONTENTS
+-----------------
+
+I.  Introduction
+II.  Materia List
+III.  Spell List
+IV.  Limit Break List
+V.  Level 4 Limit Break Locations
+VI.  Ultimate Weapons Locations
+VII.  Summon Materia Locations
+VIII.  Weapon List
+IX.  Emerald Weapon and Ruby Weapon
+X.  Enemy Skills Guide
+XI. Chocobo Breeding
+XII.  Crazy Materia Combinations
+XIII.  Conclusion
+XIV.  Thanks
+
+--------------------------------------------------------------------------------
+----
+
+----------------
+I.  Introduction 
+----------------
+
+Welcome to my newest FAQ!  I've recieved immense feedback on my other FAQs (99% 
+of it positive), and, since people seem to love my FAQs, I'll keep writing more 
+of them!  I've recently been reliving my Final Fantasy VII days, and I love the 
+game even more than before.  (Still not as much as Xenogears, though.)  It 
+inspired me to write a FAQ on the lesser aspects of the game, such as where to 
+get all of the Ultimate Weapons and the Level 4 Limit Breaks.  Few people have 
+done EVERYTHING there is to do in this game, and this FAQ is here to help those 
+people.  Hope you enjoy my newest FAQ!  As always, if you have any questions 
+about any RPG, or want to submit something, you can write me at 
+[LightRanma@aol.com].  Now, on with the FAQ!
+
+--------------------------------------------------------------------------------
+----
+
+----------------
+II. Materia List
+----------------
+
+This is a complete (I hope) list of all the Materia in the game.  I include what 
+Spells are learned frome each Materia, where each Materia can be FIRST FOUND OR 
+BOUGHT, and how much Gil a mastered version can be sold for.  For the Command, 
+Independent, and Support Materia, I will provide a description for each.
+
+- Magic (Green) Materia -
+
+Fire (Fire, Fire 2, Fire 3)
+Location: Sector 7 Materia Shop
+Sell: 42000 Gil
+
+Ice (Ice, Ice 2, Ice 3)
+Location: Sector 7 Materia Shop
+Sell: 42000 Gil
+
+Lightning (Bolt, Bolt 2, Bolt 3)
+Location: Sector 7 Materia Shop
+Sell: 42000 Gil
+
+Earth (Quake, Quake 2, Quake 3)
+Location: Kalm Materia Shop
+Sell: 105000 Gil
+
+Poison (Bio, Bio 2, Bio 3)
+Location: Shinra Building
+Sell: 105000 Gil
+
+Gravity (Demi, Demi 2, Demi 3)
+Location: Cave of the Gi
+Sell: 560000 Gil
+
+Restore (Cure, Cure 2, Regen, Cure 3)
+Location: Sector 7 Materia Shop
+Sell: 52500 Gil
+
+Treatment (Poisona, Esuna, Resist)
+Location: Kalm Materia Shop
+Sell: 105000 Gil
+
+Revive (Life, Life 2)
+Location: Junon Materia Shop
+Sell: 105000 Gil
+
+Seal (Sleepel, Silence)
+Location: Junon Materia Shop
+Sell: 210000 Gil
+
+Destruct (DeBarrier, DeSpell, Death)
+Location: Shinra Mansion
+Sell: 630000 Gil
+
+Transform (Mini, Toad)
+Location: North Corel Materia Shop.
+Sell: 350000 Gil
+
+Exit (Escape, Remove)
+Location: Rocket Town Materia Shop
+Sell: 700000 Gil
+
+Mystify (Confu, Berserk)
+Location: Gongaga Materia Shop
+Sell: 420000 Gil
+
+Barrier (Barrier, MBarrier, Reflect, Wall)
+Location: Rocket Town Materia Shop
+Sell: 700000 Gil
+
+Time (Haste, Slow, Stop)
+Location: Gongaga Materia Shop
+Sell: 420000 Gil
+
+Shield (Shield)
+Location: Final Dungeon
+Sell: 1 Gil
+
+Comet (Comet, Comet 2)
+Location: City of the Ancients
+Sell: 1400000 Gil
+
+Contain (Freeze, Break, Tornado, Flare)
+Location: Mideel 
+Sell: 1 Gil
+
+Full Cure (Full Cure)
+Location: Cosmo Canyon
+Sell: 1 Gil
+
+Ultima (Ultima)
+Location: North Corel
+Sell: 1 Gil
+
+Master Magic (All Spells)
+Location: Cosmo Canyon
+Sell: 1 Gil
+
+- Support (Blue) Materia -
+
+All
+Location: Sector 7 Slums
+Sell: 1400000 Gil
+Whenever linked to a Materia that usually only affects one enemy, it will effect 
+all enemies.  The number of time you can use All in battle depends on the 
+Materia's level.
+
+Added Effect
+Location: Cave of the Gi
+Sell: 1 Gil
+This Materia takes advantage of an effect that it is linked with.  For example, 
+if linked to a "Poison" Materia on a weapon, that weapon will sometimes strike 
+an enemy with Poison.  If linked to a "Poison" Materia on an armor, that armor 
+will gain protection against Poison.
+
+Elemental
+Location: Shinra Building
+Sell: 1 Gil
+If linked to a Materia with Elemental properties (such as Fire) on a weapon, 
+that weapon will gain Fire-Elemental power.  If the same is done on an armor 
+instead, that armor will gain protection from Fire-Elemental attacks.
+
+HP Absorb
+Location: Wutai
+Sell: 1 Gil
+HP will be absorbed from an enemy when you strike it if equipped on a weapon.
+
+MP Absorb
+Location: Wutai
+Sell: 1 Gil
+MP will be absorbed from an enemy when you strike it if equipped on a weapon.
+
+Steal as Well
+Location: Wutai Dai-Chao Statues
+Sell: 1 Gil
+When the Materia this is linked to is used, the character will attempt to steal 
+from the enemy as well.
+
+MP Turbo
+Location: Whirlwind Maze
+Sell: 1 Gil
+When the Magic or Summon Materia this is linked to is used, the Spell's attack 
+power will increase by n% (depending on the Materia's level), and the MP cost of 
+the Spell will increase by n%.
+
+Sneak Attack
+Location: Gold Saucer Chocobo Racing
+Sell: 1 Gil
+The Materia this is linked to will automatically be used at the start of the 
+battle, before the enemies can attack.  This happens n% of the time (depending 
+on the Materia's level).
+
+Added Cut
+Location: Downed Gelnika Plane
+Sell: 1 Gil
+When the Materia this is linked to is used, the character also uses a regular 
+attack on an enemy.
+
+Magic Counter
+Location: Gold Saucer Chocobo Racing
+Sell: 1 Gil
+When the character this Materia is equipped on is successfully attacked, the 
+linked Materia will automatically activate the highest level Spell it has 
+available.  This happens n% of the time, depending on the Materia's level.
+
+Quadra Magic
+Location: Mideel Area Materia Cave
+Sell: 1 Gil
+When the Magic or Summon Materia this is linked to is used, the selected Spell 
+will be cast four times in a row, at no additional MP cost.  The number of times 
+this effect can be used in a battle depends on the Materia's level.
+
+Command Counter
+Location: Final Dungeon
+Sell: 1 Gil
+Whatever Command (and only Command) Materia this is linked to will be 
+automatically activated when the character is attacked.  The chance of this 
+happening depends on the Materia's level.
+
+Final Attack
+Location: Gold Saucer Secret Duel
+Sell: 1 Gil
+When the character this Materia is equipped on dies, the Materia it's linked to 
+will automatically activate its most powerfuk available Spell.  Best when used 
+with a revivial Spell, such as Life, Life 2, or Phoenix.  The number of times 
+this effect can be used depends on the Materia's level.
+
+- Command (Yellow) Materia -
+
+Steal (Steal, Mug)
+Location: Midgar Sewers
+Sell: 84000 Gil 
+This allows the selected character to steal an item/weapon/armor/accessory from 
+an enemy, if it has one.  Mug allows the character to do this and attack in the 
+same turn.
+
+Sense (Sense)
+Location: Midgar Sector 6 Playground
+Sell: 70000 Gil
+When used, this tells you the selected enemy's HP, Max HP, MP, Max MP, Level, 
+and Elemental Weakness.  You can continue to view that selected enemy's stats by 
+pressing the Select Button.  Doesn't work on all Bosses.
+
+Deathblow (Deathblow)
+Location: Gongaga Jungle
+Sell: 700000 Gil
+This is an attack that hits far less often, but does double the damage if it 
+does.
+
+Manipulate (Manipulate)
+Location: Cait Sith begins with this Materia.
+Sell: 700000 Gil
+The enemy hit with this attack is completely under your control until it's hit 
+by a party member or fellow enemy.  The character manipulating also loses all 
+his/her turns until that happens.
+
+Morph (Morph)
+Location: Temple of the Ancients
+Sell: 1 Gil
+Allows you to do a special attack that does 1/8 damage if it hits, but morphs 
+the enemy into an item/weapon/armor/accessory if it's the killing blow.
+
+Throw (Throw, Coin Toss)
+Location: Yuffie begins with this Materia.
+Sell: 700000 Gil
+Allows you to throw any weapon in your inventory at an enemy and do high damage.  
+You lose that weapon permanently.  Coin Toss allows you to throw Gil at your 
+enemy for damage (10 Gil = 1 HP).
+
+Slash All (Slash All, Flash Slash)
+Location: Ancient Forest
+Sell: 1 Gil
+Causes your regular attack to hit all enemies, but does 1/3 less damage.  Flash 
+Slash makes your regular attack target all enemies, and kills them instantly if 
+it hits.  Very effective.
+
+Double Cut (Double Cut, Quadra Cut)
+Location: Downed Gelnika Plane
+Sell: 1 Gil
+When you attack an enemy normally, they are hit two separate times for maximum 
+damage.  When Quadra Cut is used, you attack four times, hitting enemies at 
+random for maximum damage each time.
+
+W-Item (W-Item)
+Location: Midgar Sector 8 Subway
+Sell: 1 Gil
+W-Item replaces Item on your battle menu and the character can now use two items 
+in one turn.
+
+W-Magic (W-Magic)
+Location: Final Dungeon
+Sell: 1 Gil
+W-Magic replaces Magic on your battle menu and the character can now use two 
+Spells in one turn.
+
+W-Summon (W-Summon)
+Location: Gold Saucer Battle Arena
+Sell: 1 Gil
+W-Summon replaces Summon on your battle menu and the character can now use two 
+Summons in one turn.
+
+Mime (Mime)
+Location: Wutai Area Materia Cave
+Sell: 1 Gil
+When this option is selected, the character mimics the action of the last 
+character.
+
+Master Command
+Location: Cosmo Canyon
+Sell: 1 Gil
+
+Allows you to use every Command in the game.
+
+- Independent (Purple) Materia -
+
+Cover
+Location: Aeris' House
+Sell: 70000 Gil
+Whoever this Materia is equipped on will randomly take hits for the other 
+characters.  This happens n% of the time, depending on the Materia's level.
+
+Counter Attack
+Location: Gold Saucer Chocobo Racing
+Sell: 1 Gil
+Whoever this Materia is equipped on will randomly counter attack an enemy when 
+he or she is attacked.  This happens n% of the time, depending on the Materia's 
+level.
+
+Long Range
+Location: Mythril Mine
+Sell: 1 Gil
+The character equipped with this can attack will full power from the Back Row, 
+and can successfully attack flying enemies or enemies that are otherwise out of 
+reach.
+
+HP Plus
+Location: Cosmo Canyon Materia Shop
+Sell: 56000 Gil
+Raises the selected character's HP by n%, depending on the Materia's level.
+
+MP Plus
+Location: Cosmo Canyon Materia Shop
+Sell: 56000 Gil
+Raises the selected character's MP by n%, depending on the Materia's level.
+
+Luck Plus
+Location: Temple of the Ancients
+Sell: 1050000 Gil
+Raises the selected character's Luck by n%, depending on the Materia's level.
+
+Magic Plus
+Location: Zango Valley
+Sell: 1400000 Gil
+Raises the character's Magic Attack by n%, depending on the Materia's level.
+
+Speed Plus
+Location: Gold Saucer Battle Arena 
+Sell: 1400000 Gil
+Raises the character's Speed by n%, depending on the Materia's level.
+
+EXP Plus
+Location: Gold Saucer Wonder Square
+Sell: 1 Gil
+The EXP recieved at the end of a battle raises by 50% if the Materia's at Level 
+1 and doubles if it's at Level 2.
+
+Gil Plus
+Location: Gold Saucer Wonder Square
+Sell: 1 Gil
+The Gil recieved at the end of a battle raises by 50% if the Materia's at Level 
+1 and doubles if it's at Level 2.
+
+Pre-Emptive
+Location: Gold Saucer Wonder Square
+Sell: 1 Gil
+The rate of pre-emptive battles you get will be increased by n%, depending on 
+the Materia's level.
+
+Chocobo Lure
+Location: Chocobo Ranch
+Sell: 1 Gil
+This Materia attracts Chocobos into a battle (while you're walking on Chocobo 
+Tracks) when equipped.  The rate of Chocobo Fights you'll have increases with 
+the Materia's level.
+
+Enemy Lure
+Location: Gold Saucer Battle Arena
+Sell: 1 Gil
+This Materia increases the number of random enemy encounters when equipped.  At 
+Level 1, the rate of encounters increases 50%, and at Level 2, it doubles.
+
+Enemy Away
+Location: Gold Saucer Chocobo Races
+Sell: 1 Gil
+This Materia decreases the number of random enemy encounters when equipped.  At 
+Level 1, the rate of encounters decrease by 50%, and at Level 2, the rate of 
+encounters decrease by 75%.
+
+HP/MP Switch
+Location: North Corel Area Materia Cave
+Sell: 1 Gil
+This Materia switches your HP and MP values.  So, for example, if your Max HP is 
+9999, and your Max MP is 999, you'll get a Max MP value of 9999 and a Max HP 
+value of 999.  For all the difficulty in getting this, it seems to be one 
+completely useless chunk of rock.
+
+Mega All
+Location: Final Dungeon
+Sell: 1 Gil
+When this is equipped, "Attack" becomes "Slash All" on the Battle Menu and just 
+about every other Command (Steal, Sense, Morph, Deathblow, Control) now affects 
+all enemies in the battle.
+
+- Summon (Red) Materia -
+
+Choco/Mog (Deathblow!!!, Fat Chocobo)
+Location: Chocobo Ranch
+Sell: 1 Gil
+This summons a Chocobo and a Moogle (NOT A MOG, DAMMIT!!) to bash into the 
+enemies for some light type-less damage, and also causes Stop randomly.  
+Additionally, you may get an alternate attack called "Fat Chocobo" that causes 
+a, um.. fat Chocobo to fall from the sky and damage all enemies for a bit more 
+than Deathblow!!!.  This happens about 1 in 16 times.
+
+Shiva (Diamond Dust)
+Location: Junon
+Sell: 1 Gil
+The Water Goddess is summoned and does a small amount of Water-Elemental damage 
+to all enemies.
+
+Ifrit (Hellfire)
+Location: Shinra Boat
+Sell: 1 Gil
+The Fire God is summoned and does a small amount of Fire-Elemental damage to all 
+enemies.  This is slightly stronger than Shiva.
+
+Ramuh (Judgement Bolt)
+Location: Gold Saucer Chocobo Jockey Room
+Sell: 1 Gil
+The Lightning God is summoned and does a small amount of Lightning-Elemental 
+damage to all enemies.  This is slightly stronger than Ifrit.
+
+Titan (Anger of the Earth)
+Location: Gongaga Jungle
+Sell: 1 Gil
+The Earth Elemental is summoned and does a moderate amount of Earth-Elemental 
+damage to all enemies.  This is slightly stronger than Ramuh.
+
+Odin (Steel Bladed Sword, Gungnir)
+Location: Shinra Mansion
+Sell: 1 Gil
+The god Odin is summoned and kills all enemies instantly using Steel-Bladed 
+Sword.  If the enemy is directly unkillable (a Boss, for example), Gungnir will 
+be used, which will cause heavy non-Elemental damage on one enemy.
+
+Leviathan (Tidal Wave)
+Location: Pagoda Wutai
+Sell: 1 Gil
+The Water Elemental is summoned and does a heavy amount of Water-Elemental 
+damage to all enemies.  This attack is twice as strong as Titan.
+
+Bahamut (Mega Flare)
+Location: Temple of the Ancients
+Sell: 1 Gil
+The God of the Dragons is summoned and does heavy Non-Elemental damage to all 
+enemies.  About as powerful as Leviathan, but much more effective against 
+Bosses.
+
+Kjata (Tri-Disaster)
+Location: Sleeping Forest
+Sell: 1 Gil
+Kujata is summoned and does heavy Fire, Water, and Lightning-Elemental damage to 
+all enemies (in three different waves).  Much stronger than Bahamut and 
+Leviathan.
+
+Alexander (Holy Judgement)
+Location: Ice Gate
+Sell: 1 Gil
+The Holy Elemental is summoned and does massive Holy-Elemental damage to all 
+enemies.  Stronger than Kjata.
+
+Bahamut Neo (Giga Flare)
+Location: Whirlwind Maze
+Sell: 1 Gil
+The God of the Dragons is summoned and does very massive non-Elemental damage to 
+all enemies.  The damage is high regardless of the enemy's defenses.
+
+Phoenix (Phoenix Flames)
+Location: Condor Fort
+Sell: 1 Gil
+The Fire Elemental is summoned and does a moderately heavy amount of Fire-
+Elemental damage to all enemies, and casts Life 2 on the party.  Not as strong 
+as Alexander or Bahamut Neo, but you get to be revived.. best when linked to 
+Final Attack.
+
+Hades (Black Cauldron)
+Location: Downed Gelnika Plane
+Sell: 1 Gil
+The Darkness God is summoned and does a very heavy amount of Darkness-Elemental 
+damage to all enemies, plus causes Sleep, Silence, Mini, Frog, Slow, Confuse, 
+and Paralysis (when it can be done).
+
+Bahamut ZERO (Terra Flare)
+Location: Cosmo Canyon
+Sell: 1 Gil
+The God of the Dragons is summoned and does an incredibly massive amount of non-
+Elemental damage to all enemies.  The strongest Summon next to Knights of the 
+Round.
+
+Typoon (Disintegration)
+Location: Ancient Forest
+Sell: 1 Gil
+Typoon is summoned and does a heavy amount of non-Elemental damage to all 
+enemies.  Kills some enemies instantly.  Kind of a strange/usless Summon I 
+think, but it looks cool.
+
+Knights of the Round (Ultimate End)
+Location: Round Island Materia Cave
+Sell: 1 Gil
+The thirteen Knights of the Round Table are summoned and each one hits all 
+enemies for incredibly massive damage each.  Typically does 70,000-130,000 HP of 
+damage to all enemies, and kills Bizarro-Sephiroth in one hit.
+
+Master Summon
+Location: Cosmo Canyon
+Sell: 1 Gil
+Allows the character this is equipped on to use every Summon Spell in the game, 
+an unlimited number of times.
+
+--------------------------------------------------------------------------------
+----
+
+---------------
+III. Spell List
+---------------
+
+All: Can be All'ed
+
+- White (Healing) Magic -
+
+Cure: Restores a small amount of HP to the target. (All)
+Cure 2: Restores a medium amount of HP to the target. (All)
+Cure 3: Restores a large amount of HP to the target. (All)
+Life: Revives the target and restores 1/4 of their HP. (All)
+Life 2: Revives the target and restores all of their HP. (All)
+Regen: Allows the target to slowly regenerate HP. (All)
+Poisona: Nullifies Poison on one target. (All)
+Esuna: Nullifies every Status Ailment on one target. (All)
+Resist: Prevents all Status Ailments on the target for the remainder of the 
+battle. (All)
+Full Cure: Restores all HP to one target.
+
+- Black (Attacking) Magic -
+
+Fire: Does a small amount of Fire-Elemental damage to one target. (All)
+Fire 2: Does a medium amount of Fire-Elemental damage to one target. (All)
+Fire 3: Does a large amount of Fire-Elemental damage to one target. (All)
+Ice: Does a small amount of Water-Elemental damage to one target. (All)
+Ice 2: Does a medium amount of Water-Elemental damage to one target. (All)
+Ice 3: Does a large amount of Water-Elemental damage to one target. (All)
+Bolt: Does a small amount of Lightning-Elemental damage to one target. (All)
+Bolt 2: Does a medium amount of Lightning-Elemental damage to one target. (All)
+Bolt 3: Does a large amount of Lightning-Elemental damage to one target. (All)
+Quake: Does a small amount of Earth-Elemental damage to one target. (All)
+Quake 2: Does a medium amount of Earth-Elemental damage to one target. (All)
+Quake 3: Does a large amount of Earth-Elemental damage to one target. (All)
+Bio: Does a small amount of Poison-typed damage, and may cause Poison to one 
+target. (All)
+Bio 2: Does a medium amount of Poison-typed damage, and may cause Poison to one 
+target. (All)
+Bio 3: Does a large amount of Poison-typed damage, and may cause Poison to one 
+target. (All)
+Demi: Hits one target for 1/4 of their HP; not effective against some Bosses. 
+(All)
+Demi 2: Hits one target for 1/2 of their HP; not effective against some 
+Bosses.(All)
+Demi 3: Hits one target for 3/4 of their HP; not effective against some 
+Bosses.(All)
+Comet: Hits one target for very heavy damage (4000+).
+Comet 2: Hits all enemies for heavy damage.
+Freeze: Hits one enemy for massive Water-Elemental damage (5000+).
+Break: Hits one enemy for massive Earth-Elemental damage (5250+); may Petrify 
+the target.
+Tornado: Hits one enemy for massive Wind-Elemental damage (5500+).
+Flare: Hits one enemy for massive Fire-Elemental damage (6000+).
+Death: Kills one target instantly; not effective against Bosses. (All)  
+Remove: Removes all enemies from battle, ending the battle instantly.  Not 
+effective against Bosses. (All)
+Ultima: Hits all enemies for massive damage (5000+).  
+
+- Gray (Effect) Magic - 
+
+Sleepel: Randomly puts the target to Sleep. (All)
+Silence: Randomly Silences the target. (All)
+Mini: Randomly causes "Mini" condition on the target. (All)
+Toad: Randomly causes "Toad" condition on the target. (All)
+Confu: Randomly Confuses the target. (All)
+Berserk: Randomly causes "Berserk" condition on the target. (All)
+DeBarrier: Destroys all barriers (Barrier, MBarrier, Reflect, Wall, Shield) on 
+the target. (All)
+DeSpell: Destroys all barriers and nullifies Haste, Slow, Stop, Death Sentence, 
+Regen, and Resist. (All)
+Haste: Speeds up the target's Active Time Guage, allowing for more turns. (All)
+Slow: Slows down the target's Active Time Guage, forcing less turns. (All)
+Stop: Stops the target's Active Time Guage. (All)
+Barrier: Puts a Barrier on the target, which cuts all Physical damage by 50% for 
+a limited time. (All)
+MBarrier: Puts a Magic Barrier on the target, which cuts all Magic damage by 50% 
+for a limited time. (All)
+Reflect: Allows the target to reflect the next four Spells that hit him/her back 
+at the caster. (All)
+Wall: All Physical and Magic damage done to the target is cut by 50% for a 
+limited time. (All)
+Escape: Allows the party to escape from battle immediately.
+Shield: Puts a Shield on the target, protecting him/her from all Physical damage 
+and allowing the target to absorb all Elemental (but not type-less) damage as 
+HP.
+
+--------------------------------------------------------------------------------
+----
+
+--------------------
+IV. Limit Break List
+--------------------
+
+Here, I'll give you a description of every Limit Break in the game.  First off, 
+a little fact that most people DON'T know: Limit Breaks are not learned at 
+random.  The first Limit Break in a set is learned by killing 80 enemies (the 
+person who gets the killing blow gets the kill).  The oly exception is Vincent, 
+who must only kill 60 enemies.  The second Limit Break in a set is learned after 
+the first one is used eight times.  The easiest way, I think, to kill as many 
+enemies as possible in the shortest amount of time is to use a weak Summon Spell 
+(such as Ifrit or Ramuh) against large groups of weak enemies (groups as big as 
+four or five enemies can be found in the Corel Mountains).  Anyway, however you 
+decide to do it, good luck.
+
+- Cloud Strife -
+
+Level 1 Limit Breaks
+
+Braver: Cloud leaps high into the air, and brings his sword down upon one enemy 
+for light damage.
+
+Cross-Slash: Cloud cuts the kanji "Kyou" into a single enemy, doing slightly 
+more damage than Braver and paralyzing the enemy.  Doesn't paralyze some Bosses.
+
+Level 2 Limit Breaks
+
+Blade Beam: Cloud fires a beam from his sword at one enemy for moderate damage.  
+The beam then splits apart and hits all other enemies for 1/4 the damage.
+
+Climhazzard: Cloud drives his sword into an enemy, and then leaps high into the 
+air, doing heavy damage.
+
+Level 3 Limit Breaks
+
+Meteorain: Cloud leaps into the air and fires six meteors at random enemies, 
+with each one doing light to moderate damage.
+
+Finishing Touch: Cloud forms a tornado that instantly destroys most regular 
+enemies, and does serious damage to those that live.  It does moderate damage to 
+Bosses, but you're probably better off with Meteorain when fighting Bosses.
+
+Level 4 Limit Break
+
+Omnislash: Cloud launches a flashy, fierce, 15-hit combo against all enemies, 
+hitting them at random for moderate to heavy damage each.
+
+- Tifa Lockheart -
+
+Tifa's Limit Breaks are a bit different from everyone else's - each new Limit 
+Break is added to a combo, and each hit depends on what the Slots land on.  If 
+you land on a "Hit", that Limit Break will hit.  If it lands on a "Miss", that 
+Limit Break will be skipped.  If it lands on a "Yeah!", that Limit Break will 
+hit AND do extra damage.  The slots become increasingly hard with each new Limit 
+Break.
+
+Level 1 Limit Breaks
+
+Beat Rush: Tifa launches a small combo against an enemy, for light damage.
+
+Somersault: Tifa somersault kicks an enemy for light damage.
+
+Level 2 Limit Breaks 
+
+Waterkick: Tifa sweep kicks an enemy for moderate damage.
+
+Meteodrive: Tifa performs a suplex on an enemy for moderate damage.
+
+Level 3 Limit Breaks
+
+Dolphin Blow: Tifa summons a dolphin (?) and performs an uppercut against an 
+enemy, for moderate to heavy damage.
+
+Meteor Strike: Tifa shows off her strength and leaps high into the air with the 
+enemy, and slams it down, head first, into the ground, for heavy damage.
+
+Level 4 Limit Break
+
+Final Heaven: Tifa focuses her ki into her index finger and hits one enemy with 
+a huge blast of energy, for incredibly massive damage.  Don't even try for a 
+"Yeah!" on this one.. it's vitually impossible.  A 7-hit combo with a few 
+"Yeah!"s is powerful enough.
+
+- Barret Wallace - 
+
+Level 1 Limit Breaks
+
+Big Shot: Barret focuses energy into his gun-arm and hits one enemy with a big 
+blast of energy, for light to moderate damage.
+
+Mindblow: Barret focuses a different, blue energy into his gun-arm and hits an 
+enemy with it, draining its MP.  Great against Bosses with powerful Magic 
+attacks.
+
+Level 2 Limit Breaks
+
+Grenade Bomb: Barret fires a grenade into the enemy group, doing moderate damage 
+to all enemies.
+
+Hammerblow: Using all of his strength, Barret drives into one enemy, completely 
+eliminating it from the battle.  Useless against some enemies and all Bosses.  
+It doesn't do any direct damage.
+
+Level 3 Limit Breaks
+
+Satellite Beam: Barret summons lasers from space that hit all enemies for 
+moderate to heavy damage each.
+
+Ungarmax: Barret fires 18 rounds at the enemy group, with each hit doing light  
+damage.
+
+Level 4 Limit Break
+
+Catastrophe: Using his gun-arm, Barret launches himself into the air and fires a 
+massive beam of super-heated plasma energy at all enemies, hitting them 20 times 
+at random for moderate damage each.
+
+- Aeris Gainsborough -
+
+Level 1 Limit Breaks
+
+Healing Wind: Aeris summons a gentle breeze that recovers half of each 
+character's Max HP (i.e a character with 400 max HP would recover 200 HP).
+
+Seal Evil: Aeris casts a curse on all enemies, which Stops and Silences them, 
+effectively sealing their spell-casting abilities.
+
+Level 2 Limit Breaks
+
+Breath of the Earth: Aeris summons a healing energy and nullifies all negative 
+and positive Status Ailments.
+
+Fury Brand: Sacrificing her own Limit Break, Aeris fills the Limit Guages of her 
+other party members with a strong energy.
+
+Level 3 Limit Breaks
+
+Planet Protector: Aeris summons golden energy which surrounds the members, 
+making them invulnerable for a limited time.
+
+Pulse of Life: Aeris brings forth a healing light that refills everyone's HP and 
+MP, removes all Status Ailments, AND completely restores any dead party members.
+
+Level 4 Limit Break
+
+Great Gospel: A heavenly beam of light engulfs all the party members, restoring 
+all their HP and MP, AND making them invincible for a limited time.
+
+- Red XIII -
+
+Level 1 Limit Breaks
+
+Sled Fang: Red XIII charges through an enemy with great force, causing moderate 
+damage.
+
+Lunatic High: Red XIII emits a yellow beam which casts Haste on everyone, and 
+increases their Evade % by 50%.
+
+Level 2 Limit Breaks
+
+Blood Fang: Red XIII charges through an enemy and refills his HP and MP to that 
+of the enemy's current MP level.
+
+Stardust Ray: Ten energy stars fall from the sky and strike random enemies, with 
+each hit doing light damage.
+
+Level 3 Limit Breaks
+
+Howling Moon: Red XIII leaps in front of the full moon, and casts Haste and 
+Berserk on himself, as well as raises his Attack Power significantly.  This 
+Limit Break has its obvious advantages and disadvantages.
+
+Earth Rave: Red XIII launches a five-hit Elemental combo that hits each time for 
+moderate damage.
+
+Level 4 Limit Break
+
+Cosmo Memory: Red XIII absorbs star energy, and after charging up, fires a 
+massive atomic beam of red energy at all enemies, doing incredibly massive 
+damage to each (usually 9999 in the higher levels).
+
+- Cait Sith -
+
+Cait Sith has only two Limit Breaks, although his second Limit Break is divided 
+up into eight different attacks.
+
+Level 1 Limit Break
+
+Dice: Cait Sith throws two to six dice at the enemy.  The resulting number is 
+multiplied by 100, 200, 300, or 400 and the enemy takes that much damage.
+
+Level 2 Limit Break
+
+Slots: You get to try your luck at a slot machine to determine the attack used.  
+There are eight attacks total:
+
+Toy Box - When you don't get three of a kind, you get a random item from the Toy 
+Box dropped on the enemy group.  This can be a Fat Chocobo, icicles, a huge 
+weight, etc.
+
+Toy Soldiers - When you get three Crowns, Cait Sith summons an army of small toy 
+soldiers who attack enemies at random for fairly heavy damage each.
+
+Mog Dance - Incorrectly named, you get MOOGLE (not MOG, dammit!!) DANCE when you 
+get three Stars.  Moogle Dance causes a moogle to appear and completely restore 
+the party.  This is one of the best and most common results.
+
+Lucky Gal - When you score three Hearts, a cute girl dressed as a bunny appears 
+and blows all of your party members a kiss, which makes every hit during the 
+battle a critical hit until the end of the battle.
+
+Random Summon Spell - When you get three Bars, a random Summon Spell (out of the 
+ones you've gotten so far) will be cast on the enemies, at no MP cost for you.  
+Unfortunately, this means that you'll never have a chance of scoring Knights of 
+the Round at an early part of the game.  ^_~
+
+Combine - When you get three Cait Siths, Cait Sith becomes one with the party 
+members.  Cait Sith's new HP total is that of everyone's max HP added together 
+(ex. Cloud has 1000 max HP, Red XIII has 1500 max HP, and Cait Sith as 2000 max 
+HP, 2000+1500+1000 = 4500 max HP).  Mega Cait Sith's attacks to fairly massive 
+damage.
+
+All Over - When you score Cait Sith's face, all enemies in the battle are killed 
+instantly, regardless of whether they have protection from it or not.  Watch 
+out, though - if you mess up, you may accidentally get..
+
+Joker Death - When Cait Sith gets a Bar instead of the right side of his face, 
+all enemies die instantly.. but so do you.  Ribbons do not prevent this.  Game 
+Over.  Hope you saved recently.  ^_^;;
+
+- Cid Highwind -
+
+Level 1 Limit Breaks
+
+Boost Jump: Cid leaps high into the air, and then lands on a single enemy, 
+spear-first, for moderate damage.
+
+Dynamite: Cid whips out a stick of dynamite, lights it with his cigarette, and 
+throws it into the midst of the enemy group, hitting them all for light damage.  
+Cool.
+
+Level 2 Limit Breaks
+
+Hyper Jump: Cid leaps high into the sky, and then lands hard, creating a blast 
+of energy that hits all enemies for moderate damage.
+
+Dragon: Cid summons a dragon that appears and attacks one enemy for light 
+damage.  Cid then gains that enemy's current MP worth of HP and MP.
+
+Level 3 Limit Breaks
+
+Dragon Dive: Cid jumps high into the sky and lands on the enemies, spear-first, 
+six different times, hitting enemies at random for light to moderate damage.
+
+Big Brawl: Cid jumps into the middle of the enemy group and launches an eight-
+hit combo that hits enemies at random for light damage each (a little weaker 
+than Dragon Dive, but hits two more times).
+
+Level 4 Limit Break
+
+Highwind: Cid signals to the Highwind, which responds by firing 18 missiles at 
+the enemy group, hitting them at random for light damage each.
+
+- Yuffie Kisaragi -
+
+Level 1 Limit Breaks
+
+Greased Lighting: Yuffie cuts deep into one enemy for moderate damage.
+
+Clear Tranquil: Yuffie surrounds each of her party members with a blue aura, 
+which heals them to 50% of their current max HP (i.e, 1000 HP would be restored 
+to someone with 2000 max HP).
+
+Level 2 Limit Breaks
+
+Landscaper: Yuffie creates a giant shockwave that runs along the ground, hitting 
+all enemies for moderate damage.
+
+Bloodfest: Yuffie launches into a ten-hit combo, which hits enemies at random 
+for light damage each hit.
+
+Level 3 Limit Breaks
+
+Gauntlet: Yuffie creates a giant blast of energy that hits all enemies for 
+equally heavy damage, regardless of their defenses.
+
+Doom of the Living: Similar to Bloodfest, Yuffie launches into a 15-hit combo 
+that creates cool purple explosions when they hit for the same light damage.
+
+Level 4 Limit Break
+
+All Creation: Yuffie creates a massive, luminescent energy wave that blows away 
+all enemies for lethal damage (9999 HP in the later levels).
+
+- Vincent Valentine - 
+
+Vincent has four Limit Breaks in which he turns into a various beasts.  Each 
+beast cannot be controlled, and they have two attacks that they use at random.  
+This obviosuly has its advantages and disadvantages.
+
+Level 1 Limit Break
+
+Galian Beast: Vincent turns into a purple demon-beast with increased Speed, 
+Evade %, and a 30% higher max HP level.  This is the fastest of Vincent's forms.
+
+Berserk Dance - The Galian Beast launches a small combo on one enemy for light 
+damage. 
+
+Beast Flare - The Galian Beast creates orange orbs that explode around the 
+enemies, hitting them all for fairly heavy Fire-Elemental damage.
+
+Level 2 Limit Break
+
+Death Gigas: Vincent turns into a Frankenstein-like creature with increased 
+Defense Power and double the HP, but reduced Speed and low Magic Defense.
+
+Gigadunk - The Death Gigas slams an enemy for heavy damage.
+
+Livewire - The Death Gigas hits all enemies with a blast of electrical energy, 
+for moderate Lightning-Elemental damage.
+
+Level 3 Limit Break
+
+Hell Masker: Vincent turns into a freaky horror-movie guy with a chainsaw who 
+sports high Defense Power but low Attack Power.
+
+Splattercombo - The Hell Masker hits a single enemy five times with his chainsaw 
+for light damage each hit.  The total damage this does, though, is less than a 
+single Gigadunk would do.
+
+Nightmare - The Hell Masker hits one enemy with Sleep, Poison, Cofusion, 
+Silence, Frog AND Mini conditions.  That's nice, but it only hits one enemy.
+
+Level 4 Limit Break
+
+Chaos: Vincent turns into an ultra cool Satan-demon like creature with 
+incredibly high Attack Power, Defense Power, Magic Defense, and Speed.
+
+Chaos Saber - Chaos uses his Chaos Saber to deliver the same damage as Gigadunk 
+does.. but to every enemy!
+
+Satan Slam - If the huge skull coming out of the ground doesn't kill every enemy 
+instantly, then the flying skulls, which do massive damage to all enemies, will. 
+^_^
+
+--------------------------------------------------------------------------------
+----
+
+--------------------------------
+V. Level 4 Limit Break Locations
+--------------------------------
+
+Here, you'll find all the locations of the Level 4 Limit Break items.  Remember, 
+to use these items, the character must have mastered (learned) all six previous 
+Limit Breaks.
+
+- Cloud -
+
+Omnislash: In Disc 2, win 32000 BP (Battle Points) at the Gold Saucer Battle 
+Square, and exchange them for the Omnislash item.
+
+- Tifa -
+
+Final Heaven: After Cloud regains his senses in Mideel during Disc 2, go back to 
+Nibelheim with Cloud in the lead and play Tifa's piano.  Play the following 
+song: X, Square, Triangle, R1+Triangle, R1+Square, X, Square, Triangle, R1+X, 
+Circle, X, Square, Triangle.  Not only will you find out what happened to Tifa 
+after the Nibelheim incident, you'll get the Final Heaven item.
+
+- Barret - 
+
+Catastrophe: After you save North Corel from the Shinra Train (you have to save 
+the town to get this) in Disc 2, go to the house on the west hill, and talk to 
+the woman inside.  She'll give you the Catastrophe item as thanks for saving the 
+town.  Cool.
+
+- Aeris - 
+
+Great Gospel: First, drive into Costa Del Sol with the Buggy and sneak a ride in 
+the Shinra Boat.  Make your way out of Junon, and you'll find that you're still 
+in your Buggy.  In this area, look for shallows that the Buggy can cross.  Once 
+you cross the shallows, you'll come to the Sleeping Man's cave.  Talk to him, 
+and he'll give you.. nothing.  But talk to him when you've run away a number of 
+times where the last two digits in the number are the same (i.e. 11, 22, 33, 44, 
+etc.), and he'll either give you a Lightning Ring or Mythril.  If you get the 
+Lightning Ring, make the numbers match up again and talk to the Sleeping Man one 
+more time.  In any case, once you get Mythril, you're in buisness.  Now head 
+back to the Gongaga Area and look for the Blacksmith's house.  Give the Mythril 
+to him, and he'll allow you to choose an item from either the small or large 
+box.  Choose the small one; it contains the Great Gospel item!  The large one 
+cantains Gold Armor.  Yay.  Remember, good things do come in small packages.  
+This can only be done in Disc 1, for obvious reasons.
+
+- Red XIII -
+
+Cosmo Memory: During any Disc (preferably Disc 1), in the Shinra Mansion, open 
+the safe using the combination Right 36, Left 10, Right 59, Right 97 before the 
+time runs out.  If and when you open it, you'll fight a tough Boss, Lost Number.  
+After defeating it, you'll not only get the Odin Summon Materia, but you'll get 
+the Cosmo Memory item.
+
+- Cait Sith -
+
+Cait Sith does not have a Level 4 Limit Break.
+
+- Cid -
+
+Highwind: I can't give you specific directions to it, but it's hidden in the 
+Downed Shinra Plane in Discs 2 and 3.  The item IS well-hidden, but it's worth 
+it, just like every other treasure down there is.  Watch out for Emerald 
+Weapon!!
+
+- Yuffie -
+
+All Creation: Defeat the five Gods of the Wutai Pagoda to recieve the Leviathan 
+Summon Materia and the All Creation item.  This can be done during any Disc, but  
+Disc 1 is preferable.
+
+- Vincent - 
+
+Chaos: Visit Lucrecia's Cave with Vincent in your party during Disc 2, and then 
+visit again in Disc 3 with Vincent in your party.  Vincen't Ultimate Weapon and 
+the Chaos item will be waiting for him.
+
+--------------------------------------------------------------------------------
+----
+
+------------------------------
+VI. Ultimate Weapons Locations
+------------------------------
+
+In this section, I'll tell you where to find every character's Ultimate Weapon.  
+Note that even though every Ultimate Weapon has four linked Materia slots and 
+the highest Attack Power, it doesn't have ANY Materia growth rate, so it's kind 
+of like a double-edged sword.
+
+- Cloud - 
+
+Ultima Weapon: In Disc 3, you may (and probably will) run into Ultimate Weapon 
+while riding the Highwind in the Overworld.  You have to ram him with the 
+Highwind to get him to attack you, and every time you defeat him, he'll run away 
+temporarily.  Your only option, unfortunately, is to chase him in the Highwind 
+again.  Once you defeat him enough (he has 100000 HP), he'll retreat to his 
+final resting place, Cosmo Canyon.  Defeat him in that area, and he'll yield 
+Cloud's Ultimate Weapon, the.. Ultima Weapon.  Additionally, he'll provide 
+access to the Ancient Forest.
+
+- Tifa - 
+
+Premium Heart: In Disc 2 or 3, return to Bone Village and look for the "Sector 5 
+Key" (mistranslation).  Once you dig it up, you'll be able to open the Sector 7 
+Door that blocks your access to Midgar.  Not much has changed, but if you go to 
+Wall Market and go to the room with the machine gun mounted on the ceiling, 
+you'll find that the computer has been fixed.. temporarily.  Access it and 
+you'll get Tifa's Ultimate Weapon, the Premium Heart.
+
+- Barret - 
+
+Missing Score: In Disc 2, during the raid of Midgar, you'll find the Missing 
+Score in a treasure box on the stairs leading up to Hojo.. but only if Barret is 
+currently in your party.  Bummer.  -_-
+
+- Aeris -
+
+Princess Guard: You can find Aeris' Ultimate Weapon, the Princess Guard, in the 
+Temple of the Ancients, behind the IIII Door (yeah, IIII, not IV), during Disc 
+1.  Seems a little late to be getting it, though..
+
+- Red XIII -
+
+Limited Moon: Return to Cosmo Canyon anytime in Disc 3 with Red XIII in your 
+party, and speak to Bugenhagen.  A new event will unfold, and you'll end up 
+getting Red XIII's Ultimate Weapon, the Limited Moon.
+
+- Cait Sith - 
+
+HP Shout: When you return to Midgar and raid the Shinra Building in Disc 2, 
+return to the 64th Floor and check the locker that Cloud previously said he 
+found a megaphone.  He'll realize that he needs it for Cait Sith now, and it 
+just so happens to be Cait Sith's Ultimate Weapon, the HP Shout.
+
+- Cid -
+
+Venus Gospel: When all of the Huge Materia events in Disc 2 are over, talk to 
+the guy in Rocket Town who is sentimental about the rocket three times (you'll 
+know him by the fact that all he does is look at it).  He'll give you Cid's 
+Ultimate Weapon, the Venus Gospel.
+
+- Yuffie - 
+
+Conformer: In Disc 2 or 3, go to the Downed Gelnika plane and go to the 
+Laboratory section (it's kinda hard to find as the door to that section isn't 
+very well marked).  One of the items here is Yuffie's Ultimate Weapon, the 
+Conformer.
+
+- Vincent -
+
+Death Penalty: In Disc 2, go to Lucrecia's Cave with Vincent in your party.  
+Return in Disc 3, and you'll get Vincent's Ultimate Weapon, the Death Penalty 
+(you get this at the same time you get his Level 4 Limit Break, Chaos).
+
+--------------------------------------------------------------------------------
+----
+
+-----------------------------
+VII. Summon Materia Locations
+-----------------------------
+
+This section will help you to find each and every Summon Materia in the game.  
+You don't want to miss any of them, because not only are they powerful, but they 
+look incredibly cool too.
+
+Choco/Mog: Find this at the Chocobo Ranch.  The first time you enter, talk to 
+the Chocobo nearest to you.  Select "Wark!", and the Chocobos will do a cute 
+little dance for you.  All of this concludes with you walking away with the 
+Choco/Mog Summon Materia.
+
+Shiva: Priscilla will give this Materia to you after you save her from 
+Bottomswell in Junon, the first time you visit.
+
+Ifrit: Jenova-BIRTH (on the Shinra Boat) will drop this when you beat her.
+
+Ramuh: In the Chocobo Jockey Room you stay in when you're racing to escape from 
+Corel Prison.  You'll know where it is by its flashing.
+
+Titan: In Gongaga, check the location where Scarlet says she's found a "useless" 
+Materia.  Titan maybe useless to her, but.. whatever.. ^_~
+
+Odin: It can be found inside of the safe in the Shinra Mansion, once you beat 
+the Boss of the safe, Lost Number.
+
+Leviathan: Godo will give this Materia to Yuffie when she beats him at the top 
+of the Wutai Pagoda.  You get this at the same time you get her Level 4 Limit 
+Break item, All Creation.
+
+Bahamut: The Red Dragon will drop this when you beat it inside of the Temple of 
+the Ancients.
+
+Kjata: Find this in the Sleeping Forest.  It's easy to miss, as it's hidden on 
+the left side of the screen, and it appears and disappears at will.  When you 
+see a shining red ball, go to where you see it and it will fall into your 
+possesion soon enough.
+
+Alexander: This one is incredibly hard to get (I missed it my first time through 
+the Ice Gate).  I can't give you directions, so I suggest that you check out one 
+of the great FAQs at GameFAQs that can.  I WILL tell you, however, that you 
+first must dip your hands in the hot springs, and then touch the Ice Witch, who 
+is found in an extremely out-of-the-way cave in the massive Ice Gate maze.  Good 
+luck.  It's worth it.
+
+Phoenix: Just win at the Fort Condor Huge Materia Event (either by doing the 
+stupid war/strategy-game or by cranking up the speed and waiting for the Boss to 
+come to you).  Either way, you'll get the Phoenix Summon Materia once you win.
+
+Bahamut Neo: This one's extremely hard to miss.  It's laying right in the middle 
+of your path through the Whirlwind Maze.
+
+Hades: This one can be found in the Downed Gelnika Plane.  It's generally easy 
+to find.  If you have THAT much trouble, just E-mail me.  ^_^
+
+Bahamut ZERO: Examine the Blue Huge Materia when you have both Bahamut and 
+Bahamut Neo in your posession, and you'll be given the almighty Bahamut ZERO 
+Summon Materia.
+
+Typoon: This can be found (although it's really not worth it) in the Ancient 
+Forest.  It does look cool, but it just really sucks.
+
+Knights of the Round: This legendary Materia can be found in the Round Island 
+Materia Cave, which can only be reached on the back of a self-bred Gold Chocobo.  
+See the Chocobo Breeding Section for more information.
+
+--------------------------------------------------------------------------------
+----
+
+-----------------
+VIII. Weapon List
+-----------------
+
+Here's a list of all the Weapons in the game, their Attack Power, their Materia 
+growth rate, their Materia slot layouts, and where they're FIRST found.
+
+- Cloud - 
+
+Buster Sword
+Attack: 18
+Growth: Normal
+Slot: O-O
+Found: Cloud starts with this Weapon.
+
+Mythril Saber
+Attack: 23
+Growth: Normal
+Slot: O-O O
+Found: Kalm Weapon Shop
+
+Hardedge
+Attack: 32
+Growth: Normal
+Slot: O-O O O
+Found: Junon Weapon Shop
+
+Force Stealer
+Attack: 36
+Growth: Double
+Slot: O O O
+Found: Win at Junon Parade
+
+Butterfly Edge
+Attack: 39
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Rune Blade
+Attack: 40
+Growth: Double
+Slot: O O O O
+Found: Mt. Nibel
+
+Yoshiyuki
+Attack: 56
+Growth: Normal
+Slot: O O
+Found: Rocket Town
+
+Murasame
+Attack: 51
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Organics
+Attack: 62
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Nail Bat
+Attack: 70
+Growth: None
+Slot: None
+Found: Temple of the Ancients
+
+Enhance Sword
+Attack: 43
+Growth: Normal
+Slot: O-O O-O O-O O-O
+Found: Gaea's Cliff
+
+Crystal Sword
+Attack: 76
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Apocalypse
+Attack: 88
+Growth: Triple
+Slot: O O O
+Found: Ancient Forest
+
+Heaven's Cloud
+Attack: 93
+Growth: Normal
+Slot: O O O O O O
+Found: Downed Gelnika Plane
+
+Ragnarok
+Attack: 97
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Win from Proud Clod (Boss)
+
+Ultima Weapon
+Attack: 100
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Win from Ultimate Weapon (Boss), see Part VI
+
+- Tifa - 
+
+Leather Glove
+Attack: 13
+Growth: Normal
+Slot: O
+Found: Tifa starts with this Weapon.
+
+Metal Knuckle
+Attack: 18
+Growth: Normal
+Slot: O-O
+Found: Wall Market Weapon Shop
+
+Mythril Claw
+Attack: 24
+Growth: Normal
+Slot: O-O O
+Found: Kalm Weapon Shop
+
+Motor Drive
+Attack: 27
+Growth: Double
+Slot: O O O
+Found: Costa del Sol
+
+Grand Glove
+Attack: 31
+Growth: Normal
+Slot: O-O O O
+Found: Junon Weapon Shop
+
+Tiger Fang
+Attack: 38
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Platinum Fist
+Attack: 30
+Growth: Double
+Slot: O O O O
+Found: Nibelheim
+
+Powersoul
+Attack: 28
+Growth: Double
+Slot: O O O O
+Found: Mt. Nibel
+
+Diamond Knuckle
+Attack: 51
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Work Glove
+Attack: 24
+Growth: None
+Slot: None
+Found: Temple of the Ancients
+
+Dragon Claw
+Attack: 62
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Kaiser Knuckle
+Attack: 44
+Growth: Normal
+Slot: O-O O O O O O O
+Found: Whirlwind Maze
+
+Crystal Grab
+Attack: 75
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+God's Hand 
+Attack: 86
+Growth: Normal
+Slot: O-O O-O
+Found: Win from Carry Armor (Boss)
+
+Master Fist
+Attack: 38
+Growth: Normal
+Slot: O O O O O O
+Found: Shinra Building
+
+Premium Heart
+Attack: 99
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Wall Market, see Part VI
+
+- Barret - 
+
+Gatling Gun
+Attack: 14
+Growth: Normal
+Slot: O
+Found: Barret starts with this Weapon.
+
+Assault Gun
+Attack: 17
+Growth: Normal
+Slot: O-O
+Found: Sector 8 Weapon Shop
+
+Atomic Scissors
+Attack: 32
+Growth: Normal
+Slot: O-O O O
+Found: Junon Weapon Shop
+
+Cannon Ball
+Attack: 23
+Growth: Normal
+Slot: O-O O
+Found: Kalm Weapon Shop
+
+W Machine Gun
+Attack: 30
+Growth: Double
+Slot: O O O
+Found: Mt. Corel
+
+Hard Vulcan
+Attack: 39
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Enemy Launcher
+Attack: 35
+Growth: Normal
+Slot: O-O O O O
+Found: Shinra Mansion
+
+Drill Arm
+Attack: 37
+Growth: Double
+Slot: O O O O
+Found: Rocket Town
+
+Chainsaw
+Attack: 52
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Rocket Punch
+Attack: 62
+Growth: None
+Slot: None
+Found: Temple of the Ancients
+
+Microlaser
+Attack: 63
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Solid Bazooka
+Attack: 61
+Growth: Normal
+Slot: O-O O-O O-O O-O
+Found: Costa del Sol Weapon Shop (Post-Meteor)
+
+AùM Cannon
+Attack: 77
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Maximum Ray
+Attack: 97
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Sector 8
+
+Pile Bunker
+Attack: 90
+Growth: None
+Slot: O-O O-O O-O
+Found: Shinra Building
+
+Missing Score
+Attack: 98
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Sister Ray, see Part VI
+
+- Aeris - 
+
+Guard Rod
+Attack: 12
+Growth: Normal
+Slot: O
+Found: Aeris starts with this Weapon.
+
+Mythril Rod
+Attack: 16
+Growth: Normal
+Slot: ?? (I need this info)
+Found: Wall Market Weapon Shop
+
+Striking Staff
+Attack: 32
+Growth: Normal
+Slot: O-O O O
+Found: Junon Weapon Shop
+
+Full Metal Staff
+Attack: 22
+Growth: Double
+Slot: O-O O
+Found: Kalm Weapon Shop
+
+Wizard Staff
+Attack: 28
+Growth: Double
+Slot: O O O
+Found: Mt. Corel
+
+Umbrella
+Attack: 58
+Growth: None
+Slot: None
+Found: Gold Saucer Speed Arena
+
+Fairy Tale
+Attack: 37
+Growth: Normal
+Slot: O O O O O O O
+Found: Win from Reno (Boss)
+
+Prism Staff
+Attack: 40
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Wiser Staff
+Attack: 33
+Growth: Double
+Slot: O O O O
+Found: Win from Gi Nanataku (Boss)
+
+Aurora Rod 
+Attack: 51
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Princess Guard
+Attack: 52
+Growth: Normal
+Slot: O-O O-O O-O O 
+Found: Temple of the Ancients
+
+- Red XIII - 
+
+Mythril Clip
+Attack: 24
+Growth: Normal
+Slot: O-O O
+Found: Red XIII starts with this Weapon.
+
+Magic Comb
+Attack: 37
+Growth: Double
+Slot: O O O
+Found: Fort Condor
+
+Diamond Pin
+Attack: 33
+Growth: Double
+Slot: O-O O O
+Found: Junon Materia Shop
+
+Silver Barrette
+Attack: 40
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Seraph Comb
+Attack: 68
+Growth: Normal
+Slot: O O O O
+Found: Cave of the Gi
+
+Plus Barrette
+Attack: 39
+Growth: Double
+Slot: O O O O
+Found: Mt. Nibel
+
+Gold Barrette
+Attack: 50
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Hairpin
+Attack: 57
+Growth: None
+Slot: None
+Found: Wutai
+
+Adaman Clip
+Attack: 60
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Materia Shop
+
+Centclip
+Attack: 58
+Growth: Normal
+Slot: O O O O O O O O
+Found: Costa del Sol (Post Meteor)
+
+Crystal Comb
+Attack: 76
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Spring Gun Clip
+Attack: 87
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Ancient Forest 
+
+Behemoth Horn
+Attack: 91
+Growth: Normal
+Slot: O O O O O O
+Found: Shinra Building
+
+Limited Moon
+Attack: 93
+Growth: None
+Slot: O-O O-O O-O O-O  
+Found: Cosmo Canyon, see Part VI
+
+- Cait Sith - 
+
+Yellow Megaphone
+Attack: 36
+Growth: Normal
+Slot: O-O O O
+Found: Cait Sith starts with this Weapon.
+
+White Megaphone
+Attack: 35
+Growth: Double
+Slot: O O O
+Found: Gongaga
+
+Green Megaphone
+Attack: 41
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Black Megaphone
+Attack: 31
+Growth: Double
+Slot: O O O O
+Found: Cave of the Gi
+
+Silver Megaphone
+Attack: 28
+Growth: Normal
+Slot: O O O O O O O O
+Found: Shinra Mansion
+
+Blue Megaphone
+Attack: 48
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Trumpet Shell
+Attack: 68
+Growth: None
+Slot: None
+Found: Temple of the Ancients
+
+Red Megaphone
+Attack: 60
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Gold Megaphone
+Attack: 58
+Growth: Normal
+Slot: O-O O-O O-O O-O
+Found: Costa del Sol Weapon Shop (Post Meteor)
+
+Crystal Megaphone
+Attack: 74
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Battle Trumpet
+Attack: 95
+Growth: None
+Slot: O-O O-O O-O
+Found: Underwater Reactor
+
+Starlight Phone
+Attack: 88
+Growth: Normal
+Slot: O-O O-O O-O O-O
+Found: Sector 8
+
+HP Shout
+Attack: 95
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Shinra Building, see Part VI
+
+- Cid - 
+
+Spear
+Attack: 44
+Growth: Normal
+Slot: O-O O-O
+Found: Cid starts with this Weapon.
+
+Slash Lance
+Attack: 56
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Dragoon Lance
+Attack: 66
+Growth: Normal
+Slot: O O O O O O O O 
+Found: Da-Chao Cave
+
+Trident
+Attack: 60
+Growth: Normal
+Slot: O O O O O O 
+Found: Temple of the Ancients
+
+Mop
+Attack: 68
+Growth: None
+Slot: None
+Found: Bone Village
+
+Viper Halberd
+Attack: 58
+Growth: Double
+Slot: O O O O
+Found: Zango Valley
+
+Mast Ax
+Attack: 64
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Javelin
+Attack: 62
+Growth: Double
+Slot: O-O O-O O
+Found: Gaea's Cliff
+
+Partisan
+Attack: 78
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop.
+
+Scimitar
+Attack: 86
+Growth: Triple
+Slot: O-O
+Found: Underwater Reactor
+
+Flayer
+Attack: 100
+Growth: Normal
+Slot: O O O O O O 
+Found: Gold Saucer Speed Arena (Disc 2 or 3)
+
+Spirit Lance
+Attack: 92
+Growth: Normal
+Slot: O-O O-O
+Found: Downed Gelnika Plane
+
+Grow Lance
+Attack: 78
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Shinra Building
+
+Venus Gospel
+Attack: 97
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Rocket Town, see Part VI
+
+- Yuffie - 
+
+4-Point Shruiken
+Attack: 23
+Growth: Normal
+Slot: O-O O
+Found: Yuffie starts with this Weapon
+
+Boomerang
+Attack: 30
+Growth: Normal
+Slot: O-O O O
+Found: Junon Weapon Shop
+
+Wind Slash
+Attack: 30
+Growth: Double
+Slot: O O O
+Found: Shinra Boat
+
+Pinwheel
+Attack: 37
+Growth: Normal
+Slot: O-O O-O
+Found: Cosmo Canyon Weapon Shop
+
+Twin Viper
+Attack: 36
+Growth: Double
+Slot: O O O O
+Found: Shinra Mansion
+
+Razor Ring
+Attack: 49
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Magic Shruiken
+Attack: 64
+Growth: Normal
+Slot: O O O
+Found: Wutai
+
+Hawkeye
+Attack: 61
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Superball
+Attack: 68
+Growth: None
+Slot: None
+Found: Fort Condor
+
+Spiral Shruiken
+Attack: 68
+Growth: Normal
+Slot: O-O O O O O O O
+Found: Costa del Sol Weapon Shop (Post Meteor)
+
+Crystal Cross
+Attack: 74
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Rising Sun
+Attack: 68
+Growth: Double
+Slot: O-O O-O
+Found: Steal from Diamond Weapon (Boss)
+
+Oritsuru
+Attack: 90
+Growth: Normal
+Slot: O-O O-O O O O O
+Found: Da-Chao Cave
+
+Conformer
+Attack: 96
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Downed Gelnika Plane
+
+- Vincent - 
+
+Quicksilver
+Attack: 38
+Growth: Normal
+Slot: O-O O O
+Found: Vincent starts with this Weapon
+
+Peacemaker
+Attack: 38
+Growth: Double
+Slot: O-O O
+Found: Kalm
+
+Sniper CR
+Attack: 42
+Growth: Normal
+Slot: O-O O-O
+Found: Mt. Nibel
+
+Shotgun
+Attack: 48
+Growth: Normal
+Slot: O-O O-O
+Found: Rocket Town Weapon Shop
+
+Shortbarrel
+Attack: 51
+Growth: Normal
+Slot: O-O O-O O
+Found: Wutai Weapon Shop
+
+Silver Rifle
+Attack: 62
+Growth: None
+Slot: None
+Found: Temple of the Ancients
+
+Buntline
+Attack: 48
+Growth: Double
+Slot: O-O O-O
+Found: Bone Village
+
+Lariat
+Attack: 64
+Growth: Normal
+Slot: O-O O-O O O
+Found: Icicle Lodge Weapon Shop
+
+Longbarrel R
+Attack: 66
+Growth: Normal
+Slot: O-O O-O O-O O-O
+Found: Costa del Sol Weapon Shop (Post Meteor).
+
+Winchester
+Attack: 73
+Growth: Normal
+Slot: O-O O-O O-O
+Found: Mideel Weapon Shop
+
+Supershot ST
+Attack: 97
+Growth: None
+Slot: O-O O-O O-O
+Found: Ancient Forest
+
+Outsider
+Attack: 80
+Growth: Normal
+Slot: O-O O-O O O O O
+Found: Downed Gelnika Plane
+
+Death Penalty
+Attack: 99
+Growth: None
+Slot: O-O O-O O-O O-O
+Found: Lucrecia's Cave, see Part VI
+
+--------------------------------------------------------------------------------
+----
+
+----------------------------------
+IX. Emerald Weapon and Ruby Weapon
+----------------------------------
+
+This Section provides what I think are the best strategies for beating those two 
+sons of bitches, Emerald and Ruby Weapon.  I DID beat them, by the way.  And 
+yes, I am showing off.  ^_~
+
+- Emerald Weapon - 
+
+The "easier" of the two bosses, he's a sinch if you have the right Materia.  And 
+without a GameShark, the right Materia will take ages to get.  First off, you 
+need to eliminate that damned 20 minute timer Square threw in.  To do this, go 
+to the Underwater Reactor and walk around in one of those big aqua tubes until 
+you fight a Ghost Ship enemy.  Now, Morph it using the "Morph" Materia.  Take 
+the Item you get back to the man I call the "Kalm Dude" (in Kalm, obviously), 
+and you'll get the Underwater Materia for it.  (No, this Materia is NOT used to 
+revive Aeris.  Because Aeris CANNOT be revived.)  This will allow your party to 
+breathe under water, eliminating the timer.  Now, you want three Mime Materia, 
+Knights of the Round, some Turbo Ethers, and the Phoenix Summon Materia with a 
+mastered Final Attack Materia linked to it.  Also, try to have an Enemy Skill 
+Materia with Big Guard learned.  And high HP and MP Levels, and all of the 
+Ultimate Weapons would help too.  Now, go find him, and get ready for a tough-
+ass fight.  Immediately use Big Guard to boost your Defense.  Then, when the 
+character with the Knights of the Round Materia is ready, cast it.  And the Mime 
+it with the next character.  And then Mime it with the other character.  And 
+Mime again.  And again.  And KotR to Emmy to Hell and back.  At one point, he 
+will use his super-ultra-mega-death-blasto-destructo-hell-hahaha-attack.  In 
+other words, he'll kill you no matter what (9999 on everyone).  Not to worry; 
+you have your Phoenix and Revive combination.  Once you're back up and running, 
+cast Big Guard again, and start the KotR chain again.  Remember, Emmy has 
+1,000,000 HP, so it will take awhile.  But you'll win.  Once you do, you recieve 
+the Earth Harp.  Take the Earth Harp back to the Kalm Dude and he'll give you a 
+Master Magic, Master Summon, and Master Command Materia for your efforts.  
+Congrats.
+
+- Ruby Weapon - 
+
+Ugh, I hate this thing.  It's at least 10 times harder than Emmy was.. and all 
+you get is a stinkin' Gold Chocobo for it.  Oh, big deal.  You should've had one 
+years ago by this point in the game.  Oh well.  Anyway, here's the deal: load 
+one character (preferably with EXTREMELY high HP and MP levels, like Cloud) with 
+the W-Summon Materia (Master), Knights of the Round (Master), Mime (Master), 
+Final Attack linked to Revive (both Master), the Shield Materia (Master), a 
+Ribbon, and the Mystile Armor (to have a 50% chance of avoiding Ruby's repeated 
+Ultima-casting).  A few HP Plus Materias wouldn't hurt either.  Now, engage 
+Ruby.  And keep engaging the damn thing until your He-Man/Woman character (the 
+one with everything on him/her) is the lucky one to survive Ruby's Whirlsand 
+attack (which throws a character out of the battle).  Then, cast Shield on 
+yourself, and start miming Knights of the Round, and focus on the stalks.  One 
+the stalks are down, focus on Ruby itself until she goes down.  If (and when) 
+your Shield gives out, stop the chain, cast Shield again, use a Megalixir or 
+Turbo Ether, and start the chain again.  Like Emmy, Ruby has 1,000,000 HP to 
+chip away at, so.. good luck.  If you beat it, you'll recieve the Desert Rose.  
+Take this back to the Kalm Dude, and he'll give you a Gold Chocobo.  Woo-hoo.  
+Well, at least you can.. brag.  Or something.  Right, that's it.  Brag.  Yay.
+
+--------------------------------------------------------------------------------
+----
+
+---------------------
+X. Enemy Skills Guide
+---------------------
+
+This section will list all 24 learnable Enemy Skills (including Chocobuckle), 
+what they do, what enemies they can be learned from, where those enemies are 
+found, and how many MP it costs.
+
+Angel Whisper:
+Completely restores HP and Status of a single ally, and also works like Life 2 
+if used on a dead ally.  You can learn it from the Pollensalita, in the Final 
+Dungeon.  It costs 50 MP.
+
+Aqualung:
+Does a high amount of Water-Elemental damage to all enemies.  You can learn it 
+from the Chimera in the desert surrounding the Gold Saucer, or from Jenova-LIFE.  
+It costs 34 MP.
+
+Bad Breath:
+Attempts to inflict Poison, Sleep, Mini, Frog, and Confuse on all enemies.  
+Doesn't work on some Bosses.  You can learn it from the Molbor, found on Gaea's 
+Cliff.  It costs 58 MP.
+
+Beta:
+Does a moderate amount of Fire-Elemental damage to all enemies.  You can only 
+learn it from the Midgar Zolom, and that's if you survive the attack anyway.  It 
+costs 35 MP.
+
+Big Guard:
+One of the best Enemy Skills.  It casts Barrier, MBarrier, and Haste on all of 
+your party.  You can learn it from the Beach Plug enemy, found on the Costa del 
+Sol beach.  It costs a whopping 56 MP for one use, though..
+
+Chocobuckle:
+This is the single hardest Enemy Skill to get, but it can be very effective.  
+First, fight the Mu enemies around the Chocobo Ranch, and stall until they cast 
+their Enemy Skill, Level 4 Suicide, on you.  They rarely cast it, so prepare for 
+a long battle.  Once you learn it, kill them and go to the Chocobo Ranch.  Buy 
+three Mimett Greens, and then fight a Level 16 Chocobo (use "Sense" Materia to 
+check).  Now, feed all three Mimett Greens to him, one after the other.  Once 
+you've done that, use Level 4 Suicide on the poor guy.  He won't die, but he'll 
+be so pissed off that he'll respond with Chocobuckle, allowing you to learn it.  
+Well, that's it.  Now run away from hundreds of battles and you can do 9999 
+damage to all enemies for a measly 3 MP.  Have fun.  ^_^
+
+Death Force:
+Attempts to cast Death Sentence on a single target, and/or kill the target 
+instantly.  Doesn't work on Bosses.  It can be learned from the Adamantaimai in 
+the area around Wutai.  It costs 3 MP.
+
+Death Roulette:
+One character in the battle, be it ally or enemy, will be killed instantly.  
+Doesn't work on Bosses.  It can be learned from the Death Dealer in the Final 
+Dungeon.  It costs 6 MP.
+
+Death Sentence:
+Inflicts one enemy with Death Sentence.  Doesn't work on Bosses.  You can learn 
+it from the Sneaky Step or Death Spector in the Cave of the Gi.  It costs 10 MP 
+to use.
+
+Dragon Force:
+One ally's Defense and Magic Defense is increased by 50%.  You can learn it from 
+the Dark Dragon in the Final Dungeon.  Costs 19 MP to use.
+
+Flame Thrower:
+Does a moderate amount of Fire-Elemental damage to a single target.  You can 
+learn it from the Archdragon in the Mythril Mine.  Costs 10 MP.
+
+Frog Song:
+Attempts to inflict Frog and Sleep on a single target.  Also heals a member who 
+is a Frog.  Doesn't work on most Bosses.  It can be learned from the Touch Me 
+(uh..) in the Gongaga Area.  Costs a whopping 120 MP..
+
+Goblin Punch:
+Does very light Non-Elemental damage to a single target.  If target is the same 
+Level as user, it will do heavy Non-Elemental damage.  Learn it from the Goblin 
+on Goblin Island.  Costs 0 MP, as it's pretty damn useless..
+
+Laser:
+Reduces a single target's HP by 50% (if it has 6000 HP, will hit for 3000).  
+Doesn't work on Bosses.  Learn it from the Bull Motor in Corel Prison.  Costs 16 
+MP.
+
+Level 4 Suicide:
+Inflicts Death Sentence and Mini on targets whose Level is a multiple of 4 (4, 
+8, 12, 16, etc..).  Doesn't work on Bosses.  Learn it from the Mu in the area 
+around the Chocobo Ranch.  Costs 10 MP.
+
+Level 5 Death:
+Instantly kills all enemies whose Level is a multiple of 5 (5, 10, 15, 20, 
+etc..).  Doesn't work on Bosses, obviously.  Learn it from the Parasite in the 
+Final Dungeon.  Costs 22 MP.
+
+Magic Breath:
+Does moderate to heavy Fire, Water, and Lightning-Elemental damage to all 
+enemies.  Learn it from the Stilv in Gaea's Cliff.  Costs 75 MP.
+
+Magic Hammer:
+Steals 100 MP (if possible) from a single target.  Learn it from the Razor Weeds 
+in the Wutai area.  Costs 120 MP.
+
+Matra Magic:
+Does light Non-Elemental damage to all enemies.  Learn it from the Custom 
+Sweepers in the Midgar Area.  Costs 8 MP.
+
+Pandora's Box:
+Hits all enemies for moderate to heavy Non-Elemental damage.  Learn it from the 
+Dragon Zombie in the Final Dungeon.  Costs a whopping 110 MP.
+
+Shadow Flare:
+Hits one enemy for extrememly heavy Non-Elemental damage.  Learn it from Ultima 
+Weapon, as his last resort death attack.  If he hits someone other than the 
+person with E. Skill equipped, just reset and try again, because this is worth 
+having.  Costs 100 MP for every use..
+
+Trine:
+Does a moderate amount of Lightning-Elemental damage to all enemies.  Learn it 
+from the Materia Keeper (Boss) on Mt. Nibel, or from the Stilv, at Gaea's Cliff.  
+Costs 20 MP.
+
+White Wind:
+Refills HP of all allies by an amount equal to the caster's current HP level.  
+Learn it from the Zemzelett, in the area around Junon.  You must have the 
+"Manipulate" Materia, because he will (obviously) never use it on you willingly.  
+Costs 34 MP.
+
+????: (Yes, that's what it's called)
+One target takes an amount of Non-Elemental damage equal to that of your Max HP 
+level, minus your current HP level.  Learn it from the Judge in the Shinra 
+Mansion.  It costs 3 MP.
+
+--------------------------------------------------------------------------------
+----
+
+--------------------
+XI. Chocobo Breeding
+--------------------
+
+This section will teach you how to breed that damned elusive Gold Chocobo.  
+Remember, Chocobo Breeding can be started as early as Mid-Disc 2.  The sooner 
+you get Knights of the Round, the better.  The following is a list of the 
+different types of Chocobos and what they can do:
+
+---
+
+Yellow Chocobo: The Normal Chocobo.  It can run across fields, and not much 
+else.
+Green Chocobo: The Mountain Chocobo.  It can run across fields, and pass 
+mountains with ease.
+Blue Chocobo: The River Chocobo.  It can run across fields, and wade through 
+shallow water and rivers easily.
+Black Chocobo: The Mountain/River Chocobo: It can run across fields, climb 
+mountains, AND wade through rivers.
+Gold Chocobo: The Sea Chocobo.  It can do everything the other Chocobos can, and 
+can also run across the sea, letting you go anywhere.
+
+---
+
+This is a list of the different Greens and the stats they raise.  Always buy 
+Greens from the Chocobo Sage, as he has the best and most rare ones.
+
+Gysahl Greens: 100 Gil: Raises Speed and Stamina.  1 Green will do nothing; 10 
+Greens will yield a .7% increase in Stam.; 30 Greens will yield a 6.7% increase 
+in Speed and a 2.8% increase in Stam.
+
+Krakka Greens: 250 Gil: Raises Intelligence.
+
+Tantal Greens: 400 Gil: Raises Stamina and Intelligence.  1 Green will do 
+nothing; 10 Greens will raise Stam. by 2.2%; 30 Greens will raise Stam. by 
+11.1%.
+
+Pashana Greens: 400 Gil: Raises Intelligence and Tameness.
+
+Curiel Greens: 1000 Gil: Raises Speed and Stamina.  1 Green will do nothing; 10 
+Greens will raise Stam. by 3.2%; 30 Greens will raise Speed by 5.7% and Stam. by 
+9%.
+
+Mimett Greens: 1500 Gil: Raises Speed.  1 Green will do nothing; 10 Greens will 
+raise Speed by 7.7%; 30 Greens will raise Speed by 17.9%.
+
+Reagan Greens: 3000 Gil: Raises Speed and Stamina.  1 Green will raise Stam. by 
+1%; 10 Greens will raise Speed by 25% and Stam. by 12%; 30 Greens will raise 
+Speed by 79% and Stam. by 36.4%.
+
+Sylkis Greens: 5000 Gil: Raises Speed, Stamina, Intelligence, and Tameness.  1 
+Green will raise Speed by 11.4% and Stam. by 3.1%; 10 Greens will raise Speed by 
+68% and Stam. by 22.3%; 30 Greens will raise Speed by 75.9% and Stam. by 119%.
+
+NOTE: Reagan Greens and Sylkis Greens are only available from the Chocobo Sage.
+
+---
+
+The following is a step-by-step walkthrough of raising a Gold Chocobo.
+
+Step 1: Go to the Chocobo Ranch and buy as many Chocobo Pens as you can, with 
+the money you have (you'll need a lot).
+Step 2: Catch two "Good" Chocobos, found at the Chocobo Tracks near the Gold 
+Sacuer.  Now, feed them both the Greens they need until you raise their stats 
+(Speed, Stamina, Intelligence, and Tameness) to their maximum levels (not too 
+hard, since these are relatively basic Chocobos).  Now, race them until they get 
+to at LEAST A Class in the Chocobo Races, and bring them back to their Pens.  
+Now go to the Icicle Area (right next to the Chocobo Sage's house) and fight a 
+Brachioladus.  Steal a Carob Nut from it.  Go back to the Chocobo Ranch.  
+***SAVE***.  Breed your two Chocobos together using the Carob Nut.  If you get a 
+Blue Chocobo or Green Chocobo of either gender, congrats!  Keep it!  If you just 
+get another Yellow Chocobo, reset and try again since you just saved.  Keep 
+trying until you get a Blue or Green Chocobo of either gender.  
+Step 3: Repeat Step 2 completely, and keep resetting until you get:
+- A Green Male Chocobo if you bred a Blue Female the first time
+- A Green Female Chocobo if you bred a Blue Male the first time
+- A Blue Male Chocobo if you bred a Green Female the first time
+- A Blue Female Chocobo if you bred a Green Male Chocobo the first time
+Personally, I got a Green Male and a Blue Female.
+Step 4: Raise both the Blue and Green Chocobos to at least A Class (S Class is 
+better), get another Carob Nut, go to back to the Chocobo Ranch, and SAVE.  
+Breed the Blue and the Green Chocobo using the Carob Nut, and you'll probably 
+get a Black Chocobo of either gender.  That's what you want.  If you got a Black 
+one, congrats!  Go on to the next step!  If not, keep trying until you do.
+Step 5: Go to the Frozen Continent and find the Chocobo Tracks there, and catch 
+as many Yellow Chocobos as your number of free Pens will allow.  Then, go back 
+and have them rated.  Chances are you'll have a "Wonderful" Chocobo (they're 
+only found there).  If you don't, don't despair; they're very rare, and you may 
+have to try multiple times to get one.  Once you get a Wonderful Chocobo, MAKE 
+SURE IT IS THE OPPOSITE SEX OF YOUR BLACK CHOCOBO (I needed a Female), and raise 
+that and your Black Chocobo up to S Class (MUST be S Class).  
+Step 6: Once your Black Chocobo and Wonderful Yellow Chocobo are champion 
+racers, go to Goblin Island and fight some Goblins.  Steal a Zeio Nut from them.  
+Go back to the Chocobo Ranch, and mate your Black Chocobo and your Wonderful 
+Yellow Chocobo together, using your new Zeio Nut.  If both parents were S Class 
+like I suggested, and you used the Zeio Nut to breed them, you hve a pretty good 
+chance of getting your Gold Chocobo.  It may take a few tries though; I had 
+champion racers and di everything perfectly, and it still took me like 15 tries.  
+So, have patience and you'll get one eventually.  Congrats!  Now go get Mime, 
+HP<--->MP, Knights of the Round, and Quadra Magic!
+
+--------------------------------------------------------------------------------
+----
+
+-------------------------------
+XII. Crazy Materia Combinations
+-------------------------------
+
+Here, you'll find some Materia combinations that are stupidly powerful, 
+extremely effective, or just plain whacked out weird.  ^_~
+
+Quadra Magic + Fire, Added Cut + Fire, MP Turbo + Fire, Added Steal + Fire, 
+MP Absorb + Fire, Magic Counter + Fire, HP Absorb + Fire, W-Magic, Magic Plus
+(All Fire Mastered, Quadra Magic Mastered)
+
+- This combo casts Fire 3 at random targets four times, pausing in between to 
+steal the target's possesion before dying and giving the caster a HP and MP 
+bonus.  Then, you perform a normal attack, and then.. thanks to W-Magic, it 
+HAPPENS ALL OVER AGAIN!!  Kill those bastards!!  :D
+
+Quadra Magic + Contain, W-Magic
+(Quadra Magic and Contain Mastered)
+
+- This combo is basic, but the results are devastating.. to the enemies, that 
+is.  With a Mastered Quadra Magic and a Mastered Contain linked together, you 
+will cast all of Contain's four ultra-powerful spells.. twice.  Yes, twice for 
+EACH Spell.  Now, throw in that W-Magic and you'll do it all over again.. for a 
+total of 16 devastating Spells.  Even Seraph Sephiroth would have a bad time 
+with this.  :D
+
+Deathblow + Added Cut, Deathblow + Added Steal, MP Absorb + Deathblow
+(All high levels)
+
+- This isn't quite as revolutionary as the two combos before this, but it's 
+still effective nonetheless.  First off, if you use Deathblow every turn, not 
+only will you attack twice every turn and do double damage when you DO hit, 
+you'll also attempt to steal, and with MP Absorb, you can absorb MP at the same 
+time!  Ok, so it's not so amazing, but.. I like it.. ^_~
+
+Magic Counter + Comet, Command Counter + Deathblow, Counter Attack (as many as 
+you have), Defend, HP Plus (a lot of 'em)
+(All at Master or high levels)
+
+- Let's get to the point.  When the enemy attacks the lucky character, he's 
+&%^$ed.  First, he gets himself stuck with three regular attacks, a Deathblow, 
+and a shitload of comets.  And none of your members have even had their turns 
+yet.  'Nuff said.
+
+--------------------------------------------------------------------------------
+----
+
+----------------
+XIII. Conclusion
+----------------
+
+Well, I hope you enjoyed my latest (and biggest so far) FAQ.  I know it's an 
+older game, but it's an instant classic, and is one of THE best games ever made.  
+The only games I think surpass it are Xenogears, Chrono Trigger, Final Fantasy 
+VI, and Final Fantasy Tactics.  So, dust off that FFVII game and get everything 
+you missed the first time.. because trust me, it's hella fun.  Look for more 
+FAQs from me soon!  Later!  ^_^
+
+--------------------------------------------------------------------------------
+----
+
+-----------
+XIV. Thanks
+-----------
+
+First and foremost, I'd like to thank Versus Books for their Unofficial Final 
+Fantasy VII Ultimate Guide.  Without it, many sections of this FAQ would not 
+have been possible.  Secondly, kudos go to BradyGAMES for their Officiall Final 
+Fantasy VII Strategy Guide.  Although not as good as the former, it helped me.  
+
+Well, no one has submitted anything yet, so.. that's it.  Later, everyone.
+
+--------------------------------------------------------------------------------
+----
+
+Copyright 1999
+LightRanma@aol.com
+

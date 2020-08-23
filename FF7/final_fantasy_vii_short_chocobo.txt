@@ -1,0 +1,76 @@
+From: antispam@fake.address.com (Chaensaw Messiah)
+Newsgroups: alt.games.final-fantasy
+Subject: The Short Chocobo Breeding Guide (spoilers)
+Date: 12 Oct 1997 02:37:01 -0700
+
+
+          The Short Chocobo Breeding Guide
+
+(Foreword: this guide assumes you already know how to catch and race
+chocobos.)
+
+The only useful chocobos you can catch are the following:
+
+Good chocobos - just SE of Gold Saucer
+Great chocobos - just W of Mideel (SE island)
+Wonderful chocobos - on the W side of the snowy northern continent.
+
+To get a blue or green chocobo you need a good and a great chocobo of
+the opposite sex, plus a supply of Carob nuts (which you can steal or
+win from the big red beasts south of the bone village).
+
+Race them up to at least Class B at the Gold Saucer and feed them a
+lot of high-cost greens (the best ones can be found at the Chocobo
+Sage's place in the northern mountains).  Note: racing chocobos up to
+higher classes and/or feeding them greens isn't necessary; it can
+significantly increase your chances of getting the chocobos you want,
+though.
+
+Good+Great using a Carob nut can produce:
+1) another yellow chocobo (get rid of it)
+2) a green (mountain-climbing) chocobo
+3) a blue (River-running) chocobo
+
+To get a Black chocobo, you need to mate a blue with a green.  They
+should both be A class if possible.
+
+Blue+green using a Carob nut can produce:
+1) another blue chocobo
+2) another green chocobo
+3) a black (river and mountain) chocobo
+
+To get a gold chocobo, you need to mate a black chocobo to a wonderful
+chocobo.  You'll HAVE to race both up to S class, and make sure to
+feed them to the teeth with the best greens.  (you can steal or win
+the necessary Zeio nut from the goblins on the small northeasternmost
+island on the map).
+
+Black+wonderful using a Zeio nut can produce:
+1) a yellow chocobo (get rid of it)
+2) a black chocobo
+3) a gold (mountain, river, and ocean crossing) chocobo
+
+Racing note: The gold chocobo can beat Teioh (the black chocobo at the
+races that shows up just so you won't win all the time), even though
+Teioh's chocobo has impossible-to-achieve stamina and speed, because
+he always gets trapped behind the other chocobos while racing and uses
+up a lot of his stamina.  (Also, you can regain your stamina during
+the race by holding L1+R1+L2+R2).
+
+As far as I know, these are the only chocobos available (even though
+we see white, pink, red, etc at the races).  And I've only managed to
+get one gold chocobo (usually on the first try if the parents are both
+S class).  It seems the game will only allow you to have one.
+
+      Chaensaw Messiah
+
+
+----------------------------------------------
+      ~ chaensaw at primenet dot com ~
+                    ~*~
+"I am your apocalypse, I am your belief unwrought
+Monolithic juggernaut, I'm the illegitimate son of God"
+              - KMFDM "Stray Bullet"
+                    ~*~
+Chaensaw Messiah's webpage can be found at:
+http://www.primenet.com/~chaensaw

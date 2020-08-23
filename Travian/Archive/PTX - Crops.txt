@@ -1,0 +1,454 @@
+MetallicaVSF 22|38
+
+
+RushVSF      58|15
+	Clan36   Protecção de jogador novato até 21.02.08 às 06:18:29 hora
+	Esparta  Protecção de jogador novato até 21.02.08 às 06:19:15 hora
+	KitKat   Protecção de jogador novato até 21.02.08 às 06:39:20 hora
+	DoomGate Protecção de jogador novato até 21.02.08 às 06:50:33 hora
+	Solon    Protecção de jogador novato até 21.02.08 às 06:53:57 hora
+	Vila     Protecção de jogador novato até 21.02.08 às 06:59:07 hora
+	Mota90   Protecção de jogador novato até 21.02.08 às 06:55:16 hora
+
+Raimundos   50|30
+	Quackmon http://speed.travian.pt/karte.php?d=297620&c=ee
+	zedomio  Protecção de jogador novato até 21.02.08 às 06:02:25 hora
+	ancientitProtecção de jogador novato até 21.02.08 às 06:29:48 hora
+	yaull    Protecção de jogador novato até 21.02.08 às 06:33:13 hora
+	maxine   Protecção de jogador novato até 21.02.08 às 07:05:04 hora
+
+MestreLion 07|51
+	vb_light http://speed.travian.pt/karte.php?d=282360&c=c8
+
+
+Mamuters
+	sants    Protecção de jogador novato até 21.02.08 às 07:02:59 hora
+	Theking  Protecção de jogador novato até 21.02.08 às 06:53:26 hora
+
+Kruta
+	Brenus   Protecção de jogador novato até 21.02.08 às 06:47:40 hora
+
+Metallica: http://speed.travian.pt/karte.php?d=289586&c=0c
+Rush: http://speed.travian.pt/karte.php?d=308044&c=f7
+Raimundos: http://speed.travian.pt/karte.php?d=295221&c=71
+Mestre: http://speed.travian.pt/karte.php?d=277554&c=ce
+Mamute: http://speed.travian.pt/karte.php?d=281595&c=42
+Kruta: http://speed.travian.pt/a2b.php?z=267152
+
+
+
+
+
+
+Metallica: 17:30
+
+1 x ferro 2, 1 x madeira 2, 2 x cereal 1
+800 ferro pra 1o Legionario em 15h30m de servidor
+
+
+[Madeira] (+90)	588/800
+[Barro]   (+75)	544/800
+[Ferro]   (+90)	791/800
+[Cereais] (+28)	395/800
+[Consumo de cereais]  40/68
+
+
+Mamute:     18:45
+
+2 x barro 2, 1 x madeira 2, 4 x ferro 1, 2 x cereal 1
+800 barro pra 1o Falange em 16h45m de servidor
+
+[Madeira]( +90)	507/800
+[Barro]  (+105)	793/800
+[Ferro]  ( +75)	336/800
+[Cereais]( +28)	377/800
+[Consumo de cereais]  40/68
+
+
+Kruta: 19:00, idem Mamute
+
+
+Rush:       20:00
+MestreLion: 20:20
+Raimundos:  21:00
+
+
+-------------------------------------------------
+
+Metallica:
+
+7x7
+15 - 24 38 100% CC  CF  CM  C  C
+09 - 21 36 100% CC* CF* CM* C* CF B M
+
+N
+-
+
+NN
+-
+
+NE
+15 - 29 47  75% CB CB CF C F
+
+L
+15 - 29 38 100% CC  C  C
+09 - 28 35  75% CC  CF
+
+LL
+15 - 34 41 75% CB  CF CF C F M
+09 - 38 35 75% CB* CM CM C F B
+
+SE
+15 - 32 27 150% CC  CC  CC  CC  C  F  M  B  C (RAIMUNDOS)
+09 - 32 26 150% CC* CC* CC* CC* C* F* M* B*
+09 - 36 26 125% CC* CC* CF  C
+
+S
+15 - 24 30  50% CF CM F F
+
+SS
+-
+
+SO
+15 - 14 30 100% CC  CF  CM  C  F M M
+15 - 01 32 100% CC  CB  C   M  F
+15 - -1 37  50% CF  C   M
+15 - -2 37  25% C*  M*
+09 - 01 35 100% CC* CF* CB* F* 
+09 - 08 33 100% CC* C*  C   M* M B
+
+O
+-
+
+OO
+15 - 07 36 125% CC  CC  CM  C  C M F B (CAPITAL)
+
+NO
+15 - 14 42  25% CB F F M M
+
+
+
+----------------------------------------------
+
+Raimundos
+
+7x7
+-
+
+N
+15 - 51 42  75% CC  FC  B  B  B  M
+09 - 50 39 100% CC* C   C  M* B* 
+09 - 51 39 100% CC* C*  C* M*
+
+NN
+15 - 47 38  50% CC* F
+15 - 50 44  50% CC* F   B* B* B*
+15 - 53 43  75% CC* FC* B* B* B*
+
+
+NE
+-
+
+L
+-
+
+LL
+09 - 66 30 100% CC  C  C
+09 - 64 27  75% CC* C*
+09 - 69 33  50% C*  C*
+09 - 61 25  25% C B (RUSH)
+
+SE
+-
+
+S
+09 - 51 23  75% CB CF C B F M M
+
+SS
+15 - 52 16 100% CC* CM C
+15 - 56 15  75% CC* CM M F F (RUSH)
+
+SO
+15 - 44 21 100% CC CF CF CM CB C
+
+O
+15 - 40 30  50% CM  CM F M
+09 - 42 30  25% CM* F* B B
+
+OO
+15 - 32 27 150% - (METALLICA)
+
+
+NO
+09 - 41 41 100% CC CB CB C B M
+15 - 44 44   0% B  B
+
+
+----------------------------------
+
+Rush
+
+7x7
+15 - 56 15  75% CC CM M F F (RAIMUNDOS)
+09 - 61 15   0% M* M F B
+
+N
+09 - 61 25  25% C B (RAIMUNDOS)
+
+NN
+-
+
+NE
+-
+
+L
+-
+
+LL
+09 - 74 13  75% CF CM C F F M
+
+SE
+15 - 65 11  75% CC CM F B B
+
+S
+15 - 60 10 100% CC  CM  C CM M M M F B B
+09 - 61 08 100% CC* CM* C*
+
+SS
+15 - 60 -2 100% CC CB C F F B B M
+
+SO
+15 - 54 10 100% CB CM CM F F M M
+
+O
+15 - 52 16 100% CC CM C
+
+OO
+15 - 40 14 125% CC  CC CF  CB C F (CAPITAL)
+09 - 45 12 100% CC* C* CF* CM C F* F
+
+
+NO
+09 - 51 23  75% CB CB C F M
+
+
+--------------------------------------------------
+
+Mamuters
+
+7x7
+-
+
+N
+15 - 46 55 100% CC  CB CB CM CM C B
+09 - 42 53 100% CC* CB CM C* F  B
+
+NN
+09 - 40 59 100% CC CC B B B F F M
+
+NE
+-
+
+L
+-
+
+LL
+-
+
+SE
+4 X 15 + 2 X 9 - (N e NN RAIMUNDOS)
+
+S
+15 + 09 (NO RAIMUNDOS)
+
+SS
+-
+
+SO
+15 - 34 41 (LL METALLICA)
+
+O
+-
+
+OO
+15 - 29 47  75% (NE METALLICA)
+
+NO
+09 - 34 55 50%
+09 - 36 58  0%
+
+-----------------------------------------------------
+
+MestreLion
+
+7x7
+-
+
+N
+09 - 09 58 100% CC CB CM
+
+NN
+-
+
+NE
+-
+
+L
+15 - 17 51  50% CF C F B
+
+LL
+-
+
+SE
+15 - 14 42 (NO METALLICA)
+
+S
+-
+
+SS
+15 - 07 36 125% CC  CC C C CM F M (METALLICA)
+15 - 01 32 100% CC* CB C
+15 - -1 37  50% CF  C
+15 - -2 37  25% C*
+09 - 08 33
+09 - 01 35
+
+SO
+15 - -6 39 100% CC C  C 
+15 - -9 44  75% CC CB
+09 - -6 38  50% C* C*
+09 - -8 38  50% C* CM
+
+O
+15 - 02 54  75% CB  CB  CF M  M  M F
+
+OO
+-
+
+NO
+15 - -6 59 100% CC  CB  CM  CF M  M
+15 - -7 56  75% CM* CF* C   C  M* F F B
+09 - -5 59 125% CC* CC  CB* CB CF C M
+09 - 01 56  75% CB* CB* CF  M* M* C 
+
+
+--------------------------------------------------
+
+Kruta
+
+7x7
+15 - 17 65  75%
+09 - 15 69  25%
+09 - 13 69  25%
+
+N
+15 - 14 71  25%
+09 - 17 71  25%
+
+NN
+15 - 18 80  25%
+15 - 19 82  50%
+
+NE
+-
+
+L
+15 - 22 65  50%
+
+LL
+-
+
+SE
+-
+
+S
+15 - 16 62  75%
+
+SS
+15 - 17 51  50%
+
+SO
+09 - 09 58  75%
+
+O
+09 - 13 69  25%
+
+OO
+-
+
+NO
+-
+
+
+
+--------------------------------------------------
+
+OUTROS
+
+
+--------------------------------------------------
+
+MELHORES
+
+150%
+-----
+15 - 32 27 150% CC  CC  CC  CC  C  F  M  B  C (RAIMUNDOS)
+09 - 32 26 150% CC* CC* CC* CC* C* F* M* B*
+09 - 36 26 125% CC* CC* CF  C
+
+
+125%
+------
+15 - 07 36 125% CC  CC  CM  C  C M F B (METALLICA)
+09 - 08 33 100% CC* C*  C   M* M B
+
+15 - 40 14 125% CC  CC CF  CB C F (RUSH)
+09 - 45 12 100% CC* C* CF* CM C F* F
+
+
+
+100% (com 9-crop ou 15-crop proxima)
+---------------------------------------
+15 - 24 38 100% CC  CF  CM  C  C (METALLICA)
+09 - 21 36 100% CC* CF* CM* C* CF B M
+
+15 - 29 38 100% CC  C  C (METALLICA)
+09 - 28 35  75% CC  CF
+
+15 - 01 32 100% CC  CB  C   M  F
+15 - -1 37  50% CF  C   M
+15 - -2 37  25% C*  M*
+09 - 01 35 100% CC* CF* CB* F* 
+
+15 - 14 30 100% CC  CF  CM  C  F M M
+09 - 08 33 100% CC* C*  C   M* M B
+
+15 - 52 16 100% CC* CM C
+15 - 56 15  75% CC* CM M F F (RUSH)
+
+15 - 44 21 100% CC CF CF CM CB C
+15 - 40 30  50% CM  CM F M
+09 - 42 30  25% CM* F* B B
+
+15 - 60 10 100% CC  CM  C CM M M M F B B
+09 - 61 08 100% CC* CM* C*
+
+15 - 52 16 100% CC CM C
+15 - 54 10  75% CB CM CM F F M M
+
+15 - 46 55 100% CC  CB CB CM CM C B
+09 - 42 53 100% CC* CB CM C* F  B
+09 - 40 59 100% CC CC B B B F F M
+
+15 - -6 39 100% CC C  C 
+09 - -6 38  50% C* C*
+09 - -8 38  50% C* CM
+15 - -9 44  75% CC CB
+
+15 - -6 59 100% CC  CB  CM  CF M  M
+15 - -7 56  75% CM* CF* C   C  M* F F B
+09 - -5 59 125% CC* CC  CB* CB CF C M
+09 - 01 56  75% CB* CB* CF  M* M* C 
+
+15 - 60 -2 100% CC CB C F F B B M
+

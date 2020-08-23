@@ -1,0 +1,20 @@
+Aldeias:
+Nome 	Habitantes 	Coordenadas
+NatarenAtacar (Capital) 	856 	(400|400)
+
+http://travilog.org.ua/pt/8480477/6ae1a87d218234234e8f503a38ba6400
+
+[c] WW VillageAtacar 	210 	(126|124)
+[b] WW VillageAtacar 	210 	(0|76)
+[d] WW VillageAtacar 	215 	(0|224)
+[c] WW VillageAtacar 	210 	(-125|-125)
+[d] WW VillageAtacar 	210 	(-225|0)
+[a] WW VillageAtacar 	210 	(0|-1)
+[c] WW VillageAtacar 	210 	(-125|124)
+[c] WW VillageAtacar 	210 	(125|-125)
+[b] WW VillageAtacar 	210 	(-75|-1)
+[d] WW VillageAtacar 	205 	(0|-225)
+[b] WW VillageAtacar 	205 	(75|0)
+[d] WW VillageAtacar 	205 	(225|0)
+[b] WW VillageAtacar 	205 	(0|-76)
+

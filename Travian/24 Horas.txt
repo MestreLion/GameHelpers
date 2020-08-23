@@ -1,0 +1,16 @@
+PRE-MERCADOR
+- Barro 1 x 4
+- Madeira 1 x 4
+- Ferro 1
+- Cereal 1
+
+POS-MERCADOR
+- Ferro 1 x 3
+- Cereal 1
+
+DEPOIS
+- Ferro 2 (1h30 depois)
+- EP 1, 2, 3
+- Ponto de Encontro
+- Quartel
+- Legionario

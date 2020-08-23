@@ -1,0 +1,20 @@
+[a] WW Buildingplan (2|-2)
+[b] WW Buildingplan (75|75)
+[b] WW Buildingplan (75|-75)
+[b] WW Buildingplan (-75|-75)
+[b] WW Buildingplan (-75|74)
+[c] WW Buildingplan (125|0)
+[c] WW Buildingplan (-124|0)
+[c] WW Buildingplan (0|-125)
+[c] WW Buildingplan (0|125)
+[d] WW Buildingplan (225|225)
+[d] WW Buildingplan (-225|225)
+[d] WW Buildingplan (225|-225)
+[d] WW Buildingplan (-225|-225)
+
+
+[b] WW Buildingplan (75|75)
+[c] WW Buildingplan (125|0)
+
+[d] WW Buildingplan (225|225)
+[c] WW Buildingplan (0|125)

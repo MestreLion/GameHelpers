@@ -1,0 +1,50 @@
+/*
+	NOTE: This file uses functions defined in 'qs.js'. If you include this
+	file in your HTML, then you need to include 'qs.js' as well.
+*/
+function exitPop(OID) {
+	if (!OID || OID == "0") return;
+	// these CIDs have the exitpop disabled. this functionality should
+	// and eventually will be handled in midas. included here for backward compatibility
+	var cid = /CID=(18113|3|11007|19378|20004|22225|16999|18168|8129|22163|20522|19991|19772|9291|10168|18070|11151|9200|9244|9397|2381|2547|9476|2661|2671|6394|6238|2039|8226|9813|3250|8118)(\D|$)/;
+	// current known exitpop disabling keys
+	var exitpopkeys = /nopop=|exitpopped=|exitpop=/i;
+	// current url query string
+	var url_qs = window.location.search;
+	// check to see if global var errmsg has been set
+	var error = errmsg.match(/\w/);
+	if ( !exitpopkeys.test(url_qs) && !cid.test(url_qs) && !error) {
+		var qs = replaceQSKeys();	// strip out any existing OID and CMP keys
+		var exitpop_url = "http://tx.adprofile.net/tx/r?M=0&OID=" + OID + "&nopop=1&" + qs;
+		window.open(exitpop_url, "exitpop", "toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=800,height=600");
+	}
+}
+function popUnder(OID) {
+	if (!OID || OID == "0") return;
+	// current known exitpop disabling keys
+	var exitpopkeys = /nopop=|exitpopped=|exitpop=/i;
+	// current url query string
+	var url_qs = new String(window.location.search);
+	// check to see if global var errmsg has been set
+	var error = errmsg.match(/\w/);
+	var qs = replaceQSKeys();	// strip out any existing OID and CMP keys 
+	var popunder_url = "http://tx.adprofile.net/tx/r?nopop=1&M=0&OID=" + OID + "&" + qs;
+	if ( !exitpopkeys.test(url_qs) ) {
+		var locx  = ( screen.availWidth - 720 ) / 2;	
+	 	var locy = 0;	//( screen.availHeight - 300 ) / 2;
+	   	var popunder = window.open("","thisName","toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=800,height=600,left=" + screen.availWidth + ",top=" + screen.availHeight); 
+		popunder.blur();
+		popunder.location=popunder_url;
+		//popunder.moveTo(locx,locy);
+		focus();
+	}
+}
+function privacyPop(comp, listID, domain) {
+	if (comp && listID) {
+		var exitpop_url = "http://cb.adprofile.net/global/html/privacy.html?comp=" + escape(comp) + "&listID=" + listID + "&domain=" + domain;
+		window.open(exitpop_url, "privacy", "toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=600");
+	}
+}
+function randomvalue(low, high) {
+	    return Math.floor(Math.random() * (1 + high - low) + low);
+}

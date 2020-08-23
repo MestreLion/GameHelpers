@@ -1,0 +1,16 @@
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+The initial stats for the characters are located from 7AB00 to 7ACFF. This
+data is a series of 20 byte entries (with two unused places at the end filled
+with FFs). When a character joins the party for the first time, this data is
+copied to their character record as follows:
+
+Start data Destination in record
+---------- ---------------------
+00-13      00-13
+14-16      2D-2F
+17-1F      37-3F
+
+The initial equipment for each character is located from 7AD00 to 7AFFF (with
+an awful lot of unused space at the end filled with FFs).

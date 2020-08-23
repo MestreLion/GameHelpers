@@ -1,0 +1,567 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0042)http://www.komkon.org/fms/EMUL8/HOWTO.html -->
+<HTML><HEAD><TITLE>HOWTO: Writing a Computer Emulator</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="MSHTML 5.50.4134.600" name=GENERATOR></HEAD>
+<BODY vLink=#004000 link=#004000 bgColor=#ffffff>
+<CENTER><A href="http://www.komkon.org/fms/MG/"><IMG alt="Click And See" 
+src="HOWTO Writing a Computer Emulator_arquivos/Ad4.gif" align=middle border=0> 
+</A>
+<HR>
+</CENTER>
+<CENTER>
+<H1><FONT color=#ff0000>How To Write a Computer Emulator</FONT></H1>
+<H3>by <A href="http://www.komkon.org/fms/">Marat Fayzullin</A></H3>
+<P><I>Unauthorized distribution prohibited. Link to this page, not copy it.</I> 
+</CENTER>
+<P>I wrote this document after receiving large amounts of email from people who 
+would like to write an emulator of one or another computer but do not know where 
+to start. Any opinions and advices contained in the following text are mine 
+alone and should not be taken for an absolute truth. The document mainly covers 
+so-called "interpreting" emulators, as opposed to "compiling" ones, because I do 
+not have much experience with recompilation techniques. It does have a pointer 
+or two to the places where you can find information on these techniques. 
+<P>If you think that this document is missing something or want to make a 
+correction, feel free to email me your comments. I <B>do not</B> answer to 
+flames, idiocy, and requests for ROM images though. I'm badly missing some 
+important FTP/WWW addresses in the resources list in this document so if you 
+know any worth putting there, tell me about them. Same goes for any frequently 
+asked questions that are not in this document. 
+<P>This document has been <A 
+href="http://www.geocities.co.jp/playtown/2004/howto_j.htm">translated to 
+Japanese </A>by Bero. There is also <A 
+href="http://www.geocities.com/SiliconValley/Vista/8177/howemu.htm">Chinese 
+translation </A>available, courtesy of Jean-Yuan Chen, and a <A 
+href="http://www.epita.fr/~vernie_m/marat/">French translation </A>made by 
+Maxime Vernier. An <A href="http://jiji.virtualave.net/ecrire.html">older French 
+translation </A>by Guillaume Tuloup may or may not be available at the moment. 
+<A 
+href="http://www.escomposlinux.org/sromero/spectrum/HOWTO-spanish.html">Spanish 
+translation </A>of the HOWTO has been made by Santiago Romero. 
+<HR>
+
+<H3>Contents</H3>So, you decided to write a software emulator? Very well, then 
+this document may be of help to you. It covers a few common technical questions 
+people ask about writing emulators. It also provides you with "blueprints" for 
+emulator internals which you can follow in some degree. 
+<H3>General</H3>
+<UL>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABA">What can be 
+  emulated?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABB">What is 
+  "emulation" and how does it differ from "simulation"?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABC">Is it legal to 
+  emulate the proprietary hardware?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABD">What is 
+  "interpreting" emulator and how does it differ from "recompiling" 
+  emulator?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABE">I want to write 
+  an emulator. Where should I start?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABF">Which 
+  programming language should I use?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABG">Where do I get 
+  information on the emulated hardware?</A> </LI></UL>
+<H3>Implementation</H3>
+<UL>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABH">How do I emulate 
+  a CPU?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABHA">How do I handle 
+  accesses to emulated memory?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABHB">Cyclic tasks: 
+  what are they?</A> </LI></UL>
+<H3>Programming Techniques</H3>
+<UL>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABI">How do I 
+  optimize C code?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABJ">What is 
+  low/high-endiness?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABK">How to make 
+  program portable?</A> 
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABL">Why should I 
+  make program modular?</A> </LI></UL>
+<LI><I>More to come here</I> 
+<HR>
+<A name=LABA></A>
+<H3>What can be emulated?</H3>Basically, anything which has a microprocessor 
+inside. Of course, only devices running more or less flexible program are 
+interesting to emulate. Those include: 
+<P>
+<UL>
+  <LI>Computers 
+  <LI>Calculators 
+  <LI>Videogame Consoles 
+  <LI>Arcade Videogames 
+  <LI>etc. </LI></UL>
+<P>It is necessary to note that you can emulate <B>any</B> computer system, even 
+if it is very complex (such as Commodore Amiga computer, for example). The 
+perfomance of such emulation may be very low though. 
+<HR>
+<A name=LABB></A>
+<H3>What is "emulation" and how does it differ from "simulation"?</H3>Emulation 
+is an attempt to imitate the internal design of a device. Simulation is an 
+attempt to imitate functions of a device. For example, a program imitating the 
+Pacman arcade hardware and running real Pacman ROM on it is an emulator. A 
+Pacman game written for your computer but using graphics similar to the real 
+arcade is a simulator. 
+<HR>
+<A name=LABC></A>
+<H3>Is it legal to emulate the proprietary hardware?</H3>Although this matter 
+lies in the "gray" area, it appears to be legal to emulate proprietary hardware, 
+as long as the information on it hasn't been obtained by illegal means. You 
+should also be aware that it is illegal to distribute system ROMs (BIOS, etc.) 
+with an emulator if the are copyrighted. 
+<HR>
+<A name=LABD></A>
+<H3>What is "interpreting" emulator and how does it differ from "recompiling" 
+emulator? </H3>There are three basic schemes which can be used for an emulator. 
+They can be combined for the best result. 
+<P>
+<UL>
+  <LI><B>Interpretation</B><BR>An emulator reads emulated code from memory 
+  byte-by-byte, decodes it, and performs appropriate commands on the emulated 
+  registers, memory, and I/O. The general algorithm for such emulator is 
+  following: <FONT color=#000080><PRE>while(CPUIsRunning)
+{
+  Fetch OpCode
+  Interpret OpCode
+}
+</PRE></FONT>Virtues of this model include ease of debugging, portability, and 
+  ease of synchronization (you can simply count clock cycles passed and tie the 
+  rest of your emulation to this cycle count). 
+  <P>A single, big, and obvious weakness is the low perfomance. The 
+  interpretation takes a lot of CPU time and you may require a pretty fast 
+  computer to run your code at a decent speed. 
+  <P></P>
+  <LI><B>Static Recompilation</B><BR>In this technique, you take a program 
+  written in the emulated code and attempt to translate it into the assembly 
+  code of your computer. The result will be a usual executable file which you 
+  can run on your computer without any special tools. While static recompilation 
+  sounds very nice, it is not always possible. For example, you cannot 
+  statically recompile self-modifying code as there is no way to tell what it 
+  will become without running it. To avoid such situations, you may try 
+  combining static recompiler with an interpreter or a dynamic recompiler. 
+  <P></P>
+  <LI><B>Dynamic Recompilation</B><BR>Dynamic recompilation is essentially the 
+  same thing as the static one, but it occurs during program execution. Instead 
+  of trying to recompile all the code at once, do it on the fly when you 
+  encounter CALL or JUMP instructions. To increase speed, this technique can be 
+  combined with the static recompilation. You can read more on dynamic 
+  recompilation in the <A href="http://www.ardi.com/MacHack/machack.html">white 
+  paper by Ardi</A>, creators of the recompiling Macintosh emulator. </LI></UL>
+<HR>
+<A name=LABE></A>
+<H3>I want to write an emulator. Where should I start?</H3>In order to write an 
+emulator, you must have a good general knowledge of computer programming and 
+digital electronics. Experience in assembly programming comes very handy too. 
+<P>
+<OL>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABF">Select a 
+  programming language to use. </A>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABG">Find all 
+  available information about the emulated hardware. </A>
+  <LI><A href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABH">Write CPU 
+  emulation or get existing code for the CPU emulation. </A>
+  <LI>Write some draft code to emulate the rest of the hardware, at least 
+  partially. 
+  <LI>At this point, it is useful to write a little built-in debugger which 
+  allows to stop emulation and see what the program is doing. You may also need 
+  a disassembler of the emulated system assembly language. Write your own if 
+  none exist. 
+  <LI>Try running programs on your emulator. 
+  <LI>Use disassembler and debugger to see how programs use the hardware and 
+  adjust your code appropriately. </LI></OL>
+<HR>
+<A name=LABF></A>
+<H3>Which programming language should I use?</H3>The most obvious alternatives 
+are C and Assembly. Here are pros and cons of each of them: 
+<P>
+<UL>
+  <LI><B>Assembly Languages</B> <PRE>+ Generally, allow to produce faster code.
++ The emulating CPU registers can be used to directly
+  store the registers of the emulated CPU.
++ Many opcodes can be emulated with the similar
+  opcodes of the emulating CPU.
+- The code is not portable, i.e. it can not be run on
+  a computer with different architecture.
+- It is difficult to debug and maintain the code.
+</PRE>
+  <LI><B>C</B> <PRE>+ The code can be made portable so that it works on
+  different computers and operating systems.
++ It is relatively easy to debug and maintain the
+  code.
++ Different hypothesis of how real hardware works
+  can be tested quickly.
+- C is generally slower than pure assembly code.
+</PRE></LI></UL>
+<P>Good knowledge of the chosen language is an absolute necessity for writing a 
+working emulator, as it is quite complex project, and your code should be 
+optimized to run as fast as possible. Computer emulation is definitely 
+<B>not</B> one of the projects on which you learn a programming language. 
+<HR>
+<A name=LABG></A>
+<H3>Where do I get information on the emulated hardware?</H3>Following is a list 
+of places where you may want to look. 
+<P>
+<H3>Newsgroups</H3>
+<UL>
+  <LI><B>comp.emulators.misc</B><BR>This is a newsgroup for the general 
+  discussion about computer emulation. Many emulator authors read it, although 
+  the noise level is somewhat high. Read the <A 
+  href="http://www.why.net/home/adam/cem/">c.e.m FAQ</A> before posting to this 
+  newsgroup. 
+  <LI><B>comp.emulators.game-consoles</B><BR>Same as comp.emulators.misc, but 
+  specifically dealing with videogame console emulators. Read the <A 
+  href="http://www.why.net/home/adam/cem/">c.e.m FAQ</A> before posting to this 
+  newsgroup. 
+  <LI><B>comp.sys./emulated-system/</B><BR>The comp.sys.* hierarchy contains 
+  newsgroups dedicated to specific computers. You may obtain a lot of useful 
+  technical information by reading these newsgroups. Typical examples: <PRE>comp.sys.msx       MSX/MSX2/MSX2+/TurboR computers
+comp.sys.sinclair  Sinclair ZX80/ZX81/ZXSpectrum/QL
+comp.sys.apple2    Apple ][
+etc.
+</PRE>Please, check the appropriate FAQs before posting to these newsgroups. 
+  <LI><B>alt.folklore.computers</B><BR>
+  <LI><B>rec.games.video.classic</B><BR></LI></UL>
+<P>
+<H3>FTP</H3><IMG alt=[#] 
+src="HOWTO Writing a Computer Emulator_arquivos/folder.xbm" align=middle> <A 
+href="ftp://x2ftp.oulu.fi/">Console and Game Programming </A>site in Oulu, 
+Finland <BR><IMG alt=[#] 
+src="HOWTO Writing a Computer Emulator_arquivos/folder.xbm" align=middle> <A 
+href="ftp://ftp.spies.com/">Arcade Videogame Hardware </A>archive at 
+ftp.spies.com <BR><IMG alt=[#] 
+src="HOWTO Writing a Computer Emulator_arquivos/folder.xbm" align=middle> <A 
+href="ftp://ftp.komkon.org/pub/EMUL8/">Computer History and Emulation 
+</A>archive at KOMKON 
+<P>
+<H3>WWW</H3><IMG alt=[#] 
+src="HOWTO Writing a Computer Emulator_arquivos/unknown.xbm" align=middle> <A 
+href="http://www.why.net/home/adam/cem/">comp.emulators.misc FAQ</A> <BR><IMG 
+alt=[#] src="HOWTO Writing a Computer Emulator_arquivos/unknown.xbm" 
+align=middle> <A href="http://www.komkon.org/fms/">My Homepage</A> <BR><IMG 
+alt=[#] src="HOWTO Writing a Computer Emulator_arquivos/unknown.xbm" 
+align=middle> <A 
+href="http://valhalla.ph.tn.tudelft.nl/emul8/arcade.html">Arcade Emulation 
+Programming Repository </A><BR><IMG alt=[#] 
+src="HOWTO Writing a Computer Emulator_arquivos/unknown.xbm" align=middle> <A 
+href="http://www.classicgaming.com/EPR/">Emulation Programmer's Resource 
+</A><BR>
+<HR>
+<A name=LABH></A>
+<H3>How do I emulate a CPU?</H3>First of all, if you only need to emulate a 
+standard Z80 or 6502 CPU, you can use one of the <A 
+href="http://www.komkon.org/fms/EMUL8/">CPU emulators I wrote</A>. Certain 
+conditions apply to their usage though. 
+<P>For those who want to write their own CPU emulation core or interested to 
+know how it works, I provide a skeleton of a typical CPU emulator in C below. In 
+the real emulator, you may want to skip some parts of it and add some others on 
+your own. <FONT color=#000080><PRE>Counter=InterruptPeriod;
+PC=InitialPC;
+
+for(;;)
+{
+  OpCode=Memory[PC++];
+  Counter-=Cycles[OpCode];
+
+  switch(OpCode)
+  {
+    case OpCode1:
+    case OpCode2:
+    ...
+  }
+
+  if(Counter&lt;=0)
+  {
+    /* Check for interrupts and do other */
+    /* cyclic tasks here                 */
+    ...
+    Counter+=InterruptPeriod;
+    if(ExitRequired) break;
+  }
+}
+</PRE></FONT>First, we assign initial values to the CPU cycle counter 
+(<CODE>Counter</CODE>), and the program counter (<CODE>PC</CODE>): <FONT 
+color=#000080><PRE>Counter=InterruptPeriod;
+PC=InitialPC;
+</PRE></FONT>The <CODE>Counter</CODE> contains the number of CPU cycles left to 
+the next suspected interrupt. Note that interrupt should not necessarily occur 
+when this counter expires: you can use it for many other purposes, such as 
+synchronizing timers, or updating scanlines on the screen. More on this later. 
+The <CODE>PC</CODE> contains the memory address from which our emulated CPU will 
+read its next opcode. 
+<P>After initial values are assigned, we start the main loop: <FONT 
+color=#000080><PRE>for(;;)
+{
+</PRE></FONT>Note that this loop can also be implemented as <FONT color=#000080><PRE>while(CPUIsRunning)
+{
+</PRE></FONT>where <CODE>CPUIsRunning</CODE> is a boolean variable. This has 
+certain advantages, as you can terminate the loop at any moment by setting 
+<CODE>CPUIsRunning=0</CODE>. Unfortunately, checking this variable on every pass 
+takes quite a lot of CPU time, and should be avoided if possible. Also, <B>do 
+not</B> implement this loop as <FONT color=#000080><PRE>while(1)
+{
+</PRE></FONT>because in this case, some compilers will generate code checking 
+whether <CODE>1</CODE> is true or not. You certainly don't want the compiler to 
+do this unnecessary work on every pass of a loop. 
+<P>Now, when we are in the loop, the first thing is to read the next opcode, and 
+modify the program counter: <FONT color=#000080><PRE>OpCode=Memory[PC++];
+</PRE></FONT>Note that while this is the simplest and fastest way to read from 
+emulated memory, it is <B>not always feasible</B>. A more universal <A 
+href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABHA">way to access memory</A> 
+is covered later in this document. 
+<P>After the opcode is fetched, we decrease the CPU cycle counter by a number of 
+cycles required for this opcode: <FONT color=#000080><PRE>Counter-=Cycles[OpCode];
+</PRE></FONT>The <CODE>Cycles[]</CODE> table should contain the number of CPU 
+cycles for each opcode. <B>Beware</B> that some opcodes (such as conditional 
+jumps or subroutine calls) may take different number of cycles depending on 
+their arguments. This can be adjusted later in the code though. 
+<P>Now comes the time to interpret the opcode and execute it: <FONT 
+color=#000080><PRE>switch(OpCode)
+{
+</PRE></FONT>It is a common misconception that the <CODE>switch()</CODE> 
+construct is inefficient, as it compiles into a chain of <CODE>if() ... else 
+if() ...</CODE> statements. While this is true for constructs with a small 
+number of cases, the large constructs (100-200 and more cases) always appear to 
+compile into a jump table, which makes them quite efficient. 
+<P>There are two alternative ways to interpret the opcodes. The first is to make 
+a table of functions and call an appropriate one. This method appears to be less 
+efficient than a <CODE>switch()</CODE>, as you get the overhead from function 
+calls. The second method would be to make a table of labels, and use the 
+<CODE>goto</CODE> statement. While this method is slightly faster than a 
+<CODE>switch()</CODE>, it will only work on compilers supporting "precomputed 
+labels". Other compilers will not allow you to create an array of label 
+addresses. 
+<P>After we successfully interpreted and executed an opcode, the comes a time to 
+check whether we need any interrupts. At this moment, you can also perform any 
+tasks which need to be synchronized with the system clock: <FONT color=#000080><PRE>if(Counter&lt;=0)
+{  
+  /* Check for interrupts and do other hardware emulation here */
+  ...
+  Counter+=InterruptPeriod;
+  if(ExitRequired) break;
+}
+</PRE></FONT>These <A 
+href="http://www.komkon.org/fms/EMUL8/HOWTO.html#LABHB">cyclic tasks</A> are 
+covered later in this document. 
+<P>Note that we do not simply assign <CODE>Counter=InterruptPeriod</CODE>, but 
+do a <CODE>Counter+=InterruptPeriod</CODE>: this makes cycle counting more 
+precise, as there may be some negative number of cycles in the 
+<CODE>Counter</CODE>. 
+<P>Also, look at the <FONT color=#000080><PRE>if(ExitRequired) break;
+</PRE></FONT>line. As it is too costly to check for an exit on every pass of the 
+loop, we do it only when the <CODE>Counter</CODE> expires: this will still exit 
+the emulation when you set <CODE>ExitRequired=1</CODE>, but it won't take as 
+much CPU time. 
+<HR>
+<A name=LABHA></A>
+<H3>How do I handle accesses to emulated memory?</H3>The simplest way to access 
+emulated memory is to treat it as a plain array of bytes (words, etc.). 
+Accessing it is trivial then: <FONT color=#000080><PRE>  Data=Memory[Address1]; /* Read from Address1 */
+  Memory[Address2]=Data; /* Write to Address2  */
+</PRE></FONT>Such simple memory access is not always possible for following 
+reasons though: 
+<UL>
+  <LI><B>Paged Memory</B><BR>The address space may be fragmented into switchable 
+  pages (aka banks). This is often done to expand memory when the address space 
+  is small (64kB). 
+  <P></P>
+  <LI><B>Mirrored Memory</B><BR>An area of memory may be accessible at several 
+  different addresses. For example, the data you write into location $4000 will 
+  also appear at $6000 and $8000. The ROMs may also be mirrored due to 
+  incomplete address decoding. 
+  <P></P>
+  <LI><B>ROM Protection</B><BR>Some cartridge-based software (such as MSX games, 
+  for example) tries to write into its own ROM and refuses to work if writing 
+  succeeds. This is often done for copy protection. To make such software work 
+  on your emulator, you should disable writes into ROM. 
+  <P></P>
+  <LI><B>Memory-Mapped I/O</B><BR>There may be memory-mapped I/O devices in the 
+  system. Accesses to such memory locations produce "special effects" and 
+  therefore should be tracked. </LI></UL>To cope with these problems, we introduce 
+a couple of functions: <FONT color=#000080><PRE>  Data=ReadMemory(Address1);  /* Read from Address1 */
+  WriteMemory(Address2,Data); /* Write to Address2  */
+</PRE></FONT>All special processing such as page access, mirroring, I/O 
+handling, etc., is done inside these functions. 
+<P><CODE>ReadMemory()</CODE> and <CODE>WriteMemory()</CODE> usually put a lot of 
+overhead on the emulation because they get called very frequently. Therefore, 
+they must be made as efficient as possible. Here is an example of these 
+functions written to access paged address space: <FONT color=#000080><PRE>static inline byte ReadMemory(register word Address)
+{
+  return(MemoryPage[Address&gt;&gt;13][Address&amp;0x1FFF]);
+}
+
+static inline void WriteMemory(register word Address,register byte Value)
+{
+  MemoryPage[Address&gt;&gt;13][Address&amp;0x1FFF]=Value;
+}
+</PRE></FONT><B>Notice</B> the <CODE>inline</CODE> keyword. It will tell 
+compiler to embed the function into the code, instead of making calls to it. If 
+your compiler does not support <CODE>inline</CODE> or <CODE>_inline</CODE>, try 
+making function <CODE>static</CODE>: some compilers (WatcomC, for example) will 
+optimize short static functions by inlining them. 
+<P>Also, keep in mind that in most cases the <CODE>ReadMemory()</CODE> is called 
+several times more frequently than <CODE>WriteMemory()</CODE>. Therefore, it is 
+worth to implement most of the code in <CODE>WriteMemory()</CODE> leaving 
+<CODE>ReadMemory()</CODE> as short and simple as possible. 
+<P>
+<UL>
+  <LI><B>A little note on memory mirroring:</B><BR>As was said before, many 
+  computers have mirrored RAM where a value written into one location will 
+  appear in others. While this situation can be handled in the 
+  <CODE>ReadMemory()</CODE>, it is usually not desirable, as 
+  <CODE>ReadMemory()</CODE> gets called much more frequently than 
+  <CODE>WriteMemory()</CODE>. A more efficient way would be to implement memory 
+  mirroring in the <CODE>WriteMemory()</CODE> function. </LI></UL>
+<P>
+<HR>
+<A name=LABHB></A>
+<H3>Cyclic tasks: what are they?</H3>Cyclic tasks are things which should 
+periodically occur in an emulated machine, such as: 
+<UL>
+  <LI>Screen refresh 
+  <LI>VBlank and HBlank interrupts 
+  <LI>Updating timers 
+  <LI>Updating sound parameters 
+  <LI>Updating keyboard/joysticks state 
+  <LI>etc. </LI></UL>
+<P>In order to emulate such tasks, you should tie them to appropriate number of 
+CPU cycles. For example, if CPU is supposed to run at 2.5MHz and the display 
+uses 50Hz refresh frequency (standard for PAL video), the VBlank interrupt will 
+have to occur every <PRE>       2500000/50 = 50000 CPU cycles
+</PRE>Now, if we assume that the entire screen (including VBlank) is 256 
+scanlines tall and 212 of them are actually shown at the display (i.e. other 44 
+fall into VBlank), we get that your emulation must refresh a scanline each <PRE>       50000/256 ~= 195 CPU cyles
+</PRE>After that, you should generate a VBlank interrupt and then do nothing 
+until we are done with VBlank, i.e. for <PRE>       (256-212)*50000/256 = 44*50000/256 ~= 8594 CPU cycles
+</PRE>Carefully calculate numbers of CPU cycles needed for each task, then use 
+their <B>biggest common divisor</B> for <CODE>InterruptPeriod</CODE> and tie all 
+other tasks to it (they should not necessarily execute on every expiration of 
+the <CODE>Counter</CODE>). 
+<HR>
+<A name=LABI></A>
+<H3>How do I optimize C code?</H3>First, a lot of additional code perfomance can 
+be achieved by choosing right optimization options for the compiler. Based on my 
+experience, following combinations of flags will give you the best execution 
+speed: <PRE>Watcom C++      -oneatx -zp4 -5r -fp3
+GNU C++         -O3 -fomit-frame-pointer
+Borland C++
+</PRE>If you find a better set of options for one of these compilers or a 
+different compiler, please, let me know about it. 
+<UL>
+  <LI><B>A little note on loop unrolling:</B><BR>It may appear useful to switch 
+  on the "loop unrolling" option of the optimizer. This option will try to 
+  convert short loops into linear pieces of code. My experience shows, though, 
+  that this option does not produce any perfomance boost. Turning it on may also 
+  break your code in some very special cases. </LI></UL>Optimizing the C code 
+itself is slightly trickier than choosing compiler options, and generally 
+depends on the CPU for which you compile the code. Several general rules tend to 
+apply to all CPUs. Do not take them for absolute truths though, as your mileage 
+may vary: 
+<UL>
+  <LI><B>Use the profiler!</B><BR>A run of your program under a decent profiling 
+  utility (<CODE>GPROF</CODE> immediately comes to mind) may reveal a lot of 
+  wonderful things you have never suspected before. You may find that seemingly 
+  insignificant pieces of code are executed much more frequently than the rest 
+  of it and slow the entire program down. Optimizing these pieces of code or 
+  rewriting them in assembly language will boost the perfomance. 
+  <P></P>
+  <LI><B>Avoid C++</B><BR>Avoid using any constructs which will force you to 
+  compile your program with a C++ compiler instead of plain C: C++ compilers 
+  usually add more overhead to the generated code. 
+  <P></P>
+  <LI><B>Size of integers</B><BR>Try to use only integers of the base size 
+  supported by the CPU, i.e. <CODE>int</CODE> ones as opposed to 
+  <CODE>short</CODE> or <CODE>long</CODE>. This will reduce amount of code 
+  compiler generates to convert between different integer lengths. It may also 
+  reduce the memory access time, as some CPUs work fastest when reading/writing 
+  data of the base size aligned to the base size address boundaries. 
+  <P></P>
+  <LI><B>Register allocation</B><BR>Use as few variables as possible in each 
+  block and declare most frequently used ones as <CODE>register</CODE> (most new 
+  compilers can automatically put variables into registers though). This makes 
+  more sense for CPUs with many general-purpose registers (PowerPC) than for 
+  ones with a few dedicated registers (Intel 80x86). 
+  <P></P>
+  <LI><B>Unroll small loops</B><BR>If you happen to have a small loop which 
+  executes a few times, it is always a good idea to manually unroll it into a 
+  linear piece of code. See the note above about the automatic loop unrolling. 
+  <P></P>
+  <LI><B>Shifts vs. multiplication/division</B><BR>Always use shifts wherever 
+  you need to multiply or divide by 2^n (<CODE>J/128==J&gt;&gt;7</CODE>). They 
+  execute faster on most CPUs. Also, use bitwise AND to obtain the modulo in 
+  such cases (<CODE>J%128==J&amp;0x7F</CODE>). </LI></UL>
+<HR>
+<A name=LABJ></A>
+<H3>What is low/high-endianess?</H3>All CPUs are generally divided into several 
+classes, depending on how they store data in memory. While there are some very 
+peculiar specimens, most CPUs fall into one of two classes: 
+<UL>
+  <LI><B>High-endian</B> CPUs will store data so that higher bytes of a word 
+  always occur first in memory. For example, if you store 
+  <CODE>0x12345678</CODE> on such CPU, the memory will look like this: <PRE>                      0  1  2  3
+                     +--+--+--+--+
+                     |12|34|56|78|
+                     +--+--+--+--+
+</PRE>
+  <LI><B>Low-endian</B> CPUs will store data so that lower bytes of a word 
+  always occur first in memory. The example from above will look quite 
+  differently on such CPU: <PRE>                      0  1  2  3
+                     +--+--+--+--+
+                     |78|56|34|12|
+                     +--+--+--+--+
+</PRE></LI></UL>Typical examples of high-endian CPUs are 6809, Motorola 680x0 
+series, PowerPC, and Sun SPARC. Low-endian CPUs include 6502 and its successor 
+65816, Zilog Z80, most Intel chips (including 8080 and 80x86), DEC Alpha, etc. 
+<P>When writing an emulator, you have to be aware of the endianess of both your 
+emulated and emulating CPUs. Let's say that you want to emulate a Z80 CPU which 
+is low-endian. That is, Z80 stores its 16-bit words with lower byte first. If 
+you use a low-endian CPU (for example, Intel 80x86) for this, everything happens 
+naturally. If you use a high-endian CPU (PowerPC) though, there is suddenly a 
+problem with placing 16-bit Z80 data into memory. Even worse, if your program 
+must work on both architectures, you need some way to sense the endiness. 
+<P>One way to handle the endiness problem is given below: <FONT color=#000080><PRE>typedef union
+{
+
+  short W;        /* Word access */
+
+  struct          /* Byte access... */
+  {
+#ifdef LOW_ENDIAN
+    byte l,h;     /* ...in low-endian architecture */
+#else
+    byte h,l;     /* ...in high-endian architecture */
+#endif
+  } B;
+
+} word;
+</PRE></FONT>As you see, a word can be accessed as whole using <CODE>W</CODE>. 
+Every time your emulation needs to access it as separate bytes though, you use 
+<CODE>B.l</CODE> and <CODE>B.h</CODE> which preserves order. 
+<P>If your program is going to be compiled on different platforms, you may want 
+to test that it was compiled with correct endiness flag before executing 
+anything really important. Here is one way to perform such a test: <FONT 
+color=#000080><PRE>  int *T;
+
+  T=(int *)"\01\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0";
+  if(*T==1) printf("This machine is high-endian.\n");
+  else      printf("This machine is low-endian.\n");
+</PRE></FONT>
+<HR>
+<A name=LABK></A>
+<H3>How to make program portable?</H3><I>To be written.</I> 
+<HR>
+<A name=LABL></A>
+<H3>Why should I make program modular?</H3>Most computer systems are made of 
+several large chips each of which performs certain part of system functions. 
+Thus, there is a CPU, a video controller, a sound generator, and so forth. Some 
+of these chips may have their own memory and other hardware attached to them. 
+<P>A typical emulator should repeat the original system design by implementing 
+each subsystem functions in a separate module. First, this makes debugging 
+easier as all bugs are localized in the modules. Second, the modular 
+architecture allows you to reuse modules in other emulators. The computer 
+hardware is quite standarized: you can expect to find the same CPU or video chip 
+in many different computer models. It is much easier to emulate the chip once 
+than implement it over and over for each computer using this chip. 
+<HR>
+<I>©1997-2000 Copyright by <A href="http://www.komkon.org/fms/">Marat 
+Fayzullin</A> [fms@cs.umd.edu] </I></LI></BODY></HTML>

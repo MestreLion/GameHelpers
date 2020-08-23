@@ -1,0 +1,581 @@
+--- "Zelda 64: Majora's Mask" Heart Piece Location FAQ ---
+   ------------------------------------------------------  
+
+****LAST UPDATED: APRIL 14, 2002			VERSION 1.2a****
+ _____________________________
+|   -- Table Of Contents --   | 				
+| 1. About this FAQ	      |
+| 2. Contact		      |
+| 3. Updates		      |	
+| 4. What are Pieces of Heart |
+| 5. Heart Piece Locations    |
+| 6. My Strategies            |
+| 7. Reader Strategies        |
+| 8. Requested Strategies     |
+| 9. Credits & Copyright      |
+| 10. The Next Update...      |
+| 11. FAQ's by Nocturne       |
+ -----------------------------
+
+--- ABOUT THIS FAQ: ---
+ ---------------------
+This FAQ was made by Nocturne [templarnocturne@yahoo.com] to help solve the
+puzzles associated with all 52 of the Heart Pieces in Zelda 64: Majora's Mask.
+If you have any questions about the FAQ or its contents, please e-mail the
+author.  Replies 'usually' in less than 24 hours.
+
+This FAQ should be viewed at 800 x 600 Pixels using MSIE, otherwise margins
+will be off, making this look rather poor.
+
+--- CONTACT: ---
+ --------------
+The author of this FAQ can be contacted by the following:
+
+E-Mail: templarnocturne@yahoo.com
+ICQ: 15945725
+AOL Instant Messager: Templar Nocturne
+
+--- UPDATES ---
+ -------------
+14 Apr 2002:  Alright, you got me! This really isn't an update, per se, but it's
+	      meant to show everyone that I'm still around and providing support for
+	      all my FAQ's I wrote.  Please e-mail me with your tip or question and
+	      I'll get back to you as soon as I can; I check my Yahoo! mail account
+	      once or twice a day!  Be patient!  I apologize to anyone that has e-mailed
+	      me and they received no response or were neglected!
+
+23 Nov 2000:  Reader Section updated with a few easier ways to get the heart
+              pieces; minor corrections made. Created Requested Strategies area.
+
+17 Nov 2000:  Readers have been writing in and offering advice, and even a tip
+              or two on how to get the tougher heart pieces....thanks!
+
+09 Nov 2000:  After beating Majora's Mask and gaining all twenty of the heart
+	      pieces, I decided to write an FAQ guide for it, because in some
+              areas, it is quite difficult.
+
+--- WHAT ARE PIECES OF HEART ---
+ ------------------------------
+In order to boost your Life Energy (the heart meter on your screen), you will 
+need to find numerous "pieces" of a Heart Container.  Most of these can be
+found very early in the game, but others require key items that you do not have
+access to until later.  Heart Containers are found as a whole after you defeat
+a Temple Guardian.  There are four of these in the game.  Since you start out
+with Three Hearts, you will have only SEVEN if you do not attempt to locate
+these heart pieces.
+
+Pieces of Heart that you recover account for one-quarter of the whole heart. 
+To see how many pieces you have at any time, press [START] and locate the 
+QUEST STATUS SCREEN.
+
+There are a total of Fifty-Two Heart Pieces in Zelda: Majora's Mask, as opposed
+to the Thirty-Two found in Zelda: Ocarina of Time.  The Pieces of Heart will 
+give you a maximum of 13 Hearts.
+
+Some things you need to know about Majora's Mask is that everything revolves 
+around 'time'.  Although you can alter it and go back, you don't keep some of 
+the items you had during trade sequences.  At the bottom in MY STRATEGIES, I
+explain some of the sequences. 
+
+A 'key' I commonly use is the "Cleared Dungeon x".  In order to obtain this
+piece of heart, you will have to defeat the boss again so the games/items 
+are "activated".
+
+--- HEART PIECE LOCATIONS ---
+ ---------------------------
+*The Heart Piece Guide Below Follows This Format*
+(AREA)
+(Number).(Link);(Items You Need)-(Guide).
+
+ - CLOCK TOWN -
+   ----------
+1. Link; Bunny Hood-In NORTH CLOCK TOWN, there are some pillars and a ramp.  You
+   can use the BUNNY HOOD to run up the slide and to the main platform.  From
+   here, jump off towards the Tree Branch and get your piece of heart!
+
+2. Deku Link; Moon's Tear-In SOUTH CLOCK TOWN, give the Deku Business Scrub
+   (located by the Golden Deku Launcher) the Moon's Tear in exchange for the
+   Land Title Deed.  Switch to Deku Link and dive into the Launcher.  Shoot up
+   to the Platform in front of the Clock Tower to get the piece.
+
+3. Link; 10 Rupees Per Game-In WEST CLOCK TOWN, go to the Swordsman's School. 
+   Talk to him to play his Log-Cutting game.  It's 10 rupees per chance, so bring
+   extra in case you mess up.  To win, keep using the "Z-Targeting Overhead
+   Slash [A Button]" technique. If you score a perfect 30, you get the heart
+   piece.
+
+4. Link-In WEST CLOCK TOWN, if you go to the banker and repeatdly deposit rupees,
+   you will receive a Heart Piece when your total reaches 5,000. [SEE THE MY
+   STRATEGIES SECTION FOR MORE INFORMATION!]
+
+5. Link; 2 Rupees Per Game-In WEST CLOCK TOWN, go to the Postoffice on Day 1 or
+   Day 2.  Wait until the Postman finishes his evening run, then go inside.  He
+   will tell you to mentally project 10 seconds to win.  It's 2 Rupees per game
+   and I would bring at least 100.  Get 10'00" and win a Heart Piece.
+   ***SEE READER REQUEST STRATEGIES FOR THIS HOT TIP!***
+
+6. Link; Kamaro's Mask-In WEST CLOCK TOWN, Dance in front of the Rosa sisters 
+   (the two girls dancing outside the Lottery Shop) and they'll give you a
+   piece of heart.
+
+7. Link; Keaton's Mask-In NORTH CLOCK TOWN, wear the Keaton's Mask and pick up
+   the center bush.  You will summon Keaton!  Answer five questions correctly 
+   and win another piece of heart!
+
+8. Link; Land Title Deed-Remember the Moon's Tear Heart Piece where you traded
+   for the Land Title Deed?  Go back and get the Deed again (if you don't have
+   the one from before).  At midnight, go to the Stock Pot Inn [EAST CLOCK TOWN]
+   and run around to the Upper Floor.  Go in the small room and a Hand will
+   start spazzing out around you.  Give him the Land Title Deed and he'll give 
+   you a piece of heart.  (You can go back in time if you need the Land Title Deed
+   again.) [SEE THE MY STRATEGIES SECTION FOR MORE INFORMATION!] [CHECK OUT THE 
+   READER STRATEGIES!]
+
+9. Link; Couple's Mask-After you help Kafei reunite with Anju, they'll give you
+   they Couple's Mask for being their witnesses to the wedding.  Wear the mask
+   in EAST CLOCK TOWN in the Mayor's Residence.  Talk to Mayor Dotour to get a 
+   piece of heart.
+
+10. Link; Postman's Hat-Use the Postman's Hat you got during the Kafei Quest to
+    access the mailboxes.  One will contain a piece of heart!
+
+11. Link; All-Night Mask-In EAST CLOCK TOWN, go into the Stock Pot Inn during
+    the daytime.  Put on the All-Night Mask and talk to Anju's Mother, located
+    on the First Floor.  Listen to the story about The Carnival and select the
+    answer "On The Eve of the Carnival" to get another heart piece.
+
+12. Link; All-Night Mask-In EAST CLOCK TOWN, go into the Stock Pot Inn during
+    the daytime.  Put on the All-Night Mask and talk to Anju's Mother, located
+    on the First Floor.  Listen to the story about Four Giants and select the 
+    answer "I dunno" to get another heart piece.
+
+13. Link; 20 Rupees Per Game-In EAST CLOCK TOWN, go to the Shooting Gallery 
+    during business hours (6 AM - 10 PM).  Score a Perfect 50 to win a 
+    Heart Piece. [SEE THE MY STRATEGIES SECTION FOR MORE INFORMATION!]
+
+14. Link; Bomb Bag, Hero's Bow, 20 Rupees Per Game-In EAST CLOCK TOWN, go to
+    Honey & Darling's Shop on Day 1.  Win the high score three days in a row 
+    and they will give you a heart piece. Day 1: Bombchu Targeting. Day 2: 
+    Bomb-sket Ball.  Day 3: Target Practice (Bow and Arrow).    [SEE THE MY 
+    STRATEGIES SECTION FOR MORE INFORMATION!]
+    
+15. Goron Link; 20 Rupees Per Game-In EAST CLOCK TOWN, enter the Treasure
+    Chest Shop during business hours.  Win and you will get a heart piece.
+
+16. Deku Link; 10 Rupees Per Game-In NORTH CLOCK TOWN, launch yourself into
+    the small fenced-in hole near the Great Fairy.  In the Deku 
+    Scrub Playground, beat the high score for three days in a row.  
+
+ - TERMINA FIELD -
+   -------------
+**WHAT? IS THAT THE ZELDA OVERWORLD THEME!?!? :)
+
+17. Link; 100 Rupees-From EAST CLOCK TOWN, go to the Astral Observatory.  Use
+    the Telescope to watch for a Deku Business Scrub fly into a Hole.  Leave 
+    the South or East Gate of Clock Town and run to the Hole.  Refuse his first
+    offer of 150 Rupees and he'll lower his offer down to 100.  Buy the piece.
+
+18. Link-In the northern area of TERMINA FIELD, there's a hole under one of
+    the snow mushrooms. Hop in and do battle with two Dodongos. Kill them both
+    Dodongos to get a heart piece.
+
+19. Goron Link; Goron's Lullaby-In Four Areas in TERMINA FIELD, there are holes
+    that lead to four Gossip tones, one being larger than the rest.  They are
+    located:  1) Under a Rock between NORTH and WEST TERMINA FIELD; 2) Near the
+    edge of the Tall Grass out between the Swamp and Milk Road; 3) Outside 
+    NORTH CLOCK TOWN near the spot where snow and grass meet; 4) Near the 
+    outside of the Astral Observatory. Play the Goron's Lullaby to each of the
+    4 stones to gain a Heart Piece.
+
+20. Link-Head to TERMINA FIELD out of SOUTH CLOCK TOWN, and start walking to 
+    MILK ROAD. As you walk through the high grass, go near the Deku Baba that 
+    pops up at you and you will fall into an underground cave with a peahat 
+    inside. Kill it to get the heart piece.  
+
+21. Link; Zora Mask, Arrows, Bombs-Near the entrance to the Great Bay Coast is
+    a large rock. Hit it with a Bomb or punch it as a Goron and drop down into 
+    the hole. Shoot down one of the beehives on the ceiling with your bow, and
+    the heart piece will fall into the water.  From the surface, plink the 
+    enemies with the Hero's Bow, then sink down as Zora Link and get it.
+
+ - SOUTHERN SWAMP -
+   --------------
+
+22. Link-Climb on the big tree's vines to find a Heart Piece at the top.  Shoot
+    or slice the Keese [Bats] that fly at you first.
+
+23. Deku Link; Land Title Deed-Take the MOON'S TEAR you got near the Astral
+    Observatory and bring it to the Deku Merchant in town.  Take the LAND TITLE
+    DEED he will give you.  Go to the SOUTHERN SWAMP, and look on the ledge with
+    the hut.  Give him the LAND TITLE DEED, and he will give you the SWAMP TITLE
+    DEED. Use the Deku Launcher to fling yourself up to the roof of the hut
+    where you'll find the heart piece.
+
+24. Link; Cleared Dungeon 1, Rupees-After you beat Odolwa, go back to the photo hut and
+    talk to Kotake as Link.  She will offer a challenge to you for a game of boat 
+    archery. Shoot at least 20 of the targets before the boat ride is over to gain
+    the Heart Piece.  Shoot Kotate 10 times and you'll have to start again.  The 
+    first time is free, after that she will charge you.
+
+25. Deku Link; Pictograph Box-In the DEKU PALACE, take a picture of the Deku King
+    in the Deku Palace, and bring it back to the owner of the Photo Hut. He will reward
+    you with the heart piece.
+
+26. Link; Rupees, Hero's Bow-In the SOUTHERN SWAMP area, go to the Swamp ARCHERY GAME.
+    Get a perfect score in the swamp shooting gallery to get a heart piece.
+
+ - DEKU PALACE -
+   -----------
+
+27. Deku Link-In the DEKU PALACE, take your first left after passing the guards.  Make
+    your way through the maze, avoiding the guards.  There's a Heart Piece at the end.
+    [SEE THE MY STRATEGIES SECTION FOR MORE INFORMATION!]
+
+ - WOODFALL -
+   --------
+
+28. Deku Link-Inside the hut where you play the Sonata of Awakening to open the entrance
+    to the Woodfall Temple, launch over to assorted Deku Launch Pads until you come
+    across a platform with a gold treasure chest on it. Open the chest to get the
+    Heart Piece.
+
+
+ - MOUNTAIN VILLAGE -
+   ----------------
+
+29. Zora Link; Cleared Dungeon 2-After you get the Zora's Mask, clear out Dungeon 2
+    again by killing off Goht.  Head down to the area where you thawed the Elder Goron
+    and sink down using the Zora's Mask.  On the bottom is a chest with a Heart Piece.
+
+30. Link; Don Gero Mask, Cleared Dungeon 2 & 3-When you get the Don Gero Mask, Link
+    gains the ability to talk to frogs.  They are found in the following areas: 
+    1) CLOCK TOWN: Hopping near the tree in the LAUNDRY POOL.
+    2) WOODFALL TEMPLE: After beating Gekko, he will turn into a frog.
+    3) SOUTHERN SWAMP: This frog is on a log near the Octoroks.
+    4) GREAT BAY TEMPLE: Beat Gekko again to turn him into a frog.
+    5) MOUNTAIN VILLAGE: After you clear Dungeon 2, you'll warp out to the frogs.  
+       talk to them and they'll sing you a Heart Piece.
+
+31. Link; Lens of Truth, Hookshot, Scarecrow's Song-Make your Scarecrow's Song and go
+    to the area right before Snowhead. Around the last jump, use the lens of truth to 
+    see some hidden platforms. Jump across and use the Scarecrow's Song and the 
+    hookshot to get to the heart piece.
+
+32. Deku Link; Swamp Title Deed-Talk to the Deku Business Scrub near the Goron Shrine,
+    and trade the Swamp Title Deed for the MOUNTAIN TITLE DEED.  Jump in his flower
+    and blast up to the ledge.
+
+ - GREAT BAY -
+   ---------
+
+33. Link; Zora's Mask, Hookshot-Go to the right area of Great Bay (where you accessed 
+    Zora Hall) and fire your hookshot on the palm trees atop each platform. Go up to 
+    the top and through the opening.  Throw on the Zora Mask and dive into the
+    water. Sink down, talk to the beaver, and he will race you through 20 rings. If 
+    you go through them all before the time is up, you can race his brother through 
+    25 rings and get a bottle if you make it. Race them both again and win to get the
+    heart piece.
+
+34. Zora Link-Go to the right area of Great Bay, (where you accessed Zora Hall) and
+    dive down where the waterfall is. Kill the skeleton fish followed by the Like-Like
+    to get the heart piece.
+
+35. Link; Captain's Hat, Hero's Bow, Hookshot-In the OCEANSIDE SPIDER HOUSE,
+    go into the room with the Skeletons.  Put on the Captain's Hat and talk to them to
+    find out the order to shoot the faces.  Go through the grate that opens and get
+    the chest with a Piece of Heart inside.
+
+36. Link; Pictograph Box, Zora Mask, Stone Mask-Take a closeup picture of a pirate
+    for the seahorse with the fisherman. Put the seahorse into a bottle and release it
+    near Pinnacle Rock. Kill all the sea snakes and rescue the trapped seahorse to get
+    a Heart Piece.
+
+37. Link; Bottle(s), Fish-Catch a few fish in bottles and feed the two fish in the
+    MARINE RESEARCH LAB.  One of the fish will eventually get huge and eat the other
+    fish. A Heart Piece will be the result.
+
+38. Link; Hookshot, 20 Rupees/Game, Cleared Dungeon 3-After Gyorg is dead, ride the
+    boat that is docked north of the Research Lab (head towards Pirate's Fortress) 
+    out to an island, and use the hookshot to get on the island.  (The Boat will drive
+    by it, so you'll have to hook it on the fly.) Beat the fisherman's jumping game to
+    get a piece of heart.
+
+39. Link; Hookshot, Bottle of Water, Magic Bean, Scarecrow's Song-On the shore near
+    the Pirate's Fortress is a Hookshot Target.  Fire up, keep going, you'll find some
+    softsoil. Plant a seed and water it. Use the plant to ride up and at the top play 
+    the Scarecrow's Song and hookshot over to the heart piece.
+
+
+ - ZORA HALL -
+   ---------
+
+40. Link; Zora Mask, Hookshot-In ZORA HALL, go into your dressing room. Hookshot up 
+    to the top ledge and read the journal as Zora Link to learn the two parts of a
+    song. Go into the guitarist's room and play the first part after
+    he plays his part, and the second part after he plays his second part.  Then, go
+    to the pianist's room and play the whole song (both 1 and 2 together) to him as 
+    normal Link to get the heart piece.
+
+41. Deku Link; Goron Mask, Mountain Title Deed-As Goron Link, offer the MOUNTAIN
+    TITLE DEED to the Deku Scrub in Lulu's dressing room. Use the Deku Launcher to 
+    get to a heart piece.  He'll give you the OCEAN TITLE DEED in return, too.
+
+
+ - PIRATE'S FORTRESS -
+   -----------------
+
+42. Goron Link; Bunny Hood-As you make your way through the Fortress, bash the
+    barrels in the room where you see a Heart Piece in a cage.  Step on the switch
+    as Goron Link, and then switch into Normal Link with Bunny Hood and run to it.
+
+
+ - IKANA CANYON -
+   ------------
+43. Deku Link; Ocean Title Deed, Hookshot, Garo's Mask-Access the canyon by talking
+    to the Ghost Man on the wall with Garo's Mask on.  Hookshot up and over, then
+    head to the right.  Run as far as you can go, and throw on the Zora Mask.  Give
+    the OCEAN TITLE DEED to the Deku Scrub. Use the Deku Flower to get to the 
+    nearby heart piece.
+
+44. Link; Hero's Bow, Rupees-Take the GHOST COLLECTOR'S CHALLENGE in IKANA CANYON.
+    His shop is near the Music Box House.  You'll have to kill four Poes before
+    time runs out, bring some cash.
+
+
+ - IKANA GRAVEYARD - 
+   ---------------
+45. Link; Captain's Hat, Bomb, Lens of Truth-In the graveyard at night on Day 2, 
+    wear the Captain's Hat and command the Stalchildren to open up the graves so 
+    that you can enter a underground lair. Use the Lens of Truth to get through the
+    area and bomb to break through the wall. Kill the Ironknuckle to get a piece of
+    heart.
+
+
+ - IKANA RUINS -
+   -----------
+46. Deku Link-At the top of the ruins when you go outside, there is a crystal
+    switch. Hit the switch with a bubble to turn off the fire around the Deku
+    Launchers.  Jump from one to another to get the heart piece.
+
+47. Link; Light Arrows-To the left side of IKANA CANYON lies a door with a sun
+    switch above it.  Pop it with a Light Arrow.  Enter the shrine and beat
+    all the enemies in the four rooms.  After you have killed them all
+    return to the center room for a heart piece.  NOTE: The dungeon may not
+    let you access some of the rooms if you don't have a lot of hearts, but if
+    you complete the ones prior to this, you should be alright.
+
+
+ - ROMANI RANCH -
+   ------------
+48. Link; 300 Rupees (To Be Safe)-Bet on the Doggy Racetrack.  Use the Mask of
+    Truth to talk to the dogs.  Pick the one that says "Ruff! There's no way 
+    I can lose!" Or something like that.  There's no guarantee since every 
+    race is random, but you will finish in 1st, 2nd, or 3rd sooner or later, 
+    which triples your winnings.  Bet at least 50 rupees on the Race to win
+    the piece of heart.
+
+ - THE MOON -  
+   --------
+
+NOTE: If you already have the Fierce Deity Mask, there is no need to complete
+      these dungeons, just exit the dungeon after you get it.  If you need it
+      make sure you get the Heart Piece before you exit, it saves a LOT of 
+      trouble.
+
+49. Deku Link-In the ODWALA DUNGEON, Fly up and onto the moving platform.
+    Make your way to the GOLD Deku Launcher, and propel yourself to the
+    back-right side of the room.  
+
+50. Goron Link-In the GOHT DUNGEON, WHOA! THIS IS BY FAR THE TOUGHEST HEART 
+    PIECE! Goron Roll straight ahead and keep going.  You'll sproing off 
+    Treasure Chests.  When you go through the two magic pots GET READY, sharply
+    turn to the right when it angles, then turn left a bit shallower and hop
+    the gap.  Once you hit the three magic pots, STOP ROLLING! See that 
+    straightaway? Walk over, line yourself up.  Center yourself.  Goron Roll up
+    and over the pit, sproing off the chest, and just stay centered.  You'll 
+    eventually make it to the Heart Piece.
+
+51. Zora Link-In the GYORG DUNGEON, sink down; Go left, right, left, then left
+    again.
+
+52. Link; Bombchus-In the TWINMOLD DUNGEON, defeat all the bosses.  Eventually
+    you'll come to a room with Bombchu's and a hole in the wall.  Blow up the
+    hole, hit the switch with a Fire Arrow, and go in.  There's a Heart Piece
+    waiting for you.
+
+--- MY STRATEGIES ---
+ -------------------
+I have many strategies I used to get the Heart Pieces.  Most of them, like for
+#50 for example, was just praying! :) The main thing to remember is NEVER give
+up.  Sure, you will get aggrivated, pissed, annoyed... It's just a game.  
+Don't forget that, just laugh it off.  I spent two hours getting the Goron 
+Heart Piece in the Dungeon. (#50).  I spent an hour getting the Deku Scrub
+Playground Heart Piece. (#16).  It's annoying, but it's a challenge.  That's
+why we play these games, for a challenge.
+
+Here's some strategies to use if you get stuck.  If you need additional help,
+and there's no hint here, E-Mail your request to the author of this FAQ,
+[templarnocturne@yahoo.com] and I will add the question the next update, along
+with a new In-Depth FAQ for it to clarify.
+
+ - CLOCK TOWN -
+   ----------
+
+4. Link-In WEST CLOCK TOWN, if you go to the banker and repeatdly deposit rupees,
+   you will receive a Heart Piece when your total reaches 5,000.
+A. Ok. You know that Bird that flies around Milk road? You can shoot him with 
+   arrows from a distance to bring him down.  He'll leave a GOLD RUPEE, worth
+   200 Rupees! You can slash up the bushes to replenish your ammunition.  Use
+   Z-Targeting to be sure that you hit him, and if you have Fire or Ice Arrows,
+   use them.  It takes 12 Arrows to bring him down, but just 6 Elemental Arrows.
+   Walk into Milk Road, rinse, and repeat.  This technique works well if you
+   have the GIANT'S WALLET.
+
+8. Link; Land Title Deed-Remember the Moon's Tear Heart Piece where you traded
+   for the Land Title Deed?  Go back and get the Deed again (if you don't have
+   the one from before).  At midnight, go to the Stock Pot Inn [EAST CLOCK TOWN]
+   and run around to the Upper Floor.  Go in the small room and a Hand will
+   start spazzing out around you.  Give him the Land Title Deed and he'll give 
+   you a piece of heart.  (You can go back in time if you need the Land Title Deed
+   again.)
+A. Please refer to my TITLE DEED TRADE SEQUENCE FAQ, found on GameFAQs.com
+
+13. Link; 20 Rupees Per Game-In EAST CLOCK TOWN, go to the Shooting Gallery 
+    during business hours (6 AM - 10 PM).  Score a Perfect 50 to win a 
+    Heart Piece.
+A.  This is very, very hard. You'll have to try, try again.  If you miss, keep
+    going, but beat the OLD RECORD by just one.  This will win you 50 Rupees 
+    each time, thereby generating lots of cash for you.  Try to play a lot
+    of times, this way you'll get used to where and when the Red Octoroks pop
+    up.  With this knowledge, try to get them all in one pass, rather than
+    randomly shooting whichever ones you can.  In other words, start at one
+    side and make your way to the other. 
+
+14. Link; Bomb Bag, Hero's Bow, 20 Rupees Per Game-In EAST CLOCK TOWN, go to
+    Honey & Darling's Shop on Day 1.  Win the high score three days in a row 
+    and they will give you a heart piece. Day 1: Bombchu Targeting. Day 2: 
+    Bomb-sket Ball.  Day 3: Target Practice (Bow and Arrow). 
+A.  This was crazy, but it follows the same thing as #13.  Play often to get
+    used to the way the game goes.  The hardest thing to do is shoot straight
+    because of the rotating platform.  As you play, you'll get better.  For 
+    day 1, Stand straight and keep a mental count (1...2...3...).  If you 
+    hit one, keep that mental count, and remember WHEN you launched.  Keep
+    your rhythm and you'll get it, just bring lots of cash.
+
+27. Deku Link-In the DEKU PALACE, take your first left after passing the guards.  Make
+    your way through the maze, avoiding the guards.  There's a Heart Piece at the end.
+A.  You can go back around to where you planted the Magic Bean (remember when you 
+    found the monkey?).  Fly around again, but before the final jump, hop down when
+    the coast is clear and run right for the heart.
+
+--- READERS' TIPS & STRATEGIES ---
+ --------------------------------
+Remember, I don't necessarily check to make sure that these are right, but I do
+get in the Zelda mood every so often and try them out.  Although I post them, I may
+not have checked them over just yet.  (Just my little disclaimer.)
+
+23 Nov 2000: Wow. Thanks to N64master (N64master12488@aol.com), he found quite a
+             few get-arounds for the heart pieces!
+
+17 Nov 2000: Thanks to Paul Dinges (pauldinges@earthlink.net), he found a quick
+             and easy way to get that elusive Postman Heart Piece!
+
+5. Link; 2 Rupees Per Game-In WEST CLOCK TOWN, go to the Postoffice on Day 1 or
+   Day 2.  Wait until the Postman finishes his evening run, then go inside.  He
+   will tell you to mentally project 10 seconds to win.  It's 2 Rupees per game
+   and I would bring at least 100.  Get 10'00" and win a Heart Piece.
+   
+*  Paul Dinges:  If you wear the Bunny Hood, the clock will continue counting
+   upward from 0 to 10, and won't vanish.  It's much easier to get the Heart
+   Piece this way.
+
+8. Link; Land Title Deed-Remember the Moon's Tear Heart Piece where you traded
+   for the Land Title Deed?  Go back and get the Deed again (if you don't have
+   the one from before).  At midnight, go to the Stock Pot Inn [EAST CLOCK TOWN]
+   and run around to the Upper Floor.  Go in the small room and a Hand will
+   start spazzing out around you.  Give him the Land Title Deed and he'll give 
+   you a piece of heart.  (You can go back in time if you need the Land Title Deed
+   again.)
+
+* N64 Master: You can just hand each Scrub the letter from Anju as well.
+
+19. Goron Link; Goron's Lullaby-In Four Areas in TERMINA FIELD, there are holes
+    that lead to four Gossip tones, one being larger than the rest.  They are
+    located:  1) Under a Rock between NORTH and WEST TERMINA FIELD; 2) Near the
+    edge of the Tall Grass out between the Swamp and Milk Road; 3) Outside 
+    NORTH CLOCK TOWN near the spot where snow and grass meet; 4) Near the 
+    outside of the Astral Observatory. Play the Goron's Lullaby to each of the
+    4 stones to gain a Heart Piece.
+
+* N64 Master: You can also play the Sonata of Awakening to the four gossip
+              stones, this also works for a heart piece.
+
+25. Deku Link; Pictograph Box-In the DEKU PALACE, take a picture of the Deku King
+    in the Deku Palace, and bring it back to the owner of the Photo Hut. He will reward
+    you with the heart piece.
+
+* N64 Master: You can also get a picture of Tingle for a heart piece.
+
+Thanks again, and write in with your tips to get Heart Pieces!
+[templarnocturne@yahoo.com]
+
+--- REQUESTED STRATEGIES ---
+ --------------------------
+
+23 Nov 2000:  Just published! Write your questions to templarnocturne@yahoo.com and 
+              I will put your questions here on my next update!
+
+--- CREDITS & COPYRIGHT ---
+ -------------------------
+Credits for this FAQ goes to GameFAQ's for having an awesome site and being
+an unlimited source of information.  I've been using GameFAQ's for over two years, 
+and plug them constantly on forums and messageboards.  
+
+The latest version of this file can ALWAYS BE FOUND at GameFAQ's.
+
+All submissions for addendums to this FAQ become the property of Nocturne,
+but credit will be given. (In other words, it becomes part of my FAQ once I
+add it, so don't think that you have rights on this FAQ because you're mentioned
+in .0001% of it.)
+
+Other noteworthy names are Dallas and Nemises; because I used their 'walkthroughs'
+to beat the game.  Both FAQ's are awesome, and if you're stuck, check them out!
+
+Thanks to the Nintendo 64 team for doing it again, and revolutionizing the 
+industry...we thought we saw it all after 'Ocarina of Time'.
+
+This FAQ was designed fully by myself, excluding reader send-ins.
+Any use without my authorization is prohibited by GameFAQ's privacy statements. 
+
+I look over many FAQs on various sites to see about their Heart Piece section
+and make sure it is their own, and not stolen in any way, shape, or form from me.
+
+If you'd like to use it, just E-Mail me [templarnocturne@yahoo.com] so I know 
+you're using it, send me a URL of the site, and then put me into your credits.
+
+Please keep this file in its entirety, Beginning to End, upon using it on a site.
+
+Zelda 64(r) "Majora's Mask"(tm) is a copyright of Nintendo of America, Inc. 
+
+Visit the official Zelda website at:
+http://www.zelda64.com/
+
+
+--- THE NEXT UPDATE... ---
+ ------------------------
+09 Nov 2000:  The next update will include the reader-requests for heart pieces,
+              as well as some more strategies of my own.
+
+--- FAQ'S BY NOCTURNE ---
+ -----------------------
+1) Zelda 64: "Majora's Mask" Heart Piece Location FAQ, November 2000.
+2) Zelda 64: "Ocarina of Time" Heart Piece Location FAQ, July 1999.
+3) Zelda 64: "Majora's Mask" Anju/Kafei Trade Series FAQ, November 2000.
+4) Zelda 64: "Majora's Mask" Title Deed Trade Series FAQ, November 2000.
+5) Zelda 64: "Majora's Mask" Stray Fairy Location FAQ, November 2000.
+6) Zelda 64: "Majora's Mask" Sword Guide FAQ, November 2000.
+
+-------------------------------------------------------------------------
+Hope this helped you! -Nocturne
+
+.

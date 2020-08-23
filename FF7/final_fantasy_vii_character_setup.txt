@@ -1,0 +1,2408 @@
+=====================================================================
+                  F I N A L   F A N T A S Y   V I I                  
+=====================================================================
+
+ 
+                                                                  ..
+                                                               ....
+                                                           ......
+                                                       ........     
+                                                   ..........  
+                                               .............
+                                           ...............
+                                       ................. 
+	                             ...................
+                            %%%.....................
+                        &&%%%%&&%%%...............
+                      &&&&&&&&&%%%%%%...........
+                    &&&&&&&&&&%%&&%%%%%.......
+  7777             &&&&&7777&&&&&%%%%%%%....              7   7 7 7
+  7  7 7 7  7  7  7&&&&&7&&7&&7%%7%%7%777. 7   77 7   7   7   7 7 7
+  77   7 77 7 7 7 7&&&&&77&&&7%7%77%7%%7. 7 7 7    7 7    7   7 7 7
+  7    7 7 77 777 7 &&&&7&&&&777&7%77% 7  777   7   7      7 7  7 7
+  7    7 7  7 7 7 777&&&7&&&&7&7&7%%7  7  7 7 77    7       7   7 7
+  -----------------------------------------------------------------
+                        &&&&&&&%%%%
+                            &&&
+
+                             
+                             
+=====================================================================
+    C H A R A C T E R   &   M A T E R I A   S E T U P   G U I D E
+=====================================================================
+
+
+         FINAL FANTASY VII --- CHARACTER & MATERIA SETUP GUIDE        
+                Playstation --- North American Version
+
+
+                VERSION:  4.1  FINAL
+           LAST UPDATED:  August 8, 2000
+                 AUTHOR:  Jeff Chan (a.k.a. Atom Edge)
+                 E-MAIL:  lazysilverwolf@youareadork.com           
+                    AIM:  hooligan183
+                WEBPAGE:  http://rpgunlimited.hypermart.net
+
+
+
+
+------------------------[  COPYRIGHT NOTICE  ]------------------------
+
+
+Copyright 2000 by Atom Edge.  All rights reserved, including but not 
+limited to use and distribution.  FINAL FANTASY, all characters and 
+associated materials are copyright SQUARESOFT and SONY COMPUTER 
+ENTERTAINMENT AMERICA.  No breach of copyright intended.  This guide, 
+it's author, and persons otherwise associated (through hosting, 
+contributions, etc.) make no claims to the above stated articles.  
+All trademarks and copyrights not acknowledged in this document are 
+respected.
+
+This guide, written by Atom Edge <lazysilverwolf@youareadork.com>, 
+was created for the sole purpose of personal use.  You may not alter,
+edit, format, remove or add materials to this document.  It must 
+always remain as an electronic text file displayed in a fixed width 
+font.  The ONLY other form it may take is a personal printed file for 
+the viewer.  It may not be distributed in any medium, shape or form 
+aside from displayed on a website (see below).  This means it may not 
+be posted on a webpage (again, see below), added to an archive of any 
+sort, offered for money and/or compensation (even if profit attempt 
+fails), offered as a bonus or gift for accessing a web page or 
+purchasing an item, etc.  It must always remain in the English 
+Language.  It will not be translated to any language for any reason 
+whatsoever.  It will not appear in any publication.  This document 
+was in no way intended for commerical, promotional and/or profitable 
+uses.
+
+[ATTN] Webmasters:  If you wish to use this on your webpage, you must 
+abide by the following criteria:
+ - It will remain in a text format unedited, unaltered, and
+   unchanged (you may change it to an html page, but it must still be 
+   in a fixed font and spaced exactly the same)
+ - Credit is given to it's author, Atom Edge
+ - No revenue/compensation may be made/gained through distribution
+   (including without limitation to placing it on a website that is
+   commercial, password protected/members only, or placing this guide
+   on a page that has any form of advertising, be it on the page or
+   placed in a frameset)
+ - It may not be used for commercial or promotional uses
+ - Your site must be videogame related and have no illegal material
+ - You have prior, express, and written permission from the author,
+   Atom Edge (e-mail me with your name, the name of your site and
+   it's URL)
+ - You will keep the most current version displayed (I will e-mail 
+   the latest version every time I update)
+ - The author reserves all rights (including but definately not  
+   limited to the right of having this document removed as I see fit
+   for any reason whatsoever.
+
+This document was created and maintained by Atom Edge, it's author.  
+It is the sole property of its author, whom reserves all rights.  It 
+is protected by United States Code: Title 17 - Copyrights, the Berne 
+Convention for the Protection of Literacy and Artistic Works (Paris 
+Text 1971), any and all copyright and patent laws applicable, 
+including International Treaties.  Failer to comply with this 
+copyright (including but not limited to plagerism, stealing parts of 
+or the whole document) is a direct violation of this document's 
+copyright.  Violators will face immediate civil and/or criminal 
+penalties to the fullest extent possible.  
+
+By accessing, reading, viewing, etc. this document, you automatically 
+agree to abide by this copyright.  This copyright supercedes any 
+conversation, verbal exchange and written statements that have any 
+affiliation with this guide (barring written statements through 
+e-mail concerning the hosting of this guide, as listed under the 
+above article, "[ATTN] Webmasters."  The latest version of this 
+document contains the copyright information that is valid for the 
+latest version, and all prior versions.  There's no reason for not 
+checking the latest version, their locations are listed below.  
+Ignorance to this, the copyright, or the law is no excuse.
+
+Information in this document is provided "as is," without warranty or
+guanrantee of any kind either express or implied.
+
+Under no circumstances will this guide, it's author, and persons 
+otherwise associated with this guide, be held responsible by any 
+party for any direct, indirect, consequential, or special damages for 
+any use of this document, including without limitation, lost profits, 
+and loss of computer data.  If for any reason you do not agree with 
+parts or the entire copyright, your only remedy shall be to not use 
+this guide.
+
+
+----------------------[  END COPYRIGHT NOTICE  ]----------------------
+
+
+The latest version of this guide, and all future revisions can always 
+be found at:
+ - GameFAQs        <http://www.gamefaqs.com/>
+ - Game Winners    <http://www.gamewinners.com/>
+ - VG Strategies   <http://vgstrategies.about.com/> 
+
+If you find this guide anywhere else, notify me immediately, please.  
+
+
+
+====================
+  TABLE OF CONTENT 
+====================
+
+
+   I.  CONTACT INFO AND AUTHOR'S NOTE
+
+  II.  REVISION HISTORY
+
+ III.  REVIEW
+
+  IV.  MATERIA LOCATIONS
+
+   V.  MATERIA SET UPS
+       A.  Basic Combos
+	 B.  Advanced Strategies
+       C.  Character Set Ups
+
+  VI.  EMERALD WEAPON
+	 A.  Statistic of Emerald Weapon
+	 B.  How I beat Emerald
+       C.  Cheapo Strategies
+
+ VII.  RUBY WEAPON
+	 A.  Statistic of Ruby Weapon
+	 B.  How I beat Ruby
+       C.  Cheapo Strategies	 
+
+VIII.  TIPS AND TRICKS
+
+  IX.  FREQUENTLY ASKED QUESTIONS
+
+   X.  CREDITS, ETC.
+
+
+
+---------------------------------------------------------------------
+   I.  CONTACT INFO AND AUTHOR'S NOTE
+---------------------------------------------------------------------
+
+This is one hell of a game.  Even now people still play it years 
+after it's release.  This leads them to my guide, and my inbox being 
+stuffed full of questions.  So, if you feel like contacting me, read 
+on:
+
+I will not accpet any more emails concerning Final Fantasy VII.  Oh,
+wait, that kinda defeats the purpose of this section...
+
+Well that's not all.  I have recieved literally hundreds of questions
+simply because people were too damn lazy to read my guide.  I listed
+my contact info for the following:
+
+  :: Webmasters who wanted to host this guide
+  :: Criticism either positive or negative
+  :: Questions not answered in the guide
+  :: Contributions
+  :: and people who just wanted to drop me a line and chat
+
+Instead I got email concerning:
+
+  :: Questions already answered
+  :: Death Threats - how the hell this happened is beyond me
+  :: Viruses and Trojans
+  :: SPAM - I don't care for your half assed money making schemes
+  :: Chain Letters
+
+This let me to wonder, "What the hell kind of mailing list am I on?"  
+Well I don't care anymore,  I am now hereby ignoring all emails 
+concerning FFVII.  The only emails I will not delete on sight are 
+those concerning anyoen who is trying to breach my copyright.  Oh and
+for those really tricky people who think that if they don't write 
+"FFVII" in the subject line, I might accidentally read it, you are 
+wrong.  If you didn't notice it above, I get plenty of crap mail, and
+I will simply delte anything without a subject line.
+
+If I haven't covered whatever message you might want to send, rest 
+assured it's most like one that I will not answer.
+
+Please note, I do not check my email everyday, in fact I only check it 
+weekly.  Even when I check it, it may take weeks to answer as I do 
+have a job, school and my own life to deal with.
+
+
+---------------------------------------------------------------------
+  II.  REVISION HISTORY
+---------------------------------------------------------------------
+
+Version 1  (March 11, 2000)
+ - It is 3:00 A.M. and I'm starting a guide that everyone has already
+   made before.  Maybe I need more sleep.
+
+Version 2  (March 14, 2000)
+ - It is now 2 A.M. and I pick this time to finish this guide
+
+Version 2.5  (March 14, 2000)
+ - I added an entirely new section and did a few minor adjustments
+
+Version 2.6  (March 16, 2000)
+ - Fixed an annoying word wrapping problem.
+
+Version 3  (April 24, 2000)
+ - Fixed a few errors
+ - Added a new section 'Hard to Find Materias'
+
+Version 4  (August 8, 2000)
+ - Changed the ASCII art title
+ - Edited the Copyright info
+ - Redid my Review
+ - Replaced the 'Hard to Find Materia' section with a new 'Materia
+   Locations' section
+ - Added 'Frequently Asked Questions'
+ - Tons of minor polishing
+
+Version 4.1  (August 20. 2000)  FINAL
+ - Touched up the copyright a bit
+ - Changed Intro to Contact Info (read it)
+
+
+---------------------------------------------------------------------
+ III.  REVIEW
+---------------------------------------------------------------------
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+GRAPHICS  9/10
+Graphics are sweet.  The cinemas are top notch and the word is 
+detailed.  It gets a 9 because the characters are... blah.  Try 
+comparing them to Final Fantasy VIII
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+SOUND  10/10
+Nobuo Uematsu outdid himself.  From the fast paced battle music, to 
+the slow beat of Aeris' theme.  Carrying in remixes of the Final 
+Fantasy series, such as the Prelude, and Ending it out with one of 
+the greatest pieces ever to hit a video game, One Winged-Angel.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+CONTROLS 9/10
+The game was easy to control, except for those pesky ladders.  
+Sometimes Cloud would get stuck.  Still, for the most part, the 
+controls worked fine, especially in mini games.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+GAMEPLAY  10/10
+If you're into RPG's, you'll like this.  This is my favorite pure 
+RPG.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+REPLAY  10/10
+Hmmm... a 60 hour game.  Add into account trying to master all 
+materias, getting every item, every weapon, and maxing out nine 
+characters stats.  i've spent more time on this then most other games 
+combined.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+VALUE  10/10
+If you have it, play it now, if not, GET IT NOW. 
+It's that simple
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+OVERALL:  10/10
+RPG's wre pretty popular before (FFVI, Chrono Trigger and a few 
+others helped that), but IMO it was Final Fantasy VII that made RPG's 
+famous.  Hell, it's what got me into RPGs.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+---------------------------------------------------------------------
+  IV.  MATERIA LOCATIONS
+---------------------------------------------------------------------
+
+
+                      - Magic Materia (Green) -                    
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Barrier
+
+     Buy at Rocket Town.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Comet
+
+     Found at Centra's Forgotten Capitol.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Contain
+     
+     Buy a Mimett Green from Choco Billy in the Chocobo farm and 
+     feed it to little white chocobo in Mideel.  Then scratch 
+     behind it's ears.  He'll drop it.  This can be done in Disc 
+     Two, with Cid as your leader.  I'm not sure if it's possible
+     after the Lifestream destroys the city.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Destruct
+
+     Seph throws it at you in Nibelheim when you encounter him in
+     the Shinra Mansion basement and tells you to come to the 
+     Reunion.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Earth
+  
+     Buy in Kalm or Costa De Sol.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Fire
+
+     Get in Sector 7 of Midgar at the beginning of game 
+     (Beginners' Hall).  Red XIII also comes with one.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Full Cure
+
+     After Meteor is summoned, you can go to the Item Shop in 
+     Cosmo Canyon.  Earlier there was a rope blocking the path.  
+     It's gone now, so help yourself to the items in the back.  
+     One is Full Cure. 
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Gravity
+
+     You get it after in the Gi Cave after killing Gi Nattak.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Heal
+     
+     Buy at Gongaga or Junon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Ice
+
+     Cloud starts the game with this.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Lightning
+    
+     Cloud starts the game with this too.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Mystify
+  
+     Buy at Gongaga or Cosmo Canyon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Poison
+  
+     Beat the boss (forgot it's name) that Hojo releases when you 
+     first get Red XIII.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Restore
+
+     Get it in the first Mako Reactor raid, right before
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Revive
+
+     Buy in Junon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Seal
+
+     Buy in Junon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Shield
+
+     Find it in Crater/North Cave/Final Dungeon/Seph's Dungeon
+     (whatever you wanna call it).
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Time 
+
+     Buy it in Rocket Town.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Transform
+
+     Cait Sith comes with it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Ultima
+
+     When trying to get the Huge Materia from North Corel, you 
+     have to stop a train.  If you stop the train and save Corel,
+     or what's left of it, a kid gives it to you for free.  If 
+     you get on the train but fail at stopping it, you have to 
+     buy it for 10,000 gil (if memory serves).
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+                    - Command Materia (Yellow) -                       
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Deathblow
+
+     In Gongaga, there's a fork just outside of the residents 
+     area.  Deathblow is on the ground.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Double Cut
+
+     In the Sunken Gelnika.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Enemy Skill
+   
+     You can find one in the Shinra Tower, Chocobo Sage's Green  
+     Chocobo, Junon's Inn and the Centra's Forgotten Capitol.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Manipulate
+
+     Cait Sith comes with one of these.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Mime
+ 
+     One of the four Materias accessable by the Special Chocobos.
+     This one is in the Cave on the Wutai Continent.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Morph
+ 
+     Found somewhere in the Temple of Ancients.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Sense
+
+     The playground just outside of the Wall market after 
+     fighting Reno on the Pillar.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Slash - All
+
+     In the Ancient Forest.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Steal
+
+     Midgar Sewers after threatening Corneo in the Wall Market.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Throw
+
+     Yuffie comes with this.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  W - Item
+
+     When raiding Midgar, in the Subway, go all the way South 
+     until you hit a dead end.  There's the illusive W-Item.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  W - Magic
+
+     In Crater, there's an area with a big hole in the middle 
+     that has a huge light coming from it.  Search the hole.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  W - Summon
+
+     Gold Saucer Battle Square.  Buy for 64,000 BP in Disc Two 
+     or Three.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+                  - Independent Materia (Purple) -                       
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Chocobo Lure
+
+     Buy at Chocobo Farm.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Counter Attack
+
+     Kill the Materia Keeper in Mt. Nibel and it'll drop it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Cover
+
+     In the Wall Market.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Enemy Away
+
+     Won from Chocobo racing.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Enemy Lure
+   
+     Won from Chocobo racing.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Exp Plus
+
+     Buy at Gold Saucer Wonder Square with GP.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Gil Plus
+
+     Buy at Gold Saucer Wonder Square with GP.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  HP Plus
+ 
+     Buy in Mideel or Cosmo Canyon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  HP <-> MP  
+
+     In the Cave behind North Corel.  Requires a Green Chocobo.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Long Range
+
+     Mythril Mines (the one cave behind Midgar Zolom's Swamp. 
+     Climb a vine to get it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Luck Plus
+
+     Found in the Temple of the Ancients.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Magic Plus
+
+     Found in the Centra's Forgotten Capitol.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Mega All
+
+     In the Crater, there's an area with a lot of rock cliff like
+     pillars.  On one of them, there's a materia floating.  
+     Usually Cloud will just jump past it to another cliff, but if
+     you hit O then you'll grab the materia, Mega All.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  MP Plus 
+
+     Can be bought at either Mideel or Cosmo Canyon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Pre - Emptive
+
+     Buy at Gold Saucer's Battle Square with BP.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Speed Plus
+
+      Buy at Gold Saucer's Battle Square with BP.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Underwater
+
+      In the Underwater Reactor, there's an area that looks like 
+      a tunnel with a class roof that forms an upside down 
+      halfpipe.  In this area, you can fight Ghost Ships.  Morph
+      one for a Guide Book.  Give one to the Kalm Traveller.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+                      - Support Materia (Blue) -                     
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Added Cut
+        
+     This is the hardest materia for people to get.  It's 
+     hard to find, and hard to see.  That's a *****.  
+     Anyway, to find it, go to the Icicle Inn.  Now go 
+     snowboarding.  First go to the right fork then the 
+     left.  Eventually, you'll stop snowboarding and end up 
+     in a screen with a single tree in the middle.  Now, go 
+     right and you'll go through two screeens that are 
+     empty.  The third screen will be one with four paths. 
+     One going north, one going south, and two going west.  
+     Now you should go north.  The first screen has nothing, 
+     but the second 'empty screen' is very interesting.  in 
+     the middle of the path, you will see a small indention 
+     on the upper side.  The path should look like this:
+
+
+                 \         \
+                  \         \
+                   \         \
+                    \         \ 
+                     \         \
+                      \         \ 
+                       \         \ 
+                        \         \ 
+                         \         \
+                          \         \__
+                           \           \
+                            \          _\
+                             \         \
+                              \         \
+                               \         \
+                                \         \
+                                 \         \
+                                  \         \
+                                   \         \
+                                    \         \
+                                     \         \
+                                      \         \
+                                       \         \         
+                                        \         \
+                                         \         \
+
+
+     True, this ASCII art is crap, but it's the best I can 
+     manange.
+
+     Anyway, it's not so slanted, and the indetion looks a 
+     lot more natural, but in that indention is a very faint 
+     light blue orb.  Care to take a guess as to what it is?
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Added Effect
+
+     Found in the Gi Cave.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  All
+
+     I'm not gonna even answer this one.  If you can't find 
+     one of these, you really shouldn't be playing this game.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Counter  
+
+     Found in the Crater.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Elemental
+
+     Find this at the beginning of the game in the Shinra 
+     Tower.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Final Attack
+
+     Go to the Gold Saucer Battle Square.  Win both the 
+     W - Summon and Omnislash.  Now if you enter again as 
+     Cloud, they will ask you if you want to participate in 
+     a special duel.  Fight it.  Make sure you're well 
+     equipped as these battles have very different opponents.
+     The last one is Proud Clod.  After winning this, you 
+     can't quit mid way, you will recieve various prizes 
+     one of which is Final Attack.
+     
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  HP Absorb
+
+     In the roof of the cat house in Wutai, after completing
+     the annoying ordeal with the Yuffie Sidequest.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Magic Counter
+
+     Win it as a prize from Chocobo racing.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  MP Absorb
+ 
+     Found in Wutai's shop.  There's a Treasure Chest.  Get it
+     during Yuffie's Quest and she'll steal it from you.  When
+     you complete the quest, she'll give it back to you.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  MP Turbo
+
+     Found in the Whirlwind Maze.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Quadra Magic
+
+     Near the Mideel Continent, there are a chain of small 
+     islands.  At the end is a cave.  To get to the cave, you 
+     need a Blue Chocobo.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Sneak Attack
+
+     Win it as a prize from Chocobo racing.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Steal as Well
+
+     In Wutai's Da-Chao Statue, you can enter into an area with
+     flames that block a path.  If you have the Leviathan Scales
+     from the Underwater Reactor, you can use them to extinguish
+     the flames.  Beyond them is this materia.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+                       - Summon Materia (Red) -
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Alexander
+
+     After nabbing Added Cut (see above), go to the screen to 
+     the north.  This is the Hotsprings.  Touch it and go fight 
+     the snowwoman.  When shie bites the dust, pick up Alexander.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Bahamut
+
+     Find this in the Temple of the Anicients.  After you beat 
+     Red Dragon, it'll drop it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Bahamut ZERO
+
+     When you have both Bahamut (see above), and Neo Bahamut
+     (see below), take them to Bugenhagen's observatory.
+     You'll get Bahamut ZERO from a Huge Materia.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Choco/Mog
+   
+     When you first go to the Chocobo Farm, talk to the Chocobos
+     and they'll do a dance.  Then they hand over Choco/Mog.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Hades
+
+     Find this in the Sunken Gelnika.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Ifrit
+
+     In the Cargo room of the Shinra Cruiser that takes you to 
+     Costa Del Sol, you fight Jenova-BIRTH.  It'll drop it when
+     you defeat it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Kjata
+
+     In the Sleeping Forest, there's a red item flying in 
+     circles around the screen.  Catch it for Kjata.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Knights of the Round
+
+     There is an uncharted island in the very Northeast of the 
+     map.  It's an island with forest all over and mountains
+     all over it's border.  Around the island was deep water.
+     The only way to reach the island is by use of a Gold 
+     Chocobo.  When you get there, there's a cave that houses
+     the famed Knights of the Round.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Leviathan
+
+     If Yuffie beats all five Pagoda warriors in Wutai, her 
+     father, Godo, the last Pagoda warrior will give it to you.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Neo Bahamut
+
+     In the Whirlwind Maze.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Odin
+
+     Beat Lost Number in the Safe in Niblehiem's Shinra Mansion.
+     It'll drop it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Phoenix
+
+     Succeed in the final Fort Condor Battle.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Ramuh
+
+     When you are about to race in Chocobo racing to win your
+     way out of Corel Desert Prison, you'll be in the Chocobo
+     Jockey's room before the race.  In the last stall like 
+     thing, you'll find Ramuh.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Shiva
+
+     After you save Priscilla in Junon, and you see her in the 
+     morning, she'll give you Shiva.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Titan
+
+     In Gongaga, go to the Burnt Down Reactor.  Search it's
+     Southeast side and you'll recieve Titan.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+•  Typoon (Typhoon)
+
+     Find this in the Ancient Forest.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+---------------------------------------------------------------------
+   V.  MATERIA SET UPS
+---------------------------------------------------------------------
+
+NOTE:  The "=" denotes that the materias are paired.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+|    A.  Basic Combos    |
+-=-=-=-=-=-=-=-=-=-=-=-=-=    
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+1.  [In Weapon]  Elemental = (Elemental Materia)
+	This adds the element to your attack.  Try it out with lightning 
+	against machines, ect.  {This set up works with both magic and 
+	summon materias}
+
+2.  [In Armor]  Elemental = (Elemental Materia)
+	This adds elemental protection to your armor.  Use this when
+ 	fighting a boss of a specific type.   Or when you are in a
+ 	certain area (i.e. use Ice when in Gaea's Cliff)  {This set up
+ 	works with both magic and summon materias}
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+3.  [In Weapon]  Added Effect = Contain
+	This makes your weapon provide a variety of status affects.  You
+ 	can afflict the 
+	+  Stop
+	+  Petrify
+	+  Berserk
+	+  Confuse
+	states to an opponent when you hit them normally.
+
+4.  [In Armor]  Added Effect = Contain
+	This protects you from all of the following status effects:
+	+  Stop
+	+  Petrify
+	+  Berserk
+	+  Confuse
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+5.  [In Weapon]  Added Effect = Poison
+	You poison the enemy when they get hit.
+
+6.  [In Armor]  Added Effect = Poison
+	You are protected from the poison status.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+7.  [In Weapon]  Added Effect = Destruct
+	One hit kill.  you prbably won't notice that it works, but it
+ 	happens quite frequently.  It also destroys barriers.
+
+8.  [In Armor]  Added Effect = Destruct
+	You can't be killed with the move "Death".
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+9.  [In Weapon]  Added Effect = Time
+	You might put the opponent into the stop status or the slow
+ 	status.
+
+10.  [In Armor]  Added Effect = Time
+	You cannot be stopped or slowed.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+11.  [In Weapon]  Added Effect = Transform
+	Heheh... I like this one.  You can turn enemies into minature
+ 	things to squish, or frogs to laugh at.
+   
+12.  [In Armor]  Added Effect = Transform
+	You can't be changed to a mini version of yourself, and you can't
+ 	become a frog.  Very helpful when fighting against frogs.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+13.  [In Weapon]  Added Effect = Mystify
+	You can confuse and berserk some opponents with this set up.
+
+14.  [In Armor]  Added Effect = Mystify
+	You won't have to worry about being confused or berserked.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+15.  [In Weapon]  Added Effect = Seal
+	You can shut them up with this set up.  Silence and Sleep are 
+	given by this set up.
+
+16.  [In Weapon]  Added Effect = Seal
+	You will never go to sleep or shut up.  Consider this set up as
+ 	caffiene.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+17.  [In anywhere]  Counter Magic = Summon Materia
+	If you get hit, you counter with a Summon
+
+18.  [In anywhere]  Counter Magic = Magic Materia
+	Link this together and you can counter the fool who decided to
+ 	hit you.  Do not put cure with this, or you will be sorry.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+19.  [In anywhere]  Counter = Mime
+	A very unstable counter, but sometimes they come out big.
+
+20.  [In anywhere]  Counter = Deathblow
+	You get hit, you hit them for critical.  Try this with a weapon
+ 	that has 255% accuracy so that you never miss.
+
+21.  [In anywhere]  Counter = Manipulate
+	If you can't beat them, control them.  Also good for learning
+ 	Enemy Skills.  Don't forget the Hypno Crown.
+
+22.  [In anywhere]  Counter = Morph
+	Try this on Yuffie when trying to morph the creatures in the
+ 	Sunken Gelnika. 
+
+23.  [In anywhere]  Counter = Steal
+	If they hit you, you mug them.  Who gets the better end of the
+ 	deal?
+
+24.  [In anywhere]  Counter = Sense
+	Can you say, "Utterly worthless"?  Well, I shouldn't go that far
+ 	as it is a very effective taunt.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+25.  [In anywhere]  Magic Materia = All
+	Your magic hits all.  Was that not obvious?  Use it with Cure.
+
+26.  [In anywhere]  Final Attack = Magic Materia
+	Your get to cast a magic spell when you buy the farm.  (Cough,
+ 	cough.. Revive.. cough, cough)
+
+26.  [In anywhere]  Final Attack = Summon Materia
+	Your get to cast a summon when you well.. die.  (Cough,
+ 	cough.. Phoenix.. cough, cough)
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+27.  [In anywhere]  Quadra Materia = Magic Materia
+	Unleash a magic spell four times.  Ultima works nicely, as does
+ 	Comet and Contain.
+
+28.  [In anywhere]  Quadra Materia = Summon Materia
+	Same as above.  Any questions.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+29.  [In anywhere]  HP Absorb = Magic Materia
+	You use the materia, get HP back.  Nice.
+
+30.  [In anywhere]  HP Absorb = Summon Materia
+	Look above.
+
+29.  [In anywhere]  MP Absorb = Magic Materia
+	You use the materia, get MP back.  Nice.
+
+30.  [In anywhere]  MP Absorb = Summon Materia
+	Look above.
+
+31.  [In anywhere]  MP Turbo = Magic Materia
+	Takes more MP, but the spell is considerably more powerful.
+
+32.  [In anywhere]  MP Turbo = Summon Materia
+	Takes more MP, but the summon is considerable more powerful.
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+33.  [In anywhere]  Added Cut = Magic Materia
+	When, you cast a spell, you attack the opponent.  Do not link
+ 	this to cure.  If you do, you hit the person you cure.
+
+34.  [In anywhere]  Added Cut = Summon Materia
+	When you cast a summon, you hit the opponent at the end.  Link
+ 	this to Knights of the Round and become the fourteenth Knight!
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+35.  [In anywhere]  Sneak Attack = Magic Materia
+	At the beginning of a battle, you automatically come out and cast
+ 	a spell attached to your Sneak Attack
+
+36.  [In anywhere]  Sneak Attack = Summon Materia
+	At the beginning of a battle, you cast a summon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+37.  [In anywhere]  Steal as Well = Magic Materia
+	Cast a spell and take an item too.  Two for the price of one.
+  	Just don't link this with cure.
+
+38.  [In anywhere]  Steal as Well = Summon Materia
+	You can mug 'em after a summon.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+NOTE:  Before I go on, I would like to explain something.  If you 
+attach a support materia to a Master Command, and then have one of the 
+Master Command Materias equipped, such as Morph, then use Morph in 
+battle, you get the effect of the support materia.
+
+
+39.  [In anywhere]  Added Cut = Master Command;  
+			  Command Materia
+	When you use the command, you get an extra cut.  Try this with 4X 
+	Cut and get a 5X Cut.
+
+40.  [In anywhere]  Steal as Well = Master Command;  
+			  Command Materia
+	When you use the Command, you steal from them too.
+
+41.  [In anywhere]  HP Absorb = Master Command;  
+			  Command Materia
+	You take in HP when you use a certain Command.
+
+42.  [In anywhere]  MP Absorb = Master Command;  
+			  Command Materia
+	Well, if you read the above, you should be able to piece this
+ 	together.  You get MP when you sue the Command.
+
+43.  [In anywhere]  Final Attack = Master Command;  
+			  Command Materia
+	You die, you get an extra command in.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+44.  [In anywhere]  Full Cure = HP Absorb
+	When you cure someone else, you cure yourself.
+
+45.  [In anywhere]  W - Summon;  
+			  Summon Materia
+	You can now cast two summons in one turn.
+
+46.  [In anywhere]  W - Magic;  
+			  Magic Materia
+	You can now cast two magic spells in one turn.
+
+47.  [In anywhere]  Mega All;  
+			  Magic Materia
+	All your magic (minus certain ones like Contain and Full Cure)
+ 	now have the "all" effect.
+
+48.  [In anywhere]  Mega All;  
+			  Command Materia
+	When you make a command, you target all.  This turns Attack into
+ 	Slash All.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+49.  [In anywhere]  Counter Attack; 
+			  Counter Attack
+	You can link as many Counter Attacks as you want.  The more you
+ 	have equipped, the more Counter Attack.
+
+50.  [In anywhere]  Cover;  
+			  Counter Attack
+	You take a hit and then Counter Attack.  Connect a lot of these,
+ 	and you'll make the enemy very sorry they tried to piss off your
+ 	teammate.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|   B.  Advanced Strategies   |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+NOTE: Many people do not know that you can link materia more than 
+	once.	(i.e. By this, I mean that you can link a Fire Materia to 
+	a HP Absorb, and then link another Fire to a MP Absorb.  In 
+	battle, when you cast Fire, you receive HP and MP.  This is only 
+	one example.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+51.  [In anywhere]  Magic Materia = HP Absorb;  
+		        (Same) Magic Materia = MP Absorb
+	When you cast the spell, you get both MP and HP back.
+
+52.  [In anywhere]  Summon Materia = HP Absorb;  
+		        (Same) Summon Materia = MP Absorb
+	Casting the summon results in getting HP and MP back.
+
+53.  [In anywhere]  Master Command = HP Absorb;
+		        Master Command = MP Absorb;  Command Materia
+	When you use a certain Command, you receive HP and MP.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+54.  [In anywhere]  Summon Materia = MP Absorb;
+                    (Same) Summon Materia = MP Turbo
+	Cast a summon without the worry of MP.
+
+55.  [In anywhere]  Summon Materia = HP Absorb;
+                    (Same) Summon Materia = MP Absorb;
+                    (Same) Summon Materia = MP Turbo
+	Now you can get HP back too.  Nice combo, cast a powerful spell 
+	and the only effect is that you get HP back.
+
+56.  [In anywhere]  Summon Materia = HP Absorb;
+ 			  (Same) Summon Materia = MP Absorb;
+                    (Same) Summon Materia = MP Turbo;
+			  (Same) Summon Materia = Quadra Magic;
+	One word:  DAMN.  You cast a Summon and you don't lose MP, get HP
+ 	back, and hit them four times.
+
+57.  [In anywhere]  Magic Materia = MP Absorb;
+			  (Same)  Magic Materia = MP Turbo
+	Cast magic and lose no MP.
+
+58.  [In anywhere]  Magic Materia = MP Absorb;
+			  (Same)  Magic Materia = MP Turbo;
+                    (Same)  Magic Materia = HP Absorb
+	Lose no MP and get HP for casting a spell.
+
+59.  [In anywhere]  Magic Materia = MP Absorb;
+                    (Same) Magic Materia = HP Absorb;
+                    (Same) Magic Materia = MP Turbo;
+                    (Same) Magic Materia = Quadra Magic;  Mega - All
+	Same as #56.  Except this one uses Magic, and it targets all with 
+	the use of Mega - All. 
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+60.  [In Weapon]  Added Effect = Contain;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All;
+	You automatically do a Deathblow to all enemies on the
+ 	battlefield and have a chance to stop, petrify, confuse, or
+ 	berserk the opponents... or kill them.  Do this with a 255%
+ 	accuracy weapon for maximum affect.
+
+61.  [In Weapon]  Added Effect = Destruct;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the 
+	battlefield and have a chance to hit for one hit kill.  Do this
+ 	with a 255% accuracy weapon for maximum affect.
+
+62.  [In Weapon]  Added Effect = Poison;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the 
+	battlefield and have a chance to poison all of them.  Do this
+ 	with a 255% accuracy weapon for maximum affect.
+
+63.  [In Weapon]  Added Effect = Time;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the
+ 	battlefield and have a chance to slow or stop all of them.  Do
+ 	this with a 255% accuracy weapon for maximum affect.
+
+64.  [In Weapon]  Added Effect = Seal;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the
+	battlefield and have a chance to silence or put all of them to
+ 	sleep.  Do this with a 255% accuracy weapon for maximum affect.
+
+65.  [In Weapon]  Added Effect = Mystify;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the 
+	battlefield and have a chance to berserk or confuse all of them. 
+ 	Do this with a 255% accuracy weapon for maximum affect.
+
+66.  [In Weapon]  Added Effect = Transform;  
+			Sneak Attack = Deathblow;
+          		Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the 
+	battlefield and have a chance to turn all opponents into frogs or 
+	minis.  Do this with a 255% accuracy weapon for maximum affect.
+
+
+67.  [In Weapon]  Elemental = Elemental Materia;  
+			Sneak Attack = Deathblow;  
+			Pre - Emptive;  
+			Mega - All
+	You automatically do a Deathblow to all enemies on the 
+	battlefield and You hit for elemental damage.  Do this with a 
+	255% accuracy weapon for maximum affect.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+68.  [In anywhere]  Sneak Attack = Comet;  
+			  MP Absorb = Comet;
+			  Quadra Magic = Comet
+	You can use any magic really, but Comet 2 hits mulptile enemies
+ 	and gives you the best chance of getting full MP back so you can
+ 	do this over and over again.
+
+69.  [In anywhere]  Sneak Attack = Knights of the Round; 
+			  MP = Absorb
+	Kill, Kill, Kill.  That's the theme for the day.  This will get
+ 	you full MP and you can loop this to never have to tap buttons
+ 	during a random battle ever again.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|   C.  Character Set Ups   |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+1.  For this set up, equip the Ultimate Weapons and the Wizard 
+      Bracelets.  Vincent and Tifa don't work well with this as the 
+	varibles for their weapons are unsteady.  For Vincent, use the 
+	Outsider.
+
+[In Weapon]  Cover = Counter Attack;  
+		 Counter Attack = Counter Attack;
+             Counter Attack = Counter Attack; 
+  		 Counter Attack = Counter Attack;
+[In Armor]   Counter Attack = Counter Attack;  
+		 Counter Attack = Counter Attack;  
+		 Counter Attack = Counter Attack;  
+		 Counter Attack = Counter Attack
+
+Well, this is supremely cheap.  If these are all mastered, you will 
+kill things so fast it isn't funny.  If you hit for 9999 HP, this is 
+stronger than Knights of the Round.  You hit 15 times, and Knights of 
+the Round only hits 13 times.  Use Yuffie and her Conformer for best 
+results.  Cid and Red XIII also work well given that they have full MP.  
+BTW, I've tried this against Emerald and it killed him so badly that I 
+couldn't stop laughing for half an hour.  Look below for Emerald 
+strategies.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+2.  For this strategy, use any weapon and armor so long as the have 6 
+slots with three pairs each.  The Escort Guard, Minerva Band, Mystile, 
+and Imperial Guard work just fine.  These weapons work well too:
+ 
+CLOUD     - Ultimate Weapon, Crystal Sword, Ragnorak, and Enhance Sword
+TIFA      - Premium Heart and Crystal Glove
+BARRET    - Missing Score, Max Ray, Pile Banger, Solid Bazooka and AM 
+		Cannon
+RED XIII  - Limited Moon, Spring Gun Clip, and Crystal Comb
+YUFFIE    - Conformer and Crystal Cross
+CAIT SITH - HP Shout, Starlight Phone, Battle Trumpet, Gold M-Phone and 
+		Crystal M-Phone
+VINCENT   - Death Penalty, Supershot ST, Long Barrel R and Winchester
+CID       - Venus Gospel, Glow Lance and Partisan
+
+[In Weapon]  Magic Materia = MP Turbo
+		 Magic Materia = MP Absorb
+		 Magic Materia = HP Absorb
+[In Armor]   Magic Materia = Quadra Magic
+		 Magic Materia = Sneak Attack
+		 Mega All = W - Magic
+
+hehe.. I like doing this just for fun.  This works with all the normal 
+spells, like Lightning and Fire.  If you are using Contain, Ultima, or 
+Comet, try taking out Mega All for Magic Plus.  
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Now, I'll list the my set ups for each character.  Please note that all 
+materia is mastered.
+
+
+3.  Cloud
+
+Ultimate Weapon
+Mystile
+Ribbon
+
+[In Weapon]  2X Cut = Added Cut
+		 Master Summon = HP Absorb
+		 Master Summon = MP Absorb
+		 Knights of the Round = Quadra Magic
+[In Armor]   W - Summon = Master Command
+		 Final Attack = Phoenix
+		 Master Magic = Enemy Skill
+
+EVALUATION:  Ahh.. good ol' Cloud.  This set up great.  I like it on 
+Cloud, since he can do so much with it.  Normally, all he does is use 
+4X Cut (actually hits five times here) and annihilate opponents.  When 
+up against the Weapons, he had the variety of all Enemy Skills, all 
+Magic Spells, and all Summons.  He uses Phoenix if he were to die, and 
+all his summons give him back MP, thus he can keep up magic for quite 
+awhile.  
+		 
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+4.  Tifa
+
+God's Hand
+Minerva Band
+Ribbon
+
+[In Weapon]  Added Effect = Destruct
+		 Pre - Emptive = Mega - All
+		 Sneak Attack = Deathblow
+		 Mime = W - Magic
+[In Armor]   Counter = Deathblow
+		 Added Cut = Master Command
+		 Master Magic = MP Absorb
+
+EVALUATION:  Her purpose, is to unleash Deathblows.  She starts off 
+battles, with a Deathblow that has a chance of killing all opponents. 
+On top of that, she usually does it to the back.  She can mimic other 
+people's moves (summons) and she has magic.  When she gets hit, another 
+Deathblow-All.  Plus she gets an added cut.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+5.  Barret
+
+Missing Score
+Escort Guard
+Ribbon
+
+[In Weapon]  Added Effect = Mystify
+		 Mega All = Enemy Skill
+		 Master Command = HP Absorb
+ 		 Master Command = Added Cut
+[In Armor]   Master Command = Steal as Well
+		 Deathblow = Counter
+		 Final Attack = Phoenix
+
+EVALUATION:  Not much to say here, except that you can basically tell 
+that the main idea here is deathblow.  Mystify may put opponents to 
+sleep.  I like sleeping opponents.  It seems to make them easier to hit 
+with Deathblow.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+6.  Red XIII
+
+Limited Moon
+Aegis Armor
+Ribbon
+
+[In Weapon]  Added Effect = Destruct;
+             2X Cut = Master Command;
+		 Master Magic = MP Absorb		 
+		 Enemy Skill = W - Summon
+[In Armor]   Master Summon = HP Absorb
+		 Final Attack = Revive	
+
+
+EVALUATION:  Pretty straight forward.  I mainly use the Four Times Cut 
+and Magic with him, thus keeping his MP up and his weapon strong.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+7.  Yuffie
+
+Conformer
+Wizard Bracelet
+Ribbon
+
+[In Weapon]  Cover = W - Item;
+		 Counter = Morph;
+		 Counter = Morph;
+		 Counter = Morph;
+[In Armor]	 Counter = Morph;
+		 Counter = Morph;
+		 Counter = Morph;
+		 Counter = Morph
+
+EVALUATION:  I used this set up while getting sources for maxing out 
+my characters.  Very useful mind you since she hits for 9999 damage 
+when equiped with the conformer.  Seven morphs everytime someone trys 
+to attack anyone on the party.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+8.  Cait Sith
+
+HP Shout
+Imperial Guard
+Ribbon
+
+[In Weapon]  W -Summon = W - Magic;
+		 Mega All = W -Item;
+		 Enemy Skill = Master Command;
+		 Master Summon = HP Absorb;
+[In Armor]	 Master Summon = MP Absorb;
+		 Final Attack = Revive;
+		 Master Magic = Quadra Magic;
+		 
+
+EVALUATION:  More of the well rounded type.  I never liked or used this 
+overgrown idiot, I don't pay much attention to him.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+9.  Vincent
+
+Outsider
+Wizard Bracelet
+Ribbon
+
+[In Weapon]  Added Effect = Time;
+             Sneak Attack = Deathblow;
+		 Mega - All;
+		 Master Command;
+		 Cover;
+		 Pre - Emptive
+[In Armor]   Counter = Deathblow;
+		 Counter = Deathblow;
+		 Counter = Deathblow;	
+		 Counter = Deathblow
+
+EVALUATION:  I don't really use Vincent much, and it shows.  He isn't 
+bad though, since he can Deathblow like nobody's business.  He'll be 
+kind of useful for random battles since he has so much power in his 
+first move.  If you are attacked, he will provide cover and then 
+Deathblow a few times for good measure.  He has Mime since his 
+abilities are limited when having a character that mass counters.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+10.  Cid
+
+Venus Gospel
+Mystile
+Ribbon
+
+[In Weapon]  Counter Attack = Counter Attack;
+		 Counter Attack = Counter Attack;
+		 Counter Attack = Counter Attack;
+		 Counter Attack = Counter Attack;
+[In Armor]	 Counter Attack = Counter Attack;
+		 Counter Attack = Counter Attack;
+		 Counter Attack = Cover
+		 
+
+EVALUATION:  Well, this is sick.  Does as much as Knights of the Round,
+but I figured I would give him this since he shouldn't use MP.  
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+TEAM EVALUATION:  I've been playing this game so long that, I have 
+accomplished the following:
+
++	Mastered every single materia at least 6 times.
++	Given everyone their Level 4 Limit Break (even Aeris, I can't 
+	tell you how long I sat in the Temple of Time)
++	Everyone to Level 99 (obviously, any half way decent player can
+ 	do this)
++	Beaten Emerald Weapon through brute power.
++	Beaten Ruby while eating lunch.
++	And my most crowning achievement, is that I have maxed out 	
+	everyones stats.  They are all at 255.  Basically this means that
+ 	their speed is so fast that my eyes can't follow it, they always
+ 	hit 9999 even when Cloud is equipped with the Buster Sword.  And
+ 	when I say 255 I mean that it is their base stat not including
+ 	Ultimate Weapons and good Armor.  They have 255 when equipped 
+	with their initial weapon and the Bronze Bangle.
+
+Now the point of this is:  I have been asked multiple times why I don't 
+just equip all my characters with the "Ultimate Materia Set Up" (Which 
+I'll add at the end.)  Simple, I don't need it.  In fact, I don't need 
+any materia, but it is just fun to watch Cid do a Knights of the Round 
+eqiuvalent every turn.  I just like it and that is the whole point of 
+playing a video game.
+
+Now, my Ultimate Character:
+
+(Ultimate Weapon)
+Mystile
+Ribbon
+
+[In Weapon]  MP Absorb = Master Magic;
+             Quadra Magic = Master Magic;
+		 MP Absorb = Master Summon;
+		 HP Absorb = Master Summon;
+[In Armor]   Final Attack = Phoenix;
+		 Enemy Skill = W-Summon;
+		 W-Magic = Master Command
+
+EVALUATION:  True, there are better combos for certain situations, but
+but technically it doesn't matter.  I consider this ultimate because it
+can easily take out any enemy in the game.  It casts Phoenix when the
+character dies (yea right).  Enemy Skill gives you Big Guard, healing 
+spells and great attacks like Shadow Flare.  You can cast two spells 
+per turn and you get healed in terms of both MP and HP on each casting.
+W-Magic, and Quadra Magic means that you can cast one Spell eight times
+in one round, and you'll get enough MP back so you won't run out.  Not
+many enemies come to mind when I try and think of something capable of
+surviving eigth straight Ultimas or Contains.  Oh, and imagine Comet 2.
+It already hits multiple times.
+		 
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+-----------------------------------------------------------------------
+  VI.  EMERALD WEAPON
+-----------------------------------------------------------------------
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Emerald Weapon is the cretue that swims around the ocean floor.  He 
+looks like a big green headless monster.  It has huge shoulders and 
+you shouldn't have too much trouble to find it.  
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+|   A.  Statistics of Emerald Weapon   |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+HP:   1,000,000                  MORPH:         Nothing
+EXP:	50,000                     STEAL:         Nothing
+AP:   50,000                     ITEM DROPPED:  Earth Harp
+GIL:  50,000
+
+ATTACKS:  
+
++  Emerald Shoot
+	This is Emerald Weapon's main attack.  It inflicts around 7000
+ 	damage to each character.  He will use this quite often.
+
++  Emerald Beam
+	After taking enough damage, Emerald will use this attack.  It
+ 	does considerably less, about 5000, but some people have told me
+ 	it also inflicts DeSpell.  After he does this move, he will open
+ 	4 "eyes".
+
++  Eyes
+	There are four of these.  Two drain about 400 MP and the other
+ 	two each hit for about 3000.  Each Eye has about 20000 HP.
+
++  Revenge Stomp
+	If you destroy an eye, Emerald will stomp the entire party for
+ 	about 2500.  He will use this each time an eye is destroyed.
+
++  Aire Tam Storm
+	Everyone knows about this move by now.  When you destroy all four
+ 	eyes, Emerald will do this.  Everyone seems to think that it will
+ 	always do 9999 damage.  This is far from the truth.  Aire Tam
+ 	Storm's damage is determined by the amount of materia that is
+ 	worn.  For every piece of materia, Aire Tam Storm will do 1100 
+	damage.  So if you are wearing 10 or more, it will do 9999, if 
+	you are wearing 3 it will do 3300, and if you are wearing no
+ 	materia, it will do 0000.  Square even hinted at this.  Aire Tam 
+	spelled backwords is... Materia
+
+SEQUENCE OF ATTACKS:
+
+I've seen a lot of my friends try and just overpower Emerald without 
+looking for a pattern.  Big mistake.  The thing will crush you.  Look 
+at it.  He has a sequence he follows, so you can anticipate what he'll
+do and prepare for it.  The sequence goes like...
+
+1.  Emerald Shoot
+	(It'll do this for awhile)
+2.  Emerald Beam
+3.  Open Eyes
+4.  Eyes attacking and Emerald Shoot
+5.  (When an eye is killed)  Revenge Stomp
+6.  (When all eyes are killed)  Aire Tam Storm
+7.  Repeat
+
+So basically, it will use Emerlad Shoot.  When it uses Emerald Beam, 
+watch for the eyes.  If you kill and eye, make sure you can survive 
+Revenge Stomp.  When you kill all the eyes, make sure you can survive 
+Aire Tam Storm.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+|   B.  How I Beat Emerald   |
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Now then, I'll give advice first.  Make sure you wear some Mystiles.  
+They are the best armor, since you can avoid half of all attacks 
+caused by Emerald.  Physical Attacks are strong, especially Limits.  
+Emerald causes no Status Effects, so you don't need to waste your 
+accessory on Ribbon.  Try Touph Ring or Champion Belt.  Sprint Shoes 
+aren't so good, and I'll go into that later.
+
+Oh and don't equip ultimate weapons.  Emerald gives tons of AP and 
+you'll want to take advantage.  
+
+Now your equipment.  I used the team of Cloud, Cid, and Yuffie.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Cloud
+
+Ragnorak
+Mystile
+Choco Feather
+
+[In Weapon]  2X Cut = Added Cut
+		 Knights of the Round = MP Absorb
+		 Knights of the Round = Quadra Magic
+[In Armor]   W - Summon = Master Command
+		 Final Attack = Phoenix
+		 Master Magic = Enemy Skill
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Yuffie
+
+Oritsuru
+Mystile
+Touph Ring
+
+[In Weapon]  Cover = Counter Attack;
+		 Counter Attack = Counter Attack;
+	     	 Counter Attack; 
+		 Counter Attack;
+		 2X Cut;
+		 W - Item
+[In Armor]   Counter = Deathblow;
+		 Counter Attack = Underwater;
+		 Magic Counter = Ultima
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Cid
+
+Scimitar
+Rune Armlet
+Champion Belt
+
+[In Weapon]  Final Attack = Bahamut Zero;
+[In Armor]   W - Magic = Mega All;
+		 Master Magic = HP Absorb
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Here's how it went:
+
+I had Could use Big Guard (which is why Sprint Shoes don't matter) at 
+the start of the fight.  Cid used Regen and then Comet 2.  Yuffie used 
+Four Times Cut.  Now, I was set.  I had Regen, Haste, and Wall up.  
+Yuffie was taking it hard when the Mystile didn't defend, but all and 
+all the Regen plus Mystile had her living.  I had Cid use cure Yuffie 
+nearly every turn till I ran out of MP and then used a Megalixer.  All 
+during this, Yuffie was using Four Times Cut and Cloud was enjoying the 
+power of Knights of the Round.  Yuffie died after the first Emerald 
+Beam and the eyes came out.  One shot Cid, he died, and cast Bahamut 
+Zero.  Cloud avoided the Revenge Stomp, but didn't get quite that lucky 
+against Aire Tam Storm.  He was dead, and then Final Attack = Phoenix 
+came in, and voila, I'm alive.  Big Guard back up, and I used Cid to 
+cast two Comet 2's, and he hit Yuffie one more time and bought the farm.  
+I cast Knights twice (W - Summon) and used one Omnislash.  I used no 
+Highwinds, but I managed three Doom of the Livings.  Cid was mainly 
+there to cure Yuffie and reep in the rewards of double and triple AP 
+growth.  Too bad Master Magic didn't get any AP  :-)
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+C.  Cheapo Strategies 
+
+These are cheap tricks that almost guarntee that you beat Emerald.  
+
+1.  Knights of the Round with W - Summon and keep mimicing.  Final 
+	Attack Revive is added in.
+
+2.  Duplicate Megalixers and keep using them in battle while having 
+	Knights of the Round being cast every turn.  Final Attack Revive 
+	is again used.
+
+3.  Use the "Lift PSX lid and Regen trick"
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+-----------------------------------------------------------------------
+ VII.  RUBY WEAPON
+-----------------------------------------------------------------------
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|   A.  Statistics of Ruby Weapon   |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+HP:   1,000,000                  MORPH:         Nothing
+EXP:	50,000                     STEAL:         Nothing
+AP:   50,000                     ITEM DROPPED:  Desert Rose
+GIL:  50,000
+
+ATTACKS:  
+
++  Whirlsand
+	Sucks a character into the ground and they cannot participate in
+ 	the battle any longer.
+
++  Great Sweep
+	Hits for about 4500 damage to all characters.
+
++  Shadow Flare
+	Damages a single character for about 7000.
+
++  Ultima
+	Same as the spell. It uses it as a counter for Knights of the
+ 	Round.  I've heard that it uses it as a counter for other spells
+ 	too, but I have no idea.
+
++  Ruby Fire
+	Fire damage to one character.
+
++  Ruby Ray
+	Does roughly 3000 damage to one character, but it adds confusion
+ 	sometimes.
+
++  [Regular Attack]
+	Does about 3500 damage to one character
+
++  Tentacles
+	There are two of these.  They each have about 50,000 HP.  One
+ 	drains about 500 MP and the other hits for about 2500 damage.
+
+
+SEQUENCE OF ATTACKS:
+
+Ruby's fighting depends on the current situtation.  He likes to fight 
+one on one.  If you have more than one character out and his claws 
+aren't in the ground, he will use Whirlsand until only one is left 
+standing.  He will never suck out all the characters though.  If his 
+claws are in the ground, then he'll try to retract them so he can use 
+Whirlsand.  Oh, forgot to mention that when he sticks his claws in the 
+ground, he can't use his regular attack, Whirlsand, and Great Sweep.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|   B.  How I Beat Ruby   |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+First off, everyone knows that if two of your characters are already 
+dead, then Ruby will immediately put his claws into the ground.  Next, 
+he _can be stopped_, literally.  Hades works wonders.  Also, he 
+doesn't get hurt by physical attacks.  Well, he does, but I've 
+omnislashed him when I had 238 strength with Cloud and did little more 
+than 600 a pop.  With that being said, I can assume you know to use 
+Magic right?  
+
+Now, on to the set up I used.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Cloud
+
+Enhance Sword
+Mystile
+Ribbon
+
+[In Weapon]  Hades = Sneak Attack;
+		 Master Summon = MP Absorb;
+		 Knights of the Round = HP Absorb;
+		 Final Attack = Revive;
+[In Armor]   Knights of the Round = Quadra Magic;
+		 Enemy Skill = Magic Plus;
+		 Speed Plus = W - Summon
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Yuffie
+
+It really doesn't matter
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Cid
+
+I'm not even going to repeat myself.  Just read on and you'll know what 
+I mean.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Here's how it went:
+
+I had Cloud kill off the other two in a random battle.  Now, I entered 
+battle and automatically cast Hades.  It did a puny 400, but it did 
+stop the big brute.  I put on Big Guard, and then cast two Knights of 
+the Round.  By the time all the animations where done, I had Ruby 
+almost dead and he woke up.  Hit me with Ultima (actually, Cloud dodged 
+it) and dug his hands in the sand and I used Hades again.  He stopped 
+and I finished with another casting of Knights.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+|   C.  Cheapo Strategies   |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+1.  Well look above and you'll see my cheapo way.
+
+2.  Another one is to have W - Summon.  Have HP Absorb and MP Absorb 
+	both hooked up to Knights of the Round.  Equip Hades and Mime 
+	too.  Then load up on Speed Plus and Magic Plus.  Kill the others 
+	off.  Get into battle with Sprint Shoes on.  He will stick his 
+	claws in the ground.  Now cast Hades on Ruby and Knights of the 
+	Round on the Claws.  Just keep hitting that Mime button and you 
+	have him beat.  Ruby can't kill you in one hit, assuming you have 
+	9999 HP and Knights will always give you full MP and HP.  His 
+	claws will always die to one Knights and prompt the Knights to 
+	attack Ruby.  Hades will always keep him stopped.  He will wake 
+	up, but Hades will stop him again.  Equipping a Mystile also 
+	helps if you are worried about Ultima, which he always uses after 
+	waking up.
+
+3.  Have one character go in with Knights linked to HP Absorb.  Have 
+	Counter and Mime linked.  Have the Ribbon and 9999 HP.  Load up 
+	on Magic Plus.  Now, go in and cast Knights.  It will make Ruby 
+	use Ultima and then you will counter and get all HP back.  
+	Whenever Ruby does anything, he gets hit and you get cured.  He 
+	doesn't have any high damaging attack and you get cured after 
+	every attack, so you can't lose.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+-----------------------------------------------------------------------
+VIII.  TIPS AND TRICKS
+-----------------------------------------------------------------------
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  To regain Stamina in the Chocobo races, hold on to the R1, R2, L1,
+ 	and L2 buttons.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  If you are fighting a single opponent, cast Reflect on your entire
+ 	party, and then use a Magic Spell with All on your party.  This
+ 	way, the Spell will hit the opponent three times.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  If you collect all six of the Turtle's Paradise Flyers, you will get
+ 	a Megalixer, and one of each source.  The flyers are at:
+
+	•  The wall of the boy that has 5 gil in Sector 5 Slums
+	•  The bulletin board in the lobby of the Shinra HQ
+	•  Ghost Hotel in the Gold Saucer
+	•  The inn in Cosmo Canyon
+	•  Tiger Lily Weapon's Shop in Cosmo Canyon
+	•  Yuffie's House
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  Special Flashback.  To ge this, take Cloud back to the Nibelheim
+ 	basement after the entire Mideel ordeel.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  How to get All Lucky 7777's.  Make sure you have less than 7777 HP.
+  	Go into battle and let the opponent whack you until your HP is
+ 	above and close to 77.  Then turn the opponent(s) into frogs and
+ 	let them hit you until you have HP that ends with 77, kill all
+ 	enemies.  Now, use Hi Potions and Potions to get your HP to 7777
+
+	(i.e.  you have 6925 HP.  You enter battle and get beaten up 
+	until your HP is 6781.  You then kill all but one enemy and turn
+ 	the last one into a frog.  He will hit for 1 HP per turn.  Wait
+ 	until he hits you to 6777 HP.  Then kill the frog.  Now, use two
+ 	Hi Potions and you are set.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  Cid's rocket code is Circle, , X, X.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  The Nibelheim safe code is 
+	
+ 	•  Right 36
+	•  Left 10
+	•  Right 59
+	•  Right 97
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  To get back into Midgar, you have to be in Disc 3.  Go to Midgar and
+ 	talk to the man there.  Go to Bone Village and look for "Normal
+ 	Treasure".  Dig in the upper sectio of Bone Village and you will
+ 	find a Key.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  There is a back room in the Item Store of Cosmo Canyon.  After
+ 	Meteor has been summoned, go to the store and the rope will be
+ 	gone.  Go in and find a Full Cure Materia, an Elixer and a Magic
+ 	Source.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  To gain levels and AP fast, go to the Final Dungeon.  Take the left 
+	path.  You will come to another two paths and you should take the 
+	upper one.  You will come across a place that has natural looking 
+	terrain.  It also has green water in the center.  This is the 
+	best developing in the game.  Here, you fight a variety of 
+	creatures, but there are a few to look out for.  They include:
+
+•  Master Tonberry (comes in one)
+	Looks like a big mole creature that carries a lantern and knife.
+
+HP:   45,000                     MORPH:         Ribbon
+EXP:	6,000                      STEAL:         Elixer
+AP:   200                        ITEM DROPPED:  Megalixer
+GIL:  6800
+
+ATTACKS:
+
+* Everyone's Grudge
+	This move does damge that is directly related to the number of
+ 	opponents you have killed.  I'd know the exact ratio to determine
+ 	the damage, but most likely your most used characters will die in
+ 	one hit (Cloud).  This can be dodged.
+
+* Knife
+	This is an instant kill move.  He will have to be close to you to
+ 	use this.
+
+NOTES:  He gives decent AP and Exp.  His main perk though is the fact 
+that he can provide unlimited Ribbons and Elixers.  Why are Elixers 
+important when you can get Megalixers?  Read on...
+
+
+
+•  Magic Pot (comes in groups of two and three)
+	The name gives it away.  You'll know it when you see it.
+
+HP:   4096                       MORPH:         N/A
+EXP:	8,000                      STEAL:         N/A
+AP:   1000                       ITEM DROPPED:  Turbo Ether
+GIL:  8,500
+
+ATTACKS:
+
+* [Steals Item]
+	It will steal and item if you hit it.  You get the item back if
+ 	you beat it.
+
+NOTES:  The Magic Pot is invunerable.  That is, until you feed it an 
+	Elixer.  Then you can kill it and reep the rewards.  They give 
+	you massive AP and Exp.
+
+
+
+•  Movers  (comes in pairs of threes)
+	Orange orbs that bounce around.
+
+HP:   3000                       MORPH:         Protect Ring
+EXP:	0                          STEAL:         Turbo Ether
+AP:   800                        ITEM DROPPED:  Turbo Ether
+GIL:  30,000
+
+ATTACKS:
+
+* [Normal Hit]
+	Hits for damage.
+
+NOTES:  They are easy to hit and easy to kill.  Tons of AP and Gil.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  To get the Guidebook, you need to fight Ghost Ships and Morph them.
+
+•  Ghost Ship  (comes in one)
+	Looks like a skeleton on a ship with a paddle.
+
+HP:   6600                          MORPH:         Guidebook
+EXP:	1600                          STEAL:         Phoenix Down
+AP:   60                            ITEM DROPPED:  Phoenix Down
+GIL:  2000
+
+ATTACKS:
+
+* [Normal Hit]
+	Slaps you with his paddle.
+
+* St. Elmo's Fire
+	Hits you with St. Elmo's Fire
+
+* Goannai
+	Picks you up with a paddle and chunks you out of battle.  This
+ 	make you not be able to participate in the remainder of the 
+	battle.
+
+NOTES:  You fight him in the Underwater Reactor.  There is a place with 
+	two screens of a tunnel that is made of glass and outside is the 
+	ocean.  He appears in both screens, but more frequently in the 
+	second.  Or, you can fight him in the Battle Square, but there, 
+	the risk of Goannai is much more dangerous.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  The Ancient Forest is the home of several good items including the 
+	Apocalyse and Typoon.  To get there, just beat Ultimate Weapon or 
+	ride on a chocobo with Mountain climbing abilities.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
++  The Sunken Gelnika is found in a grove to the south of Junon.  It is 
+	underwater and the home of strong creatures.  Why is this one of 
+	my favorite places?  Two reasons:
+
+1.  The items are great.  You get 
+
+* Hades
+* Highwind
+* Conformer
+* 2X Cut
+* Megalixer X 2
+* Escort Guard
+* Spirit Lance
+* Outsider
+
+
+and..
+
+2.  I can max out my stats here.  No, I don't mean getting to level 99, 
+	anyone can do that.  I'm talking about getting all stats for all 
+	characters up to 255, the max.  A lot of people have done this, 
+	but millions of people haven't.  It is rare to do this, and if 
+	you have accomplished this, you are more than a master of this 
+	game in my book.  It takes weeks to get every character to 255 
+	stats round.
+
+To do this, you need to morph the enemies on the Gelnika.  There are 
+	six in total and you can get six different sources.  To do this, 
+	you have to morph.  Yuffie and her Conformer are best suited for 
+	the job.  See my Yuffie set up in the one of the previous 
+	sections of this guide.
+
+* Unknown 1  ~  Power Source
+* Unknown 2  ~  Guard Source
+* Unknown 2  ~  Magic Source
+* Bad Rap    ~  Luck Source
+* Poodler    ~  Speed Source
+* Serpent    ~  Mind Source
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
++  Level Four Limit Break Locations
+
+* Cloud
+	Get 32,000 BP at the Battle Square
+
+* Tifa
+	Play the Piano at her house and you will eventually get it
+
+* Barret
+	After stopping the Train, talk to the lady in the highest tent in
+ 	North Coral.
+
+* Aeris
+	This one is tricky.  Normally, people get it after she.. um dies.
+  	You can get it for her before she does though.  When you get the
+ 	Buggy, drive it into Costa Del Sol.  Get on the boat and return
+ 	to Junon.  Go to the World Map and you are in your buggy!  Now 
+	head to the sleeping man's cave.  If you have fought for a number
+ 	of times that ends in identical digits (i.e. 188, 2055), he will
+ 	give you something.  He might give you a piece of Mythril.  Take
+ 	this to the Weapon Maker and he will let you rummage throught his
+ 	trunks.  You can check the big one for a Gold Armlet, or the
+ 	small one at the top for Aeris' Limit.  It is the BEST Limit, but
+ 	not needed since she dies.  Too bad.. would have made the Weapons
+ 	as easy as Goblins.
+
+* Red XIII
+	Beat Missing Number for it.
+
+* Yuffie
+	Beat the Pagoda in Wutai
+
+* Cait Sith
+	N/A
+
+* Vincent
+	Talk to Lucrecia in the Second Disc.  Go back to her cave in the
+ 	Third disc and get this.
+
+* Cid
+	Sunken Gelnika
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
++  Ultimate Weapons
+
+* Cloud
+	Beat Ultimate Weapon in the Third Disc.  Prepare to chase him.
+
+* Tifa
+	Go abck to the Wall Market and use the broken Vending Machine.
+
+* Barret
+	Bring him with you to fight Hojo, and on the way up the stairs,
+ 	he will see a green chest.  If he is not with you, you will not
+ 	get this weapon.
+
+* Red XIII
+	Bugenhagen gives this to you before he dies.
+
+* Yuffie
+	Sunken Gelnika
+
+* Cait Sith 
+	On the Midgar Raid, go up to the 64th floor and check the
+ 	lockers.
+
+* Vincent
+	Receive along with the Chaos.
+
+* Cid
+	Talk to the Man who stares at the Rocket all day after the Rocket
+ 	is destroyed.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+-----------------------------------------------------------------------
+  IX.  FREQUENTLY ASKED QUESTIONS
+-----------------------------------------------------------------------
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+In your materia set ups, you list that you have more than one Knights
+of the Round.  How do you get more than one?
+
+  To get more than one of a materia all you need to do is master it.
+  When you master it, in the experience gain screen, it will say,
+  '[materia] MASTERED' and '[materia] was born'.  This means that
+  since it was mastered, it spawned another one.  The new one starts
+  as if you just got it and will be at the end of the list.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+How do you get more than one Master Magic, Master Summon, and Master 
+Command?
+  
+  When you master all the green or red materias you can go to Bugen's 
+  observatory and the Huge Materias will exchange your materias to a 
+  single Master Materia.  For Command you only have to master a 
+  certain seven: Deathblow, Manipulate, Mime, Morph, Sense, Steal, 
+  and Throw.  You can keep doing this to your descretion.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+How do you get [insert materia name here]?
+
+  Well, I got tired of answering these questions, so I added a 
+  section that tells you where all the materias are located.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+What is the Sunken Gelnika?
+
+  If you follow the story, Rufus mentioned Shinras gelnika plane.
+  Apparently it was shot out of the sky when the weapons attacked
+  cause you can find it sunk in the ocean.  It's in a small groove
+  underwater just south of Junon.  What's interesting about this 
+  place is that it has awesome items and you can morph all the 
+  enemies here for unlimited sources.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+You listed in your guide that you had the KOTR linked with Quad Magic.
+I've tried this before and I know it doesn't work.
+
+  Well, you might be right (all 50 billion of you who've emailed 
+  me), but I compiled most of this from memory, and when I wrote 
+  this guide, I hadn't played it in months.  I did go back and 
+  check several things with my saved games, but this is 
+  ridiculous.  I'm entitled to make mistakes, and if this is a 
+  mistake, (apparently so) then I'm sorry, but I'm not about to 
+  go through this entire guide just to change it.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+Why did you ignore my email?
+
+  Read the very first section of this guide and then see if you can
+  figure it out.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+       
+
+-----------------------------------------------------------------------
+   X.  CREDITS, ETC.
+-----------------------------------------------------------------------
+
+Special thanks to:
+
+- Gamewinners <http://www.gamewinners.com/> and Al Amaloo - 
+     for hosting my guide and providing a great site.
+
+- GameFAQs <http:/www.gamefaqs.com/> and CJayC -
+     for hosting my guide and providing a great Message Board.
+
+- Sony and Square -
+     for reasons obvious.
+
+- Me <lazysilverwolf@youareadork.com> -
+     for writing this guide.
+
+- You <insert contact information here> -
+     for reading this guide.
+  
+
+
+

@@ -1,0 +1,419 @@
+--------------------------------------------------------------------------------
+ Gossip Stones
+--------------------------------------------------------------------------------
+
+Koriri:
+
+* entrada lost woods
+  "They say that the small hole in the grounds that you can find all over Hyrule make perfect breeding ground for bugs."
+  - Use bugs on soft soils to get golden skultullas
+
+* atras deku tree
+  "They say that the Kokiri are always followed by small fairies."
+  - bogus / storyline enhancement
+
+* lost woods - final tela da ponte
+  "They say that when non-fairy folk enter the Lost Woods, they become monsters."
+  - bogus / storyline enhancement
+
+* 2x topo forest meadow lost woods
+
+  "They say that strange owl, Kaepora Gaebora, may look big and heavy, but its character is rather lighthearted."
+  - bogus / storyline enhancement
+
+  "They say that the own named Kaepora Gaebora is the reincarnation os an ancient sage."
+  - bogus / storyline enhancement
+
+* lost woods, buraco pedrona tela entrada goron
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
+* forest meadow, entrada palacio
+  "They say that its possible to find a total of 100 Gold Skulltullas throughout Hyrule."
+  - no comments needed
+
+Hyrule
+
+* 4x entrada igreja
+
+  "They say that Gerudos sometimes come to Hyrule Castle Town to look for boyfriends."
+  - bogus / storyline enhancement
+
+  "They say that it is against the rules to use glasses at the Treasure Chest Shop in Hyrule Castle Town Market."
+  - use lens of truth at treasure chest shop to see chest item before opening
+
+  "They say that Malon of Lon Lon Ranch hopes a knight in a shinning armor will come and swipe her off her feet someday."
+  - bogus / storyline enhancement
+
+  "They say that Malon set the original record in the obstacle course in Lon Lon Ranch."
+  - bogus / storyline enhancement
+
++ entrada castelo, ao subir vine
+  "They say that if you get close to a butterfly while holding a deku stick in your hands, something good will happen."
+  - ?
+
+* entrada castelo, a esquerda da entrada do castelo em si
+  "They say that, contrary to her elegant image, Princess Zelda of Hyrule Castle is, in fact, a tomboy!"
+  - bogus / storyline enhancement
+
+
+Kakariko
+
+* buraco atras grade
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
++ graveyard, entrada shadow temple
+  "They say that there is a secret near a tree in Kakariko Village"
+  - Gold Skultulla #32 ?
+
+Death Mountain
+
+* dodongo cavern, sala 1F
+  "They say that Gerudos worship Ganondorf almost like a god."
+  - bogus / storyline enhancement
+
+* topo death mountain
+  "They say that biggoron's Sword is super sharp, and it will never break."
+  - There is a better sword than the Midgorons knife
+
++ death mountain Crater, a esquerda da entrada via summit, passando pela ponte madeira e explodindo parede 
+  "They say that Medigoron didn't really think about his own size, so his store is really cramped."
+  - bogus / storyline enhancement ?
+
+* death mountain summit, buraco perto entrada, explodindo pedrao
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
+* death mountain trail, buraco secreto circulo pedras prox entrada goron city
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
++ goron city, ultimo andar, sala labirinto de pedroes, ao fundo
+  "They say that there is a secret around the entrance of Gerudo Valley."
+  - heart container # 27 and # 28 ?
+
+* goron city, andar roller, salinha big goron lareira
+  "They say Ganondorf is not satisfied with ruling only the Gerudos and aims to conquer all of Hyrule!"
+  - bogus / storyline enhancement
+
+
+Field
+
+* buraco sob pedrao ao lado entrada castelo
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
+* buraco prox entrada lake hylia
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+  
+
+Zora
+
+* river, no pilar mais alto de todos
+  "They say that there is a man who can always be found running around in Hyrule Field."
+  - Find that man and give him the Bunny Hood
+
+* river, final do rio, proximo ao portao zora domain
+  "They say that Princess Zelda´s nanny is actually one of the Sheikah, who many thought had died out."
+  - bogus / storyline enhancement
+
+* river, buraco plato que chega pela escada e com galinha
+  "They say that the horse Ganondorf rides is a solid black Gerudo stallion."
+  - bogus / storyline enhancement
+
+* em frente ao trono
+  "They say that players who select "HOLD" option for "Z-TARGETING" are the real "Zelda players!"
+  - no comments needed
+
+* fountain x2
+
+  "They say that you can swim faster if you continuously pressing B"
+  - no comments needed
+
+  "They say that there is a secret near the lone tree which is not far from the river in the northwest part of Hyrule Field."
+  - bomb it to reveal hole to heart container # 34
+
+
+Lake Hylia
+
+* Proximo a casa
+  "They say that there is a secret in the road that leads to Lake Hylia."
+  - heart container # 35
+
+
+Gerudo
+
+* valley, prox rio
+  "They say the the thief named Nabooru, who haunts this area, is a Gerudo."
+  - bogus / storyline enhancement
+
+* Deset Colossus, esquerda da entrada, no canto
+  "They say that the treasure you can earn in the Gerudo's Training Ground is not as great as you would expect, given its difficulty!"
+  - no comments nedded (talking about Ice Arrow)
+
+--------------------------------------------------------------------------------
+ Gold Skultullas
+--------------------------------------------------------------------------------
+
+Finalizados: 
+Jabu Belly
+forest temple
+lon lon ranch adulto
+ice cavern
+dodongo cavern
+shadow temple
+spirit temple
+
+01 + deku tree 3F
+02 + deku tree 1B
+03 + deku tree 1B
+05 + lon lon ranch arvore esquerda inicio
+04 + zora river arvore inicio 
+06 + kakariko lateral externa casa skutulla a noite
+07 + kakariko casa em construcao a noite
+08 + kakariko cemiterio a noite
+09 + death mountain, dodongo cavern, sala mais a esquerda 2F
+10 + death mountain, dodongo cavern, mesma sala
+11 + death mountain, dodongo cavern, sala mais ao sul 1F
+12 + death mountain, dodongo cavern, sala proxima chefao 1F
+13 + death mountain summit, entrada, destruindo caixa
+14 + market, sala jarros na entrada, colocanco bomba caixa
+15 + castle, arvore inicio entrada
+16 + lake hylia, parede externa da casa
+17 + zora fountain, parede ptoxima dos galhos, a noite
+18 + jabu belly, ?, prox parede q da pra escalar
+19 + jabu belly, sala central B1
+20 + jabu belly, mesma sala
+21 + jabu belly, antesala chefao
+22 + zora river, 2a tela, noite escadinha proxima a água
+23 + death mountain, explodindo 1a entrada lateral inicio da subida
+24 + death mountain, soft soil 2, jogando bugs
+25 + death mountain, dodongo cavern, reetrancia sala 1F (scarecrow song)
+26 + kakariko, cemiterio, soft soil 7
+27 + lake hylia, soft soil 6
+28 + kokiri, soft soil 4
+29 + lost woods, soft soil 1
+30 + goron city, ultimo andar, sala labirinto de pedroes, explodindo caixa madeira
+31 + kakariko, parede externa da casa proxima portao death mountain, a noite
+32 + kakariko, arvore entrada, a noite
+33 + kakariko, escada torre, a noite
+34 + gerudo valley, entrada, noite, 1a ponte madeira
+35 + gerudo valley, soft soil 8
+36 + kakariko, bottom of the well, 1F, salinha direita
+37 + kakariko, bottom of the well, 1F, salinha esquerda
+38 + gerudo, desert colossus (spirit temple), sala com grade
+39 + gerudo, desert colossus (spirit temple), sala escada trancada
+40 + gerudo, desert colossus (spirit temple), sala corredor em cima da porta
+41 + death mountain Crater, soft soil 10
+42 + gerudo, desert colossus, soft soil 9
+43 + zora river, soft soil 3
+soft soil 5 ?
+
+
+futuro
+01 + ganons castle, entrada, atras arco
+02 + forest temple, salao principal
+03 + forest temple, sala com ponte e grama 1F direta
+04 + forest temple, sala com ponte e grama 1F esquerda
+05 + forest temple, 1a sala, com lobos, no alto da parreira q da pra escalar 
+06 + forest temple, antesala chefao, salinha do bau
+07 + goron city, atras plataforma pequena q fica pendurada no alto, no meio da cidade
+08 + fire temple, salinha ao lado salao principal, subindo pedra apos tocar song of time
+09 + fire temple, sala labirindo com pedras rolando, ao bombear uma das paredes
+10 + zora river, noite, parede externa proxima entrada zora domain, bem ao alto, prox. cercadinho
+11 + zora fountain, ice cavern, 3a sala
+12 + zora fountain, ice cavern, maior sala quadrada
+13 + water temple, dentro torre central
+14 - water temple, salinha depois corredor longo 1F
+15 + water temple, sala vortexes
+16 + water temple, sala pedras rolando 
+17 + shadow temple, b3, sala mais a direita, com 2 baus
+18 + shadow temple, b4, salinha ao sul com 3 baus
+19 + shadow temple, b4, salinha meio do mapa, com caveira gigante
+20 + shadow temple, b4, sala do barco, usando scarecrow song
+21 + gerudo, desert colossus (spirit temple), sala pedras q rolam, usando song of time
+22 + gerudo, desert colossus (spirit temple), sala colossus (adulto, com scarecrow)
+23 + hyrule field, bomb tree near castle wall (near kakariko entrance)
+24 + gerudo, desert colossus, noite, arvore no oasis
+
+--------------------------------------------------------------------------------
+ Heart Containers
+--------------------------------------------------------------------------------
+01 + kakariko, dentro windmill. Como adulto, final do caminho apos corrda com Dampé
+02 + kakariko, dentro casa impa. Pos ir pro topo da DM, pegar carona com a aguia e entrar por tras da casa
+03 + death mointain trail, subindo folha soft soil 2
+04 + lon lon ranch, jogo caixas predio atras rancho
+05 + lost woods, ganhar 3x jogo flautas 2 lost kids
+06 + kakariko, cemiterio, tumba mumia tocando sun song
+07 + market, ganhando 5x o jogo bombchu
+08 + lost woods, tocar saria song pro skull kid
+09 + zora river, alto pilar, com a ajuda da galinha
+10 + zora river, final river, plataforma, usando galinha
+11 + zora domain, acendendo as 4 tochas desde o trono ate mini-cachoeira
+12 + lake hylia, jogo pescaria, peixe 12 pounds
+13 + zora river, cantando 4 musicas pros sapos (ou apenas song of storms?)
+14 + zora river, cantando 5 musicas pros sapos, depois ganhando o jogo deles
+15 + goron city, jogando bomb flower no vaso gigante central
+16 + kakariko, cemiterio, jogo escavacao dampe (lugar aleatorio, geralmente centro chao sem pedra) (crianca)
+17 + kakariko, cemiterio, subindo folha soft soil 7 e explodindo caixa (adulto)
+18 + kakariko, cemeterio, corrida do dampe em 1:00 ou menos (adulto)
+19 + death mountain summit, descendo pelo paredao
+20 - death mountain summit, topo de um dos morros
+21 + zora fountain, caminhando sobre gelo
+22 + zora fountain, ice cavern, sala sudeste, congelada
+23 + zora fountain, fundo, com bota de ferro
+24 + lake hylia, topo torre laboratorio, usando planta soft soil
+25 + market, noite, jogo treasure box
+26 + market, noite, trazendo cachorrinho branco para uma das portas do back alley
+27 + gerudo valley, dentro caixote paredao, usando galinha e bomba
+28 + gerudo valley, atras cachoeira, usando galinha e escadinha
+29 + kakariko, souse of the skultullas, pegando 50 gold skulltulas
+30 + gerudo fortress, acima da cela, com longshot
+31 + gerudo, horseback archery, fazendo mais de 1000 pontos
+32 - gerudo, desert colossus, em cima da pedra que fica na entrada da dungeon (na area de areia)
+33 + kakariko, falando com rapaz telhado da casa. subir torre ate o fim e usar long hookshot
+
+34 + Hyrule Field, northeast, lonely tree near river (before river). Bomb it and enter. Use iron boots
+35 + Hyrule Field, entrance Lake Hylia, bomb cetner of fenced in area and buy from deku scrub
+
+
+--------------------------------------------------------------------------------
+ Bottles
+--------------------------------------------------------------------------------
+
+1 + jogo galinhas lon lon ranch
+2 + pegar todas galinhas da mulher em kakariko
+3 + fundo lake hylia, prox. portao submarino que liga a zora
+4 - pegando 10 Big Poes
+
+
+
+--------------------------------------------------------------------------------
+ Upgrades
+--------------------------------------------------------------------------------
+
+- Deku Sticks (20): lost woods, scrub final tela ponte
+- Deku Sticks (30): usando mascara skull kid
+- Deku Seeds (40): lost woods, tela alvo e 2 lost boys. Acertar 3x no alvo
+- Deku Seeds (50): market, ganahndo jogo shotting gallery
+- Bomb (30): market, ganhando 2x jogo bombichu
+- Bomb (40): goron city, parando o big goron de rolar 3 x, com bombas
+- Deku Nuts  (40): lost woods, um dos 2 scrubs dentro buraco do pedrao
+- Rupees (200): house of the skultullas, pelo menos 10 gold skultulas
+- Rupees (500): house of the skultullas, pelo menos 30 gold skultulas
+- Arrows (40): Gerudo, horseback archery, fazendo mais de 1500 pontos
+- Arrows (50): Kakariko, adulto, shooting gallery (2x?)
+
+
+
+--------------------------------------------------------------------------------
+ Soft Soils
+--------------------------------------------------------------------------------
+
+01 = lost woods, tela ponte
+02 = death mountain, entrada dodongo cavern
+03 = lost woods, tela 2 scrubs
+04 = kokiri, atras de uma das casas
+05 = Zora River, entrada
+06 = Lake Hylia, ao lado da casa
+07 = Kakariko, Cemiterio
+08 - Gerudo Valley, prox rio
+09 + Gerudo, Desert Colossus, prox entrada dungeon
+10 + Death Mountain Crater, ao lado teleporte
+
+
+--------------------------------------------------------------------------------
+ Big Poes
+--------------------------------------------------------------------------------
+
+01 + path east of Lon Lon Ranch, at the fences's opening, near grey rock
+02 + ponta "penhasco" proxima entrada de kakariko
+03 -+ bifurcacao path prox entrada gerudo
+04 + arvore sozinha path prox entrada gerudo (prox big poe 3)
+05 + proximo ao rio northwest, entre a grade, a parede e a arvore solitária
+06 - entre lake hylia e zora (prox big poe 1)
+
+
+--------------------------------------------------------------------------------
+ Masks
+--------------------------------------------------------------------------------
+
+1 (Keaton Mask) - kakariko, soldado portao da death mountain
+2 (Skull Mask) - lost woods, lost kid
+3 (Spooky Mask) - kakariko, graveyard, dia, garoto
+4 (Bunny Hood) - hyrule field, homem correndo pelos caminhos
+
+
+--------------------------------------------------------------------------------
+ BigGoron Sword Trading Items
+--------------------------------------------------------------------------------
+01 - Pocket Cucco: usar no pai da menina do rancho, onde ele estiver (kakariko? gerudo?). Voltar e usar na dona
+02 - Cojiro: usar no irmao da moça do Pocket Cucco, em Lost Woods (zumbi a esquerda entrada)
+03 - Mushroom: levar pra velha do potion shop em kakariko, em 3 minutos.
+04 - Medicine: usar na menina em lost woods, mesmo lugar onde o zumbi estava.
+05 - Poacher's Saw: usar chefe carpinteiros gerudo
+06 - Broken BigGoron Sword: usar BigGoron Death Mointain Summit
+07 - Prescription: usar Zora King
+08 - Eyeball Frog: usar Doctor at Lake Hylia
+09 - Eyedrops: Biggoron
+10 - Sword Claim Ckeck: Biggoron, after 3 days
+
+
+--------------------------------------------------------------------------------
+ Navi Signals / Secrets
+--------------------------------------------------------------------------------
+
+- Gerudo, Desert Colossus, pedra no oasis: usar Song of Storms pra encher o lago, aparece 10 fadas
+- Death Mountain Crater, soft soil 10, Song of Storms: 4 fairies
+- Hyrule Field, pond end Zora River, Song of Storms: "Fat Fairy" (cant be put in a bottle)
+- Lost Woods, pond to Zora, Song of Storms: Fat Fairy
+- lost Woods, buraco proximo entrada Forest Meadow, Sun's Song: Fat Fairy
+
+
+--------------------------------------------------------------------------------
+ Great Fairy Fountains
+--------------------------------------------------------------------------------
+01 - 
+02 + Death Mountain Summit, ao lado da entrada Death Mointain Crater
+03 + Death Mountain Crater, bomb wall crack right of Goron City entrance
+04 + Gerudo, Desert Colossus, bomb north wall crack, near 2 trees: get Nairu's Love
+
+--------------------------------------------------------------------------------
+Side Notes
+--------------------------------------------------------------------------------
+
+- ladrao em casa kakariko
+- "many things floats down lake hilia river end up here, market"
+- pedrao norte mapa
+- falta coisas no fire temple
+- testar todas as mascaras em lost woods
+- gerudo training grounds
+- corrida com carteiro tenda gerudo
+- mega pedra entrada castelo ganondorf
+- fishing pond
+- agua e petroleo nas cavernas
+
+
+3F
+1 entrada
+2 (agua em 3F) pedra no caminho (bau - chave)
+3 chefe (longshot)
+4 (chave x 2) bau (longshot), bau (chave)
+5 -
+
+
+2F
+1 grade, olho com flecha e longshot
+2 bau (mapa)
+3 -
+4 mudar agua 3F (agua precisa estar 2F)
+5 (agua precisa estar 2F ou 1F). mudar agua 2F (agua precisa estar em 1F), bau em B1 (chave)(agua em 2F)
+
+1F
+1 grade com skulltula
+2 mudar agua pra 1F, bau 1F (chave)(agua em 1F), bau 3F (compass), bau 2F (chave)(agua em 2F)
+3 chave e longshot
+4 bau (chave)
+5 ir para 2F, mudar agua 2F (agua precisa estar em 1F), bau em B1 (chave)(agua em 2F)

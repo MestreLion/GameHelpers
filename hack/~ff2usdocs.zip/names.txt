@@ -1,0 +1,28 @@
+Updates:
+9/3/2000 Added header
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+There are (at least) fourteen six letter long name slots in RAM. Whenever a
+name is specified, the number of its slot is given. There is a table of
+default names consisting of fourteen entries of six bytes each; it extends
+from 7A910 to 7A963. A table extending from 08657 to 0866C specifies which
+name slot goes with which character id number, starting at character id number
+01 (Dark Knight Cecil).
+
+This is the correspondence of name slot numbers to default names:
+00 Cecil
+01 Kain
+02 Rydia
+03 Tellah
+04 Edward
+05 Rosa
+06 Yang
+07 Palom
+08 Porom
+09 Cid
+0A Edge
+0B FuSoYa
+0C Golbez
+0D Anna

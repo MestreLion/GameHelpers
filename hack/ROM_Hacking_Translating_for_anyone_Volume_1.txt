@@ -1,0 +1,126 @@
+ROM Hacking/Translating for Anyone
+
+By: UtilMike v1.5
+
+Intro
+
+If you want to learn how to hack/translate ROMs this is what you 
+want to read. This assumes that you already know how to use 
+ROMs and emulators. All the examples use Gameboy ROMs, but 
+everything will work with most other ROMs. Continue on to learn 
+about basic text hacking.
+
+Making a Table File
+(You will need a table file before you can start text editing)
+Run a Relative Search program and search for a word from the 
+game. Go into a HEX EDITOR. Scroll down until you see the 
+Offset for the text that the HEX EDITOR gave you. Overwrite the 
+hex number with one number higher. Save and play the ROM 
+until you find the word again this time the first letter should be 
+different. Figure out the hex number for each letter or 
+punctuation mark and make a table file.	
+To make a table file, run TaBuLaR or Table Maker and you type 
+the letter or punctuation mark that the hex number represents. 
+Some web sites have table files for download.
+
+Basic Text Hacking
+
+In the olden days, ROM hackers had to use plain old hex editors. 
+Now, we have this amazing program called "Thingy"
+"Thingy" is has versions that work in Windows and DOS; I don't 
+know about any others. "Thingy" takes a table file (see above)
+and a ROM and displays text so that you can edit the actual text 
+as it would look like in the ROM. To run "Thingy" Windows Ver. 
+(called Thingy32) just double click on the icon and "Thingy" will 
+ask for the ROM and up to 2 table files then will display the hex 
+on the left side and the actual text on the right. Programming 
+code will look like gibberish. Scroll down until you see some 
+actual text you want to change. If you don't see any actual text, 
+you probably didn't give "Thingy" the right table file. When you 
+find something you want to change hit space before it and after 
+it. A screen should pop up where you can type in the new text, 
+you may run out of room before you finish typing your new text, 
+when you're done typing the new text hit Enter or Return 
+(depending on your computer) and the text on the right will be 
+changed, along with the hex on the left. Those are the basics of 
+using "Thingy". To use the more advanced features of "Thingy" 
+read volume two of "ROM Hacking/Translating For Anyone". 
+Read on to learn to hack ROM graphics.
+
+Hacking ROM Graphics
+
+If you want to change the graphics of a ROM, it is 
+recommended that you use Tile Layer; it is the best graphics 
+program out there. To run Tile Layer in Windows go to a DOS 
+Prompt and type: cd C:\Where ever you unzipped tile layer to 
+and hit Enter or Return then you should see the folder that tile 
+layer is in followed by an ">". After the ">" type what ever you 
+named tile layer followed by a ROM's name like this: 
+>whateveryounamedtilelayer   whatever.format and hit Enter or 
+Return. This what it looked like for me: 
+
+C:\unzipped\tile_layer>tlayer cart.gb
+
+(If you're still unsure how to run Tile Layer, read the 
+readme!) Tile Layer should run and there should be a large 
+rectangle with static inside, that's programming code that you 
+shouldn't mess with. Scroll down until you see a graphic you 
+want to change. Left click on part of the graphic you want 
+change and it should pop up super-sized in the small window to 
+the right. All the graphics are in tile format, the head on one side 
+and the rest of the body on the other. Also, most graphics tiles 
+combine to be the actual graphic. When the tile pops up in that 
+little window you can edit it using you mouse and then right 
+click where you want to paste it back into the ROM. When you're 
+done, click "SAVE" and then click "QUIT" and you're all 
+finished. To use the more advanced features of "Tile Layer" read 
+volume two of "ROM Hacking/Translating For Anyone". Read on 
+to learn about Title Screen Hacking.
+
+Title Screen Hacking
+
+Most of the time you just have to run Tile Layer, find the 
+title screen and change it. Sometimes, however, the screen 
+won't be in order, which makes changing it harder.
+
+IPS Patches
+
+An IPS Patch is the actual changed ROM that needs to be 
+"patched" over the original ROM. The best way to do that is to 
+use HebeGB. In HebeGB, find in your ROM in the directory 
+display on the right, highlight it then click "IPS Patch". HebeGB 
+will then give you another directory display. Find the IPS Patch 
+in the directory and highlight it. Click "Patch ROM". Choose 
+whether or not you want the checksum rewritten, and then the 
+ROM will be patched. Congratulations! You've patched your first 
+ROM! The next time you play your ROM, you will notice that it is 
+the changed ROM. For another way to make IPS Patches see 
+volume two of "ROM Hacking/Translating For Anyone". Read on 
+to learn how to Change A ROM's Font.
+
+Changing A ROM's Font
+
+First, run Tile Layer. Scroll down until you see the English 
+Alphabet. Then click on a letter edit and paste back over the old 
+letter. Do that for all the letters, click "SAVE" then "QUIT" and 
+you've changed the font!
+
+Translating A ROM
+
+	Now we are at the big hard part, translating a ROM. 
+The first step would be to change the game's font from Japanese 
+or any other alphabet to the alphabet you will be using for your 
+translation. Mostly, people translate ROMs from Japanese to 
+English, so that is what I will describe. Then play the ROM until 
+you see some gibberish. Run a Relative Search program and 
+search for that gibberish. Go into a HEX EDITOR. Scroll down 
+until you see the Offset for the text. Overwrite the hex number 
+with one one number higher. Save and play the ROM until you 
+find the gibberish again this time the first letter should be 
+different. Figure out the hex number for each letter or 
+punctuation mark and make a table file. Go into "Thingy" and 
+find the gibberish you searched for in Relative Search. Change 
+the gibberish to what you want and play the rom. If the text is 
+translated, you did it right!
+
+  

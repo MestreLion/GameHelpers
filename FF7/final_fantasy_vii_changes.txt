@@ -1,0 +1,1571 @@
+8888888 8888 8888  8888   88    8888
+ 88   8  88   888   88    88     88
+ 88 8    88   888   88   8888    88
+ 8888    88   88 8  88  88  88   88
+ 88 8    88   88  8 88  888888   88   8
+ 88      88   88   888 88    88  88  88
+8888    8888 8888  888 88    88 8888888
+
+F I N A L    F A N T A S Y    V I I    C H A N G E S    F A Q    V  0 . 3
+-------------------------------------------------------------------------
+f i n a l    f a n t a s y    v i i    c h a n g e s    f a q    v  0 . 3
+
+8888888888888888888888888888888888888888888888888888888888888888888888888
+888888     888888    888  8888  888    88888   88    88  8888  8888    88
+8888888   888888  88  88  8888  8888  888888   888  888  8888  88888  888
+8888888   888888  8888888      88888  888888  8 88  8888      8888 8  888
+888888  8  888888    8888  88  88888  888888  88 8  8888  88  8888    888
+88888  888  88888888  8888    888888  888888  88 8  88888    88888 8  888
+8888  88888  888  88  88888  8888888  888888  888   888888  8888 888  888
+888    888    888    888888  8888        88    88    88888  8888       88
+8888888888888888888888888888888888888888888888888888888888888888888888888
+
+                    Final Fantasy VII Changes FAQ v0.3
+                     by K. Megura  <kmegura@yahoo.com>
+                         for the Sony PlayStation
+
+ This FAQ cannot be reproduced without first contacting me by mail or
+ e-mail and receiving a written reply allowing you to do so.  Also, it
+ cannot be reproduced in any way other than electronically, and cannot
+ be reproduced electronically without being shown in it's unaltered,
+ original form and entirety, including this disclaimer.  This FAQ is
+ not to be used for profitable/promotional purposes (this includes the
+ FAQ being sold, added on, or 'given away' as a bonus, free or not),
+ nor can it be used to get prizes or to receive recognition from game
+ magazines, contests, etc.  It is for private and personal use _only_.
+ If you want to reference it or use any part of it in a guide of your
+ own (even if you are a magazine or publishing company) you must
+ contact me by mail or e-mail and recieve a written reply giving you
+ permission to go ahead.  In addition, allowing you to use any part of
+ this FAQ does not give you ownership of this document.  You may put
+ it up on your site, etc. as long as you do not alter it in any way.
+ This FAQ was created and is (c) and owned by me, Kao Megura
+ <kmegura@yahoo.com>.  All copyrights and trademarks are acknowledged
+ that are not specifically mentioned in this FAQ.
+
+The Final Fantasy series is (c) Square Soft and (c) Sony Entertainment
+of America.
+
+NOTE:  Everything in this document is MY OPINION.  Therefore, there's
+       no point in flaming me as I'm not saying that this document is
+       the 'final word' on FF7 or that it is all 100% truth. :)  Also,
+       this document is chock full of spoilers, both small and large,
+       so don't read it if you haven't beaten the game yet.
+
+
+-----------------
+table of contents
+-----------------
+
+1.  INTRODUCTION
+     1.1  Why a 'Changes' FAQ?
+     1.2  So this covers rumors and secrets, too?
+
+2.  GENERAL INFORMATION
+     2.1  How many releases of Final Fantasy VII were/are there?
+     2.2  In what formats is it available?
+
+3.  CHANGES MADE TO FINAL FANTASY VII
+     3.1  What changes were made to each release?
+     3.2  Why make these changes?
+     3.3  What about the Japanese to English translation?
+
+4.  EARLY DEVELOPMENT / DISABLED AND UNFINISHED FEATURES
+     4.1  How was this game created?
+     4.2  Anything that wasn't implemented into the final version?
+     ...  Was anything that was incomplete added to later releases?
+
+5.  RUMORS AND SPECULATION
+     5.1  Any rumors concerning Final Fantasy VII?
+     5.2  Are they true or false?
+     ...  Is there any basis for these rumors anyhow?
+
+6.  APPENDIX
+     6.1  What resources did you use when writing this FAQ?
+
+7.  AFTERWORD
+     7.1  Special Thanks
+     7.2  Author's Note
+
+
+=========================================================================
+1 . 0    INTRODUCTION
+=========================================================================
+
+-------------------------------------------------------------------------
+1 . 1    Why a 'Changes' FAQ?
+-------------------------------------------------------------------------
+
+Well, partially because none of the Final Fantasy 7 releases are exactly
+alike.  The other reason is that there is a lot of misinformation
+spreading around the 'Net about this game and I want to make a guide that
+is (hopefully) accurate and correct.
+
+However, this FAQ is more about changes, it's also about rumors,
+disabled and unused stuff, the creation of the game, and other aspects
+of Final Fantasy VII.  This FAQ focuses on all the information that
+you wouldn't hear about elsewhere.
+
+
+-------------------------------------------------------------------------
+1 . 2    So this covers secrets and rumors, too?
+-------------------------------------------------------------------------
+
+Yes!  I've taken the time to research and address all of the rumors
+surrounding FF7, and have tried to uncover secrets and little-known
+information about the game itself.  In no way is this a single-topic
+FAQ; it covers a broad range of topics that I'd like to expand upon as
+time goes on.  If you can help at all, please contact me at:
+<kmegura@yahoo.com>, as I'd love to hear from you.  My only request is
+that your information be PROVABLE, otherwise, I can't add it to the
+FAQ.
+
+
+=========================================================================
+2 . 0    GENERAL INFORMATION
+=========================================================================
+
+-------------------------------------------------------------------------
+2 . 1    How many releases of Final Fantasy VII were/are there?
+-------------------------------------------------------------------------
+
+As of this writing, there are three versions of Final Fantasy VII, the
+Japanese version sold in Japan (released on January 31st, 1996), and the
+American version, sold in the US (released on September 3rd, 1997,
+although the official release date was September 7th, 1997).  This
+'English-text' version will not be available in Europe and other
+countries for some time.
+
+The third version is the Japanese re-release of Final Fantasy 7 called
+'Final Fantasy International'.  It's simply the American version with
+rewritten Japanese text.  However, there have been some additions to the
+game; you can use your old Japanese FF7 save files on this new game
+(wonder what it would do to my save file with the disabled materia, heh!)
+It also comes packaged with the original FF7 'Perfect Guide' hintbook,
+as well as a fourth CD.  This CD contains FF7 artwork, in-depth info. on
+the game itself, unused art pices, and FMV movies.
+
+Final Fantasy International was released in Japan on October 2, 1997.
+It costs 6800 yen (around $60 US).
+
+There is also a fourth version, planned for the home computer.  It will
+presumably run under Windows '95.  Other than that, information about
+this forthcoming release is vague, as the porting process has just begun
+and it is unknown whether the game will be released in Japan, in America,
+or both.  Square has stated that it will be available by next December
+or later, but that seems a little unlikely given how little of the game
+has been ported to the PC so far.
+
+Finally, there are two Final Fantasy VII demos, short playable versions
+of the beginning of the game.  They are:
+
+ - Final Fantasy VII Sampler Disc.  Packaged along with Tobal No. 1
+   A Japanese-only release.
+
+ - Final Fantasy VII Sampler Disc.  Packaged along with Tobal No. 1
+   The same demo disc as above, released in the US.  They are basically
+   the same, however, the Japanese text was translated into English.
+
+ - Final Fantasy VII Demo Disc.  Part of the Sony Underground club, and
+   sold as a bonus to those who pre-ordered the US release of FF7.
+   This disc still contained the same, playable version of FF7, but
+   characters were replaced, the dialogue re-done, and new items,
+   materia, and other things were added to the game, all taken from the
+   full version of the US game, still unreleased at the time.
+
+
+-------------------------------------------------------------------------
+2 . 2    In what formats is it available?
+-------------------------------------------------------------------------
+
+Currently, Final Fantasy is only available for the Sony PlayStation.
+
+  - To play the Japanese versions, you need a Japanese PlayStation, or
+    an older American PlayStation (disk swap), or a 'modified' PSX
+    (a chip is installed into the system).
+
+  - To play the American version, you need an American PlayStation.
+    I have no idea if Japanese PlayStations can use the 'disk swap'
+    trick or be modified via a chip.
+
+Alternately, if you own a Sony Yaroze PlayStation (a hobbyist kit),
+then you can play either version of FF7, as the only protection a
+Yaroze has is against non-Sony games.
+
+As stated before, Square plans to release FF7 for (presumably) Windows
+'95.  While it has been confirmed that they will release the game
+eventually, futher details are unknown.
+
+
+=========================================================================
+3 . 0    CHANGES MADE TO FINAL FANTASY VII
+=========================================================================
+
+-------------------------------------------------------------------------
+3 . 1    What changes were made to each release?
+-------------------------------------------------------------------------
+
+Changes listed in chronological order:
+
+Japanese Final Fantasy VII Sampler Disc --
+No changes, being the first version, after all :)
+
+American Final Fantasy VII Sampler Disc --
+All the Japanese text was translated into English.  Otherwise, this
+disc was the same, at least in terms of the FF7 playable demo.
+
+Japanese Final Fantasy VII (Complete Game) --
+In terms of changes from the Japanese Sampler Disc, a lot of stuff
+was redone, character portraits, the music, graphics, camera angles,
+and so on.  In comparing the beginning of this game to the game on
+the Sampler Disc, while they are for all practical purposes mostly
+similar, in terms of acutal differences, they're like two completely
+new games.
+
+American Final Fantasy VII Demo Disc --
+This demo disc is based mostly on the as-yet-unreleased US version.
+The dialogue is the same, the portraits, graphics and music are the
+same, and there are few differences between it and the US release.
+
+American Final Fantasy VII (Complete Game) --
+Compared to the Japanese Final Fantasy VII, there are a lot of
+changes.  A brief listing includes:
+
+- All text changed from Japanese to English.
+- Item names changed from the American FF7 Demo Disc.
+- Of the 6 disabled Materia in the Japanese release, five were
+  altered slightly (not named, either), and the other one was made
+  into a real Materia (Underwater).
+- In the beta version, there were two new Key Items (Ruby Fragment
+  and Emerald Fragment), similar to the mementos your recieved when
+  you killed Shinryu or Omega in FF5j (in other words, no real use).
+  These were removed and replaced with the Desert Rose and Earth
+  Harp items, below.
+- Three new Items were added (Guide Book, Desert Rose, Earth Harp)
+- A new weapon was added: the Rising Sun (for Yuffie).  Technically,
+  this isn't a new weapon, as it was in the Japanese version, but
+  wasn't normally available in the game (for the life of me, I don't
+  know why--but I'd bet anything it was an oversight.)
+- One of the Weapon Monsters was turned into a boss (Diamond Weapon).
+- Two optional Weapon Monsters were added to the game (Emerald and
+  Ruby).  This also resulted in small scenario/changes being built
+  around these two new bosses.
+- A new FMV sequence was added showcasing the new Weapon monsters.
+  This isn't a seperate sequence, but was added in along with the
+  FMV seen when escaping from the Whirlwind Maze in Disc 2.
+- The Submarine mini-game now plays much faster.
+- There's a bit after this showing Cloud's arrival in Midgar, and his
+  meeting with Tifa--this part wasn't in the Japanese FF7.
+- Minor graphical changes were made, clearing up exisiting areas or
+  simply adding more to the background to create a more detailed game.
+  However, these changes were very small and the game is not that
+  graphically different from the Japanese version.
+- The number of letters available for naming your character was
+  changed from 6 to 9 spaces.
+- Apparently, one enemy, 'Test Zero' was removed.  This enemy was simply
+  a battle-testing opponent (it looks like Dark Nation), that had no
+  purpose in the game and was left in by mistake (or as a joke by the
+  programmers, as it gives you lots of EXP, or so I'm told).
+- Some of the spells have been altered.  For instance, Chocobuckle
+  does damage according to the number of times you've run away from
+  a battle, instead of that _multiplied_ by the skill users' EXP
+  level.
+- Mr. DeLucas notes that at least one area was made easier to access;
+  the Chocobo Barn.  In the Japanese version, you appeared closer to
+  the outside pen than you do in the US version.
+- The difficulty was altered.*
+- The ability of Sephiroth, "Supernova" was completely redone.  It
+  is nothing like the Japanese version (a short clip of an explosion
+  in outer space), and instead shows a comet-like blast of energy
+  destroying several of the outer planets, then striking the sun
+  and sending it into a supernova, which destroys most of the 
+  inner planets and rises up behind Sephiroth and the good guys, 
+  causing lots of damage.  It's also at least a minute and a half
+  longer than the Japanese version.
+- There is a star field that appears after the credits.  The credits
+  themselves are now in English (but the Japanese logo was removed!
+  It looked _so_ cool in the Japanese, especially with the kanji and
+  little English translations!)
+
+*  The exact statement from Mr. Hironobu Sakaguchi was "The enemy
+   encounter rates have also been adjusted so that the story line and
+   battles are more balanced.  Also at certain points you'll have
+   bosses with weaknesses that are hard to work out, and we've added
+   hint messages to aid the player."
+
+   This may just be me, but from my personal experience with both games,
+   this doesn't seem to be true.  The enemy encounter rate is just the
+   same as it was in the Japanese version.  What Mr. Sakaguchi doesn't
+   mention is that several of the enemies have been made easier, in
+   terms of tactics they use against you (the Bloat Floats near the
+   Corel Reactor for one thing), but this isn't a widespread change.
+   Furthermore, in regards to his 'hint messages' statement, this
+   doesn't seem to be true.  The only message I can think of is the
+   one that Reno gives when you fight him at the support pillar in
+   Sector 7 about breaking his Pyramid attack.
+
+   However, the _gameplay_ has been made considerably easier.  For
+   instance the 'Guardian of Time' puzzle in the Temple of Ancients
+   requires no figuring out; you just move the hour hand as you wish
+   in order to enter the various rooms.  But in the Japanese version,
+   there were many options that would move the hands back or
+   forward in different patterns, making the puzzle extremely tough.
+   Another example would be climing Gaea's Cliff in Disc 2; in the
+   US version, keeping your body temperature high is easy, but in the
+   Japanese version, it would begin dropping immediately if you
+   weren't pounding the Square button with all your might.
+
+Final Fantasy International (Complete Game) --
+- Includes all of the changes made to American Final Fantasy VII.
+- The text was changed back into Japanese, but was rewritten in the
+  same way that the American text was altered for clarity.
+- The game save files of the Japanese FF7 can be used with this
+  version of the game.
+- Not having to do with the game itself, but an extra CD and hintbook
+  were included.  The hintbook was for the original FF7 Japanese
+  release, and the extra CD has bonus info. and nothing that can be
+  used in the actual game (directly).
+
+
+-------------------------------------------------------------------------
+3 . 2    Why make these changes?
+-------------------------------------------------------------------------
+
+The changes made during the Demo Discs are not of noteworthy importance.
+The need to translate the game is obvious, while other changes, like
+graphic additions and so forth, simply reflect Square putting finishing
+touches on their game.  In a similar vein, the American Demo Disc (the
+one offered by the Sony Underground) has more things in it and a more
+'complete' game primarily to entice people into buying it who perhaps
+already own the by then outdated FF7 Sampler Disc.  The only change of
+any interest are the Item, Key Item, and Materia names in the FF7 Demo
+Disc--all of these (and more, like the Menu screen) could be read if you
+searched through the CD's memory (they were not available normally).
+Those names were changed in the final version because only so many
+characters can be alloted for an item name, and some of these (like
+Marlboro Tentacles), not only went over the limit of spaces, but were
+misspelled (in this case, Square'd probably get sued as well!)  In case
+you're wondering, the final name was 'M-Tentacles'.
+
+The changes made between the Japanese release of FF7 and the American
+release of FF7 are another story entirely.  Many of these are last
+minute changes made as a result of beta testing (apparently, people
+were more familar with the name 'Aeris', so while her name was 'Aerith'
+in the US _beta_ copy, the final version was changed to Aeris), while
+others were not actually changes but additions, things that Square
+wanted to add to the game to improve it (although whether the additions
+were planned but never added to the Japanese version is unknown.  This
+seems probable, though, since [for example] the Underwater materia was
+in the Japanese version of this game).  To me, the changes between the
+battle difficulty (still very easy and relatively unchanged), and the
+gameplay difficulty (made much easier) doesn't seem to make any sense;
+why make a simple game even less of a challenge?
+
+As for Final Fantasy International, well, Square obviously didn't want
+to leave it's home consumers in the dust, and since just about everyone
+already owned FF7, they had to add the extra stuff (CD and hintbook) to
+make it appealing to everyone, in addition to the changes made from the
+American version.
+
+-------------------------------------------------------------------------
+3 . 3    What about the Japanese to English translation?
+-------------------------------------------------------------------------
+
+This is a very interesting subject.  Previously, many people were
+concerned over the translations of RPGs.  Both Sony and Square simply
+said that the game would be translated to the best of their abilities
+(I don't have the actual quote), and most people left it at that.
+However, the translation is _terrible_.
+
+Most noticeable are the simple spelling mistakes and grammatical
+errors, such as "Touph Ring".  However, what's really noticeable are
+the badly mangled conversations, some of which seem to make no sense
+whatsoever, even when you consider the context they are in.  For
+instance, here's a sequence with Cloud and Aeris chatting outside the
+Honeybee Inn:
+
+Cloud:  "...Hmm.  That's how you'll fool them."
+Aeris:  ".........Hmmmmmmm.  So that's how you fooled them."
+
+Sounds bad as is right?  Well, the conversation isn't even in context
+with the game.  Cloud hasn't fooled anyone; he was just given a
+Member's Card which he could use to enter the brothel, and while you
+could say that he tricked the guard into letting him in, it's not that
+big a thing to pull off in the first place.
+
+This sort of thing is more or less prevalent throughout the game.  A
+bad translation will come as no surprise to people who have had
+previous experience with Square games, but many people assumed that
+Sony would do a good job, this being such a popular game, and that
+ended up not being the case.  What's really annoying is that many of
+the names were changed apparently for no good reason (many names that
+could have 'fit' in the game even when spelled in English were
+changed):
+
+ - 'Gold Needle' became 'Soft'
+ - 'Twin Head' became 'Schizo'
+ - 'Gravity' became 'Demi'
+ - 'Heavy Shot' became 'Big Shot'
+ - 'Pyro Holes' became 'Pale Horse'
+
+and so on.  What's really interesting is that sometimes the translations
+are completely botched:
+
+ - When you open a chest inside Gaea's Cliff, you supposedly have just
+   been given a 'Last Elixir'.  If you check your item menu, you'll
+   find that you have an extra Megalixir, though.  This is because the
+   item was called 'Rasutoerikusaa' (Last Elixir) in the Japanese FF7,
+   and this apparently was translated directly but not 'Americanized'
+   for the final release.
+
+ - An even worse example would be trying to feed the white chocobo in
+   Mideel.  Your character will ask it if it wants 'Samolen Greens'.
+   No such item exists; however, if you choose to feed the chocobo,
+   you'll use up one of your 'Mimett Greens'.  Not only is this item
+   spelled 'Memett Greens' in the Battle Square prize offerings, but
+   how you could translated 'Mimetto' (Japanese), to 'Samolen' (US)
+   is a little beyond me.
+
+Those of you who are interested can find a list of (my translations of)
+the Japanese names in my 'FF7 Japanese FAQ Part 2: Extra Stuff You
+Should Know' document, available at my homepage and elsewhere (look at
+the bottom of this FAQ).
+
+Here's what a little bird told me about the translation--this info. comes
+from pretty high up, or so I'm told:
+
+ - The translation was handed by Square Soft International, not Square
+   or SCEA.  The translators consisted of people who were both fluent in
+   English and Japanese.  It was not a set team, just various translators
+   who were asked to work on parts of FF7 (not neccessarily at the same
+   time).
+
+ - About the misspellings: some of them were changes made for aesthetic
+   reasons ('Ogre Nix' becoming 'Organics').  However, the other
+   mistakes were actual typos.  Supposedly, FF7's 'localization' time
+   was cut in order to get the game out on schedule.  It took so long
+   to rewrite and translate the text (and to add in the new text for the
+   added sequences and battles) that it had to be shipped before all the
+   mistakes could be corrected.  However, all of these mistakes were
+   noted, and WILL be corrected in the upcoming Windows 95 version.
+
+
+=========================================================================
+4 . 0    EARLY DEVELOPMENT / DISABLED AND UNFINISHED FEATURES
+=========================================================================
+
+-------------------------------------------------------------------------
+4 . 1    How was this game created?
+-------------------------------------------------------------------------
+
+Work began on Final Fantasy VII in early 1996, developing from the plot
+that had been created earlier.  FF7 was produced by many of the same
+members who worked on previous FF games, with the notable exception of
+Square artist Amano Yoshitaka, who's normal job of character designs
+and publicity artwork was given to Nomura Tetsuya.  Mr. Amano was
+instead asked to design the maps and world graphics for FF7.
+
+In terms of internal game creation, it was quite rushed and subject
+to change.  For instance, Tifa, who is one of the main characters of
+FF7, had not yet been added to the game when the original story was
+written.  And Sephiroth wasn't publicly revealed as being involved
+in the FF7 storyline until much later.  The game itself was to be a
+2-disc set, but at a very late date (Fall of '96, I believe) it was
+expanded to three discs.  FF7's projected release meant that Square
+had less time to make this game than they did previous FFs, and as
+the American version of this game shows, they could have used the
+extra time. :)
+
+Most notable is that this game was not designed only by Japanese
+people, but by many experienced American game desingers, too.  FF7 was
+also the first game to have been fashioned using the equipment and
+talent found at Square USA (formerly Square LA), a new division of
+Square.  This is because Square USA also focuses on the use of computer
+graphics in video games, and one need only look at the extensive FMV
+and rendered backdrops in FF7 to see why it was worked on here in the
+States as well as in Japan (keep in mind that Square USA is also a
+game-making faction of Square, too--they're working on the upcoming
+'Parasite Eve' game).  Much of FF7 was created using high-power
+computers and other high-tech electronics, unlike the previous Final
+Fantasy games.
+
+Later, Square opened another branch in Honolulu, Hawaii.  While this
+division of Square apparently had no involvement with the Japanese
+version of FF7, it was here where Square programmers retooled the US
+release.
+
+
+-------------------------------------------------------------------------
+4 . 2    Is there anything that wasn't implemented in the final version?
+. . .    Was anything that was incomplete added to later releases?
+-------------------------------------------------------------------------
+
+This is debatable.  In the final version of the Japanese game, there
+are several things that seem to not really go anywhere/have any use:
+
+ - The 'Underwater' and 'Booster' materias.
+ - The entire submarine sequence and related events.
+ - Yuffie's Rising Sun weapon (removed from the Japanese version; it's
+   not a 'new' weapon in the US version in the same sense that the
+   Underwater materia is not a 'new' materia).
+ - The relationship between Cloud and Aerith / Tifa during Disc 1 (it
+   obviously is for the date sequence near the end of the disc, but
+   it's completely dropped after Aeris' death, with no mention of
+   Aeris afterwards, either.
+
+If you want my opinion, FF7 _is_ incomplete!  The only reason why it
+gets so much notice is that there is a much bigger degree of
+incompleteness, due to the rushed schedule and so on.  No, I'm not
+referring to stuff that's not true (Aeris' revival), but the stuff
+added to the US version.  Obviously, if the game _was_ complete, Square
+would have had no desire to make additions to it for the US release.
+However, with the re-release of FF7 in America and Japan, the game is
+now obviously as complete as it's gonna get (look at Chrono Trigger
+or Seiken Densetsu 3 for other examples of games that are perfectly
+playable but were not fully developed the way the programmers wanted
+them to be).
+
+That being said, obviously, Square added everything that they felt
+should have been added to the US version, including a general tightening
+and clarifying of the storyline (which was very vague in the Japanese
+version, from what I could read of it).
+
+Last and least, there are obviously all of Square's ideas and plans that
+were never even put into the game itself:
+
+ - Multiple endings.  Yes, Square _did_ plan to have more than one
+   ending!  But this was going to be for the hidden characters (Yuffie
+   and Vincent).  Lack of space on the CDs and lack of money is why
+   these scenes weren't completed.
+
+ - Extra materia.  All of the disabled materia in FF7 have some use
+   that's already in the game, with the exception of three materia:
+   'Underwater Breath' who's use was made clear in the US version
+   (to fight the Emerald Weapon), 'Booster', which was likely just
+   an alternative to gaining AP on your weapons.  When it was
+   decided that some weapons could change the AP rate, this materia
+   was dropped.  This is just guesswork on my part, but it's the
+   only use of the materia that seems credible.  There was also
+   another materia in development apparently called "Prevent Floor
+   Damage" (yes, we've all played games in which watching somewhere
+   injures you).  Not only is the reason for this materia not being
+   finished obvious (the rendered backdrops are confusing enough as
+   is), but this materia is not even found in the game, it was
+   canned so early on.
+
+ - Extra summons.  Apparently the only one is "Golem" (like the
+   Golem from FF5j), and it was removed because the designers thought
+   the game would be too easy with it intact.  Enough said.  Also,
+   like the "Prevent Floor Damage" materia, it's not even in the
+   final version, but was presumable forgotten early on in the game's
+   development.
+
+ - Extra equipment.  According to Mr. Sato, there are at least two
+   weapons that were removed--A sword for Cloud that had an AP
+   multiple rate of 4, and Yuffie's Rising Sun.  Well, this sword
+   for Cloud isn't in the disc (same as the Golem materia and so on),
+   and Yuffie's Rising Sun was put into the US version.  It's not a
+   new weapon, but existed (and was disabled) in the original
+   Japanese version.
+
+ - Hidden characters.  Obviously, there's no need to be able to play
+   with (Proto) Cloud as he's just like the normal Cloud, sans Limit
+   Breaks.  And Sephiroth is the last enemy in the game, so obviously
+   making him a playable character would be impossible--is Cloud gonna
+   say, "Gee, Sephiroth, I know you're going to destroy our world, but
+   why not help us fight the Shinra for a little while before then?"
+   Besides, name another Square game where the last bad guy is your
+   friend for a time, it's only ever been 'bad good guys' like Kain
+   and Magus (Jacky).  Having the Chocobo as a team member wouldn't be
+   very fun either, as it wouldn't be able to do anything but attack
+   and use Chocobuckle :)  As for 'Boxer' (Baakusa), well, Square may
+   have considered making a normal enemy playable, but they never
+   implemented it into the game, so what's to complain about?
+
+ - Elements that were never used.  Originally, there was to be an
+   ability called 'Kakutou' (equivalent to the Blitz attacks in FF3),
+   but this was disabled and never made usable in the final version
+   of FF7.  Cloud was supposed to be able to swim underwater (in fact,
+   your underwater adventures were not supposed to be limited to the
+   'inner' ocean but the whole of the World Map), yet this was never
+   added to the game.
+
+In the end, Square added what the felt would needed to make FF7 a
+complete game.  This includes adjusting the difficulty (not that I
+could tell!), adding the Weapon monsters, and adding smaller events
+and items like the Kalm Trader, the Rising Sun weapon, the Guidebook,
+Underwater Materia, Earth Harp, and so on.
+
+
+=========================================================================
+5 . 0    RUMORS AND SPECULATION
+=========================================================================
+
+-------------------------------------------------------------------------
+5 . 1    Any rumors concerning Final Fantasy VII?
+-------------------------------------------------------------------------
+
+Yes!  Far too many to count.  The most prevalent ones are:
+
+ *  It was possible to revive Aeris after her death in Disc 1.
+ *  ...and that Square added a quest allowing you to do so in the
+    US release of this game.
+ *  The game has multiple endings.
+ *  (Proto) Cloud, Sephiroth, and the Chocobo are all playable
+    characters.
+ *  There is a character named Boxer who you can meet and who will
+    join your party.
+ *  There are many extra materia in the game, and more Master Materia.
+ *  Every character has an extra set of hidden limit breaks.
+ *  You can breed a chocobo which can go underwater or into space.
+
+And so on.  Many of these were created back when the Japanese game came
+out, but more showed up when the American release was made available.
+
+
+-------------------------------------------------------------------------
+5 . 2    Are they true or false?
+. . .    Is there any basis for these rumors anyhow?
+-------------------------------------------------------------------------
+
+All of these are basically false, but they all have a solid base, at
+the least.  So while there is basis for these rumors, that doesn't
+make them true.  Here's a detailed explanation:
+
+ *  It was possible to revive Aeris after her death in Disc 1.
+
+This is all thoroughly explained in a post by Ben Lansing, who claimed
+to be a worker at Square USA during the creation of the Japanese game.
+I had a really nice argument against his claim that I used to tell
+people who believed him, but he recently admitted that the whole thing
+was a joke (I'm still keeping my argument here, cuz' it sounds good).
+
+In a nutshell:
+
+ - The 'Underwater' materia that he said could be used to revive
+   Aeris is purple, not yellow.  Furthermore, it has no effect in
+   the Japanese game.
+ - The 'Key to Sector 5' item isn't available in Disc 1, as he says,
+   but even with it in your inventory, you could still not return to
+   Midgar (the door doesn't open, plain and simple).
+ - The ending of the game is composed of one multi-part file with
+   three sections for the three corresponding parts of the game's
+   one ending.  There are no 'extra' movie files in any of the CDs.
+ - Mr. Lansing claimed that there was an extra area in the
+   Forgotten Captial, but no such area has been found.
+ - He also said that meeting Aeris' ghost in Midgar was a mistake
+   made by the Square programmers, but that they covered it up by
+   changing  the dialogue given to you by two children nearby.  Even
+   assuming the rumor was true, none of the changes that Square
+   supposedly made directly affect the main game, so this rumored
+   alteration seems highly questionable.
+ - A main character has died in just about every Final Fantasy game,
+   so that's a good indicator that someone was meant to die in this
+   game.
+ - Finally, most of the unanswered questions in Lansing's explanation
+   are put to rest in the American version: the scene with the dying
+   man in Midgar, the use of the Underwater materia, etc.
+
+Even if you decide that the rumor is true, there's no way to revive
+Aeris in the final versions of either the Japanese or US versions of
+the game, and sticking her back in your party with a GameShark has
+shown that there are no other sequences with her/ways that she is
+involved with your party, aside from 'general character' quotes.  That
+doesn't mean that Square didn't originally _consider_ the idea of
+having Aerith being brought back to life, but even if they did, it
+was obviously discarded/decided against and never developed any
+further than that (I believe that!  Really!)
+
+ *  ...and that Square added a quest allowing you to do so in the
+    US release of this game.
+
+When people found out that there was an Underwater Materia in the game
+and that new FMV had been added to the game, the general assumption
+that was Mr. Lansing was right, as these fit in with his explanation.
+However, the Underwater materia is used only in the fight against the
+Emerald Weapon, and the new FMV sequence is simply a short clip showing
+off the Weapons.
+
+
+ *  The game has multiple endings.
+
+The ending (which is the same in both the Japanese and English versions)
+is surprisingly short and seemingly incomplete, plus it obscurely
+refers to Aeris in the last few seconds.  Furthermore, Vincent and
+Yuffie are nowhere to be seen in the ending sequences.  This led a lot
+of people to believe that there must be other endings that were
+complete/that had Vincent and Yuffie/or that corresponded to the Aeris
+rumor.  Also, the ending move file is in fact divided into three sub
+files, leading people to believe that there was not just one extra
+ending, but maybe two or more.
+
+In fact, the ending is three parts (escape from the final dungeon,
+the halt of Meteo, the credits and Red 13 in the future), because the
+ending movie has three major scenes.  Some people found fault with
+what Nomura Tetsuya said in an interview with GameFan magazine:
+
+ 'Because to have included [Yuffie and Vincent], we would have to
+ to make four different endings and we were constrained by the space
+ on the CD, so we decided not to include them.'
+
+The argument being that, in FF3, sequences would not be shown if you
+didn't have a certain character, but they would be shown if you did,
+so why not have short FMV clips with Vincent and Yuffie that would be
+interjected into the ending?  However, what Mr. Nomura says is true;
+as the entire FF7 game is on each disc (not including FMV), the added
+FMV for Disc 3 would leave scant space for added FMV sequences.
+
+
+ *  (Proto) Cloud, Sephiroth, and the Chocobo are all playable
+    characters.
+
+Well, (Proto) Cloud and Sephiroth are playable during Cloud's
+recounting of the Nibleheim mission in Disc 1, but even then, Sephiroth
+is controlled by the computer.  And, there is a portrait for chocobos
+just as their is for the characters in your group.  This having been
+said, you can put Cloud and Seph in your party using a GameShark, but
+the game will crash if they are involved/talk with anything (and since
+a GameShark can only alter exisiting memory  and not 'create' something
+new, if they were playable, a code that sticks them in your party would
+work perfectly as well).  Even with the code, Seph is still computer-
+controlled.  About the Chocobo: a GameShark code doesn't make it
+playable either (there's not even any graphics or stats. for it), but
+the portrait has a legitimate use anyway; it's used when you name a
+caught chocobo in Disc 2.
+
+ *  There is a character named Boxer who you can meet and who will
+    join your party.
+
+It goes like this: there is a hidden character named 'Baakusa' ('Boxer'
+in Japanese), who was going to be put in the game, but wasn't at the
+last moment (according to the rumor).  He would be a friendly version of
+those Goblins you can fight at the Goblin and Round Islands.
+
+Well, there _are_ two extra portraits in the game that are unused (they
+spell out 'Now Printing' in Japanese kana, and the file name is 'kali'
+or 'temporary').  Furthermore, in the Japanese version of FF7 (at
+least), you could continually save and delete files, then check out the
+little faces of the FF7 save file names in your PSX's memory, and there
+would be a chance of you seeing a face of a character not in the game
+who was supposedly the Boxer goblin.  This is true, but just because
+there is a face doesn't mean that the character was playable, as there
+are pictures of the Turks and other non-playable figures in the game.
+Furthermore, there are no weapons or items in the game for Boxer to use.
+Since there's no way to play with Boxer in any version of FF7 anyway,
+this rumor is a little pointless, even if it is true.
+
+
+ *  There are many extra materia in the game, and more Master Materia.
+
+Again, this rumor is partially true.  In the Japanese game, there were
+several disabled materia:
+
+Housoku (Law)
+A Command materia (yellow).  It has 2 levels.  It lets you use Coin
+Toss and Throw (unmentioned in the description).
+
+Booster
+A Combination materia (blue).  It has 5 levels.  It also has no
+description, and apparently has no effect in terms of gameplay, either.
+
+SuichuuKokyuu (Underwater Breath/Respiration)
+An Independant materia (purple).  It has 1 level.  It also has no
+description, and apparently had no effect in terms of gameplay in the
+Japanese version.  For the US release, this was made into the
+'Underwater' materia that is used to nullify the time limit when
+fighting the Emerald Weapon.
+
+MBarrier
+A Magic materia (green).  It has 3 levels, and lets you cast the
+MBarrier spell at each level.
+
+Reflect
+A Magic materia (green).  It has 4 levels, and lets you cast the
+Reflect and Wall spells.
+
+Rifuabu (no translation, but has something to do with 'reflect')
+A Magic materia (green).  It has 3 levels, and lets you cast the Wall
+spell after it reaches 2nd level.
+
+In the case of the three Magic materia, they would affect your stats.
+as so when equipped:  Strength -02, Magic +02, MaxHP -05%, Vitality -01,
+Magic def +01, MaxMP +05%.
+
+As you can see, none of these materia had any new functions.  The only
+exception is the Booster materia, but whatever purpose it was supposed
+to have (some have speculated that it was going to be a materia that
+increased the amount of AP you got in a battle, like EXP Plus or Gil
+Plus, but that it was removed when this function was instead assigned
+to weapons) was deleted from the final version.
+
+Note that these materia still exist in the US version (although the
+SuichuuKokyuu materia is now a real, working materia [Underwater]).
+However, they haven't been translated, as there was no need to since
+they aren't actually in the game.  They also seem to be a little less
+functional than before, but that could just be my GameShark ^_^;
+
+In the story itself, there is Sephiroth's Black Materia that he uses to
+cast Meteo, and Aeris' White Materia that is used to cast Holy, but
+these materia aren't real, usable items (the Black Materia is an
+unsusable Key Item).
+
+
+ *  Every character has an extra set of hidden limit breaks.
+
+This rumor has a good basis; there is enough space for every character
+to have three limit breaks per level.  However, there aren't any extra
+breaks (check for yourself if you have a GameShark), and those
+characters who have less than 7 breaks (Vincent and Cait Sith), can't
+get any more than what is normally available to them.
+
+
+ *  You can breed a chocobo which can go underwater or into space.
+
+Apparently, there was a picture floating around a while back which
+depicted a chocobo walking around underwater.  When the Underwater
+materia was discovered, people suggested that perhaps it was to be
+used in conjuction with a chocobo to go underwater (and in fact, it
+was originally said that chocobos would be able to travel beneath
+the sea, to boot).  Also, with the submarine, there is only a small
+area of the world's ocean that you can explore, further adding
+credence to this rumor.  As it is, there are no extra types of
+Chocobos that can be bred (again, this has been proven using a
+GameShark), and none of the available ones can go under the ocean.
+However, it does seem fair to say that this was originally going
+to be implemented back when FF7 was still being created.
+
+
+=========================================================================
+6 . 0    APPENDIX
+=========================================================================
+
+-------------------------------------------------------------------------
+6 . 2    What resources did you use when writing this FAQ?
+-------------------------------------------------------------------------
+
+Right off the bat, I'd like to say that NONE of these documents are
+100% correct (maybe even my own document?)  So please don't take what's
+written here as the truth since it will only mess you up in the long
+run.
+
+In any case, I referred to these sources:
+
+GameFan Magazine, Volume 5, Issue 7
+  - Interview with Square members about the US release of FF7.
+
+GameFan Magazine, Volume 4, Issue 5
+  - Preview of the forthcoming Japanese release of FF7.
+
+Newsgroup: alt.games.final-fantasy
+  - Various information.
+
+A lot of this info. also comes from my own personal experience and use
+of a GameShark and Comms Link.  I've used the GameShark and Comms Link
+to see disabled/hidden info. in every currently available version of
+Final Fantasy VII, save the Japanese Sampler Disc.
+
+Documents used in the writing of this FAQ:
+
+________________________________________________________________________
+Here's a quick write-up I did of the differences between the American
+FF7 Sampler Disc and the Japanese release of FF7 some time ago:
+________________________________________________________________________
+  Apparently the characters were to be more detailed in the 'walkabout'
+  mode.  However, they still retained the same graphics as the 'battle'
+  figures.
+
+  You may also notice that _all_ the sprites for the heroes are
+  different than the ones in the final version!
+
+  Aside from obvious changes like the names (Aeris instead of Aerith,
+  Barret instead of Barett), the 'victory' portraits for Aerith and
+  Barett are different.  And the Cloud portrait is actually the 'Young
+  Cloud' one!
+
+  Game wise, the camera will pan across the enemies at the start of the
+  round, something it doesn't do in the final version.  In terms of
+  spells, some (like Fire 2) 'expand' depending on the size of the
+  enemy, which it doesn't do in the finished version.  (Barett's 'Demi'
+  will kill the Deenglows, which doesn't work in the finished version,
+  either).  The Ice spell was also different in appearance (Ice 2, to
+  be exact).
+
+  Also, using L1/R1 to move Cloud resulted in him turning it tight
+  circles rather than a general turn.
+
+  In terms of battles, you couldn't run away, the item screen had only
+  six spaces, and if you used the 'Change' option, it was permanent
+  (whereas in FF7, you had to change from the main menu for it to
+  permanently affect future battles).  Also, the MP cost/amount of
+  damage/etc. was completely changed for the demo version.
+
+  Plus, the graphics were re-rendered in the final version and music was
+  performed with different instruments.  The battle graphic was also
+  different, and it didn't change during any part of the demo.
+
+_________________________________________________________________________
+Here's Ben Lansing's "confession".  Note that this replaces his original
+document as the following post has both his original rumor and his
+comments in it.  Also, the info. by James Smith has been deleted, as
+obviously Lansing was lying to him (real nice, aren't you Lansing.)
+_________________________________________________________________________
+
+  I Have a Confession to Make
+
+  by "Ben Lansing"
+
+  "I am writing this to quench all rumors about Aeris and the
+  completeness of Final Fantasy 7. Final Fantasy 7 was completed to the
+  best of Square's ability and funding."
+
+  Hmm ... you leave the internet community for a few months, and people
+  are STILL dragging your old shit around. Okay folks, this is getting a
+  bit absurd. Can't you all take a joke? Look. I have a confession to
+  make, and if you stick with me and read this WHOLE post, you'll learn a
+  lot more about this whole AERIS thing.
+
+  A lot of you know me as Ben Lansing. Way back in March-April of 97,
+  when FF7 had first came out, I bought it (an imported version), and
+  loved the hell out of it. While rummaging around online one day, I
+  stumbled across some madman raving about the scene with Bugen Hagen
+  near the end of disc 2. The game being in Japanese and this guy being
+  full-blooded American, this scene came across to him as something else:
+  a failed ressurection attempt. He started posting to the FF7 Message
+  Board about all of this, saying that perhaps Aeris could be revived
+  ... and people started jumping in on it. All sorts of stories began
+  flourshing about ways to bring her back, and I did a lot of research on
+  this before I ever posted my first message on that board.
+
+  I decided to see just how silly people could be. I had actually
+  understood everything that had gone on during the game, so I knew lots
+  of ways to trick people into believeing things. I already had a silly
+  audience who believed nearly anything, so I took a great step when I
+  came out with my Aeris Ressurection process, under the name of Ben
+  Lansing, an alleged translator for Square. Without even reading this
+  process, people should have known I was lying to start with. I claimed
+  to be a temporary translator for Square.  Well, anyone with any common
+  sense knows that Ted Woolsey and the Square team did NOT translte FF7
+  ... SONY did it, all in Japan, and all within the parent company -
+  NOBODY WAS HIRED FROM THE OUTSIDE! But ... being the gullible fish that
+  I thought everyone was, they swallowed it whole without a second
+  thought, and I became a near-idol on that message board. I decided to
+  see just how far I could carry all of this.
+
+  Several people on the message board started rebuking what I said,
+  claiming me to be a liar and even catching me in a few little fibs.
+  However, I also had a strong support, backed by a few guys you may
+  remember as Fish, Mooncalf, Smear, Casper71, Zakna, and so on. We
+  strongly opposed anyone who claimed we were liars. They do not know to
+  this day that it was all a hoax. Some of them even made up little lies
+  themselves in defense of me. I thought that was a bit overboard, but
+  people will be people. We went off and founded a channel on DALNet:
+  #Aeris. You people may remember it, and some of you may even visit from
+  time to time. We had contacts with Crow (Miranda's Cafe) who helped us
+  advertise and such.
+
+  Well, as more people came to know about us, more people started
+  doubting me. I went as far as to give over ownership of the channel to
+  Fish and Zakna, while having my name removed from the #aeris home
+  page. Things were looking bad, so I made one final post to the message
+  board and vanished from the net. Here it is, with comments I have to
+  make about why I said certain things:
+
+-------------------------------------------------------------------------
+
+  Oh no. They did it. I wouldn't have known, because I had access to the
+  full set of FF7 info... but they did. I guess this means that I should
+  have actually played through things to see if anything had changed,
+  instead of getting tired of the game after translation purposes. I
+  think everyone is gonna kill me for my insolence, because I really
+  should have played through the game more fully before I said anything
+  to make sure it was still possible.
+
+  Okay ... this paragraph was just a little introduction saying that the
+  ressurection process was originally in the game, and while translating
+  things, I saw it and so confirmed it without playing the game. Sounded
+  credible, didn't it? Obviously it did ... read on ...
+
+  Throughout the past few weeks, I, myself, have been wondering why
+  people were having such a hard time reviving Aeris, because according
+  to everything I saw through the scenario translation process, it could
+  be done fairly easily. Here's the Aeris revival process, in full.
+
+  More babbling ... then I go on to describe the Aeris revival process IN
+  FULL ... heehee
+
+  First off, throughout the game, you must make the logical choice of
+  things to say to Aeris to indicate that you like her. You must never
+  hurt her in any way by choice. What happens in scenarios, however,
+  cannot be avoided (Aeris' beating by Cloud, for instance).
+
+  I added this cause it sounded believeable too, as there were several
+  key decision points in conversation that seemed to have no effect on
+  the story, when in fact they really do: their real purpose is to
+  dictate who is going to date Cloud in the Gold Saucer ... read on...
+
+  Also, with the sick man. There is no medicine, but you could have
+  Aeris tend to him and make him feel better, by learning about her
+  heritage and returning to Midgar in the first CD. By doing this, the
+  "GENERAL" as people call him, would trust you, and request you go buy
+  his dying friend something from the store. A simple quest. After doing
+  so,the GENERAL would tell you thanks, and that if there was anything
+  else you need ever, to ask him for help. You then see a scene with his
+  friend dying. A sad scene. :(
+
+  There's a problem here ... you don't find out about Aeris's heritage
+  till Disc 2. Another dead giveaway that this was a hoax had people been
+  listening carefully ... Coupled with the fact that there IS no Midgar
+  Key in disc 1 ... geez ... Oh yeah ... why did you guys call this man
+  the GENERAL? I never figured that out ... but I just took the name and
+  ran with it ... hell, it worked, didn't it? :)
+
+  Now, continue through the game as normal, and after Aeris dies, go on
+  to the second CD. Once here, return to Midgar with the key from CD1,
+  and the GENERAL will ask you where the nice girl (Aeris) is. You
+  explain that she has died, by Sephiros, and that there is no hope in
+  reviving her. There would be a chance, but only if you could go deep
+  under the waters of the floating castle (where Aeris died). The GENERAL
+  would tell you that he thinks he may be able to help, and to come back
+  later. After this meeting, you were to go on to Aeris' church, where
+  there would be a long scene with her spirit. If you had been nice to
+  her, she would express a desire to return to help you. After doing
+  this, return to the GENERAL, who would provide you with a Yellow
+  materia that allowed the entire group to travel through water. With
+  this, you could return to the floating palace, go up to Mr. Fish, and
+  once you touched him, you would be transported under water, to a
+  cavern, where, at the end, lay Aeris' orb/life essence. With this orb,
+  Bugen Hagen could complete the ress process, and you could move on to a
+  happier life with a neater ending.
+
+  Gee ... people still believed me after hearing THIS? BUGEN HAGEN WAS
+  NOT TRYING TO RESSURECT AERIS!!! GEEZ!!! Also, a YELLOW orb gives
+  commands ... I'll admit that there was an Underwater orb in the
+  Japanese version, but it was removed from the executable code and
+  cannot be gotten. It was later added in the US version. Geez ... what
+  gullible people ... But wait ... there's more ...
+
+  Well, the FMVs were all completed on time, but a lot of coding was not.
+  They then delayed the games release by a month (Dec -> Jan). However,
+  it seemed that even by late December, the coding STILL wasn't finished,
+  so Square told production to wrap it up quickly. In order to get the
+  game out on time, SqJP sacrificed what could have been a miraculously
+  better game than FF7... The main coding that was not finished dealt
+  with manipulating the transparent polygon of Aeris' spirit in the
+  church.
+
+  Er ... manipulating a transparent polygon isn't that hard at all ...
+  no more so than a regular one ... Look at cloud's Ultima Weapon ...
+  geez ... probably several other transparent things too in the game
+  ... and besides ... the blip of Aeris in the church is NOT\
+  transparent to start with. This is yet another blatant lie that nobody
+  ever bothered to reckognize...
+
+  Since they were forced to wrap production up to meet the many-delayed
+  deadline, they had to stop with the Aeris process unfinished. So, to
+  keep things from ever happening, they simply removed the one item that
+  allowed any hint of the process to take place... The Key to Midgar,
+  from the first CD. This completely stopped the ability to ressurect
+  Aeris. HOWEVER, they left out the removal of one thing, and that was
+  the split- second of seeing the ghost of Aeris once you return to the
+  church. Unforunately, this, along with the insanely big size of the
+  ending MOV, are the only hints to Aeris' existence that we have. Other
+  than the original FF7 scriptline, from which all the above information
+  came.
+
+  Wow ... interesting ... the only reason Aeris appears in the church is
+  Cloud's memory ... any moron should be able to figure that out.
+
+  I ran across this info while talking to John H. (another temp like me)
+  trying to get some US script from him for our channel's page. Also,
+  Seph wanted it. I asked him if it would be alright for me to release
+  the script info in an altered form, and to release info on gameplay,
+  such as Aeris' death/ress. Then he told me the deadline story, and I
+  almost had a heartattack. He said that the process can still be done to
+  its completion, sans a couple of scenes, with the Game Shark, but until
+  someone develops a MOV player that handles multiple sector files, the
+  true ending will not be seen.
+
+  Heh ... multiple sector MOV files. Right. And pink monkeys fly out of
+  my butt. Get real, people. You all need to take intelligence tests or
+  something. Oh ... and that John H. guy was fake ... yet someone
+  claimed to KNOW HIM!!! AHAHAHAHAHAHAHA!!!!
+
+-------------------------------------------------------------------------
+
+  Okay ... That was my "closure" note to the world, shortly before I
+  vanished from the net. Too many people doubted me and I didn't want to
+  be caught, so I just vanished from the net for a while, letting things
+  cool down.
+
+  Here recently, with the advent of the US release, I was in full swing
+  back on the net, roaming around, when I ran across people STILL
+  DRAGGING MY OLD, ROTTEN SHIT AROUND! It was hilarious. After 6 months,
+  there were STILL people believing that shit and starting fights over
+  it!!! I had had my name in several top magazines (Gamepro, EGM, PSX,
+  and a few others) with interviews with Square employees. The magazine
+  would ask them about Aeris and some guy named Lansing, and each square
+  employee denied all of it. And people still believed ME!
+
+  I am writing this to quench all rumors about Aeris and the completeness
+  of Final Fantasy 7. As Hironobu Sakaguchi said in an interview with one
+  of the above-mentioned magazines : "Final Fantasy 7 was completed to
+  the best of our ability and funding."
+
+  If any of you question who I am, why not drop by #squareff7 on DALNet
+  one day and let me know you don't believe that I am Ben LAnsing. I
+  will do whatever it takes to prove it ... Zakna is still around
+  sometimes in #aeris also ... and he knows my nick - Dariakus. Yes, I'm
+  Dariakus. One of the leading ops on the #squareff7 channel on DALNet
+  and also the head coordinator and HTMLer of the upcoming Web Guide for
+  FF7.
+
+  Oh well. If you guys still want to sling my shit around, that's cool
+  and all, but you will be doing it KNOWING that you are an idiot, cause
+  the SOURCE OF THAT RUMOR (myself) HAS JUST TOLD YOU ALL THAT IT WAS
+  FAKE. IT WAS A LIE. GET OVER IT AND MOVE ON WITH YOUR LIVES!!!
+
+  Sincerely,
+
+  Ben Lansing / Dariakus
+
+_________________________________________________________________________
+And here's Yukiyoshi Ike Sato's take on FF7's incompleteness:
+_________________________________________________________________________
+
+  Is Final Fantasy VII Incomplete?
+
+  by Yukiyoshi Ike Sato
+
+  Is Final Fantasy VII Incompete? This rumor has started out with a
+  stupid petition. Yes I am talking about the "Aerith Resurrection
+  Petition". Someone who supposedly named himself a former Square
+  employee said that the game was incomplete because they have taken out
+  the event where Aerith resurrects in the story. Due to time constraints
+  and unfinished programming codes, he accused Square of taking out the
+  necessary materias, items and events to prevent her resurrection. I
+  believe only one part of what he said is true.  Indeed, Square was in a
+  rush to finish the programming codes of the game. They did not finish
+  the coding by December 1996, which was the originally slated release
+  date. So they moved it a month further to Janraury 1997. At this point
+  in time, it is said that Square recruited all CG artists and engineers
+  outside their company all over the Tokyo district to help complete the
+  entire coding. That is why you will notice a lot of CG artists and
+  engineers who are creditted as outside contractors in the closing
+  credits of the game.
+
+  So what about those characters, materias, weapons and items that can be
+  found using Game Shark or Pro Action Replay codes? Well, let me explain
+  a few of them.
+
+    * The "Breathe Underwater" and the "Prevent Floor Damage" materia was
+      cancelled in the development stages. The battle/materia development
+      staff of FFVII thought it be wierd to have a dungeon with that
+      graphics to have a floor that induces damage while walking. Also,
+      Cloud could have been able to swim in the underwater areas without
+      the submarine with the "Breathe Underwater" materia after all the
+      underwater events were done. Think about it...its pointless because
+      there were no more events left, unless the players wanted it for
+      fun. This had nothing to do with the resurrection of Aerith either.
+    * The summon monster "Golem" materia was deleted because of battle
+      imbalances, instead, was changed into an enemy monster. Imagine
+      summoning Golem just like FFVI? That makes the game too easy
+      wouldn't it?
+    * The 4x Materia Growth weapon of Cloud and "Rising Sun", Yuffie's 2x
+      Growth Materia weapon, was also deleted because of battle
+      imbalances. I fully understand their intention because the game was
+      easy enough without them anyways.
+    * The character Bakusa the boxer does exist...but doesn't have a
+      name. It is actually refering to a goblin who appears as an enemy
+      in the Goblin Islands. Probably the person gave the name Bakusa
+      because the goblin did wear boxing gloves and "Goblin punch" was
+      his unique attack =)
+
+  Was Aerith suppose to resurrect? Did Square delete key items, events,
+  and CG movies for a cover-up? I don't think so...because I have full
+  proof of that.  The following has been taken from a book published by
+  Aspect called "FinaF Fantasy VII Kaitai Shinsho", and here, the
+  character designer and the story writer of FFVII, Nomura Tetsuya
+  quotes:
+
+  "Actually, we only had Aerith at the beginning, and Tifa did not exist.
+  But on a Sunday evening, I phoned the director Mr. Kitase and suggested
+  'Let's kill Aerith and put in Tifa' (laughs). So now we have two
+  heroines, and we never had an event where one of them dies."
+
+  The truth can sometimes be too shocking....so based on this, Nomura
+  Tetsuya had the intention of killing off Aerith in the story and
+  completely denies the fact of Aerith's resurrection.
+
+  Some minor things I would like to point out. The ending CG movie
+  originally composed of more than one sequence. But this has nothing to
+  do with Aerith's resurrection. Some of you may have read in a magazine
+  that there was suppose to be an extra sequence where it will feature
+  Yuffie and Vincent. Because Yuffie and Vincent are optional characters,
+  there is a chance one of the two is missing in your gameplay. And if
+  they add each of the three additonal sequences (with Yuffie alone,
+  Vincent alone, and Yuffie and Vincent together) during the ending, it
+  would cause the loading time to slow down, which would ruin the ending
+  CG movie. That is why they deleted the sequence.  It's too bad we won't
+  be able to see Yuffie or Vincent in any of the CG movies....*sniff*
+
+  This is just my personal guess but, one FMV sequence seems to be
+  missing (not deleted) ...it is the part where Ultima Weapon dies and
+  explodes creating a giant crater near Cosmo Canyon. In the Japanese
+  version, it was quite obvious "something" was missing, because
+  immediately after defeating Ultima Weapon, the screen turns black for a
+  few seconds, and then shifts back to the field map with a giant crater
+  near Cosmo Canyon. What caused appearance of the giant crater? It had
+  to do something with Ultima Weapon based on deduction. I am guessing
+  that the additional FMV sequence in the U.S. version may point out to
+  this one.
+
+  Also, there are several bugs in the Japanese version. For example,
+  start a new game with Disc 2 inside the Playstation. Then switch it
+  back to Disc 1 when it asks you to. The opening sequence changes from
+  the usual Midgar close-up to the scene where Cloud buries Aerith...a
+  phenomenal opening! =)  But this trick will not change anything in the
+  gameplay and Aerith will not ressurect either. But you have to expect
+  bugs in every game thats been released...this doesn't prove as evidence
+  of FFVII being incomplete. Hopefully, Square will fix them in the U.S.
+  version.
+
+  In conclusion, the Japanese version of Final Fantasy VII is not
+  incomplete. I think the only part I consider incomplete is the FMV
+  sequence of Ultima Weapon, and nothing more. Aerith was never suppose
+  to resurrect, and that is FINAL!!! No more arguments please!!! If the
+  U.S. version will indeed include a resurrection of Aerith, I think that
+  will completely destroy the game...inside and outside the story board.
+  So if you think the Japanese version is really incomplete and the U.S.
+  version is going to be better and complete, I think that's a pretty
+  selfish thought. To me, the Japanese version is complete and the
+  changes in the U.S. version is something like a patch file.
+
+  Feel free to send your comments, suggestions, arguments, corrections,
+  or addtional information to caladbolg@geocities.com.
+
+_________________________________________________________________________
+Here's Andrew Vestal's take on the whole Aerith rumor:
+_________________________________________________________________________
+                         Why Final Fantasy VII is Complete
+
+  Many have written me, concerned:
+
+  Aerith dies. You can't bring her back.
+
+  You ask that I start a petition--after all, my first one worked! Square
+  rushed the game, you say, and released it before it was finished.
+  Originally, you could bring her back! Make Square give us the TRUE
+  Final Fantasy VII!
+
+  And I smile and politely go about my day's business. But, lately, I
+  have received too many of these letters to ignore them, and I must I
+  make my views known.
+
+  Square is a video game publisher: they make games. Why? To make money.
+  But, then, why are movies made? TV shows aired? Books published?
+  Magazines written? Newspapers produced? For the same reason: to make
+  money. Only a fool, however, would argue that no important movie or
+  book had ever been made. Rightful works of art have appeared in each
+  medium.  And Square has done more than any other video game publisher
+  to move video games out of the realm of mere children's entertainment
+  and into their rightful place alongside other media.
+
+  Square delayed the release of Final Fantasy VII by a full month. They
+  have also delayed the release of Final Fantasy Tactics, SaGa Frontier,
+  Bushido Blade, and Tobal 2. Every Playstation game announced to date!
+  Their profits for the year took a serious hit. Their stock value
+  wavered. Yet the games were delayed because a substandard product
+  would not be worthy of the Square name.
+
+  But Square, sadly, can't delay games forever. Final Fantasy VI's
+  ending was originally to have an Amano sketch for each character, but
+  cartridge limitations demanded they be cut. Chrono Trigger's End of
+  Time was to be majestic and crystalline. Characters such as Janus and
+  Schala were, tragically, cut at the last moment. And who knows what
+  other parts of Square's games never made the final cut? Square cannot
+  always put everything they want into a game; eventually, they must say
+  "the game is finished" and release it.
+
+  Some still insist the game is unfinished. I should start a petition to
+  demand the game be "fixed," they say. These people misunderstand the
+  power of the petition.
+
+  The Final Fantasy VII Translation Petition asked for fair and
+  equitable treatment. It asked that the game not be censored or cut;
+  that it remain in its original form; that Americans receive, finally, a
+  Final Fantasy game the way it was written. The petition was succesful,
+  and I am proud to have supported it, because it asked for justice.
+
+  A petition to demand the insertion of Aerith's ressurection, however,
+  would ask for preferencial treatment. It would selfishly demand more
+  than others have already received. It would ask Square to retouch a
+  finished product at gamers' whims. It would ask for these things out of
+  greed, and I cannot support it.
+
+  Square offers you the Venus de Milo, and you would send it back because
+  it has no arms.
+
+  There are rumors that an alternative, superior ending exists,
+  unaccessible because of Aerith's permanent death. Those rumors are
+  nothing but LIES. The ending you see is the ending Square originally
+  intended: the largest movie file on the third disc. The ending, as
+  well, is perfectly satisfactory; there's nothing "lackluster" about it.
+  A "better" ending (with Aerith ressurected) is an impossibility. If she
+  had been ressurected, then she would commit suicide before the end.
+  This is true!  Cloud would try to stop her and fail, for her death is
+  inevitable. Aerith knew her death was absolutely necessary. Do not
+  presume to know more than she.
+
+  And most importantly . . . Aerith should stay dead.
+
+      A dying man needs to die, as a sleepy man needs to sleep, and
+      there comes a time when it is wrong, as well as useless, to resist.
+           - Steward Alsop
+
+  Aerith's death is a tragedy. I truly do believe this. So was Tellah's.
+  So was General Leo's. So was the death of every person who ever
+  sacrificed themselves for a greater cause. But unlike deaths in
+  previous Square games, Aerith's death carries long-lasting
+  repercussions that echo long after her passing. For Aerith did not die
+  senselessly. Aerith meant to die.
+
+        Some people are so afraid to die that they never begin to live.
+             - Henry Van Dyke
+
+  Aerith knew her actions would mean her end. But she faced death anyway,
+  aware that only in death could she avert the coming disaster and save
+  her world. She gave her life intentionally, purposefully, and with full
+  knowledge of the consequences. No one ever, EVER forgets that; the
+  tragedy of her loss is what keeps the small party together.
+
+                   Do not go gentle into that good night
+                   Rage, rage against the dying of the light.
+                        - Dylan Thomas
+
+  Even in death her presence is felt. Her memory guides and leads the
+  party on its quest. Her spirit appears in silent reminder of her
+  selfless act.  Aerith died. She died! And she died honorably.
+
+                 Dear, beauteous death, the jewel of the just!
+                      - Henry Vaughan
+
+  If Prince Hamlet came back from the dead, would his indecision be
+  meaningful? If King Lear recovered, would we learn from his folly? And
+  if Aerith were disinterred mere hours after her death, would her
+  sacrifice have any importance? Square should be honored that the death
+  of a character brings about this outcry. It is touching testament to
+  the games' power: the characters are truly loved. And grief is a
+  natural reaction to the death of a loved one. As is denial. Now,
+  Square fans must proceed to the next stage: acceptance.
+
+      Do not stand at my grave and weep. I am not there, I do not sleep.
+      I am a thousand winds that blow. I am the diamond glint on snow.
+      I am the sun on ripened grain. I am the soothing, gentle rain.
+      When you awake in morning hush, I am the swift uplifting rush
+      Of quiet birds in circled flight. I am the stars that shine at
+      night.  Do not stand at my grave and cry. I am not there. I did not
+      die.
+         - Anonymous
+
+  Aerith Gainsborough gave her life so that the world might live. May she
+  rest in peace.
+
+                         . . . she smiled, in the end.
+                              - Cloud Strife
+
+
+_________________________________________________________________________
+Finally, here's some speculation about the 'disabled' Materia Orbs and
+the Aerith rumor from Ian Kelley:
+_________________________________________________________________________
+  Materia
+
+  11. Suichu Kokyu
+  16. Booster
+  ???? I have no clue whatsoever what the hell either of these Materia
+  do.  My best guess is that they were materias thought up very early in
+  the gamemaking process, and were scrapped very early on, since neither
+  of them seems to have abilities that make any sense whatsoever. I was a
+  little intrigued by the Suichu Kokyu one so I did a little
+  investigation on that using my computer...I'll talk about it later.
+
+  26. Housoku
+  This is great! I cracked up when I saw this one. It's a joke materia
+  put in by the programmers. "Housoku" means "Law" in the sense of what
+  lawyers do. The skill given was "Zeninage" (Throw money) so I guess the
+  programmers are trying to say you have to throw away your money if you
+  want to hire a lawyer. Hehehe...^_^
+
+  3F Mabarrier
+  42 Reflek
+  43 Refuab(???)
+  These were all pretty interesting. It gives you insight onto how the
+  programmers initially intended to make the Barrier type spells. The
+  first teahces you "Mabarrier" 3 times...obviously not a finished
+  Materia, like Booster. The description says it allows you to cast
+  "Mabarrier."
+
+  Reflek teaches you "Reflek" and "Wall," and Refuab (whatever the hell
+  that's supposed to be) teaches you Wall.
+
+  My best guess is this: When they first started programming the game,
+  they wanted to have all of the spells on the "Barrier" Materia that is
+  actually used on separate Materia. Then they decided to put Reflek and
+  Wall together on one materia, then just gave up and put Barrier,
+  Mabarrier, Reflek, and Wall all on one Materia, the one we see in the
+  game itself. If you do a little searching I bet you will find a Materia
+  with just "Barrier" on it, and maybe a Materia with Barrier + Mabarrier
+  on it.
+
+  Now for the stuff on the Suichu Kokyu Materia...
+  This interested me, cause for a moment I actually thought that Square
+  was being stupid enough at some point to actually be thinking about
+  having Aerith be ressurectable. Therefore, I booted up my Disk Block
+  Editor on my computer, and since I have Japanese system software on my
+  computer, I converted the ASCII values of each of the blocks to
+  Japanese fonts so I could read the dialogue. And this is what I found
+  that is *really* interesting:
+
+  It took me an hour, but I eventually found the section where
+  Bugenhargen is in the place where Aerith died. Around that area, I
+  found some lines of dialogue that I don't remember before.
+  (I am paraphrasing this cause I don't remember the lines verbatim)
+
+  1. "But at the floor of the ocean is impossible..."
+  The middle of this sentence started at the beginning of a sector but
+  the previous sector did not have the first part of the sentence...
+  possibly this could be if that the Ascii values for a single character
+  get split in half it turns the first part into garble, and it might
+  have split the character in the sector before. Either that, or the
+  beginning of the sentence is stored in another sector. Anyhow, this
+  came just like 2 sectors before the sentence where they talked about
+  whatever the hell it was you needed at the bottom of the ocean.
+
+  2. "[The] White Materia is necessary", literally.
+  This was about 10 sectors or so after the first line I don't remember.
+  Since this could mean anything, it might have been there before and I
+  just don't remember.
+
+  <KM's note - He actually says something like this in the game, I think,
+  although mind you that I don't know much Japanese.>
+
+  Anyhow, after seeing this, I have some possible theories for the
+  purpose of the Suichu Kokyu Materia. There's not a hell of a lot of
+  evidence, but my guess is that either:
+  1) The materia is needed to leave the submarine to get the key or
+  whatever the hell it was underwater that you needed to get. Either
+  that, or the programmers initially intended for you to go underwater
+  some way other than the sub to get that key.
+  2) The materia is needed to get at the White Materia that dropped into
+  the Water right after Aerith gets killed.
+
+  I think the first theory makes more sense, since I found no dialogue
+  evidence towards a search or subquest for the White Materia, but it
+  does seem awfully strange that during that FMV sequence they show us in
+  minute detail whatis happening to the White Materia, when you would
+  think that they would be focusing on Aerith, who is in the process of
+  dying. ^_^ My best bet though is that that Materia would be needed to
+  let you get out of the sub, either to retrieve the key or whatever, or
+  enter the sunken plane.  It does make sense...after all, the monsters
+  in the sunken plane are stronger than most of the monsters in the last
+  dungeon, yet you get access to that place towards the beginning of Disk
+  2. If there was supposed to be some key to getting in there that you
+  could only get *after* getting the sub, it might make sense, and the
+  Suichu Kokyu Materia would be a prime contender IMO for that key, if
+  such a situation really were to exist. Of course, this is all just
+  conjecture. It is really interesting though, and I plan to do more
+  research...including finding the exact address values of any fishy
+  dialogue I see. It's cool, with those earlier Barrier Materias, you can
+  see how the programmers planned the game mechanics to go one way, then
+  changed their minds. It's a waste of space though to leave stuff like
+  that in; they should have just deleted it.
+
+  And oh yeah, one other thing...a search for the ascii values of
+  the word "Fukkatsu" (Revive, bring back to life, etc.) turned up
+  nothing that had anything to do with Aerith...I guess the rumor about
+  her ressurection being possible in any way, shape, or form was just
+  some guy jumping to conclusions. Oh well, I guess it's more dramatic
+  anyway to have her die and stay dead anyway. And it wouldn't make sense
+  to have Square revive a dead character in one of their games, that's
+  not like them anyway. The closest they came to that was in Chrono
+  Trigger, but that was less a revival and more of a "jump in time + grab
+  him before he gets killed" kind of thing.
+
+_________________________________________________________________________
+(All the information below is from PSX Power <www.psxpower.com> except
+where mentioned)
+_________________________________________________________________________
+
+ - 'The overall difficulty setting during battle sequences will be
+    balanced.'
+
+ - 'The interface with the Materia exchange will be improved, allowing
+    gamers more choices during gameplay.'
+
+ - 'Additional "Weapon" monsters have been added.'
+
+ - 'A few select scenes have been augmented to clarify the storyline.'
+
+ - You will now have 10 spaces to enter a character's name instead of
+   six (this info comes from the UnOfficial Squaresoft Homepage).
+
+
+=========================================================================
+7 . 0    AFTERWORD
+=========================================================================
+
+-------------------------------------------------------------------------
+7 . 1    Special Thanks
+-------------------------------------------------------------------------
+
+I'd like to thank the following people for their contributions:
+
+Ian Kelley              <ikelley@mail.sas.upenn.edu>
+                        [http://www.sas.upenn.edu/~ikelley/]
+
+Andrew Vestal           <webmaster@square.net>
+                        [http://www.square.net/]
+
+Ignacio Lucas           <delucas@hotmail.com>
+
+Tomo1657                <tomo1657@aol.com>
+                        [members.aol.com/tombo1657/music/midi.htm]
+
+Yukiyoshi Ike Sato      <caladbolg@geocities.com>
+
+'a little bird'         <???>
+
+
+-------------------------------------------------------------------------
+7 . 2    Author's Note
+-------------------------------------------------------------------------
+
+Well, that was an interesting ride, wasn't it?  Maybe this will stop the
+rampant rumors (right)!  In any case, if you have any corrections,
+comments, additions, or complaints, lob them to <kmegura@yahoo.com>
+You can also check out my shiny 'new car smell' homepage at:
+
+                    www.fortunecity.com/bally/orange/25/
+
+Where you can find all my FAQs and more.  A quick note to people who
+want to know:
+
+I _have_ a Final Fantasy 7 American/English FAQ!  It's not this one!
+Go to my homepage, www.gamefaqs.com, or www.square.net if you want it!
+
+My FF7 Japanese FAQ is split into two parts: Complete Walkthrough and
+Extra Stuff You Should Know.  See how it says 'Japanese' in the title?
+That means that you shouldn't use it along with your US copy of FF7!
+Don't bother sending me corrections for it as I won't be updating it
+any time soon (c'mon folks, it's practically a Meg in size now--it's
+done, don't you think?)
+
+Finally, this Changes FAQ will in no way help you with gameplay, so
+if you need help playing this game, please refer to one of my FAQs.
+
+----------------------------------------------------
+"What can I do for you?"  "Hehe, thank you!"
+               - Master Librarian, Castlevania: SotN
+----------------------------------------------------
+
+FINAL FANTASY VII: CHANGES FAQ v0.3                   (c) K. Megura 1997

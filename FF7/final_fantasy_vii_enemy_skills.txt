@@ -1,0 +1,105 @@
+Date: Thu, 11 Jun 1998 19:44:48 EDT
+
+Final Fantasy VII
+Enemy Skill list(ver.1.1) by Chocobo282
+
+Skill                              Effect              Enemy(s)         Location
+
+Angel Whisper          Revives, restores HP           Pollensalta       The Crater
+                       and status to one ally.
+
+Aqualung               Water damage on all            Jenova Life       City of the Ancients
+                       opponents.                     Harpy             GS Desert
+                                                      Serpent           Downed Plane
+
+Bad Breath             Causes [poison/confu/          Malboro           Gaea's Cliff     
+                       sleepel/small/frog/silence/]                     The Crater
+                       on all opponents.
+
+Beta                   Fire damage on all             Midgar Zolom      CF Swamp
+                       opponents.
+
+Big Guard              Uses[barrier/Mbarrier/         Beach Plug        Costa del Sol Beach
+                       haste] on all allies.          Wolfmeister       Coal Train
+
+Chocobuckle            Non-elemental damage          *Chocobo with      Use L4 Suicide 
+                       one opponent.                  level that is a   on Chocobo.
+                                                      multiple of 4.
+
+Death Force            Makes one ally immune          Adamantaimai      West Continent Beach
+                       to death.
+
+Death Sentence         Pronounces death sentence      Bound Fat         Bone Village
+                       on one opponent.               Gi Spector        Cave of the Gi         
+                                                      Sneaky Step       Cave of the Gi
+
+Dragon Force           Raises defense and             Blue Dragon       Gaea's Cliff   
+                       Mdefense of one ally.          Dark Dragon       The Crater
+
+Flame Thrower          Causes fire damage on          Ark Dragon        Mithril Mine                              
+                       one opponent.                  Dragon            Nibelheim Mts.
+
+Frog Song              Causes[frog/sleepel] on        Touch Me          CC Forest
+                       one opponent.                  Toxic Frog        Temple of the Ancients
+
+Goblin Punch           Non-elemental damage           Goblin            Goblin Island
+                       to one opponent.
+
+
+
+Laser                  Halves the HP of one           1st Ray           Reactor
+                       opponent.                      Bullmotor         GS Prison
+                                                      Dark Dragon       The Crater
+                                                      Death Claw        GS Prison
+
+L4 Suicide             Causes[critical/small]         Mu                Chocobo Farm
+                       to opponents with levels       Trick Play        Icicle area
+                       that are multiples of 4.
+
+L5 Death               Causes[death] to               Parasite          The Crater
+                       opponents with levels that
+                       are multiples of 5.
+
+Magic Breath           Fire/Ice/Lightning damage      Parasite          The Crater 
+                       to all opponents.              Stilva            Gaea's Cliff
+
+Magic Hammer           Drains 100MP from one
+                       opponent.                      Razor Weed        West Continent
+
+Matra Magic            Non-elemental damage           Bullmotor         GS Prison
+                       on all opponents.              Custom Sweeper    Midgar Area
+                                                      Death Machine     Junon
+
+Pandora's Box          Big damage to all              Dragon Zombie     The Crater
+                       opponents, ignores defense.
+
+Roulette               Randomly uses [death] on       Death Dealer      The Crater
+                       one opponent or ally.
+
+Shadow Flare           Big non-elemental damage       Safer Sephiroth   The Crater
+                       on one opponent.               Ultimate Weapon   Above Cosmo Canyon
+                                                      Dragon Zombie     The Crater
+
+Trine                  Lightning damage on all        Materia Keeper    Nibel Mts.
+                       opponents.                     Godo              Wutai 
+                                                                        Stilva                      Gaea's Cliff
+
+White Wind             Restores HP and status         Wind Wing         Whirlwind Maze
+                       to all allies.                 Zemzelett         Condor Mts.
+
+????                   Does damage equal to the       Jersey            Shinra Mansion 
+                       user's max HP/HP.              Behemoth          Sector 8
+
+*When getting the Chocobuckle skill You must first give the chocobo greens
+ then use L4 Suicide.
+
+THANKS TO:
+Derek24650
+And Squaresoft for such a GREAT game.
+
+This list is still incomplete if you find any enemies that aren't on here,
+ Please email me the Enemy 1.Name 2.Skill 3.Location
+any body who emails me will be recognized in future Versions if they so wish.
+
+This List is the work of Chocobo282 [Chocobo282@aol.com]1998
+

@@ -1,0 +1,35 @@
+Updates:
+9/3/2000 Header added, bit numbering section rewritten
+
+The most recent copy of this document can be obtained from the Tower of Bab-Il
+(http://minitrue.weyland-yutani.net/tower/index.html).
+
+This document uses normal bit order (bit 0 is the least significant bit).
+
+All text documents, including this one, were written and maintained with the
+MSDOS edit.com program, and are meant to be viewed with a fixed-width font.
+
+All numbers on this page are in hexadecimal unless stated otherwise (such as
+by being written out in words). All data addresses in these documents take the
+form of offsets into the ROM file, including the header added by game back-up
+units, which is 200 bytes long. When working with headerless ROMs, subtract
+200 from all such addresses. Code addresses are written in the form XX:XXXX,
+which reflect the actual values of the program bank and program counter
+registers (and therefore do not include the header).
+
+Two schemes of bit numbering are used here: "normal" and "reverse". At the
+beginning of each document it is indicated which is used (if the document
+specifies any bit numbers at all). In the "normal" bit numbering scheme, the
+bits are numbered from least significant to most significant, starting with 0.
+In the "reverse" bit numbering scheme, bits are numbered from most
+significant to least significant, starting with 0.
+
+During execution of most FF2 code, the A register is 8 bits wide and the X and
+Y registers are 16 bits wide. The D register is always 0, allowing the
+accumulator to be cleared with a simple TDC instruction (the code does this a
+LOT). The DB register is usually 7E, pointing into WRAM, unless hardware
+registers are to be accessed.
+
+Please be aware that two different versions of the FF2 ROM were produced; the
+information contained on this page pertains to version 1.0 (known to Game
+Genie owners as version "A").
