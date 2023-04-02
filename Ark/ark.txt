@@ -1,0 +1,113 @@
+Dino Special Abilities
+----------------------
+
+https://survivetheark.com/index.php?/forums/topic/52216-pvppve-dino-tier-list/
+
+Lystro
+	Pet to boost XP gain (x1.35) of all nearby tames for 5 minutes
+
+Oviraptor
+	Wander: Increase nearby lay egg chance, decrease mating time
+
+Dung Beetle
+	Wander: Feed Feeces and it converts to Fetilizer and Oil
+	Level up Weight only
+
+Ankylo
+	85% weight reduction on Metal (raw)
+
+Doedi
+	75% weight reduction on Stone
+	Wander: collect Stone until 50% height
+
+Argent
+	Attack 2: Carry small and mid-sized dino (including Wild!) on claw
+	Attack 3: Carry small dino on beak
+
+Dimetro
+	Insulation, perfect for hatching eggs (Melee)
+
+Parassaur
+	Attack 1: Gather berries
+	Attack 2: Area scan for hostile dinos
+	Attack 3: Honk to scare most small and mid-sized dinos
+	Turret Mode: immobile, greater food consumption, continuously uses Scan and Honk
+
+Iguanodon
+	Attack 2: Toggle Bipedal/Quadrupedal
+		Bipedal: attack
+		Quadrupledal: fast run, jump, infinite stamina
+
+Moschops
+	Coward: Agreesive = flee on threats, Neutral = flee if attacked
+	Wander: collect Berries, Thatch, Wood; also special resources on proper biomes
+	Attack 1:
+		Bushes: collect Fibers, Berries, chance of special resources on proper biomes
+		Corpses: collect Meat, chance of Prime Meat
+	Special Resources: if Attack or Wander on proper Biomes, chance of collecting special resources
+		Rare Flower: Swamp Bushes
+		Rare Mushroom: Swamp Trees
+		Prime Meat / Prime Fish Meat: Corpses
+		Organic Polymer:  Kairuku, Mantis, Hesperornis or Karkinos
+		Leech Blood: Leech, Deathworms or Lampreys
+		Sap: NOT on The Island
+
+Shoulder Pets
+-------------
+
+- All have weight reduced by 50% when carried, so level up Weight
+
+Mesopitecus [Monkey]
+	Throws feces to slow down targets (Melee)
+
+Otter [Lontra]
+	Insulation, perfect for hatching eggs and self (Melee)
+	Harvest Pearls of Fish
+
+
+BUILDING
+--------
+
+Use temporary ladders on walls to precisely align player with walls and foundations
+
+Lower Foundations (if ground not too below)
+	Pillar on Foundation Canter
+	Foundation next to it, snapping on pillar lowered snap point
+
+Infinite Even Floor
+	Start on highest ground
+	Foudation, center Pillar x 2 raising, ceiling x2, pillar center
+	pillar lowering from pillar using bottom snap point
+	demolish center pillar
+
+Circular Bases (12 sides)
+	6 triangle foundations at center
+	6 foundations (regular, square) extending from each triangle
+	6 triangle foundations in the gaps
+
+45 degrees foundations/ceilings (require no clipping)
+	3 foundations, L shaped (2x2 missing a corner)
+	fence support on outer edge
+	45 degree fence support towards the missing corner, snapping on previous
+	extend previous with another fence support (to reach the other edge)
+	1 wall on each of the 2 previous supports (will be 45 angled)
+	1 ceiling snapping on the bottom of each of the previous walls
+	demolish walls
+
+
+WEAPONRY
+--------
+
+Tranquilizer Arrows deal less damage than regular Stone Arrows
+Crossbow works underwater and is a great mid-game general-purpose weapon
+Compound Bow is only better than Crossbow if using Metal Arrows
+
+
+FARMING
+-------
+All plot sizes wield the *same* amount at the same rate
+Difference is only water capacity, and seed requirements: Vegs need medium, Plant X turret need large
+Maxed out cops (300 berries, 150 vegs) consume substantially less Fertilizer
+3x3 Greenhouse enough for 300%: https://www.youtube.com/watch?v=8SdI2Piau0c
+	Only Wall, Ceiling and Sloped Roof count
+	Faster growth, same Fertilizer consumption, but indirectly less as it maxes out faster.

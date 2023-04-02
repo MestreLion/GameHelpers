@@ -1,0 +1,287 @@
+Guidelines
+==========
+- When inventory full:
+	- Wear best armor to find if cursed, read scrolls to un-curse
+	- If Plate Mail (best armor): Wear and Read scrolls to enchant
+	- If Long Sword / 2-Handed Sword: wield and Read scrolls to enchant
+
+
+Monsters at Levels
+==================
+Also see /dados/Install/Jogos/DosBox/Jogos/Rogue/docs/rodrigo.txt
+
+- EQUZ are never Level monsters
+- DFLNX are never Wander monsters
+- For other monsters, both Level and Wander first and last level are the same.
+- Treasure Rooms have monsters of next level
+
+- L  3 is the last with no special habilities monsters (no RAWVMD)
+	Qualf all potions for a chance of Gain Str give +1 max Str
+- L  7 is last before A, but has many R (14.4%, 3rd most common, tied with I)
+	Best XP level if you have no leather and 1-2 Restore Strength potions
+	Wear Leather Armor before going down to level 8
+- L 10 is the last level with chances for lit rooms (11% per room)
+- L 12 is first T level, the first deadly monster
+- L 14 is first without R, but full of A (18.3%, 2nd) and tough monsters: QAYCTWZ
+	Qualf Restore Str potions
+	Best XP level if you have leather or no Restore Strength (and can handle W and T)
+- L 16 debuts U, and 17 enters G. A is still around, so good luck without leather!
+	Pray for mazes with fat loops. And lots of rest (if you have the food)
+- L 18 is first without A, but M debuts. And WTPYUGQM is a *very* deadly combo.
+	Time to run!
+- L 20, 21, 22 debuts V, J, D. Run babe, run!
+
+Monsters level range: first and last level of each monster, sorted by level:
+{
+"K": [  1,  6 ],
+"E": [  1,  7 ],
+"B": [  1,  8 ],
+"H": [  1,  9 ],
+"I": [  1, 10 ],
+"S": [  2, 11 ],
+"O": [  3, 12 ],
+"R": [  4, 13 ],
+"Z": [  5, 14 ],
+"L": [  6, 15 ],
+"C": [  7, 16 ],
+"A": [  8, 17 ],
+"Q": [  9, 18 ],
+"N": [ 10, 19 ],
+"Y": [ 11, 20 ],
+"T": [ 12, 21 ],
+"W": [ 13, 22 ],
+"F": [ 14, 23 ],
+"P": [ 15, 24 ],
+"U": [ 16, 25 ],
+"G": [ 17, 26 ],
+"M": [ 18, 32 ],
+"X": [ 19, 32 ],
+"V": [ 20, 32 ],
+"J": [ 21, 32 ],
+"D": [ 22, 32 ]
+}
+Monster distribution in each level, sorted by most frequent monster:
+{
+ "1": "KBHIE",
+ "2": "KBHIES",
+ "3": "BKHIESO",
+ "4": "BHIKSEOR",
+ "5": "HIBSOKREZ",
+ "6": "ISHOBRKEZL",
+ "7": "SOIRHBZLCE",
+ "8": "ORSIHCZLBA",
+ "9": "ROSCZLIAHQ",
+"10": "RCOALZSIQN",
+"11": "CARLOZQSNY",
+"12": "CARLQYZNOT",
+"13": "ACYQNTLZRW",
+"14": "AYCTQNWLZF",
+"15": "YTAWNQCPFL",
+"16": "YTWAPNQFCU",
+"17": "TWYPFNQUAG",
+"18": "WTPYFGUMNQ",
+"19": "PWTGFUYMNX",
+"20": "PGWMUTFYXV",
+"21": "GPMUWVFXTJ",
+"22": "GMPVUJXWFD",
+"23": "MVGJXPUDF",
+"24": "VMJGXDUP",
+"25": "VJMXDGU",
+"26": "JVMDXG",
+"27": "JVMDX",
+"28": "JVMDX",
+"29": "JVMDX",
+"30": "JVMDX",
+"31": "JVMDX",
+"32": "VJMXD"
+}
+
+WANDER, first and last, sorted by level:
+{
+"D": [   ,    ],
+"F": [   ,    ],
+"L": [   ,    ],
+"N": [   ,    ],
+"X": [   ,    ],
+"K": [  1,  6 ],
+"E": [  1,  7 ],
+"B": [  1,  8 ],
+"H": [  1,  9 ],
+"I": [  1, 10 ],
+"S": [  2, 11 ],
+"O": [  3, 12 ],
+"R": [  4, 13 ],
+"Z": [  5, 14 ],
+"C": [  7, 16 ],
+"A": [  8, 17 ],
+"Q": [  9, 18 ],
+"Y": [ 11, 20 ],
+"T": [ 12, 21 ],
+"W": [ 13, 22 ],
+"P": [ 15, 24 ],
+"U": [ 16, 25 ],
+"G": [ 17, 26 ],
+"M": [ 18, 26 ],
+"V": [ 20, 26 ],
+"J": [ 21, 26 ]
+}
+WANDER distribution in each level, sorted by most frequent monster:
+{
+ "1": "KEBHI",
+ "2": "KEBHIS",
+ "3": "EBKHISO",
+ "4": "BHEIKSOR",
+ "5": "HIBSEOKRZ",
+ "6": "ISHOBREZK",
+ "7": "SOIRHZBEC",
+ "8": "ORSZIHCBA",
+ "9": "RZOSCIAHQ",
+"10": "ZRCOASQI",
+"11": "CZARQOSY",
+"12": "CAQZRYOT",
+"13": "AQCYZTRW",
+"14": "QAYCTWZ",
+"15": "YQTAWCP",
+"16": "YTWQAPCU",
+"17": "TWYPQUAG",
+"18": "WTPYUGQM",
+"19": "PWUTGYM",
+"20": "PUGWMTYV",
+"21": "UGPMWVTJ",
+"22": "GMUPVJW",
+"23": "MVGJUP",
+"24": "VMJGUP",
+"25": "VJMGU",
+"26": "JVMG"
+}
+
+
+Messages
+========
+
+http://www.rots.net/rogue/magic.html
+
+### Potions
+Blindness	a cloak of darkness falls around you
+Confusion	wait, what's going on? Huh? What? Who?
+Extra healing	you begin to feel much better
+Gain strength	you feel stronger. What bulging muscles! / you feel stronger, now. What bulging muscles!
+haste self	you feel yourself moving much faster
+healing 	you begin to feel better
+magic detection	you sense the presence of magic. / you sense the presence of magic on this level. / OR you have a strange feeling for a moment, then it passes [no magic items on this level]
+monster detect	[monster appears on map] OR you have a strange feeling / you have a strange feeling for a moment [no monsters on this level]
+paralysis	you can't move
+poison  	you feel very sick now. / you feel momentarily sick
+raise level	you suddenly feel much more skilful
+restore str	you feel warm all over. / hey, this tastes great. It makes you feel warm all over
+see invisible	this potion tastes like mango juice
+thirst quench	this potion tastes extremely dull
+[no effect]	what an odd tasting potion!
+
+### Scrolls
+aggravate mon	you hear a high pitched humming noise [Every monster in the level is looking for you!]
+create monster	you hear a faint cry of anguish / you hear a faint cry of anguish in the distance
+enchant armor	your armor glows faintly / your armor glows faintly for a moment
+enchant weapon	your weapon glows blue / your weapon glows blue for a moment OR you feel a strange sense of loss [if not wielding a weapon]
+food detection	your nose tingles as you sense food [BONUS:Also detects Amulets!] OR you hear a growling noise close by / you hear a growling noise very close to you [no food on this level]
+hold monster	[holds all monsters within 1 or 2 spaces of the hero]
+identify	this scroll is an identify scroll
+magic mapping	oh, now this scroll has a map on it
+mons confusion	your hands begin to glow red
+Scare Monster	you hear maniacal laughter / you hear maniacal laughter in the distance [DON'T read! Drop it instead, no monster will attack until you step off it]
+sleep   	you fall asleep
+teleportation
+remove curse	somebody is watching over you / you feel as if somebody is watching over you
+vorpalize weap	your weapon gives off a flash / your weapon gives off a flash of white light [+1 +1 to all monsters, +4 +4 and zap once a particular type of monster]
+              	[5% chance curse weapon unless save versus magic] OR you feel a sudden desire to kill [saved vs magic] OR your weapon vanishes in a puff of smoke [vorpalize twice]
+[no effect]	this scroll seems to be blank 
+
+### Rings - Additional food consumption
+add strength	1
+adornment	0
+aggravate mons	0
+dexterity	1-3
+increase damage	1-3
+maintain armor	1
+protection	1
+regeneration	2
+searching	1-4
+slow digestion	adds 0-1
+stealth 	1
+sustain str	1
+
+
+### Staffs / Wands
+cancellation	Reveals invisible or disguised monsters
+cold    	ice
+drain life	you are too weak to use it [less than 2 HP] OR you have a tingling feeling [no monsters around]
+fire    	flame
+haste monster	speeds monster up
+light   	the room is lit by a shimmering blue light OR the corridor glows and then fades [in a corridor] OR you feel a warm glow around you [when blind]
+lightning	bolt of lightning
+magic missile	The missile vanishes in a puff of smoke [monster saved versus magic]
+polymorph	Turns monster into another monster [not necessarily an easier one]
+slow monster	slows monster down
+striking	does serious damage to monster (2d8 w/ +4 to hit, 5% chance of 3d8 w/+9 to hit)
+teleport away	moves monster to a different room
+teleport to	moves monster right next to you
+vorpalized weap	the monster vanishes in a puff of smoke [zapped correct monster] OR you hear a maniacal chuckle in the distance [wrong monster]
+[no charges]	nothing happens
+[undefined]	what a bizarre schtick!
+
+### Armor
+Plate mail                (AC 7)
+Banded mail               (AC 6)
+Splint mail               (AC 6)
+Chain mail                (AC 5)
+Scale mail                (AC 4)
+Ring mail                 (AC 3)
+Studded leather armor     (AC 3)
+Leather armor             (AC 2)
+ - this does not rust
+Nakedness                 (AC 0)
+
+
+### Levels
+          1: H's K's E's B's S's
+             (no hidden passages first level)
+          2: Ice monster
+          3: Rattlesnake - first experience with losing strength
+          4: Orc & Zombie - chuckle
+          5:
+          6: Leprechaun - last easy level
+             (Some people read scrolls before going down)
+          7: Centaur - kills whimpy characters
+          8: Quagga
+          9: Aquator - watch your armor
+         10: Nymph - (last level of lit rooms)
+         11: Yeti
+         12: Flytrap - could be tough
+             (quaff restore strength at end of level)
+         13: Troll - first real test!
+         14: Wraith - watch out
+         15: Phantom
+         16: Xerox - attack those stairs
+         17: Black Unicorn - Very mean!
+         18: Medusa - Top killer of promising characters!
+             (start to smell the amulet)
+         19: G's J's & V's - Ouch!
+         20: Dragon - (last level of new monster types)
+    21 - 25: Levels most commonly run through for the amulet
+             (This means going down the stairs as soon as 
+              they're found)
+         26: Amulet of Yendor! 
+             (Can now go up or keep going down)
+    27 - 29: More of the same
+    30 - 31: monsters get two moves to your every one! (MOST DEADLY)
+             - Slow monster will move them down to normal speed
+             - Haste self will make you get 2 turns, then they get 2
+               turns , etc. etc.
+             - monsters are worth 2 X's the exp. pts.
+             - monsters zapped with slow monster are only worth normal exp.
+       32+ : ?
+
+
+ * levels are different on the way up than they were on the way down *
+ * there are no more magic items & the only gold you find is gold
+   you passed up on the way down. Even N's and L's have nothing

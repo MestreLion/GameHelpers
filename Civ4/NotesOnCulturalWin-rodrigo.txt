@@ -1,0 +1,472 @@
+Notes on Cultural Win
+======================
+
+Overview:
+
+3 Legendary Cities:
+- GPP Farm - culture from Artists.
+- Cottage City - culture from Commerce+Slider
+- Mix of Wonder/Production, Cottage
+
+Capital is usually one of them (Wonder or GPP)
+
+9 Cities required total (see Religion)
+
+City with least Culture/turn gets Hermitage (+100% Culture)
+City with least total Culture gets Great Artists' Culture Bombs (+4000 Culture)
+
+Don't bother wth Culture slider until 1800 AD. That's still 59% of game total, or 190 turns left
+1920 AD is 72%, 130 turns left - 385 Culture/turn for 50000 Culture
+
+Happiness will not be an issue after Liberalism, so favor health resources. Also Hereditary Rule
+
+Religion
+--------
+- The more, the better. Every Religion gives +50% Culture via Cathedral
+- Does not need to found any religion.
+	Be careful with diplomacy! Always adopt the majority/neighbors religion, even if not yours.
+	If found, do not choose as State Religion unless neighbors also do so.
+	Founding religion may hamper the spread of foreign ones.
+	Founding in GP Farm not very good: Shrine will contaminate GPP gene pool, no place for Wall Street, no Merchants
+- Need 9 cities, no matter how many religions:
+	3 temples required per Cathedral, 3 temples * 3 Legendary Cities
+- Each city build the temple for all religions
+
+
+Civics
+------
+GOVERNMENT:
+	any will do
+	mid-game: Hereditary Rule (happiness issue before culture slider)
+	nice one: Universal Suffrage [Democracy] (1P from Town, Gold to finish builings)
+LEGAL:
+	* Free Speech [Liberalism] (+100% Culture, +2 Commerce from Town)
+	In times of war, Vassalage (+2XP, many support-free units, high upkeep) or Nationhood (Draft, 2H from barracks, No Upkeep)
+LABOR:
+	2 choices:
+	* Caste System [Code of Laws] (Unlimited Artists, Scientist, Merchant) - when GPFarm specialists > 5 or Legendary > 2
+	* Emancipation [Democracy] (+100% Cottage Growth, Unhappiness penalty for other Civs without it)
+ECONOMY:
+	any will do
+	nice one: State Property [Communism]: (No maintance from Distance to Palace, +1F from Workshop, Watermill) - if large empire, HUGE benefit
+	Descentralization (None) is fine until Free Market
+RELIGION:
+	* Pacifism [Philosophy] (+100% GPP, 1G per military unit, No Upkeep) - no upkeep makes it cheaper than Theocracy even with sizable armies
+	In times of war, Theocracy [Theology] (+2XP, no non-state religion spread, Medium Upkeep)
+	Until then, Organized Religion [Monotheism] (+25% build speed, High Upkeep) is a viable option
+
+
+
+Cottage City
+------------
+- Usually the 3rd to be built
+- Theory: full grassland, 20 pop, 20 cottages. 15 cottages is more realistic
+- Rivers are great, the more the better: +1C, Watermill -> Cottage
+- Some Grasshills welcome: Mine -> Windmill -> Cottage
+- 1 beefy food resource. 2 is nice, 3 is overkill. Only enough to counter non-grassland or production features
+	+4: Corn*, Wheat*, Fish, Pig
+	+3: Banana**, Clam, Crab, Deer, Rice*, Sheep (+1C)
+	+2: Cow (+2P), Sugar (+1C), Floodplains***
+	*: -1F if farm is not irrigated, +1F with Biology
+	**: Requires Calendar, a bit far from start
+	***: Not a resource, but a terrain feature that happens on desert only.
+	     0 from tile + 3 from feature + 1 from farm = 4 = +2 surplus
+- Gems are perfect: +6C (only 1 short of a full Town with Free Speech), and nice +1P (+1P if grass hill)
+- Production is hard: via forrest chops, grassland mines/windmills/towns, plains. Cows, Horse, Ivory also helps
+- Heavily dependent on Culture Slider
+
+- National Wonders:
+	Hermitage      (+1 GPP[GA])      - 100% Culture. For the weakest Culture/Turn city
+
+- Case Study: Brasília
+	Founded 1806
+	Emancipation civic active, Biology in 1858, Communism in 1906
+	Terrain: 2 plains, 2 grasshills, 1 ocean (city not coastal, so 1F), river
+	Features: Corn + Banana (+8F after bio), 2 Watermills, 2 windmills: 7F surplus
+
+- Breakdown (Recife, Monarch, Continents):
+	Commerce: 110
+	105	15 Towns * 7C
+	  5	from trade routes, river, terrain, resources, etc
+	110	Base Commerce
+	Culture: 130
+	100	90% culture slider
+	 10	Building Culture: 50% of 20 Base Production
+	 20	Buildings: Library, University, Theater, Temples, Monasteries (double culture after 1000 years)
+	Multipliers: 350
+	+100%	Free Speech Civic
+	+100%	Hermitage
+	+150%	3 Cathedrals (assuming 3 religions)
+
+	TOTAL: 585 Culture/turn, enough to win from scratch in 85 turns (+ ~100 to build up city)
+
+	Worst case: assuming only 1 religion, only 12 cottages, 80% slider, no hermitage
+	[ (84 + 5) * 80% + 10 + 10 ] * +150%  = 228, enough to win in 220 turns (less than half the game)
+
+
+- Breakdown (Brasília, Emperor, InnerSea):
+	 63	9 cottages  (max 11 w/ forests, 15 w/o)
+	  6	Rivers (+2 if forests down)
+	 10	Trade routes (3, all foreign, Free Market, not coastal)
+	 79	Base commerce
+
+	 79	Base Commerce * 100%
+	 22	buildings (will be more)
+	 14	Settled Great Artist
+	115	Base Culture
+
+	345	Total Cuture (+200% from Free Speech + 2 Cathedrals)
+
+
+
+GPP Farm
+---------
+
+- Artists will produce Culture and Great Artists (Culture Bomb)
+
+- Floopplains, Beefy Food resources
+
+- Health will be issue, so: River (also commerce), Coastal (harbor) if few costal titles. And keep forests.
+
+- GPP are about food *surplus*, not huge pop. Keep pop small to avoid hitting health cap
+
+- Preferably not the capital: early game will suffer from few cottages, mid game will suffer from low hammers
+
+- World Wonders:
+	Avoid building, let the Wonder/Production/Capital build them
+	If built, be the ones that generate Artist GPP *ONLY*, or great person will be different
+
+- National Wonders:
+	- National Epic (+4C, +1GPP[GA]) - +100% GPP
+	- Globe Theater (+6C, +1GPP[GA]) - No Unhappiness, allows 3 artists
+
+- Artists Allowed:
+	2 Theater
+	3 Globe Thater
+	2 Broadcast Tower (very late in game)
+	1 Mercantilism (lame Civic)
+
+- Breakdown:
+	35	buildings
+	30	6C * 5 artists (minimum)
+	25	total commerce 4 cottages 
+
+- Breakdown (Rio de Janeiro, Emperor, InnerSea):
+	 14	2 cottages
+	 13	Rivers (+4 if forests down)
+	 20	Trade routes (3, all foreign, Free Market, not coastal)
+	  8	Palace
+	 55	Base commerce
+
+	 55	Base Commerce * 100%
+	 30	buildings (will be more)
+	 78	6C * 13 artists (require Caste System)
+	163	Base Culture
+
+	489	Total Cuture (+200% from Free Speech + 2 Cathedrals)
+
+
+Wonder Production City
+-----------------------
+Should not be Military City - too busy. also military already has 2 national wonders
+Can be a mix of Wonders + Cottages. Cottages compensate for too few wonders
+Between wonders, build culture
+Usually the Capital if capital is not GPP Farm
+
+- National Wonders:
+	Iron Works
+
+Breakdown (São Paulo, Emperor, InnerSea):
+	 84	12 cottages (max 16 w/ forests, 18 w/o)
+	  9	River
+	  5	Trade routes (3, 2 foreign, not coastal, free market)
+	 98	Base Commerce
+
+	 98	Base Commerce * 100%
+	 46	buildings (Basic + Sistine + Taj Mahal)
+	144	Base Culture
+
+	432	Total Cuture (+200% from Free Speech + 2 Cathedrals)
+
+
+Military City
+-------------
+- High Production
+- National Wonders:
+	Heroic Epic
+	West Point
+
+Gold City
+---------
+- Religion Holy City: build Shrine
+- National Wonders:
+	Wall Street
+
+
+
+World Wonders
+-------------
+All listed Chronologically in each category
+- Awesome - almost mandatory
+	Parthenon      [Polytheism ] (+10C, +2GPP[GA]) - +50%GPP in all cities. Obsoletes with [Chemistry]. MARBLE
+	Sistine Chapel [Music      ] (+10C, +2GPP[GA]) - +2C per specialist in all cities. MARBLE
+	Taj Mahal      [Nationalism] (+10C, +2GPP[GA]) - starts a Golden Age. MARBLE
+	Broadway       [Electricity] (+2GPP[GA])       - +50% Culture
+	Hollywood      [Radio      ] (+2GPP[GA])       - +50% Culture
+	Rock N Roll    [Mass Media ] (+2GPP[GA])       - +50% Culture
+- Great - helps in culture
+	Notre Dame     [Music      ] (+10C, +2GPP[GA]) - +1H in all cities of the continent. STONE
+	Kremlin        [Communism  ] (+2GPP[GA])       - -33% Hurry building cost. STONE
+- Nice - not related to culture, but good to have. Be careful of non-GA GPP!
+	Stonehenge     [Mysticism  ] (+8C, +2GPP[GP])  - free obelysk in every city. Obsoletes with [Calendar] STONE
+	Oracle         [Priesthood ] (+8C, +2GPP[GP])  - Free Tech. MARBLE
+	Hanging Garden [Mathematics] (+6C, +2GPP[GE])  - +1 Pop, +1 Health in all cities. STONE
+
+
+Great Persons / Golden Ages
+---------------------------
+- Initially, Great Prophet from Wonders - build Shrines
+- Later, Great Artists from GPP Farm
+- Golden Ages require Great Persons of *distinct kinds*
+- 3 Golden Ages:
+	2 GPs (excess Prophet + someone else)
+	Taj Mahal
+	3 GPs (techs or Caste System + GPP farm manipulation. maybe use Great Artist)
+- Great Persons:
+	Artist: save for Culture Bomb
+	Priest: build shrine, 1st and 3rd Golden Age, settle in gold city
+	Others: 1st or 3rd Golden Age, settle
+
+
+Technlogies
+-----------
+
+- Religions
+	Polytheism   - Hinduism
+	Meditation   - Buddhism
+	Monotheism   - Judaism
+	Code of Laws - Confucianism
+	Philosophy   - Taoism
+	Theology     - Christianity
+	Divine Right - Islamism
+
+- Free GPs
+	Music        - Great Artist
+	Economics    - Great Merchant
+	Physics      - Great Scientist
+	Fusion       - Great Engineer
+		Fusion is end-game tech, past the stopping point for Cultural Victory
+
+- Free Techs
+	Liberalism
+
+- Key Techs (besides the above)
+	Hook resources (Agriculture, Mining, Fishing, Animal Husbandry, etc)
+	Enable Culture-Related buildings (Meditation, Priesthood, Drama, Mass Media, etc)
+	Enable World Wonders
+	Bronze Work  - Slavery, Chop Forest, Axeman, Copper
+	Alphabet     - Tech Trading
+	Mathematics  - +50% chopping (also Hanging Gardens, Aqueduct)
+
+- Stopping Points:
+	Liberalism   - Civic: Free Speech
+	Mass Media   - Broadcast Tower, World Wonders: Broadway, Hollywood, Rock N Roll
+
+Turns
+-----
+from CivIVGameSpeedInfo.xml
+
+Years	Turns	From	To	Total Turns	Turns Left	Total %	Culture/turn
+
+Normal
+40	75	-4000	-1000	0	460	0%	109
+25	60	-1000	500	75	385	16%	130
+20	25	500	1000	135	325	29%	154
+10	50	1000	1500	160	300	35%	167
+5	60	1500	1800	210	250	46%	200
+2	60	1800	1920	270	190	59%	263
+1	130	1920	2050	330	130	72%	385
+Total: 460 turns
+
+Marathon
+15	200	-4000	-1000
+10	150	-1000	500
+8	40	500	820
+5	90	820	1270
+2	60	1270	1390
+1	660	1390	2050
+Epic
+30	100	-4000	-1000
+15	140	-1000	1100
+6	70	1100	1520
+3	70	1520	1730
+2	40	1730	1810
+1	240	1810	2050
+Quick
+60	50	-4000	-1000
+35	30	-1000	50
+30	30	50	950
+15	25	950	1325
+10	30	1325	1625
+5	55	1625	1900
+2	50	1900	2000
+1	50	2000	2050
+
+
+
+Random Notes
+------------
+- All culture generating structures produce twice the normal amount of culture after they have stood for 1000 years.
+- Monastery: Obsolence via Scientific Method only prevents NEW monasteries to be built. Current ones are fully functional.
+- Foreign Trade Routes with a given Civ requires Open Borders with it
+
+
+
+================================================================================
+
+https://forums.civfanatics.com/threads/cultural-victory-on-the-higher-levels.298093/
+
+You want to get your 3 cities to Legendary status in the same turn. Not doing so is inefficient. For example, getting a city to Legendary long after the other two results in 110000-90000-50000 culture in the end of the game. There are 100000 useless culture between the three cities. What’s the point in accumulating all that culture? You have made your goal much more difficult than it was needed.
+
+***The multipliers
+
+In principle, you want as many religions as possible in your empire. If you have 9 or more cities, you will be able to build 9 temples of each religion and, accordingly, 3 cathedrals of every religion, one for each of your soon-to-be-Legendary cities. FS affects all of your cities just the same. But there is a single Hermitage. Where should you build it? Let’s make it clear with 2 examples:
+
+Example1: 9 cities, FS, 2 religions, 6 cathedrals built, your 3 cities are doing 150, 100 and 50 raw cpt, they have accumulated already 5000:culture: each, you expect to get zero GAs in the course of the game.
+
+Solution1: This is the worst possible situation. The Hermitage should go in the worst city. The Hermitage will contribute only 50cpt to your victory.
+If we don’t build the Hermitage, the cities will reach Legendary in 100, 150 and 300 turns respectively. If you built the Hermitage in the first or the second city, you will reach victory in 300 turns. If you build the Hermitage in the third city, you will reach victory in 225 turns ( (50000-5000)/(50*4) ).
+
+Example2: 9 cities, FS, 2 religions, 6 cathedrals built, your 3 cities are doing 150, 100 and 50 raw cpt, they have accumulated already 5000:culture: each, you expect to get 7 GAs in the course of the game.
+
+Solution2: You must build the Hermitage in the second city. The Hermitage will contribute only 100cpt to your victory.
+If you build the Hermitage in the first city, the best you can do with your GA is to bomb them 0-1-6, for your cities to reach Legendary in 75-137-140 turns. You win in 140 turns.
+If you build the Hermitage in the third city, with the idea of helping the worst one as in example1, the best you can do with your GA is to bomb them 0-2-5, for your cities to reach Legendary in 100-124-125 turns. You win in 125 turns.
+If you build the Hermitage in the second city, the best you can do with your GA is to bomb them 0-0-7, for your cities to reach Legendary in 100-113-114 turns. You win in 114 turns.
+
+Are you wondering how I can calculate the best use of the GA so fast (1minute for all 3 examples and all possible GA distributions). Then don’t miss the chapter on planning ahead.
+
+Example3: 9 cities, FS, 2 religions, 6 cathedrals built, your 3 cities are doing 150, 100 and 50 raw cpt, they have accumulated already 5000:culture: each, you expect to get 16 GAs in the course of the game.
+
+Solution3: You must build the Hermitage in the first city. You are glad to do so, because that way the Hermitage will contribute the maximum, 150cpt to your victory.
+By building the Hermitage in the first city and by bombing the GA 1-6-9, your cities to reach Legendary in 69-70-60 turns.
+There is not better solution to the problem. Try it out.
+
+What can one conclude from the study of the examples? You want to build the multipliers in the cities with the most raw culture, in order for them to be more useful. If you have enough GAs to bomb the worst cities and balance the finish dates, everything is perfect. If you are short of GA, you are forced to put the multipliers in non-optimal cities, cause you have not other way to balance the finish dates.
+Another way of looking at it is this: the more GA you get, the most useful your culture multipliers will be.
+
+
+================================================================================
+
+https://forums.civfanatics.com/threads/the-beginners-crash-guide-to-cultural-victory.160306/
+
+
+Here's a little guide I thought up for beginners looking for that first cultural victory. I'm sure advanced players will have different or perhaps better ways of getting there, but I think this could be called a good summing up of tips needed for a cultural victory. These tips are generally developed from my mistakes in geting my first few cultural victories, and also what I have done well, and apply in general to the earlier difficulty levels (ie. up to noble).
+
+
+Basics
+
+OK the first thing you need is a civ and a leader. The best traits for a cultural victory are certainly creative and philosophical, followed by industrious. The other traits will probably have very little effect on a basic cultural strategy, except maybe spiritual with it's cheap temples. Therefore I would say the best leaders for cultural victory, in a rough order are:
+Frederick: Creative and Philisophical.
+Louis: Creative and Industrious.
+followed by:
+Gandhi: Spiritual and Industrious.
+Hatshepsut: Spiritual and Creative.
+Saladin: Philosphical and Spiritual.
+
+Other leaders could work, but I would personally say these five leaders are the best.
+
+Secondly, you have to be focused on getting that cultural victory from very early on, turn one if possible. It takes a very long time to get 3 cities up to 50,000 culture each, so you have to be commited.
+
+I will now look at the main area's of the game and what you want to do within these areas.
+
+
+Expansion
+
+It goes without saying that you need three cities for a cultural victory. In reality you will find it hard with less than 6 cities and 9 is optimal. The reasons for this are that you want to get a few 'cathedrals' in a few religions in each of your 3 big cities. You need 3 temples for every one cathedral, so the max cathedrals in one religion you can get is 2 with 6 cities and 3 with 9.
+
+When it comes to early expansion you want your 3 main cities up quite quickly, but don't rush it for maintenances sake. The longer they have to build up that culture, the better. If you get these cities up quickly you may want to give it a rest before then plunking down cities four five and six, though it depends on how much commerce you are producing, your position and the expansion rate of the AI. Don't worry too much if you only get to cities 6 or 7. The AI rarely builds up it's culture at the rate you are doing so you are very likely to pick up one or two mid game.
+
+With regards to the placement your big three cities should really be in good positions with plenty of food (growth and GP) and production (building and wonders). Generally you want one city with lots and lots of food as GP farm major, with the other two going really going as GP farms minor. Commerce shouldn't be so important in these cities; if you wish (and generally you will) you can specialise one or two other cities onto commerce with some cottage spammng- this can also help your science.
+
+
+Technology
+
+Early game techologies will depend on two things:
+
+1. The technologies your civ starts with.
+2. The resources nearby.
+
+You want the worker actions nessasary to hook up your resourses quickly, but the order depends on what resourses there are and how quickly you can get those techs. You have to decide for yourself because each situation is different, but don't think this section is so important as it seems. Longer term priorities are more important as the benfits to our strategy become fewer and farer between, but at this stage of the game almost anything benfits your strategy. The one exception is that you don't want to worry much about military techs past bronze working for quite a while unless you are swamped by barbs or next to an aggressive civ who doesn't like you very much.
+
+My personal strategy is to beeline to writing in the quickest way possible (usually via pottery or priesthood) depending on my start, then to go for alphabet, then trad for most other things- pretty standard i guess but it works.
+
+In the game there are certain periods where you want to go for little "blocks" of technologies that get you various nessasary improvements and wonders for your win.
+
+Literature > Drama > Music (requires Mathematics)
+
+Physics > Electricity > Radio > Mass Media
+
+Code Of Laws > Philosophy then Civil Service > Paper > Education > Liberalism (use free tech if gotten to get Nationalism)
+
+
+Religion + Military
+
+Hang on a minute, you say. Those areas arn't linked at all! But in some very important ways, they are when going for a cultural victory. You may find as you trot along that researching cultural techs and building cultural improvements is somewhat damaging the huge threatening army you usually have hanging over Mansa Musa's head when going for domination victory. It has to be said that your military will suffer as what are usually your 3 biggest military cities are caught up building Broadway and the Hermitage. Military thus is your second priority in all your oter cities after they produce the temples and theatres and universities needed to build cathedrals and national wonders in your big cities. Thus your diplomacy has to be very delicate as it is unlikely you will survive a full scale attack from Caesars Pretorians. I have definately found that religion is by far the easiest way to make a neighbour love or hate you. However you really want to found your own religion in a culture game. It is certainly a great advantage to do so, however if you do it is very very important that you spread it far and wide to keep some friends as protection. If you then found 2 or threereligions try to keep them to the confines of your own civ merely for shrine income and more temples which = more cathedrals.
+
+I like to found lots of religions in my culture games if only to stop Alexander from founding one himself and getting very angry with me for not accepting Christianity into my Confucianist society. You will find that the 4 later religions (the ones that start with a missionary) are founded with techs you want as early as possible anyway. Founding a religion is always a great advantage but if you stauntly stay Islam out of pride when the rest of the world is a Hindu alliance, it is unlikely you will survive a very long time.
+
+
+Civics
+
+The other advantage spiritual civs have in any game is their ability to change their government and thus gameplan almost a will. This is great particulary if you are attacked as described above. However you generally want to stay to a general set of civics for the long term:
+
+Government- Representation usually to keep your science up (you should have a lot of artists), and to stop revolt in th cities where you want every living soul working. Perhaps Uni Suffrage but never the other two unless spiritual and attacked (other civs won't be able to afford the anarchy).
+
+Legal- FREE SPEECH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! It is SO important that you get Liberalism and get this insantly. Up to then you want Bureaucracy as your capital should be one of your culture cities.
+
+Labour- Research COL and get Caste System so you can begin to spam out those great artists in your GP farm. I don't think you really want anything else- don't bother with slavery unless you are spiritual to bring civic upkeep down.
+
+Economy- Mercantilism is ideal but Free market and perhaps SP may work depending on your empire, it's your call really. I would like to ask a question to all BTW, does anyone ever use Environmentalism?
+
+Religion- My preference is always OR untill Philosophy when it's a quick switch to Pacifism for more GP. I can't see any other way personally as you shouldn't need a military (Theocracy), and Free Religion comes at a point where science is becoming less important and great artists are becoming more important.
+
+
+Great People
+
+Ideally you want a GP farm which also has high production as it should be one of your 3 culture cities (If you can get another one running INSTEAD OF this one outside ou 3 culture cities this isperhaps better). It should produce nothing but artists with the odd scientist if you want and prophet for a shrine if needed. However this shouldn't stop you from having quite a few artists in the other culture cities just for the 4 culture they produce (6 with Sistine Chapel).
+
+
+Wonders
+
+In culture games I work on the philosophy that any wonder (that produces culture) is a good wonder. However you should prioritise the following, particularly if your behind in tech or not far ahead:
+
+Broadway
+Hollywood
+Rock N Roll
+Parthenon (especially if Philosophical)
+Sistine Chapel
+Spiral Minaret (if low on cash)
+Statue Of Liberty
+
+These wonders are more than useful though not top of the list:
+
+Notre Dame
+Stonehenge
+Pyramids
+Taj Mahal
+
+Try and get the rest if possible. With regards to national wonders you want:
+
+National Epic (in GP farm)
+Globe Theatre (in GP farm ideally)
+Hermitage (in city with least culture/turn)
+Oxford University
+
+
+Culture Slider
+
+Balancing the culture slider with research is of personal preference. I generally start at 10% once I get Drama, and move slowly up at the expense of research untill the mid/late industrial age, where its 100% for the finishing straight. Note that if finances take a tumble it should ideally be the research slider not the culture one that is reduced at first. I would say that you are more confident the earlier you stick this up to near full, but I personally like to know I would have a technologically adequate army should Napolean stab me in the back. :cry: I also like to have some research so I can be sure of getting the later wonders needed- Hollywood, Broadway and Rock N Roll.
+
+
+So theres a crash course in the culture victory. Feel free to comment and be proud that you have one the game with a cultured, peaceful civilised civilisation for once instead of a warmongring, barbaric one. 

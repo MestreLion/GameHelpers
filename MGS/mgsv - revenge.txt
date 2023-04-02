@@ -1,0 +1,807 @@
+https://metalgear.fandom.com/wiki/Revenge_System_(enemy_preparedness)
+
+The '''revenge system''' is used in ''[[Metal Gear Solid V: The Phantom Pain]]'' as a game mechanic that adjusts difficulty based on various aspects of the player's methods of infiltrating outposts. When the level of a revenge category is increased it increases difficulty by adding better gear to a certain percentage of spawned AI. Some common examples of this include soldiers wearing helmets if the player has been neutralizing them through headshots and wearing [[Night vision goggles|night-vision goggles]] if the player has been repeatedly caught infiltrating at night, multiple sorties in a row. 
+
+Levels of revenge categories can be decreased by completing a [[Missions in Metal Gear Solid V: The Phantom Pain|mission]] without doing anything that would increase the levels; a common method of this being completing a mission while wearing the chicken hat or by doing a mission during the day without eliminating guards. As exceptions to this rule, the enemy's response to player actions taken during stealth and combat alerts will always be high in one category and low in the other, or if the player stops eliminating [[Guard|guards]] then levels of both categories will reach level 2 or below after several missions. The player can intentionally raise the enemy preparedness in most categories by deploying to free roam and hitting enough triggers to go up one rank since free roam does not have point decay on returning to the [[Aerial Command Center|ACC]]; though free roam actions do not affect covert action and combat preparedness.
+
+==Displayed revenge categories==
+One level represents one hundred revenge points (RP) earned for that category. The level of each revenge category is not relayed to the player in detail but is instead shown in a way that it can be approximated. There are icons that represent each category on the [[iDroid]] map and these are colored in depending on how prepared an enemy is in each category. Transparency represents no preparedness outside of scripted instances within missions and side ops, white represents little preparedness, dark red represents high preparedness and colors in between white and red are somewhere in the middle.
+
+Levels of enemy preparedness are capped at certain amounts until scripted points in the game are reached.
+*Before completing mission 6 - "Where do the Bees Sleep"
+**Max first level
+*Before completing mission 12 - "Hellbound"
+**Max second level
+*Before completing mission 18 - "Blood Runs Deep"
+**Max third level
+*Before completing mission 23 - "The [[Liquid Snake|White Mamba]]"
+**Max fourth level
+*Before completing mission 30 - "[[Skull Face]]"
+**Max fifth level
+*After completing mission 30 - "Skull Face"
+**Max sixth level<ref>{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>function e.GetRevengeLvLimitRank()
+	local e=gvars.str_storySequence
+	if e<TppDefine.STORY_SEQUENCE.CLEARD_FIND_THE_SECRET_WEAPON then
+		return 1
+	elseif e<TppDefine.STORY_SEQUENCE.CLEARD_RESCUE_HUEY then
+		return 2
+	elseif e<TppDefine.STORY_SEQUENCE.CLEARD_ELIMINATE_THE_POWS then
+		return 3
+	elseif e<TppDefine.STORY_SEQUENCE.CLEARD_WHITE_MAMBA then
+		return 4
+	elseif e<TppDefine.STORY_SEQUENCE.CLEARD_OKB_ZERO then
+		return 5
+	else
+		return 6
+	end
+	return 6
+end</pre></ref>
+<br><br><br>
+
+===Fulton response===
+[[file:Icon PrepFulton1 tpp.png|thumb|right]]
+Category level interval: 0,1,2,2,3,3
+*0
+**Low [[Fulton surface-to-air recovery system|Fulton]] response
+***Determines aspects of AI behavior towards seeing balloons
+*1
+**Default Fulton response
+*2
+**High Fulton response
+*3
+**Special Fulton response<ref name="tpprevenge levels">{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>e.REVENGE_LV_MAX={
+	[e.REVENGE_TYPE.STEALTH]={0,1,2,3,4,5},
+	[e.REVENGE_TYPE.NIGHT_S]={0,1,1,2,3,3},
+	[e.REVENGE_TYPE.COMBAT]={0,1,2,3,4,5},
+	[e.REVENGE_TYPE.NIGHT_C]={0,1,1,1,1,1},
+	[e.REVENGE_TYPE.LONG_RANGE]={0,1,1,2,2,2},
+	[e.REVENGE_TYPE.VEHICLE]={0,1,1,2,3,3},
+	[e.REVENGE_TYPE.HEAD_SHOT]={0,1,2,3,5,7},
+	[e.REVENGE_TYPE.TRANQ]={0,1,1,1,1,1},
+	[e.REVENGE_TYPE.FULTON]={0,1,2,2,3,3},
+	[e.REVENGE_TYPE.SMOKE]={0,1,1,2,3,3},
+	[e.REVENGE_TYPE.M_STEALTH]={9,9,9,9,9,9},
+	[e.REVENGE_TYPE.M_COMBAT]={9,9,9,9,9,9}
+}
+
+e.REVENGE_POINT_OVER_MARGINE=100-1
+e.REVENGE_POINT_PER_LV=100
+e.REDUCE_REVENGE_POINT=10
+e.REDUCE_TENDENCY_POINT_TABLE={
+	[e.REVENGE_TYPE.STEALTH]={-20,-20,-20,-20,-25,-50},
+	[e.REVENGE_TYPE.COMBAT]={-20,-20,-20,-20,-25,-50}
+}
+
+e.REDUCE_POINT_TABLE={
+	[e.REVENGE_TYPE.NIGHT_S]={-10,-50,-50,-50,-50,-50,-50,-50,-50,-50,-50},
+	[e.REVENGE_TYPE.NIGHT_C]={-10,-50,-50,-50,-50,-50,-50,-50,-50,-50,-50},
+	[e.REVENGE_TYPE.SMOKE]={-10,-50,-50,-50,-50,-50,-50,-50,-50,-50,-50},
+	[e.REVENGE_TYPE.LONG_RANGE]={-10,-50,-50,-50,-50,-50,-50,-50,-50,-50,-50},
+	[e.REVENGE_TYPE.VEHICLE]={-10,-50,-50,-50,-50,-50,-50,-50,-50,-50,-50}
+}</pre></ref><ref name="tpprevenge define">{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File: TppRevenge.lua (data1.dat)<pre>e.revengeDefine={
+	HARD_MISSION={IGNORE_BLOCKED=true},
+
+_ENABLE_CAMERA_LV=1,
+_ENABLE_DECOY_LV=2,
+_ENABLE_MINE_LV=3,
+STEALTH_0={STEALTH_LOW=true, HOLDUP_LOW=true},
+STEALTH_1={CAMERA="100%", HOLDUP_LOW=true},
+STEALTH_2={DECOY="100%", CAMERA="100%"},
+STEALTH_3={DECOY="100%",MINE="100%", CAMERA="100%", STEALTH_HIGH=true},
+STEALTH_4={DECOY="100%", MINE="100%", CAMERA="100%", STEALTH_HIGH=true, HOLDUP_HIGH=true, ACTIVE_DECOY=true, GUN_CAMERA=true},
+STEALTH_5={DECOY="100%", MINE="100%", CAMERA="100%", STEALTH_SPECIAL=true, HOLDUP_HIGH=true, ACTIVE_DECOY=true, GUN_CAMERA=true},
+
+NIGHT_S_1={NVG="25%"},
+NIGHT_S_2={NVG="50%"},
+NIGHT_S_3={NVG="75%"},
+
+_ENABLE_SOFT_ARMOR_LV=1,
+_ENABLE_SHOTGUN_LV=1,
+_ENABLE_MG_LV=1,
+_ENABLE_SHIELD_LV=2,
+_ENABLE_ARMOR_LV=3,
+
+COMBAT_0={COMBAT_LOW=true},
+COMBAT_1={
+	{SOFT_ARMOR="25%", SHOTGUN=2},
+	{SOFT_ARMOR="25%", MG=2}
+},
+COMBAT_2={
+	{SOFT_ARMOR="50%", SHOTGUN=2, SHIELD=1},
+	{SOFT_ARMOR="50%", MG=2, SHIELD=1}
+},
+COMBAT_3={
+	{SOFT_ARMOR="75%", SHOTGUN=2, SHIELD=1, ARMOR=1, STRONG_WEAPON=true, COMBAT_HIGH=true, SUPER_REINFORCE=true},
+	{SOFT_ARMOR="75%", MG=2,SHIELD=1, ARMOR=1, STRONG_WEAPON=true, COMBAT_HIGH=true, SUPER_REINFORCE=true}
+},
+COMBAT_4={
+	{SOFT_ARMOR="100%", SHOTGUN=4, SHIELD=2, ARMOR=2, STRONG_WEAPON=true, COMBAT_HIGH=true, SUPER_REINFORCE=true, REINFORCE_COUNT=2},
+	{SOFT_ARMOR="100%", MG=4, SHIELD=2, ARMOR=2, STRONG_WEAPON=true, COMBAT_HIGH=true, SUPER_REINFORCE=true, REINFORCE_COUNT=2}},
+COMBAT_5={
+	{SOFT_ARMOR="100%", SHOTGUN=4, SHIELD=4, ARMOR=4, STRONG_WEAPON=true, COMBAT_SPECIAL=true, SUPER_REINFORCE=true, BLACK_SUPER_REINFORCE=true, REINFORCE_COUNT=3},
+	{SOFT_ARMOR="100%", MG=4, SHIELD=4, ARMOR=4, STRONG_WEAPON=true, COMBAT_SPECIAL=true, SUPER_REINFORCE=true, BLACK_SUPER_REINFORCE=true, REINFORCE_COUNT=3}
+},
+
+NIGHT_C_1={GUN_LIGHT="75%"},
+
+LONG_RANGE_1={SNIPER=2},
+LONG_RANGE_2={SNIPER=2, STRONG_SNIPER=true},
+
+VEHICLE_1={MISSILE=2},
+VEHICLE_2={MISSILE=2, STRONG_MISSILE=true},
+VEHICLE_3={MISSILE=4, STRONG_MISSILE=true},
+
+HEAD_SHOT_1={HELMET="10%"},
+HEAD_SHOT_2={HELMET="20%"},
+HEAD_SHOT_3={HELMET="30%"},
+HEAD_SHOT_4={HELMET="40%"},
+HEAD_SHOT_5={HELMET="50%"},
+HEAD_SHOT_6={HELMET="60%"},
+HEAD_SHOT_7={HELMET="70%"},
+HEAD_SHOT_8={HELMET="80%"},
+HEAD_SHOT_9={HELMET="90%"},
+HEAD_SHOT_10={HELMET="100%"},
+
+TRANQ_1={STRONG_NOTICE_TRANQ=true},
+
+FULTON_0={FULTON_LOW=true},
+FULTON_1={}, -- empty table indicates it either going to a default state or is a bug as noted here: http://wiki.tesnexus.com/index.php/Revenge_system
+FULTON_2={FULTON_HIGH=true},
+FULTON_3={FULTON_SPECIAL=true},
+
+SMOKE_1={GAS_MASK="25%"},
+SMOKE_2={GAS_MASK="50%"},
+SMOKE_3={GAS_MASK="75%"},</pre></ref><ref name="tpprevenge power setting">{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>for n,e in ipairs(t)do
+	local t=o[n]TppEnemy.ApplyPowerSetting(t,e)
+	if i[t]==nil then
+		local n={}
+		do
+			local E
+			if e.STEALTH_SPECIAL then
+				E="sp"
+			elseif e.STEALTH_HIGH then
+				E="high"
+			elseif e.STEALTH_LOW then
+				E="low"
+			end
+			n.notice=E
+			n.cure=E
+			n.reflex=E
+		end
+		do
+			local E
+			if e.COMBAT_SPECIAL then
+				E="sp"
+			elseif e.COMBAT_HIGH then
+				E="high"
+			elseif e.COMBAT_LOW then
+				E="low"
+			end
+			n.shot=E
+			n.grenade=E
+			n.reload=E
+			n.hp=E
+		end
+		do
+			local E
+			if e.STEALTH_SPECIAL or e.COMBAT_SPECIAL then
+				E="sp"
+			elseif e.STEALTH_HIGH or e.COMBAT_HIGH then
+				E="high"
+			elseif e.STEALTH_LOW or e.COMBAT_LOW then
+				E="low"
+			end
+			n.speed=E
+		end
+		do
+			local E
+			if e.FULTON_SPECIAL then
+				E="sp"
+			elseif e.FULTON_HIGH then
+				E="high"
+			elseif e.FULTON_LOW then
+				E="low"
+			end
+			n.fulton=E
+		end
+		do
+			local E
+			if e.HOLDUP_SPECIAL then
+				E="sp"
+			elseif e.HOLDUP_HIGH then
+				E="high"
+			elseif e.HOLDUP_LOW then
+				E="low"
+			end
+			n.holdup=E
+		end
+		TppEnemy.ApplyPersonalAbilitySettings(t,n)
+	end
+end</pre></ref>
+
+
+Trigger: 
+*Enemy spotted a comrade being fultoned (+15 RP)<ref name="tpprevenge rp cat val">{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>e.REVENGE_POINT_TABLE={
+	[e.REVENGE_TRIGGER_TYPE.HEAD_SHOT]={
+		[e.REVENGE_TYPE.HEAD_SHOT]=5},
+	[e.REVENGE_TRIGGER_TYPE.ELIMINATED_IN_STEALTH]={
+		[e.REVENGE_TYPE.M_STEALTH]=5},
+	[e.REVENGE_TRIGGER_TYPE.ELIMINATED_IN_COMBAT]={
+		[e.REVENGE_TYPE.M_COMBAT]=5},
+	[e.REVENGE_TRIGGER_TYPE.FULTON]={
+		[e.REVENGE_TYPE.FULTON]=15},
+	[e.REVENGE_TRIGGER_TYPE.SMOKE]={
+		[e.REVENGE_TYPE.SMOKE]=15},
+	[e.REVENGE_TRIGGER_TYPE.WATCH_SMOKE]={
+		[e.REVENGE_TYPE.SMOKE]=15},
+	[e.REVENGE_TRIGGER_TYPE.KILLED_BY_HELI]={
+		[e.REVENGE_TYPE.VEHICLE]=10},
+	[e.REVENGE_TRIGGER_TYPE.ANNIHILATED_IN_STEALTH]={
+		[e.REVENGE_TYPE.M_STEALTH]=15},
+	[e.REVENGE_TRIGGER_TYPE.ANNIHILATED_IN_COMBAT]={
+		[e.REVENGE_TYPE.M_COMBAT]=15},
+	[e.REVENGE_TRIGGER_TYPE.WAKE_A_COMRADE]={
+		[e.REVENGE_TYPE.TRANQ]=5},
+	[e.REVENGE_TRIGGER_TYPE.DISCOVERY_AT_NIGHT]={
+		[e.REVENGE_TYPE.NIGHT_S]=15},
+	[e.REVENGE_TRIGGER_TYPE.ELIMINATED_AT_NIGHT]={
+		[e.REVENGE_TYPE.NIGHT_C]=10},
+	[e.REVENGE_TRIGGER_TYPE.SNIPED]={
+		[e.REVENGE_TYPE.LONG_RANGE]=30},
+	[e.REVENGE_TRIGGER_TYPE.KILLED_BY_VEHICLE]={
+		[e.REVENGE_TYPE.VEHICLE]=10}}</pre></ref>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Level 1 (-20 RP)
+*Level 2 (-30 RP)
+*Level 3 (-40 RP)
+<br><br><br>
+
+===Headshot response===
+[[file:Icon PrepHelmet1 tpp.png|thumb|right]]
+Category level interval: 0,1,2,3,5,7
+
+*0
+**Will not be wearing helmets
+*1
+**10% will wear helmets
+*2
+**20% will wear helmets
+*3
+**30% will wear helmets
+*5
+**50% will wear helmets
+*7
+**70% will wear helmets<ref name="tpprevenge define"/>
+
+
+Trigger: 
+*Player eliminates a soldier via headshot (+5 RP)<ref name="tpprevenge rp cat val"/>
+**Includes thrown items and also triggers for shooting soldiers that are being held up.
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Level 1 (-20 RP)
+*Level 2 (-30 RP)
+*Level 3 (-40 RP)
+*Level 5 & 7 (-50 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Covert actions response===
+[[file:Icon PrepStealth1 tpp.png|thumb|right]]
+Category level interval: 0,1,2,3,4,5
+
+*0
+**No security devices
+**Low stealth preparedness
+***Soldier cure and speed abilities
+***Soldier notice and reflex abilities
+**Low [[Hold up|holdup]] resistance
+*1
+**[[Surveillance camera|Surveillance cameras]] installed at major bases (certain missions only)
+**Default stealth preparedness
+*2
+**[[Decoy (device)|Decoys]] deployed
+**Default holdup resistance
+*3 (pink icon)
+**[[Land mine|Mines]] deployed
+**High stealth preparedness
+*4
+**Decoys actively move
+**[[Gun camera|Gun cameras]] replace surveillance cameras (certain missions only)
+**High holdup resistance
+*5
+**Special stealth preparedness<ref name="tpprevenge define"/><ref name="tpprevenge power setting"/>
+
+
+Triggers (N/A to free roam):
+*Player eliminated a guard during a stealth phase (+5 RP)
+**Stealth phase meaning the guard was not suspicious.
+**Does not include holdups
+*Player captured a guard post or outpost during a stealth phase (+15 RP)<ref name="tpprevenge rp cat val"/>
+*Player completed a mission with more stealth phase elimination points than for combat alert
+**Levels 0-3 (+5 RP)
+**Level 4 (+25 RP)
+**Level 5 (0 RP)
+
+
+Decay on mission completion:
+*Player completed a mission with more combat alert elimination points than for stealth phases
+**Levels 0 & 1 (-20 RP)
+**Level 2 (-25 RP)
+**Level 3 (-30 RP)
+**Level 4 (-75 RP)
+**Level 5 (-100 RP)
+*Player completed a mission with equal combat alert and stealth phase elimination points
+**Levels 0-2 (0 RP)
+**Level 3 (-20 RP)
+**Level 4 (-50 RP)
+**Level 5 (-60 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Combat response===
+[[file:Icon PrepCombat1 tpp.png|thumb|right]]
+Category level interval: 0,1,2,3,4,5
+
+*0
+**Low combat preparedness
+***Soldier shoot, reload and grenade abilities
+***Soldier HP and speed abilities
+**Default equipment
+*1
+**Default combat preparedness
+**25% wear vest body armor
+**Short-range guard type 
+***Shotgun ≤ grade 2
+**Mid-range guard type
+***Machine gun ≤ grade 2
+*2
+**50% wear vest body armor
+**Shield ≤ grade 1
+*3 (pink icon)
+**High combat preparedness
+**75% wear vest body armor
+**Close-range guard type change
+***Strong shotgun ≤ grade 2
+**Mid-range guard type change
+***Strong machine gun ≤ grade 2
+**Armor ≤ grade 1
+**Vehicle reinforcements (missions 03 & 35 only)
+***Can be called in once
+***Standard armored vehicles and helicopters
+*4
+**100% wear vest body armor
+**Short-range guard type change
+***Strong shotgun ≤ grade 4
+**Mid-range guard type change
+***Strong machine gun ≤ grade 4
+**Shield ≤ grade 2
+**Armor ≤ grade 2
+**Vehicle reinforcements can be called in twice (missions 03 & 35 only)
+*5
+**Special combat preparedness
+**Armor ≤ grade 4
+**Shield ≤ grade 4
+**Vehicle reinforcements can be called in three times (missions 03 & 35 only)
+***Chance of black (high stat) vehicles<ref name="tpprevenge power setting"/><ref name="tpprevenge define"/>
+
+
+Triggers (N/A during free roam):
+*Player eliminated an enemy during a combat phase (+5 RP)
+*Combat phase meaning any phase higher than suspicion, such as when being shot at.
+*Player captured a guard post or outpost during a combat phase (+15 RP)<ref name="tpprevenge rp cat val"/>
+*Player completed a mission with more combat phase elimination points than for stealth phase.
+**Levels 0-3 (+5 RP)
+**Level 4 (+25 RP)
+**Level 5 (0 RP)
+
+
+Decay on mission completion:
+*Player completed a mission with more stealth phase elimination points than for combat alert
+**Levels 0 & 1 (-20 RP)
+**Level 2 (-25 RP)
+**Level 3 (-30 RP)
+**Level 4 (-75 RP)
+**Level 5 (-100 RP)
+*Player completed a mission with equal combat alert and stealth phase elimination points
+**Levels 0-2 (0 RP)
+**Level 3 (-20 RP)
+**Level 4 (-50 RP)
+**Level 5 (-60 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Nighttime response===
+[[file:Icon PrepNight1 tpp.png|thumb|right]]
+The subcategories of this response determine what nighttime equipment the AI will spawn with. 
+
+;Gun lights
+Guards will have weapon-mounted lights if the player continually eliminates them at night. This results in them severely limiting the player's vision and camo index during nighttime combat. They will also use their gun lights instead of their flashlight when investigating outside of a post's default low alert state. Regardless of this subcategory's level, they will always be able to use flashlights to check suspicious activity.
+
+Category level interval: 0,1,1,1,1,1
+
+*0
+**Will not have gun lights
+*1
+**75% have gun lights<ref name="tpprevenge define"/>
+
+
+Trigger:
+*Player eliminated a guard at night (+10 RP)<ref name="tpprevenge rp cat val"/>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Level 1 (-50 RP)<ref name="tpprevenge levels"/>
+
+;Night-vision goggles
+Category level interval 0,1,1,2,3,3
+
+*0
+**Will not wear NVGs
+*1
+**25% will wear NVGs
+*2
+**50% will wear NVGs
+*3
+**75% will wear NVGs<ref name="tpprevenge define"/>
+
+
+Trigger:
+*Player was discovered at night (+15 RP)<ref name="tpprevenge rp cat val"/>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Levels 1-3 (-50 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Sniper response===
+[[file:Icon PrepSnipe1 tpp.png|thumb|right]]
+Category level interval: 0,1,1,2,2,2
+
+*0
+**Guard type will not appear
+*1
+**Long-range guard type
+***Sniper rifle ≤ grade 2
+*2
+**Long-range guard type change
+***Strong sniper rifle ≤ grade 2<ref name="tpprevenge define"/>
+
+
+Trigger: 
+*Enemy believes they are under sniper fire (+30)<ref name="tpprevenge rp cat val"/>
+**This isn't limited to sniper rifles, and generally occurs when the player shoots one bullet from mid to long-range.
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Levels 1 & 2 (-50 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+==Hidden revenge categories==
+===Vehicle response===
+Category level interval: 0,1,1,2,3,3
+
+*0
+**Will not carry missiles
+*1
+**Missiles ≤ grade 2
+*2
+**Strong missiles ≤ grade 2
+*3
+**Strong missiles ≤ grade 4<ref name="tpprevenge define"/>
+
+
+Triggers:
+*Enemy was killed by the player's helicopter (+10 RP)
+**Likely includes player manning the minigun
+*Player killed a soldier with a vehicle (+10 RP)
+**By impacting or shooting with ground vehicles or D-Walker<ref name="tpprevenge rp cat val"/><ref>{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 18, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>function e._OnDead(t,n,i)
+	if a(t)~=TppGameObject.GAME_OBJECT_TYPE_SOLDIER2 then
+		return
+	end
+	local o=(Tpp.IsVehicle(vars.playerVehicleGameObjectId) or Tpp.IsEnemyWalkerGear(vars.playerVehicleGameObjectId)) or Tpp.IsPlayerWalkerGear(vars.playerVehicleGameObjectId)
+	local _=r(attackId)
+	local r=Tpp.IsEnemyWalkerGear(n) or Tpp.IsPlayerWalkerGear(n)
+	local t=(n==GameObject.GetGameObjectIdByIndex("TppPlayer2",PlayerInfo.GetLocalPlayerIndex()))
+	if(r or _) or (t and o) then
+		e.AddRevengePointByTriggerType(e.REVENGE_TRIGGER_TYPE.KILLED_BY_VEHICLE)
+	end
+	E(i)
+	if a(n)==TppGameObject.GAME_OBJECT_TYPE_HELI2 then
+		e.AddRevengePointByTriggerType(e.REVENGE_TRIGGER_TYPE.KILLED_BY_HELI)
+	end
+end</pre></ref>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Levels 1-3 (-50 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Tranquilizer response===
+The difference between strong and default tranquilizer notice is not clearly defined within the game or its files, however it appears to be the factor in whether a soldier calls for an alert when discovering a tranquilized comrade. When at level zero a lone soldier discovering a single "ZZZ" guard tends to remark about the sleeping guard's laziness and will wake them without informing CP. Whereas in the same scenario at level one, an alert is usually called. Exceptions to this may be when a soldier sees multiple neutralized guards or witnesses a guard passing out.
+
+Category level interval: 0,1,1,1,1,1
+
+*0
+**Default tranquilizer notice
+*1
+**Strong tranquilizer notice<ref name="tpprevenge define"/>
+
+
+Trigger: 
+*Enemy woke a comrade whom the player had tranquilized (+5 RP)<ref name="tpprevenge rp cat val"/>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Level 1 (-20 RP)<ref name="tpprevenge levels"/>
+<br><br><br>
+
+===Smoke/gas response===
+Category level interval: 0,1,1,2,3,3
+
+*0
+**Will not wear gas masks
+*1
+**25% will wear gas masks
+*2
+**50% will wear gas masks
+*3
+**75% will wear gas masks<ref name="tpprevenge define"/>
+
+
+Triggers:
+*Enemy witnessed smoke occurring (+15 RP)
+*Player affected an enemy with smoke/gas (+15 RP)<ref name="tpprevenge rp cat val"/>
+**Includes smoke, gas and flares of player origin.<ref>{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 18, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>local n=function(e)
+	if((((((((((((e==TppDamage.ATK_Smoke or e==TppDamage.ATK_SmokeOccurred) or e==TppDamage.ATK_SleepGus) or e==TppDamage.ATK_SleepGusOccurred) or e==TppDamage.ATK_SupportHeliFlareGrenade) or e==TppDamage.ATK_SupplyFlareGrenade) or e==TppDamage.ATK_SleepingGusGrenade) or e==TppDamage.ATK_SleepingGusGrenade_G1) or e==TppDamage.ATK_SleepingGusGrenade_G2) or e==TppDamage.ATK_SmokeAssist) or e==TppDamage.ATK_SleepGusAssist) or e==TppDamage.ATK_Grenader_Smoke) or e==TppDamage.ATK_Grenader_Sleep) or e==TppDamage.ATK_SmokeGrenade then
+		return true
+	end
+	return false
+end
+
+function e._OnDamage(t,E,r)
+	if a(t)~=TppGameObject.GAME_OBJECT_TYPE_SOLDIER2 then
+		return
+	end
+	if n(E)then
+		e.AddRevengePointByTriggerType(e.REVENGE_TRIGGER_TYPE.SMOKE)
+	end
+end</pre></ref>
+
+
+Decay on mission completion:
+*Level 0 (-10 RP)
+*Levels 1-3 (-50 RP)<ref name="tpprevenge levels"/>
+
+==Missions==
+The following sorties ignore the player's current levels of enemy preparedness and does not apply trigger points generated during them:
+
+*Prologue - "Awakening"
+*Mission 02 - "Diamond Dogs"
+*Mission 11 - "Cloaked in Silence"
+*Mission 23 - "The White Mamba"
+*Mission 29 - "Metallic Archaea"
+*Mission 31 - "Sahalanthropus"
+*Mission 40 - "[Extreme] Cloaked in Silence"
+*Mission 42 - "[Extreme] Metallic Archaea"
+*Mission 43 - "Shining Lights, Even in Death"
+*Mission 46 - "Truth - The Man Who Sold the World"
+*Free Roam - Mother Base
+*FOB
+
+Dispatch missions do not affect the difficult versions of missions. Those being the ones prefixed by:
+
+*[Subsistence]
+*[Extreme]
+*[Total Stealth]
+
+Dispatch missions against the effects of covert action and combat preparedness do not apply to these sorties:
+
+*Free Roam - Afghanistan
+*Free Roam - Middle Africa
+*Free Roam - Mother Base
+*Free Roam - Mother Base Animal Platform
+
+The vehicle reinforcement function of Combat Preparedness only applies to two sorties:
+
+*Mission 03 - "A Hero's Way"
+*Mission 35 - "Cursed Legacy"<ref>{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>e.NO_REVENGE_MISSION_LIST={
+	[10010]=true,
+	[10030]=true,
+	[10050]=true,
+	[11050]=true,
+	[10120]=true,
+	[10140]=true,
+	[11140]=true,
+	[10151]=true,
+	[10230]=true,
+	[10240]=true,
+	[10280]=true,
+	[30050]=true,
+	[40010]=true,
+	[40020]=true,
+	[40050]=true,
+	[50050]=true}
+
+e.NO_STEALTH_COMBAT_REVENGE_MISSION_LIST={
+	[30010]=true,
+	[30020]=true,
+	[30050]=true,
+	[30150]=true}
+	
+e.USE_SUPER_REINFORCE_VEHICLE_MISSION={
+	[10036]=true,
+	[11036]=true,
+	[10093]=true}</pre></ref>
+
+==Decay==
+In general the enemy's level of preparedness drops by 50 points (half a level) each time a mission is completed and 10 points when at a category's lowest level. The max that a level appears to be able to move is one rank, regardless of the amount of trigger actions that a player performs. Wearing the Chicken Hat will drop points by 100 on mission completion. Free roam actions increase most category levels but do not reduce them. Covert action and combat responses are handled differently from the rest of the revenge system. They will drop by 50 points at level 5, 25 points at level 4 and 20 points at levels 0-3 only after completing a mission. However, they also gain or lose points depending on how a mission is finished. If a mission is completed without eliminating enemies then both categories will have their point values slowly changed over the course of many missions to a point where they both stay at level 2 or below.
+
+On mission completion:
+
+*Mostly stealth points in mission (vice versa for combat)
+**Covert actions : lvl 0-3 (+5 RP), lvl 4 (+25 RP), lvl 5 (0 RP)
+**Combat: lvl 0-1 (-20 RP), lvl 2 (-25 RP), lvl 3 (-30 RP), lvl 4 (-75 RP), lvl 5 (-100 RP)
+
+*Tie of points in mission
+** Both: lvl 0-2 (+0 RP), lvl 3 (-20 RP), lvl 4 (-50 RP), lvl 5 (-60 RP)<ref name="tpprevenge levels"/>
+
+There is also some additional math involved in the game file TppRevenge.lua that indicates there is a little more to the decay system than this.<ref>{{cite video game|title= Metal Gear Solid V The Phantom Pain|developer= Kojima Productions (2015)|publisher= Konami|date= July 14, 2016|platform= .|version= 1.09|level= |language= |isolang= |quote= }}<br>File:TppRevenge.lua (data1.dat)<pre>function e._ReduceRevengePointStealthCombat()
+	for n,E in pairs(e.REDUCE_TENDENCY_POINT_TABLE) do
+		local t=e.GetRevengePoint(n)
+		local r=e.GetRevengeLv(n)
+		local E=E[r+1]e.SetRevengePoint(n,(t+E))
+	end
+end
+
+function e._ReduceRevengePointOther()
+	local r={[e.REVENGE_TYPE.STEALTH]=true,[e.REVENGE_TYPE.COMBAT]=true,[e.REVENGE_TYPE.M_STEALTH]=true,[e.REVENGE_TYPE.M_COMBAT]=true}
+	for E=0,e.REVENGE_TYPE.MAX-1 do
+		local a=e.GetRevengePoint(E)
+		local t=e.GetRevengeLv(E)
+		local n=0
+		if r[E]then
+			n=0
+		elseif bit.band(vars.playerPlayFlag,PlayerPlayFlag.USE_CHICKEN_CAP)==PlayerPlayFlag.USE_CHICKEN_CAP then
+			n=100
+		elseif e.REDUCE_POINT_TABLE[E] then
+			n=e.REDUCE_POINT_TABLE[E][t+1]
+			if n==nil then
+				n=50
+			else
+				n=-n
+			end
+		else
+			n=e.REDUCE_REVENGE_POINT*(t+1)
+			if n>50 then
+				n=50
+			end
+		end
+		e.SetRevengePoint(E,a-n)
+	end
+end
+
+function e.ReduceRevengePointOnMissionClear(n)
+	if n==nil then
+		n=TppMission.GetMissionID()
+	end
+	if e.IsNoRevengeMission(n) then
+		return
+	end
+	if bit.band(vars.playerPlayFlag,PlayerPlayFlag.USE_CHICKEN_CAP)==PlayerPlayFlag.USE_CHICKEN_CAP then
+		return
+	end
+	e._ReduceRevengePointOther()
+end
+
+function e._ReduceRevengePointByChickenCap(n)
+	if n==nil then
+		n=TppMission.GetMissionID()
+	end
+	if e.IsNoRevengeMission(n) then
+		return
+	end
+	if bit.band(vars.playerPlayFlag,PlayerPlayFlag.USE_CHICKEN_CAP)==PlayerPlayFlag.USE_CHICKEN_CAP then
+		e._ReduceRevengePointStealthCombat()
+		e._ReduceRevengePointOther()
+	end
+end
+
+function e.ReduceRevengePointOnAbort(e)
+end
+
+function e._GetMissionTendency(n)
+	local n=e.GetRevengePoint(e.REVENGE_TYPE.M_STEALTH)
+	local e=e.GetRevengePoint(e.REVENGE_TYPE.M_COMBAT)
+	if n==0 and e==0 then
+		return "STEALTH"
+	end
+	if e==0 then
+		return "STEALTH"
+	end
+	if n==0 then
+		return "COMBAT"
+	end
+	local t=n-e
+	local r=.3
+	local E=10
+	local e=(n+e)*r
+	if e<E then
+		e=E
+	end
+	local n="DRAW"
+	if t>=e then
+		n="STEALTH"
+	elseif t<=-e then
+		n="COMBAT"
+	end
+	return n
+end
+
+function e.ApplyMissionTendency(n)
+	if n==nil then
+		n=TppMission.GetMissionID()
+	end
+	if(not e.IsNoRevengeMission(n) and not e.IsNoStealthCombatRevengeMission(n)) and bit.band(vars.playerPlayFlag,PlayerPlayFlag.USE_CHICKEN_CAP)~=PlayerPlayFlag.USE_CHICKEN_CAP then
+		local n=e._GetMissionTendency(n)
+		local n=e.MISSION_TENDENCY_POINT_TABLE[n]
+		if n then
+			local E=e.GetRevengeLv(e.REVENGE_TYPE.STEALTH)+1
+			local t=e.GetRevengeLv(e.REVENGE_TYPE.COMBAT)+1
+			if E>#n.STEALTH then
+				E=#n.STEALTH
+			end
+			if t>#n.COMBAT then
+				t=#n.COMBAT
+			end
+			e.AddRevengePoint(e.REVENGE_TYPE.STEALTH,n.STEALTH[E])
+			e.AddRevengePoint(e.REVENGE_TYPE.COMBAT,n.COMBAT[t])
+		end
+	end
+	e.SetRevengePoint(e.REVENGE_TYPE.M_STEALTH,0)
+	e.SetRevengePoint(e.REVENGE_TYPE.M_COMBAT,0)
+end</pre></ref>
+
+A workaround strategy to reduce high combat/stealth tendencies is to complete easy missions with the Chicken Hat without eliminating any guards. "C2W" is an example of such a mission. The landing zone for mission deployment should be set for the objectives' outpost so that the player can simply destroy the communications equipment with the minigun, after which the helicopter will fly them out of the hot zone. Once both categories are low and appear to have stagnated on level reduction, the previous strategy is repeated but one guard is eliminated during a stealth phase. Then it is repeated again but instead the guard is eliminated during a combat alert. After alternating between the two single neutralization methods for several missions the categories will be at level zero again.
+
+==Notes and references==
+{{reflist}}
+[[Category:Gameplay]]
+[[Category:Metal Gear Solid V]]
+
+
+
+===============================
+
+Don't listen to anybody else.
+
+Certain actions have certain revenge types associated with them. There are pre-defined triggers in place. If you take out an enemy in night stealthily, the revenge points for NVGs increase. If you take out an enemy at night in combat, then flashlights gain revenge points. If you use vehicles, snipers etc and kills/KOs are detected with these then their respective revenge increases.
+
+Now each revenge has points associated with it. And 100 points make 1 level. Different revenges have different levels. When a "trigger" occurs the corresponding revenge gains points. If points hit 100, 200, 300 etc the level increases leading to more use of that revenge type.
+
+Some revenge only have 3 levels while others have 5. Depends.
+
+The easiest way to reduce revenge is to do about 3 missions during daytime and not use anything other than CQC. Vehicle(Missiles), Long Range(Sniper), Headshots(Helmets), Night and Stealth(NVG), Night and Combat(Flashlights), Smoke grenades(Gas masks) should each go down by 1 level as a result. Max point reduction can be 50 after completing a mission.
+
+With each trigger, 5-15 points are gained depending on the revenge type but over the course of a mission, a lot of these can happen. So points are gained much faster as a result.
+
+Stealth and Combat revenge however can never be reduced to 0. The game decides stealth and combat depending on how you played the mission. If during a mission you take out soldiers when you have not been detected you gain stealth points. Any caution/combat alert phase gains you combat points while taking out soldiers instead.
+
+If the difference of these points is over 10, then the higher point revenge type increases by 25 points while the other decreases by some points. If it's less, then both increase by 20 points but can only ever be lvl 3 instead of max lvl 5.
+
+Neither Stealth nor Combat can ever be reduced to 0 as the game has been designed in such a way. It would take 34 missions consecutive missions of pure Stealth to reduce Combat to lvl1. An impossible task.
+
+Only exception - using the Chicken Hat reduces all revenge types by 100. And that can reduce all revenge to 0. But you'll also be a chicken soo...
+
+Fulton revenge can never be reduced. Nor can strong tranq notice - where guards inform CP in case the see somebody taking a dirt nap.
+
+Combat Deployment missions block a revenge type completely for 3 missions and the deployment mission reappears on *your* 4th deployment from the ACC/area change.
+
+Also a shift in revenge ONLY occurs through missions, not through MB or free roam! 

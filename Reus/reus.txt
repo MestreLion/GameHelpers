@@ -1,0 +1,846 @@
+On PS4, *avoid saving/reloading* as it may paralize village growth
+
+Ambassadors
+-------------------------------
+
+Round 1: 6 Projects
+Ocean  S.
+Forest FS
+Rock   DS
+Swamp  D.
+Villages: FDDSSS
+
+Round 2: 4 Upgraded Projects
+Ocean	S. D.
+Forest	FS ..
+Rock	DS .S
+Swamp	D. FS
+Villages: DA2 FA2 SA2 SB2
+
+Replace 1 Swamp for 1 Forest, complete project 1 and 2
+
+Round 3: 4 Great Projects
+Ocean	S. D. S.
+Forest	FS .. FF
+Rock	DS .S .D
+Swamp	D. FS ..
+
+Villages: SA3 FA3 FB3 DA3
+
+
+Round 4: 2 Upgraded Great Projects
+Ocean	S. D. S. D
+Forest	FS .. FF .
+Rock	DS .S .D .
+Swamp	D. FS .. F
+
+Villages: DA4 FA4
+
+
+
+F: FSD D
+R: DSD S
+O: SDS S
+S: DFS F
+	Hunt, Seismic, Predator
+
+F: FSF F (-2D, +2F)
+R: DSS D (+1D, -1S)
+O: SDS S
+S: DFS F (+1D, -1F)
+	No Hunt, Seismic, Reaction
+
+
+
+Final Builds:
+-------
+Legend:
+	XY: X, then Y
+	[XY]: X and Y in any order
+	(X/Y): X or Y
+
+
+O: [SD](D/S)S
+	D: Herd 3, Growth 1  [SDS]S
+	S: Herd 2, Growth 2  DSDS
+F: FSFF, FDDF
+	F[SF]F: Leaf 3, Fruit 3, no Hunt
+	FD[DF]: Leaf 1, Fruit 2, Hunt 3
+R: DSD(D/S)
+	D: Noble 3, Seismic 1 D[SD]D
+	S: Noble 2, Seismic 3 [SD][SD]
+S: [DF]S(D/F/S)
+	F: Reaction 3
+	D: Predator 3
+	S: Toxic 2
+
+--------------------------------------
+
+Ocean   	Animal 	Growth 	Herd 	Crystal	Aurora 	Monsoon
+Level 1 	Free 	Free 	S 	F 	Free 	D
+Level 2 	SA 	DD 	SS 	FF 	FA 	DA
+Level 3 	SAAA 	DDDA 	SSSA 	FFFA 	FAA 	DAAA
+
+Builds:
+	Animal 3, Monsoon 3: SDAA
+		Herd 1
+
+[SD]DD: All Growth, poor Herd
+	Growth 3
+	Herd 1
+
+[SD][DS]: Herd/Growth compromise
+	Growth 2
+	Herd 2
+
+[SDS]S: All Herd, poor Growth
+	Growth 1
+	Herd 3
+
+Ocean: S-D-S-D
+	Superior Domestic Animal [SAAA]
+	Monsoon 3 (better Greater->Sublime odds) [DAAA]
+	Herd 2 (Potent/Greater) [SS]
+	Growth 2 (Potent/Greater) [DD]
+		Cherry Tree, Coffea, Cinnamomum
+		no Cacoa unless Leaf 4
+		no Oak [4], Brazilwood [4] at all
+		...
+	!!no Crystal
+		no Salt unless Seismic 1
+		no Silver unless Seismic 2
+		no Onyx unless Noble 2
+		no Diamond unless Noble 3
+		no Coal, Platinum at all
+
+Ocean: S-D-S-S
+	Superior Domestic Animal [SAAA]
+	Monsoon 3 (better Greater->Sublime odds) [DAAA]
+	Herd 3 (Greater/Sublime) [SSSA]
+	!!Growth 1 (Lesser/Potent)
+		no Cacoa unless Leaf 4
+		no Cherry Tree [3], Coffea [3], Cinnamomum [3], Oak* [4], Brazilwood* [4] at all
+		...
+	!!no Crystal
+		no Salt unless Seismic 1
+		no Silver unless Seismic 2
+		no Onyx unless Noble 2
+		no Diamond unless Noble 3
+		no Coal, Platinum at all
+
+Growth
+	Must sacrifice having both Superior Domestic and Sublime Herd only for Cherry Tree [3], Brazilwood [4]
+	Exclusives:
+		3 [DD]: Cherry Tree (F), Coffea (S), Cinnamomum (M)
+		4 [DDDA]: Oak* (F), Brazilwood* (S)
+
+
+--------------------------------
+
+Rock    	Prec(W)	Adv(T)	Exotic	Noble	Seismic	Earthquake
+Level 1 	Free 	Free 	F 	D 	S 	Free
+Level 2 	DA 	SA 	FF 	DD 	SS 	FA
+Level 3 	DDAA 	SDAA 	FFAA 	DDDA 	SSAA 	FDAA
+
+Builds:
+	Prec 3, Adv 3: DSDA
+		Noble 2
+		Seismic 1
+	F: Exotic  0 -> 1
+	D: Noble   2 -> 3
+	S: Seismic 1 -> 3 !!!
+
+[SD][SD] (best overall build)
+	Superior of both Minerals [DDSA]
+	Seismic 3 (Greater/Sublime) [SSAA]
+		Oil, Natural Gas, Fluorite
+	Noble 2 (Potent/Greater) [DD]
+		no Ruby at all
+		no Diamond unless Crystal 3
+		...
+	!!no Exotic
+
+
+D-D-S-D (bad)
+	Superior of both Minerals [DDSA]
+	Noble 3 (Greater/Sublime) [DDDA]
+		Diamond, Ruby
+	!Seismic 1 (Lesser/Potent)
+		no Silver unless Crystal 2
+		no Uranium unless Reaction 3
+		no Zinc or Oil at all
+		...
+	!!no Exotic
+
+
+
+---------------------------------------------
+
+Forest  	Plant 	Leaf 	Fruit 	Hunt 	Fert 	Migrate
+Level 1 	Free 	Free 	F 	D 	Free 	S
+Level 2 	FA 	SA 	FF 	DD 	DA 	SS
+Level 3 	FFAA 	SFAA 	FFFA 	DDAA 	DFAA 	SSA
+
+Builds:
+	Plant 3, Leaf 2, Fruit 2: FFSA
+		Leaf 3
+		Hunt 0
+		Fert 1
+		Migrate 1
+	F: Fruit   2 -> 3
+	D: Hunt    0 -> 1
+	S: Migrate 1 -> 3
+
+	Plant 3, Hunt 2: FFDD
+		Leaf 1
+		Fruit 2
+		Hunt 3
+		Fert 3
+		Migrate 1
+
+F[SF]F: All plants, no Hunt
+	Superior Plant
+	Leaf 3
+	Fruit 3
+		Orange, Cacao [LOCKED]
+	Hunt 0
+
+F[DSF]: Most plants, some hunt
+	Superior Plant
+	Leaf 3
+	Fruit 2
+		No Orange
+		No Cacao unless Growth 3
+	Hunt 1
+		Boar, Tapir; likely Beaver, Armadillo
+
+FD[DF]: All hunt
+	Superior Plant
+	!!Leaf 1
+	Fruit 2
+	Hunt 3
+
+Hunt
+	Exclusives:
+		2 [D]: Boar (F), Tapir (S)
+		3 [DD]: Marlin (O)
+		4 [DDAA]: Moose (F), Bull (D) [requires Herd 1 for Goat]
+	Shared with Herd:
+		1: Otter (S)
+		3: Wisent (F) [Herd requires Exotic 1 for Beaver]
+		4: Orangutang (S), Bighorn (D), Dolphin (O)
+	Shared with Exotic:
+		1: Beaver (F), Armadillo (D)
+	Shared with Predator:
+		1: Seabass (O)
+
+
+Forest: F-S-F-F
+	Superior Plants [FFAA] (F2,  + 1 F4 + 2 Any)
+	Sublime Leaf [FSAA] and Fruit [FFFA]
+	!!Fertilize 1
+		better odds only up to Lesser->Potent
+	!!no Hunt
+		...
+
+Forest:
+	Tree 2:  FA
+	Leaf 2:  SA
+	Fruit 2: FF
+	Hunt 2:  DD
+
+	Tree 3:  FFAA *
+	Leaf 3:  FSAA *
+	Fruit 3: FFFA
+	Hunt 3:  DDAA
+
+Required: FSF
+	Tree 3, Leaf 3
+
+
+---------------------------------
+
+
+Swamp   	Herbs 	Animal 	Toxic 	Predato	Reac 	Muck Bomb
+Level 1 	Free 	Free 	S 	D 	F 	Free
+Level 2 	FA 	DA 	SS 	DD 	FF 	SA
+Level 3 	FSAA 	DSAA 	SSSA 	DDAA 	FFAA 	SSAA
+
+DS animals 3, predator 1
+
+D-F-S-D	Predator
+	Superior Herbs [SFAA] and Animals [SDAA]
+	!Toxic 1 (Lesser/Potent) [S]
+		no Hemp [3], Chilli Pepper [3], Oppium Poppy [4] at all
+	Predator 3 [DDAA]
+	!Reaction 1 (Lesser/Potent) [F]
+		best paired with Rock Seismic
+	Muck Bomb 2 [SA]
+
+D-F-S-F	Reaction
+	Superior Herbs [SFAA] and Animals [SDAA]
+	!Toxic 1 [S]
+		no Hemp [3], Chilli Pepper [3], Oppium Poppy [4] at all
+	!Predator 1 [D]
+	Reaction 3 [FFAA]
+		best paired with Rock Noble
+	Muck Bomb 2 [SA]
+
+D-F-S-S	Toxic
+	Superior Herbs [SFAA], Great Animals [DA]
+	Toxic 2 [SS]
+	!Predator 1 [D]
+	!Reaction 1 [F]
+		best paired with Rock Seismic
+	Muck Bomb 3 [SA]
+
+D-D-F-F
+	Predator 3
+	Reactor 3
+	!! Herbs 1
+	!! Animal 1
+	!! No toxic
+
+FFSS
+	Superior Herbs
+	Reactor 3
+	Toxic 2
+	!! Animals 1
+	!! No predator
+
+
+Toxic
+	Exclusives
+		1 [S]: Nightshade (F), Marsh Mallow (S)
+		2 [S]: Foxglove (F)
+		3 [SS]: Hemp (S), Chilli Pepper (D)
+		4 [SSSA]: Oppium Poppy (D)
+	Shared with Leaf
+		1: Barrel Cactus (D)
+		4: Sunflower (F), Rubber Tree (S)
+	Shared with Fruit
+		2: Dragonfruit (M)
+
+Need Toxic 1: Nightshade (F), Foxglove (F), Marsh Mallow (S)
+Need Toxic 2: Hemp (S), Chilli Pepper (D), Oppium Poppy (D)
+
+
+Predator
+	Exclusives:
+		1: Fox (F), Rattlesnake (D)
+		3: Wolf (F), Coyote (D), Gila Monster (D), Snow Leopard (M)
+		4: Crocodile (S)
+	Shared with Hunt:
+		1: Seabass (O)
+	Shared with Exotic:
+		1: Iguana (S)
+		3: Komodo (S)
+		4: Bear (F) [Exotic requires Hunt 2 for Boar], Bobcat (D), White Shark [Predator requires Hunt 3 for Marlin]
+
+Without Hunt or Exotic
+Need Predator 1: Fox (F), Rattlesnake (D), Seabass (O)
+Need Predator 2: Wolf (F), Coyote (D), Gila Monster (D), Snow Leopard (M)
+Need Predator 3: Bear (F), Crocodile (S)
+
+
+Reaction
+	Exclusives
+		1: Copper (shared with Seismic on Swamp)
+		2: Phosphorus (S)
+		3: Aluminium
+		4: Uranium (S)
+	Shared with Seismic
+		1: Copper (on Swamp)
+		2: Iron
+		4: Fluorite (M)
+
+Need Reaction 1: Copper (if not Swamp), Phosphorus (S)
+Need Reaction 2: Aluminium
+Need Reaction 3: Uranium (S), Fluorite (M)
+
+
+
+
+Aspects
+----------
+
+Basic rationale:
+	Leaf mostly supplants Toxic
+	
+
+Fruit:
+	1 [F]:    Apple (F), Pineapple (S)
+	2 [F]:    Pear (F), Papaya (S), Date Palm (D)
+	3 [FF]:   Lychee (M)
+	4 [FFFA]: Orange (F)
+
+Leaf:
+	3 [SA]: Plum (F), Tee (M)
+
+Herd
+	Exclusives:
+		1 [S]: Rabbit (F), Deer (F), Goat (D)
+		2 [S]: Pangolin (M)
+		3 [SS]: Buffalo (S), Yak (M)
+		4 [SSAA]: Blue Whale (O) [requires Hunt 1 or Predator 1 for Seabass]
+	Shared with Hunt:
+		1: Otter (S)
+		3: Wisent (F) [Herd requires Exotic 1 for Beaver]
+		4: Orangutang (S), Bighorn (D), Dolphin (O)
+	Shared with Exotic:
+		1: Parrotfish (O)
+		4: Panda (M)
+
+Exotic
+	Exclusives:
+		2: Crane (S), Grey Fox (D)
+		3: Langur Monkey (M), Anglerfish (O)
+	Shared with Herd:
+		1: Parrotfish (O)
+		4: Panda (M)
+	Shared with Hunt:
+		1: Beaver (F), Armadillo (D)
+		4: Dolphin (O)
+	Shared with Predator:
+		1: Iguana (S)
+		3: Komodo (S)
+		4: Bear (F) [Exotic requires Hunt 2 for Boar], Bobcat (D), White Shark [Predator requires Hunt 3 for Marlin]
+
+Noble
+	Exclusives
+		3: Gold
+		4: Ruby (D)
+	Shared with Crystal
+		4: Diamond
+
+Seismic
+	Exclusives
+		3: Zinc (M)
+		4: Oil (S), Gas (M)
+	Shared with Crystal
+		1: Salt
+		3: Silver
+	Shared with Reaction
+		1: Copper (on Swamp)
+		2: Iron
+		4: FLuorite (M)
+
+Crystal
+	Exclusives:
+		3: Platinum (D)
+		4: Colorful Lakelet (F), Coal
+	Shared with Noble
+		4: Diamond
+	Shared with Seismic
+		1: Salt
+		3: Silver
+
+Reaction
+	Exclusives
+		1: Copper (shared with Seismic on Swamp)
+		2: Phosphorus (S)
+		3: Aluminium
+		4: Uranium (S)
+	Shared with Seismic
+		1: Copper (on Swamp)
+		2: Iron
+		4: FLuorite (M)
+
+
+Ignored / Locked out Aspects:
+------
+Crystal Minerals
+	Need 3 x Forest on Ocean, so it sacrifices Superior Domestic Animals or Monsoon
+	Exclusives:
+		3 [FF]: Platinum (D)
+		4 [FFFA]: Coal (A)
+
+Exotic Animals
+	Need 2 x Forest on Mountain, so it sacrifices one Superior Mineral and both Sublime Mineral Aspects (Noble and Seismic)
+
+Toxic Herbs
+	Sublime need 3 x Swamp on Swamp only to get Oppium Poppy
+	Sacrifices Superior Herbs or Animals, limits Reaction and Predator to Great
+	Exclusives:
+		1 [S]: Nightshade (F), Marsh Mallow (S)
+		2 [S]: Foxglove (S)
+		3 [SS]: Hemp (S), Chilli Pepper (D)
+		4 [SSSA]: Oppium Poppy (D)
+
+Growth
+	Must sacrifice having both Superior Domestic and Sublime Herd only for Cherry Tree [3], Brazilwood [4]
+	Exclusives:
+		3 [DD]: Cherry Tree (F), Coffea (S), Cinnamomum (M)
+		4 [DDDA]: Oak* (F), Brazilwood* (S)
+
+
+"If I go for Seismic with the Mountain Giant, I get Predator (more wealth), if I go for Noble with the Mountain, I get Reaction (tech)"
+
+Villages
+--------
+Start with either:
+	1 Forest, 2 Desert, 3 Swamps
+	2 Forest, 1 Desert, 3 Swamps
+
+After 6 Embassadors (i.e, collect 2nd F), destroy/swap 1 Swamp Village
+
+Priorities:
+Forest F-S
+Mountain D-S
+Swamp SDF (or DSF)
+
+Always complete 6 Basic Projects *before* completing an Upgraded Project!
+Always complete 4 Upgraded Projects before completing a Great Project!
+Always complete 4 Great Projects before completing an Upgraded Great Projects!
+
+Natural Sources
+----------------
+For Wealth (but no Awe), Onyx better than Topaz if no plant or Natura >= 6/12/15
+
+Fastest resource growth is 30 per minute. Tested with food, irresponsable rate (300+ beyond awe)
+
+New ones (not in most diagrams and some wiki):
+	Oak Tree (F)
+	Brazilwood (S)
+	Bull (D)
+
+Sunflower (F): Leaf or Toxic 4
+	** Grand Era (5000 total)
+Ginkgo (M): Leaf or Growth 4
+	** First World (2 Upgraded Great Projects [level 4])
+
+Locked:
+Cacao (S): Fruit or Growth 4
+	Mass Production (6 villages each 500)
+Rubber (S): Leaf or Toxic 4
+	Modern Physics (1500 village only plants and minerals)
+Cardon Cactus (D): Growth or Fruit 4
+	Superior Vitality (Village 300 each resource)
+Ruby (D): Noble 4
+	** Royalty (1500 Village only animals and minerals)
+Diamond (A): Noble 4
+	** Treasury (Village 1000 wealth)
+Coal (A): Noble 4 or Crystal 4
+	** Canyon City (100 Village 8 mountain)
+Oil (S): Seismic 4
+	** Industrial Revolution (2000 tech total)
+
+
+Important Unlocks
+------------------
+Diamond: 1000 Wealth in a Village
+Oil: 2000 Tech total
+Cardon Cactus: 300 each in a Village
+Sunflower: 5000 prosperity
+Ruby: 1500 in a village only animals and minerals
+
+
+Goals
+-----
+Oil: 2000 Tech total
+
+Farming Community: 250 Village only plants. Desert Lime
+
+
+
+4 Non-Biome Challenges
+----------------------
+5 Villages: 1 of each non-biome, 3 biome
+After non-biomes spawn 2 ambassadors each, convert to biomes
+
+For Swamp (roughly in order)
+Forest: F S S
+Ocean:  D S S
+Swamp:  S F S
+Rock:   S D S
+	White willow, phosphorus
+
+Desert:
+Forest: F D D
+Ocean:  S D D
+Rock:   D S D
+Swamp:  D F D
+	Coyote, Date Palm, Goat, Onyx
+
+Forest:
+Ocean:  D F F
+Forest: S F F
+Rock:   F D F
+Swamp:  F S F
+	Pear
+
+
+5K Challenge
+------------
+2x forest, 2x swamp, 2x desert towns
+
+Ambasador placement (roughtly):
+Ocean:  S D D S
+Forest: F F S
+Rock:   D D S
+Swamp:  D S F D
+
+==============================
+
+https://wiki.reusgame.com/index.php?title=Natural_Sources
+https://wiki.reusgame.com/index.php?title=Techtrees
+
+Errata
+-------
+https://wiki.reusgame.com/index.php?title=Natural_Sources
+	Missing transmutation Superior Tomato -> Brazilwood with Sublime Growth Aspect
+	Missing transmutation Superior Goat -> Bull with Sublime Hunt Aspect
+
+https://wiki.reusgame.com/index.php?title=Projects
+	Missing Canal Town
+
+Forest_complete.png:
+	Apple Tree -> Cherry Tree with Greater **Growth** Aspect, NOT Leaf
+	Superior Deer yield 8 Food, NOT 5
+	Missing Oak
+	Foxglove does NOT transmutate to Plum Tree
+	Copper -> Iron with Potent **Reaction** Aspect, not Seismic
+
+Swanp_complete.png:
+	Missing Brazilwood
+	Missing Salt -> Phosphorus with Potent Toxic
+	Copper -> Phosphorus with **Potent** Toxic, no need of Greater
+	Copper -> Iron with Potent **Reaction** Aspect, not Seismic
+	Crocodile and Komodo Dragon have **range 1**, NOT 2
+
+
+Desert_complete.png:
+	Missing Bull
+	Copper -> Iron with Potent **Reaction** Aspect, not Seismic
+	Goat -> Javelina with Greater **Herd** Aspect, not Hunt
+
+
+https://wiki.reusgame.com/index.php?title=Mineral
+	Missing Natural Gas, Colorful Lakelet
+
+
+
+===============================================================================
+
+Surely didnt, do now
+School/Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.
+Tradepost/Customs 	2 	Forest, Swamp, Desert 	40 Food in use. 100 Wealth in use. The village has more Wealth Wealth in use that its neighbors.
+Blast Furnace 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 175 Wealth in use. 175 Technology in use. At least 5 Mines in Range.	Factory
+Hamlet/Castle 	4 	Forest, Swamp, Desert, Mountain 	1250 Food in use. 300 Wealth in use. 100 Technology in use.	
+Blast Furnace/Factory 	4 	Forest, Swamp, Desert, Mountain 	250 Food in use. 750 Wealth in use. 750 Technology in use. At least 4 Mines in Range.	
+
+Not sure
+Tradepost/Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
+School/University 	2 	Forest, Swamp, Desert 	60 Food in use. 20 Wealth in use. 60 Technology in use.	
+Toolshop/Workshop 	2 	Forest, Swamp, Desert, Mountain 	25 Food in use. 70 Wealth in use. 70 Technology in use.	
+
+Surely didnt, do later
+Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
+Mountain Lodge/Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
+Mountain Lodge/Tavern 	2 	Mountain 	75 Food in use. 75 Wealth in use. There are at least 4 other villages.	
+Lighthouse 	3 	Ocean 	300 Food in use. 200 Wealth in use. 50 Technology in use. All neighbors of the Village have more than 100 Wealth in use. All neighbors of the Village have more than 100 Food in use.	Island Town
+Lighthouse/Island Town 	4 	Ocean 	800 Food in use. 400 Wealth in use. 150 Technology in use. All neighbors of the Village have at least 150 Food in use. All neighbors of the Village have at least 150 Wealth in use.	
+
+Surely already did
+Druid 	1 	Forest, Swamp, Desert, Mountain 	30 Technology in use. 	Alchemist, Mad Scientist
+Fishing Docks 	1 	Ocean 	20 Food in use. 10 Wealth in use.	Harbor
+Granary 	1 	Forest, Swamp, Desert 	30 Food in use. 	Mill, Plantation
+School 	1 	Forest, Swamp 	15 Food in use. 15 Technology in use.	University, Barracks
+Shrine 	1 	Forest, Swamp, Desert, Mountain 	15 Food in use. 15 Wealth in use.	Temple, Sacrifice Altar
+Toolshop 	1 	Forest, Swamp, Desert, Mountain 	15 Wealth in use. 15 Technology in use.	Workshop, Geologist
+Tradepost 	1 	Forest, Swamp, Desert 	30 Wealth in use. 	Market, Customs House
+Toolshop/Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.
+Granary/Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
+Druid/Mad Scientist 	2 	Forest, Swamp, Desert, Mountain 	80 Technology in use. 40 Wealth in use. Destroy the weakest neighbor.
+Shrine/Sacrifice Altar 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 40 Wealth in use. Destroy the closest village.	
+Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
+Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
+Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+Apothecary 	3 	Forest, Swamp, Desert 	200 Food in use. 50 Wealth in use. 200 Technology in use. At least 3 Plants in Range.	Hospital
+Bank 	3 	Forest, Swamp, Desert, Mountain 	75 Food in use. 300 Wealth in use. 75 Technology in use. The Village has the most Wealth Wealth of all Villages.	Multinational
+Circus 	3 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. At least 5 Animals in Range.	Opera
+Hamlet 	3 	Forest, Swamp, Desert 	300 Food in use. 60 Wealth in use. 60 Technology in use.	Castle, Canal Town
+Historic Point 	3 	Mountain 	200 Food in use. 100 Wealth in use. 100 Technology in use. Village has at least 2 War Marks. Destroy the closest village.	Monument
+Observatory 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 75 Wealth in use. 300 Technology in use.	Laboratory
+Historic Point/Monument 	4 	Mountain 	900 Food in use. 300 Wealth in use. 300 Technology in use. Has more Food Food in use than neighboring villages.	
+Observatory/Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
+Bank/Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 200 Technology in use. Has more Wealth Wealth than All other villages. At least 3 villages has more than 100 Wealth.	
+Hospital 	4 	Forest, Swamp, Desert, Mountain 	750 Food in use. 200 Wealth in use. 750 Technology in use. 150 Awe At least 8 Plants in Range.	
+Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
+Canal Town	4
+
+
+
+--------
+
+Druid 	1 	Forest, Swamp, Desert, Mountain 	30 Technology in use. 	Alchemist, Mad Scientist
+Fishing Docks 	1 	Ocean 	20 Food in use. 10 Wealth in use.	Harbor
+Granary 	1 	Forest, Swamp, Desert 	30 Food in use. 	Mill, Plantation
+Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
+School 	1 	Forest, Swamp 	15 Food in use. 15 Technology in use.	University, Barracks
+Shrine 	1 	Forest, Swamp, Desert, Mountain 	15 Food in use. 15 Wealth in use.	Temple, Sacrifice Altar
+Toolshop 	1 	Forest, Swamp, Desert, Mountain 	15 Wealth in use. 15 Technology in use.	Workshop, Geologist
+Tradepost 	1 	Forest, Swamp, Desert 	30 Wealth in use. 	Market, Customs House
+Alchemist 	2 	Forest, Swamp, Desert, Mountain 	120 Technology in use. 	
+Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.	
+Customs House 	2 	Forest, Swamp, Desert 	40 Food in use. 100 Wealth in use. The village has more Wealth Wealth in use that its neighbors.	
+Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.	
+Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
+Mad Scientist 	2 	Forest, Swamp, Desert, Mountain 	80 Technology in use. 40 Wealth in use. Destroy the weakest neighbor.	
+Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
+Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
+Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
+Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
+Sacrifice Altar 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 40 Wealth in use. Destroy the closest village.	
+Tavern 	2 	Mountain 	75 Food in use. 75 Wealth in use. There are at least 4 other villages.	
+Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+University 	2 	Forest, Swamp, Desert 	60 Food in use. 20 Wealth in use. 60 Technology in use.	
+Workshop 	2 	Forest, Swamp, Desert, Mountain 	25 Food in use. 70 Wealth in use. 70 Technology in use.	
+Apothecary 	3 	Forest, Swamp, Desert 	200 Food in use. 50 Wealth in use. 200 Technology in use. At least 3 Plants in Range.	Hospital
+Bank 	3 	Forest, Swamp, Desert, Mountain 	75 Food in use. 300 Wealth in use. 75 Technology in use. The Village has the most Wealth Wealth of all Villages.	Multinational
+Blast Furnace 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 175 Wealth in use. 175 Technology in use. At least 5 Mines in Range.	Factory
+Circus 	3 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. At least 5 Animals in Range.	Opera
+Hamlet 	3 	Forest, Swamp, Desert 	300 Food in use. 60 Wealth in use. 60 Technology in use.	Castle, Canal Town
+Historic Point 	3 	Mountain 	200 Food in use. 100 Wealth in use. 100 Technology in use. Village has at least 2 War Marks. Destroy the closest village.	Monument
+Lighthouse 	3 	Ocean 	300 Food in use. 200 Wealth in use. 50 Technology in use. All neighbors of the Village have more than 100 Wealth in use. All neighbors of the Village have more than 100 Food in use.	Island Town
+Observatory 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 75 Wealth in use. 300 Technology in use.	Laboratory
+Canal Town	4
+Castle 	4 	Forest, Swamp, Desert, Mountain 	1250 Food in use. 300 Wealth in use. 100 Technology in use.	
+Factory 	4 	Forest, Swamp, Desert, Mountain 	250 Food in use. 750 Wealth in use. 750 Technology in use. At least 4 Mines in Range.	
+Hospital 	4 	Forest, Swamp, Desert, Mountain 	750 Food in use. 200 Wealth in use. 750 Technology in use. 150 Awe At least 8 Plants in Range.	
+Island Town 	4 	Ocean 	800 Food in use. 400 Wealth in use. 150 Technology in use. All neighbors of the Village have at least 150 Food in use. All neighbors of the Village have at least 150 Wealth in use.	
+Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
+Monument 	4 	Mountain 	900 Food in use. 300 Wealth in use. 300 Technology in use. Has more Food Food in use than neighboring villages.	
+Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 200 Technology in use. Has more Wealth Wealth than All other villages. At least 3 villages has more than 100 Wealth.	
+Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
+
+
+
+==============================
+Mechanics
+
+War
+----
+https://gaming.stackexchange.com/a/118053/44129
+
+The most surefire way to start a war is with Greed. High greed villages will always attack their neighbors.
+
+A village that decides to go to war will take the Geography into account. They are more likely to attack a neighbor without oceans or mountains in their way.
+
+A village will usually try to attack their weakest neighbor. Military strength of a village tends to correspond to their prosperity, and how much Danger is in their borders.
+
+A village that is too busy defending itself from Danger in its borders will not go to war, nor will their Greed increase. However, over time villages get better at keeping Danger at bay, and in the long run they get stronger because of it (if it does not destroy them or vice versa).
+
+A village that has won many wars will tend to go to war again.
+
+
+Resource Usage
+--------------
+What I've written is valid for v1.1.0.0.
+
+The summary is:
+	Resources (Food/Tech/Wealth) are all treated the same.
+	The maximum speed at which resource use can grow is 1 unit per second, but you need at least 122.5 units more than you're currently using to get that growth rate.
+	  (This will get you massive amounts of greed, of course!)
+	The theoretical minimum speed at which resource use can grow - if it is growing at all - is 0.02 units per second.
+	The speed of resource growth behaves linearly between those two extremes.
+	Overshooting the target slightly can save a lot of time: getting from 14 Food to 15 Food takes about 70 seconds if your total Food is 15,
+	  but if your total Food is 18 it takes only 35 seconds. [Precise numbers to follow]
+
+growth on next tick = 5 if excess > 122.5
+growth on next tick = 0.1 + excess/25 if excess between 0 and 122.5
+'growth' on next tick = excess/25 if excess is negative
+(excess = total resource - resource in use)
+
+RNG
+----
+Save/Reload before action/popup will change:
+	Project *Specializations*
+	Village Name
+	Aspect level
+It will NOT change:
+	Village location (when nomad already roaming)
+	Project
+		Level 1 is determined prior to village foundation! (when nomad roaming)
+		Level 2 is determined prior to Level 1 completion
+		Use Muck Bomb to change it. Respawn after 3:00
+
+
+
+
+===============================
+
+Challenge guide:
+https://steamcommunity.com/app/222730/discussions/0/846959998063678431#c535152511352280702
+
+
+Oceans: parrotfish, clownfish, mackerel, mackerel, parrotfish, mackerel, mackerel, clownfish, parrotfish
+
+
+
+Best Overview Guide:
+https://steamcommunity.com/app/222730/discussions/0/1726450077623403136/#c1708438376932502591
+
+ Well, I think that the game mechanics was thought with substituting the resources in mind. I think thee objective is to complete projects and unlock achievements in an Era.
+
+With that in my mind, all the resources you put down are temporary until you have only tier 3 resources, Superior Resources. That's why not only you should change old obsolete ones, but you are supposed to do it.
+
+Let me share how I interpret a normal Era game, considering a 6 village planet:
+
+First Part: Settling down and completing first level Projects:
+
+You settle down 6 villages. All of them starts the level 1 project. You go from village to village and complete the level 1 projects with only Level 1 Resources, using the low tier symbiosis, few or none transmutions and few or none aspects. You will put enough to complete without creating greed. A fruit giving 10 food is enough at this moment of the game.
+
+At the end of this phase you will have 2 Giants with only one Ambassador, 2 with 2 Ambassadors.
+
+That means that 2 giants will have Tier 2 Resources unlocked already, before the second phase of the game.
+
+Second Phase: Completing second projects in at least 4 villages
+
+I usually move all my 4 giants to each village and complete the project requirement at this one, before moving all 4 giants to the next.
+
+You will put new resources on top old ones and get new simbiosis, focusing on the requiremente of each project. The yeld of Tier 2 resources is much higher. You will also get access to new resources if they start as a tier 2. Gold and Silver, for example, come from a second level mineral only.
+
+If a plant with 10 food is enough to complete level 1 projects, it is not enough anymore to complete second level projects. Why settle with 10 if the same fruit, with the same simbiosis, will have more aspect slots and better output?
+
+At the end of second phase, you will have 10 ambassadors (even if you complete all 6 projects, it is capped).. That means:
+
+2 Giants with 2 Ambassador, 2 Giants with 3 Ambassadors.
+
+Thrid Phase, the third projects - Greed will be the main challenge
+
+At end of phase two, you will have unlocked some Greater Aspects with two Giants, the ones with 3 ambassadors. That will give you access to new plants, minerals and animals: Gold, Silver, Coyote, Plum Tree, Tuna, Marliin, Aluminium, Tea Plant, Lychee and several others)
+
+To get the third wave of projects, these new resources will be necessary. You will need to put them on top of old resources, make new symbiosis BECAUSE new resources will become available and now the requirements will be way bigger.
+
+While working on the village, it is very likely that they will become greedy, so things can fall apart. Specially if you play like I do, one village at a time, instead of spreading all over the place.
+
+Ending all the level 3 projects you will have:
+
+2 Giants with 3, 2 Giants with 4.
+
+The 2 giants with the 4 are the key. They will have Superior Resources and Sublime Aspects.
+
+Final Phase: Completing the dreadful Level 4 Projects
+
+It is very hard to complete any level 4 project without a Superior Resource and Sublime Aspects. Like you said, the requirements seems absurd. 1250 Tecc in Labs, 1250 Food in Castles, 1250 Wealth in Multinationals, WTF?
+
+But actually ysing the right combination of a resource that NEED a Superior and NEED a Sublime aspect will get you there. The 2 giants that have already the 4 ambassadors will be the plowhorses in this, setting resources in the scarce land inside borders. You will need every inch of your borders.
+
+Usually the Plants, Animals and Minerals that are Tier 3 AND transmutes from 2 Sublime Aspects are groundbreaking and necessary.
+
+Orange Trees with Sunflowers will give ridiiculous amount of Food and Tech
+
+Oil with Cacao Tree will do the same
+
+Pandas with Fluorite will give you Wealth and Food. Ruby with Cardon Cactus will do the same.
+
+All those combinations NEED a level 3 Aspect and a Level 3 initial resource that was out of grasp before.
+
+Since I've completed all achievement, all projects, all unlocks, what I am doing in the game right now is trying to complete all projects in a 2 hours era, in all villages.
+
+After that was done, I am now trying to complete the same with some unusual combination of ambassador. Sometimes with only one desert and one swamp, and 4 forests, and things like that.
+
+So far it was all doable (challenging, but doable), so while the requirement for tier 4 projects can look ridiculous at first glance, they are very far from impossible.
+
+

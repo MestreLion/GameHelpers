@@ -1,0 +1,117 @@
+3. Danopth
+----------
+
+3.6: A Most Unfortunate Malfunction
+-----------------------------------
+Fastest solution: figuring out when to explode each Oxigen Tank "Bomb". Facts:
+
+- Vehicle moves slower after each succesful motor/wheels bombing.
+	- Proof: Time to reach Control Station:
+		- Intact, no explosions: ~2410 cycles
+		- Explode the rightmost Oxygen Tank ASAP (~370) cycles: ~3440 cycles
+		- Explode the rightmost Oxygen Tank ~370 and the middle tank ~1160 cycles: ~4200 cycles
+- Best strategy is to minimize the time to reach the leftmost Oxygen Tank by keeping the fastest possible speed, so:
+	- Explode the rightmost Oxygen Tank as late as possible, to maximize time with vechicle intact and at full speed
+	- Avoid exploding the middle tank before vehicle is within reach of the leftmost tank, to maximize "only 1 broken motor" speed.
+	- Explode both remaining tanks as soon and as simultaneously as possible by pre-filling the last to explode (middle or leftmost)
+- Thresholds:
+	- Rightmost Tank must explode before cycle 1040, or it's too late and will miss the vehicle.
+	- If Rightmost Tank explodes at cycle 1039, Leftmost Tank must explode at least on cycle 1765, or it's too soon and will miss.
+- Each Oxygen Tank explodes with 35 molecules.
+	- Trivia: Each capacity marker is 4-5 molecules, markers 1,3,5,6,7 is 4; 2,4,8 is 5.
+- Recorded cycle count is 700 cycles after last Oxygen Tank explodes
+
+Tank timings:
+	  680: A ON, start right
+	<1040: (X) right explodes
+	    Y: B ON,  start middle; Z-Y ~ 690 => Y = Ceil10(X) + 40
+	Y+330: C ON,  start left, stop middle
+	 +350: C OFF, finish middle (K)
+	 + ~6: left explodes
+	  +~8: (Z) left explodes;  Z-X >= 727
+	 K+28: middle explodes
+
+Default Pipeline alignment:
+	Rightmost: +0: 6  => 1036
+	Leftmost : +0: 6  => 1766
+	Middle   : +0: 8  => 1788
+
+Game Timings
+------------
+Explanation (all timings have -2/+5 cycles room for error as safety):
+	 680: turn ON  A, to fill right  until it explodes @ < 1040
+	1080: turn ON  B, to fill middle until 34 molecules (max - 1)
+	1410: turn ON  C, to stop middle and fill left until it explodes @+356
+	1760: turn OFF C, to finish middle tank
+
+Standard:
+	Rightmost Align: +2+ 0: 8 => 1038 (< 1040 OK!)
+	Leftmost  Align: +0+ 0: 6 => 1766 (1766 - 1038 = 728, > 727 OK!)
+	 680: turn ON  A, 1st @  698, explode @ 1038
+	1080: turn ON  B, 1st @ 1098, 34th    @ 1428
+	1410: turn ON  C, 1st @ 1426, explode @ 1766
+	1760: turn OFF C, end @ 1788, record  @ 2488
+
+Improved:
+	Rightmost Align: +2+ 0: 8 => 1038 (< 1040 OK!)
+	Leftmost  Align: +9-10: 5 => 1765 (1765 - 1038 = 727, OK!)
+	 680: turn ON  A, 1st @  698, explode @ 1038
+	1070: turn ON  B, 1st @ 1088, 34th    @ 1418
+	1400: turn ON  C, 1st @ 1425, explode @ 1765
+	1750: turn OFF C, end @ 1778, record  @ 2478
+
+Alternate:
+	Rightmost Align: + 2+ 0: 8 => 1038 (< 1040 OK!)
+	Leftmost  Align: + 2+ 0: 8 => 1768 (1768 - 1038 = 730, OK!)
+	Middle    Align: + 0+ 0: 8 => 1768
+	 680: turn ON  C, 1st @  698, explode @ 1038
+	1060: turn ON  A, 1st @ 1078, 34th    @ 1408
+	1400: OFF A,ON B, 1st @ 1428, explode @ 1768
+	1750: turn ON  A, end @ 1768, record  @ 2468
+
+Almost Perfect:
+	Rightmost Align: + 3+ 0: 9 => 1039 (< 1040 OK!)
+	Leftmost  Align: + 0+ 0: 6 => 1766 (1766 - 1039 = 727, OK!)
+	Middle    Align: + 8-10: 6 => 1766 (=leftmost, perfect!
+	 680: turn ON  C, 1st @  699, explode @ 1039
+	1050: turn ON  A, 1st @ 1066, 34th    @ 1396
+	1390: OFF A,ON B, 1st @ 1426, explode @ 1766
+	1750: turn ON  A, end @ 1766, record  @ 2466
+
+Perfect:
+	Rightmost Align: + 3+ 0: 9 => 1039 (< 1040 OK!)
+	Leftmost  Align: + 9-10: 5 => 1765 (1765 - 1039 = 726, OK!)
+	Middle    Align: + 7-10: 5 => 1765 (=leftmost, perfect!)
+	 680: turn ON  C, 1st @  699, explode @ 1039
+	1050: turn ON  A, 1st @ 1075, 34th    @ 1405
+	1390: OFF A,ON B, 1st @ 1425, explode @ 1765
+	1740: turn ON  A, end @ 1765, record  @ 2465
+
+Smallest Long M:
+   0 B, fill M (~3/4)
+ 530 B, fill R (full @ < 1040)
+1025 B, fill M until 34
+1105 A, fill L until 34
+1780 A, last M
+1800 A, last L
+= 1819 / 2519
+
+Smallest Long M alt:
+   0 B, fill R until 34
+ 690 B, fill M until < 1040
+1015 B, last R
+1030 B, fill M remaining pipe
+1105 A, fill L until 34
+1780 A, last M
+1800 A, last L
+= 1817 / 2517
+
+Small Perfect Timing:
+   0 B, fill R until 34
+ 690 B, fill M until < 1040
+1015 B, last R and discard 1
+1055 B, fill M until 34
+1125 A, fill L until 34
+1730 A, last M
+1750 A, last L
+= 1767 / 2467

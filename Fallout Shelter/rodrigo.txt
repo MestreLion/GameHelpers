@@ -1,3 +1,30 @@
+https://en.reddit.com/r/foshelter/comments/4tgmk1/faq_please_read_this_before_posting/
+https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/
+
+
+SPECIAL
+-------------------------------------------------------------------------------
+https://fallout.fandom.com/wiki/Fallout_Shelter_SPECIAL
+- Stats are irrelevant during combat in Vault. Only weapon stats count.
+- Quest combat DPS is solely dependent on AGILITY.
+- Leveling up increases HP based on ENDURANCE, including amor (2.5HP*END per level).
+	For max XP, always level up with 17 END (10 innate + 7 armor)
+- Wasteland Exploration:
+	- Almost all stats play a role in Wasteland exploration
+		- Major: EAL
+		- Some: PC
+		- Minor (if any): SI
+	- For Legendary Gear:
+		- Max ECL +7 Luck outfit
+		- Min SPIA (min A might not be viable due to Random Encounters)
+- Quests: AL,P
+
+Relevant Encounters
+-------------------------------------------------------------------------------
+Cabin Fever: "Pretend not to see" = Aboid fight (same prize, but miss loot bodies)
+Hop on the Roach Coach: "You could always come to our Vault" = +1 dweller (Wes Englund)
+A Nice Ghoul like you (testy ghouls): "Ionizing Radiation" = Prize
+
 MULTI-SHOT
 -------------------------------------------------------------------------
 Railway rifle	Enhanced railway rifle	14-16	15	100	rare

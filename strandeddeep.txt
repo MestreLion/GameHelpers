@@ -1,0 +1,420 @@
+Yukkas: Day 4, 13h; Day 4 < 7h
+Harvest: Day 21, 18h
+Day 23 12h
+Islands: 8
+Ships: 8
+
+A1		B1		C1*		D1		E1
+		Large		Small 2C	Small
+				R-, S80%, P99%
+				Treasure 1/1
+
+A2		B2		C2*		D2		E2
+		BOSS DONE Eel	Large		BOSS DONE Lusca
+				R- S- P-
+				1Y, 3P, 2A
+				Treasure 2.9/3
+
+A3		B3*		C		D3*		E3
+		Small, 2C	Start		Large		END SHIP
+		R- S- P-	Treasure 2/2	R- S12 P- T8
+		2RD-, Potatoes			1Y
+		Treasure 2.9/3			Treasure 1/2
+
+A4		B4		C4*		D4		E4
+		Large		Large, 1Y	BOSS Meg Shark
+		Treasure 2/2		R- S- P- T7
+				Treasure 1.5/2
+
+A5		B5		C5		D5		E5
+
+
+
+C
+	4 x Clay right of T1
+	T1: 01 DONE Surface FishBoat
+	T2: 02 DONE Bubbles Tip Yatch
+	T3: EMPTY Bubbles near T1 very far from shore, wreck encrustred on deep sea cliff
+
+C2
+	T1: 03 DONE Beach Wreck left of base
+	T2: 04 DONE Tip Fish Boat left of T1
+	T3: OK Tip Yatch right of base. Had loot, didn't count. Compass still there
+
+
+D3
+	T1: 05 DONE Mast Ship in front of base
+	T2: PARTIAL Beach capsided boatleft of base
+
+B3
+	T1: OK Bubbles Yatch other side, far of coast. Had loot, didn't count.
+	T2: 06 DONE Surface Wreck near Wood Deposit
+	T3: 07 DONE Bubbles behind T2 with Sunken Wreck below
+	T4: EMPTY Bubbles opposite side very far from coast, wreck encrustred on deep sea cliff
+	T5: Survivor Hut
+
+C4
+	T1: EMPTY Long mast Ship near base
+	T2: 08 DONE Bubbles partially sunken Wreck right of base
+	T3: PARTIAL Bubbles far from coast, left almost opposite, deep sea Fish Boat
+
+C1
+	T1: 09 DONE Surface Wreck
+
+B4
+	T1: 10 DONE Wreck encrustred rocks at beach
+	T2: 11 DONE Wreck surface nect to T1
+	T3: PARTIAL Bubbles sunken ship halfway inside cliff
+	T4: Tip Yatch
+
+Islands: 24
+Ships: 47
+
+A1*		B1*		C1 X		D1*		E1*
+Small		Small 2C	BOSS DONE Squid	Large		Small
+R-, S-, P-	R- S- P99%			R- S60% P90% T5	R- S90% P99% T5
+Treasure 3.8/4	Treasure 4/4			Treasure 3/3	Treasure 2/2
+Cargo Ship							Empty Small Container
+
+A2*		B2*		C2*		D2*		E2*
+Large		Large		Small 2C	Small 1C	Large
+R- S- P100	R-, S-, P-	R-, S-, P5, T1	R- S- P90% T5	R- S* P*
+RD, 1Y		RD-, 2Y, Quawa	2 Yukka, WD	2RD-		Treasure 4/4
+Treasure 3/3	Treasure 2.5/3	Treasure 3/3	Treasure 2.9/3
+						Empty Container
+
+A3*		B3*		C		D3*		E3 X
+Small		Large				Large		Ship
+3RD- S-		R-, S-, P-			R-, S-, P7, T5
+Treasure 2.5/3	Treasure 3/3			RD-, C-
+		Empty Container			T: 1 DONE, ?
+
+A4		B4 X		C4*		D4*		E4*
+Large		BOSS DONE Shark	Tiny		Large		Large
+R- S50%				0 Animals	2C, 2S, 1H, 2P	R- S- P50% T7
+				RD- S- P7 WD+	R- S- P50% T5	1 Yukka
+1 Tyre				Treasure 2.9/3	WD+, 2 Yukka	Treasure 1.8/2
+						Treasure: 2/2	Cargo Ship
+
+A5 X		B5*		C5*		D5*		E5*
+BOSS DONE Eel	Large		Large		Small		Small
+		Treasure 1.9/2	R- S- 1Y	3RD- S-		2RD- S- 2Y
+		Cargo Ship	Treasure 4/4	Treasure 2.8/3	Treasure 2.9/3
+				Container 4/6	Container 5/8
+
+A4
+	T1: EMPTY Surface Wreck
+	T2: Bubbles Ship near T1
+	T3: Bubbles Yatch near T2
+	T4: 48 Bubbles Wreck in front of base
+
+B3
+	T1: DONE Surface Whole Ship near container
+	T2: 17 DONE Bubbles and Mast tip sunker Yatch other side island
+	T3: DONE Bubbles left of T2, near "mini island", hard to spot, large grouper nearby
+D3
+	Clay near base, approx. dead shark
+	T1: DONE Bubbles, fully sunken Yatch, near C5, marked by Giant Fish
+
+C4
+	Rock Deposit dead center
+	T1: 38 Partially submerged capsided Ship opposite side
+	T3: DONE? Beach Wreck near T1
+	T2: DONE Surface Ship left of base
+
+B2
+	T1: OK Long Mast, Large Ship
+	T2: PARTIAL Bubble Pole, small tip, sunken Ship near base (left/counterclock) - will count
+	T3: DONE Upside down wreck, very near base (right/clockwise)
+
+C2
+	T1: 18 DONE Mast Ship right of base
+	T2: 16 DONE Tip Yatch right of T1 (with a large locker)
+	T3: 19 DONE Bubbles sunken Wreck left of base
+
+D2
+	T1: DONE Surface whole Ship left base
+	T2: OK Mast Large Ship near Container. Loot but did not count
+	T3: DONE Surface Boat Wreck
+
+D4
+	T1: DONE Beach upside down ship wreck
+	T2: DONE Bubbles sunken intact Ship, very hard to find, left T1, Large Groupe to mark
+
+D1
+	T1: 20 DONE Beach/Rocks Wreck
+	T2: 21 DONE Bubbles sunken Wreck close to empty surface wreck left of T1
+	T3: 22 DONE Bubbles Tip Yatch
+
+E1
+	T1: 23 DONE Bubbles Tip Yatch very far from shore, other side of T2
+	T2: 24 DONE Surface Whole Ship facing B5 (3 Tyres, 3 Barrels)
+	T3: EMPTY Surface Wreck right of T2
+	T4: EMPTY Bubbles submerged Wreck right of T3
+
+E2
+	T1: 25 DONE Long mast Large Ship in front of base (1 cabinet 1 wc)
+	T2: 26 DONE Surface Wreck behind small hill left of base
+	T3: 27 DONE Ceiling Ship left of T2
+	T4: 28 DONE Surface Capsided Ship
+	T5: Survival Hut
+
+A1
+	T1: 29 Surface ship right of base
+	T2: 30 Surface Wreck right and close to T1
+	T3: PARTIAL Huge Cargo Ship
+	T4: OK Bubbles very far and deep sea Ship between T1/T2 and T3. 3 WC + Buoys, did not count
+
+B1
+	T1: 31 Capsided Wreck near front of base
+	T2: 32 Half surface Ship left of T1
+	T3: 33 Mast Long Ship left of T2
+	T4: 34 Surface Wreck right of base
+	T5: Survivor Hut
+
+A2
+	T1: 35 Surface Wreck right of base
+	T2: 36 Long Mast long ship left of base
+	T3: 37 Surface Ship left T2 buoys
+
+B5
+	T1: 39 Surface Ship other side
+	T2: EMPTY Bubbles encrustred wreck deep far shore right of T1
+	T3: OK Cargo Ship
+
+E4
+	T1: OK Huge Cargo Ship
+	T2: OK Pole Tip Ship
+	T3: EMPTY Bubbles wreck
+
+C5
+	T1: 40 Wreck beach
+	T2: 41 Bubbles sunken Wreck left of T1
+	T3: 42 Bubbles Yatch
+	T4: 43 Bubbles Roof Ship
+
+D5
+	T1: 44 Boat Tip other side
+	T2: EMPTY Surface Wreck close to T1
+	T3: OK Bubbles far shore hard to see, encrustred ship, right of T1
+	T4: OK Airplane far deep no buubles in front of base, a bit left
+
+E5
+	T1: 45 Surface Capsided boat wreck left of base
+	T2: Survivor Hut other side
+	T3: EMPTY Bubbles wreck between T1 and T2
+	T4: 46 Surface Wreck near T2
+	T5: OK Airplane far deep near T1
+
+A3
+	T1: 47 Tip Boat close base
+	T2: EMPTY Wreck close to T1
+	T3: PARTIAL Bubbles Tip Yatch very far hard to see other side
+
+-------------------------------------------------------------------------------
+### Resources
+
+- Tools with Durability can (and should) be used up to 1% before consumed in other crafting recipes.
+  This applies to Stone Tool, both Axes and the Crude Hammer
+
+- https://www.reddit.com/r/strandeddeep/comments/nbj8xj/guide_complete_deforestation_in_7_easy_steps_pros/
+
+- To save inventory slots and raft weight, attach Sticks/Buoys/Barrels/Tires/ as temporary Raft Bases and dismantle at home.
+  Similar for Planks and Corrugated Scrap as Raft Floors
+
+
+-------------------------------------------------------------------------------
+### Achievements
+
+- Building the Gyrocopter nulls the "Magnets, how do they work?" achievement, as it has a built-in COmpass
+- "Two by Two" requires 2 Giant Crab, 2 Night Snake, 2 Hog (aggressive large pig), 2 Wild Boar (passive smaller pig)
+	Possibly need to be in front of you, not behind
+
+
+-------------------------------------------------------------------------------
+### Rafts
+
+- If a Raft Base is connected on more than one side it's permanent
+- If your sail is open while you use the motor the raft goes at sail speed
+- Sail positioning does NOT matter, only its direction. Maybe Rudder too?
+- All Floor materials are equivalent. They all add weight to the raft (developer @ 2018), but it seems it does NOT.
+- Bases have different heights and possibly buyoancys (supported weight), so build them simmetrically
+- Sharks and Bosses cannot destroy any Raft, and cannot flip 2x2 or larger Rafts.
+- Default Motor steering is horrible (too sensitive, goes in sharp circles). Auto-Walk is a great workaround (double-tap forward)
+
+Raft Rudder and Motor placement Quirks:
+	Base can be attached behind Rudder or Anchor (covering it), but NOT behind Motor
+	If they're removed afterwards, can't rebuild unless back base is removed too (and rember bases
+	Motor can be build in such back base behind a covered Rudder ONLY IF there are no bases to the side of the back base
+		XXX is fine, but XXX is not. Go figure!
+		 R               XRX
+		 M                M
+	You can build the side bases afterwards, but if motor is removed it can't be rebuild (similar to covered Rudder above)
+
+Fully dismantable raft layout, start dismantling by either Y:
+OUTDATED: Might not dismantle weight pivot or initial base
+	XY-
+	X-Y
+	XXX
+https://www.reddit.com/r/strandeddeep/comments/nc83az/ship_design_wollie_3x3_the_fully_uncraftable_ship/
+
+For Container Panels and Doors, if a Raft is large enough to be *stable* (~4x3 will do), size does NOT matter:
+- 2 panels is barely noticeable
+- 4 sinks a bit, fully operational
+- 6 sinks a lot, rudder operational but underwater
+- 8 sinks all the way
+
+
+-------------------------------------------------------------------------------
+### Scavenging
+
+- Loot in containers (Locker, Console, Wood Crate) are random and set when first *opening* the container.
+  Taking a Wood Crate without opening it does NOT set its contents.
+- Ship counts as Scavenged on Watch when all containers are either opened or taken.
+  Freeing Barrels/Tyres/Buoys do not count, so no way to track them.
+- Save before opening containers and reload to re-roll contents.
+- Intact submerged Ships may have entrance on deck floor, invisible hole/trapdoor that looks covered with rusty texture
+- Yatchs may have Large Locker that's very hard to find and easy to miss.
+
+-------------------------------------------------------------------------------
+### Food and Farming
+
+- Canned Food fulfills 3+ both water and hunger
+- Yukka Fruit (the seed) only grows once, after first harvest, if harvested with refined knife
+- Yukka Trees, planted or wild, takes 48h to regrow
+- Farms use 1 water every 12 hours. There's at least 3 full days worth of water in a plank or metal farm.
+- Smoked Meat lasts forever, but must be cooked AND smoked. Wait for Smoker's 2nd ring! Takes a LONG time.
+- Spoiled items are still good for planting, fuel (Potatoes) and crafting (Antidote, etc). Spoiled Meat is therefore useless.
+- Spoilable:
+	Any Meat (Raw or Cooked but not Smoked)
+	Edible Fruits: Kura, ...
+	Potato
+	Egg
+	Cocunut Food (opened Coconut)
+- NON-spoilable:
+	Yukka Fruit
+	Fibrous Leaves
+	Non-Edible Herbs: Pipi (poison), Aloe (sunblock), ...
+	Dead but not fully skinned animals (tested with crab)
+	Coconut and its Drink (skinned Coconut, either full or empty)
+
+-------------------------------------------------------------------------------
+### Exploring
+
+- When leaving home island, take note of Date/Time, Islands Visited and Ships Scavenged.
+  To keep track of home farms irrigation (return date) and fully scavenged treasures
+	Day 122 1AM
+	Islands: 9
+	Ships: 16
+
+- If more than 3 days have passed, wait for thunderstorm before going back to avoid losing crops
+
+-------------------------------------------------------------------------------
+### Exploiting
+
+- Saving, exiting and reloading will increase grown crops by 1, repeat to harvest multiple times
+	Saving multiple times before exiting or reloading multiple times the same save does NOT trigger this
+	Also affect Container Walls/Doors on Cargo Ships
+	May also affect some ships so they don't count as scavenged on Watch
+
+- Raft Floor can be removed after crafting Container Shelves on top of it.
+	Floor might be placed back if bottom shelf is empty
+
+- Poison heals by itself after 72 hours. Sleep early (18h) to minimize health depletion
+
+- With Max Building/Crafting, use the full material refund when dismantling stuff to get:
+	- free Water with Water Still
+	- free full Fuel with Campfire
+	- free 100% durability restore on Refined Axe and Crude Hammer with Plant Station
+
+-------------------------------------------------------------------------------
+### World and Cartographer
+
+- World is a 5x5 grid, starting island on center, 3 Bosses and Carrier Ship (end game)
+- Islands can be Large (mountain pillar, tall pine trees) or Small.
+- Large Islands have 2 Giant Crabs, 0-1 Hog, 1-2 Pigs, 1-2 Snakes. Small have 1-2 Giant Crab
+- Starting Island is always Small without animals, just (small) Crabs.
+- Seed controls islands shape, features and shipwrecks, NOT Bosses locations!
+- Good Seed (7 Cargo Ships): 21848428
+- Cartographer marks in red the 3 Bosses, Carrier Ship and the Island currently saved
+  This makes it very easy to know where you are: save, exit and check Cartographer.
+
+ASCII Map Template
+------------------
+A1		B1		C1		D1		E1
+A2		B2		C2		D2		E2
+A3		B3		C		D3		E3
+				Start
+A4		B4		C4		D4		E4
+A5		B5		C5		D5		E5
+
+Notation
+---------
+X9* - Coords A-E, 1-5; * for base: Shelter + Meat Smoker + Water Still
+Appearance: Large/Small/Boss/Carrier
+Animals: Crab, Snake, Hog, Pig (Boar)
+Resources: Rock, Sticks/Trees, Palm Trees (whole), Trunks (bare), and quantities left (#, % or - for taken)
+Deposits: Rock, Clay, Wood
+Plants: Yukka (if not 3), Pipi, etc
+Treasures: 0 for VISITED, 0.5 for PARTIAL or OK (seems empty now), 1 for DONE (fully explored)  /  1 for SEEN
+Goodies: Barrels / Tires / Red Containers left
+
+X9: Treasures / Shipwrecks list
+	T1: SEEN/VISITED/PARTIAL/OK/DONE Shipwreck description and Location
+	T2: SEEN Bubbles/Mast/Tip/Surface Capsided/Intact/Wrecked/Whole Wreck/Boat/Ship/Yatch/Cargo
+
+Example
+-------
+C1 *		C2...
+Large
+2C, 2S, 1H, 2P
+R- S- P90% T5
+2Y, Quawagaya
+2RD-, 1CD, WD
+Treasure: 1.5/3
+3 Barrels
+
+C1:
+	T1: SEEN Surface Whole Boat right of base
+	T2: DONE Bubbles Yatch right of T1
+	T3: PARTIAL Cargo other side of island
+
+C2:
+	...
+
+-------------------------------------------------------------------------------
+### Start
+
+- Ignore Tutorial for now
+- Find 1 Rock, craft Stone Tool
+- Find and Chop the 3 Yukka Trees. For each, grab Fruit, 2 Leaves and craft 1 Leashing to consume the other 4
+- Grab Sticks, Rocks, use Stone Tool on 2 x Palms Bushes then Trees and Saplings until 1%
+- Use 1% Stone Tools to craft Crude Hoe, Hammer, Axe. Save 1 for Refined Knife
+- Use Life Boat rations for initial Water and Food needs. Drink Cocunuts only to leverage Water.
+- Craft Camp Fire, Fire Pit, Shelter
+- Grab 2 x Cocunuts and 1 x Cloth, craft Water Still, Water Flask. NEVER drink from it, save for crops
+- Craft Crude Spears when needed to level up Crafting, up to 12.
+- Use only Fronds for Fuel and Water Still. Leaves are needed for initial Lashings, Sticks for Raft Bases
+- Save 2 Planks/Corrugated for initial Raft Floor
+- Use extra Planks, Corrugated Metal, Sticks/Lashes to build 3+ Farm Plots, plant Yukka
+- Craft Loom and Cloths for Smoker, Rudder, Sail
+- Don't bother with Raft yet: Sail + Rudder requires additional 2 x Cloth you won't have until Loom / next Island
+- Initial (temporary) Raft, using bases with whatever found on shipwrecks + Sticks, in build order:
+	BA
+	C G
+	DEF
+- Rudder and Anchor on A, Sail on B
+- Initial Scavenges: re-roll until, in priority order:
+	1-3 x Leather, if no Sharks (Passive). 2 for Refined Pick (Clay and Stone Deposits), 1 for Refined Axe (Plank Station)
+	1 x Corrugated Scrap, if uneven, for Farm Plots
+	1 x Refined Hammer
+	1 x Oxygen, for Speargun
+	Jerrycan, as many as possible
+	Motor parts, non-duplicated
+- Fill Farm Plots and sail with Life Boat to closest Large island.
+  Take with you:
+	Refined Knife, Crude Axe and Hammer, 12+ x Crude Spear in Wood Crates. Bring back, in priority order:
+	Rawhide, as many as possible
+	Even Corrugated Scrap / Planks
+	Palm Bunches
+

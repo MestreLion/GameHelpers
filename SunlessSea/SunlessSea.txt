@@ -1,0 +1,1690 @@
+TO-DO NOTEBOOK
+------------------------
+Gaider
+	request from gant
+
+"You succeeded in a QUALITY challenge!" - Khan's Heart get Vital Intelligence
+
+OFFICERS
+===============================================
+
+- Bandaged Cook
+	Being told of (Tea with the Factor)
+		Demeaux Isle (Iron & Misery), SAY
+		= +1 x Supplies, +7 Fragments, -2 x Terror
+	Acquire
+		$300 Venderbight
+	Dine
+		1 x Mutersalt
+		1 x Strange Catch
+		1 x Supplies
+	Dine again
+		~5.55 x Strange Catch (2 success @ 34% chance) or Live Specimen (75%)
+		= -20 Hunger (if Strange Catch fail), -50 Hunger (if Live Specimen fail)
+	Chelonate
+		3 x Hunting Trophy
+	Speak again
+		1 x Mutersalt
+		1 x Zzoup
+		= +10 x Hunger (yes, it *increases*)
+	Khan's Heart
+		10 or 5 x Drowning Pearls
+		= +1 x Secret (if 10 Drowning Pearls)
+	Speak
+		1 x Cockadoo bird (Mascot, Wisp-Ways Mangrove College) or Colossal Fluke
+	Fathomking's Hold
+		5 Wine
+
+- Brisk Campaigner
+	Acquire
+		$50 London
+	Dine
+		1 x Supply
+		1 x Mutersalt
+		= +1 x Hearts
+	Wait for Collapse (Another Day: Time, the healer >= 100)
+	Ask after her health, then 'What do you need?'
+	Cure for amniscense
+		1 x Docile Blemingan (Uttershroom, 1 x Prisoner Honey)
+		1 x Strange Catch (Irem, $25)
+		1 x Mutersalt (Whither, 5 x Zee-Ztory)
+		1 x Solacefruit (Gaider, 1 Lamentable Relic + SAY for 2)
+	Another step (50% chance not required)
+	
+		1 x Secret (yes, you LOSE it)
+	Scintillack and solacefruit
+		1 x Solacefruit
+		1 x Secret (again)
+		1 x Scintillack
+	One more idea... (20% chance)
+		1 x Judgement's Egg (wtf?)
+		3 x Secrect (omg!)
+		Stone's Attention
+	Final toast
+		1 x Wine
+
+- Carnelian Exile
+	Acquire:
+		$50 London or free Grand Geode
+	Dine
+		1 x Searing Enigma
+		= +1 x Mirror (take glasses) or +1 x Veils (keep glasses)
+	Talk
+		Protest: +1 x Hearts,  +1 x Secret, +1 x Extraordinary Implication
+		Accept:  +1 x Mirrors, +1 x Secret, +1 x Extraordinary Implication
+	Talk
+		Requires Salt and (Storm,Stone?) Attention (does not spend it)
+		"The Zee is wide":         +1 x Hearts
+		"The Zee is my only home": +1 x Veils
+		"I cannot rest":           +1 x Mirrors
+
+- Cladery Heir
+	Dine
+		1 x Supply
+	Find Father in Venderbigh
+	Starting souvenirs
+		1 x Strange Catch
+		1 x Live Specimen
+	Do not push about him before 10+ souvenirs
+	Port Souvenirs
+		Nuncio
+		Irem
+		Port Carnelian
+		Cumaean Canal (+1 Crew)
+		Adam's Way
+	Repeatable Suvenirs
+		Soothe Long-Box
+		Blemmingan
+		Prisioner
+	Push Father
+		+1 Souvenir
+	Frostfound, extract ship
+		easy Mirror challenge
+		tough Hearts challenge
+	Port Carnelian
+		Boat
+
+- Irrepressible Canoneer (Memento Mori)
+	Acquire:
+		$20 Iron Republic or $20 London
+	Dine:
+		 5 x Supplies
+		10 x Fuel
+		 5 x Torpedo Components
+		= +1 Iron, +1 x Tales of Terror
+	Demeaux Island (Iron & Misery Co.)
+		$200
+	Aestival
+		5 x Supplies
+		= +1 x Secret, Memory, Artifact, +2 x Lamentable Relic, +5 x Terror
+	Iron Republic
+		1 x Judgement's Egg
+			Easier/Cheaper ways to obtain, somewhat in order:
+			- Reward for completing Mr. Sacks quest
+			- Reward for completing The Last Tour at Venderbight with full (12) Tomb-Colonists
+			- Buy for 1 x Colossal Fluke-Core (hunting) in House of Pleasures at Iron Republic
+			- Reward for Avuncular Broker quest, warning the target in London (bad, the other reward is a Mountain-sherd)
+			- Trade for 1 x Ray-Drenched Cinder (Empire of Hands reward in Audiece with King) at Empire of Hands Exchange of Gifts
+		= 1 x Searing Enigma, 1 x Awakened Seal of the Red Science
+	Station III
+		1 x Lamentable Relic
+		3 x Devilbone Dice
+		1 x Searing Enigma
+		SAY
+		= Memento Mori
+	SHOPLIST:
+		$245, 10 x Supplies, 10 x Fuel
+		 1 x Judgement's Egg
+		 3 x Devilbone Dice
+
+- Haunted Doctor
+	Acquire
+		Free in Savior's Rocks or $50 London
+	2 x Dine
+		1 x Supplies
+		= 1 x Intriguing Snippet
+	Drink
+		1 x Wine
+		= 1 x Intriguing Snippet, 1 x Tale
+	Khan's Shadow
+		= Determined Doctor
+	Zee, "A spy walks the ship!" random event
+		Requires to be carrying one of:
+			1 x Strategic Information
+			1 x Moves in the Great Game
+		Does not consume the items
+		Having both doubles the chance to trigger the event
+	Demand an explanation
+	Pass Judgement
+	Return to work
+	Check on him
+		= +1 x Searing Enigma
+		= UPGRADE
+
+- Genial Magician
+	Acquire
+		$50 London
+	Dine
+		1 x Supplies
+	Dispel Darkness: -25 x Terror (in a VERY expensive way). NOT part of the quest!
+	Irem (or may happen in Explore Venderbigh for free, 5% chance)
+		1 x Coffee
+	Ask Khanate
+		1 x Supplies
+		= +5 x Fragment
+	Khan's Heart:
+		either one of:
+			$500
+			1 x Watchful Curio + 2 x Bale of Parabola-Linen + 5 x Secret
+			1 x A Pewter Horsehead
+	London - Forgotten Quarters
+		167 Mirror Challenge + 1 x Firkin of Prisoner's Honey per try
+	Choosing (1 try only):
+		84 Hearts challenge
+			Prudent (worst)
+		1 x Scintillack, 3 x Secret
+			70% > Satisfied (can build Serpentine, good stats)
+			30% > Urbane (no Serpentine, best stats)
+	Shoplist:
+	$1700 or $1200 if 1 x A Pewter Horsehead
+	1 x Coffee
+	1 x Firkin of Prisoner's Honey (most likely 5+)
+	1 x Scintillack
+	3 x Secret
+
+- Maybe's Daughter
+	Acquire:
+		$30, London
+		Free at Mangrove College
+	Dine:
+		1 x Strange Catch
+		1 x Supplies
+	7 ports to visit, each one doubling success rate: 2%, 4%, 8%, 16%, 32%, 64%, 100%
+	Lady in Lilac acts like an additional 8th "port" [verify]
+	Some failures give nice items, so try them first:
+		Wither: 1 x Mutersalt (hard to obtain, needed for Bandaged Cook)
+		Khan's Heart: 1 x Moves in the Great Game
+		Irem: +10 x Fragment
+		...
+	When found, triggers "A visit to the Bazaar" in London
+		Let her go alone:
+			 70% Maybe's Rival
+			 30% LOSE HER
+		Salt Lions Sphinxstone Delivery, Go with her, Discourage her:
+			100% Nobody's Daughter
+		Salt Lions Sphinxstone Delivery incomplete, Go with her, Let her go down:
+			 75% Maybe's Rival
+			 25% LOSE HER
+		Salt Lions Sphinxstone Delivery complete, Go with her, Let her go down:
+			 99% Maybe's Rival
+			  1% LOSE HER
+	Maybe's Rival is best, Nobody's Daughter is better then losing her
+	Conclusion:
+		- If Sphinxstone Delivery is complete, 99% chance of Maybe's Rival
+		- If incomplete, settle for Nobody's Daughter or risk losing her
+
+- Merciless
+	Acquire
+		5 x Bale of Parabola-Linen
+	Dine
+		1 x Solacefruit
+		1 x Zzoup
+	2 x Speak (choose from 3 options, may repeat options)
+		1 x Comatose Ferret (yes, your useless Officer)
+		3 x Bale of Parabola-Linen
+		1 x Blue Feather (beat Blue Prophets. Good luck!)
+		= +1 x Pages
+		1 x Strange Catch
+		1 x Scintillack
+		3 x Bolts of Spider-Silk
+		= +1 x Hearts
+		1 x Casket of Sapphires
+		3 x Bale of Parabola-Linen
+		3 x Stygian Ivory
+		= +1 x Iron
+	Polythreme
+		= +10 x Zee-Story
+	Talk
+	London
+
+- Nacreous Outcast
+	Acquire
+		Port Cecil chess game, after extra move
+	Salt Lions
+		1 x Salt's Attention (Whither, Hunter's Keep 1st sister)
+	Dine
+		1 x Strange Catch
+		= 1 x Secret, 1 x Zee, 1 x Tale
+	UPGRADE:
+		Lose Port Cecil game
+	Use in GodFall
+
+- Plausible Surgeon (Poet)
+	Only Officer to raise Pages
+	Dine
+		1 x Supplies
+	Chelonate
+		= 1 x Strategic Information, $200
+
+- Presbyterate Adventuress
+	Acquire
+		$50 London or free Adam's Way
+	Dine
+		1 x Supply
+		1 x Coffee
+		= +1 Zee Story
+	Dine again
+		1 x Supply
+		1 x Coffee
+		Iron Challenge success
+			+1 Iron
+			+20 x Fragments
+			+1 Memory of Distant Shores
+			skip 3rd dinner
+		Iron Challenge fail
+			+5 x Fragments
+			-1 x Terror
+			must dine 3rd time
+	Dine 3rd time
+		1 x Coffee Beans
+		1 x Supplies
+		= +2 x Supplies, +100 x Fragment, +1 x Memory of Distant Shores
+	London Fight
+		Iron Challenge, 135
+			-4 x Crew, +1 x Iron	fail
+			-1 x Crew, +1 x Iron
+	Ask why ambush
+		+1 x Secret
+		+1 x Pages
+	Abbey Rock
+		5 x Romantic Literature
+	The Last Night
+		Record her memories of her travels: +1 x Mirrors, +1 x Secret, +7 x Zee-ztory
+		Spar with her: +1 x Iron, +1 x Secret
+		Suggest you share a bed: +1 x Hearts, +1 x Secret, -10 x Terror
+		Record her memoirs about her homeland: +1 x Pages, +7 x Memory, +1 x Secret
+	Watch!
+
+- Scarred Sister
+	Sisters:
+		Cynthia: Salt
+		Lucy:    Stone
+		Phoebe:  Storm
+	Hunter's Keep
+		Silent House, Search the House, Save Phoebe
+		Several Mirror and Veils challenges (84 for 100%)
+		-1 x Crew
+	Naples
+
+- Scrimshaw Chronicler
+	Gaider's Mourn
+		Chelonate Iron Challenge
+	Irem
+		1 x Coffee
+		2 x Wounds, Mirror Challenges
+
+- Sigil-Ridden Navigator
+	Acquire
+		$50, London or Shepherd Isle
+	Dine
+		1 x Supply
+	Chapel of Lights
+		1 x Crew (if Unacountably Perish > 0)
+		or
+		1 x Live Specimen
+		= +1 x Unacountably Perish
+	Frostfound
+		5 x Supplies
+		1 x Outlandish Artifact
+		= 1 x Wounds
+	Speak
+		SAY + Doctor Aboard
+	Avid Horizon
+		1 x Strategic Information
+	Speak x 4
+		Unaccountably Peckish >= 3
+	3 rewards:
+		Kingeater Castle => PROMOTE to Sigil-Eaten Navigator (arguably the best First Officer)
+		Codex            => LOSE Officer, +1 x Searing Enigma (worth $1000)
+		Empire of Hands  => LOSE Officer, +2 x Revelatory Chart (worth $250 each), +2 x Mirrors
+
+- Tireless Mechanic
+	Acquire
+		$20 Frostfound
+	Dine
+		1 x Supplies
+	Hunter's Keep
+		1 x Tales
+		1 x Memories
+		1 x Zee
+		1 x Clay Men (Polythreme)
+		1 x Empty Mirrorcatch Box (Curator item, Khan's Shadow, $250)
+	Frostfound
+		-1 x Veils
+		-1 x Iron
+		-1 x Hearts
+		Terror = 50
+	Wisdom
+		$3000
+	Dinner Sage
+		1 x Strange Catch
+		1 x Supplies
+		= +1 x Extraordinary Implication, $100
+	Grand Geode
+		50 x Supplies
+		 7 x Crew
+		 1 x Vital Intelligence
+		= 1 x Element of Dawn
+	Kingeater Castle
+		40 x Stygian Ivory
+		 1 x Casket of Sapphires
+		= 1 x Fulgent Impeller, 1 x Searing Enigma, +10 x Terror
+
+	Shoplist
+	$3000 for Sage
+	$1080 for 40 Stygian Ivory ($1040 in Chelonate)
+	$1000 for 50 supplies ($250 in Naples)
+	  $86 for  1 sapphire
+	1 Vital Intelligence
+	7 Crew
+	Frostfound, Wisdom, Khan's Shadow (Chelonate), Grand Geode
+
+	Repeated uses:
+		1 x Clay Men (could sell for $20 in London)
+		1 x Empty Mirrorcatch Box ($250 Khan's Heart)
+		1 x Crew (can buy for $5-$12 London)
+		5 x Supplies
+		1 x Candle
+		Sell full box in Khan's Shadow ($500)
+		= $80
+
+
+==================================
+
+Aestival
+- If Fathomking is nearby:
+	- 1 Crew per Scintillack (+1 Zee Story)
+	- Scintillack from Pigmote Isle = portable Crew!
+- If Empire of Hands is nearby:
+	$20 per Supply
+
+Pigmote Isle
+- Wait for Veils > 67, choose Veils challenge for maximum Civilization
+- Forging Peace right away is worth it: raising Spirit afterwards in ghetto advances Progress
+
+
+WHAT NEEDS WHAT (Checklist before you go there)
+=================================================
+
+Adam's Way
+	BEST BUY Coffee $38
+	BEST SELL Wine $24 (After Godfall expires)
+	Good Sell $63 Bale of Parabola-Linen (not necessarily best use...)
+	Nice place to reduce Terror: $20 for -10
+	Nice place to get Stories, Memories, Tales
+	Cheap Fuel: $12
+	Cheap Supplies: $25
+	Cheap Candles: $30
+	Requires Recent News or Unread Logs or Port Report Mt Palmerson
+
+Abbey Rock
+	Strange Catch -> Scintillack
+
+Aigul
+	Every SAY advances the story, as it seems. After 3 x needles, nothing yet. Only on 10?
+
+Anthe (Mt Palmerson)
+	Rosina (before saving)
+		Do NOT use *any* Literature, or Needles
+		Cheapest cure is with SAY
+		After saved:
+	Rosina (After Saved)
+		2 x Supplies + SAY
+		= -1 x Wounds
+	Get Lungs, Liver, Spleen, Bone
+	All Sharpness
+		Trade all for +5 on any stat (except Veils).
+		Can regain all sharpnesses, but the stat bonus is a one-shot
+	Bone
+		= -3 x Terror for $15
+	Hearthmetal Ingot (Bone + Skin)
+		= 5 x Supplies, Zee, Tale, Vision, Memory, Trophy
+	Spitting
+		Only 2.5% chance of actually winning a Solacefruit
+		47.5% chance of -3 x Terror
+		A total waste of Intriguing Snippets
+	Sell song of Broken Hulls
+		= 3 x Intriguing Snippet, ~2 x Supplies
+	Romantic Literature
+		= ~1.5 x Supplies
+	Dauntess Palate (Skin+Tongue+Liver)
+		1 x Lamentable Relic
+		= 1 x Strange Catch
+	Stop by the smokehouse (Lungs + Liver)
+		5+ Honey (but only spend 1!)
+		= ~5 x Supplies, ~5 x Fuel. WOW!
+	Contribute to the celebration (Liver)
+		1 x Wine
+		= 1 x Supplies
+	Set down Clay Men (Spleen + Skeleton)
+		6 x Clay Men
+		= $120, +1 x Soothe & Cooper Long-Box
+	Share an enraging story (Liver + Spleen)
+		1 x Recent News
+		= 1 x Fuel, +50 x Fragment
+
+Chapel of Lights
+	Throw Nightmare to Well -> Scar (Curator Item)
+	3 Ambiguous Eoliths -> Extraordinary Implication
+
+Chelonate, The
+	BEST SELL Cascket of Sapphires $99
+	BEST BUY Styingian Ivory $26
+	Scrimshaw Chronicler: 1 x Hunting Trophy + 1 x Zee-ztory => 1 x Outlandish Artifact
+
+Codex
+	Lamentable Relic + SAY -> Unread Log
+
+Dahut
+	BEST SELL $66 Bale of Parabola-Linen
+	Spring Rites: Clarity <=3, Enthralment as high as possible
+		Linger
+		= +1 x Drownie Love-Song
+	Liturgy of Souls: Enthralment <= 3, Clarity challenge (13 for 100%)
+		= +1 x Drownie Hymn
+		All Songs
+			= 1 x Searing Enigma
+	Midsummer Festival: Enthralment >= 15, Clarity as high as possible
+		Linger
+		= +1 x Drownie Song in Counterpoint
+	Midwinter (Prision): Clarity >= 15?
+		Release Woman (Broken Hulls Song)
+		See everything (Clarity 10): +1 x Secret
+
+Demeaux Island (Iron & Misery Co.)
+	LOTS of interesting things with SAY
+	2 x Strange Catch + SAY = Long Box
+	1 x Echo + SAY = Crew
+
+Empire of Hands
+	Monkey Foundling
+		Chase her, be nice, let her stay -> Mascot
+	Explore everything, Compile Comprehensive Port
+	Return to London, Your Lodgins, accept helping Adventurer
+	 1 x Recent News (for Dynamite) (important!)
+	 1 x Flare (important!)
+	 1 x Candle (can buy from Pirates for 1 x Supplies. A good deal)
+	10 x Wine (to poison pirates)
+	 1 x Searing Enigma or 1 x Red Honey
+	20 x Supplies (if pirates poisoned, otherwise 50)
+	LOTS of Fuel (200 - 40 x Hidrogen deliveries)
+	First Audience with Emperor
+		+5 x Empire of Hands: Wildweald Status
+		Any success challenge: +20 x Fragment
+	Gifts for Emperor:
+		1+ Wine      => +2 Wildweald Status, +1 x Coffee
+		1+ Honey     => +2 Wildweald Status, +2 x Romantic Literature
+		1  Red Honey => +5 Wildweald Status, +1 x Violant Ink (curator)
+		1  Cynder    => +5 Wildweald Status, +1 x Judgements' Egg
+	Need Wildweald Status >= 35 for all bonuses to Zeppelin
+	Zeppelin:
+		200 x Fuel
+		 50 x Supplies
+	Fuel Bonus: get Hydrogen in Iron Republic, worth 40 x Fuel for Zeppelin (repeatable)
+	Supplies Bonus: Poison Pirates at Hearthsake Island, worth 30 x Supplies for Zeppelin
+		Lose access to Island, so get items first!
+	Pirates
+		Buy Dinamite with Recent News!
+		Buy Candle if needed
+		Buy Treasure Hunt Map if wanted
+	Treasure Hunt
+		1 x Searing Enigma
+		X = 1, Y = 4
+		= +10 x A Casket of Sapphires, +1 x A Pot of Violant Ink (curator)
+		Cheaper then using Red Honey with Emperor, but way more trouble.
+	Sell your soul to Emperor
+		Wait until 10+ Wildweald Status to have 50% chance on Cinder, otherwise 0%!
+		= +1 x Ray-Drenched Cinder (curator)
+	Vault
+		Yellow
+		Blue
+		Red
+	Decision after betrayal and reunion (Team up Adventuress, Fair Deal, Team up Mayor)
+		= It does not matter, exactly same outcome
+	Donate the Legacy!
+		= Completely fullfills Zeppelin Souls requirement
+	Punish the Delightful Adventuress
+		= +5 x Wildweald Status (capped at 50)
+	After Zeppelin complete, Audience with the Emperor
+		= +3 x Ray-Drenched Cinder
+	Steal Zeppelin
+		Require Storm's Attention
+
+Fathomking
+	ZeeStory
+
+Gaider's Mourn
+	1 x Drowning Pearl + SAY = 2 x Solace Fruit
+	BEST SELL Firkin of Prisoner's Honey, $26 (before zubmarine)
+	Good sell Wine
+
+Gant Pole (Chelonate)
+	BEST SELL Harlot-Fry, 10 x Hunting Trophy
+	Cheap Fuel, $12
+	Cheap Supplies, $18
+	Bring beasts. When arrived:
+		Help the old lady until end, THEN
+		Help the sailors
+	Old lady quest rewards:
+		+1 x Searing Enigma, tons of Fragments, 6th Witness in Kingeater
+	Old Sailors
+		Every beast sent
+		= 1 x Extraordinary Implication, +100 x Fragment, -20 x Hunger
+		1 x Foxfire Candle to enter caves
+			2 x Intriguing Snippet + 5 x Zee-ztory
+			= 1 x Extraordinary Implication
+
+GodFall
+	5 x Wine (sell for $150, $30 each), if another Day < 200, $100 otherwise
+	Shattered Citadel
+		10-15 Foxlight Candles (minimum 7 if successfull in all challenges)
+		1 Ambiguous Eolith (chance of finding one inside)
+		Nacreous Outcast (Officer): +2 x Secret
+
+Hideway
+	1 x Coffee, 1 x Honey, 1 x Wine
+		Investigator
+	Visionary
+		7 x Fuel
+		= 10 x Sack of Darkdrop Coffee Beans
+		< 25 x Terror
+		= +3 x Secrets
+	Memento (not worth it)
+		1 x Supplies => 1 x Strange Catch [Fail]
+		1 x Supplies => 1 x Memory [Success, 50%]
+	SAY => 1 x Live Specimen
+	Festivals
+		Silent Reel: +3 Ztory, Tale, Vision, +~10 Terror
+		2nd:         +7 Memory, some Terror
+		The Rainbowing: +1 x Vision, 3 x Strange Catch, 1 x Scintillack, +6 x Terror, Hunger = 0
+	Impolite Investigator quest
+		Ruin the city, +1 x Hearts, +1 x Pages, +3 x Secrets
+
+Hunter's Keep
+	First visit - go explore before aquaintace = +40 x Fragment in success
+	Sisters visits are limited - save for when Terror Reduction is needed
+	Cynthia: Salt,  +1 x Supply, -50 x Hunger,  +1 x Terror, +1 x Tale of Terror
+	Lucy:    Stone, +1 x Supply, -50 x Hunger, -10 x Terror, +1 x Memory of Distant Shores
+	Phoebe:  Storm, +1 x Supply, -50 x Hunger,  -5 x Terror, +1 x Memory of Distant Shores
+	Do not advance "Hunter's Keep in darkness" unless Mirror > 84 and Veils > 67
+		Search the house (instead of Loot)
+		Save Phoebe (instead of Watch)
+
+Irem
+	1 Coffee
+	Buy Strange Catch, $25
+		As many as you can, sell Vender
+	Sell Coffee for Bale of Parabola!! 1:1
+
+Iron Republic
+	BEST BUY Fuel $8
+	BEST SELL Scintillack $74
+
+Isle of Cats / Port Cavendish
+	Unlock King: 5 times any of (repeatable):
+		1 x Recent News (free in London, best use)
+		1 x Lamentable Relic (gives 20 Fragment back, great)
+		5 x Zee-ztory (ouch! expensive, avoid)
+		5 x Fuel
+		60 x Fragment
+	Choose ISENRY as patron
+	Last reward
+		Take a sip: +10 x Vision
+		Decline:    +10 x Wine
+		Other rewards are the same for both
+
+Khan's Glory
+	5 x Coffee (1st time)
+
+Khan's Heart
+	Buy some Vision of the Surface $5 stranger (suspicion +1, until +10 is fine)
+	Firkin of Prisioner's Honey (Spy network)
+	NICE BUY Foxlite Candles $30
+	NICE BUY Coffee $40
+	BEST SELL Casket Wine $24
+
+Khan's Shadow
+	Hunting Trophy + SAY = 4 Watchful Curios
+	Nice buy Styngian Ivory $27
+	Nice sell Devilbone Dice $22
+	Nice sell Wine $23
+
+Mangrove College
+	Foxfire Candle for Wisp-Ways: 3 min, Last attempt: 5 (poor stats) (~ 7-10 for safe)
+
+Mt Palmerson
+	1 Crate of Human Souls (1st climb to Volcano)
+	5 Linean Bale (Merciless Officer)
+	BUY ONLY SHOP Dice $19
+	BUY ONLY SHOP Ambiguous Eolith $35
+	NICE BUY Fuel $9
+	NICE BUY Supplies $22
+	Get many items for 2 x Supplies and Terror
+	Go with low Terror, low Cargo
+
+Nuncio
+	5 x Foxfire Candles, 1 x Flare => +1 x Searing Enigma
+	After first visit to Basement, choose either of:
+		Tell the Postal Rat about your basement findings:    +1 x Extraordinary Implication, +1 x Tale of Terror!!
+		Make a further solitary exploration of the basement: +20 x Terror, +1 x Secret, +1 x Zee-ztory
+	SAY:
+		Make a Study of what goes in the back room: +1 x Intriguing Snippet
+	Beach:
+		Watch the tide come in: -5 x Terror, +50 x Fragment, +1 x Outlandish Artifact
+
+Nook
+	1 x Wine to enter
+	Priority: increase Freedom to 15 (Mingle, etc...)
+	Keep Peals ~100
+		1 x Solacefruit => 20
+		5 x Nook => 20
+		Search => ~5, not worth it
+	
+	Dive, roughly from best to worst:
+		Ossuary of bone:  +1 x Secret, +5 x Memory
+		Thong of Nook:    +1 x Extraordinary Implication, +10 x Lamentable Relic
+		Khan ship:       +10 x Drowning Pearl, +5 x Zee-Ztory
+		Slipstream:      +50 x Fragment
+		2 Challenges:     +1 x Long-Box (for Cladery?)
+		Blistering: ~$100
+		Tapeworm: not worth it
+
+Pigmote Isle
+	High stats for Dilemmas
+	20 Drowning Pearls for $100 if sponsored by Fathomking
+
+Polythreme
+	BEST SELL Styingian Ivory $30
+	nice sell cask of sapphires $95
+
+Port Cecil
+	Scintillack for free with SAY
+
+Port Carnelian
+	BEST BUY Cask of Sapphires $84
+	BEST BUY Supplies $18
+	BEST BUY Coffee $38
+	NICE BUY Fuel $12
+	BEST SELL Romantic Literature $22
+
+Scrimshander
+	1+ x Wine
+	1+ x Coffee
+	1 x SAY
+		Each buy Time in Archives
+	Watch plays:
+		Lose Terror, worth it
+	Cargo of Answers
+		Chelonate: +5 x Outlandish Artifact
+		Drownies:  +5 x Live Specimen
+	5 x Zee-ztory OR 1 x Hunting Trophy
+		Pay stay
+	Cheap Fuel, $10
+	Cheap Supplies, $23
+	BEST SELL Hunting Trophy, $65
+
+
+Sheperd Isles
+	1 x Hunting Trophy => Soothe & Cooper Long-Box (SAY 50%)
+	Tales of the Standing Stones: +1 x Memory of Distant Shores
+	Tales of the Three Graves:    +1 x Zee-ztory, +1 x Tale of Terror, +1 x Terror
+	                              +1 x Zee-ztory, +1 x Memory of Distant Shores
+	Tales of Thornwell Croft:     +1 x Zee-ztory, +5 x Fragment
+	2 x Wine, 7 x Supply:         +1 Strategic Information
+	                              +1 Revelatory Chart
+
+Spider:
+	Wine for Port Report
+	Candles, but high-risk challenge (18%)
+
+Station III (some are actually from Demeaux)
+	LOTS of interesting things with SAY
+	Explore the Island + SAY = Blemmigan Colony = 50 Fragments
+
+Uttershroom, The
+	Firkin for Blemmingans
+	1 x Strange Catch + SAY => 1 x Live Specimen [late game, Another Day: Time, the Healer >= 50]
+	Jarful of Tether to Severe Chemist:
+		Consume: +1 x Searing Enigma, +1 x Wrack: Tether Tastings
+		Give:    $1250
+
+Varchas
+	5 actions per SAY
+	Temple of Mihir
+		BEST SELL Lump of Blue Scintillack, +1 x Captivating Treasure, + 5 x Outlandish Artifact = ~$1500
+		Sun-Seers:
+			1 x Scintillack
+			= 2 x Outlandish Artifact
+	Wine (just 1?) (What for?)
+	Hospital: Haunted Doctor or Brisk Campagner (once) [Required for Pilgrimage]
+		+1 x Hearts
+		+1 x Iron
+		+1 x Mirror
+		+5 x Fragments
+		-1 x Terror
+	The Guard House [Required for Pilgrimage]
+		+2 x Iron
+	Evening
+		Kitchens: Heals a Wound
+		Courtyard: +3 x Memory of Distant Shores, -1 x Terror, +5 x Fragments
+		Dont Sleep!!!
+
+Venderbight
+	Trade Strange Catch for 1-to-many (50%) supplies
+	Nice sell Wine
+	BEST SELL Foxfire Candles $33
+
+Visage
+	1 x Flare - ONE-TIME OPPORTUNITY ON FIRST VISIT ONLY! -> Searing Enigma
+	Candle - ?
+	(if played right, may get a Captivating Treasure or Searing Enigma)
+
+Wrack
+	After audience with King, "Wrack" ships and warn them
+	Uttershroom: Taste Tether = +1 x Searing Enigma (but ends the quest)
+	Bone
+		Green:  10 x Fragment, Romance
+		White:  25 x Fragment, +1 x Hearts (from King)
+		Lady:   50 x Fragment
+		Apples: 10 x Fragment, 1 x Vision
+		Fungal: 10 x Fragment, 1 x Memory
+	Cup
+		Grandfather:  10 x Fragment, Friendship
+		Red Curtains: 25 x Fragment, +1 x Veils (from King)
+		Jocular:      50 x Fragment
+		Theater:      10 x Fragment,  1 x Memory
+		Pillow:       10 x Fragment, 10 x Memory
+	Knife
+		Smell of lamp: 10 x Fragment, Partnership
+		Kaleidoscope:  25 x Fragment, +1 x Iron (from King)
+		Sharp Driver:  50 x Fragment
+		Envelope:      10 x Fragment, 1 x Vision
+		Astrolabe:     10 x Fragment, 1 x Vision
+	King's Question
+		Kiss:  Hearts
+		Clap:  Veils
+		Shake: Iron
+		Shrug: Mirrors
+		Snort: Pages
+
+Wreck of the Nocturne
+	Candles
+
+
+TRADE ROUTES
+===============================================
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=382770079
+
+Surface Coffee ~$38/unit
+------------------------
+https://sunlesssea.gamepedia.com/Favours:_A_Drop_of_Darkness
+- Buy 60 (59 in 1st visit) at Adam's Way or Port Carnellian: $2280
+	$105, 1 Cargo:
+		Irem (1 x Strange Catch $25)
+		Utter (1 x Live Speciment, SAY)
+		London Zoo ($125)
+
+	$80, Box full of Angry Dream-Snakes
+		Khan's Heart (Empty Box)
+		Poly (Clay men)
+		Hunter
+
+Sunlight trade
+--------------
+- Buy Mirrorbox from Khan's Shadow, $250/u
+- Fill with sunlight on Surface (Cumaean Canal, 22+ x Fuel, 2+ x Supplies)
+- Sell to Blind Bruiser in London ($400 + empty box) or Isle of Cats ($500, empty box 100% for Veils 167)
+- Lower "Yearning, Burning" by resting
+	Cladery Heir can reset to 0 ONCE. Wait till 100 to maximize usage.
+- To heal Wounds at Zee, Hesperidean Apple ($1665 + 1 x Coffee + SAY) at Irem
+- MUCH more profitable BEFORE Elegant Townhouse. May get rid of without losing Scion
+
+Wisp-Ways at Mangrove College
+-----------------------------
+- Get full Crew in London (~$10/crew)
+- Buy Firelight Candles at Adam's Way ($30/u)
+- Go Mangrove College and enter Wisp-Ways with high stats.
+- Cost per visit (average):
+	-6 x candles, $180
+	-4 x crew, $40
+- Reward:
+	+1 x Captivating Treasure ($1000) or +1 x Searing Enigma ($1000) or 1 x Blue Scintillack ($1500)
+	a few Solacefruit ($50)
+	a few Outlandish Artefact
+
+
+
+Wine to Godfall: $9/unit
+------------------------
+Only until Time = 200
+Multiples of 5
+London ($21/u) -> Godfall ($30/u)
+
+
+BEST USES OF ITEMS
+===============================
+
+- Ambiguous Eolith
+	1, Godfall Shattared Citadel
+	7, Venturer [verify]
+	= 1 x Extraordinary Implication, Chapel of Lights
+	...
+
+- Admiralty's Favour
+	1 x Network: A Diplomatic Agent (ONLY WAY of getting it)
+	2-3 x Fuel ($20-$30 per favor)
+	Repair Hull ($50 discount for 3 favors = ~$17 per favor)
+
+- Approved Romantic Literature
+	Venturer x 7 or sell in London
+
+- Blue Scintillack, A Lump of
+	Curator Item
+	BEST SELL Varchas, Temple of Miht:
+		1 x Captivating Treasure
+		5 x Outlandish Artifact
+
+- Begginner's Luck
+	Avid Horizon: 50% chance of Faceless Skulls, Empty Box. Also get Eye for Curator
+
+- Captivating Treasure
+	Shrine to Stone
+	Heirlooms
+	Alarming Scholar $1000 + 2 favor points
+	Khan's Shadow $1000
+
+- Colossal Fluke-Core
+	Port Cecil Chess Game
+	$1000, Venturer
+	1 x Judgements' Egg, House of Pleasures (Iron Republic), sell for $600 in Polythreme
+	$500, Alarming Scholar
+	Irrigo, Venderbight Curator, an (expensive) alternative to an Eyeless Skull.
+
+- Coffee
+	1 x Parabola-Linen, Irem
+	BEST SELL SHOP: London, $44 (not including Vienna at Surface)
+	BESY BUY: $38, Adam's Way (also in Iron Republic before day 5)
+	See Coffee Trade Route
+
+- Crate of Human Souls
+	NICE SELL London Brass Embassy $63
+
+- Empty Mirrorcatch Box
+	Get first Avid Horizon Beginner's Luck or buy Khan's Shadow $250
+	Tireless Mechanic trade route
+	Sunlight Aestival
+
+- Extraordinary Implication
+	$375, Roser's Wharf
+	$250, Alarming Scholar
+	$222, Irem
+	5 => 1 Searing Enigma, Ireme
+
+- Foxfire Candle
+	~x15, GodFall
+	~x10, Mangrove College
+	x5, Nuncio (+1 x Flare)
+
+- Intrguing Snippet
+	$50, Alarming Scholar (only usage of it)
+
+- Harlot-Fry
+	$500, London Zoo
+
+- Hunting Trophy
+	...
+	$65, Scrimshander
+
+- Judgement's Egg:
+	Memento Mori
+	Brisk Campaigner Officer
+	Frostfond (what for?)
+	Port Carnelian Network (good deal)
+	$600 Poly
+	$500 Alarming Scholar
+
+- Live Speciment
+	x1, Serene Aquarium (+7x Secrets) - +7 Mirrors
+	x1, Cladery Heir
+	Gant Pole, 7 x Strange Catch
+	London Zoo for $125
+
+- Lamentable Relic
+	Codex, for 3 unread logs => Alarming Scholar/Rose's Wharf
+
+- Memory of Distant Shores
+	Keep, for numerous uses
+
+- Moves in the Great Game
+	Admiral, $30 + 1 favor
+	Diplomat, $50
+	Roser's Wharf, $75
+
+- Mirrorcatch Box Full of Very Angry Dream-Snakes, A
+	Curator Item [V]iric
+	$1000, London, if without Tireless Mechanic
+	$500, Khan's Shadow
+
+- Outlandish Artifact
+	7x, Monstrous Almanac (+7 x Pages), $1000 in Venderbight
+	Roser's Wharf
+	$100, Alarming Scholar
+
+- Sapphires, A Casket of
+	7 x Merchant Venturer
+	1 x Officer Brisk Campaigner
+	1 x Fulgent Impeller, Tireless Mechanic quest
+	$90 London
+	$95 Polythreme
+	$99 Chelonate
+	+2 x Mutersalt Hideaway [zubmarine]
+
+- Scintillack
+	x7 Venturer
+	x3 Snow Child
+	x2 Merciless
+	$74 House of Pleasures, Iron Republic, rare after 5 visits
+	$70 London
+
+- Secret
+	14 for 2 Cabinet Item (Veils, Mirrors - Legacy)
+	Upgrade Stats
+
+Soothe & Cooper Long-Box
+	1 , Heartmetal Ingot at Demeaux Island (Iron & Misery), for Port Cecil Chess
+	3+, Station III storyline, several
+	1+, Cladery Heir storyline, several (optional)
+	BUY 2 x Strange Catch, at Demeaux
+	BUY 1 x Hunting Trophy, at Station III
+
+- Strange Catch
+	x7 + 7 x Secrets = Whispering Trophy-Case (+7 Veils), study
+	x1, Fulgent Impeller (Dinner with Sage)
+	Officers
+		 1, Maybe's Daughter
+		 1, Nacreous Outcast
+		~7, Bandaged Cook: x1 + 1 x Mutersalt, then several (2 success@36%, ~5.55 tries)
+		 1, Cladery Heir
+	Live Specimen, at Uttershroom after Time > 50
+		Serene Aquarium (+7 Mirrors)
+		Storm's Attention (Wither)
+	x6, 3 x Soothe Long-Box Demeaux
+
+- Strategic Information
+	Officers
+		1 x First Officer Sigil
+		1 x Haunted Doctor (or Moves in the Great Game)
+	2 + 2 Zee-ztory to craft Vital Intelligence
+
+- Unread Log
+	Sell to Alarming Scholar
+		keep 1 for Rose's Wharf
+		can also enter Adam's way, but Recent News is "cheaper"
+	Rose's Wharf, if available (Random)
+
+- Vital Intelligence:
+	Diplomat, 500/600. May also raise Supremacy London and Dawn Machine toghether after 2 (30%)
+	Admiral , 350. May raise Supremacy London (30%)
+	Strategy for London: Diplomat until both = 2, Admiral until +2 ahead, Diplomat afterwards
+	CURRENT:
+		London:  4
+		Dawn:    3
+		Khanate: 1
+	London:
+	[1] Recovering
+	[2] Promising
+	[3] Significant
+	[4] Substantial
+	[5] Renascent
+	[6] Tremendous
+	[7] Glorious
+	Dawn:
+	[1] Rising
+	[2] Gleaming
+	[3] Radiant
+	[4] Burning
+	[5] Blazing
+	[6] Resplendent
+	[7] TRIUMPHANT
+
+- Watchful Curio
+	Get in Khan's Shadow for 1 Hunting Trophy
+	Convert to Wakeful Idol Poly, keep 1 Roser's Wharf
+
+- Wakeful Idol
+	1, Port Cecil chess
+	$100 Alarming Scholar
+
+- Zzoup
+	2 Officers (Merciless, Bandaged)
+	7 Venturer
+	$77 Iron Republic, House of Milks
+	$70 London
+
+
+BEASTS
+=================================
+Beloved
+	Easy, send to Gant Pole
+	Supplies or Fragments
+
+Boundling Shark
+	Tear: +10 x Hull, ... ?
+	Carve:  +3 x Hunting Trophy, +3 x Supplies, +1 x Unprepocessing Mass
+
+Harpoon
+	Harpoon: +1 x Live Specimen, +5 x Stingy Ivory
+	Maelstrom: -10 x Terror
+
+Dawn Fluke
+	Extract: +1 x Colossal Fluke-Core
+	Learn: +1 x Searing Enigma! \o/
+
+Lernest Fluke
+	Harvest: +3 x Outlandish Artifact, +1 x Secret (80%) / +1 x Colossal Fluke-Core
+	Observe: +2 x Extraordinary Implication
+
+Thalate
+	Dissect: +5 x Live specimen, +1 x Veils (up to 100)
+	Supplies: +20 x Supplies, +1 x Unprepossessing Mass
+
+
+=================================
+STORIES
+
+Abysses Rites
+-------------
+0 Scriptures   (Greeting): +20 x Hearts, -10 x Iron
+1 Pyres        (Hearths):
+2 Pomegranates (Feasting): +20 x Iron,   -10 x Mirror [Best Rite!]
+3 Graves       (Solace):   +20 x Veils,  -10 x Hearts
+
+	Vender
+	Ragged Crow x 2
+	Spiders
+3	Wisdom
+	Iron Republic
+	Aestival
+	Frostfound
+	London
+	Shepherd
+	Mt Palmerson
+	Wrack
+	Salt Lions
+	Irem
+	KingEater
+
+Acolyte/Long-Box Trading (Station III)
+--------------------------------------
+Main status for story development seems to be Station III: Trading in Long Boxes
+Earning the Acolyte's Favour gives more options in the story (I guess)
+Deliver a Long-Box to the Acolyte, gain Favour without consuming SAY
+	= +2 x Earning the Acolyte's Favour
+Errands basically increase Acolyte's Favour consuming SAY
+	Guarding the yard: +3 x Favour regardless of outcome, success trigger event that can get rewards
+	A present:         +3 x Favour, -200 x Fragment (bad choice)
+	A visit to Soothe: +3 x Favour
+	A novel present:   +5 x Favour on success. The best option
+Questions for the Acolyte develop the story. Only 2 questions allowed (I guess)
+	The higher the Favour, more questions available
+Quest advances to final stage when Trading in Long Boxes = 4, ends with 9
+Goal: Favours >= 25
+Roughly 2 outcomes [needs investigation]
+	Discourage to perform the autopsy, succeed, picnic: +5 Hearts
+	Help with autopsy, Lie about sister, succeed, offer real comfort: +2 Hearts, +1 Secret, +1 Dream of Red
+Heartmetal Smith does not seem related, nor gives any reward besides Fragments
+
+
+Adam's Way
+----------
+4 Actions
+Assist at an Aminescence Hospital
+	Root out Poet (SAY) => +1 x Romantic Literature
+	Assist in the cloiters => +2 x Supply
+	Carry water => +1 x Zee-ztory, +1 x Memory, +1 x Tales, +1 x Vision
+	               +2 x Terror
+
+Attend Funeral Feast (evening, SAY)
+
+Exibition
+	Attend the Cabinet of Curiosities => +1 x Vision of the Surface, +50 x Fragment / ?
+
+
+Blind Bruiser - London
+----------------------
+Regular quest:
+	Brilliant Souls to Mt Palmerston
+	Afterwards, $1000 to buy Brilliant Souls somewhere and bring back to London.
+
+Alternate Quests:
+	Can only be done once per captain, and finishing them locks all Blind Bruiser content for the rest of that captain's run.
+	A - Search for the Last Constable hiding away from London
+	B - Search for medicine for the Cheery Man
+
+
+Pigmote Isle - Rats vs Cavies
+-------------------------------
+Side with Cavies (Seneschal), as final prize (scintillack/banket) is worth more than repairs
+
+Before war, keep trying to steal with Veils or Iron challenge until succeed.
+	Penalty for each failure is +5 x Terror
+	Veils challenge yield better reward, highest Civilization
+
+Iron Challenge
+Rats	?
+Pigs	+4 x Scintillack, Might=5, Spirit=3, Civilization=4
+
+Veils Challenge
+Rats	+10 x Fuel, +4 x Bale of Parabola-Linen, +1 x Scintillack, ?
+Pigs	+10 x Fuel, Might=4, Spirit=3, Civilization=5
+
+I had nothing to offer but my advice
+Rats	Spirit=3, others 2,2
+Pigs	Might =3, others 2,2
+
+Mascot
+Rats	+2 Veils, -1 Civilization
+Pigs	+2 Pages
+
+Make Peace right away
+Rats	60% chance
+Pigs	40% Chance, Spirit=6
+
+Smuggling Fuel is usually worth it.
+
+Rise of the Pigmote Isle
+Rats	Request repairs,      -175+10*(Pigmote Isle: Civilisation) x Echo
+Pigs	Purchase scintillack, -155+10*(Pigmote Isle: Civilisation) x Echo
+
+Pigmote Isle, A Dilemma on
+--------------------------
+Independence: Civilization + Might + RND(1 to Spirit) >= 17
+The higher the Civilization, the lower scintillack/repair cost
+All options, even failures, also result in +50 Fragment
+
+1
+	Advise an attack on their stronghold: +1 Might            [Might challenge: 10 for 100%]
+	                                      -2 Might            [Fail]
+	Suggest they raise conscription:      +1 Might, -2 Spirit
+	Recommend they accept the loss:       -2 Civilisation
+
+2
+	Advocate mercy:                   -1 Civilisation, +1 Spirit
+	Insist an example be made of him: +1 Civilisation, -1 Spirit, +2 Might
+	No half-measures!                 +2 Civilisation, -2 Spirit, +1 Might
+
+3
+	Advocate for his release:             +1 Civilisation
+	Advocate for his arrest:              +1 Might
+	Speak with the mysterious masked man: (nothing)
+	Speak with the Hippo:                 (nothing)
+
+4
+	Preach tolerance:        -1 Might,  +1 Spirit
+	Advocate stern measures: +1 Might,             [Spirit challenge: 9 for 100%]
+	                         -2 Spirit             [Fail]
+
+5
+	Suggest they construct housing: Civilisation += 1
+	Have them build defences:       Might += 1
+	Let them enjoy this moment:     Spirit += 1
+
+6
+	Recommend a display of force:          +2 Civilisation, +1 Might, -1 Spirit [Might challenge: 5 for 100%]
+	                                       -2 Civilisation                      [Fail]
+	Suggest appealing to their patriotism: +1 Civilisation                      [Spirit challenge: 9 for 100%]
+	                                       -2 Civilisation                      [Fail]
+	An opportunity beckons:                -2 Civilisation
+
+8
+	Suggest razing the Chickenwoods:  -2 Civilisation, +1 Might
+	Declare their fears superstition: +2 Spirit                 [Spirit challenge: 9 for 100%]
+	                                  -1 Civilisation           [Fail]
+
+
+Pulse of the Principles, The (Port Cecil Chess Game)
+---------------------------------------------------
+Move a Paw:   +1 x Pages
+Move a Night: +2 x Iron, +1 x Wounds
+
+
+Request for Passage - London
+----------------------------
+Random, 4 possibilities:
+	- Anxious University Student heading to Hunter's Keep
+		Side with Student (Station III): 2 x Extraordinary Implication [better]
+		Side with Postal (Nuncio): 9 x Parabola-Linen
+	- Unsettled Salvager. Venderbight then Polythreme
+		Permission to Dive (after Polythreme): 5 x Outlandish Artifact
+		Give to Royal Bethlehem Hotel (London): 2 x Extraordinary Implication [somewhat better]
+
+
+Mr Sacks / Snow Child - London
+------------------------------
+Triggered after delivering Avid Horizon Port Report for the first time
+
+Pigmote Island: +3 x Scintillack (arguably the best choice)
+Khan's Heart:   +10 x Drowning-Pearl, +2 x Menaces: Khaganian Suspicion, -1 x Supremacy: The Khanate
+
+Isle of Cats: +1 A Firkin of Red Honey (surely the best)
+Mutton Island: +$78
+
+Avid Horizon
+	= 1 x Judgement's Egg + Many other amazing prizes in London (Your Lodgins)
+	Give YOUR blood to Mr Sacks => Snow Child
+London
+	Choose to help Snow Child
+Iron Republic
+	3 x Scintillack
+	= +1 x Soothe & Cooper Long-Box
+Station III
+	1 x Soothe & Cooper Long-Box
+	= Heartmetal Ingot
+	1 x Heartmetal Ingot
+	Saved
+Irem
+	= +2 x Hearts
+	= +2 x Pages
+	= +1 x Searing Enigma
+
+
+Scrimshaw Chronicler - Chelonate
+--------------------------------
+Chelonate, start quest requirements:
+	1 x Hunting-Trophy
+	1 x Zee-ztory
+	1 x Supplies
+Irem
+	lots of coffee, wounds, SAY
+Chelonate
+	Make up something wonderful (Pages challenge, 100 for 100%):
+		= -1 x Supremacy: London
+		= +1 x Iron
+		= +1 x Captivating Treasure (at Your Lodgings)
+	Tell the truth:
+		= +1 x Supremacy: The Khanate
+		= +1 x Supremacy: London
+		= Recruit as Officer
+London (if told the truth):
+	= +1 x Hearts
+	= +3 Outlandish Artefacts
+	= LOSE Officer
+Conclusion:
+	Do quest when Pages >= 100, then "Make up something wonderful"
+
+
+Shattered Citadel - GodFall
+---------------------------
+Requirements:
+	10-15 Foxlight Candles (minimum 7 if successfull in all challenges). Last Attempt: 9
+	1 Ambiguous Eolith (may win inside)
+	Nacreous Outcast (Officer): +2 x Secret [OPTIONAL]
+
+For 100%:
+	Mirror: 50 (deeper), 34 (back), 34 (encounter)
+	Veils: 34, 100
+	Pages: 34, 100
+	Iron: 34, 100
+	Hearts: 100
+
+Prize:
+	+1 x Captivating Treasure
+	+1 x Eyeless Skull
+	+2 x Secret
+	+7 x Lamentable Relic
+
+Do again (not worth it):
+	+1 x Intriguing Snippet
+	+10 x Fragment
+
+Trouble with Tomb-Colonists, The (Vinderbight Last Tour)
+--------------------------------------------------------
+SHOPLIST, including what's needed to avoid losing tomb-colonists:
+	$100
+	  14  x Supplies
+	   1  x Cask of Mushroom Wine (11 if your Past is Poet)
+	   2+ x Favours: Leopard's Condescension (Khan's GLory)
+Gaider's Mourn:
+	   5+ x Crew
+	 168+ x Hearts
+Polythreme and Eels:
+	Recruit (SAY 50%) or Fine meal ($100)
+Chelonate
+	Send the tomb-colonists to visit Storm's Temple
+Irem
+	Encourage them to purchase Parabola-Linen
+REWARD (1st time):
+	$1500
+	1 x Judgements' Egg
+
+
+Wisp-Ways (Mangrove College)
+----------------------------
+Pages 30%
+	Lose crew!
+
+
+Wistful Deviless
+----------------
+Sell the gift (+$150, no consequence)
+Try the independent verifications (+$)
+Escort her to Brass Embassy
+	= +1 x Captivating Treasure
+No sympathy for the deviless: +1 x Secret (all other options are +1 x Outlandish Artifact)
+
+
+============================
+
+Curator Pages - Each gives 1 x Captivating Treasure (worth $1000)
+-----------------------------------------------------------------
+- [A]pocyan
+	Apocyan Chess Piece, Port Cecil endgame prize (win or lose), for free. Sells for $100
+	A Lump of Blue Scintillack (valuable item ~$1500, so poor choice)
+- [C]osmogone
+	Ray-Drenched Cinder ONLY
+		Empire of Hands, either sell your soul to Emperor (~50% luck)
+		Empire of Hands, complete Zeppelin (x3), but looong quest
+		Blemmingan Propagation >= 7
+- [G]ant
+	Wiping Scar, at Chapel of Lights. Give a Nightmare to the Well. Requires Nightmare's Strength ≥ 1 and Unaccountably Peckish ≥ 1
+	Figurehead of the Eater of Names (VERY hard to get)
+	Star-Shell (also VERY hard and luck-dependent, defeating tough monsters)
+- [I]rrigo
+	Eyeless Skull: Begginner's Luck Avid Horizon (best way but 50% luck); Godfall Shattered Citadel (advanced, failproof); Magician (not good)
+	Colossal Fluke-Core, defeating a Lorn-Fluke
+- [P]eligin
+	Hunter's Eye. Buy at Avid Horizon for 77 x Fragments
+- [V]iolant
+	Violant Ink ONLY
+		Empire of Hands Treasure Hunt: buy pirate map for 1 x Searing Enigma, get +10 Sapphires back worth $990 in Chelonate
+		Empire of Hands: give 1 x Red Honey to Emperor (worth $999 at Brass Embassy in London)
+		Candle-Lit Shop, Random rare SAY (5%) at Khan's Heart, for $77
+- [V]iric
+	A Mirrorcatch Box Full of Very Angry Dream-Snakes, Tireless Mechanic Officer storyline
+	Mirror-charm (Varchas?)
+	A Phantasmal Encounter, 189-, Captain ------ (VERY hard to get, luck-dependent event)
+
+Legacies
+--------------------------------------
+OK	Hearts	A Dream of Red  	Save Scared Sister Hunter's Keep and go Surface, OR possible reward from Acolyte quest
+OK	Mirrors	A Travelling Light	Steal Zeppelin Empire of Hands (end game)
+OK	Veils	Manual of Miracles	Choose No Past and make final deliver of Sphinxstone to London itself (refusing Grand Geode)
+OK	Pages	Horizon Codex   	Venturer storyline to Avid Horizon (end game) or The Dawn Machine Supremacy
+	Iron	Boke of Sharpes 	Anarchists Supremacy (somewhat end game: no more Admiral or Diplomat)
+	Pages	?               	Perform 4 Abyss Rituals (not Rites!) in order
+
+
+Ambitions
+---------
+https://sunlesssea.gamepedia.com/The_Uttermost_East_(Ambition)
+
+
+Cabinet Items
+-------------
+Serene Aquarium:    +7 Mirrors for 1 Live Specimen, 1 Supply:    sell in Khan's Heart for  $300 ($180 profit)
+Whispering Trophy:  +7 Veils   for 7 Strange Catch:              sell in Chelonate    for  $150 ( $80 profit)
+Monstrous Almanac:  +7 Pages   for 7 Outlandish Artifact:        sell in Venderbight  for $1000 ($300 profit)
+Shrine to Stone:    +7 Hearts  for 1 Captivating Treasure:       sell in Adam's Way   for $1200 ($200 profit)
+Anatomical Cabinet: +7 Iron    for 7 Lamentable Relic, 1 Supply: sell in Whither      for  $100 ( $45 profit)
+
+
+
+Blemingans Propagation
+--------------------------------------
+Eligible:
+OK	Abbey Rock
+OK	Adam's Way	[ends current visit]
+OK	Aestival
+	Chapel of Lights, The
+OK	Empire of Hands	[BAD if supplies for Zeppelin not finished]
+	Gaider's Mourn
+	Godfall
+OK	Hunter's Keep
+OK	Irem
+	Khan's Heart	[Veils challenge]
+	Khan's Shadow
+OK	Nuncio	[+1 x Deliverable Parcel]
+OK	Nook	[New Action, Iron challenge for Supplies]
+	Polythreme
+OK	Port Carnelian [+1 x Blemmingan]
+OK	Quaker's Haven
+OK	Rosegate
+	Saviours' Rock	[+3 x Terror]
+	Shepherd Isles	[+1 x Zee-Story]
+OK	Station III
+OK	Fathomking's Hold, The	[+1 x Drowning Pearl]
+OK	Iron Republic, The	[+1 x Blemmingan]
+OK	Isle of Cats, The
+OK	Salt Lions, The
+OK	Varchas
+	Venderbight
+OK	Visage
+OK	Wrack
+
+Eligible, but *BAD* Consequences:
+-	Light-Ship (any): block ALL interactions for ALL future visits in ALL Light-Ships!
+-	Mangrove College: disables Gather Supplies and badly affect Wisp-Ways
+
+Non-eligible, lose the Blemingan:
+-	Chelonate, The
+-	Demeaux Isle (Iron & Misery Co.)
+-	Grand Geode
+-	Kingeater's Castle
+-	Low Barnett
+-	Mount Palmerston
+-	Pigmote Isle	-1 Civilization, +2 Might
+-	Port Cecil
+
+Non-eligible, keep the Blemmigan:
+-	Avid Horizon	+1 x Terror
+-	Codex
+-	Cumaean
+-	Frosfound
+-	Khan's Glory
+- 	Wisdom
+-	Whither
+
+Non-eligible, no option
+-	Fallen London
+-	Uttershroom
+
+=========================================================
+
+Ships - Ideal Crew, Secs/Supply
+-------------------------------
+Starter 	 9/ 5	130
+Corvette	13/ 8	 90
+Frigate 	17/13	 70
+Frigate 	25/13	 50
+Merchant	25/15	 50
+
+https://www.reddit.com/r/sunlesssea/comments/9f56g1/on_engines_travel_time_and_living_expenses_on_the/
+
+Hunger will increase every 10 seconds by half of your crew size rounded to the nearest even number if fractional.
+So 7 crew = +4h, but 5 = +2h! :O
+ 1 0
+ 2 1
+ 3 2
+ 4 2
+ 5 2
+ 6 3
+ 7 4
+ 8 4
+ 9 4
+10 5
+Sweet spot: 9 Crew = +4h, same as 7 crew
+Not counting overflow hunger bonus (when gets over 50 before resetting)
+
+Crew	Hunger/10s	s/Supply	Overhunger
+    1	0	-	-
+    2	1	500	-
+  3-5	2	250	-
+    6	3	170	1
+  7-9	4	130	2
+   10	5	100	-
+11-13	6	90	4
+   14	7	80	6
+15-17	8	70	6
+   18	9	60	4
+19-21	10	50	-
+   22	11	50	5
+23-25	12	50	10
+   26	13	40	2
+27-29	14	40	6
+   30	15	40	10
+
+
+
+Lamp uses 1% of fuel per second, every lamp, every boat.
+Full Power ('F') eats fuel at a 100% markup (2x quicker) for only a 1.75x increase in speed.
+Half vs Full throttle (speed 1 and 2, not 'F') have a linear relationship.
+Half throttle uses 0.05% of the engine power in fuel per second and Full throttle uses 0.1%.
+So an engine with 1000 Power uses 1% of fuel per second. 2% with the lamp on.
+
+Starting engine power: 800, so 0.8%F/s
+(the lamp costs more than the fuel!)
+
+
+The Tramp Steamer, fully crewed (10), weight 1000:
+
+800 Power Engine, Lights Off
+                    Distance    Hunger   Echoes per distance (Fuel + Supplies)
+  Full Throttle:    1.56        55       20
+  Half Throttle:    1.58        125      38
+
+800 Power Engine, Lights On
+                    Distance    Hunger   Echoes per distance (Fuel + Supplies)
+  Full Throttle:    .70         25       28
+  Half Throttle:    .46         35       52
+
+1500 Power Engine, Lights Off
+                    Distance    Hunger   Echoes per distance (Fuel + Supplies)
+  Full Throttle:    .98         35       24
+  Half Throttle:    .99         70       38
+
+1500 Power Engine, Lights On
+                    Distance    Hunger   Echoes per distance (Fuel + Supplies)
+  Full Throttle:    .57         25       32
+  Half Throttle:    .43         30       51
+
+ 800, Full, Off:    1.56        55       20
+1500, Full, Off:    0.98        35       24
+
+
+===============================================================================
+New Game
+--------
+https://www.reddit.com/r/sunlesssea/comments/3bf2mo/
+- Use Begginer's Luck on Avid Horizon (Facelless Skull + Hunters's Eye = 2 Curator Items)
+- Salt Lions, Sphinx trade route right away (before many items) until over.
+- Caminus Yards Helltrasher (1-shot weak monsters)
+- Merchant ship ($8000) + Boaidea Engine ($1000, 1500 power) + Avid Suppressor ($900) + Crew = $10000
+- Surface with Coffee
+- Surface with Sunlight (before Blind Man departures)
+
+? Port Cecil + Fathomking + Colony synergy (Scintillacks)
+
+End Game (Retirement)
+---------------------
+Abyss
+	Get rite
+Adam's Way
+	1 x Unread Log = 200 x Fragment (Cabinet of Curiosities) OR ~8 x Supplies (Waters in Hospital)
+Varchas
+	Blue Scintillack
+Empire of Hands
+	1 x Map => 10 x Casket of Sapphires, 1 x Pot of Violant Ink
+Chelonate
+	Sapphires
+	Wispering Trophy-Case
+	1 x Mt Nomad's Heart => 1 x Searing Enigma
+	1 x Hunting Trophy + (1 x Zee-Ztory OR SAY) => 1 x Outlandish Artifact
+Gant Pole
+	3 x Tales => 1 x Styngian
+	5 x Zee-Ztory + 2 x Intriguing Snippet => 1 x Extraordinary Implication
+Scrimshander
+	Violant Ink
+Irem
+	1 x Mountain-sherd => 20 x Bale of Parabola Linen
+Dahut
+	Bale of Parabola Linen
+Polythreme
+	Judgement's Egg, Styngian Ivory
+Chapel of Lights
+	3 x Ambiguous Eolith + SAY => 1 x Extraordinary Implication
+	(or just sell to Alarming Scholar in London for $35 on average)
+Anthe
+	1 x Lamentable Relic => 1 x Strange Catch
+	(Save 1 for Codex SAY => 1 x Unread Log)
+	+5 Mirrors, or any stat other then Veils, if Sharpness = 7
+Venderbight
+	Almanac, Memory, 1 x Strange Catch => ~2 x Supplies
+Wither
+	5 x Zee-Ztory => 1 x Muttersalt
+	2 x Tale => 1 Supplies
+Khan's Heart
+	Muttersalt
+	Aquarium
+	Memento Mori
+	5 x Literature for Officer
+Wrack / Abbey Rock
+	Supplies
+Khan's Shadow
+	Captivating Treasure, Outlandish Artifact
+	[both same price as London, but faster exchange]
+
+- Heirlooms:
+	- Buy 11 x Sapphires at Port Carnelian, $86/u = $946
+	- Trade for 1 x Captivating Treasure at Dahut
+	- Buy Heirloom at Your Lodgings, London
+
+- Switch to Worst boat
+
+
+
+
+
+===============================================================================
+MISC
+
+Curses
+---------
+- Salt: 	Kill your family (lose Scion!) when return to London. Get to Whiter first!
+- Winter:	Bad wheater
+- Stone:	(no one knows)
+	only known way to get is Frostfound last chamber, once per game. 50% chance (the other outcome is Salt's Curse)
+
+
+BUGS (old)
+----------
+- Pigmote Isle: No "Blemmingans: Abroad" += 1 after release
+- Empire of Hands: No "A Particularly Potent Poison" = 0 after poisoning pirates nor after completing Zeppelin "145470 - Hero of the Wildweald Court!"
+- Empire of Hands: No "Frozen drop of Red Honey" = 0 after Emperor Vault
+- "Urbane Magician" listed as Curiosity Cargo
+- "Supremacy: London" can be lowered after reaching 10 in Port Carnelian (exploitable to get multiple "London in Glory")
+- "Supremacy: Dawn Machine" can achieve 10 even after "Supremacy: London" is 10 (intentional?)
+- "Memoirs:  The Lessons of the Chapel" listed as curiosity cargo instead of Memoirs journal section
+- Mansion can have 17 Heilooms, not 16
+- It is possible to get "The New Sequence" (ie, "Supremacy: The Dawn Machine = 10") even when "Supremacy: London" already >= 10
+- lesser drydock repair ($70) can *decrease* your Hull if >= 405
+- Test the Cigar: never yields Secrets, as max Flavours = 150, so 150 / 299 = 0.5 = 0
+
+IDEAS  (old)
+------------------
+- Alarming Scholar
+	Curio
+- A Civilized Exchange of Gifts
+	wine, firking
+- Poly
+	Curios

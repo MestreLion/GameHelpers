@@ -1,3 +1,40 @@
+Training Room
+=============
+- Consultants don't lean anything, only teach
+- On random intervals, Consultants randomly teach either 5 specialization
+    (Research, Surgery, Psychiatry) or 20(2%) Skill (Junior -> Doctor -> Consultant),
+    up to their max Skill
+  - Research: 50 specialty points; Psychiatry: 65; Surgery: 80
+- Consultant promotion only happens on a new year
+- Tiredness affects learning speed if over 50%
+- While bookcases and skeletons help, the teacher needs to take a full trip back for it to count. Only get one of each if you have to.
+- Total Teacher training "capacity" is divided among students: best to have fewer students
+- Strategy: teach specializations first, then train to Consultant from bare Consultant teacher
+
+
+Tiredness
+=========
+- Keep it below 30% to avoid underpaid happiness issues
+
+Heat
+====
+Radiators Keeps the hospital warm, which helps keep patients and staff happy.
+You can fine-tune the corridor coverage in the hospital management screen where you can also look for hot or cold spots.
+This is irrelevant for rooms; each radiator provides a set amount of heating (up to 78%) depending on the room size.
+
+Block unused areas with benches - Less handyman movement
+
+Layout
+======
+Staff + Research + Training
+Operating Theater + Ward
+
+Staff
+=====
+Handymen 2:1:1 Cleaning:Watering:Repairing
+
+--------------------------------------------------------------------------------
+
 X. GOLDERS	CS	sur1
 B. MILBURY	DS	sur2
 V. BARHAM	DSPR	teacher

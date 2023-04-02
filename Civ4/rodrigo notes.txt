@@ -1,0 +1,175 @@
+TRAITS AND LEADERS
+==================
+
+Best
+-----
+- Financial
+	- University
+- Philosophical
+	- Library, University
+- Industrious
+	- Forge
+	- Also benefit National Wonders!
+
+Medium
+- Spiritual
+	- Cristo Redentor does the job, better. And Golden Ages
+
+Best
+-----
+- Elisabeth [Financial, Philosophical, Redcoats]
+- Huyana Capac [Financial, Industrious, Quechuas] - Builder after initial rush
+- Gandi / Alexander
+
+
+CITIES
+==========
+
+Science Cottage - Oxford
+------------------------
+- Full grassland, 20 pop, 10+ cottages, ideally 15+
+- Rivers are great, the more the better: +1C, Watermill -> Cottage. Found at river for Levee
+- Some Grasshills welcome: Mine -> Windmill -> Cottage
+- 1 beefy food resource. 2 is nice, 3 is overkill. Only enough to counter non-grassland or production features
+	+4: Corn*, Wheat*, Fish, Pig
+	+3: Banana**, Clam, Crab, Deer, Rice*, Sheep (+1C)
+	+2: Cow (+2P), Sugar (+1C), Floodplains***
+	*: -1F if farm is not irrigated, +1F with Biology
+	**: Requires Calendar, a bit far from start
+	***: Not a resource, but a terrain feature that happens on desert only.
+	     0 from tile + 3 from feature + 1 from farm = 4 = +2 surplus
+- Gems are perfect: +6C (only 1 short of a full Town with Free Speech), and nice +1P (+1P if grass hill)
+- Production is hard: via forrest chops, grassland mines/windmills/towns, plains. Cows, Horse, Ivory also helps
+- Heavily dependent on Slider
+- National Wonders
+	- Oxford
+	- Palace [+8C > +1 full cottage]. Optional
+	* Academy [Great Scientist]
+
+Holy Gold - Wall Street
+-----------------------
+- Holy City. Possibly the Capital.
+- Double Holy is amazing. Triple is unrealistic.
+- National Wonders:
+	- Wall Street
+
+GPP Farm
+--------
+- Floopplains, Beefy Food resources
+- Health will be issue, so: River (Aqueduct, also commerce), Coastal (harbor) if few costal/sea titles. And keep forests.
+- River for Levee is important
+- Preferably not the capital: early game will suffer from few cottages, mid game will suffer from low hammers
+- GPP are about food *surplus*, not huge pop. Keep pop within health cap
+- National Wonders:
+	- National Epic (+4C, +1GPP[GA]) - +100% GPP
+	- Globe Theater (+6C, +1GPP[GA]) - No Unhappiness, allows 3 artists
+
+Wonder
+------
+- Heavy production
+- Initially the Capital, may switch afterwards
+- National Wonders:
+	- Iron Works
+
+Military
+---------
+- Good Production
+- NOT the Capital, unless move away Palace
+- Coastal (for naval units and health)
+- River (levee and health)
+- National Wonders
+	- Heroic Epic [+100% Military Production]
+	- West Point [+4XP]
+	* Military Academy [+50% Military Production] [Great General], if not overkill
+	- NOT Iron Works, too overkill
+
+Espionage
+----------
+- Mini GP Farm for Spy specialists
+- National Wonders
+	- Scotland Yard [Great Spy]
+
+
+RESOURCES
+============
+- Coal is *only* needed for a fully operational IronWorks (and IronClad). For everything else Oil is can be used.
+- Power *itself* gives -2H *regardless* of source, even if clean. Three Gorges Dam gives power regardless if factory is built
+- Factory + Coal + Oil = -5H even if power is clean, plus -2H for the power, plus -2H if unclean.
+- Avoid in Fat Cross:
+	Sugar
+- Best Food:
+	+4: Corn*, Wheat*, Fish, Pig
+	+3: Banana**, Clam, Crab, Deer, Rice*, Sheep (+1C)
+	+2: Cow (+2P), Sugar (+1C), Floodplains***
+	*: -1F if farm is not irrigated, +1F with Biology
+	**: Requires Calendar, a bit far from start
+	***: Not a resource, but a terrain feature that happens on desert only.
+	     0 from tile + 3 from feature + 1 from farm = 4 = +2 surplus
+- Gems are perfect: +6C (only 1 short of a full Town with Free Speech), and nice +1P (+1P if grass hill)
+
+
+WONDERS
+============
+
+Mandatory
+---------
+- Stonehenge [Free Monument +1 Culture] - Easy, AI does not prioritize
+- Parthenon [+50% GPP] (if Philosphical)
+- Great Library
+- Pyramids for Representation (specially if Specialist Economy) - ONLY if Stone
+- Sinergy: University of Sankore (science) + Spiral Minaret (gold) + Apostolic Palace (hammers)
+- Statue of Liberty [+1 free specialist on all cities in the continent]
+- Taj Mahal [Golden Age]
+- [+50% Golden Age duration (8 -> 12 turns)]
+
+Great
+---------
+- Cristo Redentor [no anarchy] - Like Spiritual, without 5 turn wait
+- Shwedagon Paya [all Religious civics]
+- 
+
+
+CORPORATIONS
+============
+- [MANDATORY]: Sid's Sushi - Food and Culture: Rice, Fish, Crab, Clam. Cereal Mills is a poor alternative.
+- [MANDATORY]: Mining Ing  - Hammers
+- Both for private use, do not spread to AI
+- Civilized Jewlers - Culture, near-zero sum gold, the best for foreing use: spread to AI, they pay maintenance, you reap gold in HQ
+- Found as many compatible ones in Wall Street / Holy city.
+- Either Sid's Sushi + Mining Ing and no other Corp, or found MiningInc at another city and leave Wall Street to Sushi's + others.
+
+
+DIPLOMACY
+=========
+https://forums.civfanatics.com/threads/the-diplomatic-victory-observations-notes-and-tips.145865/
+
+Positive
+--------
+1-2	WHEN APPLY	"Years of peace"
+1	STACK/PERM?	"You gave us tribute/Help"
+1-4	FADE AWAY/PISS	"Our trade relations have ben fair and forthright" - Gifts / Favorable one-time trades (maybe standing trades too?) [PISSES]
+1-2	WHEN APPLY/PISS	"Our open borders bring us closer together!"
+1-4	WHEN APPLY	"Our defensive pact makes us feel good about us!" [PISSES]
+1-6	WHEN APPLY	"You have wisely chosen your civics." - Both being in a Favorite Civic. Initial don't count (neither slavery?)
+1-4/7	BUILD UP	"We care for brothers and sisters in the faith!"
+1	PERM? FADE?	"You have accepted our favorite civic/state religion!" - No penalty for switching back.
+1-2	BUILD UP/PISS?	"We apreciate your suply of resources"
+1-4	FADE? PISS?	"You have shared your technology with us" - Gift?
+
+Negative
+--------
+3-8	WHILE ACTIVE	"You are at war with us"
+3	STACK PERMANENT	"You have declared war upon us!"
+1	STACK PERMANENT	"You have negotiated a trade embargo against us"
+?	STACK PERM?	"You have brought in a war ally" - Triggers when bribe without involving in war?
+1	STACK PERM SURE	"You have declared war on our friend"
+2	STACK PERMANENT	"You nuked us"
+1	STACK PERMANENT	"You nuked our friend"
+1-4/7	BUILD UP	"Your state religion isnt ouer state religion!"
+1	STACK PERM?	"You refused to: A-Help us in war B-Stop trading with somebody C-Convert to our superstition D-Accept our favorite civic E-Give us help/tribute"
+1	WHILE ACTIVE	"You have signed a defensive pact with someone else"
+1-4	WHILE ACTIVE	"Our close borders spark some tensions"
+1-4	FADE AWAY	"You have traded with our worst enemy"
+1	STACK PERMANENT	"You have made an arrogant demand!" - Regardless if they accept or refuse. Maybe not if they accept?
+2	STACK PERMANENT	"You have razed our city!"
+2	STACK PERM?	"You have razed the holy city!"
