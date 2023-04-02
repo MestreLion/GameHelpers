@@ -1,0 +1,39 @@
+## 14.1
+
+**Q:** *What is survival mode?*
+
+**A:** Survival mode is a significantly harder version of the same game. Incidents occur **much** more frequently and are tougher, quests and especially exploration are much harder, and dweller death is permanent (no reviving, though Mr. Handy is excluded and can still die and be repaired like in normal). Another important thing to note is that population thresholds for incidents are lower, the most notable being deathclaws going from 61 to 36 population and radscorpions going from 50 to 36 population, making 35 a very important threshold (as it's also when you unlock the endurance training room).
+
+You are also rewarded in a way for playing survival though, in that you'll find far more legendary junk and better items while exploring.
+
+You check a box off at the top on the vault creation screen, and it warns you twice about the difficulty asking if you're sure as it can't be changed. Survival mode vaults will be marked with a radiation symbol with an "S" on it in the vault list and a few other places in-game.
+
+## 14.2
+
+**Q:** *I'm up for the challenge, should I try it?*
+
+**A:** I would only recommend survival mode if you've played the game normally, and are aware of how hidden mechanics like dweller health and incident difficulty work. If you know all of that and go in with a plan it really isn't that hard, but it is a test of patience and how well you know the game.
+
+## 14.3
+
+**Q:** *Are there any guides for survival mode?*
+
+**A:** There are a lot of bits and pieces I've seen posted, but I don't think I've seen anything that covers the whole thing. There are a couple basic things to do though:
+
+- Start a new game if you don't get a legendary weapon with at least around 20 damage in your first easy lunchboxes. A really good weapon is better than almost anything else you could get and isn't too hard to find in a lunchbox. The exception is the +7E Heavy Wasteland Gear, but don't put yourself through trying to get that from a lunchbox. A legendary dweller with average or better starting endurance would be great too. So you know what average is, the worst is Allistair Tenpenny at 2E, the best is Lucas Simms at 13E (their outfits count for determining their starting HP).
+
+- Avoid leveling up dwellers at the start. It will keep your average level low making all incidents very weak, and will avoid leveling your dwellers with terrible health. Leveling them with 1-3 endurance won't give them much health anyway, not enough to outscale how much harder it will make incidents. Wait till you've gotten the endurance training room at 35 population and train them up.
+
+    - An exception to this would be early exploration. You'll want to send at least one dweller out at some point, as there's no real way to get endurance outfits otherwise apart from getting really good lunchbox RNG, and that's never worth betting on. If you got a legendary dweller with somewhat decent endurance, they'll make a good candidate. If not, you might want to wait till you can train a bunch of stats on a dweller before sending one out as a dedicated explorer. Having one or two dwellers level from being dedicated explorers won't be that bad. If you got a really good weapon, giving it to an explorer would really help, but ideally you'd do so only if you can equip them with any pet too because of the next point. You really don't want to lose good weapons.
+
+- Pets are insurance for your explorers and questers. If an explorer or a questing team dies you lose them and all their equipment. If they have a pet though (a quest team needs only one), you still lose the dweller(s), but the pet comes back with all of their equipment and loot (you only get quest loot if the quest was completed though). If you're sending anyone out with really good gear, giving them any pet is a good idea. This makes normally useless pets like Rad Healing Speed very useful in survival.
+
+- Leave all rooms at level 1 for a while, unless that room will for sure be empty. While average dweller level is the biggest factor in internal incident difficulty, they also get harder with room level and then width. Internal incidents are very easy to deal with in level 1 rooms while average dweller level is low, even for dwellers with bad or no weapons. Also, if you have a really good weapon in the vault, you can pass it between rooms as incidents appear. When equipping weapons you can filter to equipped weapons only and sort by damage, making it very easy to swap your highest damage weapons. Only level rooms up when you're confident the dwellers in it have good health and weapons to survive the much harder incidents.
+
+- Don't go over 35 population until you've done a bit of prep. Above is deathclaw and radscorpion territory, the hardest external and internal incidents respectively. Do all your prep work at 35 or lower until you think you're ready. If it proves too much you can always evict back to 35 and prep more. Most of that prep will be training what stats you can, especially endurance on low level dwellers, and getting what gear you can from exploration or quests. If you've got your first few rooms filled with max endurance (and preferably leveled with good endurance gear) dwellers, that should negate a lot of the pain from deathclaws. If you've also kept rooms level 1, that should help negate some of the pain from radscorpions, and so this would be a safer time to first expand beyond 35.
+
+- There's a way to easily control incidents, described in **[6.9](https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/wiki/Section-6:-Incidents#69)**. Making a level 1, single size production room and throwing a dweller or two in it makes a very controlled environment for incidents. The incidents are as weak as possible due to the minimum room level and width, and you only have to worry about quickly healing one or two dwellers if that's necessary. Whenever you're playing and want to avoid any incidents you can rush spam that room. The dweller(s) in it will have terrible happiness, but it shouldn't put a significant dent in your average happiness if everyone else is good. Making the room a medbay is a good idea, as when rushes do succeed you'll get stimpaks that can be used to heal when the rushes fail.
+
+- If you want to unlock something with a population requirement higher than the deathclaw threshold, it's very possible to do a controlled, temporary population burst. From the previous point, make a rush failure room you can exploit to avoid ever getting deathclaws or any other incidents while you're expanding your population. Depending on how high you want to go, you might want to ensure you have extra food and water storage for all the extra dwellers. If you only play in your vault for short bursts you could have more resource rooms than you can fully man and spread your workers out between them. Longer production timers shouldn't matter as much for short bursts of playtime, as unless they're really long they should all be ready to collect every time you come back.
+
+    - I took this strategy to the absolute extreme and expanded from 35 to 100 population to unlock every room. I'd also saved the caps beforehand to build and upgrade one weapon and outfit workshop each to level 3 for legendary crafting. I only played long enough to give birth and wait for the breeders to get pregnant again, constantly rush spamming the one room, and just leaving new dwellers on coffee break. It all went down without any deathclaw attacks or other hiccups by abusing the game mechanics as I've described. Once everything was unlocked and the crafting rooms were upgraded, I evicted everyone on coffee break to drop back to 35.
