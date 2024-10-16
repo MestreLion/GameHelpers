@@ -1,4 +1,4 @@
-On PS4, *avoid saving/reloading* as it may paralize village growth
+ On PS4, *avoid saving/reloading* as it may paralize village growth
 
 Ambassadors
 -------------------------------
@@ -13,7 +13,7 @@ Villages: FDDSSS
 Round 2: 4 Upgraded Projects
 Ocean	S. D.
 Forest	FS ..
-Rock	DS .S
+Rock	DS .D
 Swamp	D. FS
 Villages: DA2 FA2 SA2 SB2
 
@@ -22,7 +22,7 @@ Replace 1 Swamp for 1 Forest, complete project 1 and 2
 Round 3: 4 Great Projects
 Ocean	S. D. S.
 Forest	FS .. FF
-Rock	DS .S .D
+Rock	DS .D .S
 Swamp	D. FS ..
 
 Villages: SA3 FA3 FB3 DA3
@@ -66,6 +66,7 @@ O: [SD](D/S)S
 F: FSFF, FDDF
 	F[SF]F: Leaf 3, Fruit 3, no Hunt
 	FD[DF]: Leaf 1, Fruit 2, Hunt 3
+	
 R: DSD(D/S)
 	D: Noble 3, Seismic 1 D[SD]D
 	S: Noble 2, Seismic 3 [SD][SD]
@@ -218,6 +219,12 @@ FD[DF]: All hunt
 	Superior Plant
 	!!Leaf 1
 	Fruit 2
+	Hunt 3
+
+FSDD: All Hunt and Leaf, no Superior Plant, max Potent Fruit
+	Greater Plant
+	Leaf 3
+	!Fruit 1
 	Hunt 3
 
 Hunt
@@ -621,22 +628,19 @@ https://wiki.reusgame.com/index.php?title=Mineral
 
 
 ===============================================================================
+PS4
 
 Surely didnt, do now
-School/Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.
 Tradepost/Customs 	2 	Forest, Swamp, Desert 	40 Food in use. 100 Wealth in use. The village has more Wealth Wealth in use that its neighbors.
 Blast Furnace 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 175 Wealth in use. 175 Technology in use. At least 5 Mines in Range.	Factory
 Hamlet/Castle 	4 	Forest, Swamp, Desert, Mountain 	1250 Food in use. 300 Wealth in use. 100 Technology in use.	
 Blast Furnace/Factory 	4 	Forest, Swamp, Desert, Mountain 	250 Food in use. 750 Wealth in use. 750 Technology in use. At least 4 Mines in Range.	
 
 Not sure
-Tradepost/Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
 School/University 	2 	Forest, Swamp, Desert 	60 Food in use. 20 Wealth in use. 60 Technology in use.	
 Toolshop/Workshop 	2 	Forest, Swamp, Desert, Mountain 	25 Food in use. 70 Wealth in use. 70 Technology in use.	
 
 Surely didnt, do later
-Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
-Mountain Lodge/Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
 Mountain Lodge/Tavern 	2 	Mountain 	75 Food in use. 75 Wealth in use. There are at least 4 other villages.	
 Lighthouse 	3 	Ocean 	300 Food in use. 200 Wealth in use. 50 Technology in use. All neighbors of the Village have more than 100 Wealth in use. All neighbors of the Village have more than 100 Food in use.	Island Town
 Lighthouse/Island Town 	4 	Ocean 	800 Food in use. 400 Wealth in use. 150 Technology in use. All neighbors of the Village have at least 150 Food in use. All neighbors of the Village have at least 150 Wealth in use.	
@@ -645,17 +649,21 @@ Surely already did
 Druid 	1 	Forest, Swamp, Desert, Mountain 	30 Technology in use. 	Alchemist, Mad Scientist
 Fishing Docks 	1 	Ocean 	20 Food in use. 10 Wealth in use.	Harbor
 Granary 	1 	Forest, Swamp, Desert 	30 Food in use. 	Mill, Plantation
+Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
 School 	1 	Forest, Swamp 	15 Food in use. 15 Technology in use.	University, Barracks
 Shrine 	1 	Forest, Swamp, Desert, Mountain 	15 Food in use. 15 Wealth in use.	Temple, Sacrifice Altar
 Toolshop 	1 	Forest, Swamp, Desert, Mountain 	15 Wealth in use. 15 Technology in use.	Workshop, Geologist
 Tradepost 	1 	Forest, Swamp, Desert 	30 Wealth in use. 	Market, Customs House
-Toolshop/Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.
-Granary/Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
 Druid/Mad Scientist 	2 	Forest, Swamp, Desert, Mountain 	80 Technology in use. 40 Wealth in use. Destroy the weakest neighbor.
+Fishing Docks/Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
+Granary/Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
+Granary/Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
+Mountain Lodge/Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
+School/Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.
 Shrine/Sacrifice Altar 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 40 Wealth in use. Destroy the closest village.	
-Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
-Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
-Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+Shrine/Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+Toolshop/Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.
+Tradepost/Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
 Apothecary 	3 	Forest, Swamp, Desert 	200 Food in use. 50 Wealth in use. 200 Technology in use. At least 3 Plants in Range.	Hospital
 Bank 	3 	Forest, Swamp, Desert, Mountain 	75 Food in use. 300 Wealth in use. 75 Technology in use. The Village has the most Wealth Wealth of all Villages.	Multinational
 Circus 	3 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. At least 5 Animals in Range.	Opera
@@ -663,8 +671,8 @@ Hamlet 	3 	Forest, Swamp, Desert 	300 Food in use. 60 Wealth in use. 60 Technolo
 Historic Point 	3 	Mountain 	200 Food in use. 100 Wealth in use. 100 Technology in use. Village has at least 2 War Marks. Destroy the closest village.	Monument
 Observatory 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 75 Wealth in use. 300 Technology in use.	Laboratory
 Historic Point/Monument 	4 	Mountain 	900 Food in use. 300 Wealth in use. 300 Technology in use. Has more Food Food in use than neighboring villages.	
-Observatory/Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
 Bank/Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 200 Technology in use. Has more Wealth Wealth than All other villages. At least 3 villages has more than 100 Wealth.	
+Observatory/Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
 Hospital 	4 	Forest, Swamp, Desert, Mountain 	750 Food in use. 200 Wealth in use. 750 Technology in use. 150 Awe At least 8 Plants in Range.	
 Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
 Canal Town	4
@@ -715,6 +723,103 @@ Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 20
 Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
 
 
+===============================================================================
+PC
+=====
+
+Doing now
+
+
+Surely didnt
+Fishing Docks 	1 	Ocean 	20 Food in use. 10 Wealth in use.	Harbor
+Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
+Shrine 	1 	Forest, Swamp, Desert, Mountain 	15 Food in use. 15 Wealth in use.	Temple, Sacrifice Altar
+Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
+Mountain Lodge/Tavern 	2 	Mountain 	75 Food in use. 75 Wealth in use. There are at least 4 other villages.	
+Shrine/Sacrifice Altar 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 40 Wealth in use. Destroy the closest village.	
+Shrine/Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+Tradepost/Customs 	2 	Forest, Swamp, Desert 	40 Food in use. 100 Wealth in use. The village has more Wealth Wealth in use that its neighbors.
+Lighthouse 	3 	Ocean 	300 Food in use. 200 Wealth in use. 50 Technology in use. All neighbors of the Village have more than 100 Wealth in use. All neighbors of the Village have more than 100 Food in use.	Island Town
+Hamlet/Castle 	4 	Forest, Swamp, Desert, Mountain 	1250 Food in use. 300 Wealth in use. 100 Technology in use.	
+Blast Furnace/Factory 	4 	Forest, Swamp, Desert, Mountain 	250 Food in use. 750 Wealth in use. 750 Technology in use. At least 4 Mines in Range.	
+Mountain Lodge/Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
+Lighthouse/Island Town 	4 	Ocean 	800 Food in use. 400 Wealth in use. 150 Technology in use. All neighbors of the Village have at least 150 Food in use. All neighbors of the Village have at least 150 Wealth in use.
+Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
+
+Surely already did
+Druid   	1 	Forest, Swamp, Desert, Mountain 	30 Technology in use. 	Alchemist, Mad Scientist
+Granary 	1 	Forest, Swamp, Desert 	30 Food in use. 	Mill, Plantation
+School  	1 	Forest, Swamp 	15 Food in use. 15 Technology in use.	University, Barracks
+Toolshop 	1 	Forest, Swamp, Desert, Mountain 	15 Wealth in use. 15 Technology in use.	Workshop, Geologist
+Tradepost	1 	Forest, Swamp, Desert 	30 Wealth in use. 	Market, Customs House
+Druid/Alchemist 	2 	Forest, Swamp, Desert, Mountain 	120 Technology in use. 	
+Druid/Mad Scientist 	2 	Forest, Swamp, Desert, Mountain 	80 Technology in use. 40 Wealth in use. Destroy the weakest neighbor.
+Granary/Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
+Granary/Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
+School/Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.
+School/University 	2 	Forest, Swamp, Desert 	60 Food in use. 20 Wealth in use. 60 Technology in use.	
+Toolshop/Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.
+Tradepost/Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
+Apothecary 	3 	Forest, Swamp, Desert 	200 Food in use. 50 Wealth in use. 200 Technology in use. At least 3 Plants in Range.	Hospital
+Bank 	3 	Forest, Swamp, Desert, Mountain 	75 Food in use. 300 Wealth in use. 75 Technology in use. The Village has the most Wealth Wealth of all Villages.	Multinational
+Blast Furnace 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 175 Wealth in use. 175 Technology in use. At least 5 Mines in Range.	Factory
+Circus 	3 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. At least 5 Animals in Range.	Opera
+Hamlet 	3 	Forest, Swamp, Desert 	300 Food in use. 60 Wealth in use. 60 Technology in use.	Castle, Canal Town
+Historic Point 	3 	Mountain 	200 Food in use. 100 Wealth in use. 100 Technology in use. Village has at least 2 War Marks. Destroy the closest village.	Monument
+Observatory 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 75 Wealth in use. 300 Technology in use.	Laboratory
+Apothecary/Hospital 	4 	Forest, Swamp, Desert, Mountain 	750 Food in use. 200 Wealth in use. 750 Technology in use. 150 Awe At least 8 Plants in Range.	
+Bank/Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 200 Technology in use. Has more Wealth Wealth than All other villages. At least 3 villages has more than 100 Wealth.	
+Hamlet/Canal Town	4
+Historic Point/Monument 	4 	Mountain 	900 Food in use. 300 Wealth in use. 300 Technology in use. Has more Food Food in use than neighboring villages.	
+Observatory/Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
+
+Not sure
+Toolshop/Workshop 	2 	Forest, Swamp, Desert, Mountain 	25 Food in use. 70 Wealth in use. 70 Technology in use.	
+
+
+
+--------
+
+Druid 	1 	Forest, Swamp, Desert, Mountain 	30 Technology in use. 	Alchemist, Mad Scientist
+Fishing Docks 	1 	Ocean 	20 Food in use. 10 Wealth in use.	Harbor
+Granary 	1 	Forest, Swamp, Desert 	30 Food in use. 	Mill, Plantation
+Mountain Lodge 	1 	Mountain 	10 Food in use. 20 Wealth in use. 10 Technology in use. 15 Natura in borders.	Nature Park, Tavern
+School 	1 	Forest, Swamp 	15 Food in use. 15 Technology in use.	University, Barracks
+Shrine 	1 	Forest, Swamp, Desert, Mountain 	15 Food in use. 15 Wealth in use.	Temple, Sacrifice Altar
+Toolshop 	1 	Forest, Swamp, Desert, Mountain 	15 Wealth in use. 15 Technology in use.	Workshop, Geologist
+Tradepost 	1 	Forest, Swamp, Desert 	30 Wealth in use. 	Market, Customs House
+Alchemist 	2 	Forest, Swamp, Desert, Mountain 	120 Technology in use. 	
+Barracks 	2 	Forest, Swamp, Desert 	80 Food in use. 40 Technology in use. Village has at least 1 War Mark.	
+Customs House 	2 	Forest, Swamp, Desert 	40 Food in use. 100 Wealth in use. The village has more Wealth Wealth in use that its neighbors.	
+Geologist 	2 	Forest, Swamp, Desert, Mountain 	65 Wealth in use. 75 Technology in use. Village has a least 3 patches of Mountain in Range. At least 3 Mines in Range.	
+Harbor 	2 	Ocean 	90 Food in use. 50 Wealth in use.	
+Mad Scientist 	2 	Forest, Swamp, Desert, Mountain 	80 Technology in use. 40 Wealth in use. Destroy the weakest neighbor.	
+Market 	2 	Forest, Swamp, Desert 	120 Wealth in use. At least one neighbor with 20 Wealth in use.	
+Mill 	2 	Forest, Swamp, Desert 	100 Food in use. 40 Technology in use.	
+Nature Park 	2 	Mountain 	75 Food in use. 30 Wealth in use. 75 Technology in use. 50 Natura in borders.	
+Plantation 	2 	Forest, Swamp, Desert 	125 Food in use. Village is in the Forest. At least 4 plants in Range.	
+Sacrifice Altar 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 40 Wealth in use. Destroy the closest village.	
+Tavern 	2 	Mountain 	75 Food in use. 75 Wealth in use. There are at least 4 other villages.	
+Temple 	2 	Forest, Swamp, Desert, Mountain 	70 Food in use. 70 Wealth in use.	
+University 	2 	Forest, Swamp, Desert 	60 Food in use. 20 Wealth in use. 60 Technology in use.	
+Workshop 	2 	Forest, Swamp, Desert, Mountain 	25 Food in use. 70 Wealth in use. 70 Technology in use.	
+Apothecary 	3 	Forest, Swamp, Desert 	200 Food in use. 50 Wealth in use. 200 Technology in use. At least 3 Plants in Range.	Hospital
+Bank 	3 	Forest, Swamp, Desert, Mountain 	75 Food in use. 300 Wealth in use. 75 Technology in use. The Village has the most Wealth Wealth of all Villages.	Multinational
+Blast Furnace 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 175 Wealth in use. 175 Technology in use. At least 5 Mines in Range.	Factory
+Circus 	3 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. At least 5 Animals in Range.	Opera
+Hamlet 	3 	Forest, Swamp, Desert 	300 Food in use. 60 Wealth in use. 60 Technology in use.	Castle, Canal Town
+Historic Point 	3 	Mountain 	200 Food in use. 100 Wealth in use. 100 Technology in use. Village has at least 2 War Marks. Destroy the closest village.	Monument
+Lighthouse 	3 	Ocean 	300 Food in use. 200 Wealth in use. 50 Technology in use. All neighbors of the Village have more than 100 Wealth in use. All neighbors of the Village have more than 100 Food in use.	Island Town
+Observatory 	3 	Forest, Swamp, Desert, Mountain 	50 Food in use. 75 Wealth in use. 300 Technology in use.	Laboratory
+Canal Town	4
+Castle 	4 	Forest, Swamp, Desert, Mountain 	1250 Food in use. 300 Wealth in use. 100 Technology in use.	
+Factory 	4 	Forest, Swamp, Desert, Mountain 	250 Food in use. 750 Wealth in use. 750 Technology in use. At least 4 Mines in Range.	
+Hospital 	4 	Forest, Swamp, Desert, Mountain 	750 Food in use. 200 Wealth in use. 750 Technology in use. 150 Awe At least 8 Plants in Range.	
+Island Town 	4 	Ocean 	800 Food in use. 400 Wealth in use. 150 Technology in use. All neighbors of the Village have at least 150 Food in use. All neighbors of the Village have at least 150 Wealth in use.	
+Laboratory 	4 	Forest, Swamp, Desert, Mountain 	200 Food in use. 200 Wealth in use. 1250 Technology in use. At least 2 Plants in Range. At least 2 Animals in Range. At least 2 Mines in Range.	
+Monument 	4 	Mountain 	900 Food in use. 300 Wealth in use. 300 Technology in use. Has more Food Food in use than neighboring villages.	
+Multinational 	4 	Forest, Swamp, Desert 	200 Food in use. 1250 Wealth in use. 200 Technology in use. Has more Wealth Wealth than All other villages. At least 3 villages has more than 100 Wealth.	
+Opera 	4 	Forest, Swamp, Desert, Mountain 	850 Food in use. 850 Wealth in use. The Village has more Food Food in use than at least one of its neighbors. There are at least 4 other villages.	
 
 ==============================
 Mechanics
@@ -774,7 +879,55 @@ Challenge guide:
 https://steamcommunity.com/app/222730/discussions/0/846959998063678431#c535152511352280702
 
 
+===============================
+Sea and Fish
+------------
+
+Oceans (traditional): parrotfish, parrotfish, seabass,    mackerel,   mackerel,   mackerel, seabass,    parrotfish, parrotfish
+Oceans (alternative): seabass,    parrotfish, parrotfish, mackerel,   mackerel,   mackerel, parrotfish, parrotfish, seabass
+Oceans (one-sided):   seabass,    clownfish,  parrotfish, parrotfish, tuna,       mackerel, mackerel,   mackerel,
+Oceans (one-sided):   seabass,    clownfish,  parrotfish, tuna,       parrotfish, mackerel, mackerel,   mackerel,
+
+Another choice:
+Clown - Parrot/Clown - Seabass/Parrot - Mackerel - Mackerel - Mackerel - Seabass/Parrot Parrot/Clown - Clown
+Adjust to your priority, either Gold (Parrot/Clown), Tech (Parrot) or Food (Seabass) 
+
+Seabass:
+	F: 8 + 12 = 20 * 3 = 60
+Clownfish:
+	W: 8 +  6 = 14 * 4 = 56
+Parrotfish 1:
+	W: 6 + 3*4= 18 * 5 = 90
+	T: 0 + 3*4= 12 * 5 = 60
+Parrotfish 2:
+	W: 6 + 3*4= 18 * 5 = 90
+	T: 0 + 3*4= 12 * 5 = 60
+Tuna:
+	F: 104 = 4 * 26 = 8 + 6 + (18+18) * 0,75 [27]
+mackerel 1:
+	F:  40 = 5 * 8
+mackerel 2:
+	F:  32 = 4 * 8
+mackerel 3:
+	F:  24 = 3 * 8
+
+Food:   260 = 60 + 104 + 96
+Wealth: 256 = 56 + 2 * 90
+Techno: 120 = 60 * 2
+
+Early game (no Herd or Predator): clownfish, clownfish, mackerel,   mackerel,   mackerel
+Mid game (Herd and Predator):     seabass,   clownfish, parrotfish, parrotfish, mackerel
+Mid game (Herd and Predator):     seabass,   clownfish, parrotfish, parrotfish, mackerel
+
+
+Paradise Island:
+mackrel	mackrel	mackrel	bass	{parrot	tuna	[parrot	clown	HARBOR	CITY	ISLAND	bass	clown]	parrot	tuna}	parrot	clown	bass	tuna	mackerel
+
+
+
+
 Oceans: parrotfish, clownfish, mackerel, mackerel, parrotfish, mackerel, mackerel, clownfish, parrotfish
+(does not seem to make sense)
 
 
 

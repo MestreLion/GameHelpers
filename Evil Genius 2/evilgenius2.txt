@@ -1,0 +1,300 @@
+Stats
+=====
+- Meal Tables/Beds vs specialized stat-recover items (Re-Education Chair, Infirmary "Pods", Coffee TV-EG)
+	- Tables/Beds recover stats only if non-critical (>~20?)
+	- Specialized items needed for critical condition
+	- Witinessing Genius executing a Minion also recover 100% of all stats
+
+Stat Drains
+-----------
+Smarts (so only leave to eat):
+- Guard Post
+- Skill items at Casino
+- Research
+- Train
+
+Morale (so only leave to sleep)
+- Guard Table
+- Resolve items at Casino
+- See Body Bag
+- Interrogate Prisioner
+- Salary not paid
+
+Smarts and Morale (usually smarts much faster than Morale):
+- Security Table
+- Generate Intel at Control Room
+
+
+Casino
+======
+- Per pass through the casino, no agent will use the same kind of casino furniture twice
+- Each investigator has about a 50% chance to ignore a piece of casino furniture when he gets within its aggro radius.
+
+Security Cameras
+================
+- Spotting Power basically depends on manning minion class and its max smarts (50, 75, 100).
+- Depends solely on the best manning minion. So 1 Mercenary + X Workers = 8 Spotting Power anyway.
+- Max Spotting is 10 (Hitman/MA with 100 smarts)
+- Having more cameras than your security tables can support DOES NOT DISABLE THE CAMERAS, they only take a penalty on your Spotting power.
+- Lowering Agent's Smarts lower their disguise "power", so lower Spotting Power needed
+
+Staff
+=====
+- Sattelite Links don't need to be manned
+
+Schemes
+========
+- Heat Reduction schemes with Intel does NOT lure Super-Agents!
+
+Trap Combos
+===========
+- Frozen + (fan?) + Shark Tank
+- Frozen + (fan?) + Pinball
+- Giant Fan + Shark Tank
+- Giant Fan + Laser Wall + Shark Tank
+- Giant Fan + Gas (blow gas to target)
+- Giant Fan + Box Glove
+- Giant Fan + Flamethrower
+- Box Glove + Bees
+- 3-Pinball bounce
+- J.Steele _killed_ by Shark
+
+Henchmen
+================
+- Sir Daniel requires all Super Agents to be alive!
+	Carrion Flower (first mission)
+- Always keep 1 Henchmen slot available (ie, have at most 4 Henchmen at a time), so all side-stories can appear
+- Full Metal Jackie will appear very late in the game and only if you have a slot free
+- Jubei:
+	Meditation Stone
+- Eli Barracuda Jr.
+	Statue of Liberty's Torch
+- Clara
+	Terracotta Army
+	Arabian Jars (1st mission)
+	Carl and Clara are mutually exclusive: choose Clara, as Carl requires Loot Item
+
+Super Agents
+============
+- Keep all alive until recruit Sir Daniel
+- Symmetry
+	Arabian Jars (1st mission)
+	Let her succeed for Achievement
+- Blue Saint
+	Defeat with Jubei
+- Atomic Olga
+	Sword in the Stone
+	Broken Time Machine
+	Set her on fire for Achievement
+
+Loot
+====
+
+Worth it:
+---------
+ 2. Flying Pig (High on the Hog): Restores 1 Morale and 2 Vitality every 2 seconds for Minions using it. After use, gives temporary buff that makes minions move faster. Only usable by Workers and Muscle-class Minions
+ 2. Maple Syrup Dispenser (Syruptitious)
+ 2. Declaration of Independence (The P.A.T.R.I.O.T. Gains)
+ 9. Meditation Stone (The Stone Philosophers): Have 15 Martial Artists. Drains Smarts to 40 and removes any negative traits from Minions.
+ 9. Bush Tuck BBQ: Complete the "There's No News like Fake News" Minion Recruitment Side Story and have a network in Very, very south A.N.V.I.L Provinces. Five Person food station, and needs no person running it. 	Outback Stakeout 
+ 9. Dodo Educator: Only usable by Workers - replenishes Smarts and can train as Scientist 	Wake me up before you Dodo 	Requires Wrecking Bola on the World Stage. Complete the "A Matter of Life and Death" Minion Recruitment Side Story. 
+ 9. World's Oldest Bones (Them Bones): Have 20 Biologists. After using the bones, Science minions gain a permanent trait that increases their maximum smarts by 50 if they don't already have two traits. 	 	
+12. A Million Bees 	Trap: Sends a swarm of bees to attack enemies, dealing resolve damage and causing them to flee. 	One in a Bee-Lion 
+12. Broken Time Machine 	Aura gives minions a temporary buff that allows them to move faster. 	Outta Time 	Have 10 quantum chemists. Becomes unavailable if Atomic Olga is defeated 	12 
+12. Colombian Emerald 	6 Range Aura - regenerates the Morale of Minions walking by it. 	Hidden Gems
+14. Ray Gun Dispenser 	Allows Muscle-class Minions to equip ray guns. Functions similar to the other gun-dispensing objects in the Armory. 	Roswell That Ends Well 	Defeat Agent X. Have a criminal network in all regions. 	14 
+
+All Loot-related research uses Databank, expect those marked with "+" (Biological Samples) and "*" (Whiteboard)
+OK	1 Flying Pig – No requirements
+OK	2 Maple Syrup Dispenser – Have Criminal Network in Northern P.A.T.R.I.O.T. territory
+OK	3 Declaration of Independence – Agent X must appear on the map (rise heat)
+OK	4 Meteor – Have more than 15 Scientists in your lair
+OK	5 Sword in the Stone – Atomic Olga must appear on the map. Always available if you are Emma
+OK	6 Statue of Liberty's Torch – Eli Barracuda Jr. must be one of your Henchmen
+OK	7 Sand of Time – No requirements
+----
+OK	8 Meditation Stone – Jubei must be one of your Henchmen or have more then 15 Martial Artists in your lair
+OK	9 Cupid's Arrow – One of your minion must desert. Make sure to block any morale increase in you lair for this eventually to happens.
+OK	10 Flame of Prometheus – Put something/someone on fire in your lair. NOTE: it seems this one is bugged. DO NOT proceed with the quest until you complete the Hubbard Slice mission first
+OK	11 Doors of Fort Knox – Complete 50 reduction heat schemes. It seems bugged, I got it with 103 schemes completed.
+----
+OK	12 Bush Tuck BBQ – Unlock the Spin Doctor minion
+OK	13 Magic Carpet – Have an A.N.V.I.L. Criminal Network
+OK	14 Hubbard Slice – Unlock Biologist minion
+OK	15+ Dodo Educator – Unlock Biologist minion
+OK	16 The Sarcophagus – Unlock Biologist minion
+OK	17 Giant Egg – Have more than 10 Biologists in your lair
+OK	18 World's Oldest Bones – Have more than 20 Biologists in your lair
+OK	19+ Carrion Flower – Complete the first side mission for Sir Daniel "Who Hunt the Hunter?"
+OK	20* Rumpelstiltskin's Wheel – Have more the 300.000 gold in your Vault or play as Max
+OK	21 Dr Jekyll's Potion – Unlock Hitman minion
+OK	22 Arabian Jars – Complete the first side quests for Symmetry (The Fearful Symmetry) and Clara Jones (Inconspicuous Consumption)
+---
+OK	23 World's Largest Piggy Bank – No requirements
+OK	24 A Million Bees – No requirements
+OK	25 Colombian Emerald – No requirements
+OK	26 Easter Island Head – No requirements
+OK	27 Broken Time Machine – Have more than 10 Quantum Chemists in your lair. NOTE: you need Atomic Olga alive for this. If you complete her side story before the Loot side quest the time machine will not appear.
+---
+OK	28 Pandora's Box – No requirements
+OK	29* Tsar Bomb – Have more than 40 Technicians in your lair or play as Ivan (NOTE: to be confirmed)
+---
+OK	30* King Solomon's Mines – Defeat Wrecking Bola
+OK	31 Ray Gun Dispenser – Defeat Agent X
+OK	32 Terracotta Army – Clara must be one of your Henchmen. NOTE: if you recruit Carl first you cannot have Clara and the Loot item side quest will not appear.
+
+
+
+
+ many side stories can get locked off if you progress too far with the main objectives, and can have non-intuitive methods for unlocking them. It's probably safer to assume most loot side stories will be locked off if you progress to the next main objective that unlocks the next batch of side stories.
+
+A couple notes. Clara Jones, Jubei, and Eli are required for this achievement, so make sure you capture them, not kill them. Jubei is a good choice for the initial "freebie" henchman. Clara Jones and Carl Caffard are exclusive, as recruiting Clara Jones requires you to deal with Carl Caffard, so don't do Carl's side stories. No other henchmen are required, and only Agent X and Wrecking Bola need to be defeated before moving past chapter 14, which is the point of no return for the main objectives.
+
+Edit: As Darth Hawk CZ pointed out, it is best to do this achievement with Zalika, so you can also obtain:
+Evil Genius 2: World Domination
+Technical Marvels
+The Technical Marvels achievement in Evil Genius 2: World Domination worth 146 pointsAs Zalika, steal an extinct creature, one that is yet to hatch, and a treasure from another world.
+
+
+Edit 2: This achievement should unlock when the final required side story is completed. Loot does not need to placed in your base, and nor should it matter if loot gets stolen by Symmetry or Rogue agents. You can always check completed side stories to ensure you've obtained every loot item in each batch.
+
+Edit 3: I've continued adding in edits based on comments. I can assure you I completed the achievement as I originally wrote it, but just in case, I've been added in the reported requirements, as it's better safe than sorry. I'll repeat it here, one last time: Do this achievement slowly and methodically, as the unlock conditions are tricky, and missions will, repeat, WILL, disappear if you move the main story too quickly.
+
+Chapter 2
+Emma - The Mancunian Candidate
+Maximillian - The Traditional Method
+Red Ivan - Coup Heads Prevai
+Zalika - Perfect Pitch
+
+High On The Hog (Flying Pig)
+- No special requirement
+
+Meteor Not, Her I Come (Meteor)
+- Have 15+ scientists
+
+Syruptitious (Maple Syrup Dispenser)
+- Have a criminal network setup in Northern P.A.T.R.O.I.T. territory
+
+The Once And Future King (Sword in the Stone)
+- Atomic Olga must exist. Raise heat in HAMMER to make her appear
+
+The P.A.T.R.I.O.T. Gains (Declaration of Independance)
+- Agent X must exist. Raise heat in PATRIOT to make him appear
+
+Chapter 4
+All Geniuses - A Moment's Calm
+
+...With Liberty And Justice For You (Statue of Liberty's Torch)
+- You need to have Eli as one of your henchmen
+
+Going Against The Grain (Sand of Time)
+- No special requirement
+
+Chapter 7
+Emma - Tourist Season
+Maximillian - As Broken As My Heart
+Red Ivan - War & P.E.A.C.E.
+Zalika - Barely Living Proof
+
+Hearts And Masterminds (Cupid's Arrow)
+- Have a minion successfully desert. Minions desert when their morale reaches zero. You can disable your EGTVs to ensure a minion will desert.
+
+The Stone Philosophers (Meditation Stone)
+- Have 15+ martial artists
+- Have Jubei as one of your henchman
+- You won't be able to train your own martial artists in this chapter, however, some enemy soldiers will be martial artists or hitmen when brainwashed. Safe to continue to the next chapter, where you'll be able to train them though.
+
+The World Is Hot Enough (Flame of Prometheus)
+- Have something in your base catch fire (Incendio, Red Ivan's HAVOK, or saboteurs all work)
+- You can get either this or Hubbard Slice (Chapter 9 loot). You only need 1 of them
+
+Chapter 8
+Emma - Y.O.L.T.
+Maximillian - M.I.D.A.S. Touch
+Red Ivan - P.E.A.C.E. Corpse
+Zalika - Brain Drain
+
+Any Fort In A Storm (Doors of Fort Knox)
+- Complete enough heat reduction schemes (Original author was suggesting around 50 were needed, but I had this pop up with significantly less, probably closer to 15-20. Something you'll probably already have done due to general heat management.)
+
+Chapter 9
+A Moment's Respite
+
+Egg Hunt (Giant Egg)
+- Have 10+ biologists
+- According to the Evil Genius wiki, this side story may disappear when starting other side stories. Probably safer to start this one when it appears, just in case.
+
+Keep Calm And Carrion (Carrion Flower)
+- Complete side story "Who Hunts the Hunter?"
+- This is the first part for the Sir Daniel henchman.
+
+Outback Stakeout (Bush Tuck BBQ)
+- Spin Doctor minion unlocked
+
+Pharaoh Is Foul, Foul Is Pharaoh (The Sarcophagus)
+- Biologist minion unlocked
+
+Roll Out The Red Carpet (Magic Carpet)
+- No special requirement
+
+Say My Name (Rumpelstiltskin's Wheel)
+- Have 300k+ gold on hand (less on easier difficulties)
+
+Them Bones (World's Oldest Bones)
+- Have 20+ biologists
+
+To Catch 40 Theives (Arabian Jars)
+- Complete side story "The Fearful Symmetry" and "Inconspicuous Consumption"
+- This are the first missions for Symmetry and Clara Jones, respectively.
+
+Too Darn Hot (Hubbard Slice)
+- Biologist minion unlocked
+- You can get either this or Flame of Prometheus (Chapter 7 loot). You only need 1 of them
+
+Two-Faced (Dr Jekyll's Potion)
+- Hitman minion unlocked
+
+Wake Me Up Before You Dodo (Dodo Educator)
+- Biologist minion unlocked
+- Wrecking Bola active on the World Stage
+
+Chapter 12
+Emma - Like A Steele Trap
+Maximillian - Trap D'Or
+Red Ivan - The Abuja job
+Zalika - Tourist Trap
+
+Hidden Gems (Colombian Emerald)
+- No special requirement
+
+How to Get A Head In Life (Easter Island Head)
+- No special requirement
+
+One In A Bee-Lion (A Million Bees)
+- No special requirement
+
+Sweet Charity (World's Largest Piggy Bank)
+- No special requirement
+
+Chapter 14
+A Moment of Preparation
+
+OUTTA TIME (Broken Time Machine)
+- Have 10+ Quantum Chemists
+- Original author has this unlocking in Chapter 14, but it unlocked earlier for me.
+- Commenter Huff T Hedgehog reports that this one requires Atomic Olga to be active. Can't confirm myself, but better to wait until this one is complete before permanently defeating Olga.
+
+Outside The Box (Pandora's Box)
+- No special requirement
+
+Reign Of Terra (Terracotta Army)
+- Clara Jones recruited. You can only have Clara or Carl recruited
+
+Roswell That Ends Well (Ray Gun Dispenser)
+- Agent X defeated
+
+Twinkle Twinkle Little TSAR (Tsar Bomb)
+- Have 40+ technicians
+
+What's Mine Is Mine (King Solomon's Mines)
+- Wrecking Bola defeated

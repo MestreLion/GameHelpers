@@ -1,0 +1,45 @@
+- Rush GTS for 5 Squad Size and 2x Dropped Items
+- Priorize Engineers above all else, specially in the beggining, until ~5. ~8 is optimal.
+	Get one in *every* opportunity: Black Market, Rewards, HQ
+- Build Workshop at central column, not on top or bottom row, preferably next to power coil
+- Do NOT skip Magnetic Weapons (Tier 2)
+- Modular Weapons allow Weapon slots
+
+Forget Proving Grounds armor like Nanovest, EXO, WAR, etc. Except Spider (Hook)
+
+Black Market
+------------
+Buy:
+	- Superior of Scope, Magazine/AutoLoader, Stock, Laser Sight
+	- Mobility and Aim PCS
+	- Elerium Crystals
+	- Alloy if excess Intel
+
+Sell:
+	- All PCS but Mobility and Aim
+	- Hair Trigger, Repeater
+	- Keep Corpses until instant research
+	- Keep ~100 Elerium and ~200 Alloys to be safe, half if Very Interested.
+	- 
+
+
+Corpses
+-------
+https://gaming.stackexchange.com/a/255595/44129
+    ADVENT Trooper: 2 for Hybrid Materials (4 on Legend), 6 for Predator Armor (12 on Legend), 2 per EXO Suit (4 on Legend), 2 per Nanoscale Vest (3 on Legend).
+    ADVENT Stun Lancer: 2 per Spider Suit (3 on Legend).
+    Sectoid: 2 for Advanced Psi Amp (3 on Legend), 1 per Mind Shield (2 on Legend).
+    Faceless: 2 per Mimic Beacon.
+    Viper: 2 for Battlefield Medicine (3 on Legend), 1 per Nanomedkit (2 on Legend).
+    Berserker: 1 per Overdrive Serum (2 on Legend).
+    Chryssalid: 2 per Hellweave.
+    Gatekeeper: 1 for Alien Psi Amp (2 on Legend).
+
+
+Engineers
+---------
+2 Workshop (get 4 Gremlins to fully staff adjacent 1 Resistance Comms and 1 Power Supply)
+2 Resistance Comms (2nd)
+2 Power Supply (2nd)
+1 AWC (if healing)
+1 Psi Lab (if training)

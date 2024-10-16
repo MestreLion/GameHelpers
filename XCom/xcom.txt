@@ -1,0 +1,191 @@
+Helpful Tips:
+=============
+
+Missions
+--------
+- Always Engs in Abduction
+
+Base Layout
+-----------
+- Never start a satellite earlier than 20 days before the end of the month, as you might get missions\request that grant you engineers, which would make the production cheaper
+- Adjacencies - count the number of '+' on base diagram. Same for Uplinks, even when worded diferently:
+	X+X     = 1 adjacency,   +1 bonus Satellite,   7% Workshop Rebate, +2 bonus power, etc
+	X+X+X   = 2 adjacencies, +2 bonus Satellites, 14% Workshop Rebate, +4 bonus power, etc
+	X+X+X+X = 3 adjacencies, +3 bonus Satellites, 21% Workshop Rebate, +6 bonus power, etc
+	.
+	X+X
+	+ + = 4 adjacencies
+	X+X
+
+- Workshops: need 14 adjacencies to get 98% rebate
+	- Rebate works in vehicles, foundry projects and facilities. (projects that take time)
+		Satellites too?
+	- Requires 6, 15, 25, 35, ... engs (+10 for each after the 1st, so need to aquire +5 as the previous WS gives +5)
+	3x2   WS =  7 adj (min) =  49%
+	4x2   WS = 10 adj (min) =  70% (also 3x2+2)
+	3x3   WS = 12 adj (min) =  84%
+	3x3+2 WS = 15 adj (min) = 105% (overkill), game still charges $1, 1E, 1WM, etc
+
+- Cost of things due to number of Engineer:
+	Does NOT apply to facilities!
+	Cost = Base Cost × 0.5 × (1 + (Required Engineers ÷ Total Engineers))
+	If Total Engs / Required engs is:
+	  1: 100.0% (no discount)
+	  2:  75.0% (25% discount)
+	  3:  66.7% (inflection point, "sweet spot")
+	  4:  62.5%
+	 10:  55.0%
+	100:  50.5%
+	inf:  50.0% (max discount)
+
+Time for construction is FIXED for all difficulties and Engs (unless Advanced Construction Project from Foundry)
+
+
+Satelite Coverage
+-----------------
+- Asia (4 countries bonus at start)
+- NA (biggest cash upfront) + Africa before end of March = Huge $$$
+	Do not cover Mexico and Canada to farm Abductions
+- Experts say go for Africa (and S.A. next - really? Maybe for more cash upfront on Classic/Impossible, and need research for Laser before Terror)
+- Leave 3 countries not covered for Abdution Missions
+	- Preferably on the same continent (helps manage Panic)
+	- Ideally in your continent (so you have the bonus anyway)
+	- Before Alien Base assault: need 2 countries uncovered, happen twice a month
+	- After  Alien Base assault: need 3 countries uncovered, happen at least once a month
+	- Panic is decreased by 3 in the country where the mission took place and is unchanged on the rest of the continent (all difficulties)
+	- Panic is increased by 1 (2I) in neglected countries, plus 1 in each country (including the neglected) of neglected continents (if accepted country is not there)
+		- continent-wide panic is not made worse by more than one simultaneous abduction
+		- if different continents: -3 chosen, +2(3I) neglected countries, +1 other countries in neglected continents
+		- if same continent:       -3 chosen, +1(2I) neglected countries
+- Panic reduction and income are rewarded instantaneously, just protection from Abduction takes 3 days, so launch at 31 March
+- Don't buy Interceptors before 27 March. You will not detect a second UFO in March
+
+Satellite Rush
+--------------
+-  1st/31 - Excavate for Workshop (5 days, $10)
+-  7th/24 - Abduction Mission (+4 engs) - 9 total Engs
+-  7th/24 - Workshop: 6 engs req, 3 power, $130/$65, 10 days, +5 engs - 14 Total engs
+- 11th/20 - UFO interception (lots of cash)
+- 11th/20 - Buy 4 Satellites (3 if Tutorial): 5 engs req, $100 each, 20 days. $77 with 9 engs * 4 = $308, rebate may apply?
+- 11th/20 - Excavate for Uplink (5 days, $10, L1)
+- 17th/14 - Uplink (10 engs req, 5 power, $150, 14 days)
+- 31st/00 - Launch Satellites
+http://ufopaedia.org/index.php?title=Satellite_Rush_%28EU2012%29
+
+
+Difficulties:
+-------------
+- Normal starts with a free, unlaunched satellite (regardless of Tutorial)
+Normal NA: $375
+Normal Africa: $347/37 Power
+
+Classic Africa: $242/30 Power
+
+
+=============
+
+
+function bool RollForGift(XGStrategySoldier kSoldier)
+{
+	local int iChance, iTraineeWill, iGiftedSix, iSoldier, iTraineeRank;
+
+	local array<XGStrategySoldier> arrCandidates;
+
+	arrCandidates = BARRACKS().m_arrSoldiers;
+	arrCandidates.Sort(SortPsiCandidates);
+	iSoldier = 0;
+	while if(iSoldier < Min(6, arrCandidates.Length))
+	{
+		if(arrCandidates[iSoldier].HasPsiGift())
+		{
+			++ iGiftedSix;
+		}
+		++ iSoldier;
+	}
+	iSoldier = 0;
+	while if(iSoldier < m_arrTraining.Length)
+	{
+		if(m_arrTraining[iSoldier].bPsiGift && arrCandidates.Find(m_arrTraining[iSoldier].kSoldier) != -1 && arrCandidates.Find(m_arrTraining[iSoldier].kSoldier) < 6)
+		{
+			++ iGiftedSix;
+		}
+		++ iSoldier;
+	}
+	iTraineeWill = kSoldier.m_kChar.aStats[7];
+	if(IsOptionEnabled(11))
+	{
+		iChance = int(float(iTraineeWill) / class'XGTacticalGameCore'.default.SW_RARE_PSI);
+		iChance /= float(1 + BARRACKS().GetNumPsiSoldiers());
+	}
+	else
+	{
+		iChance = int(float(iTraineeWill) / class'XGTacticalGameCore'.default.PSI_GIFT_CHANCE); // basic formula
+		iTraineeRank = arrCandidates.Find(kSoldier);
+		if(iTraineeRank >= 0 && iTraineeRank < 6)
+		{
+			iChance += Max(0, 75 - iTraineeRank * 20 - iGiftedSix * 40);
+		}
+	}
+    return Roll(iChance);
+}
+
+http://forums.2k.com/showthread.php?161671-Psi-training-tips
+---
+
+Correction/update: someone on the internet does know what the iGiftedSix clause means. Specifically, Garthor over at Penny Arcade's forums. It has nothing to do with soldier rank (squaddie/etc.). Here's how it works according to him:
+
+The game is supposed to have an algorithm that ranks your not-yet-gifted soldiers by willpower. Then the highest-willpower soldier you haven't yet tested would be rank 0, and would get a 75% boost to odds of being gifted. The second-highest would be rank 1, and have a 55% boost, and so forth. Upon discovering the gift in a soldier, the ranking should get redone excluding that soldier.
+
+Unfortunately that algorithm is... broken. It basically gives a random ranking. So... some of your soldiers will randomly have a higher chance of being gifted (specifically, one soldier randomly gets +15%, another +35%, another +55%, a fourth +75%).
+
+There's also apparently a check that says if you fail your first three candidates, the next candidate is guaranteed.
+
+Ok, that's what Garthor says, all credit to him for the above.
+
+Here's my interpretation for what this implies for intelligent psi testing:
+1. Higher rank is better. Higher rank means more willpower, which means better odds of being gifted. If you're in no rush, but will be testing a soldier eventually, you have better odds at higher rank.
+2. Smaller numbers of soldiers in the barracks is better. If four of them, effectively at random, get significant boosts to odds of being gifted when tested, then if you have four ungifted soldiers, they all get better odds (test three, and odds are at least two will be gifted). If you have forty ungifted soldiers, then very few of them will get better odds (test six, and odds are maybe one will be gifted). So... don't keep tons of soldiers lying around waiting for tests; only keep veterans or currently-being-tested soldiers around (dismiss the rest if they aren't suitable). And test your veterans before hiring new soldiers to test.
+3. If you fail your first three tests, know that whoever you test next will be gifted (so you can put some thought into which soldier and class you want that to be). If for some strange reason you are convinced that it is extraordinarily useful to have, say, a gifted Heavy... you could hire a couple dozen rookies and test three of them as your first round of testing, for about a 60% chance that none of them would be gifted. 
+
+---
+
+So there's some code floating about on the internet regarding how psi calculations are done (Bek posted a link if you like digging through code). Here's the problem with interpreting this code: there's a condition which gives a boost to psi success rate to low-ranked soldiers. But it contains a variable named "iGiftedSix" that nobody is quite sure about. Common sense with variable names would indicate that it's 0 for 0-5 gifted soldiers, and 1 for 6+... but then you'd have the ridiculous result of an 80% chance of finding the gift in rookies. My best guess is that iGiftedSix starts at 1, and changes somehow (becomes two?) when you get 6 psi-gifted soldiers. In that case, you'd get a 35% boost to chance of psi ability on a rookie and 15% on a squaddie, but no boost on more promoted soldiers.
+
+If my guess is right, while you have <6 gifted soldiers already your typical rookie has almost a 1/2 chance of being gifted. Your typical Squaddie about a 1/4 chance of being gifted. Corporals are least likely, with about a 1/8 chance of being gifted; then it rises steadily as you rank up and your willpower increases. A "perfect" Colonel (+10 will per rank up) would have 110 will, at which point they'd have about the same odds of being gifted as back when they were a squaddie.
+
+What does this imply for your psi-training practice? Ideally, test at rookie (45% chance). Second choice, test at Squaddie (~25-27%). Third choice, test at Colonel (~15-27%). Sack low-ranked gifted soldiers if they aren't in the class you want and you've got 6 gifted soldiers already.
+
+That said - I again throw out a caution. All this is speculation on my part about how exactly we are to interpret the code, and if anyone knows more exactly what's going on please chime in. 
+
+---
+
+A squaddy with 52 will in a fresh party, ChanceToPSI=(52/4)+75=88%?
+A squaddy with 52 will in a party full of PSI, ChanceToPSI=(52/4)+0=13%?
+A colonel with 82 will in a fresh party ChanceToPSI=(82/4)+0=20%?
+A colonel with 82 will in a party full of PSI ChanceToPSI=(82/4)+0=20%?
+
+This means a colonel doesnt care about other PSIs. 
+
+-----------------------------
+
+0	Squaddie
+1	Corporal
+2	Sergeant
+3	Lieutenant
+4	Captain
+5	Major
+6	Colonel
+
+chance = Will / 4
+if (Rank <= COLONEL)
+{
+	
+}
+
+
+iChance = int(float(iTraineeWill) / class'XGTacticalGameCore'.default.PSI_GIFT_CHANCE); // basic formula
+
+---------------------------------------
+
+
+

@@ -1,0 +1,1030 @@
+Amazing all-purpose guide:
+https://forum.paradoxplaza.com/forum/threads/the-complete-surviving-mars-guide.1178125/
+
+Best Guide on Comfort, Sanity, Health and Morale:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1748501548
+
+Another great in-depth info:
+https://www.reddit.com/r/SurvivingMars/comments/ybub48/comment/itlk3rp/
+
+-----------------
+
+Rodrigo
+-------
+
+Basic Setup for Basic Dome:
+- 2 Apartments
+- 1 Farm (?)
+- Grocery + Infirmary + Diner: basic comfort
+	- Infirmary open night shift
+	- Infirmary and Diner 1 staff per shift
+	- Eventually full slots
+
+Now either:
+
+Mining / 1st Dome / Mixed:
+- 3rd Apartment
+- Research Lab + 2nd Diner + Parks
+- Mining (Metal or Rare Metal) + Polymer (1 shift)
+	- Eventually 3 shifts for everything
+- 9 scientists, 12 geologists, 17 engineers
+
+Retirement
+- Apartments, no confort (make them earthsick and leave)
+
+Factories
+- 1 Machine Parts
+- 1 Electronics Factory
+
+Education
+- Medium Dome
+- Archology
+- 2 Nursery, 3 Playground
+- School
+- University
+- Diner, Grocer, Inf.
+- Apartments and Farms as needed
+- Sanitoriums/Medical spires are great for College domes.
+
+
+Thumbs down all specialist types from the university dome, but use the ! mark filter on the flaw(s) you want to treat while down-thumbing the flaw from all other domes. Non-specs will get trained into a specialty, and and then any trained with the flaw(s) or who got pulled in by the ! mark override can't leave until the flaw is also removed, at which point the ! mark won't apply and the regular down-thumb on specialist type will push them out to find a new dome and a job. 
+
+ You can get encourage them to move into Sanitarium Domes by using a combination of filters. Unfortunately, no perfect filter exists, but some examples would include:
+
+    The "pull" approach. Thumbs up alcoholics (or some other flaw) to pull them from other domes. The advantage is you can filter out middle-aged and seniors so you only cure people who are worth curing. Unfortunately, it will still pull too many people at a time, and it won't load-balance if you have multiple Sanitarium domes.
+
+    The "push" approach. Thumbs down alcoholics in your OTHER domes, especially the University Dome, so people can't get educated until they're cured. Then lock down workplaces so only educated people can work there. Aspiring young blue-shirts will have limited options until they find their way to the Sanitarium Dome and get cured, and you can slowly start being more picky over time.
+
+
+Research
+- Medium Dome
+- Network Node
+- Consider making a gym the only source of social comfort in university and science domes, so everyone gets Fit
+	Great for Heavy Workloads afterwards
+
+Farming
+- Spire Water Reclamation
+
+Dome Build Order
+-----------------
+Farming first, as that produces the food you need to support the colonists to run the other domes, requires the fewest people, and only needs power and water. Then enough mining to provide the raw materials, then manufacturing to provide the processed goods, then research. A single previously built set of mediums of the same pattern should have more than enough surplus to cover all your needs to get you through.
+
+Nice reference: https://www.reddit.com/r/SurvivingMars/comments/cly04q/build_order_of_specialized_domes/
+
+Founding
+--------
+https://www.reddit.com/r/SurvivingMars/comments/bv6z9m/guide_optimizing_the_founding_era/
+
+1075% Guide
+-----------
+https://www.reddit.com/r/SurvivingMars/comments/plruk7/1075_guide/
+
+================================================================================
+Mysteries
+=========
+
+Beyond Earth
+------------
+TL;DR:
+	- Research Port Vesta (x4)
+	- Rockets to Rubicon Station (Metal) then Aldrin Base (Mixed) (x3 each)
+
+- Trigger at 120 Colonists
+- Timed: ~90 sols to complete (?)
+	- 40-50 Sols from "The Dream Lives On" till the "Rede is Dying" (?)
+	- 10-20 Sols from "Rede is Dying" to his death
+- Needs to complete 3 out of 4 independent objectives
+	- Each Trade Rocket completes 1/3 of an objective (possibly 4)
+	- Each Research (5000) completes 1/4 of an objective, with a bonus reward per research
+	- Rocket and Research might be independent as well
+	- Random disasters may set back an objetive
+- Objectives:
+	Aldrin Base	30 Ele, 30 Poly, 30 Parts => 10 Scientist Applicants, +25% Fusion Reactors Power Production
+	Spring City	80 Poly => 10 Botanist Applicants, 10 Geologist Applicants, Ganymede Rice crop
+	Port Vesta	80 Ele => -5% cost of Robotics techs, +20% Extractor Production
+	Rubicon Station	200 1st then 120 Metals => $200M Funding, -10% cost of Physics and Engineering techs
+
+- Rubicon Station is perhaps the cheapest and arguably the best reward, so do it first
+- Port Vesta is the most expensive on resources, so perhaps use research (20000)
+- Spring City is arguably the worst reward, so leave this out
+
+- https://www.reddit.com/r/SurvivingMars/comments/hx3icx/beyond_mars_mystery_deadlines/
+- https://github.com/HaemimontGames/SurvivingMars/blob/master/Data/Scenario/Mystery_9.lua
+
+
+
+================================================================================
+Research
+========
+
+- Lab:  500 base, 3 x 3 =  9 scientists,  3 hex (55/worker, 167/hex if no collaboration loss)
+- Ins: 1000 base, 8 x 3 = 24 scientists, 10 hex (42/worker, 100/hex if no collaboration loss)
+
+Optimal order (maximize Research per Scientist by minimizing collaboration loss)
+- 3 Research Labs (44)
+- 1st Hawking Institute (42)
+- 4th Research Lab (39)
+- 2nd Hawking Institute (38)
+- 5th Research Lab (33)
+- 3rd Hawking Institute (33)
+- 4th Hawking Institute (29)
+- 6th Research Lab (28)
+Good thresholds:
+- 3 Labs + 1 Institute  =  51	2/0	2530	49.6	133.2
+- 4 Labs + 2 Institutes =  84	3/1	3680	43.8	115.0	comfortable Medium + 6 Living: 9/1, 3/2 slices left
+- 5 Labs + 3 Institutes = 117	4/2	4485	38.3	 99.7	sweet spot for Medium + 5 Apartments: 10/2, 2/1 slices left
+- 6 Labs + 4 Institutes = 150	6/0	4945	33.0	 85.3
+
+- Network Node (Spire) = 9 Scientists, same as a Research Lab
+
+- To minimize loss even further, fully fill each new building one shift at a time
+
+
+
+Breakthroughs
+-------------
+The first 13 breakthroughs are guaranteed (4 from planetary anomalies, and 9 from ground anomalies). The rest are dependant on story bits/etc.
+
+
+Personal Tier list:
+
+Best:
+	- Superconducting Computing (Surplus power into Research)
+	- Nano Refinement
+	- Extractor AI
+	- Factory Automation
+	- Printed Electronics
+	- Zero-Space Computing
+	- Giant Crops
+	- Alien Imprints (if early)
+	- Frictionless Composites - Wind Turbines Power production increased by 100%
+	- Interplanetary Learning
+	- Hull Polarization (if it actually reduces in-dome buildings maintenance)
+Great QoL:
+	- Autonomous Hubs
+	- Artificial Muscles (drones carry 2 units), Advanced Drone Drive (Drone speed +50%)
+	- Superior Pipes, Superior Cables
+	
+Great Worker Improvement:
+	- Good Vibration, Nocturnal Adaptation, Rapid Sleep, Safe Mode, Sustained Workload, Inspiring Architecture, Vocation-Oriented Society, Martianborn Ingenuity
+Meh
+	- Wireless Power
+	- Dome Streamlining
+	- Cryo-sleep (+20 Colonists per Rocket, just useful for massive tourism)
+Worst
+	- Soylent Green
+	- Prefab Compression
+	- Space Rehabilitation
+	- Superfungus
+	- Martian Diet
+	- Dry Farming
+
+- Rapid Sleep
+	- 5 extra Sanity when sleep: from +5 to +10
+	- Almost 2 shifts to visit comfort services instead of just 1
+
+- Nano Refinement
+	- Base Production ~1 unit per shift (sol?)
+	- Once a Deposit is depleted, no more Extractors can be built
+	- Blueprints and non-salvaged extractors will work
+	- Better put as many extractors around a soon-to-be-depleted deposit
+
+- Positronic Brain
+	- Born as Adults, so no Schools == no high-chance for Perks
+	- No need Nurseries, Playgrounds or Senior Domes
+	- Immortal == can't get rid of uncurable flaws
+	
+
+Good Seeds:
+	- 7N171E Elysium Alpha (vanilla): Factory Automation, Printed Electronics, Hull Polarization, Autonomous Hubs, Superconducting Computing, Giant Crops
+	- 0N111E (GP and B&B DLC). Positronic Brain, Project Phoenix before Sol 20 for me. Also Extractor AI
+	- 2N176E Elysium Beta. Research bonuses in the start area; Alien Imprints, Zero-Space Computing
+
+
+- Superconducting Computing
+	- Converts unused Power into Research Points.
+	- The first unused 500 is converted into 1.5 Research each. Any unused power beyond 500 is converted into 0.375 Research each.
+	- Total 750 Research for the soft cap of +500 unused power
+
+	Each map has at least 9 Breakthroughs that are fixed (on ground), and 4 more from planetary expeditions (that most likely are fixed them too). Only way to "shuffle" those is to use Chaos Theory game rule (but it will mess up all Techs trees AND decreases difficulty percentage in case you care for it). Any extra Breakthrough you may get will be random, but those you may like will be always a tiny fraction of all available Breakthroughs.
+	Most common ways to get more Breakthroughs are :
+	- Story Bits (wiki may help you with available options or other required conditions);
+	- 3 from Omega Telescope (one more after leaving it on for long enough);
+	- completing a Mystery successfully(?) but all Wonders must be already researched;
+	- The Excavator if paired with Astrogeologist Commander (again it comes later);
+	- 2~4 from Paradox Sponsor (if you are willing to register an account on Paradox site);
+	- and most likely there are more ways that I forgot of or I don't know at all ^^' 
+
+What is the maximum amount of Breakthroughs per play? 
+	Does anybody know? I'd really like to know it. Here is information I have gathered so far:
+	13: Map Anomalies. Predetermined, based on map
+	3: Omega Telescope. Which Breakthrough you get is decided the moment you start building it???
+	1: Finishing a Mystery without failing it can also provide a Breakthrough, guaranteed if all Wonder technologies have been researched
+	1: Geo Engineer (Designed Forestation) / Inventor (Autonomous Hubs) (question: it it bonus over cap??)
+	2-4: Paradox Interactive Sponsor
+	??: Planetary Anomalies - I usually get only 1 or 2 Breakthroughs this way. They seem to stop appearing after some time.
+	?? 4 maybe: Story Bits (in-game events): give a random Breakthrough - you can reload the game if you don't like the one you got. I'm not sure if it's possible to get all 4 story bits. For example I have not yet seen "A Long Time Ago, in a Galaxy Far Far Away..." at all.
+
+Omega Telescope
+---------------
+	Not confirmed:
+	- You get 3 breakthroughs instantly, which are largely deterministic (determined on map start possibly?), followed by a random breakthrough a year or two later if you keep the telescope powered. So the three instant breakthroughs can't really be savescummed, while the random breakthrough can. 
+	- The selection of the 20-some-odd breakthroughs you will get is hardcoded to a sector. Which of those 20 you can get from the Omega can vary if you can alter the shuffle, but it's still pulling from that same pre-set selection. It just means that if you get breakthrough X instead of Y from Omega you'll get Y instead of X from a future unscanned anomaly or planetary mission instead. You're shuffling around the order you get them, but not which you have access to. Which tbf is not without its own merit; some are definitely better the earlier you get them. 
+	- https://www.reddit.com/r/SurvivingMars/comments/q7w0ao/omega_telescope_breakthrough_discovery_shuffle/
+		The omega telescope gives you 3 "random" breakthrough. However save scumming doesn't reshuffle it. But here is how to have some limited flexibility to what you get.
+		Basically what you discover with Omega telescope is depended on how many breakthroughs you currently have. So to abuse this is to discover another breakthrough before completing your omega telescope
+
+Anomalies
+---------
+KEY	Tech Anomalies reveal 2 (75% Chance) or all 6 (7 with Below and Beyond) technologies that are next in line in the Tech Trees except for Breakthroughs, or give 1000, 1250 or 1500 Research Points if all technologies are already revealed.
+		(leave them for later to get Research instead of revelation)
+
+The first Planetary Anomalies will appear on Sol 10 or 11. Subsequent anomalies will appear after every 62-63 Sols. Planetary Anomalies usually come in sets of 3 to 6. 
+
+================================================================================
+Transportation
+==============
+
+- Priority order for Drones and Shuttles:
+	- Rockets, Buildings(?), Constructions
+	- Depots with less than Desired Quantity
+	- Regular Depots?
+
+- Shuttles will not pick or drop from buildings, constructions or ground. Only Depots? Maybe Rockets?
+
+- Depots with less than Desired Quantity are not spontaneously taken from by Shuttles or Drones
+	- Drones will take to fullfill Rocket Missions
+
+
+Shuttle Hubs
+-------------
+- Service anywhere in the map for both origin and destination
+- Consumption based on trip time, so proportional to distance and going faster is more efficient
+- 1 Fuel per 1/2 Sol of flight
+	https://github.com/HaemimontGames/SurvivingMars/blob/master/Lua/Buildings/ShuttleHub.lua#L352
+	2 Fuel/Sol/Shuttle x6 = 12 Fuel/Sol/Hub = 1 Refinery (3 shifts, no upgrades)
+
+
+================================================================================
+Economy and Production
+======================
+
+Performance and Efficiency
+--------------------------
+- Distinct and independent:
+	- Performance = more Output per Time (Sol or Hour)
+	- Efficiency = more Output per Input
+- Base Output = Production per Time with full workers, 3 shifts, 100% performance.
+	- Morale and Upgrades can improve performance
+- Input/Output convertion ratio is fixed regardless of Output scaling (Upgrades, Workforce, erc)
+	- So Upgrades produce faster but also consume faster. Still, it improves per-worker performance
+	- Fuel Refineries seems to be an exception: with Amplify its Water consumption seems to be the same
+
+Grid Resources (Power, Water, Oxygen)
+-------------------------------------
+- https://steamcommunity.com/app/464920/discussions/0/1755771676004998224/
+- Time Unit for grid resources is _Hour_, not Sol like other resoures
+- Grid Resource Units are produced, consumed or stored per Hour.
+- Grid Resources are not used more quickly, a fuel or polymer factory will use 1 water regardless of production boosts.
+- Depot resources are always used in direct proportion to the production. 
+
+Resource Deposits
+-----------------
+- https://survivingmars.paradoxwikis.com/Resources#Resource_grade
+- Grade represents the Resource per waste ratio of the deposit.
+	3:1 = Very Low
+	4:1 = Low
+	5:1 = Average
+	6:1 = High
+	7:1 = Very High
+
+
+local DepositGradeToMultiplier = {
+	["Depleted"]  = 15,	-- used by Nano Refinement tech
+	["Very Low"]  = 60,
+	["Low"]       = 80,
+	["Average"]   = 100,
+	["High"]      = 120,
+	["Very High"] = 140,
+}
+function GetDepositGradeToMultiplier(grade)
+	return DepositGradeToMultiplier[grade]
+end
+
+
+
+- Displayed Deposit Quantity is already the actual Resource Quantity, not Resource + waste ("ore") quantity
+- Thus a higher Grade means better (faster) extraction performance of the actual resource
+- Example:
+	- 300 Very Low Grade Concrete Deposit has 300 Concrete, 100 waste (400 Ore),
+	  Extractor at Base Performance (20 ore) produce 5 waste and 15 actual Concrete per Sol
+	  Deposit will last 300/15 = 20 Sols (== 400/20)
+	- 1000 Low Grade Water Deposit has 1000 Water, 250 waste (1200 units),
+	  Extractor at Base Performance (5 units max) may produce 4 actual Water per Hour (and 1 Waste Rock per hour too?)
+- Grid Resources adjust (lower) production to meet actual demand
+- Waste Rock actual units may be different:
+	https://www.reddit.com/r/SurvivingMars/comments/icps1x/extractor_waste_rock_production_ratios/
+	Amount of Waste Rock produced per Unit (as seen in the UI) of Resource
+	Grade	M/RM	Concret	Water
+	VeryHi	0.4	0.2	0.050
+	High	0.6	0.3	0.075
+	Average	0.7	0.4	0.100	Excavator, Mohole
+	Low	0.9	0.5	0.125
+	VeryLow	1.0	0.6	0.150
+	Nano	1.2	0.8	0.150
+- The Excavator is an Average deposit, production not affected by other extractor upgrades.
+	- Base Concrete: 50 per sol, 3 upgrades of +50% (additive) and adding 30 Power each
+	- Base 20 Waste Rock/Sol, equals 1 Waste Rock Processor working 2 shifts
+	- Total 125 Concrete per Sol, 50 Waste Rock
+- The Mohole is 2 average deposits, production not affected by other extractor upgrades.
+	- Base Metal/Rare: 50/20 per Sol, 3 upgrades of +50%/+20% (additive) costing 200/400/800MP and adding +40 Power consumption each
+	- Base (50+20)*0.7 = 49 Waste Rock
+	- Total of 125/32 per Sol, 109.9 Waste Rock
+- Fully Upgraded Excavator + Mohole equals 160 Waste Rock per Sol, or 8 x 2-shift base Waste Rock Processors, producing 16 extra Concrete/Sol
+
+Extractors
+----------
+- As with any out-dome building, workers lose sanity when working in manned extractors (Rare and Metal)
+- Base Performance of Ore extraction (Resource + Waste Rock):
+	20 Concrete
+	20 Metal
+	12 Fuel
+	 9 Polymers
+	 7 Rare
+	 5 Water (will be lower when less demand)
+
+Water Production
+----------------
+- Extractors automatically scale their production to match consumption. If there is no need for them to produce, either to meet demand or to fill storage, they won't pull anything from the deposit at all.
+	- They will still consume power/require maintenance though.
+	- The general order for meeting water needs is vaporators first, then extractors, and finally storage.
+	- They only extract the active consumption for domes and industries. After the storage is completed, you can check the production by clicking on the extractor. It actually says that the production is not at max because the demand is lower. The value of production is something like 4/6 water units, being the other 2/6 unused capacity.
+- Vaporators overlap penalty (0.4) only apply once, regardless if there's 2 or 20 overlapping Vaporators
+
+Waste Rock Processor
+--------------------
+- 10:1 Waste Rock consumed/concrete produced
+- Base 3 Concrete/Sol (1 per shift)
+
+Factory
+-------
+- Input:Output ratios:
+	0.3:1 Rare  -> Electronics
+	  1:1 Metal -> Machine Parts
+	  1:1 Fuel  -> Polymers
+- 5 (or 3.3) Eletronic per Rare Metal
+	- Wiki says 3.3333 (0.3:1), some reddit posts says 5. May have changed/rebalanced
+- Factory Automation Upgrade (Breakthrough): -2 jobs per shift, same performance, so better per-worker performance
+
+
+Drone Hubs
+----------
+- Very expensive to build (8 Ele), cheaper to buy Prefab from earth
+- Even better to use fixed RV Commanders for distant, un-manned extractor outpots (Concrete and Water)
+	- Saves expensive mainenance (1 Ele)
+
+Maintenance
+-------------
+- Regular buildings DO deteriorate when turned off (powered down)
+	- The only point in turning off is to delay maintenance until it's turned on
+- Stirling Generator has zero deterioration when closed
+- Solar Panels also has no deterioration when closed (night or turned off)
+- Dust Repulsors represent an effective 25% reduction in maintenance cost of Solar Panels
+	https://www.reddit.com/r/SurvivingMars/comments/q6dn0s/anyone_know_the_exact_rate_of_the_dust_repulsion/
+- maintenance threshold is randomized to +-20% of base value each time the building is repaired (function RequiresMaintenance:GenerateMaintenanceThreshold)
+If I count this right, most buildings (not extractors) are expected to require maintenance once every 166 hours on average (133-200 hours after the spread), and with the additional extractor dust this becomes 117 hours (94-141).
+- maintenance_build_up_per_hr is 600 (*24 == 14400).
+	default .maintenance_threshold_base (well _current) is 100000 (most buildings use it, but there's a few that don't, see https://github.com/HaemimontGames/SurvivingMars/blob/master/Data/BuildingTemplate.lua).
+	city mayor adds 20% to maintenance_threshold_base (20000), in/out dome tech also adds 20% (this is always applied to the base value not value + 20% + 20%).
+	100000 / 14400 == 6.94 (so about 7 sols per main needed, for solar panels it's about 14 with Dust Repulsion tech), mayor (120000 / 14400) = 8.33 sols, mayor+tech = 9.72.
+	.maintenance_resource_amount defaults to 1000 (1 res, most are different again see templates).
+	Edit: https://steamcommunity.com/workshop/filedetails/?id=1812727938 
+- PSA: Triboelectric Scrubber needs only one shift in normal conditions to work indefinitely
+	- Get 2 of them within 8 hexes of each other, set their range to max (8), and everything they cover (including each other) will now be maintenance free.
+	- 2 shifts to remove existing dust accumulation
+	- In my experience 2 tribos are not enough for 9-square of extractors. Such dense package pumps out a lot of dust and when I check uptime of tribos, I keep noticing that they still need service from time to time. So, I usually go with 4 overlapping tribos per 9 rare metal extractors. A bit overkill I guess, but hey, power is cheap. 
+	- When I build 6 extractors around a deep deposit, it takes me 3 overlapping scrubbers to keep the maintenance at bay. If I use only 2 then the extractors won't need maintenance, but the scrubbers themselves take dust wear and tear surprisingly fast
+	- I can cram 9 RM extractors on 1 deposit, without maintenance all thanks for 3 scrubbers
+
+Power
+-----
+1) Daytime-only Power: Fields of Large Solar Panels to supply your daytime-only buildings. For instance if you are building a Machine Parts factory (50 power!) that you only run during the daytime (which you probably should!), then build 10 large solar panels to supply it.
+2) Nighttime-only Power: As noted above, this is a combination of 3 large solar powers and 1 battery for 20 power/hour, or 5 large solar panels and 2 batteries for 40 power/hour. The panels will fully charge your batteries during the day so you can supply power during the night.
+3) All-Sol Power: A combination of items 1 and 2. That means you need 7 large panels and 1 battery to supply 20 "all-sol" power/hour , or 13 large panels and 2 batteries for 40 power. Basically, add 4 solar panels (20 power/hour during the day) for every nighttime-only power unit of 20 power/hour.
+
+Same math for Nuclear Accumulators:
+Nighttime: 100 max output = 20 Large Panels (which during daytime will recharge 900)
+
+Fueled Extractors
+-----------------
+'upgrade1_id', "WaterExtractor_FueledExtractor",
+'upgrade1_display_name', T(5026, --[[BuildingTemplate WaterExtractor upgrade1_display_name]] "Fueled Extractor"),
+'upgrade1_description', T(5027, --[[BuildingTemplate WaterExtractor upgrade1_description]] "+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus."),
+'upgrade1_upgrade_cost_MachineParts', 5000,
+'upgrade1_mod_label_1', "WaterExtractor",
+'upgrade1_mod_prop_id_1', "water_production",
+'upgrade1_mul_value_1', 30,
+'upgrade1_consumption_resource_type', "Fuel",
+'upgrade1_consumption_amount', 200,
+'upgrade1_consumption_resource_stockpile_spot_name', "",
+'upgrade2_id', "WaterExtractor_Amplify",
+'upgrade2_display_name', T(5028, --[[BuildingTemplate WaterExtractor upgrade2_display_name]] "Amplify"),
+'upgrade2_description', T(8043, --[[BuildingTemplate WaterExtractor upgrade2_description]] "+<upgrade2_mul_value_1>% Production; +<power(upgrade2_add_value_2)> Consumption."),
+'upgrade2_upgrade_cost_Polymers', 2000,
+'upgrade2_mod_label_1', "WaterExtractor",
+'upgrade2_mod_prop_id_1', "water_production",
+'upgrade2_mul_value_1', 25,
+'upgrade2_mod_label_2', "WaterExtractor",
+'upgrade2_mod_prop_id_2', "electricity_consumption",
+'upgrade2_add_value_2', 10000,
+
+'upgrade1_id', "MetalsExtractor_FueledExtractor",
+'upgrade1_display_name', T(5026, --[[BuildingTemplate MetalsExtractor upgrade1_display_name]] "Fueled Extractor"),
+'upgrade1_description', T(7669, --[[BuildingTemplate MetalsExtractor upgrade1_description]] "+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus."),
+'upgrade1_upgrade_cost_MachineParts', 5000,
+'upgrade1_mod_label_1', "MetalsExtractor",
+'upgrade1_mod_prop_id_1', "production_per_day1",
+'upgrade1_mul_value_1', 30,
+'upgrade1_consumption_resource_type', "Fuel",
+'upgrade1_consumption_amount', 800,
+'upgrade1_consumption_resource_stockpile_spot_name', "",
+'upgrade2_id', "MetalsExtractor_Amplify",
+'upgrade2_display_name', T(5028, --[[BuildingTemplate MetalsExtractor upgrade2_display_name]] "Amplify"),
+'upgrade2_description', T(8043, --[[BuildingTemplate MetalsExtractor upgrade2_description]] "+<upgrade2_mul_value_1>% Production; +<power(upgrade2_add_value_2)> Consumption."),
+'upgrade2_upgrade_cost_Polymers', 2000,
+'upgrade2_mod_label_1', "MetalsExtractor",
+'upgrade2_mod_prop_id_1', "production_per_day1",
+'upgrade2_mul_value_1', 25,
+'upgrade2_mod_label_2', "MetalsExtractor",
+'upgrade2_mod_prop_id_2', "electricity_consumption",
+'upgrade2_add_value_2', 10000,
+'upgrade3_id', "MetalsExtractor_MagneticExtraction",
+'upgrade3_display_name', T(5030, --[[BuildingTemplate MetalsExtractor upgrade3_display_name]] "Magnetic Extraction"),
+'upgrade3_description', T(5158, --[[BuildingTemplate MetalsExtractor upgrade3_description]] "+<upgrade3_mul_value_1>% Production."),
+'upgrade3_icon', "UI/Icons/Upgrades/magnetic_extraction_01.tga",
+'upgrade3_upgrade_cost_Electronics', 5000,
+'upgrade3_upgrade_cost_MachineParts', 5000,
+'upgrade3_mod_label_1', "MetalsExtractor",
+'upgrade3_mod_prop_id_1', "production_per_day1",
+'upgrade3_mul_value_1', 50,
+
+'upgrade1_id', "PreciousMetalsExtractor_FueledExtractor",
+'upgrade1_consumption_amount', 800,
+
+'upgrade1_id', "RegolithExtractor_FueledExtractor",
+'upgrade1_display_name', T(5026, --[[BuildingTemplate RegolithExtractor upgrade1_display_name]] "Fueled Extractor"),
+'upgrade1_description', T(7666, --[[BuildingTemplate RegolithExtractor upgrade1_description]] "+<upgrade1_mul_value_1>% Production as long as the building is supplied with Fuel. If not supplied with Fuel, the building will continue to operate but will lose the bonus."),
+'upgrade1_icon', "UI/Icons/Upgrades/fueled_extractor_01.tga",
+'upgrade1_upgrade_cost_MachineParts', 5000,
+'upgrade1_mod_label_1', "RegolithExtractor",
+'upgrade1_mod_prop_id_1', "production_per_day1",
+'upgrade1_mul_value_1', 30,
+'upgrade1_consumption_resource_type', "Fuel",
+'upgrade1_consumption_amount', 800,
+
+================================================================================
+Domes
+=========
+
+Dome Sizes (*not* working area)
+https://www.reddit.com/r/SurvivingMars/comments/hin174/all_dome_sizes_illustrated/
+	Pipes Per Side		Pipes	Hexes
+Basic	I---I-I			1.5	 7 (r= 6?)
+Medium	I---I---II		2.25	10 (r= 9?)
+Mega	I---I---I---I		3.0	13 (r=12?)
+Capitol	I---I---I---I---I-I	4.5	19
+
+Diameter is 2*(Side-1==Radius) + 1 hexes
+
+WorkRange (from dome size vertex to work area vertex?), from game code:
+Basic	 6	 6 +  7 = 13 (actually 17, r=16, diam=33)
+Medium	 8	 8 +  9 = 17 (actually 19, r=18, diam=37)
+Mega	11	11 + 12 = 23 (actually 22, r=21, diam=43), diam=not 37
+
+Work Area (side):
+Basic	17
+Micro	18 yes, larger than Basic
+Barrel	19 same as Medium
+Medium	19
+Trigon	22 same as Mega
+Mega	22
+MegaTri	24 larger than Mega
+
+Child dome: Schools, Nurseries, Playgrounds. Nothing else! This is an exception to the housing/services thing. Children don't need services (other than the playground).
+	- Put a food depot just outside the dome and they'll be fine. Thumbs-down children on other domes. Barrel domes are perfect for these btw - 4 schools, 8 nurseries, 6 playgrounds.
+	- IIRC the ratio of 24hr schools to nurseries and playgrounds is 1:2:1.5 (an extra half playground because, although *technically* it can also service 15 children per sol,
+	unless you get the Power Sleep breakthrough most kids are going to be sleeping at night) with 1 child skipping. That makes 2 schools, 4 nurseries, and 3 playgrounds relatively even.
+	- I like barrel domes: 4 schools, 8 nurseries, 6 playgrounds, and 4 little 1 hex rec buildings. About ideal ratio, cheap dome, lots of space
+
+Micro Domes vs Basic Dome
+--------------------------
+2 Micro has more *way* work range
+4 more hexes of dome space (2 x 3 - 2 x 1 passage)
+5 less power (2 x 5 vs 15)
+1 more concrete maintenance (2 x 1 vs 1)
+Potentially slightly less average comfort for ~half colonists (services in different dome)
+	Diner (~75 if full high quality staff) will be the same as Living Complex (65)
+No Spire (who cares?)
+
+Mining Outposts
+---------------
+- Geologists + Services (NoSpec, Medic)
+- 1 Extractor: not worth it
+- 2 Extractors: Basic or 2 x Micro
+	3 x Living Complex, 18 free for services
+	1 x Service Slice, 15 jobs
+	1 x Park/Passage slice (optional Amphitheater)
+	1 x Space Bar (better but manned) or Open Gym
+- 3-4 Extractors: Barrel
+
+Passages
+--------
+16 effective hexes (Nominally 20, but 2 lost in each dome)
+
+- Walking distance for _relocation_: a sector / 20R service area (40 or 41 hexes)
+
+================================================================================
+Colonists
+=========
+
+https://survivingmars.paradoxwikis.com/Colonists
+
+Behavior / Filters
+------------------
+- Unemployed colonists will try to relocate to a dome with a job, even if they already have housing in their current dome.
+- Another opinion: "Being unemployed, or having workspaces available in another dome is not a trigger that makes colonists migrate domes. Only homelessness will cause actual dome migration."
+- Work Priority
+	High	Fuly staffed if possible
+	Normal	50% staffed if not enough workforce, try to maintain operational if possible
+	Low	 0% staffed if not enough workforce
+- "Thumbs Up" and "!" means: prefer that Dome if there is housing, regardless if there are jobs.
+	- "!" does not only mean "unconditional", it also works as Thumbs Up and pull employed people! Make sure to restrict living space!
+- "Thumbs Down" not does not actively kick people out of a Dome (and Job?), it only prevents people from moving in (but see below).
+- "Thumbs Down" has no effect if the colonist has nowhere else to go.
+
+
+Birth Rate
+----------
+- Birth chance percentage per sol per fertile couple: (comfort - 30) / 10
+	So 70 comfort = 4% chance
+- Without accounting for technologies, considering a 55 sol fertile life and an ideal men/women ratio, it can expect these population trends based on comfort:
+	Avg Comfort	Sols/Child	Children/couple/55 Sols	Trend
+	 55		40		1.375	inevitable extinction (−1.1%/Sol)	(minimally fertile with Medical Checks)
+	 66.4		27.5		2	stable population
+	 70		22.2		2.475	steady growth (+0.85%/Sol)	(minimum without Medical Checks)
+	100 (max) 	13.3 		4.125	rapid overpopulation (+7.5%/Sol)
+- "A rule of thumb is number of children between 5-10% of the total population. That resolves to steady population at the low end and strong growth at the top end."
+
+- Food Consumption: 5 Colonists consume 1 Food per Sol
+- Working outside the Dome (extractors, poly, etc) lowers Sanity
+
+
+Comfort
+-------
+- Comfort providers (Housing, Services, etc) have distinct comfort _Level_ and comfort _Increase_
+- When visited, if the Colonist comfort is less than the provider _Level_, the COlonist will gain the comfort _Increase_
+	So a visitor with 59 Comfort enters a Grocery (Comfort Level 60), visitor get the full +10 Comfort Increase and end up with 69 Comfort.
+- https://survivingmars.paradoxwikis.com/Dome_buildings#Dome_Services
+- Diner > Open Gym > Grocer > Parks > Spacebar
+- Effects:
+	Birth chance
+	High:	+ 5 Morale
+	Low:	-10 Morale
+	Zero:	Earthsick (until Comfort High)
+
+
+Health
+------
+- Infirmary: + 27 health +13 sanity, 5 shift capacity
+- Medical center/upgraded infirmary (B&B): + 40 health (*) + 27 sanity, 12/5 shift capacity
+	(*) can heal more, but colonists will visit when their health drops to 60
+- Only seek Medical service if < 70
+
+Sanity
+------
+- Effects:
+	High:	+ 5 Morale
+	Low:	-10 Morale, will seek Medical Check repeatedly until not Low
+	Zero:
+		 1% chance suicide, rolled every _hour_ when idle
+		30% chance new flaw, rolled once
+		Stressed Out
+			No new flaws
+			not working
+			auto-cancel after 3 Sols and give +50 Sanity
+- https://www.reddit.com/r/SurvivingMars/comments/zhroqi/sanity_healing_options_a_detailed_look/
+	- Consider making a gym the only source of social comfort in university and science domes, so everyone gets Fit (great for Heavy Workloads afterwards)
+	- Don't double-stack sanity damage, beeline for some form of better sanity heal (smart homes, psychologist profile/good vibrations/church temple, medical centers, B&B infirmary upgrade)
+	- run dayshift heavy workloads on all in-dome buildings
+	- With smart homes (IMO best option), combine with gym for scientists and infirmary for botanists/engineers. With amateurs, run heavy workloads from the start of the game
+- Actively seek Medical service if < 30, but do so multiple times until > 30, which may take multiple visits (in the same Sol)
+	- The report only shows combined results of all visits, but the time taken might be longer due to multiple visits
+	- Good building performance is desirable to maximize gain per visit
+- Geoscape Dome (Wonder): +5 Sanity per Sol (verify?)
+
+Medical Services
+-----------------
+- Great info on Medical buildings and Rejuvenation Treatment upgrade: https://steamcommunity.com/app/464920/discussions/0/1642038749332267210/#c1642038749333095233
+	- Health and Sanity gains have a base of 20 and 10, and *are* scaled to building performance
+	- RT upgrade offers Relaxation AND increase Service Comfort from mere 40 to nice 70
+	- If actually going for Relaxation, it will give the Comfort Bonus even if colonist Comfort is above!!
+
+Morale
+------
+- Base Morale is random [40-60] + 10 if Relegious
+- Worker Performance bonus == Morale - 50, so 50 Morale is Neutral
+- Renegades points are acummulated when _average_ Dome Morale < 65, depleted when >= 65
+- Modifiers:
+	+ 5 for each High Comfort, Sanity, Health
+	-10 for each Low  Comfort, Sanity, Health
+	+10 Religious
+	+10 Religious and ever lived in the same Dome as a Saint (permanent)
+
+Housing
+-------
+- Colonists recovers Health and Sanity when resting at home
+- If their comfort is lower than the residence's Comfort value, they also gain comfort equal to its Comfort Increase
+- Homeless Colonists lose Health
+- Archology is OK-ish, but there are better options (needs confirmation)
+	- Instead simply build more Domes.
+	- Heck you're already paying 80 Concrete for an Arcology, which is the same as a small Dome
+	- 20 Power!!!
+	- Hanging Gardens is an alternative for comfort
+
+Education
+---------
+- Ratio: 1 University : 1 School : 2 Nurseries : 1.5 Playground
+- Martian Adaptability tech _halves_ the time martians spend on University
+- Work Performance reduces time spent on University, so raise Health/Sanity/Comfort to raise Morale
+- Children stays in School until they become Youth after 6 (7?) Sols
+- University takes 300 "points" to graduate. Base Perfomance is 20 points per Sol
+	- 15.0 Sols for Earthborn, default performance
+	-  7.5 Sols for Marianborn with Martianborn Adaptability (40 points/Sol), 100 performance
+	-  5.0 Sols for Marianborn with Martianborn Adaptability at 150 Performance (60 points/Sol)
+
+Saints / Empaths
+----------------
+For both Saints and Empaths, they permanently affect colonists that has ever lived with them in the same dome. A Saints'/Empath's "visit" (actually living for 1 Sol) only affects colonists that are _currently_ living in that dome. The bonus is attached to the colonists, not to the dome, which also means afterwards they can move elsewhere and still retain the bonus.
+
+
+Interests
+---------
+- Each Sol a colonist chooses to fullfill 1 out of his interests, and gets -10 Comfort if unable to do so.
+	- Having an "unfullfillable" interest is bad (Gaming, Gambling, Drinking, Luxury, etc)
+	- Having more fullfillable interests mitigate the above, as it lowers the chance of the unfullfillable being chosen
+- Each Sol they also always try to fullfill Food and Rest
+
+https://www.reddit.com/r/SurvivingMars/comments/hpmn9i/how_do_i_manage_comfort/
+- Every sol a colonist will attempt to visit a building that provides Meals. However if they get too hungry they will instead grab food from storage (and receive a comfort penalty).
+- Every sol a colonist will pick an interest at random, and attempt to fulfill that interest during that sol (they can combine this with getting a Meal from a Grocer/Diner), if they fail they get a comfort penalty.
+- A colonist who is not in high health (< 70) or is in low sanity ( < 30 ) or is a hypochondriac will attempt to visit a building that provides Medical Checks, they can and will visit repeatedly until they are in high health / not low sanity (hypochondriacs go once per sol, and are the only ones who receive a penalty if they fail to get Medical Checks). Interestingly, sufficiently distressed colonists will even skip work to get Medical Checks if there's an available visiter slot. (skipping work doesn't actually reduce the building output though).
+
+Child				Playing
+Officer	Social	Relax		Exercise
+Tourist				Safari	Gambling
+
+NoSpec	Social	Relax	Shop
+Bota		Relax	Shop	Luxury
+Engi		Relax	Shop	Dining	Diner
+Geo	Social		Shop	Drinkin	Spacebar
+Medic	Social		Shop	Luxury	Amphitheatre
+Sci	Social	Relax		Gaming	Eletronics, Cassino
+
+Services
+Diner	Social			Dining	Food
+Grocer			Shop		Food
+Park		Relax		Exe	Playing
+Gym	Social			Exe
+
+ The dinner has been completely supplanted by the amphitheater as the go-to choice for the "standard" service slice, because it requires no workers, has about the same comfort threshold, and fills the same basic need - social - while covering some additional ones that weren't by the original standard, like luxury that is far more likely to be a common need because of infirmaries and medics needing to be in every dom
+
+Connected Domes: Some people use this to push colonists toward preferable services. You would rather have a colonist seeking Social to use a diner than a casino. If you put the casino in a connected dome, only colonists who couldn’t find Luxury or Gaming in the original dome will travel to the connected casino. 
+
+Great discussion:
+	https://steamcommunity.com/app/464920/discussions/0/1640915206488267579/
+- Dining/Shopping _sometimes_ are combined with Eating in the same visit, sometimes not (Diner support from 30 to 22.5)
+- Colonists choose the service with highest comfort to satisfy their need
+	- exception: services in the same dome are _always_ favored regardless of comfort
+
+Time spent:
+	https://www.reddit.com/r/SurvivingMars/comments/n44iz3/how_long_time_does_using_services_for_colonists/
+	there's a duration param in Service.Service: duration = duration or self.visit_duration * const.HourDuration. visit_duration from the template itself
+	It varies per building but is nearly always 5 hours (exceptions include Medical Center = 4 hours, Hanging Garden = 3 hours and Open Air Gym = 3 hours). I seem to recall the USA Mega Mall has a 8 hour visit duration but I can't double check that right now.
+	Typically a building with a capacity of 10 can service about 45-50 colonists per sol, which is probably derived from 24 hours in a day, 5 hours per visit = 4.8 visits per capacity, with a bit of fudging from colonists leaving on a shift change or something.
+	A colonist wants to visit a "meals" building every day, and you can work on a Diner servicing 50 colonists and a Grocer servicing 40, but a colonist can visit twice (for meals and then for social/shopping) so if you want perfect meals provisioning while also sparing capacity for social and shopping visits you need more than a diner and grocer per 90 colonists, my rule of thumb is a diner + grocer per 50 colonists
+	Rule of thumb:
+		diner + grocer per 50 colonists
+		~4.5-5.0 colonists served per capacity per Sol (1.5-2 per shift)
+DefineClass.ServiceBase = {
+	...
+	{ category = "Service", template = true, id = "visit_duration",  name = T(734, "Visit duration"), default = 5,  editor = "number", min = 1, max = 10,  slider = true, modifiable = true},
+	...
+}
+	RC Safari: visit_duration = 20, -- This is the maximum time tourists will stay on the safari.
+	'Id', "LowGAmusementPark", 'visit_duration', 7,
+	'Id', "OpenAirGym", 'visit_duration', 3,
+	'Id', "HangingGardens", 'visit_duration', 3,
+	'Id', "MedicalCenter", 'visit_duration', 4,
+
+Flaws
+-----
+Curable:
+	Alcoholic
+	Chronic Condition
+	Coward
+	Gambler
+	Glutton
+	Lazy
+	Melancholic
+
+Incurable:
+	Idiot
+	Whiner
+	Loner
+	Renegade
+	Hypocondriac
+
+Always veto:
+	Idiot	No cure, bad performance, liability
+	Loner	No cure, low comfort
+Bad but Curable:
+	Alcohol	bad performance
+	Lazy	bad performance
+Acceptable risk:
+	Hypo	No cure, sanity hit if no or full Medical Service
+	Whiner	No cure, sanity hit on low comfort
+	CC	curable
+	Melanch	curable, performance hit on low Morale
+Perfectly Fine:
+	Gambler	curable, irrelevant
+	Coward	curable, sanity hit on disasters
+	Gluton	curable, irrelevant
+
+Policies:
+	- Never import from Earth specialists with harmful incurable flaws (Idiot, Whiner, Loner, all but Hypo)
+	- Ban such flaws from Univeristy Dome, so Earthborn and Martianborn non-specs never become specialists
+
+University + Sanatorium Dome:
+	- Block harmful incurable (all but Hypo) so they never get specialization
+	- Unconditionally accept (!) on-going treatment (Alcoholic, Lazy, Gambler, or all), so specialists may be cured
+		- Might have to manually fire Seniors
+		- It might help if Retirement Dome also Unconditionally accepts Seniors instead of merely not blocking them,
+			so flawed Seniors don't have a preference for the Sanatorium Dome
+	- Block all but Medic specialists, so non-specs move out when graduated as a specialist
+	- Sanatorium High Priority, to keep it as full as possible
+	- Universities Medium Priority, so they go Sanatorium first
+	- Services preferably High Priority, so Univerisities don't suck them empty. (Or medium so they choose Sanatorium when available)
+	- Leave Services open to everyone, so flawed specialists can work while waiting treatment
+
+All other Domes:
+	- Block on-going treatment, to force them to Sanatorium
+	- Allow incurable (otherwise where would they go? And why waste useful workforce?)
+		- Remember they'll not be specialists
+
+- Hypochondriac is actually not quite the flaw it first appears. Not only does a colonist frequently going to the infirmary help keep sanity up, it also removes pressure off your other services by freeing up their capacity for other colonists. Assuming, of course, that you were already planning on having an infirmary in the dome and it is frequently sitting on spare capacity. 
+
+
+Perks and Jobs
+--------------
+- Gamer is actually a flaw because +Gaming, unless Scientist (which has Gaming anyway)
+- If Nocturnal Adaptation Breakthrough, 3rd shift (night) has bonus over 1st or 2nd. But it always has Sanity penalty
+- Exterior Buildings (Extractors, Polymer, etc):
+	- Earthborn has out-of-Dome Sanity penalty, so ordinary workers should not do Night Shift or Heavy Load
+	- Prefer Martianborn when correspondent Martianborn tech is researched.
+	- 1st shift: Workaholics (or at least Martianborn), so can turn on Heavy Load without double penalty.
+	- 2nd shift: anyone, or closed
+	- 3rd shift: Marianborn only, so single penalty (for night shift) instead of double. Or closed.
+		Heavy Workload only if they're *also* workaholics
+- Interior buildings (Research Lab, Electronics Factory, etc):
+	- No innate benefits for Martianborn
+	- 1st shift: turn on Heavy Workload
+	- 2nd shift: turn on Heavy Workload
+	- 3rd shift: Workaholics, to turn on Heavy Workload without double penalty
+- Composed is a weaker Workaholic/Martianborn when using Heavy Workload or Exterior Building: no bonus and half penalty
+
+
+Food
+----
+Ranches are quick, dirty and effective, they employ anyone with equal effectiveness and inflict sanity penalties. Farms take a lot of investment to truly maximize, you want to max out the soil quality, educate Botanists, use a Water Conservation spire and research more advanced crops and with luck some breakthroughs. Ranches are as good as they ever get on day one, with the only way they get better being that eventually martianborns don't suffer sanity penalties for outdome work. Farms end up using significantly less resources to produce food.
+
+So to be optimal early game you should just use Ranches, and later transition into Farms. Though if you have a lot of water and need to rapidly increase food supply Pigs are pretty damn good. 
+
+Farms:
+- Cover Crops (once), then Fruit Trees + Corn
+
+Ranches:
+- Cows base is 300, same as Ranch container, so no need for better workforce
+
+
+Tourism
+-------
+- All tourists have +Gambling (confirm?), +Safari
+- The only things that gives Satisfaction are:
+	- Hotel
+	- Low-G
+	- Amphitheater
+	- Safari
+- Avoid Gambers (sanity hit on Casino visit) and Chronic Condition (satisfaction hit on heath loss), and no time to cure either.
+- Also avoid Loners (comfort hit and no Social), Alcoholics if no SpaceBar, and possibly Gluttons if no Diner
+- Avoid specialists whose interests have services that do not raise satisfaction: Geologists (+Drinking), Engineers (+Dining)
+- Prefer Officers, Unspecialized, or Scientists (with Party Animal and Fit if possible), so they seek the LowG Amusement Park due to their Social/Relaxation/Exercise
+- Hanging Gardens might get Comfort to 100+, but it will also "steal" most visits away from Low-G Amusement Park and Amphitheater, while providing no Satisfaction boost.
+	- Might be worth for the +30 on Residences if so many Tourists that fills Hanging Gardens 20 visitors cap and still has overflow for LowG Amusement Park
+- Casino (70) is mandatory for Gambling and Gaming, but trumps Low G (60) on Social and Amphitheater (55) on Luxury while giving no Satisfaction
+	- So best to focus on Relaxation and Exercise to maximize Low G usage
+	- Maybe Heavy Workload on full Low G and understaff Casino to make it better than Casino
+- Reddit:
+	"Low-G Amusement Parks and Safaris increase satisfaction very reliably. Everything else... not really.
+		So what you want are Tourists who love to Relax, Exercise, and Socialize plus take safari's and have as few other interests as possible.
+	I've got a Botanist who's been here for 4 sols. He's got ~65 Satisfaction despite having absolutely ZERO negative experiences whatsoever.
+		Turns out that he's got five interests (luxury, gaming, shopping, relaxation, and safari) and only two of them are even capable of boosting his satisfaction directly.
+		So he's got mediocre satisfaction. The lowest satisfaction I've got on my most senior bunch is Laurence Alain,
+		who despite having perfect 100's in Health, Sanity, and Comfort only has 44 satisfaction.
+		She's got five interests, only two of them good, and she's somehow never decided to go on a safari despite being interested :(
+	So what do you want? Officers, Unspecialized, or Scientists with Party Animal and Fit if possible.
+		Also, no flaws that will randomly drop their health or sanity (since that can break their perfect 100 at the last second before you can fix it.)
+	I'm not sure if Hanging Spire is a good idea with low numbers of Tourists, since it competes with Low-G Amusement Parks for interests.
+		At large numbers it'll be worth it for the 110 comfort, basically guaranteeing perfect comfort for most Tourists."
+
+Satisfaction, you want them here:
+	Low-G Amusement Park: Service Comfort: 60 / +??, 15 Visitors. Social, Relaxation, Exercise, Playing
+	Amphitheater:         Service Comfort: 55 / +10,  8 Visitors. Social, Relaxation, Luxury
+
+No Satisfacion, you do NOT want them here, only providing to avoid missing an interest:
+	Diner:                Service Comfort: 60 / +10, 10 Visitors. Social, Dining, Food
+	Casino Complex:       Service Comfort: 70 / +15, 10 Visitors. Social, Gambling, Gaming, Luxury
+
+
+Applicants
+----------
+- Applicants don't actually have an age. Just an age trait. They don't get assigned an age until the moment they land on Mars, at which point they get a random age somewhere within the range of their age trait. This is why bringing older colonists is a big risk; they could get assigned an age of 59 the moment they step off the rocket and have 1 Sol of productive work life before becoming a senior. 
+- The pool replenishes on its own, but only up to the number of applicants for your sponsor, the tech makes them replenish faster
+- Applicants eventually time out (it's random how long they wait), when an applicant times out they are immediately replaced by a new applicant
+- Time out: It should be 42 sols, but initially generated applicants are created up to 21 sols in the past so starting applicants can time out after as little as 21 sols.
+
+
+Seniors
+-------
+- Colonists become Senior on 61 Sols of age, or 81 with Stem Reconstruction tech
+- Stem Reconstruction tech adds 20 Sols to the Middle Aged age bracket. It does not affect Senior _length_, only when it _starts_
+	MinAge_Senior += 20, death_age += 20
+- Death occurs randomly between 5 to 22 years after becoming Seniors, so mean Senior span is 13.5 years (regardless of the tech)
+	self:SetBase("death_age", self.MinAge_Senior + 5 + self:Random(10) + self:Random(5) + self:Random(5))
+- Therefore a Colonist mean lifespan is 81 + 13.5 = 94.5 Sols
+- So if breeding Martianborns with Stem Reconstruction, Seniors will stabilize at 14.3% (~1/7) of your total population, and 18% before the tech
+	As they'll be Seniors for 13.5 Sols out of 94.5 Sols mean lifespan (13.5 out of 74.5 without Stem Reconstruction)
+- Using the same rationale, in a _steady_ population ~6.35% of the population will be Children (less than half of Seniors)
+	Or, if in a baby boom (or bust), the _projected_ future stable population is Children * 15.75
+- References:
+	- https://survivingmars.paradoxwikis.com/Colonists#Age_groups
+	- https://github.com/surviving-mars/SurvivingMars/blob/master/Lua/_GameConst.lua#L401
+	- https://github.com/surviving-mars/SurvivingMars/blob/master/Lua/Units/Colonist.lua#L201
+	- https://github.com/surviving-mars/SurvivingMars/blob/master/Data/TechPreset.lua#L1458
+	- https://anydice.com/program/39049
+
+================================================================================
+Events (Story Bits)
+===================
+
+Breakthrough:
+	- Foreigner in a Foreign Land (Major, 100 Colonists): [Psychologist or Doctor] 10% chance
+	- The Last Founder (Colonist, 30 Colonists, 1 Shuttle Hub): 30% chance, after 3 Sols
+	- Red Mars: Approach the facilities and investigate, trade 10 Colonists, 5 destroyed buildings for a Breakthrough
+
+Good ones:
+	- The Rock (no Celebrity): 1 Celebrity ($30/Sol). [Rocket Scientist] 50 Enthusiast Applicants, $750M Funding (20 Sols worth of Celebrity)
+	- Holy Dome (Colonist, 20 Religious): 1, 2 = +25/-25 Morale for 10 Sols; [non-Ark]: Comfort = 0 (one-shot), +50 Morale for 10 Sols
+	- The Watcher (Colonist, 50 Colonists, Adult, Shuttle): 10000 Research if correct answer (mirror, ...)
+
+Meh:
+	- A Message from a Colonist (Colonist, 0-100 Sols, Genius Colonist): 50% chance to -50% cost Micro Fusion (Artificial Sun) after 10 Sols and Genius never able to work again
+	- The Experiment (Colonist, Scientist): Dust Devil Disaster near a Dome; 50% 3000 Research; 50% 1500 Research and selected Scientist Colonist becomes Genius
+
+No good outcome:
+	- Flat Mars Society (Colonist, Idiot born)
+	- Personal Space (Colonist, >= 30 Colonists, Home Collective not researched)
+
+
+
+
+
+================================================================================
+Mechanics
+=========
+- Buildings are considered "inside" a given radius if their _rotational hex_ is covered. This includes:
+	- Serviceable buildings by Drone Hubs
+	- Walking Distance for working outside a Dome
+	- Extra degradation due to extractors dust
+		This _might_ mean that Domes are in practice immune to extra Dust
+		Some sources say in-dome buildings are immune regardless, some say the rule still apply
+
+Game Data
+---------
+- https://github.com/HaemimontGames/SurvivingMars/blob/master/Lua/_const.lua
+- https://github.com/HaemimontGames/SurvivingMars/blob/master/Lua/_GameConst.lua
+
+ 1 Sol  =  720000
+ 5 Sols = 3600000
+10 Sols = 7200000
+
+1 Unit = 1000 (resources)
+
+DefineConst{
+	group = "Scale",
+	id = "Resources",
+	value = 1000,
+}
+DefineConst{
+	group = "Scale",
+	id = "hours",
+	scale = "sec",
+	value = 30000,
+}
+DefineConst{
+	group = "Scale",
+	id = "sols",
+	scale = "hours",
+	value = 720000,
+}
+const.DayDuration = const.Scale.sols
+const.HoursPerDay = const.Scale.sols / const.Scale.hours
+const.HourDuration = const.Scale.hours
+const.MinutesPerHour = 60
+
+Mods
+----
+https://github.com/ChoGGi/SurvivingMars_CheatMods
+
+================================================================================
+End Game
+=========
+- Solve Mistery
+- Sponsor Achievement (usually before Sol 100)
+- Sponsor Goals
+- Milestones (1000 Colonists, 40% in Workshops)
+- Research all Techs
+- Build all Wonders
+- Self-Sustainable:
+	- Stable, Martianborn-only population
+	- Stable Resources using only infinite sources: Mohole, Excavator, Nano Refinement
+	- No Earth Imports/Exports (or no trade defict)
+
+
+------------------------------------------------------------------------------
+It varies, but there are usually some domes that I always use. I keep most of them independent but I do link first domes like a farming one to the starter dome. Also yea, the 30% research is pretty big imo, it makes a lab go to 1000 research from around 600-700 on full staff.
+
+Medium Factory Dome
+
+This is a dome that houses all factories.
+
+2 Diners+2 Infirmary+1 Art store+1 Security+1 Spacebar+1 Casino+2 Polymer Fact+2 Machine Fact+1 Electronics Fact = 147 jobs
+
+Arcology+5 Apartments = 152 colonists
+
+1 Large wedge empty, Heavy workload on day shifts
+
+Medium Farming dome
+
+Water Reclamation Spire+6 Farms (Automation)+Diner+Infirmary+Art Store = 45 jobs
+
+4 Living Complexes = 56 Colonists. If you are feeling fancy you can use Smart complexes for 48 Colonists.
+
+1 free wedge
+
+This dome running Corn/Quinoa/Fruit Trees will feed about 1000-1500 colonists on 100% soil quality
+
+Medium Research Dome
+
+Research Spire+3 Research Labs+2 Hawking Institutes+2 Dinners+2 Infirmaries+Security Station+Electronics Shop+Casino = 141 Jobs
+
+6 Apartments = 144 Colonists
+
+Built near 30% research bonuses this will make about 10k research per sol. Heavy workload on all day shifts
+
+For education I usually combine children and education together with a sanatorium to get rid of flaws. Only use shops for shopping needs if you can support the consumption, else use grocers. Farm Comfort bonus isn't that great, I think it's 5 comfort on homes, making Apartments go to 40 and Complex go to 55, also the water reduction you get with a spire is pretty huge and with Dry Farming it will make farming domes with the spire 0 water.
+
+--------------------------------------------------------------------------------
+
+https://www.reddit.com/r/SurvivingMars/comments/mhtgxa/comment/gt20jy0/
+
+Once past early game and your starting domes, every dome should be completely specialized. Since service needs are almost ENTIRELY determined by colonist specialization, you always want to be limiting your domes to as few specializations as possible so you can exactly tailor the services you provide to meeting just those needs, without having to waste extra capacity or services trying to meet all needs.
+
+Additionally, because service usage curves smooth and even out as population increases, i.e. there is less "bursty" service usage due to pure RNG, you can get away with needing less "buffer" capacity so you always want to use the largest dome you can for every dome. One medium of each type usually gets you through the early to mid game until you can get mega domes, and then that should be your main dome type. On top of all that, most spires become massively more powerful and cost-efficient the larger the dome they are in. The other advice here is, simply put, exceptionally bad from and efficiency/cost-benefit analysis standpoint.
+
+Specialized domes types would be pretty much what you have:
+
+    farm with a water reclamation spire, the effect of which obviously becomes massively more efficient the larger the dome
+
+    same with science and a network node spire
+
+    mining
+
+    retirement
+
+    yes, split it into child-only domes, which is your playgrounds, schools + school spire, and nurseries versus a training domes/flaw fixing dome, which is universities and a sanatarium spire; this is the only dome where you don't want to go as large as possible, because the appropriate ratio of sanatariums to universities is about 1:3 to not "backlog" your training pipeline, oval or diamond domes are great for these if you get either breakthrough for them. Children should always be completely on their own so they don't interfere with housing/job numbers and filtering.
+
+    manufacturing, which is apartments + HG
+
+    and if you are going for tourists, yes, a tourist only dome so they, again, don't interfere with housing/job numbers in regular working domes. These are one the few cases where a passage-linked "service" dome makes sense if you don't have the service bots breakthrough. Keep the service dome to just services and the non-specialists colonists to run them, and the main dome is where all the tourists all.
+
+Then set up everything using down thumb "push" filters to move your colonist through the stages of life. Children get pushed to child domes, children that become youths get pushed to training domes, youths that get all their flaws fixed and a specialization get pushed to the appropriate work dome for their specialization, then when they retire they get pushed to retirement domes.

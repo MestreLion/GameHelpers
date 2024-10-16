@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"Enable"</Description>
+      <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Activated="1"/>
+      <Color>0000FF</Color>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript Async="1">{$lua}
+if syntaxcheck then return end
+
+[ENABLE]
+local NameStrings = {"Pistol",
+"Shotgun",
+"Knife",
+"Machinegun",
+"SniperRifle",
+"Wood",
+"Materials",
+"MedIngredients",
+"Sugar",
+"Tobacco",
+"Parts",
+"WeaponParts",
+"Detergents",
+"GunPowder",
+"Plants",
+"ContainerBig",
+"Blade",
+"ContainerSmall",
+"Coffee",
+"ElectricParts",
+"Fluorescent",
+"HeaterPart",
+"Speaker",
+"BasicTools",
+"AdvancedTools",
+"GunsmithTools",
+"DismantlingTools_DEPRECATED",
+"Pistol_broken",
+"Vest_broken",
+"Guitar_broken",
+"Helmet_broken",
+"Machinegun_broken",
+"Shotgun_broken",
+"ConductPass",
+"KarelNote",
+"WS2_BroadcastingRadioParts",
+"WS2_PhotoAlbum",
+"WS3_HeritageItem1",
+"WS3_HeritageItem2",
+"WS3_Wrench",
+"WS3_TruckFuel",
+"WS3_CarEngineParts",
+"Battery",
+"Water",
+"Filter",
+"Snow",
+"HeaterFuel",
+"FoodScraps",
+"StaleFood",
+"RawFood",
+"CannedFood",
+"CookedFood",
+"CookedFood2",
+"JaredFood",
+"Vegetables",
+"Hooch",
+"Bandages",
+"Alcohol",
+"Ammo",
+"ShotgunAmmo",
+"RifleAmmo",
+"PistolShells",
+"Meds",
+"HerbalMeds",
+"HomeGrownTobacco",
+"Joint",
+"Cigarette",
+"QualityJoint",
+"TradingItem",
+"Book",
+"PlushDog",
+"DeadChildToy",
+"Crayons",
+"AmeliaHoodie",
+"PocketTools",
+"Shovel",
+"LockPick",
+"Crowbar",
+"Hatchet",
+"Helmet",
+"Vest",
+"Bag",
+"SawBlade",
+"Key_PharmacyDoor",
+"Pickaxe",
+"HeatLamp",
+"Mixer",
+"Termostat",
+"BrokenToy",
+"SleepingFloor",
+"ShelterSleepingFloor"}
+
+Mem = allocateMemory(0x1100)
+unregisterSymbol("pMem")
+registerSymbol("pMem",Mem)
+unregisterSymbol("iID")
+registerSymbol("iID", Mem+0x1000)
+writeInteger(Mem+0x1000,-1)
+
+local i = 0
+for n = 1, 1000 do
+  writeString(Mem+i,NameStrings[n])
+  i=i+0x20
+end
+
+AutoAssemble([[
+
+aobscanmodule(aobGetFlags,This War of Mine.exe,83 3D ** ** ** ** 02 0F 85)
+registersymbol(aobGetFlags)
+
+aobscanmodule(aobTime,This War of Mine.exe,F3 0F 10 0D ** ** ** ** E9 ** ** ** ** C3)
+registersymbol(aobTime)
+
+label(fTime)
+registersymbol(fTime)
+
+aobTime+8+(DWORD)[aobTime+4]:
+fTime:
+
+label(pCheat)
+registersymbol(pCheat)
+label(pConsole)
+registersymbol(pConsole)
+
+aobGetFlags+7+(DWORD)[aobGetFlags+2]:
+pConsole:
+
+aobGetFlags+14+(DWORD)[aobGetFlags+F]:
+pCheat:
+
+
+]])
+ 
+[DISABLE]
+
+deAlloc(Mem)
+
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"Activate Cheat Keys"</Description>
+          <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+          <LastState Activated="1"/>
+          <Color>FF8000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{$lua}
+if syntaxcheck then return end
+
+[ENABLE]
+writeBytes(getAddressSafe("pCheat"),0x1)
+writeBytes(getAddressSafe("pConsole"),0x2)
+ 
+ 
+[DISABLE]
+writeBytes(getAddressSafe("pCheat"),0x0)
+writeBytes(getAddressSafe("pConsole"),0x0)
+</AssemblerScript>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"i = add items (in base)"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>808080</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"shift = toggle game speed"</Description>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>808080</Color>
+              <GroupHeader>1</GroupHeader>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"Tactical Mode ( Shift )"</Description>
+              <LastState/>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>[ENABLE]
+fTime:
+dd (float)0.1
+ 
+[DISABLE]
+fTime:
+dd (float)3
+</AssemblerScript>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"add item filter"</Description>
+              <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+              <LastState Activated="1"/>
+              <Color>FF8000</Color>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>{ Game   : This War of Mine.exe
+  Version: 
+  Date   : 2021-12-01
+  Author : cfe
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(aobAddItem,This War of Mine.exe,44 0F 42 C0 48 03 D3) // should be unique
+alloc(newmem,$1000,aobAddItem)
+
+label(code)
+label(return)
+label(NoFilter)
+label(iQty)
+registersymbol(iQty)
+newmem:
+
+code:
+  cmovb r8d,eax
+  add rdx,rbx
+  push rax
+  push rbx
+  push rcx
+  push rdx
+  push r9
+  xor eax,eax
+  mov rbx,iID
+  mov rbx,[rbx]
+  cmp ebx,-1
+  je NoFilter
+  mov r8,[iQty]
+  imul rbx,rbx,20
+  mov rcx,pMem
+  lea rcx,[rcx+rbx]
+  mov rdx,[rdx]
+  call strcmp
+NoFilter:
+  test eax,eax
+  pop r9
+  pop rdx
+  pop rcx
+  pop ebx
+  pop rax
+  jne return+5
+  jmp return
+iQty:
+dd 1
+aobAddItem:
+  jmp newmem
+  nop 2
+return:
+registersymbol(aobAddItem)
+
+[DISABLE]
+
+aobAddItem:
+  db 44 0F 42 C0 48 03 D3
+
+unregistersymbol( * )
+dealloc(newmem)
+</AssemblerScript>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"Filter Options:"</Description>
+                  <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">-1:No Filter
+0:Pistol
+1:Shotgun
+2:Knife
+3:Machinegun
+4:Sniper
+5:Wood
+6:Materials-Components
+7:MedIngredents
+8:Sugar
+9:Tobacco
+10:Parts
+11:Weaponparts
+12:Detergens
+13:GunPowder
+14:Plants
+15:ContainerBig
+16:Blade
+17:ContainerSmall
+18:Coffee
+19:ElectricParts
+20:Fluorescent
+21:HeaterPart
+22:Speaker
+23:BasicTools
+24:AdvancedTools
+25:GunsmithTools
+26:DismantlingTools_DEPRECATED
+27:Pistol_broken
+28:Vest_broken
+29:Guitar_broken
+30:Helmet_broken
+31:Machinegun_broken
+32:Shotgun_broken
+33:ConductPass
+34:KarelNote
+35:WS2_BroadcastingRadioParts
+36:WS2_PhotoAlbum
+37:WS3_HeritageItem1
+38:WS3_HeritageItem2
+39:WS3_Wrench
+40:WS3_TruckFuel
+41:WS3_CarEngineParts
+42:Battery
+43:Water
+44:Filter
+45:Snow
+46:HeaterFuel
+47:FoodScraps
+48:StaleFood
+49:RawFood
+50:CannedFood
+51:CookedFood
+52:CookedFood2
+53:JaredFood
+54:Vegetables
+55:Hooch
+56:Bandages
+57:Alcohol
+58:Ammo
+59:ShotgunAmmo
+60:RifleAmmo
+61:PistolShells
+62:Meds
+63:HerbalMeds
+64:HomeGrownTobacco
+65:Joint
+66:Cigarette
+67:QualityJoint
+68:TradingItem,
+69:Book
+70:PlushDog
+71:DeadChildToy
+72:Crayons
+73:AmeliaHoodie
+74:PocketTools
+75:Shovel
+76:LockPick
+77:Crowbar
+78:Hatchet
+79:Helmet
+80:Vest
+81:Bag
+82:SawBlade
+83:Key_PharmacyDoor
+84:Pickaxe
+85:HeatLamp
+86:Mixer
+87:Termostat
+88:BrokenToy
+89:SleepingFloor
+90:ShelterSleepingFloor
+</DropDownList>
+                  <LastState Value="-1" RealAddress="20900A91000"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>iID</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>72</ID>
+                  <Description>"Amount:"</Description>
+                  <LastState Value="1" RealAddress="7FF748F00064"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>iQty</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"God"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : This War of Mine.exe
+  Version:
+  Date   : 2021-12-01
+  Author : cfe
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(aobGodMode,This War of Mine.exe,0F B6 81 C6 02 00 00) // should be unique
+
+aobGodMode:
+  db B8 01 00 00 00 C3
+
+registersymbol(aobGodMode)
+
+[DISABLE]
+
+aobGodMode:
+  db 0F B6 81 C6 02 00 00
+
+unregistersymbol(aobGodMode)
+
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"Increase Backpack"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : This War of Mine.exe
+  Version: 
+  Date   : 2021-12-02
+  Author : cfe
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(aobBackSize,This War of Mine.exe,8B 4A 70 89 48 44) // should be unique
+alloc(newmem,$1000,aobBackSize)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov dword ptr[rdx+70],#99
+  mov ecx,[rdx+70]
+  mov [rax+44],ecx
+  jmp return
+
+aobBackSize:
+  jmp newmem
+  nop
+return:
+registersymbol(aobBackSize)
+
+[DISABLE]
+
+aobBackSize:
+  db 8B 4A 70 89 48 44
+
+unregistersymbol(aobBackSize)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: This War of Mine.KosovoUIItemsPresenter::RefreshList+84
+
+This War of Mine.KosovoUIItemsPresenter::RefreshList+59: 90                       - nop 
+This War of Mine.KosovoUIItemsPresenter::RefreshList+5A: 45 33 E4                 - xor r12d,r12d
+This War of Mine.KosovoUIItemsPresenter::RefreshList+5D: 45 38 A6 A0 00 00 00     - cmp [r14+000000A0],r12l
+This War of Mine.KosovoUIItemsPresenter::RefreshList+64: 75 5D                    - jne "This War of Mine.KosovoUIItemsPresenter::RefreshList"+C3
+This War of Mine.KosovoUIItemsPresenter::RefreshList+66: 48 8D 15 63 BC 39 00     - lea rdx,["This War of Mine.NameString::Null"]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+6D: 49 8B CE                 - mov rcx,r14
+This War of Mine.KosovoUIItemsPresenter::RefreshList+70: E8 CB ED FF FF           - call "This War of Mine.KosovoUIItemsPresenter::CreateCategoryItemPresenter"
+This War of Mine.KosovoUIItemsPresenter::RefreshList+75: 48 89 84 24 B0 00 00 00  - mov [rsp+000000B0],rax
+This War of Mine.KosovoUIItemsPresenter::RefreshList+7D: 49 8B 4E 28              - mov rcx,[r14+28]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+81: 48 8B 11                 - mov rdx,[rcx]
+// ---------- INJECTING HERE ----------
+This War of Mine.KosovoUIItemsPresenter::RefreshList+84: 8B 4A 70                 - mov ecx,[rdx+70]
+// ---------- DONE INJECTING  ----------
+This War of Mine.KosovoUIItemsPresenter::RefreshList+87: 89 48 44                 - mov [rax+44],ecx
+This War of Mine.KosovoUIItemsPresenter::RefreshList+8A: 49 8B 4E 28              - mov rcx,[r14+28]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+8E: 48 8B 11                 - mov rdx,[rcx]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+91: 0F B6 4A 75              - movzx ecx,byte ptr [rdx+75]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+95: 88 48 40                 - mov [rax+40],cl
+This War of Mine.KosovoUIItemsPresenter::RefreshList+98: 41 8B 8E A4 00 00 00     - mov ecx,[r14+000000A4]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+9F: 89 48 48                 - mov [rax+48],ecx
+This War of Mine.KosovoUIItemsPresenter::RefreshList+A2: 49 8D 4E 48              - lea rcx,[r14+48]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+A6: 48 8D 94 24 B0 00 00 00  - lea rdx,[rsp+000000B0]
+This War of Mine.KosovoUIItemsPresenter::RefreshList+AE: E8 0D 3C C1 FF           - call "This War of Mine.DynarrayBase&lt;KosovoSoundEntry *,DynarraySafeHelper&lt;KosovoSoundEntry *&gt; &gt;::Add"
+}
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>pMem</Name>
+      <Address>20900A90000</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>iID</Name>
+      <Address>20900A91000</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+</CheatTable>

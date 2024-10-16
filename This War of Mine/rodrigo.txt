@@ -1,0 +1,451 @@
+Trading
+-------
+- Franko trades 1:1 (and Katia has bonus), other traders do 5/6(~83%):1 (so Katia is 1:1)
+
+
+PS4 Changes
+-----------
+- In PC, it was possible to make a profit using Katia, thus cleaning up his inventory. In PS4 this exploit was fixed:
+	if Katia on group, Franko is 1:1 with her and 5/6:1 with everyone else
+	However, Franko charges her only 1.5 for Wood in day 3 even in Winter
+
+- Always buy ALL (or most) of:
+	Eletrical (very rare)
+	Weapon Parts (needed a lot specially late-game)
+	Parts (scarce in beginning)
+	Components (used for everything, mid-game it almost dissappers, non-renewable)
+	Filters (to save on Components)
+	Water (as Components, it dissapears mid-game and is needed a lot, requires Fiters (Components) to craft)
+	Wood (small stack size and poor value makes it a poor choice to bring from scavenging)
+	Fuel (to save on Wood)
+	Vegetable (reneawable only in mid-game, and in practice always scarce)
+
+- Cigarrete crafting usually not worth the profit, Moonshine (13.5 - 9 = 4.5) usually not worth the hassle
+- Pure Alcohol profit is the same (in absolute value) as Moonshine
+
+- Bruno is AMAZING... for crafting MEDICATION (Pills)! Uses a single part, so double outcome.
+
+- Never sell looted ingredients (med, herbs, etc): craft stuff with them (Cigs) and sell for marginal profit.
+	Except Weapons/Armor: Weapon Parts are rare, profit is low: 0.5 Ammo, 1.5 Pistol, 2.0 Shortgun, 2.5 Helmet, 3.5 Vest, 4.5 Assault Rifle
+	Specially for Ammunition: Never craft Ammo, sell parts instead!
+	Also avoid crafting if it requires Components
+
+- Always buy Med Ingredients from Hospital! Sell Medication for profit
+
+Amazing details
+	https://this-war-of-mine.fandom.com/wiki/User:RedKnight7
+	https://this-war-of-mine.fandom.com/wiki/User:KinectNinja
+
+Shortages
+	Randomly double the price for affected items, including yours.
+	Does not affect sell price to Central Station (but DO affect buy price)
+	3 days announcement on Radio, 4 days of actual shortage
+
+Addictions
+	Subtracted from inventory at each day start. Smoking/Crinking coffe animation is purely cosmetical
+	Coffee addiction also deducts 1 Clean Water
+
+Don't ever sell Lock Picks. Use them instead of Crowbar to save Inventory Slot. If Slot > 6 you had a profit.
+	Avoid crafting them too (5.5), buy if necessary (6.0) to save on Components.
+
+Shovel is overrated. Never use it in Shelter, carefully consider if taking it for Scavenging is really worth the Inventory Slot
+
+
+================================================================================
+Bugs
+====
+
+Disappearing Loot Piles
+-----------------------
+- When Winter starts, some outdoors piles may be depleted / emptied
+- Some Hatchable containers may disappear if you empty its regular loot before hatching
+- Self-made loot piles are never bugged (drop items from backpack to ground, it creates a new loot pile)
+
+================================================================================
+The Last Broadcast
+==================
+
+Events:
+	 7-8 Raid
+	10 Winter
+	12 Franko
+	15 Franko
+	15-16 Raid
+
+Feeding:
+	5: Very Hungy 2 -> Hungry 1
+	6: Hungry 2 -> Normal
+	8: Hungry 2 -> Normal
+
+Park
+----
+1 x Lock Pick (1 x Saw Blade found in area)
+
+Ghost House
+-----------
+1 x Lock Pick
+1 x Saw Blade
+NPC after broadcast about Supply Truck from Gas Station, possibly scavenging area
+
+Gas Station
+-----------
+1 x Saw Blade (not needed in 2nd visit if broadcast fuel after 1st visit, but misses Fuel)
+1 x Lock Pick (after Saw Blade, so possibly only needed in 2nd visit)
+1 x Weapon (for Soldier)
+
+Central Square
+--------------
+1 x Weapon (if killing the Soldier)
+Thermo Regulator available
+
+Toy Store
+---------
+No tools (1 x Lock Pick in 2nd visit after rescue broadcast, found in area in 2nd visit)
+
+Warehouse
+---------
+2 x Saw Blade
+1 x Lock Pick (after Saw Blade, basement. 2nd Lock at 3rd flood can be bypassed)
+1 x Weapon (3 Bandits)
+
+Brewery
+-------
+No tools (1 x Lock Pick found in area)
+
+
+================================================================================
+Graffiti
+========
+
+Abandoned Cottage
+-----------------
+Street Art Graffiti: SeaCreative - Italy (top floor, leftmost room: woman face)
+
+Brothel
+-------
+Street Art Graffiti: M-City - Poland (brothel building, leftmost outside wall: bomb)
+
+Warehouse
+---------
+Street Art Graffiti: M-City - Poland (basement, leftmost room: tank)
+
+Ruined Block of Flats
+---------------------
+(first floor, leftmost room: guy with thick white legs)
+
+
+================================================================================
+Comfort
+=======
+
+Hidden mechanic sometimes mentioned but not fully explained in Wiki:
+- Makes positive mood statuses last longer, and shortens negative ones
+- Raised by Furniture and Books
+
+@MestreLion According to the Storyteller, modifiers and caps for every group:
+
+Armchair -  6 / 10
+Bed      -  2 /  4
+Book     -  1 / 10
+Chair    -  3 /  9
+Child    - 10
+Guitar   - 15
+Radio    - 10
+Snowman  - 10
+Zlata    - 10
+
+Finally, there are configs for how the summed up comfort values work:
+every range takes away certain amount of depression, however the threshold for all ranges is 31,
+meaning the comfort items will not be taking away any depression if it's already 31 or below:
+
+ 0 -  6: 2
+ 7 - 13: 3
+14 - 20: 4
+21 - 28: 5
+29 - 36: 6
+37 - 55: 7
+56 - ..: 8
+
+Therefore: if you have 2 beds (4), Zlata (10) and 3 books (3), your comfort value = 17
+and each survivor will lose 4 points of depression daily, provided that their depression value is above 31.
+Adding, for example, third bed will not change that, as beds have a threshold of 4 units.
+
+
+================================================================================
+Fading Embers 2023
+==================
+Day 1: (Reuben Very Hungry 2)
+- Loot all but the locked cupboard
+- Plant 4 Vegetables
+- Build Crude Stove
+- Craft 6 Fuel (5 from Components, 1 from Wood)
+Night 1: Neighbour's House (bring 1 Lockpick, 6 Fuel, 1 Raw Food)
+- Go straight upstairs, talk to Tito, give Fuel, grab Vinyl (Artifact)
+- Unlock Door, loot outside
+- Talk to Tito again, give Food
+- Loot basement until full, consolidate at 1st Loot Spot in front of the house
+- Go to Tito again, wait until he talks and a new Loot Spot appears on next room
+- Loot and steal everything, consolidate outside
+- Bring home: Artifact, Sawblade, 10 Water, components
+
+Day 2
+- Build Metal Workshop
+- Craft Crowbar
+- Open locked cupboard, take all
+Night 2: The Samuel Institute (1 Lockpick)
+- Bring home: enough to have 1 x Raw Food + 1 x Veggies
+-
+
+Day 3:
+- Cook Double Meal
+- Feed 1 x Reuben (Starving 2 -> Very Hungry 1)
+Night 3: ?
+-
+
+Day 4:
+- Feed 1 x Reuben (Very Hungry 2 -> Hungry 1)
+- Collect Veggies and replant
+
+Day 5:
+- Feed 1 x Reuben (Hungry 2      -> Normal)
+- Feed 1 x ???    (Very Hungry 2 -> Hungry 1)
+
+Day 6
+- Feed 1 x ???    (Hungry 2 -> Normal)
+- Pills to Reuben
+
+Day 7
+- Feed 2 x Reuben (Hungry 2 -> Normal -> Well Fed)
+- Pills to Reuben
+
+All the way
+-----------
+Give painting to colonel, do NOT give Taras the documents, help orphans escape.
+Do NOT give painting to colonel, give Taras the documents, help orphans escape.
+Give painting to colonel, do NOT give Taras the documents, do NOT help orphans escape.
+Do NOT give painting to colonel, give Taras the documents, do NOT help orphans escape.
+
+The Janitor
+-----------
+requires you to not turn any of the artifacts into fuel and is recieved at the end of the game after you evacuate the museum
+
+Fortify
+-------
+There are 8 total pillars that need reinforcing, using 5 components and 3 wood each. If you do not fix the pillar on the same day when given the option, it is possible for you to miss one and void the achievement
+ I assumed the achievement was to keep the pillars standing and i was very confused when i would reinforce the pillars and they would break regardless the next day without being able to repair them again after the first time. This is completely fine as you can not keep the pillars standing. Reinforcing them allows you to pick up the artifacts on the ground and thats all you can do
+
+Warehouse
+---------
+1 x Lockpick, 2 x Sawblade
+
+Supermarket
+-----------
+2 x Lockpick (can gamble trader selling 1)
+
+Abandoned House
+---------------
+1 x Lockpick, 1 x Sawblade
+
+Day 8:
+	Anja Hungry 1
+	Ruben Well Fed
+	Janitor Normal
+
+Day 10:
+	Anja Very Hungry 1
+	Ruben Hungry 1
+	Janitor Hungry 2
+
+Day 11:
+	Anja Very Hungry 2 -> Hungry 1
+	Ruben Hungry 2 -> Normal
+	Janitor Very Hungry 1
+
+Day 12:
+	Anja Hungry 2 -> Normal -> Well Fed
+	Ruben Hungry 1
+	Janitor Very Hungry 2 -> Hungry 1
+
+Day 13:
+	Anja Normal
+	Ruben Hungry 2 -> Normal
+	Janitor Hungry 2 -> Normal
+
+FEED DAY ODD
+
+Raids: 10, 13, 17, 22
+
+
+================================================================================
+Shelters
+==================
+
+Workshop: 8 comp, 4 wood
+Crowbar: 
+
+Country House
+-------------
+ 2 Bandages
+ 1 Medication
+ 1 Raw Food
+ 1 Vegetable
+ 5 Herbs
+ 2 Lockpicks
+16 Components
+ 5 Parts
+ 6 Sugar
+ 8 Water
+21 Wood
+ 5 Electric
+ 7 Books
+ 1 Diamond
+OR
+ 2 Bandages
+ 1 Medication
+ 2 Raw Food
+ 8 Herbs
+ 2 Lockpicks
+14 Components
+ 5 Parts
+ 8 Water
+21 Wood
+ 5 Electric
+ 3 Books
+ 2 Diamonds
+----
+4(5?) choppable:
+ 34 Wood, 21 Fuel
+
+City House (Apartment?)
+-----------------------
+Same as Country House A, but 24 Components instead of 16 (and many more rubble piles)
+
+Radio Station
+-------------
+ 2 Bandages
+ 1 Helbal Meds
+ 1 Medication
+ 4 Raw Food
+ 2 Vegetable
+ 5 Herbs
+ 4 Lockpicks
+24 Components
+ 5 Parts
+ 6 Sugar
+ 8 Water
+21 Wood
+ 5 Electric
+ 7 Books
+ 1 Diamond
+Similar to Country House A, but way more Components, Food, Vegetables and Lockpicks, plus a Herbal Meds
+8 choppable:
+ 44 Wood, 27 Fuel
+
+
+================================================================================
+Locations
+==================
+
+Quiet House
+-----------
+1 x Lock Pick (3 spots, only 1 actually needed at basement door. Balcony and the other basement door can be bypassed)
+- Only counts as Stealing: Medication, Bandages, Herbal Meds or anything in the fridge
+- To avoid mood penalty: (badly) hurt the old man dont kill him, scavenge only regular loot, come next day.
+
+Small Apartment Building - Bandits
+----------------------------------
+1 x Lock Pick
+2 x Saw Blade
+
+Shelled School - Homeless
+-------------------------
+1 x Lock Pick
+2 x Saw Blade (1 for stealing)
+4 x Shovel
+
+Supermarket - Scavengers
+------------------------
+2 x Lock Pick
+
+City Hospital
+-------------
+3 x Lock Pick (if stealing)
+2 x Shovel (a few days after first visit)
+
+Decreipt Squat
+--------------
+1 x Lockpick
+1 x Sawblade
+1 x Raw Food (for beggar)
+
+
+
+-------------------------------------------------------------------------------
+
+Abandoned Cottage
+-----------------
+2 x Lockpick
+1 x Shovel
+* Needs 1-2 more visits, plenty components, electric, 2 parts, 1 weapon part
+
+Shelled Cottage
+---------------
+2 x Lockpick
+2 x Shovel
+* Needs 1-2 more visits, 28 components, bandage, 2 parts, 30 sugar
+
+Ruined Block of Flats
+---------------------
+2 x Sawblade
+* Needs 1-2 more visits, 60 components, 2 parts, bandage, meds, herbal meds, 17 sugar, moonshine, veggie
+
+Supermarket - Soldiers
+------------------------
+2 x Lock Pick
+1 x Shovel
+1 Soldier
+* Needs 1-2 more visits, not consolidated, many components
+
+Looted Gas Station
+------------------
+1 x Saw Blade
+1 x Lock Pick
+* Needs more visits, 12 comps
+
+Ruined Toy Store
+----------------
+1 x Lock Pick (2 locked doors, 1 lockpick can be looted)
+* Done, 2 visits
+
+Airport
+-------
+1 x Lock Pick
+3 x Shovel
+2 Soldiers
+* Not fully consolidated
+* few wood
+
+Shelled School - Homeless
+-------------------------
+1 x Lock Pick
+1 x Saw Blade (+1 if stealing)
+1 x Shovel (4 total, 3 bypassable)
+* fridge note not read, stealing sawblade not taken
+
+Construction Site - Snipers
+---------------------------
+2 x Lock Pick
+1 x Saw Blade (for 2nd visit)
+2 Soldiers
+* 2 visits, right side mostly unexplored
+
+Warehouse
+---------
+1 x Lockpick
+2 x Sawblade
+3 Bandits
+
+Sniper Junction
+---------------
+0 x Lockpick (1 total, bypassable)
+2 x Sawblade

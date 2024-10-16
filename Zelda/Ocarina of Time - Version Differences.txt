@@ -1,0 +1,45 @@
+https://retroachievements.org/viewtopic.php?t=4568&c=23130#23130
+Exclusive Content in v1.0:
+
+The rotating N64 logo upon boot-up is very bright
+You can quickly skip through Zelda's text boxes just before she gives you the Light Arrows
+
+Exclusive Glitches in v1.0:
+
+The Master Sword is never restored to the B button after a savewarp, so Swordless Link is possible by savewarping out of the Ganon fight
+Can steal the fishing rod by casting while suspended in air via the hover boots, as well as by casting the moment before you jump off of a rock in the pond
+You can cast the rod near the door in the fishing pond to crash the game
+Can do empty bomb glitch to create collection delay or Quick Draw bombs
+The grave holes in Kakariko Graveyard force you to grab their edges/jump over them as Link tries to enter (whether you grab or jump over them depends on your approaching speed).
+Can do item input for one frame during Put Away animation, OI by putting away a full bottle, and use items inside a crawlspace or ladder or while pushing a block.
+Link has no putaway animation for the sword if he has it out and goes to climb a ladder or vines.
+
+
+v1.1 is the first update to Ocarina of Time. Many glitches were fixed along with some on-screen text issues and a very minor graphical change was made.
+Changes in V1.1:
+
+Can no longer use items during Put Away animation.
+The rotating N64 logo upon boot-up has been darkened and looks glossier.
+The hover boots and rock-jump methods of stealing the fishing rod are fixed.
+You can no longer cast the rod near the door inside of the fishing pond.
+If you savewarp without the Master Sword in the inventory as Adult Link, it will be restored to the B button.
+Zelda's text before the Light Arrows is no longer skippable.
+Various text-box spelling and punctuation errors have been corrected.
+The empty bomb glitch is fixed.
+The edges of the grave holes in Kakariko Graveyard no longer force you to grab or jump over them as you try to enter.
+Link now puts away his sword correctly when going to climb.
+
+
+NTSC 1.2 is the second revision for the US/Japanese release of the game. This update corrects more text as well makes some notable graphical and sound changes to the game, censoring the blood as well as replacing a controversial song within one of its temples. It also fixes an item-receiving glitch.
+Changes in V1.2 (N64):
+
+All the changes that v1.1 made plus....
+
+Ganondorf's and Ganon's blood have been changed from red to green
+The Fire Temple theme song has been replaced with a remix of the Shadow Temple's theme
+Various text-box spelling and punctuation errors have been corrected
+Early eyeball frog and various collection delays have been fixed
+You can no longer skip the Bongo-Bongo cutscene by dropping a bomb down before the fight
+
+Source:
+http://www.zeldaspeedruns.com/oot/generalknowledge/version-differences

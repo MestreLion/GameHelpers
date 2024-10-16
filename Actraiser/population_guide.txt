@@ -1,0 +1,1443 @@
+https://gamefaqs.gamespot.com/snes/563502-actraiser/faqs/47431
+
+o----------------------------------------------------------------------------o
+|                                  ACTRAISER                                 |
+|                               Platform: SNES                               |
+|                                                                            |
+|                          MAXIMUM POPULATION GUIDE                          |
+|                       Version 1.3 (December 14, 2018)                      |
+|                                                                            |
+|                               By The Admiral                               |
+|                        Email: Admiral1018@yahoo.com                        |
+o----------------------------------------------------------------------------o
+
+
+Introduction
+------------
+Despite being one of the more integral parts of the game, the exact workings of 
+the population system in Actraiser have always remained mysterious.  A player 
+could complete this game numerous times and notice differences in the 
+population totals for some or all regions in each play through.  Most sources 
+never discuss this topic beyond general tips and build strategies, and no 
+source has ever quantified the maximum population or explained how that total 
+is attainable.
+
+This guide is the first to explore this topic in detail, including discussion 
+of the maximum populations in each region and all the specific factors that 
+influence this number.  Everything from the impact of game score, item use, map 
+size, building types, number of structures, and even the direction of roads 
+will be analyzed, as all of these affect population.  Whether you are a first-
+time player or an Actraiser veteran, you will likely learn something new about 
+this game that will help make your future adventures more interesting.
+
+
+==============================================================================
+D I S C L A I M E R                                                       AR01
+==============================================================================
+
+This FAQ is meant for personal use only and cannot be reproduced for commercial 
+purposes under any circumstances.  No portions of this guide may be reproduced, 
+in part or in entirety, without the written consent of the author. If you would 
+like to use any part of this guide in your FAQ or website, I will probably give 
+you permission if you ask, but you must ask first (Email me at: 
+Admiral1018@yahoo.com). The Actraiser title and all contents within are 
+copyright of Enix/Quintet.
+
+
+==============================================================================
+T A B L E   O F   C O N T E N T S                                         AR02
+==============================================================================
+
+To jump to any section of this guide quickly, use the find function (Ctrl+F on 
+most PC browsers), then type in the index number listed in the right 
+column.  
+
+
+DISCLAIMER................................................................AR01
+TABLE OF CONTENTS.........................................................AR02
+
+1. THE MAXIMUM POPULATION.................................................AR03
+2. GENERAL TIPS FOR MAXIMIZATION..........................................AR04
+3. THE SOUL COUNTER.......................................................AR05
+4. STRUCTURES AND DEVELOPMENT.............................................AR06
+5. FACTORS LIMITING POPULATION............................................AR07
+
+6. MAXIMIZING POPULATION IN EACH REGION...................................AR08
+7. THE INACCESSIBLE SQUARES...............................................AR09
+8. TIPS FOR SCORING POINTS................................................AR10
+9. POPULATION LEVEL CHART.................................................AR11
+10. POPULATION PAR CODES..................................................AR12
+
+CONTACT INFORMATION.......................................................AR13
+REVISION HISTORY..........................................................AR14
+CREDITS...................................................................AR15
+
+
+==============================================================================
+1.  T H E   M A X I M U M   P O P U L A T I O N                           AR03
+==============================================================================
+
+Population in Actraiser is one of the game's integral mechanics as you attempt 
+to rebuild the barren world.  It is the determining factor for your character's 
+level, hit points, and spell points.  While it is not necessary to achieve the 
+absolute maximum population to reach the highest level (level 17 at 4,600 
+people), you will need to come relatively close in most regions to have a 
+chance.  Each region has a maximum population that can be attained under ideal 
+circumstances, as shown below.
+
+
+   Region            Max Population
+   ======            ==============
+   Fillmore               914
+   Bloodpool              874
+   Kasandora              874
+   Aitos                  802
+   Marahna                538
+   Northwall              650
+   ---------             -----
+   TOTAL                 4,652
+
+
+The maximum global population in the game is 4,652.  This allows you some 
+leeway in reaching level 17 (52 people to be exact).  If you have fallen short 
+of 4,652, the likely culprits are shortfalls in Fillmore or Bloodpool.  A few 
+tips mentioned below should allow you to reach the maximum with a little work 
+(see "Factors Limiting Population").  
+
+
+==============================================================================
+2.  G E N E R A L   T I P S   F O R   M A X I M I Z A T I O N             AR04
+==============================================================================
+
+The tips below will help you maximize populations in most regions.  See the 
+following sections for specific details on understanding how and why population 
+growth occurs, as well as how to maximize populations in each specific region.
+
+
+1. DESTROY LEVEL 1 AND 2 HOUSES
+In all stages, houses begin holding more people as the civilization level 
+increases.  Once you reach level 3, destroy all the existing level 1 and 2 
+houses.  This will need to be done using Lightning early on, but Earthquakes 
+work much more effectively later in the game, as they leave level 3 buildings 
+intact and affect the entire map with one use.
+
+2. REPLACE CORN FIELDS WITH WHEAT FIELDS
+In Kasandora and Marahna, you will need to replace corn fields with wheat 
+fields to achieve the maximum population.  Wheat fields provide resources to a 
+larger number of people than corn fields do, so fewer of these structures are 
+required.  This indirectly allows more housing structures to be created.  You 
+do not need to worry about replacing corn fields with wheat in Fillmore or 
+Northwall, as fields are eventually replaced by factories (the large, purple-
+roofed buildings).
+
+3. RUN UP THE SCORE DURING THE ACTION STAGES
+Unknown to most people, your score in the action stages directly affects your 
+maximum population.  The higher your score, the greater the number of "souls" 
+that are freed.  These souls later become the people who inhabit each region.  
+The exact cumulative (Act 1 + Act 2) score that you need varies in each level, 
+but it is between 16,300 and 27,100 (see the "Factors Limiting Population" 
+section for specific point totals).
+
+4. MINIMIZE BRIDGES
+There has been a long-standing myth that the number of bridges affect the 
+maximum population in each region.  As it turns out, this myth is correct.  
+However, it's not the bridges in themselves that limit population -- each 
+region is restricted to 128 total structures, and bridges count towards that 
+total. Bridges become a major limiting factor in Fillmore and Bloodpool.  You 
+will need to be creative with build orders to minimize the number of bridges 
+yet still build over each square of the map.  For reference, Fillmore's 
+population is maximized with 2 (or fewer) bridges and Bloodpool's population is 
+maximized with 3 bridges.  You do not have to worry about the number of bridges 
+in Marahna or Northwall.
+
+5. COVER THE MAP
+It is important to make sure every inhabitable square is covered.  Some 
+regions, like Bloodpool and Aitos, have a few squares near the borders of the 
+map that are easy to overlook.  While they may only hold a couple of houses, 
+every structure is important.  You will not be able to maximize population in 
+any region except Kasandora if every inhabitable square is not built out.
+
+
+
+==============================================================================
+3.  T H E   S O U L   C O U N T E R                                       AR05
+==============================================================================
+
+According to Actraiser's backstory, Tanzra (the Evil One) transformed the 
+inhabitants of the world into demons after he defeated the Master and forced 
+him to retreat into his Sky Palace to recover.  Your main role in the game is 
+to free these lost souls so that civilization can flourish again.  This is done 
+by defeating as many demons as possible, both in the action and simulation 
+portions of the game.
+
+As you defeat demons and free the souls of the lost people, the game keeps 
+track of this in a hidden statistic called the "soul counter," which records 
+the number of "freed souls" in each region.  Freed souls ultimately become the 
+people who end up populating new houses when the town expands.  
+
+
+==========================
+HOW THE SOUL COUNTER WORKS
+==========================
+The soul counter for each new region begins at zero.  So long as it is zero, 
+you cannot begin building the town.  You will notice this every time you enter 
+a new area.  During simulation mode, you can free souls in two ways:
+
+   1. Defeat enemies with the angel's arrows or Bomb (1 soul)
+   2. Seal a monster lair (souls = number of monsters in lair) 
+
+Each time a soul is freed, whether from a defeated enemy or sealed lair, you 
+will see a small, white "cloud" head to the temple.  This signifies an addition 
+to the soul counter.  The soul counter is then decreased once the town is 
+expanded and the population increases (as these people are no longer souls, but 
+now living beings).
+
+The easiest way to increase the soul counter, and thus grow your population, is 
+by sealing monster lairs.  You can see the number of trapped souls in a monster 
+lair by hovering over it and pressing the B button.  You will receive a message 
+that says something like "There seems to be 172 Napper Bats in this Lair."  In 
+this case, 172 is the number of trapped souls.  If this lair is sealed, the 
+soul counter (and potential population) will increase by 172.
+
+At the outset of each region, you will need to defeat at least a few monsters 
+with the angel so that the town can be built out far enough to reach the first 
+lair.  You will also need a population of at least 10 to seal a monster lair.
+
+If your people are killed, whether by monsters or by you, the souls of these 
+dead townsfolk will be added to the trapped souls in the monster lairs.  If a 
+monster kills the townsfolk, those souls will return to the lair of that 
+particular monster.  If you kill the townsfolk, the souls will be divided 
+evenly across the remaining monster lairs.
+
+o----------------------------------------------------------------------------o
+|EXAMPLE                                                                     |
+|Let's say there is one Napper Bat lair (with 100 enemies) and one Blue      |
+|Demon lair (with 50 enemies) remaining.  Below is a table showing what      |
+|happens to the enemy count in each lair when your people are killed.  In    |
+|the first case, the Blue Demon uses its lighting attack to kill 8 people.   |
+|In the second case, you use lightning to kill 8 people.                     |
+|                                                                            |
+|                                                                            |
+|                 Enemies in Lair      Enemies in Lair       Enemies in Lair |
+| Enemy Lair        (starting)       (Blue Demon kills 8)     (you kill 8)   |
+| ==========      ==============     ====================    =============== |
+| Napper Bat           100                   100                   104       |
+| Blue Demon            50                    58                    54       |
+o----------------------------------------------------------------------------o
+
+If all monster lairs have already been sealed, the souls of slain townspeople 
+will simply be added back to the soul counter.
+
+
+===================================
+HOW SOULS AFFECT MAXIMUM POPULATION
+===================================
+Something that should start becoming apparent now is the relationship between 
+enemies in monster lairs, the soul counter, and the maximum population in a 
+region.  The maximum population during Act 1 of the simulation mode cannot be 
+higher than the number of starting monsters in all four lairs.  The following 
+equation always holds true:
+
+  Maximum Population = Population + Soul Counter + Enemies in Monster Lairs
+
+o----------------------------------------------------------------------------o
+|EXAMPLE                                                                     |
+|You begin a region with a population of 2.  You have not killed any enemies |
+|yet, so the soul counter is 0.  You add the number of enemies in all four   |
+|lairs and calculate 600.  Therefore, the maximum population you can reach   |
+|during Act 1 is 602:                                                        |
+|                                                                            |
+|  602 = 2 (population) + 0 (soul counter) + 600 (enemies in monster lairs) |
+o----------------------------------------------------------------------------o
+
+Note that there are still other factors that may limit population even if you 
+have ample souls for growth.  These will be discussed in later sections of this 
+guide.
+
+You may be wondering a couple of things based on your past experience:
+
+   1. Why is the number of enemies in monster lairs always different?
+   2. How does the city keep growing after Act 2, even after all the monster
+      lairs have been sealed?
+
+The answer to both of these has to do with the amount of points you score 
+during the two action segments of the stage.
+
+
+===================================
+HOW SCORE AFFECTS SOULS AND ENEMIES
+===================================
+The number of points you score during the action stages affects both the number 
+of starting enemies in monster lairs (during Act 1) and the soul counter 
+directly (during Act 2).
+
+When you begin a new region, there is a starting number of enemies that will 
+always be in each monster lair regardless of the how many points you score 
+during the action segment (the exact totals are in the "Factors Limiting 
+Population" section).  This total will be then be increased by 1 enemy for 
+every 50 points you earn during the action stage.
+
+o----------------------------------------------------------------------------o
+|EXAMPLE 1                                                                   |
+|Fillmore will always begin with a minimum of 500 cumulative enemies in the  |
+|monster lairs, regardless of score.  Let's say you score 9,600 points       |
+|during the action portion of Act 1.  You will add 9,600/50 or 192 enemies   |
+|to the monster lairs.  This amount is spread evenly across the lairs, so    |
+|each lair would add 192/4 or 48 new enemies.  Therefore, the new total      |
+|number of souls in the region will be 694 (enemies plus 2 for the founders  |
+|This is now the highest population you can achieve during Act 1 of the      |
+|simulation.                                                                 |
+o----------------------------------------------------------------------------o
+
+In the event that your score is not evenly divisible by 50, round down to get 
+to the number of additional enemies.
+
+Score has a similar effect during the Act 2 action stage.  However, since all 
+the monster lairs will be sealed, the additional souls are added directly to 
+the soul counter.
+
+o----------------------------------------------------------------------------o
+|EXAMPLE 2                                                                   |
+|Continuing from example 1, let's say the player was able to reach a         |
+|population of 694 in Act 1.  Population growth stopped since there were not |
+|enough souls left to continue growing the town.  During Act 2, the player   |
+|scores 10,000 points.  This would add 10,000/50 or 200 new souls directly   |
+|to the soul counter.  Once the act resumed, you could continue building     |
+|until you either ran out of souls (at population 694+200 or 894) or reached |
+|some other limiting factor of the region.                                   |
+o----------------------------------------------------------------------------o
+
+The table below summarizes the impact of score on souls:
+
+
+   Stage                 Impact of Score
+   =====                 ===============
+   Act 1 action          Each 50 points adds 1 enemy to an enemy lair
+   Act 2 action          Each 50 points adds 1 soul to the soul counter
+
+
+Given its relationship to the soul counter, the number of points you score 
+during the action stages can actually limit the maximum population of each 
+region.  Therefore, there is a minimum number of points that you should try to 
+score during Acts 1 and 2 to maximize population.  A breakdown of these point 
+totals can be found in the "Factors Limiting Population" section.
+
+
+
+==============================================================================
+4.  S T R U C T U R E S   A N D   D E V E L O P M E N T                   AR06
+==============================================================================
+
+In order to understand how population grows (and peaks), it is important to 
+understand the different structures and their impact on how a town is 
+constructed.  Also, several in-game events will have an affect on growth rate, 
+and these are discussed below.
+
+
+==================
+HOUSING STRUCTURES
+==================
+Housing structures are the basic buildings that your denizens will occupy.  
+Each stage has three different types of housing depending on the current 
+civilization level.  Civilization level increases when certain monster lairs 
+are sealed, and the game will let you know when this happens.
+
+The housing structures at different civilization levels have different 
+appearances and hold a different number of people.
+
+
+   Civilization       Type of                  Number of
+      Level           Housing                   People  
+   ============       =======                  =========
+        1             Mud Huts                    4
+        2             Log Cabins/Tents            6
+        3             Brick/Stone Houses          8
+
+
+Each region has slightly different housing after level 1 to match the geography 
+of that area.  However, this has no effect on the number of people these 
+buildings can hold.
+
+Once you reach civilization level 3, you will want to go back and destroy older 
+level 1 and level 2 buildings (the easiest way to do this is via an 
+Earthquake).  This will allow you to fit more people into the same space and 
+helps you reach the maximum population.
+
+
+=====================
+SUPPORTING STRUCTURES
+=====================
+While most people ignore their existence, each area requires supporting 
+structures capable of providing food or resources to sustain the population.  
+These are the non-populous buildings like fields, windmills, and even factories 
+(large, purple-roofed buildings) that are automatically constructed along with 
+houses.  Below is a list of each structure, along with how many people each 
+will support.
+
+
+   Supporting         Number of          Civ
+   Structure       People Supported     Level     Region
+   =========       ================     =====     ======
+   Bridge                 32             N/A      All but Aitos and Kasandora
+   Corn Field             32             1-3      All but Aitos
+   Horse Ranch            32              1       Aitos
+   Wheat Field            48             1-3      All but Aitos
+   Factory                72            3;2-3     Fillmore and Northwall
+   Windmill               72             2-3      Aitos
+
+
+Two of these structures will not be created until you reach civilization levels 
+2 or 3 (windmill and factory).  These structures, along with wheat fields and 
+bridges, cannot be destroyed by earthquakes.  Bridges cannot be destroyed by 
+anything and are permanent once built.
+
+The "Number of People Supported" column indicates that how many people the 
+structure provides resources for.  There must be adequate resources already 
+available before the population can expand.
+
+A supporting structure will often be the first building created to ensure 
+adequate resources for the new population.  If, however, the first square you 
+build to cannot physically be occupied by a supporting structure, one will be 
+created as soon as possible.  Similarly, if you intentionally destroy the 
+supporting structures but leave the houses intact, the game will rebuild all of 
+them before adding any new houses and growing the population.
+
+o----------------------------------------------------------------------------o
+|EXAMPLE                                                                     |
+|You have a town with 60 people and 2 corn fields (the two corn fields       |
+|support 32*2 or 64 people).  The town expands to 68 people.  During this    |
+|expansion, you will also see an additional corn field being created, as one |
+|is required for every 32 people.  Supporting structures will always be      |
+|created in advance of houses to make sure enough resources are provided in  |
+|advance.                                                                    |
+o----------------------------------------------------------------------------o
+
+The different regions have different supporting structures.  Since some 
+supporting structures provide more resources than others, some regions will 
+have fewer structures than others at the same population total.  This is 
+important to keep in mind, as the number of total structures is a limiting 
+factor of maximum population (see "Factors Limiting Population" for more).
+
+The resources provided also give a rationale for replacing corn fields with 
+wheat fields when you can: wheat will support more houses.  You will need to 
+replace corn fields with wheat fields in both Kasandora and Marahna to reach 
+the maximum population.  You do not need to do this in Fillmore or Northwall, 
+as the final supporting structure (factory) can replace the fields.
+
+The stand-out structure on the above list is the bridge. Unlike the other 
+structures, you do have some control over the creation of bridges based on the 
+direction you expand the town.  If a bridge exists, fewer of other types of 
+supporting structures will have to be built to support the people.  However, 
+bridges provide the least amount of resources of any supporting structure.  In 
+stages where your population is limited by the physical number of structures 
+(Fillmore and Bloodpool), you will want to minimize bridges and instead create 
+more supporting structures of other types to allow for more houses.  For some 
+strategies on how to minimize bridges in both regions, see the "Maximizing 
+Population in Each Region" section below.
+
+
+===================
+INHABITABLE SQUARES
+===================
+One of the factors that limits maximum population is the physical amount of 
+space in which housing units can be constructed.  While it may seem like there 
+is additional space for expansion in some regions that stop growing, you need 
+to consider that houses can only be placed in certain orientations.
+
+Each region is made up of 64 squares (8 by 8).  You can see the square by 
+selecting the lightning (or similar miracle) or by choosing a direction to 
+build the town.  Both of these will highlight one of the 64 squares with a 
+yellow box.  Within each square, either housing structures, supporting 
+structures, or roads can be placed.  These are restricted to designated spots 
+within the square, and are also limited by natural terrain (like a river or 
+mountain).
+
+Within each square, structures will always be built as indicated by the image 
+below.  H = housing structures, S = supporting structures, and = designates 
+roads.
+
+      -------------------
+     |SSSS|SSSS|====|HHHH|
+     |SSSS|SSSS|====|HHHH|
+     |----|----|----|----|
+     |SSSS|SSSS|====|HHHH|
+     |SSSS|SSSS|====|HHHH|
+     |----|----|----|----|
+     |====|====|====|====|
+     |====|====|====|====|
+     |----|----|----|----|
+     |HHHH|HHHH|====|HHHH|
+     |HHHH|HHHH|====|HHHH|
+      ------------------- 
+
+Within each square, no more than 5 housing units can ever be created.  
+Supporting units will always appear at the top-left corner, and roads will 
+separate the two.  Even if roads or supporting structures do not exist on a 
+particular square, housing can never be built on any part of the square where a 
+supporting structure or road *could* exist.
+
+This construction pattern debunks some of the older tips for this game that 
+told you to delete excess fields and supporting structures to make more space 
+for houses.
+
+
+==================
+DIRECTION OF ROADS
+==================
+Roads within each square can run north-south or east-west.  Roads will 
+typically follow your building direction.  For example, if you order the town 
+to be built three units upward from the temple, roads will only appear north-
+south.  Also, if you select a building direction and do not move to any 
+different squares (just press B and remain on the current square), roads will 
+typically be filled out in the square for both directions.  This is how you can 
+get N-S and E-W roads on squares in the corner of the screen that can only 
+be approached from one direction.
+
+Road direction is important when it comes to regions where bridges are built 
+(particularly Fillmore and Bloodpool).  You can minimize the bridges built by 
+ordering the building direction to run strictly parallel to rivers, rather than 
+perpendicular (or right at them).  If the roads are built perpendicularly, 
+bridges will automatically be constructed once you build on the other side of 
+the river.
+
+o----------------------------------------------------------------------------o
+|EXAMPLE                                                                     |
+|The image below shows 9 squares with a river (river indicated by ~) that    |
+|divides squares 1-3 and 5-7 (similar to the river in Fillmore).  If you     |
+|command the build direction to go from 1-7, sequentially, only one bridge   |
+|will be built (in square 5).  If you build or enter squares 1, 2, 6, or 7   |
+|from the east or west, the game will build another one or two bridges over  |
+|the river.  This area can have as few as one bridge or as many as three.    |
+|                                                                            |
+|    _____ _____ _____                                                       |
+|   |     |     |     |                                                      |
+|   |  5  |  4  |  3  |                                                      |
+|   |~~~~~~~~~__|_____|                                                      |
+|   |     | ~~  |     |                                                      |
+|   |  6  | ~~  |  2  |                                                      |
+|   |_____|_~~__|_____|                                                      |
+|   |     | ~~  |     |                                                      |
+|   |  7  | ~~  |  1  |                                                      |
+|   |_____|_~~__|_____|                                                      |
+|                                                                            |
+|                                                                            |
+|Build parallel to the river and carefully choose where you wish to cross it |
+|to minimize bridges.                                                        |
+o----------------------------------------------------------------------------o
+
+
+======================
+"PHANTOM" CONSTRUCTION
+======================
+One of the odder occurrences in the game is when a town's population 
+mysteriously grows in regions when you are not there.  This is referred to as 
+"phantom construction" and occurs in Fillmore, Aitos, and Northwall.  Phantom 
+construction happens when regions have a square that is capable of holding a 
+house but is partially obstructed on one or more sides.  These houses are not 
+built because the game's pathing rules for townspeople forbid them from passing 
+through other objects on their way to build a structure.  However, the game is 
+still programmed to build on all portions of a square that are free, so there 
+is a conflict.  This produces phantom construction of new houses while you are 
+in another region.
+
+A couple of oddities concerning phantom construction:
+
+   1. When you enter a different region from the one where the phantom
+      buildings will be constructed, you must wait for the hour glass to empty
+      and fill three times.  After the third time, the global population will
+      increase and the new buildings will be placed.
+
+   2. Phantom construction will only occur after Act 2 has been completed.
+
+You will need to make use of phantom construction in Fillmore and Aitos to 
+reach the maximum population.  In Fillmore, this phantom house is constructed 
+either one square left and one square up from the temple (just underneath the 
+corner of the river) or the square one left from that (just underneath the 
+riverbend).  In Aitos, there are three phantom houses built in each of the 
+inhabitable squares along the bottom of the screen.  You can also use this 
+technique in Northwall to build a house in the bottom-left corner of the square 
+directly below the temple when no bridge or road exist.
+
+
+=================
+POPULATION STATUS
+=================
+While you are building, different events and occurrences will affect the 
+population status as indicated on the Status of Cities screen.
+
+NONE           This is the status in regions that you cannot enter yet.  This
+               will change once you complete Act 1.
+
+NORM           Indicates that all the proper factors are in place for
+               population growth to continue.
+
+SLOW           Population status is listed as Slow when the soul counter runs
+               low OR when you have reached the maximum population during
+               Act 1.  Even if this population is the highest that can later
+               be attained in Act 2, the status will still be Slow instead of
+               Max.
+
+STOP           There are a few instances in the game where events will unfold
+               that require your intervention before the city can continue to
+               grow.  See the next subsection for a complete list of these
+               events.  You must remedy these problems before continuing to
+               build the city.
+
+MAX            Max means that you have reached the maximum population *given*
+               the current limiting factors.  You may still be able to
+               increase the population further if you can eliminate or change
+               one of the limiting factors.  Max will never be displayed until
+               after Act 2 of a region, regardless of whether the maximum has
+               been reached or not.
+
+
+==================================
+EVENTS THAT STOP POPULATION GROWTH
+==================================
+The following events occur in various regions and put a complete stop to 
+population growth.  You must resolve the situation before any new growth will 
+resume.
+
+Region         Event                            Resolution
+=====          =====                            ==========
+Fillmore       A fire breaks out                Use Rain or wait until fire
+                                                burns out on its own
+
+Bloodpool      Teddy is missing                 Take the loaf of bread and use
+                                                it on Teddy near the lake
+
+Bloodpool      Conflict engulfs the town        Use Harmonious Music from
+                                                Kasandora
+
+Kasandora      A plague spreads                 Use Herbs from Marahna
+
+Aitos          No wind                          Use Wind
+
+Northwall      Townspeople are too cold         Use Sheep's Fleece from Aitos
+
+
+
+==============================================================================
+5.  F A C T O R S   L I M I T I N G   P O P U L A T I O N                 AR07
+==============================================================================
+
+In trying to maximize population in each region, there are always one of three 
+possible factors that will eventually limit your maximum growth:
+
+1. Number of Souls
+2. Map Size
+3. Number of Structures
+
+Every region can potentially be limited by the number of souls you have freed.  
+This limitation will be determined by your score in the action portions of each 
+stage.  See the "Souls" subsection below for specific scores.  You have control 
+over the number of souls by targeting a high enough score in the action stages, 
+so that this is never a permanent limiting factor.
+
+After souls, regions will either be limited by physical size (no room left to 
+expand) or number of structures (you have reached the 128-structure maximum).  
+The table below shows which secondary factors limit population in each region:
+
+
+                        Limiting
+   Region                Factor 
+   ======             =============
+   Fillmore            Structures
+   Bloodpool           Structures
+   Kasandora           Structures
+   Aitos                  Size
+   Marahna                Size
+   Northwall              Size
+
+
+=====
+SOULS
+=====
+As discussed in the first section, your score during the two action sections 
+determines the number of souls you can free.  To reach the maximum population 
+in a region, you must therefore acquire a minimum number of cumulative points.  
+The table below shows the starting number of enemies in each region (this is 
+the sum of the 4 monster lairs), the maximum population, and the combined score 
+you need on the two Acts to free enough souls to reach the maximum population.
+
+
+                  Starting Enemies         Maximum           Act 1 + Act 2
+                  In Monster Lairs        Population         Score Needed
+                  ================        ==========         =============
+   Fillmore             500                   914               20,600
+   Bloodpool            330                   874               27,100
+   Kasandora            450                   874               21,100
+   Aitos                320                   802               24,000
+   Marahna              210                   538               16,300
+   Northwall            180                   650               23,400
+
+
+o----------------------------------------------------------------------------o
+|EXAMPLE                                                                     |
+|You are building out Fillmore.  In Act 1, you score 10,000 points.  This    |
+|adds 10,000/50 or 200 souls to the enemy lairs.  Assuming you built your    |
+|town optimally, you should have a population of 702 when you enter Act 2.   |
+|Now, based on the table above, you will need 20,600-10,000 or 10,600 points |
+|in Act 2 to reach the maximum population.  10,600 points will yield 212     |
+|souls. When added to the previous population (702+212), you now have enough |
+|freed souls to reach the maximum population of 914.  However, your          |
+|population can still be limited by the other factors below.                 |
+o----------------------------------------------------------------------------o
+
+Note that in addition to the souls that can be freed from monster lairs, every 
+region starts you with 2 inhabitants automatically (the founders) as soon as 
+Act 1 in completed.  The founders cannot be killed or turned back into souls, 
+so they will always represent the minimum population in a region.
+
+
+MAXIMIMIZING SOULS IN ACT 1
+---------------------------
+In most regions (all but Fillmore and Aitos), it is possible to score enough 
+points in first action stage so that you can reach the maximum population 
+before Act 2.  The advantage of doing this in the first Act is that it allows 
+you to hit that region's maximum before some scripted event stalls population 
+growth and forces you to retrieve an item from a different region (e.g. 
+Bloodpool needing the Music from Kasandora, Kasandora needing the Herbs from 
+Marahna after the plague).  This allows you to reach the highest possible 
+population sooner and even allows you to reach the highest global population 
+without ever needing to return to most regions after Act 2.
+
+Here are the scores needed in Act 1 to maximize population in each region:
+
+
+                    Maximum Act 1         Act 1           Remaining Act 2 
+                     Population       Score Needed          Score Needed
+                     ==========       =============         ============
+   Fillmore           906/914            20,600                  400 
+   Bloodpool          874/874            27,100                    0
+   Kasandora          874/874            21,100                    0
+   Aitos              778/802            22,800                1,200
+   Marahna            538/538            16,300                    0
+   Northwall          650/650            23,400                    0
+
+
+In Fillmore and Aitos, the final houses needed to maximize population are the 
+ones built via phantom construction, and this never occurs until after the Act 
+2 boss has been defeated.  
+
+One final observation about maximizing population in Act 1 is that most Act 1 
+action stages are fairly stingy with points, so attempting to get enough to 
+reach the totals above takes a bit of grinding.  I suspect this was done 
+intentionally by the developers for balance purposes to give players a reason 
+to remain in the region after Act 2 and some reward for completing the 
+retrieval quests from other regions.  
+
+The bottom line is that hitting the scores needed for the maximum souls in Act 
+1 will take time.  The strategy in most of those stages will be collecting 
+points, finding a 1-Up, dying, collecting the 1-Up again, and repeating.  Keep 
+in mind that enemies will respawn every 11 game seconds so long as you have 
+moved away from the screen where they originally spawned, so use this to your 
+advantage when grinding.
+
+
+==========
+STRUCTURES
+==========
+The game has a hard limit of 128 structures in each area.  The game does not 
+care about the size or type of the structures -- a bridge counts just the same 
+as a house, wheat field, or factory.  Once you reach the 128-stucture limit, 
+you cannot build any more structures under any circumstances.  This limit is 
+most easy to see in Kasandora, where there is still ample space left when the 
+building ceases.
+
+If you cross a river once there are 128 structures, the road will continue on 
+the other side but no bridge will be built (however, if you destroy some other 
+supporting structure, a bridge will appear immediately as space is available, 
+so be careful).
+
+The table below shows a breakdown of the structures in each region under ideal 
+conditions.  The Minimum Bridges column indicates the fewest number of bridges 
+you can construct in each region.  This number is only important in Fillmore 
+and Bloodpool, although in Fillmore it is still possible to reach maximum 
+population with 2 bridges.  In Marahna, you can have 1 or 2 bridges and it will 
+not affect maximum population.  Northwall can have up to 5 bridges with no 
+adverse effect.
+
+
+                      Housing       Supporting     Minimum       Total
+                     Structures     Structures     Bridges     Structures
+                     ==========     ==========     =======     ==========
+   Fillmore             114             13            1            128
+   Bloodpool            109             16            3            128
+   Kasandora            109             19            0            128
+   Aitos                100             12            0            112
+   Marahna               67             11            1             79
+   Northwall             81              8            3             92
+
+
+One note on Bloodpool: even though you should need 17 wheat fields to support a 
+population of 874 (with 3 bridges), the game only creates 16.  The reason for 
+this is because there is simply no room left for any more wheat fields.  In 
+reaching the maximum population, you will always fill every possible square 
+with a field.  The game does not penalize you for this, and instead allows a 
+few houses to exist despite a lack of resources to support them.
+
+
+========
+MAP SIZE
+========
+The last three regions in the game are limited by the physical size of the 
+maps.  Although it may appear that there is still some additional room once the 
+population is at maximum, keep in mind that there are restrictions on where 
+housing structures can appear within each square (see "Inhabitable Squares" 
+subsection above).  These regions will simply stop growing once there is no 
+inhabitable space remaining.
+
+Since size (and not number of structures) is the limiting population factor in 
+Marahna and Northwall, you do not have to worry about the number of bridges in 
+those stages.
+
+
+
+==============================================================================
+6.  M A X I M I Z I N G   P O P U L A T I O N   I N   E A C H   R E G I O N 
+==============================================================================
+                                                                         AR08
+
+Each region has slightly different requirements and idiosyncrasies regarding 
+population growth.  The section below will list some of the basic factors for 
+maximizing population in each region.  Note that this is NOT a walkthrough of 
+each stage.  It is expected that you understand the basics of how to play the 
+game and create cities.  If you want more general information on these topics, 
+please refer to a comprehensive walkthrough.
+
+
+========
+FILLMORE
+========
+Maximum Act 1 Population: 906
+Maximum Act 2 Population: 914
+
+Fillmore is one of the pickier levels to maximize.  If you want to achieve the 
+highest possible population during Act 1 of this region, you must score at 
+least 20,200 points during the action stage.  This is a very tedious task, as 
+the stage is short and does not have many high-point enemies.  The stage does 
+have two 1-Ups, however, so you will need to use the "earn points/collect extra 
+lives/die/repeat" strategy.  
+
+The quickest way to earn a steady stream of points in Act 1 is to abuse the 
+respawning of the gorilla-demon enemies (200 points).  They will reappear every 
+11 game seconds after you defeat one so long as the spawn location is not 
+visible.  Simply kill them, move off-screen slightly, wait 11 game seconds, 
+then move back towards their spawn point and repeat.  There is a convenient 
+spot to do this just after the second 1-Up before the boss. 
+
+Once you begin the simulation, your main goal will be to complete the stage 
+with 2 or fewer bridges constructed over the river (the instructions below show 
+how to construct the town with only one bridge).  At the beginning, avoid 
+building on any of the squares that border the river.  This includes the 
+squares directly NW, W, and SW from the temple.  Seal the monster lairs in the 
+south and northeast, and be sure to build over every single square with the 
+exception of the aforementioned ones that border the river.
+
+Once the southern and eastern sides of the region are built out, it's time 
+carefully build around the river.  You will want to build parallel to the river 
+at all times.  It is a good idea to save before you attempt this, just to be 
+safe.  The map below shows the northwest portion of the map.  Below the map is 
+the specific build order you should follow.
+
+
+            _____ _____ _____
+           |     |     |     |
+           |  6  |  5  |     |
+           |_____|_____|_____|
+           |~    |     |     |
+           |~~7~~~~ 4  |     |
+      _____|_____|~____|_____|
+     |     |     | ~   |     |
+     | 10  |  8  | ~3  |  T  |
+     |_____|_____| ~___|_____|
+     |     |     |~~   |     |
+     | 11  |  9  |~ 2  |     |
+     |_____|_____|~____|_____|
+                 |     |
+                 |  1  |
+                 |_____|
+
+
+In the above picture, T represents the temple and ~ represents water.  Build in 
+the follow direction and do not stop or turn:
+
+1 -> 2 -> 3 -> 4 -> 5 -> 6 (seal lair)
+
+Square 6 contains a monster lair, if you have not already sealed it.  If this 
+is the third lair you are sealing, you will now learn how to build bridges.  
+Now things get a little tricky.  From this square, build in the following 
+order:
+
+6 -> 7 (bridge) -> 8 -> 9 -> 8 -> 10 -> 11 (seal lair)
+
+If you only built north-south in square 3, you should not create a new bridge 
+when you turn west at square 8.  You will stop on the final monster lair.  It 
+is very important that you do not move the build direction square from this 
+area.  If you move it to any square other than 10 or 11, a new bridge will be 
+created over the river.
+
+At this point, your civilization level will be increased.  Go around the map 
+and use Lightning to destroy any level 1 or 2 buildings.  It will take a little 
+while, but you should eventually cover the map with level 3 structures.  
+Assuming you scored 20,200 in the Act 1 action stage, you can max out the 
+population at 906 right now.  If you scored less than 20,600, make up the 
+difference in Act 2.
+
+Now, you will notice that the maximum Act 1 population is only 906.  The reason 
+this is different from the Act 2 maximum is because there is a "phantom" house 
+that cannot be built while you are in the region.  This house will be created 
+in either square 7 below the riverbend or in square 4 below the corner of the 
+river.  Leave Fillmore and go to Bloodpool or some other region and wait until 
+the hour glass has filled and emptied three times.  After the third time, the 
+global population should increase by 8.  When this happens, the final building 
+in Fillmore will have been constructed.  Your population should now be 914.
+
+Once your population is 914, you can move the build direction square anywhere 
+you want.  Moving it over the rivers will create roads but will not construct 
+new bridges.
+
+When you return to Fillmore after completing Act 2, you will be informed in the 
+temple that one of the founders passed away.  This does not reduce your 
+population, despite that founder originally being included in the count.
+
+
+=========
+BLOODPOOL
+=========
+Maximum Act 1 Population: 874
+Maximum Act 2 Population: 874
+
+Bloodpool is another high maintenance level.  This stage is even easier to 
+screw up than Fillmore, as there are 10 possible bridges that can be 
+constructed.  Your goal is only to raise 3 of them: 1 over the north river and 
+2 over the south river.
+
+If you want to maximize population during Act 1, you will need to score 27,100 
+points during the first action stage.  As in Fillmore Act 1, you will want to 
+repeatedly collect the 1-Up, die, and repeat to collect more points.  There is 
+an added reward for your persistence, however.  Normally, once you complete Act 
+2, the region will be engulfed with conflict and the population growth will 
+halt until you bring the Harmonious Music from Kasandora.  You can avoid the 
+population stagnation (and technically never need to use the music at all to 
+reach the maximum population) if you reach 27,100 points during Act 1.
+
+Once the simulation begins and you have cleared away the marshland, focus on 
+developing the area to the north of the temple.  Do NOT build east, west, or 
+south at this point.  When the northern area is cultivated and the monster lair 
+is sealed, it's time to tackle the bridges.  Note that you need to use the 
+Bridge item from Fillmore before you can cross the rivers.  As in the last 
+stage, it's a good idea to save before this point.
+
+The map below shows the southern portion of this region.
+
+
+            _____ _____ _____ 
+           |     |     |     |
+           |  1  |  T  | ~~~~|
+           |_____|_____|~~___|
+           |~~~~~~~~~~ ~~    |
+           |  3  |  2  |  4  |
+           |_____|_____|_____|_____|
+           |     |     |     |     |
+           |  9  |  8  |  5  | 6 M |
+      _____|_____|_____|_____|_____|
+     |     |  ~~~~~~~~~~     |
+     |~~   |16~  | 10  |~ 7  |
+     |_~___|~~~ _|_____|~____|
+     | ~~~~~~    |     |
+     | 13  | 12  | 11  |
+     |_____|_____|_____|
+           |     |     |
+           | 15 M| 14  |
+           |_____|_____|
+
+
+In the above image, T is the temple and ~ represents water.  Squares 6 and 15 
+contain monster lairs.  Start at the temple and build in the following order 
+(note that you do not ever need to build on the square east of the temple; it 
+will create bridges but cannot hold houses):
+
+T -> 1 -> T
+
+As stated, build to the square west of the temple, then build right back.  Do 
+not turn south or stop while on square 1.  Next, build as follows:
+
+T -> 2 (bridge) -> 3 -> 2 -> 4 -> 5 -> 6 (seal lair)
+
+You should now seal the monster lair at square 6.  Note, once again, the back-
+and-forth build order between squares 2 and 3.  So long as you do not turn 
+inside the square, you will not create roads in a different direction.  Once 
+
+the monster lair at square 6 is sealed, build as follows:
+
+6 -> 5 -> 7 -> 5 -> 8 -> 9 -> 8
+
+You should only be able to order the building direction square this far in a 
+single command.  At this point, you should have covered every inhabitable 
+square above the south river.  If you need to go back north for some reason, 
+move right to square 7 before heading north.  Now, the build order for the 
+south:
+
+8 -> 10 (bridge) -> 11 -> 12 -> 13 -> 12 -> 11
+
+So far, you have only constructed one bridge over the southern river.  From 
+here, finish up the region in this order:
+
+11 -> 14 -> 15 (seal lair) -> 12 -> 16 (bridge)
+
+This final sequence seals the southern lair, constructs an additional bridge 
+over the south river, and completes the development of the stage.  Once you 
+seal the lair at square 15, you should reach civilization level 3.  Begin 
+destroying all level 1 and 2 houses and watch the population soar.
+
+If you scored 27,100 during the action portion of Act 1, you will be able to 
+hit 874 people before taking on the second boss.  If not, try to score enough 
+points so your Act 1 + Act 2 scores total 27,100.  After completing Act 2, the 
+population growth will stop until you bring the Music item from Kasandora. You 
+will need to wait until then to maximize the population.
+
+
+=========
+KASANDORA
+=========
+Maximum Act 1 Population: 874
+Maximum Act 2 Population: 874
+
+Kasandora is probably the easiest region to max.  Use the Wheat item on the 
+first field that appears and build out as you wish.  If you want to maximize 
+population during Act 1, you will need to score 21,100 points during the first 
+action stage.  
+
+If score under 21,100 in Act 1, you may wish to avoid building over the square 
+with the lost desert wanderer under after you have completed Act 2 and reached 
+a population of 874.  Saving this man will immediately trigger the plague after 
+Act 2, which halts population growth.  In fact, none of the following events 
+will occur unless the wanderer is found:
+
+   1. Discovery of the scroll that the wanderer possessed
+   2. Birth of the Harmonious Music
+   3. Discovery of the scroll at the southern mountain
+   4. Discovery of the Ancient Tablet in the northwest
+   5. Spread of the plague
+
+If you rescue the wanderer before reaching the maximum population, you will 
+need to wait until finding the Herbs in Marahna to finish the stage.  Even 
+without building over the wanderer's square, there is ample room in the stage 
+to maximize population.
+
+Finally, while unlikely, it is possible that your population may stall before 
+reaching the maximum if your citizens have built more wheat fields than they 
+need.  This is rare, but it can happen if you manually use the Wheat item to 
+convert corn fields.  A population of 874 only needs 19 wheat fields.  If your 
+population has inexplicably stopped short of 874, count the fields and destroy 
+any excess ones with lightning.  This will fix the issue.
+
+
+=====
+AITOS
+=====
+Maximum Act 1 Population: 778
+Maximum Act 2 Population: 802
+
+Aitos is also relatively simple to build.  You can construct the town in any 
+order you want.  If you want to reach the highest population level in Act 1, 
+you will need to score 22,800 points in the Act 1 action stage.  This is not an 
+easy task since there is no 1-Up in this stage, but it is possible to do by 
+fighting as many enemies as you can until the timer expires. 
+
+During the simulation, be sure not to miss any inhabitable squares, 
+particularly in the south by the mountains.
+
+The Act 1 population maxes out at 778, which is three houses short of the Act 2 
+maximum.  These three "phantom" houses will eventually be built in the 
+southernmost three squares.  They cannot be built while you are in the region 
+because they are blocked by other structures and cannot be accessed by the 
+townspeople.  After Act 2, go to another stage and wait until the hour glass 
+has filled and emptied three times; the global population will jump by 24.  
+Assuming your cumulative score on Act 1 + Act 2 is 24,000, Aitos should now be 
+complete with 802 people.
+
+
+=======
+MARAHNA
+=======
+Maximum Act 1 Population: 538
+Maximum Act 2 Population: 538
+
+Marahna is the quickest stage to build and does not require any special order. 
+Simply use wheat on the first crop and develop the town in any way you would 
+like.  You can maximize the population in Act 1 by scoring 16,300 in the action 
+stage.  If you choose to go for this score, the second part of the stage has a 
+1-Up and is the best area for grinding.  However, it is much easier to make up 
+any score difference in Act 2, as that stage racks up points very easily.
+
+It is possible to build up to two bridges in this stage, but these do not limit 
+population size.  The first bridge crosses the river leading to the monster 
+lair in the southwest corner.  The second bridge can be built two squares right 
+of this one.  Place the build direction square on that location. Command the 
+game to start and stop the build order on that square without moving to any 
+other square.  The build square will not move, but it should create a north-
+south road and construct a bridge to nowhere.  Doing that is probably more of a 
+novelty than anything else.
+
+
+=========
+NORTHWALL
+=========
+Maximum Act 1 Population: 650
+Maximum Act 2 Population: 650
+
+Like the previous three regions, Northwall does not have any special build 
+order.  In fact, Northwall's construction is always pretty linear given the 
+restriction from building east of the river until the two monster lairs are 
+sealed.  If you scored 23,400 points during the action stage, you can max out 
+Northwall during Act 1.  That is a relatively difficult score to amass, but, if 
+you decide to do so, take advantage of the 1-Up and 1,000-point token in the 
+first indoor cave.  
+
+This region begins with corn fields.  While you can plant wheat, you do not 
+need to.  The level 3 supporting structures can replace the fields.
+
+Shortly after the town begins development, the people will complain that they 
+are too cold to continue building.  You will need to give them the Sheep's 
+Fleece from Aitos before they will resume.  There is no other way to get around 
+this stoppage.
+
+This region can have up to 5 bridges, but you do not need to worry about them 
+affecting the population; build as many as you'd like.  Once all the monster 
+lairs are sealed, destroy the level 1 and 2 buildings (with an earthquake).  
+Also, you will want to destroy all remaining wheat fields, as more efficient 
+factories will spring up to replace them.
+
+In order to make sure all houses can be built, you will need to have a bridge 
+going east-west on the river one square below the temple.  If you don't have 
+this bridge, the house in the bottom left corner cannot be built (although it 
+can still be "phantom" constructed after Act 2 without that bridge).
+
+
+==============================================================================
+7.  T H E   I N A C C E S S I B L E   S Q U A R E S                       AR09
+==============================================================================
+
+The maximum population detailed above in this guide (4,652) is the highest that 
+you can legitimately achieve in Actraiser.  However, the game does possess 5 
+squares that will allow houses to be constructed that you normally can't access 
+because the building direction cursor will not pass over them.  However, if the 
+building direction cursor *could* pass over them, the game would populate them 
+with houses in a perfectly normal fashion.  
+
+It's possible to experience this using PAR/Game Genie codes and exceed the 
+game's maximum population.  This does not produce any negative side effects 
+whatsoever, as the game will just treat those squares like any others and will 
+follow the same building algorithm it does normally.  The game will also create 
+proper roads and bridges in each square.
+
+The additional squares that can be populated are in Aitos (3 squares) and 
+Marhana (2 squares).  The specific squares are below, with coordinates in [row, 
+column] format (going from the top-left corner; use the miracle cursor to 
+easily see which square you’re in).
+
+1. Aitos [3,3]: This square covers the top of the volcano.  One additional
+   house can be built here, in the top-right corner of the square.
+
+2. Aitos [4,4]: This is directly on top of the small mountain southeast of the
+   volcano.  One additional house can be built here, in the top-right corner
+   of the square.
+
+3. Aitos [5,6]: This square covers the cliffs exactly one square up and one
+   square right from the temple.  It can hold two additional houses, one at
+   the top and one at the bottom.  
+
+4. Marahna [2,2]: This is on southern coast of the northern peninsula.  Two
+   additional houses can be built, which will both be in the top-right corner
+   of the square.
+
+5. Marahna [6,2]: This is the same square as the temple you enter to fight the
+   Act 2 boss.  Building onto this square will even create a bridge that will
+   extend to the side of the river with the temple.  One additional house will
+   be constructed along the bottom of the square.
+
+If you build out all 5 of these squares, which constructs 7 additional houses, 
+you will now have the following populations:
+
+
+                   MAX
+                POPULATION              
+                ==========
+   Aitos           834
+   Marahna         562  
+   -------        -----
+   Global         4,708
+
+
+If you would like to build over these squares and experience this for yourself, 
+enter the PAR codes below.  There are two codes needed to enable each square 
+for building.  Once entered, simply move the building direction cursor over 
+each square and wait a normal cycle for new houses to be built.  Note that 
+housing construction for these houses are subject to exactly the same 
+constraints as for any others, so you will still need to have enough freed 
+souls and no other regional conditions that prevent building.
+
+
+Aitos [3,3]       7F69A3B8 / 7F69A4B8
+Aitos [4,4]       7F69B5B8 / 7F69B6B8
+Aitos [5,6]       7F69CAB8 / 7F69CBB8
+Marahna [2,2]     7F6A22B8 / 7F6A23B8
+Marahna [6,2]     7F6A52B8 / 7F6A53B8
+
+
+==============================================================================
+8.  T I P S   F O R   S C O R I N G   P O I N T S                         AR10
+==============================================================================
+
+While you can typically score enough points in Act 1+2 by playing normally to 
+free enough souls to reach the maximum population, you may opt to reach this 
+total after Act 1 to maximize a region's population sooner. The advantages of 
+doing this are described throughout the guide.  If you do go that route, some 
+grinding will be required.  Below are a few general tips for scoring points and 
+hopefully making that process a little easier.
+
+
+1. GRIND NEAR AREAS WITH A 1-UP
+This is probably common sense to most people reading this guide, but the best 
+ways to earn points in the action stages are to find some area with a 1-Up and 
+then repeatedly kill enemies in that area until the timer expires.  The 1-Ups 
+are replenished each time you die, so you can repeat this cycle indefinitely 
+for enough points provided you have the patience.
+
+You can find at least one 1-Up in every action stage except for the two in 
+Aitos.  Among the two Aitos stages, I personally prefer the Act 1 stage for 
+earning points, in particular the area near the end where the waterfall section 
+starts.
+
+2. TAKE ADVANTAGE OF ENEMY RESPAWNING
+Most of the lesser enemies in Actraiser will respawn.  Specifically, they 
+respawn every 11 game seconds after being killed provided you've left the 
+screen and can no longer see their spawn point.  Use this knowledge to plan 
+routes so that by the time you move from one part of the stage to another, all 
+the enemies will have respawned.
+
+3. EXTRA LIVES ARE A VALUABLE SOURCE FOR POINTS
+After you beat the Act stage boss, you receive 1,000 points for every extra 
+life and 10 points for every second remaining on the game clock.  In addition 
+to making sure you collect all the 1-Ups in each stage, this underscores the 
+benefit of collecting all the Source of Life items, which provide a permanent 
+starting increase to your extra life reserves.
+
+For quick reference, here are the locations of the four Sources of Life:
+    1. Fillmore: Use the Compass, received in Bloodpool after using the
+       Harmonious Music (after Act 2 only)
+    2. Bloodpool: Use Rain on the northern part of the lake    
+    3. Kasandora: Use Earthquake once the Pyramid is uncovered
+    4. Northwall: Use Lightning on the temple
+
+
+
+==============================================================================
+9.  P O P U L A T I O N   L E V E L   C H A R T                           AR11
+==============================================================================
+
+The rationale for focusing on population is primarily because it ties into your 
+current level, as well has hit points (HP) and spell points (SP).  The table 
+below shows the population required to reach each level, as well as the HP and 
+SP at that level.  Level 17 is the highest level you can reach.
+
+
+     o--------------------------------------o
+     |  Level  |Population|   HP   |   SP   |
+     |---------|----------|--------|--------|
+     |    1    |     --   |    8   |   20   |
+     |    2    |     80   |    9   |   45   |
+     |    3    |    200   |   10   |   60   |
+     |    4    |    400   |   11   |   80   |
+     |    5    |    700   |   12   |  100   |
+     |    6    |    950   |   13   |  120   |
+     |    7    |   1200   |   14   |  140   |
+     |    8    |   1400   |   15   |  160   |
+     |    9    |   1700   |   16   |  180   |
+     |   10    |   1900   |   17   |  200   |
+     |   11    |   2200   |   18   |  220   |
+     |   12    |   2500   |   19   |  240   |
+     |   13    |   2900   |   20   |  260   |
+     |   14    |   3300   |   21   |  280   |
+     |   15    |   3700   |   22   |  300   |
+     |   16    |   4100   |   23   |  320   |
+     |   17    |   4600   |   24   |  340   |
+     o--------------------------------------o
+
+
+==============================================================================
+10. P O P U L A T I O N   P A R   C O D E S                               AR12
+==============================================================================
+
+If you would like to explore the effects of population on your own, there is no 
+better way to do it than by examining the memory addresses.  This section 
+provides the locations of many relevant statistics that relate to population. 
+The following section assumes you have some minor knowledge of emulation and 
+memory editing, as no background information on these topics will be provided 
+here.
+
+
+==================
+CIVILIZATION LEVEL
+==================
+Civilization level affects the types of housing structures that can be created. 
+The higher the civilization level, the more people each house will hold.  At 
+level 3, the highest quality building will be constructed.  In the codes below, 
+XX will range from 01 (lowest) to 03 (highest).
+
+Fillmore      7E022EXX
+Bloodpool     7E0230XX
+Kasandora     7E0232XX
+Aitos         7E0234XX
+Marahna       7E0236XX
+Northwall     7E0238XX
+
+
+============
+SOUL COUNTER
+============
+Each region has a separate soul counter.  The future population is limited by 
+this number of souls.  The soul counter is represented by two bytes.  XX can 
+range from 00 to FF on each byte (no value will crash the game).  Setting the 
+first byte to 40 (64 in decimal) will be enough to allow for maximum expansion 
+in all regions.
+
+Fillmore      7F9EFAXX / 7F9EFBXX
+Bloodpool     7F9EFCXX / 7F9EFDXX
+Kasandora     7F9EFEXX / 7F9EFFXX
+Aitos         7F9F00XX / 7F9F01XX
+Marahna       7F9F02XX / 7F9F03XX
+Northwall     7F9F04XX / 7F9F05XX
+
+
+==================
+MONSTER LAIR COUNT
+==================
+These codes control the number of enemies in each monster lair.  There are four 
+lairs in every region.  Setting a lair to 00 will eliminate all the monsters in 
+that lair.  If you use these codes to eliminate all monsters in a region, you 
+must also use the Soul Counter codes above, otherwise you will never be able to 
+free enough souls to grow the town.  Each lair has two bytes that can range 
+from 00 to FF.  The game will only display up to 999 monsters in the lair if 
+the counter is over that total.  However, it will still accurately track enemy 
+counts over 999.
+
+
+                Lair 1          Lair 2          Lair 3          Lair 4
+                ======          ======          ======          ======
+Fillmore       7F96B8XX        7F96BAXX        7F96BCXX        7F96BEXX
+               7F96B9XX        7F96BBXX        7F96BDXX        7F96BFXX
+
+Bloodpool      7F96C0XX        7F96C2XX        7F96C4XX        7F96C6XX
+               7F96C1XX        7F96C3XX        7F96C5XX        7F96C7XX
+
+Kasandora      7F96C8XX        7F96CAXX        7F96CCXX        7F96CEXX
+               7F96C9XX        7F96CBXX        7F96CDXX        7F96CFXX
+
+Aitos          7F96D0XX        7F96D2XX        7F96D4XX        7F96D6XX
+               7F96D1XX        7F96D3XX        7F96D5XX        7F96D7XX
+
+Marahna        7F96D8XX        7F96DAXX        7F96DCXX        7F96DEXX
+               7F96D9XX        7F96DBXX        7F96DDXX        7F96DFXX
+
+Northwall      7F96E0XX        7F96E2XX        7F96E4XX        7F96E6XX
+               7F96E1XX        7F96E3XX        7F96E5XX        7F96E7XX
+
+
+==============================================================================
+C O N T A C T   I N F O R M A T I O N                                     AR13
+==============================================================================
+
+Thank you for taking the time to read through this guide.  I hope you found it 
+informative and useful in your adventures through Actraiser.  If you have any 
+comments on the guide, whether they be corrections, suggestions for future 
+revisions, spelling/grammar mistakes, formatting problems, additional 
+strategies, or any other type of feedback, please let me know.  Anything 
+contributed will be credited in detail to the sender.
+
+I can be reached at the following email address: Admiral1018@yahoo.com.  Please 
+include "Actraiser" or something along those lines in the email subject heading 
+if you can, so I don't accidentally delete the email.  I no longer check this 
+account regularly (so please don't be offended if you do not receive an 
+immediate response), but I can assure you that every email is read carefully.  
+In fact, reader feedback was the primary reason for this latest revision.
+
+
+==============================================================================
+R E V I S I O N   H I S T O R Y                                           AR14
+==============================================================================
+
+Version 0.99 -- March 13, 2007
+  - Preview Version
+
+Version 1.0 -- March 14, 2007
+  - Initial Release
+
+Version 1.1 -- July 6, 2007
+  - Added specific locations of houses built by phantom construction
+  - Added additional information on finding the desert wanderer in Kasandora
+  - Clarified tips 2 and 3 in the General Strategies section
+  - Reformatted Examples to stand out from descriptive text
+  - Edited various sections for improved readability
+  - Fixed minor spelling, grammar, and formatting issues
+
+Version 1.2 -- August 6, 2007
+  - Corrected populations for Bloodpool and Kasandora in first section 
+
+Version 1.3 -- December 14, 2018
+  - Added the section "The Inaccessible Squares," which details 5 additional
+    squares that can hold houses but are inaccessible because of the game's
+    building direction cursor limits
+  - Clarified that the maximum population can still be reached in Fillmore
+    with 2 bridges
+  - Added a subsection under "Factors Limiting Population" listing the points
+    required to maximize a region's population after Act 1 alone
+  - Added a tip for earning points in Act 1 of Fillmore and noted the time for
+    enemies to respawn
+  - Changed the description of "mansions" to "factories" based on their
+    description in the game's instruction manual (page 31)
+  - Changed the wording of some sections to be clearer and less technical
+  - Enumerated the main body sections
+  - Fixed minor spelling, grammar, and formatting issues
+
+
+==============================================================================
+C R E D I T S                                                             AR15
+==============================================================================
+
+Big thanks to everyone who helped and inspired me with this guide, especially 
+the members at the GameFAQs Actraiser message boards -- this guide would not 
+have been possible without your encouragement.  If I have accidentally omitted 
+your name from this section, please feel free to contact me and I will include 
+you immediately.  Special thanks to the following people:
+
+- flamingspinach (genesisreality@genesisreality.dyndns.org): You PAR codes
+  guide was a helpful resource during the creation of this guide.  You saved
+  me the hassle of having to record all those codes, which was very useful.
+
+- acote80: Thank you for creating the initial topic that sparked my interest
+  in this topic again.  It was your posts on populations in Fillmore and
+  Bloodpool that ultimately began my research.
+
+- Zidanax (zidanax@gmail.com): For some spelling and grammar corrections.
+
+- Scott Colcord: Emailing me about too many wheat fields stalling growth in
+  Kasandora.
+
+- Jason Hildebrand: Suggesting that I split out points needed to maximize
+  population in Act 1, which was a good idea.
+
+- Other members of the GameFAQS Actraiser board who contributed to this topic,
+  especially: -_-ShockWave-_-, _Kaz, arby64, AR788, comicfire,
+  DarkstarRipclaw, DragonAtma, Evil Peer, Hasukawa Kazuyaa, Rec_rm, shinren27,
+  SurvivorDude, zeldadude
+
+- Everyone else for taking the time to read this guide and giving me feedback
+  on it.  I really appreciate your help.
+
+================================END OF GUIDE==================================
+
+

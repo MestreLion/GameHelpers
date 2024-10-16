@@ -2,6 +2,31 @@ https://en.reddit.com/r/foshelter/comments/4tgmk1/faq_please_read_this_before_po
 https://github.com/therabidsquirel/The-Fallout-Shelter-FAQ/
 
 
+WEAPONS
+-------------------------------------------------------------------------------
+Best weapons to craft, in order of early to late game
+
+Common
+------
+- P?: Laser Pistol [7]
+	Scoped
+- S?: (Enhanced) Sawed-off shotgun [6-8]
+
+Rare
+----
+- (S?) Railway Rifle
+- P: (Rusty) Plasma Rifle [17-?] / [17-?]
+	Clock
+	Globe:
+		Hardened B.B. Gun
+		Double-Barrel Shortgun
+		Combat Shotgun
+	Microscope:
+		(Hardened) Armor-Piercing Scoped .44
+		Flamer
+- S: Tactical Junk Jet [15-?]
+
+
 SPECIAL
 -------------------------------------------------------------------------------
 https://fallout.fandom.com/wiki/Fallout_Shelter_SPECIAL
@@ -17,13 +42,18 @@ https://fallout.fandom.com/wiki/Fallout_Shelter_SPECIAL
 	- For Legendary Gear:
 		- Max ECL +7 Luck outfit
 		- Min SPIA (min A might not be viable due to Random Encounters)
-- Quests: AL,P
+- Quests (and Random Encounters): A,L,P
+	A: Attack frequency (DPS = A * Weapon), NOT critical frequency!
+	L: Critical shot frequency. NOT junk or loot! (possibly caps)
+	P: Critical shot target multiplier mini-game speed (NOT its frequency!)
+
 
 Relevant Encounters
 -------------------------------------------------------------------------------
 Cabin Fever: "Pretend not to see" = Aboid fight (same prize, but miss loot bodies)
 Hop on the Roach Coach: "You could always come to our Vault" = +1 dweller (Wes Englund)
 A Nice Ghoul like you (testy ghouls): "Ionizing Radiation" = Prize
+Super-Duper Trooper: Stand-off: Safer with you / Killed them for you
 
 MULTI-SHOT
 -------------------------------------------------------------------------
